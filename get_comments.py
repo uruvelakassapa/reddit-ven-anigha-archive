@@ -98,9 +98,17 @@ def save_comments_to_db(comments):
 
     # Insert data into submissions and comments tables
     for submission_id, submission_data in comments.items():
-        # Insert into submissions table
+        # Upsert into submissions table
         c.execute('''
-        INSERT OR IGNORE INTO submissions (id, title, body, author, created_at, link, subreddit) VALUES (?, ?, ?, ?, ?, ?, ?)
+        INSERT INTO submissions (id, title, body, author, created_at, link, subreddit)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
+        ON CONFLICT(id) DO UPDATE SET
+            title=excluded.title,
+            body=excluded.body,
+            author=excluded.author,
+            created_at=excluded.created_at,
+            link=excluded.link,
+            subreddit=excluded.subreddit
         ''', (
             submission_id,
             submission_data['title'],
@@ -111,7 +119,7 @@ def save_comments_to_db(comments):
             submission_data['subreddit']
         ))
 
-        # Insert into comments table
+        # Upsert into comments table
         for comment in submission_data['comments']:
             if comment.is_root:
                 parent_comment = None
@@ -122,7 +130,15 @@ def save_comments_to_db(comments):
                 if comm:
                     parent_id = comm.parent_id[3:] if not comm.is_root else None
                     c.execute('''
-                    INSERT OR IGNORE INTO comments (id, submission_id, author, created_utc, parent_id, permalink, comment_body) VALUES (?, ?, ?, ?, ?, ?, ?)
+                    INSERT INTO comments (id, submission_id, author, created_utc, parent_id, permalink, comment_body)
+                    VALUES (?, ?, ?, ?, ?, ?, ?)
+                    ON CONFLICT(id) DO UPDATE SET
+                        submission_id=excluded.submission_id,
+                        author=excluded.author,
+                        created_utc=excluded.created_utc,
+                        parent_id=excluded.parent_id,
+                        permalink=excluded.permalink,
+                        comment_body=excluded.comment_body
                     ''', (
                         comm.id,
                         submission_id,
