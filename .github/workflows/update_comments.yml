@@ -18,6 +18,7 @@ jobs:
       with:
         name: reddit-comments-db
         path: ${{ runner.temp }}/sqlite
+      continue-on-error: true  # Continue even if the artifact is not found
 
     - name: Check if the database was downloaded
       id: db-check
@@ -42,7 +43,7 @@ jobs:
     - name: Initialize a new database if it doesn't exist
       if: env.db_exists == 'false'
       run: |
-        echo "Initializing new database..."
+        echo "No existing database found. Initializing new database..."
         sqlite3 reddit_comments.db "VACUUM;"  # This creates a new empty database file
 
     - name: Run the Reddit comments script
