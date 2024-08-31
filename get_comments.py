@@ -198,10 +198,14 @@ def save_comments_to_db(comments):
 
 
 def get_latest_comment_id():
-    c = conn.cursor()
-    c.execute('SELECT id FROM comments ORDER BY created_utc DESC LIMIT 1')
-    latest_comment = c.fetchone()
-    return latest_comment[0] if latest_comment else None
+    try:
+        c = conn.cursor()
+        c.execute('SELECT id FROM comments ORDER BY created_utc DESC LIMIT 1')
+        latest_comment = c.fetchone()
+        return latest_comment[0] if latest_comment else None
+    except sqlite3.OperationalError:
+        # This will catch errors like 'no such table: comments'
+        return None
 
 def main():
     username = os.getenv('TARGET_USERNAME')  # Load target username from environment variable
