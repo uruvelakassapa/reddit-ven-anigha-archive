@@ -20,16 +20,6 @@ jobs:
         path: ${{ runner.temp }}/sqlite
       continue-on-error: true  # Continue even if the artifact is not found
 
-    - name: Check if the database was downloaded
-      id: db-check
-      run: |
-        if [ -f ${{ runner.temp }}/sqlite/reddit_comments.db ]; then
-          echo "db_exists=true" >> $GITHUB_ENV
-          cp ${{ runner.temp }}/sqlite/reddit_comments.db .
-        else
-          echo "db_exists=false" >> $GITHUB_ENV
-        fi
-
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -39,12 +29,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install praw python-dotenv tqdm
-
-    - name: Initialize a new database if it doesn't exist
-      if: env.db_exists == 'false'
-      run: |
-        echo "No existing database found. Initializing new database..."
-        sqlite3 reddit_comments.db "VACUUM;"  # This creates a new empty database file
 
     - name: Run the Reddit comments script
       env:
