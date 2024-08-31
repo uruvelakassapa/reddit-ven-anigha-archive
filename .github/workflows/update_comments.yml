@@ -55,7 +55,7 @@ jobs:
         LIMIT: ${{ secrets.LIMIT }}
         TILL_LAST_COMMENT: true  # Adjust based on whether you want to fetch since the last comment
       run: |
-        python script.py  # Replace with your script filename
+        python get_comments.py  # Replace with your script filename
 
     - name: Check if markdown file exists
       id: markdown_check
