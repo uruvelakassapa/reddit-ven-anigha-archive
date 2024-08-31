@@ -24,6 +24,8 @@ def fetch_user_comments(username, till_comment_id=None):  # None will get entire
     comments_by_submission = {}
 
     for comment in tqdm(user.comments.new(limit=LIMIT)):
+        if comment.id == till_comment_id:
+            break
         submission_id = comment.submission.id
         if submission_id not in comments_by_submission:
             submission = comment.submission
@@ -37,8 +39,7 @@ def fetch_user_comments(username, till_comment_id=None):  # None will get entire
                 'comments': []
             }
         comments_by_submission[submission_id]['comments'].append(comment)
-        if comment.id == till_comment_id:
-            break
+
 
     return comments_by_submission
 
@@ -46,7 +47,7 @@ def format_comment(comment):
     formatted_comment = f"**Comment by /u/{comment.author}**:\n\n{comment.body}\n\n"
     return formatted_comment
 
-def save_comments_to_markdown(filename='user_comments.md'):
+def save_comments_to_markdown(filename='ven_anigha_reddit_archive.md'):
     c = conn.cursor()
     with open(filename, 'w', encoding='utf-8') as file:
         c.execute('SELECT * FROM submissions ORDER BY created_at DESC')
@@ -112,7 +113,7 @@ def create_nested_structure(threads, file_obj):
 def save_comments_to_db(comments):
     c = conn.cursor()
 
-    # Create submissions table
+    # Create submissions table with updated_at field
     c.execute('''
     CREATE TABLE IF NOT EXISTS submissions (
         id TEXT PRIMARY KEY,
@@ -121,11 +122,12 @@ def save_comments_to_db(comments):
         author TEXT,
         created_at REAL,
         link TEXT,
-        subreddit TEXT
+        subreddit TEXT,
+        updated_at REAL
     )
     ''')
 
-    # Create comments table with additional fields and foreign key constraint
+    # Create comments table with updated_at field
     c.execute('''
     CREATE TABLE IF NOT EXISTS comments (
         id TEXT PRIMARY KEY,
@@ -135,6 +137,7 @@ def save_comments_to_db(comments):
         parent_id TEXT,
         permalink TEXT,
         comment_body TEXT,
+        updated_at REAL,
         FOREIGN KEY (submission_id) REFERENCES submissions (id),
         FOREIGN KEY (parent_id) REFERENCES comments (id)
     )
@@ -144,15 +147,16 @@ def save_comments_to_db(comments):
     for submission_id, submission_data in comments.items():
         # Upsert into submissions table
         c.execute('''
-        INSERT INTO submissions (id, title, body, author, created_at, link, subreddit)
-        VALUES (?, ?, ?, ?, ?, ?, ?)
+        INSERT INTO submissions (id, title, body, author, created_at, link, subreddit, updated_at)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(id) DO UPDATE SET
             title=excluded.title,
             body=excluded.body,
             author=excluded.author,
             created_at=excluded.created_at,
             link=excluded.link,
-            subreddit=excluded.subreddit
+            subreddit=excluded.subreddit,
+            updated_at=excluded.updated_at
         ''', (
             submission_id,
             submission_data['title'],
@@ -160,53 +164,63 @@ def save_comments_to_db(comments):
             submission_data['author'],
             submission_data['created_at'],
             submission_data['link'],
-            submission_data['subreddit']
+            submission_data['subreddit'],
+            datetime.datetime.now().timestamp()  # Update the updated_at field with the current timestamp
         ))
 
         # Upsert into comments table
         for comment in submission_data['comments']:
-            if comment.is_root:
-                parent_comment = None
-            else:
-                parent_id = comment.parent_id[3:] if not comment.is_root else None
-                parent_comment = reddit.comment(parent_id)
-            for comm in [comment, parent_comment]:
-                if comm:
-                    parent_id = comm.parent_id[3:] if not comm.is_root else None
-                    c.execute('''
-                    INSERT INTO comments (id, submission_id, author, created_utc, parent_id, permalink, comment_body)
-                    VALUES (?, ?, ?, ?, ?, ?, ?)
-                    ON CONFLICT(id) DO UPDATE SET
-                        submission_id=excluded.submission_id,
-                        author=excluded.author,
-                        created_utc=excluded.created_utc,
-                        parent_id=excluded.parent_id,
-                        permalink=excluded.permalink,
-                        comment_body=excluded.comment_body
-                    ''', (
-                        comm.id,
-                        submission_id,
-                        comm.author.name if comm.author else None,
-                        comm.created_utc,
-                        parent_id,
-                        "https://www.reddit.com" + comm.permalink,
-                        comm.body
-                    ))
+            parent_id = comment.parent_id[3:] if not comment.is_root else None
+            c.execute('''
+            INSERT INTO comments (id, submission_id, author, created_utc, parent_id, permalink, comment_body, updated_at)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            ON CONFLICT(id) DO UPDATE SET
+                submission_id=excluded.submission_id,
+                author=excluded.author,
+                created_utc=excluded.created_utc,
+                parent_id=excluded.parent_id,
+                permalink=excluded.permalink,
+                comment_body=excluded.comment_body,
+                updated_at=excluded.updated_at
+            ''', (
+                comment.id,
+                submission_id,
+                comment.author.name if comment.author else None,
+                comment.created_utc,
+                parent_id,
+                "https://www.reddit.com" + comment.permalink,
+                comment.body,
+                datetime.datetime.now().timestamp()  # Update the updated_at field with the current timestamp
+            ))
 
-    # Commit the changes and close the connection
+    # Commit the changes to the database
     conn.commit()
-    conn.close()
+
+
+def get_latest_comment_id():
+    c = conn.cursor()
+    c.execute('SELECT id FROM comments ORDER BY created_utc DESC LIMIT 1')
+    latest_comment = c.fetchone()
+    return latest_comment[0] if latest_comment else None
 
 def main():
     username = os.getenv('TARGET_USERNAME')  # Load target username from environment variable
-    comments_by_submission = fetch_user_comments(username)
-    
+    till_last_comment = os.getenv('TILL_LAST_COMMENT')
+
+    if till_last_comment:
+        last_comment_id = get_latest_comment_id()  # Get the latest comment id from the database
+        comments_by_submission = fetch_user_comments(username, till_comment_id=last_comment_id)
+    else:
+        comments_by_submission = fetch_user_comments(username)
+
     if comments_by_submission:
         save_comments_to_db(comments_by_submission)
         print(f"Markdown document and database created with comments organized by submission.")
-    else:
-        print("No comments found for the user.")
+        save_comments_to_markdown() 
 
-    save_comments_to_markdown()
+    else:
+        print(f"No new comments found for {username}.")
+
+
 if __name__ == "__main__":
     main()
