@@ -1,0 +1,63 @@
+name: Update Reddit Comments
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Runs at midnight (00:00 UTC) every Sunday
+  workflow_dispatch:  # Allows the workflow to be triggered manually
+
+jobs:
+  update_comments:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install praw python-dotenv tqdm
+
+    - name: Run the Reddit comments script
+      env:
+        CLIENT_ID: ${{ secrets.CLIENT_ID }}
+        CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+        USER_AGENT: ${{ secrets.USER_AGENT }}
+        TARGET_USERNAME: ${{ secrets.TARGET_USERNAME }}
+        LIMIT: ${{ secrets.LIMIT }}
+        TILL_LAST_COMMENT: true  # Adjust based on whether you want to fetch since the last comment
+      run: |
+        python script.py  # Replace with your script filename
+
+    - name: Check if markdown file exists
+      id: markdown_check
+      run: |
+        if [ -f user_comments.md ]; then
+          echo "markdown_exists=true" >> $GITHUB_ENV
+        else
+          echo "markdown_exists=false" >> $GITHUB_ENV
+        fi
+
+    - name: Commit and push changes if markdown file was created
+      if: env.markdown_exists == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add user_comments.md reddit_comments.db
+        git commit -m "Update Reddit comments and markdown file"
+        git push origin main
+
+    - name: Store database persistently
+      run: |
+        mkdir -p $HOME/sqlite
+        cp reddit_comments.db $HOME/sqlite/reddit_comments.db
+      # Upload database to GitHub Actions artifact storage for persistence
+      uses: actions/upload-artifact@v3
+      with:
+        name: reddit-comments-db
+        path: $HOME/sqlite/reddit_comments.db
