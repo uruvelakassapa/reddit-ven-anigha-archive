@@ -1,3 +1,184 @@
+**r/HillsideHermitage** | Posted by knwp7 _2024-09-06 13:55:16_
+### The axe-handle has finally worn out.
+
+The axe-handle has finally worn out.
+
+# WHAT?
+
+This is an attempt to summarize my journey. Knowing fully well that my axe-handle is truly worn out - by HH standards.
+
+The first radical change in my view and being was in Feb/Mar 2022. The change cemented over subsequent months. Since then and until Sep '24 I had suspected streamentry but did not try to confirm it. I did not see a point because I have lost value for labels and achievements in my personal life. In any case, I figured, I have to continue on the path with my efforts anyway. Only thing that has nagged me until June '24 has been about how much to prioritize formal meditation - and whether it was really important - because, after all, I am a house-holder with precious-little me-time. I have contemplated and tried to practice HH teachings ever since I first came across them in beginning 2022 - I had no doubt that it was an important thing to do. Meditation - I have been doing regularly since 2020 COVID lockdowns - assuming that it too was an important thing to do. I had not been able to attribute my shift in view to contemplation (HH) or meditation, or in whatever proportion.. I had not been able to clearly discern the factors leading to my fruition.
+
+# WHY?
+
+In general I do not believe that I can learn from others' stories - because karma manifestations are unique to every individual. Even when reading Dhamma material, I always skip biographical parts - even, Siddharta Gautam's. Nevertheless, a minor reason for this post is to maybe help develop conviction in those who seek inspiration from others' lives; even if only to validate that HH approach works.
+
+I am not looking for validation; I have conviction now in my fruit. HH community has helped me since 2022 - starting with essays and audio-recordings from Ajahn Nyanamoli on his website, Bhante Anigha's comments and essays, Sister Medhini's essays, yt channel of HH and Samanadipa, and the fellow beings part of this r/HH. I look forward to contemplating any points that arise in this post - like for any r/HH posts.
+
+My parents are in their 70s - and I have always prodded them to read about Dhamma, practice meditation. They have intellectual interest and have been trying to meditate. I had been wanting to send them for Vipassana. While I had myself suspected to have attained the first fruit, I have not been sure about what made it click for me - and what is the most efficient way to get my parents there. As of Sep'24 I am clear about the way that I must help them. Their time is limited - and that is the sort of urgency that led me to validate my own path up until now - and crystallize what really needs to be done. There is no time to waste in formal meditations; it is about right contemplation. I know that now.
+
+I do not hope to teach anyone - except my parents and kids. I am lazy about remembering exact things/facts; I cannot quote suttas if you ask me "where did I read that". I rely on my understanding and intuition developed thru contemplation. Even on r/HillsideHermitage  I hesitate to post my response because I only have intuitive understanding - and defending my viewpoint is not my cup of tea. IRL I do not engage in deep Dharma discussions; I keep to my own; I have had faith in me and the teachings that I can do this on my own; that there is no other real option anyway! :)
+
+I have held back from an urge to make this kind of a post in last many months - because I could not clarify my intention. "I am no teacher. "I am not going to be able to really help out someone. "Will it not be mere chest-thumping? "I still have doubts regarding my own practice." There are 2-3 draft-posts that I never posted - and then later realized that it was good I did not post because I was proven wrong since writing them. The only journal I have maintained for last 2 years is that of my spiritual thoughts, contemplation, experiences; going forward I see little need for that.
+
+(What about this post? will it end up in that journal without getting posted? I think not)
+
+While reading and following discussions on r/HillsideHermitage have been rewarding, I have not had any questions to make a post-of around my lived-experience; I have had reasonable good clarity since 2022. Of course there are hypotheticals to ponder over - but I don't engage in them. So I have had nothing to contribute, really, to r/HH - but gained a lot of insights here. My gratitude to the folks here.
+
+# BACKGROUND:
+
+I am a house-holder with one kid in college and another in middle-school. I was an atheist until 2017 when a once-in-lifetime incident forced me to existential questions (WHY ME?) - and eventually led me to Dhamma in 2018. Since the event I have had many spiritual (touching) encounters with people, animals that convinced me of our inter-connectedness. Early 2018 I had my first real intro to Buddhism in a Tibetan-Mahayana retreat. I took the first 4 precepts on that first retreat. Since then I have read commentaries, suttas, prioritized all my me-time for "practice" and retreats. My life became only more peaceful and at-ease with time. I have not had a teacher, except for the (group) retreats. I moved to Theravada readings because they were a smaller set of texts than Mahayana. Being an Indian atheist, I have always distrusted prayer, worship, rituals, guru-devotion etc. That helped me move faster, cut thru the fluff of Buddhism, on the path.
+
+# TIMELINE:
+
+Early Mar '22 I experienced complete dis-enchantment from all media. I simply stopped taking any pleasure in movies, TV-shows, music, etc. I was never into social-media anyway. End-Feb '22, during regular sitting meditations, I had gone from access-concentration to "J1" - once. I tried to regain the experience but failed; but I was not that crazy for it. I was practicing some moment-to-moment concentration too, around that time. All this, while listening and reading sutta-commentaries and contemplating.
+
+April-July of '22 - I was fortunate to find solitude and I spent time contemplating and mediating. It was not planned, but it just happened; away from family and friends.
+
+Soon, I lost fear of death, sickness, old-age; fear of seeing loved-ones getting hurt. I lost longing for company, friends, money, possessions, travel, adventure. I became dis-passionate but my life was more vibrant!
+
+Oct '22 I fell ill with a combo of Dengue + Chikv infection - painful, nearly hospitalized; it took 4-6 months to get back on my feet, to go out for a walk in the park again; it took an year to recover my formal strength. But all through the illness and its after-effects, there was no mental suffering. The second-arrow had (has) completely vanished for me, along with FOMO and regrets.
+
+The key thing I had understood in early Mar '22 was Karma and the 4NT (to some extent) - that that is the ultimate truth, and hence the only thing that matters in life. This led me to break-free from all conceptual attachments and cravings. Since then I have had no trouble keeping precept #7 perpetually. In later 2022, I also stopped keeping my journal that I had kept for 25 years - because it felt meaningless to record stuff about myself; past does not matter. The backups also do not matter anymore - emails, photos, videos, memories. In the here-and-now, none of that matters!
+
+# PRECEPTS:
+
+I have kept the 5 precepts for many years now through my adulthood. Last offenses:
+
+P1 2014 or 2015 when I drowned a captured rat. I have slapped mosquitoes to death until 2021 or so.
+
+P2 Nothing from any person that I can remember. From my corporate employer - a $100 item - in 2014
+
+P3 Never
+
+P4 Never, I think
+
+P5 2014 - I was drunk on that last occasion and I vividly remember a very over-whelming sense of restraint for my words and actions while being drunk
+
+P6 began as Intermittent Fasting (IF) in 2018 for health-reasons. Currently I generally eat only in a 4-5 hour window during the day. I do experience, and give-in to, food cravings - but I am aware of my actions. In social settings (though I avoid in general) I dont mind breaking fast. Also, I am not hung-up upon WHICH 4-5 hour-window in the day - we have a cook for the family and HER timings decide what hours I keep :)  not the noon-sun. I consume non-veg now and then; I am mindful of my consumption (and not just about food)
+
+P7 kept it since 2022 as noted above. The interest in media disappeared once I had a clear understanding of what to prioritize in my life, what was really important. This had happened earlier too - once I understood that, physically, the time-travel cannot happen backwards in time, I lost interest in all the movies with time-travel tropes! (The only kind possible is the one shown in Intersteller - IMO)
+
+I was floored watching Dune-1 in theaters - but when Dune-2 came out, I had no interest in it. The fantasies and folklores have lost meaning (and my interest) - what does it matter? I have understood what the most important thing is there to be understood; the only thing that matters. Even concepts - rebirth, bardo, realms - what do they matter - if they are not manifest in the here and now - why bother?
+
+I do watch shows/movies with kids; my Dharma-teachings to my kids are all based on the shows and movies that they watch. There are characters and situations to exemplify and teach about wholesomeness vs un-wholesomeness. Music - sometimes listen to Kabir bhajans or Sufi music that now bear very clear meaning; they are a good reminder to practice, and also, WHY do we practice.
+
+I am not the socializing-type; no need to dress-up.
+
+P8 I have been a green-minimalist since 2014. I do not have much money for luxuries - just enough for kids' education. I am content with simple-living.
+
+Solitude - I have very few friends IRL. I have almost always enjoyed solitude.
+
+# CELIBACY & VIPASSANA:
+
+I was last intimate in early 2019. But still, Celibacy has been the toughest battle. Its the fap - purely mental indulgence; not breaking #3. The longest I have kept celibacy is 3 months. That happened right after my first Goenka Vipassana retreat in Sep '23. I was thrilled upon realizing that the thoughts had "vanished" because of Vipassana; that I was no longer susceptible! The illusion was broken in 3 months - HH was right and I am still liable to be over-powered by craving - esp this particular type. I have tried to explain away the reasons - like "not enough of my past karma has been washed away" and that "more scanning" will help :)
+
+BTW, I had no trouble reaching full-body dissolution in my 1st Goenka retreat. Now I know its only because I have kept sila for a long time. I did not give much importance to experiences that arose - knowing well that I cannot get it on-demand. The lack of control over manifesting - is strongly tied to my understanding of Karma ca. 2022.
+
+I went to my second Goenka retreat in March '24 - hungering for solitude. It brought immense peace, like last time. Good vibrations too :)  But on the final night, after I had been relieved from the precepts - the fap happened. That put me in deeper self-doubt. If I were a stream-enterer (or nearly there), how come I dont have "good self-control", why do I "get angry" at times? Why can I not "keep mindfulness of body/breath 24x7"?
+
+# JHANA:
+
+June '24 I had some me-time and I started listening to Rob Burbea's Jhana instructions. I had achieved Kundalini-awakening in May '23 with those instructions. This time around, it was quite easy for me to get to J1 - or what I have discerned to be the 1st Jhana - I do not really care if it is "defined as" or "really is" J1 or not. I was/am able to get that feeling almost any time in any posture - let go of stress, mental-activity, and I breathe - and the spark is there. This is different from manifesting a pleasant state, its more like relaxing and letting-go; letting-go, not reaching-for.
+
+As of late June my '24 sitting-meditation, vipassana etc. stopped altogether - because of no solitude in early-hours. I was curious of the "withdrawl symptoms". Keeping awareness of the 5 aggregates and contemplation have continued without break all the time - as I dont need me-time/solitude for that.
+
+Finally I got curious again of my spiritual-state, started digging into Samandipa and HH videos and looking up the definition and progress thru the fetters. It made sense and this is the post about it.
+
+# CURRENT STATUS:
+
+I am ok. Nothing special to do except take on the challenges of a householder, one day at a time until the kids mature into adulthood. And then I will seek a formal teacher, solitude, jhanas, etc.
+
+Regardless, I just keep awareness of my 5 aggregates, sometimes contemplate; chop-wood-carry-water.
+
+edit: formatting
+
+edit: celibacy - last date early 2019
+
+edit: current status: I am not looking to progress to/in jhanas or in vipassana. I dont have the time in my family life - as of now. It has been very hard to make 10 days of time for retreats in a nuclear-family with kids. The retreats have always been helpful to me - but they are not "it" - thats the realization I have tried to capture in my OP.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/lltnop0/)** _2024-09-06 17:11:35_:
+
+    Since you mentioned you are open to contemplating replies to your post:
+
+    > While I had myself suspected to have attained the first fruit, I have not been sure about what made it click for me 
+
+    That's would simply not be possible if it actually were the fruit of stream entry. "Shifts of view" and "transformational insights" are just that, not stream entry, and the contemporary idea of "fruition" that's implied in the post is a misinterpretation of how the word *phala* is used in the Suttas. 
+
+    People think that a "fruition experience" is what makes one a sotāpanna, which naturally leads to this "I know it, but I can't explain it" idea.
+
+    This flies in the face of the whole reasoning behind the simile of the axe handle: you can't not know what caused the axe handle to wear away if you actually wore it away, because it would've been you yourself, with your own hands, grabbing it and swinging it millions of times. In that timespan, there would be dozens of "shifts" and "insights" even more profound than what you describe, and none of them are *sotāpatti* yet.
+
+    >But all through the illness and its after-effects, there was no mental suffering. The second-arrow had (has) completely vanished for me
+
+    That doesn't mean the second arrow has vanished. That's a common point of confusion. It simply means that, probably due to the mental fortitude and stability created by your virtue and restraint, and maybe some degree of innate toughness, *there was no arrow to begin with*. Freedom from the second arrow is way more profound than that: it's not being touched by *arisen* mental suffering, regardless of how intense it is.
+
+---
+
+**r/HillsideHermitage** | Posted by Handsome_God123 _2024-09-05 08:29:19_
+### I Still Don't Understand about Sotapanna
+
+Hi brothers and sisters in dhamma. Sometime ago another member of this subreddit made a post about the suffering of Sotapnna, I read the thread and I saw how Bhikku Anigha gave very interesting answer and it leads to me having more question.
+
+>
+
+So, **in comparison** to one's *puthujjana* state (since you can only ever speak in relative terms; there is no unit of measurement for feelings), a *sotāpanna* feels effectively nothing, because that ever-present second arrow that was always 99% of all the suffering the *puthujjana* experienced is completely gone. The first arrow is nothing compared to that. And, as some Suttas say, Nibbāna is where nothing is felt, and *that* is pleasant.
+
+>...............................  
+And yes, adding just "seven grains" to the experience of an Arahant is enough to be able to cry like Ānanda, and to be overwhelmed with sexual desire like Vaṅgīsa. Still, experientially speaking, although it might look the same externally, that *is* effectively nothing compared to the suffering of a puthujjana. Even in those absolute rock-bottom moments, it's all just the first arrow.
+
+Bhikku Anigha said this, but also, in different answer he said this.
+
+> That's why many *sotāpannas* in the Suttas could become quite heedless, to the point that, on top of not ordaining, they would continue to lead a normal householder's life and not be celibate.
+
+I am wondering, if Sotpanna's 2nd arrow is 99 percent gone, how can they not be automatically celibate?? Doesn't the absence of second arrow means they wouldnt have the craving to "scratch the itch" in lots of types of pleasure, and also mean they should be automatically celibate??
+
+I hope Bhikku Anigha can give answers, and you guys who are more experienced can also give me your opinion.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1f9hffn/i_still_dont_understand_about_sotapanna/llnvrup/)** _2024-09-05 17:51:09_:
+
+    >Doesn't the absence of second arrow means they wouldnt have the craving to "scratch the itch" in lots of types of pleasure, and also mean they should be automatically celibate??
+
+    It means that they're incapable of experiencing the "itch" in the way a puthujjana does, but it doesn't mean that they will never scratch it.
+
+    As the Arrow Sutta says, the puthujjana knows no other escape from pain than sensual pleasure—any pleasure that is bound with attachment and depends on circumstances, and that includes things like career, friends, hobbies, and also meditation for most people—which means that for him, scratching an arisen sensual itch is a matter of existential importance. Not doing so automatically means being crushed by his own mind. He might become skilled at *preventing the itch from arising* (which is what is commonly regarded as "meditation"), but if and when it arises, he's completely cornered.
+
+    A noble disciple, since he does understand the true escape from all suffering, would engage in sensuality simply out of habit and laziness. He would not be troubled if he had no access to sensual pleasure when the itch arises.
+
+    Because of that, that itch can never have the threatening, commanding quality that it has for the puthujjana, even if it gets quite intense at times and he gives in to it.
+
+    Also, owing to his understanding of all craving as suffering, a sotāpanna can't possibly hold the view that sensuality is somehow beneficial, acceptable, justified, or excusable, regardless of the circumstances. When he does give in to it, it's out of pure weakness. 
+
+    But a puthujjana is able to—and most often will—hold the view that engaging in sensuality *can* be beneficial because he doesn't see the danger in it, let alone in *upādāna* generally.
+
+---
+
+**r/HillsideHermitage** | Posted by plucesiar _2024-09-03 20:09:58_
+### To what extent should "I" assume responsibility for phenomena arising in my experience?
+
+When I can sense my mind in an unwholesome state (e.g., lust, anger, laziness, and so on), to what extent should I assume responsibility for causing to arise vs perceiving it as "un-ownable"?  Or perhaps is responsibility for vs un-ownable different things, or is this altogether a wrong line of questioning?
+
+For example, suppose lust arises in the mind.  Even though I have been practicing/guarding my sense doors, its having arisen could be due to
+
+1. just the natural remnants of an untrained mind becoming more tame,
+2. I haven't been guarding my senses careful enough,
+3. I still see value in sensuality, or
+4. some other causal factor I haven't figured out yet.
+
+It seems to me that option #1 should assumed only if all of the other options have not be thoroughly investigated and confirmed to not be the cause.
+
+On a meta level, I'm also trying to reconcile "I am the owner of my actions" (kammassakomhi) with avoiding the wrong view of ownership over one's senses (more specifically, the contents of one's sensory experience).  Apologies in advance if I have butchered the paraphrasing.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1f89y5q/to_what_extent_should_i_assume_responsibility_for/llgm0qi/)** _2024-09-04 13:07:55_:
+
+    Whenever you intentionally break a precept or fail to exercise restraint, that in itself should be regarded as an act of taking ownership of your experience. The emphasis should be on preventing the transgression from recurring, not in trying to wriggle out of the remorse by re-framing it in light of the "Dhamma" of not-self, etc. [The sense of shame and fear of wrongdoing is the precursor to wholesome states](https://suttas.hillsidehermitage.org/?q=an10.105).
+
+    Although virtue alone is not the Dhamma, there cannot be Dhamma (non-ownership) apart from virtue.
+
+    But if you know that you have been restrained and keeping your precepts, you are alone in seclusion, and aren’t doing anything unwholesome at the time, *then* you are in a position to try to understand what is left over as not yours.
+
+---
+
 **r/HillsideHermitage** | Posted by noobknoob _2024-08-27 15:29:42_
 ### Do we have control over "wanting of the wanting"?
 
