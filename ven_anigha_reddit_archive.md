@@ -1,3 +1,203 @@
+**r/HillsideHermitage** | Posted by sallekha _2024-09-14 02:24:39_
+### Who are the ariyasāvakas?
+
+Hello everyone, is there any conclusive interpretation of what ariyasāvaka means in the suttas?
+Is there a meaningful distinction to be made with sutavā ariyasāvaka? Or has there been some sort of study on the ways these phrases are used?
+
+It does seem to make a meaningful difference in interpretation: (learned) disciple of the noble ones has very different implications than (learned) noble disciple. 
+
+Thank you for any light you could shed on this. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fgc0ir/who_are_the_ariyasāvakas/ln23bf1/)** _2024-09-14 08:46:56_:
+
+    In contexts where it’s just "*ariyasāvaka",* and not *sutavā ariyasāvaka* contrasted with *assutavā* *puthujjana*, it’s technically possible for it to mean anyone who is devoted to the Buddha’s teaching (e.g., AN 7.69). Accordingly, such instances don’t explicitly attribute any significant insight or development to the *ariyasāvaka* simply by virtue of being one.
+
+    But whenever *sutavā ariyasāvaka* is contrasted with *assutavā puthujjana*, [e.g., the Arrow Sutta](https://suttas.hillsidehermitage.org/?q=sn36.6), it’s a categorical divide between the 8 types of noble individuals and everyone else. Hence it’s said that the former is skilled and trained in the teaching of the noble ones, while the latter isn’t.
+
+    Part of the confusion is also due to the fact that when the Buddha was alive, being wholeheartedly devoted to his teaching very often would’ve meant being at least a faith-follower, and so these two "types" of *ariyasāvaka* would’ve overlapped almost totally. There was little to no room for misinterpretation or counterfeits.
+
+    Today, however, much what is presented as the Buddha’s teachings[ bears only a very superficial resemblance](https://suttacentral.net/sn16.13/en/bodhi?lang=en&reference=main&highlight=false), if any, to what’s found in the Suttas, so even the deepest devotion to what the majority of Buddhists regard as true Dhamma would not make one a faith-follower.
+
+---
+
+**r/HillsideHermitage** | Posted by dhamma_ _2024-09-13 01:50:00_
+### Seeing things as things 
+
+All things stand on equal footing, that is to say they are manifest. What ever is does not reach beyond that. What ever seems otherwise is not seen in its nature rather it's content is taken to be that which it implies.
+
+For some time I have been trying to understand yoniso manasikara yet whatever attempt I made it was just another liner investigation assuming what is to be understood is at the end of that investigation. Overlooking what is and what could not be otherwise is already right here.
+
+I am wondering is this what is meant by "seeing a thing as a thing" phenomenology or yoniso manasikara?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ffjccw/seeing_things_as_things/lmvl8l7/)** _2024-09-13 03:46:20_:
+
+    >I am wondering is this what is meant by "seeing a thing as a thing" phenomenology or yoniso manasikara?
+
+    Yes. The key is that it needs to be applied to the things that you are attached to and regard as "special", such as your sense of self, people and things who are dear to you, views that you hold, feelings that you want to keep enduring, ambitions, etc. Those are the things that your mind *doesn’t want* to treat as things, but as somehow "more" than that, because then their impermanence (and thus suffering) becomes apparent.
+
+    On the other hand, the mind has no problem acknowledging random sense objects as just things, so contemplating that is of no real use.
+
+---
+
+**r/HillsideHermitage** | Posted by None _2024-09-13 00:23:34_
+### Is this enough to make any eventual headway in renunciation?
+
+I posted yesterday about my long standing addiction to distraction (watching videos online) and lying in bed for hours. Today after coming home from work, I decided I would make myself do things in order to not fall into the "I'm so tired from work and all I can do is lie down now" trap again. So, I took a shower and did some cleaning. 
+
+I still ended up watching internet videos, but did not allow myself to do so while lying in bed, but only while I was cleaning and sitting on the floor. I was thinking that I can try to make gradual changes to eventually break the behavior pattern I feel stuck in, and my first step could be to not lie down in bed except for when I am going to sleep in the evening. I also will not watch any shows while I'm in bed.
+
+Is this too small of a step to even be counted as moving in the right direction? I sort of feel like I'm just negotiating with the addiction, but I also am finding it super uncomfortable to really consider just stopping cold turkey. I realize how much I've become attached to the pacification of the videos and the way that they consume my time so I don't have to feel very uncomfortable or bored.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ffhnsn/is_this_enough_to_make_any_eventual_headway_in/lmvkdzm/)** _2024-09-13 03:39:43_:
+
+    There are apps for computers and smartphones that allow you to set a block on certain websites. You could try that.
+
+    It will be unpleasant for sure, but that’s when all the teachings of the Suttas cease to be abstract information, and become presently applicable. That’s when you have to start contemplating the danger in sensuality, the lack of satisfaction, how fruitless every instance of indulgence in the past has been, the goal of peace and enlightenment that all of these habits are obstructing, etc. These contemplations won’t be a magic fix, but if you persist in them *within the unconditional renunciation,* at some point in time the mind will have to start listening. But if you let it have what it wants, you have to restart the taming all over again. Just like a wild animal.
+
+---
+
+**r/HillsideHermitage** | Posted by None _2024-09-12 01:43:45_
+### Feeling tired as an excuse
+
+I've been in this pattern now for maybe a year or more, where I feel exhausted and then I just basically become really lazy and give up on my intentions of practicing renunciation. This is in regards to over indulging in sleep or relaxation (like just laying around basically) and that leads to entertainment. I suppose I realize that the only way to get out of this pattern is to stop playing it out every time the tiredness or exhaustion arises, but it's like a whole chain or set of behaviors that seem to just play out.
+
+ I'm sure there is a moment there when I decide to give in, because I often am aware of that moment. But even though it looks like a choice to give in or not give in, it always \*feels\* impossible not to give in when I'm in that moment. Afterwards, I think oh I shouldn't have given in again.  And beforehand I think, when I feel tired later, I will not give in this time. But... I always do. 
+
+I feel like I've made zero progress on the path for a long time, and sort of don't know what to do in order to progress more anyway. I keep the 5 precepts, I am committed to celibacy for life and am making really good progress with refraining from masturbation, which when I first decided to be celibate for life, I was masturbating almost weekly. But that is no longer the case, and even though desires come up now and then, I am much more able to refrain from acting on them. (I'm sorry if that is too much personal information).
+
+  
+I used to meditate a lot and every day. But I have stopped for a while because of doubt. Doubt in the methods, doubt in my ability, doubt that I am doing something beneficial when I meditate, and doubt that it will actually lead anywhere beyond a temporary good feeling while I'm doing it and shortly after. 
+
+The path seems very hard now. I see my main work as developing more in renunciation, but I feel like I'm not good at it, and am probably lying to myself often about how committed I truly am. I also want there to be more than the practice of refraining from things and restraining my senses. I want the calm and pleasant and sometimes intense experiences that meditation brings. But I struggle to really maintain a regular practice for the same reason that I struggle to keep to renunciation and the 8 precepts... I just get very tired and decide to lay around instead. I would like some advice on how to move forward so I don't just die with this being the farthest I've gotten on the path. I'm tired of vacillating between decisions (meditation or no meditation, one method or the other, working to keep the 8 precepts or not push that hard yet).
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fer47p/feeling_tired_as_an_excuse/lmr16ov/)** _2024-09-12 11:40:02_:
+
+    >I'm sure there is a moment there when I decide to give in, because I often am aware of that moment. But even though it looks like a choice to give in or not give in, it always \*feels\* impossible not to give in when I'm in that moment.
+
+    That’s quite a common pattern, and it always has the same cause: you have been making careless choices in the recent past that have made your mind incline more strongly towards further carelessness. There is not much that you can really do at that moment except dig in your heels and not give in. The aim should be to not end up in that situation *in the first place,* and you do so by being even more watchful of your choices the next time, long before such coarse tendencies towards unwholesomeness arise.
+
+    You mentioned the five precepts and celibacy, but are you fully restrained from all forms of distraction and entertainment? If not, that would explain the issue.
+
+    >Doubt in the methods, doubt in my ability, doubt that I am doing something beneficial when I meditate, and doubt that it will actually lead anywhere beyond a temporary good feeling while I'm doing it and shortly after.
+
+    That’s good. You should start seeing value in taming your mind, not in drugging it temporarily.
+
+    >. I also want there to be more than the practice of refraining from things and restraining my senses. I want the calm and pleasant and sometimes intense experiences that meditation brings.
+
+    That’s a false dichotomy.[ As the Suttas often show](https://suttas.hillsidehermitage.org/?q=sn35.97#sn35.97:2.2-sn35.97:2.19), the right calm and joy is born out of nothing other than successful restraint. The caveat is that successful restraint requires discernment of one’s intentions, and it cannot be achieved by simply following somebody else’s instructions. Apart from the precepts, which are unconditional, you need to see for yourself what is rooted in defilements *for you* at any given time, even at the level of mental choices.
+
+    Also, the emphasis should not be in what extraordinary experiences the practice will give rise to, but in freeing yourself from all craving (which is the right type of pleasure).  The orgasmic experiences that most people think are *samādhi* and *jhāna* have nothing to do with what the Buddha taught, which always centers around dispassion and relinquishment.
+
+---
+
+**r/HillsideHermitage** | Posted by upasakatrainee _2024-09-11 12:34:10_
+### Provoking the right anxiety
+
+u/Bhikkhu_Anigha
+
+Hello Bhante,
+
+With the gradual upgradation of virtue, and tightening of restraint - and provoking the right anxiety of the impermanence of practically everything - there has been a cloud of unease thickly permeating everyday experience.
+
+As my practice has involved extended periods of dwelling in solitude, with little to no distraction - there is a heightened sense that there is 'nowhere to run to' to escape this. I know there are things I could do to 'take my mind off it', but it is amply clear to me that doing so is unjustified and senseless. I don't experience a pressing desire to make it go away (have got quite used to it being a periodic occurance), but there isn't a nonchalant ease in staying with it either.
+
+So for the past many days, there has been this 'stewing' in a general anxious unease / nervous energy - that anything can give at any point; and literally no-one can be safely depended on. The profound weight of the factual loneliness of every individual, has been bearing down on me.
+
+I was reading Ajahn Chah's account in *Stillness Flowing,* where he describes a certain experience
+
+>Then, after a while, I started to weep. It just happened by itself. Tears started to roll down my face. Before that I’d been thinking how like an orphan I was, sitting there shivering in the middle of the pouring rain. I thought that probably none of the people happily asleep in their houses would imagine that there was a monk sitting out here in the rain all night; they were probably snuggling up in their warm blankets. ‘And here I am, sitting here, soaked to the skin – what’s it all about?’ As I started dwelling on those thoughts a sense of the sorrowfulness of my life arose, and I began to cry. The tears were streaming down: ‘That’s alright, it’s bad stuff. Let it all run out until there’s none left.’ That’s what practice is.
+
+As I was reading, I could very closely relate to what he meant - and there was a spontaneous outpouring of tears in me, at the thought of what Ajahn must've been through, and at my own present state.
+
+I wonder if there is something you might say regarding tuning my practice, to 'deal' with these circumstances in the right manner.
+
+Thanks in advance !
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fe8zqo/provoking_the_right_anxiety/lmlo1sm/)** _2024-09-11 13:31:02_:
+
+    There isn’t really anything special that you need to do.
+
+    > I know there are things I could do to 'take my mind off it', but it is amply clear to me that doing so is unjustified and senseless.
+
+    Keep making sure that you act in line with that clarity.
+
+    The goal is not to make any of that anxiety and displeasure go away, but to fully understand, *while it is there*, that that’s not what suffering is. Then, the anxiety "remains", but when you’re no longer trying to wriggle out of it, it’s not anxiety anymore, and it’s not unpleasant. It’s just the inherent, inescapable uncertainty of existence.
+
+    That’s what the Buddha meant with neutral feeling being unpleasant if not understood.
+
+---
+
+**r/HillsideHermitage** | Posted by hotoke_follower _2024-09-11 11:46:02_
+### Question about Phassa
+
+[removed]
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fe83hq/question_about_phassa/lmln5hb/)** _2024-09-11 13:25:28_:
+
+    >So, if craving ceases, does phassa just become "contact" because there is no longer a self that is pressured by it?
+
+    There is a reason why the Buddha made no concessions, and instead of saying something along the lines of "X experience of a puthujjana becomes Y in the Arahant", he instead said that all of those things, including consciousness and all the other aggregates, *cease* when ignorance ceases. That’s because one cannot even abstractly imagine what Arahantship is like (accurately) while still being a puthujjana. Nibbāna is the cessation of a puthujjana’s entire existence.
+
+---
+
+**r/HillsideHermitage** | Posted by None _2024-09-10 01:39:59_
+### Teachings of Thanissaro Bhikkhu
+
+I often listen to dhamma talks by Thanissaro Bhikkhu and I have practiced his meditation methods in the past (though not regularly). Does he stay pretty consistent with the suttas when he speaks about Dhamma? I have only just begun reading the suttas on my own, and have to admit that they are difficult to understand unless I spend additional time finding online talks explaining them afterwards.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fd6gcy/teachings_of_thanissaro_bhikkhu/lmei17t/)** _2024-09-10 06:46:11_:
+
+    >Does he stay pretty consistent with the suttas when he speaks about Dhamma?
+
+    Only on rather superficial, theoretical points, and not when it comes to the actual practice.
+
+    >and have to admit that they are difficult to understand
+
+    That happens mainly due to lack of development on one's part. The main basis for understanding them rightly is not someone else's explanations, but adopting the lifestyle and values that they put forward.
+
+---
+
+**r/HillsideHermitage** | Posted by None _2024-09-08 15:11:34_
+### Can I please get some honest feedback on something I likely am not seeing clearly?
+
+This has to do with the 6th precept and observing it "to the letter" vs "in spirit" and I'm sorry but it's a long post:
+
+I had an eating disorder (anorexia) for over ten years but have stopped engaging in it for a little over two years now. But when I try and observe the 6th precept as eating only before noon, and I get hungry in the evening, I begin to notice what are like echoes or a return of that old disordered process coming back up (as in similar thought patterns are present). It seems like unnecessary restriction for the sake of following a rule. Most of the eating disorder was comprised of obsession with following rules that I would set for myself around food, and then a great deal of anxiety, remorse, fear, and self-loathing if I broke the rules. I also would use the feeling of hunger and the act of not alleviating it as a way to punish myself, and at other times as a way to cope with anxiety and anger.
+
+I don't have this inner struggle when I'm staying at a monastery and keeping the 6th precept, because I'm in an environment where food is just not available in the evening. So I know it isn't the hunger that is triggering the aversion, rather it's the fact that I feel hungry, I have food available, but am not allowing myself to relieve that hunger. Everything in my mind tells me in that moment that what I'm doing is self-destructive and wrong. 
+
+I have never seen a mental health professional, but I stopped engaging with the eating disorder on my own because over time the things that motivated me to do it were not present anymore. Mostly, the high level of anxiety and self-hatred are no longer present in my mind. I also saw how what I believed to be a solution to a problem was in fact just another problem. When I was undertaking a lot of vipassana practice, I sat down to meditate one day and a thought of "look what you are doing to yourself" came up  and  I started breaking down crying wondering how I could be hurting myself so much for so long. Since that time, it's as if my mind just completely let go of the disorder and could never again pick it back up.
+
+This brings me back to what I currently struggle with in regards to considering how I observe moderation in eating. I believe that eating only when I am trying to alleviate hunger would be the most clear-cut approach. Eating out of craving for a taste or experience, would not be moderation in eating, but indulgence in sense pleasure. But actively setting up the conditions for myself to experience prolonged hunger and intentionally not alleviating that hunger, causes me to recoil and there's something like a psychological block that is not allowing me to do this. I also see the cut off time as rather arbitrary and my desire to observe it as possibly an over attachment to a rule. 
+
+Then, there are also thoughts that arise around this like, "other people are able to fast but I can't because I'm too weak" or "I used to be better at going hungry, but now I can't therefore I'm not as good as I used to be" - these types of ego-driven thoughts are also reminiscent of my eating disorder and I do not want to be entertaining them or giving into them, all for the sake of checking a box and saying, "yes I can keep the 8 precepts."
+
+I'm asking if it seems like there is something going on that I should be trying to see and work out by allowing myself to be hungry in the evening? Again, I see that it isn't purely the hunger that I am averse to because I can go hungry when there isn't food available and be okay with that. The aversion is coming from the act of denying myself food that is available when I feel hungry. I would appreciate your honest thoughts and suggestions.
+
+I also apologize if this was not the most coherent and well organized post. I was trying to be concise and share what I think is important in working through this decision on how to move forward with my sense restraint/renunciation.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fc01mf/can_i_please_get_some_honest_feedback_on/lm8yv9h/)** _2024-09-09 08:41:09_:
+
+    See MN 70, which gives the account of the Buddha introducing the rule of not eating after noon, and shows that the purpose of it is not solely to avoid burdening the laity. Eating only in one part of the day, which can involve putting up with some amount of hunger, does have to do with the training of the mind.
+
+    The disorder that you describe is something that used to involve your deliberate intention, so while certain thoughts and pressures might come up now as a result of those past actions, for as long as *now* you don’t intentionally welcome those thought patterns, there is no problem. Consider them as flies that are buzzing around you looking for something suitable to feed on. If you don’t give them anything, they will eventually leave.
+
+    But if you just ignore the issue and continue to make effort in other tangential directions, you will have turned away from the dimension of development that’s truly important.
+
+    >So I know it isn't the hunger that is triggering the aversion, rather it's the fact that I feel hungry, I have food available, but am not allowing myself to relieve that hunger. Everything in my mind tells me in that moment that what I'm doing is self-destructive and wrong.
+
+    The purpose of the rules is to expose the wild tendencies of your mind so that you can tame them. It doesn’t really matter why or in what way that defiance manifests, and what reasoning is there to justify not keeping the rule; what matters is that there is resistance one way or another, which wouldn’t be there for a mind that is pliable and workable (which is what *samādhi* is).
+
+---
+
+**r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-09-08 12:35:51_
+### Stepwise Training
+
+
+
+
+---
+
 **r/HillsideHermitage** | Posted by knwp7 _2024-09-06 13:55:16_
 ### The axe-handle has finally worn out.
 
