@@ -1,3 +1,175 @@
+**r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-09-20 16:59:19_
+### The deathless (Thanissaro) 
+
+What is your opinion of Thanissaro's description of the deathless in the following video (first 10min):
+
+https://youtu.be/ef1vxDMt-7k?si=8AcqPMTf6t8ocQgI
+
+It sounds to me like he is taking consciousness to be nibbana. Am I missing something? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lo6pc0z/)** _2024-09-21 09:59:16_:
+
+    The problem with this view is not only the obvious contradiction of positing *something* that lies outside the five aggregates—whether you call it consciousness or something else doesn’t really matter—but also the implication that Nibbāna is an *experience*. That’s what the Buddha called “conceiving Nibbāna” in MN 1:
+
+    >They perceive Nibbāna as Nibbāna. Having perceived Nibbāna as Nibbāna, they conceive Nibbāna, they conceive in Nibbāna, they conceive apart from Nibbāna, they conceive ‘Nibbāna is mine’, they delight in Nibbāna. Why is that? Because they haven’t fully understood it, I say.
+
+    Nibbāna is not a specific experience; it is the absence of conceiving in regard to *any* experience, and that’s precisely why freedom is possible in the first place. You don’t need to wait for something that takes you outside of what you have now. You need to *fully understand* (which is why the Suttas go on endlessly about understanding this and that) the fundamental nature of whatever you have now. That nature is common to everything else you might experience, including "Nibbāna", precisely by virtue of being experienced.
+
+    Any "outside" you discover is still going to be bound with the same ignorance as everything else, but because all the emphasis is placed on the *contents* of that new experience—its peacefulness, its being "outside of space and time", etc.—you may not realize that. The fact that you're talking about it means you experience(d) it, regardless of how special and extraordinary it is, and thus it is within the aggregates. It is a phenomenon.
+
+    Furthermore, when Nibbāna is (mis)conceived as an experience—a hallmark of wrong view—it follows that something other than the **training** the Buddha outlined,  even in theory, *could* give rise to it, and that all you need to become awakened is to have that experience through any means. This includes meditation techniques, drugs, Tantric practices, koans, etc., and that’s how modern Buddhism has come to be. It’s against the Buddha’s own statement that true knowledge can only arise as a result of gradual training, not abruptly, and that Nibbāna cannot be attained without arduous striving.
+
+    If you fully understand the aggregates—which won’t occur magically from watching your breath and similar practices—nothing will “find a footing” in consciousness anymore, as described at the end of DN 11. That is *viññāṇa anidassana,* which is still *viññāṇa,* and is therefore within the aggregates too (otherwise the Buddha would’ve used a different word). There is no inherent issue with it being so, since the aggregates and ordinary experience are not the source of *dukkha*. Craving is.
+
+    One who fully understands and is free from all passion has no conceiving, appropriation, or delight in regard to ***anything—***[no matter if it's utterly mundane like earth and water, or the most sublime and transcendental experience of "Nibbāna"](https://suttas.hillsidehermitage.org/?q=mn1#mn1:75.1-mn1:98.4)—and that’s what true Nibbāna is.
+
+---
+
+**r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-09-19 16:00:13_
+### Mano/citta and the 5 aggregates
+
+How does mano relate to the five aggregates? Is it the same as sankhara as in intentions/choices ? 
+
+If vitakka is on the level of mano and dhamma on the level of citta, I wonder if the following way of seeing this scenario is correct :
+
+I am talking to someone who mentions a woman I know. I hadn't thought about her in a long time. This sudden mention brings forth thoughts of sensuality in my mind. These images just pop up on their own. They're dhammas. There is this sudden moment when I realise that thoughts of sensuality are present. There is also this pressure being felt to consciously go with them, to proliferate them. That is vittaka. This is where my mental sense restraint kicks in. I endure the desire to actively think about this woman and do not fuel these dhammas. 
+
+It's not easy to see the difference between the two because, in my experience, when thoughts appear there is this initial moment of identification. It's like all there is is these thoughts, I am these thoughts. They're my entire experience. Then sudden realisation comes that it's just thoughts having appeared. I am not these thoughts, they are not mine. Like waking up from a dream. But there is pressure to continue to day dream. Is it at this moment that sense restraint should kick in and where dhammas are differentiated from vittaka or has the ship long sailed and I missed the initial opportunity for sense restraint and I am now only catching up with my own negligence? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fkodls/manocitta_and_the_5_aggregates/lo6ucf5/)** _2024-09-21 10:55:07_:
+
+    >There is also this pressure being felt to consciously go with them, to proliferate them. That is vittaka. This is where my mental sense restraint kicks in. I endure the desire to actively think about this woman and do not fuel these dhammas.
+
+    Yes, that sounds right. You don’t give in to them, but you don’t act like you’re in control of their arising either. That’s how you "destroy" an arisen *kāmavitakka*, while the enticing *dhamma* remains, as a poisonous drink that you’ve refused.
+
+---
+
+**r/HillsideHermitage** | Posted by devot3e _2024-09-18 08:12:57_
+### What’s the alternative to willpower?
+
+For reference, I am a lay steward in a monastery. 
+
+Throughout my time in various monasteries, I have watched many people, especially young men, come to monasteries perhaps a bit over-enthused by things like dutangas, and ready to ordain despite only having practiced for a very short time. I have frequently seen (and myself had) an attitude that seems like bhava tanha, with the idealization of masculinity and of “toughness”, commonly seen for example in certain sports like ultra marathon runners, praised for their grit and determination. Eventually I see most of these characters, typically the ones most excited by ascetic practice and most strict, falling back into sense pleasures. They find their attitude unsustainable. Many of them never come back. Occasionally, one will stay on- like myself. In my current location I find myself surrounded by gentle, humble, and fluid (flexible?) folks, yet most of them keep their virtue beautifully.
+
+I feel confident to say that willpower is a finite resource. Willpower even changes depending on our circumstance, like if we have low blood sugar, bad sleep, etc etc. This is a well studied phenomenon (though I suppose science is limited in its objective and external takes.) Now I’ve asked this question of a lot of teachers in the Thai Forest, with fascinating, useful, and varied responses. However I’m curious what I might find here. So what, then is the alternative? What is superior to willpower, less finite, more sustainable, more accessible?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fjnphj/whats_the_alternative_to_willpower/lnqo3m1/)** _2024-09-18 14:43:35_:
+
+    >What is superior to willpower, less finite, more sustainable, more accessible?
+
+    A sense of being under genuine threat, regardless of whether you even know about the Dhamma or not. That is why in the Suttas, the recognition that precedes the undertaking of the training is "I am prey to suffering, mired in suffering," and it's when monks forgot that was the reason for their going forth that they would become careless.
+
+    We are all in exactly the same situation of being prey to suffering. It's just that some people feel compelled to do something about it[ even though nothing particularly bad has happened to them personally](https://suttacentral.net/an4.113/en/sujato?lang=en), while others can't be bothered to honestly recognize the gravity of their situation despite the worst misfortunes, and despite hearing the Dhamma. Thus, they remain distracted by the joys and pleasures of the near shore until the tiger comes and eats them at last.
+
+    So if the practice feels like it requires willpower, the most a person could do is clarify the danger of their current state. For a person who truly sees that danger, *not practicing* is what would require willpower (strictly speaking, it wouldn’t even be possible, since willpower only makes sense when you genuinely expect a future benefit to come out of a present action).
+
+    >especially young men, come to monasteries perhaps a bit over-enthused by things like dutangas, and ready to ordain despite only having practiced for a very short time. I have frequently seen (and myself had) an attitude that seems like bhava tanha, with the idealization of masculinity and of “toughness”, commonly seen for example in certain sports like ultra marathon runners, praised for their grit and determination.
+
+    Yes, and that's why dhutangas should ideally be taken on only with the Right View. They're not magical vows that will purify your mind regardless of the tangle of wrong views and misguided attitudes that you carry. Once you're able to reliably read your own mind, you can do them if it's apparent that they'll help you abandon that which you recognize as unwholesome with full certainty.
+
+    To reach that point though, the precepts are not negotiable, and uncompromisingly keeping even the 8 precepts is never "self-mortification". Introducing further external observances than that out of various wrong views is what is.
+
+---
+
+**r/HillsideHermitage** | Posted by plucesiar _2024-09-17 23:13:50_
+### What is the difference between "hindrance" vs "fetter"?
+
+I was listening to the recent YouTube video on "Q&A - Freedom through the Right precepts", and around the [51:32 mark](https://youtu.be/wPr59OHLcrk?si=6XyHXC3rfomQJsVK&t=3092), Ajahn Nanamoli was talking about hindrance vs fetter, but I'm still not really following, other than the point that hindrances are more "fundamental", and hence fetters fall off first.  Can someone please clarify?  Thank you!
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fje0cn/what_is_the_difference_between_hindrance_vs_fetter/lnvwo7n/)** _2024-09-19 12:21:31_:
+
+    An important difference would be that you have no direct input on the fetters, whereas the entire practice—the whole Gradual Training going from virtue to jhānas—takes place with reference to the five hindrances. Those are the pressuring, unwholesome mental states that you can be presently aware of and not give in to, and doing that sufficiently weakens the fetters.
+
+---
+
+**r/HillsideHermitage** | Posted by WaxyBloom _2024-09-17 14:49:40_
+### Does the Buddha recommend the eight precepts?
+
+For the monks the Buddha says follow the Pāṭimokkha.  For lay followers he says the five precepts (with extra right speech sometimes).  The only place I see the eight precepts is on the uposatha.  Is that correct?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fj17ig/does_the_buddha_recommend_the_eight_precepts/lnqtpyz/)** _2024-09-18 15:13:31_:
+
+    > For lay followers he says the five precepts (with extra right speech sometimes).
+
+    But does he ever *say* that by keeping just the five precepts, a lay follower who doesn’t see the Dhamma will eventually come to see it, or was he just telling that to [people who were likely only interested in ensuring a good rebirth](https://suttas.hillsidehermitage.org/?q=mn41) with the least possible amount of effort in this life? When the audience was made up of those who regarded themselves as trainees practicing to make further progress even though they were laypeople, they were instructed to practice like monks. In [MN 53](https://suttas.hillsidehermitage.org/?q=mn53), this is compared to a hen who properly sits on her eggs so that her chicks will eventually hatch.
+
+    There is no recorded instance in the Suttas of a layperson hearing the Dhamma for the first time, failing to attain Right View on that very occasion, being instructed to observe only the five precepts, and later becoming a *sotāpanna* on the basis of that, which is how people today often hope their practice will unfold. Laypeople who attained Right View were those whose minds were already ripe to realize the Dhamma on the very first encounter, even though externally they had been leading normal lives: their eggs were already on the verge of hatching before meeting the Buddha. Everybody else needs to be "sitting on their eggs" for a good while if awakening is what they’re after, [and that requires giving up sensuality](https://suttas.hillsidehermitage.org/?q=mn36#mn36:17.11-mn36:17.13), even if they still have a job and are externally a "householder".
+
+---
+
+**r/HillsideHermitage** | Posted by robkhaw _2024-09-16 23:41:39_
+### Is the Puthujjana's meditation mere confinement?
+
+I have noticed a recent trend in most modern meditation instruction which tries to "sell you" their specific brand or technique by emphasizing the pleasure of meditation. Either that pleasure is supposed to be immediate ("meditation should be fun", "you should want to meditate") or comes about as a consequence of diligent practice ("this method will eventually lead to jhana, which are very pleasurable states", "meditation will eventually increase your baseline happiness"). If this is not always stated so explicitly at the outset there remains a lingering assumption, at the very least on the part of the practitioners, that meditation should lead to pleasure.
+
+Yet, it seems to me that for a puthujjana (or rather for a mind which has not been sufficiently tamed), meditation should be an utterly terrifying prospect. It is comparable to solitary confinement in prison--often considered the worst possible punishment--yet even more severe because the confinement not only requires that you keep the body still (thereby becoming like the confinement of a paraplegic), but extends even to the mind. You are not allowed to "escape" the pain of confinement via day-dreaming, sleeping, planning, or yes, even meditation techniques.
+
+One measures progress in such meditation not so much by advancement through some series of pleasurable or esoteric experiences but by how much the mind still thrashes around when it is confined and how long it can endure that confinement.
+
+Seen this way, meditation seems to be a form of "death before dying". And it is easy to see how the mind would be strengthened from such an undertaking, how the pressure of the everyday baits of Mara in the world would begin to pale in comparison to this self-imposed exlie. If this confinement were made into an inescapable fact of one's life (as indeed it's greater cousin, death, surely is) then it's also easy to see how sensuality would soon become burning coals, extortion, danger. One could not engage carelessly  with them any longer, knowing how much the greater the torment will be when it comes time for the daily confinement.
+
+Is this the right way of thinking about and practicing meditation? How does one avoid crossing the threshold into self-mortification with this line of thought (if it hasn't been crossed already)?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fijs91/is_the_puthujjanas_meditation_mere_confinement/lnkmtsh/)** _2024-09-17 14:08:49_:
+
+    >How does one avoid crossing the threshold into self-mortification with this line of thought (if it hasn't been crossed already)?
+
+    By not turning it into just another mindless "method," and keeping in mind that you still need to remain aware of your intention behind that practice at all times. Otherwise, you might be thinking you're practicing the right "confinement" and so on, but internally, what you're really doing is acting out of aversion and wrong view, which means there's no confinement in the true sense.
+
+    Ironically, saying no to everything is actually easier than keeping an eye on your intentions and restraining them on the right level because you're still to an extent running with the momentum of your mind, just in a different direction. You're still going with the grain.
+
+    There will be many times where, indeed, the right thing to do is to tie down the mind because *right now* it's trying to go where it shouldn't (sensual pleasures, irritation, or distractions). But really, [you only need to prevent it from going *there*](http://suttas.hillsidehermitage.org/?q=sn35.246), not from moving altogether.
+
+    People naturally crave the safety of something they can "just do" every time, without any need for consideration. That leads to overlooking the fact that—apart from the precepts, which are carved in stone—restraint is to be done in relation to *presently arisen* unwholesome intentions that are being recognized, and not in relation to a predetermined list of things that are always bad (which will often be what people default to when they hear about "confinement"). Such a list could be infinitely expanded since the defilements will always manage to shift elsewhere. Every time something goes wrong, you would assume that *that action* was the problem, so it must be added to the list.
+
+    The latter attitude is what results in frustration and the unbeneficial pain of self-mortification: you're overlooking your own mind and are instead proceeding mechanically, [like the unskilled cook](http://suttas.hillsidehermitage.org/?q=sn47.8).
+
+    So, contrary to popular belief, it would be self-mortification not because you're "too restrained" and you need to make way for a bit of pleasure (which would inevitably be sensual pleasure), but because you're not restrained on the right level and with right understanding.
+
+    The *same* practice of right restraint would become pleasant when your mind [no longer values what you're saying no to](https://suttas.hillsidehermitage.org/?q=an9.41#an9.41:7.2-an9.41:7.15) and sees giving it up as true safety, not when you intentionally fabricate pleasure through some other means. You don’t need to be fabricating pain either, for that matter. The criterion for rightness must be that defilements are being consciously given up, not how you currently feel.
+
+---
+
+**r/HillsideHermitage** | Posted by Endmakerstruckdown _2024-09-16 02:04:00_
+### Would Venerable Anigha give some words on craving? 
+
+If the Venerable were to give some words on craving, may he answer in any way. I'd be very grateful for the guidance. 
+
+By possesing what internal weaknesses do we allow craving to ensnare us? By possesing which internal strengths could we evade it? 
+
+Upon becoming aware of the ensnarer in the background, what attitude should we develop towards it?  
+
+Once having eaten the bait, ensnared by craving, how could we become aware of our predicament, and avoid further pain, so as to quickly recuperate? And what attitude should we posses to not repeat the mistake of becoming ensnared?
+
+As long as one's day contains what attitudes, would a discriminating follower of the Tathagata, weaken craving? 
+
+As long as one maintains what internal spirit, would a discriminating follower of the Tathagata, endure the long drawn out battle against craving without his effort slacking or diminishing completely?
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fhti64/would_venerable_anigha_give_some_words_on_craving/lnge8ib/)** _2024-09-16 19:18:56_:
+
+    >By possessing what external weaknesses do we allow craving to ensnare us?
+
+    Ignorance (of what craving is).
+
+    >By possessing which internal strengths could we evade it?
+
+    Knowledge (of what craving is).
+
+    It’s more important to remember that, prior to *sotāpatti*, one still doesn’t understand what craving truly is, than to focus on trying to give it up. The latter would only rely on and take for granted one’s current, inaccurate understanding of the problem.
+
+    >As long as one's day contains what attitudes, would a discriminating follower of the Tathagata, weaken craving?
+
+    The attitude of relentlessly trying to understand, and seeing that as the practice, rather than the attitude of seeking a fixed method of practice that will absolve you from trying to understand.
+
+    [A puthujjana cannot perfectly avoid everything that’s unwholesome ](https://suttas.hillsidehermitage.org/?q=an2.11-20#an2.11:1.1-an2.11:2.6)since that requires understanding craving and its cessation, but what he can reliably do is abandon all deliberate misconduct of body, speech, and mind. Within that, the effort of “trying to understand” comes in, namely, a consistent attempt to remind oneself and to recognize on even subtler levels that unwholesomeness is fundamentally determined by the internal pressure that motivates the action, and not by the external criteria related to the action itself, such as the letter of the precepts, what the action resulted in, the opinions of others, how you feel, what you were told you should do even by your own teacher, etc.
+
+    >Once having eaten the bait, ensnared by craving, how could we become aware of our predicament, and avoid further pain, so as to quickly recuperate? And what attitude should we posses to not repeat the mistake of becoming ensnared?
+
+    A sense of urgency, coupled with the firm conviction that freedom from suffering is the only thing that truly matters in this life—and the terror of dying without having attained the Right View—would ensure that you always get up quickly as possible whenever you fall, and would hopefully prevent you from falling as much in the first place as well. However, undaunted perseverance is more important than how many times you fail, as not getting up after one fall is all it takes to fail completely.
+
+---
+
 **r/HillsideHermitage** | Posted by sallekha _2024-09-14 02:24:39_
 ### Who are the ariyasāvakas?
 
