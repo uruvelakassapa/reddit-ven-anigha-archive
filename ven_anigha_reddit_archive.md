@@ -1,3 +1,157 @@
+**r/HillsideHermitage** | Posted by devot3e _2024-09-27 00:29:08_
+### Not really sure what to make of AN 4.166
+
+“Bhikkhus, there are these four modes of practice. What four? (1) Practice that is painful with sluggish direct knowledge; (2) practice that is painful with quick direct knowledge; (3) practice that is pleasant with sluggish direct knowledge; and (4) practice that is pleasant with quick direct knowledge.
+(1) The mode of practice that is painful with sluggish direct knowledge is declared to be inferior for both reasons: because it is painful and because direct knowledge is sluggish. This mode of practice is declared to be inferior for both reasons.
+(2) The mode of practice that is painful with quick direct knowledge is declared to be inferior because of its painfulness.
+(3) The mode of practice that is pleasant with sluggish direct knowledge is declared to be inferior because of its sluggishness.
+(4) The mode of practice that is pleasant with quick direct knowledge is declared to be superior for both reasons: because practice is pleasant and because direct knowledge is quick. This mode of practice is declared to be superior for both reasons.
+These, bhikkhus, are the four modes of practice.”
+
+I am confused, because this seems to be promoting a preference for pleasure. It does not match with my understanding.
+For more context if you’re interested, AN 4.162
+
+“Bhikkhus, there are these four modes of practice. What four? (1) Practice that is painful with sluggish direct knowledge; (2) practice that is painful with quick direct knowledge; (3) practice that is pleasant with sluggish direct knowledge; and (4) practice that is pleasant with quick direct knowledge.
+(1) And what, bhikkhus, is the practice that is painful with sluggish direct knowledge? Here, someone is by nature strongly prone to lust and often experiences pain and dejection born of lust. By nature he is strongly prone to hatred and often experiences pain and dejection born of hatred. By nature he is strongly prone to delusion and often experiences pain and dejection born of delusion. These five faculties arise in him feebly: the faculty of faith, the faculty of energy, the faculty of mindfulness, the faculty of concentration, and the faculty of wisdom. Because these five faculties are feeble in him, he sluggishly attains the immediacy condition for the destruction of the taints. This is called practice that is painful with sluggish direct knowledge.
+(2) And what is practice that is painful with quick direct knowledge? Here, someone is by nature strongly prone to lust … hatred … delusion and often experiences pain and dejection born of delusion. These five faculties arise in him prominently: the faculty of faith … the faculty of wisdom. Because these five faculties are prominent in him, he quickly attains the immediacy condition for the destruction of the taints. This is called practice that is painful with quick direct knowledge.
+(3) And what is practice that is pleasant with sluggish direct knowledge? Here, someone by nature is not strongly prone to lust and does not often experience pain and dejection born of lust. By nature he is not strongly prone to hatred and does not often experience pain and dejection born of hatred. By nature he is not strongly prone to delusion and does not often experience pain and dejection born of delusion. These five faculties arise in him feebly: the faculty of faith … the faculty of wisdom. Because these five faculties are feeble in him, he sluggishly attains the immediacy condition for the destruction “of the taints. This is called practice that is pleasant with sluggish direct knowledge.
+(4) And what is practice that is pleasant with quick direct knowledge? Here, someone by nature is not strongly prone to lust … hatred … delusion and does not often experience pain and dejection born of delusion. These five faculties arise in him prominently: the faculty of faith … the faculty of wisdom. Because these five faculties are prominent in him, he quickly attains the immediacy condition for the destruction of the taints. This is called practice that is pleasant with quick direct knowledge.“These, bhikkhus, are the four modes of practice.”
+
+(Bhikkhu Bodhi)
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fqbb5c/not_really_sure_what_to_make_of_an_4166/lp4ylxp/)** _2024-09-27 04:30:30_:
+
+    The part that shouldn’t be overlooked here is that in neither case (speed or pleasantness) is it a matter of choice.
+
+    If you have weak passion, aversion, and delusion—which you would judge not by what your intuition tells you, but by whether your mind rebels in the face of the eight precepts, sense restraint, and solitude—either by nature or because you’re already far along the path, the practice won’t be unpleasant; quite the opposite. As the Buddha said, the joy of sensuality is excrement compared to the joy of renunciation, which is not only great in itself, but also pushes you further on the path simply by virtue of cultivating it.
+
+---
+
+**r/HillsideHermitage** | Posted by Secret_Invite_9895 _2024-09-26 20:54:08_
+### meditation not taught to non stream enterers
+
+So when the Buddha prescribes mediation it is never mentioned that he is talking to a puthujjana but, it's also usually not mentioned whether or not he is talking to a stream enterer. And there are suttas where the Buddha is trying to inspire people by describing samsara(how unending and unsatisfying it is and how it is enough to become disenchanted with the world and commit to attaining nibbana) and then he says to go sit at the roots of trees and meditate. If the buddha knew he was talkling to stream enterers then why would he need to inspire them in this way? Would it not make more sense that he was considering that at least some of the people he was talking to would not be stream enterers? 
+
+What is some evidence from the suttas that Buddha did not want puthujjanas to meditate?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fq6p0z/meditation_not_taught_to_non_stream_enterers/lp4vt04/)** _2024-09-27 04:07:19_:
+
+    >And there are suttas where the Buddha is trying to inspire people by describing samsara(how unending and unsatisfying it is and how it is enough to become disenchanted with the world and commit to attaining nibbana) and then he says to go sit at the roots of trees and meditate.
+
+    Such instructions were not given to “people”; they were given to monks. So yes, there are some occasions where he would describe meditation to *puthujjanas*, but they had to be monks at least, [because there can be no right *samādhi* for those who, on top of not having the Right View, still live enjoying sensual pleasures.](https://suttacentral.net/mn125/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin#7.2)
+
+---
+
+**r/HillsideHermitage** | Posted by OppositeMountain176 _2024-09-26 16:52:12_
+### Is the culmination point the complete elimination of the second arrow? That is to say - the arrow can not / does not appear. Or is it more like a point when the second arrow does appear but there is perfect understanding of the mechanics of it and thus perfect equanimity in its midst? 
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fq0y6e/is_the_culmination_point_the_complete_elimination/lp50rxd/)** _2024-09-27 04:49:07_:
+
+    >a point when the second arrow does appear but there is perfect understanding of the mechanics of it and thus perfect equanimity in its midst?
+
+    That’s managing the suffering by psychologizing it, and that’s not liberation, nor the Right View.
+
+    The Arrow Sutta plainly states that the second arrow no longer even arises.
+
+---
+
+**r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-09-24 04:55:47_
+### Rebirth, citta, mano, sankhara
+
+Bhante Anigha,
+
+Following your latest summary post, I was rereading your answer to my question on rebirth and the citta. In it, correct me if I am wrong, you explained that the citta is this second order of experience, the feeling towards feelings, the intention towards intentions, which is not solely physical / biological as choices can be made regarding biological urges. 
+
+Could you elaborate a little on how this description relates to your latest video where you explained, among other things, the difference between citta and mano. If the citta is the intention towards the intention, what is mano in that context? I understood in that conversation that the citta was more passive and mano active. 
+
+Finally, how is mano/citta related to "when avijja ceases, sankhara ceases". How should sankhara be understood here and how does it relate to citta/mano? What does it mean for sankhara to cease? 
+
+Thank you 🙏
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fo4omz/rebirth_citta_mano_sankhara/lopg1cf/)** _2024-09-24 15:45:41_:
+
+    >Could you elaborate a little on how this description relates to your latest video where you explained, among other things, the difference between citta and mano. If the citta is the intention towards the intention, what is mano in that context? I understood in that conversation that the citta was more passive and mano active.
+
+    *mano* in the context of that discussion refers to choice/action, not to the mere cognizing of mental phenomena. It’s the third in the common categorization of action in the Suttas: bodily, verbal, and mental.
+
+    So, the *citta* exhibits certain inclinations and pressures influenced by your past choices from this life and before, but ultimately, you’re always responsible for your *present* choice to go along with that or not, so that’s all that really matters. By making the right choices of restraint and renunciation now, the *citta* is tamed, which is how you overcome sensuality and aversion. But that’s not the Dhamma yet; it’s only the basis for it.
+
+    >Finally, how is mano/citta related to "when avijja ceases, sankhara ceases". How should sankhara be understood here and how does it relate to citta/mano?
+
+    Understanding the complete cessation of *all* choices, even the right ones—which of course doesn’t mean reverting to what you gave up before—is where noble insight lies. *saṅkhāra* means “activity” in the broadest possible sense, and choices are one specific instance of that. Neither *citta* nor *mano* survive the cessation of ignorance: with the cessation of ignorance, *saṅkhāras* cease, and with that, consciousness and *nāmarūpa* all cease.
+
+    >What does it mean for sankhara to cease?
+
+    Pretty much any answer to that question would distract from the fact that it has to be realized for oneself, first and foremost by taming the *citta* through the gradual training, and then, with that purified mind, trying to understand *paṭiccasamuppāda*—in the structural, timeless sense explained in the Suttas, and not the time-bound, sequential “cause-and-effect” or “flux” sense—in your own experience. It is genuinely impossible to imagine it in theory because that very imagination will be affected by ignorance, and will be a *saṅkhāra.*
+
+    It’s also not the sort of magical “cessation experience” you would hear about these days, since ignorance doesn’t need to cease in order for you to have that.
+
+---
+
+**r/HillsideHermitage** | Posted by Unfair_Sink_3280 _2024-09-22 04:38:06_
+### Questions regarding not trying to get rid of the sense object or trying to cover up pain with "ideas, attitudes, and Information" while trying to restraint. PLEASE HELP!!!!
+
+I understand that in the beginning, I will not be perfect, and I will try to either "overshoot the mark or undershoot the mark" as ajahn always says. I still need advice on this topic so I could be headed in the right direction:
+
+1. when trying to restraint, I always think this: "am i doing this correctly, is this rooted in covering up pain?" and then I often get confused and my mind become relentless. Even when writing this post, I am thinking that my desire for figuring this out and not getting relentless is rooted in sensuality. What should I do about this?
+2. When I try to apply some of the concepts that HH talking about: for example, I often hear that my starting point is already rooted in ignorance. Therefore, when I try to restraint, I would question everything because in my mind, I constantly think that I existent is rooted in ignorance. HOWEVER!, I have realized that even thinking that could be used as a technique to manage pain and coverup what is there present in front of me. How should I go about this?
+3. when trying to restraint, for example: A lustful thought has arisen. Now, I want to restraint because that lustful thought is captivating and addicting. My restraint would be to kill it, shut it down, and think of it no more. In the place of lustful thought, there would be this darkness and I would just bear pain. IS THIS THE CORRECT WAY? or the second way I tried: I would recognise that lustful thought has arisen. Now I would think "this lustful thought is pressuring because I want this lustful thought" then, I would let to stay there and run as wild without trying to indulge in it and I would bear the pain. Which way is the correct way?
+4. when trying to restraint, I do things that feel right. I have realized that I am addicted to having to make sure that everything I do is correct. So when I am trying to restraint, I would do things to "Reveal the pain of my existence" and to avoid swimming too fast, or swimming too slow or trying to stay still when crossing the river. However, this exact attitude leads to my coverup of pain because it provides me with certainty. SO HOW DO I CORRECTLY REVEAL ENDURE AND REVEAL THE PAIN WITHOUT engaging with sensuality on the LEVEL OF ATTITUDE and VIEWS.
+
+THANK YOU bhante. my goal right now is to correctly establish in 5 precepts for life, once I have enough mental strength, then I would go to 8 precepts. But, right now I am too weak!!!
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fml81u/questions_regarding_not_trying_to_get_rid_of_the/lodcbul/)** _2024-09-22 14:59:32_:
+
+    >my goal right now is to correctly establish in 5 precepts for life, once I have enough mental strength, then I would go to 8 precepts.
+
+    There’s no hope in being able to permanently disentangle yourself from the subtle pressures you’re describing before your virtue is firm and unconditional, as Keller commented.
+
+    Having said that, the problem here isn’t what your mind is projecting it to be, i.e., the sense objects and whether you’re dealing with them the right way or not. It’s the whole framework of doubt that’s pressuring you and making you go around in circles. *That* is a sense object that you’re not properly restrained in regard to, and as a result, the lust and aversion towards other sense objects might even intensify.
+
+---
+
+**r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-09-21 15:32:13_
+### Visiting HH / Samanadipa
+
+This summer, I am going on holiday to Slovenia with my wife and two daughters. This would be a good opportunity for me to visit HH and/or Samanadipa.
+
+To this end, I would have a few questions:
+
+- Is there a a schedule (timetable during the day, certain days of the week, a best time to visite, etc.). Best in the morning ?
+
+- Would it be approriate to come with my wife and daughters (not Buddhist and clueless about it) ? I would think not, but just to make sure. It might be good for my daughters to see Buddhist renunciates, this would be new to them. I would make sure they behave well, but they’re kids. It might be best if they don’t come.
+
+- Is it possible to visit both HH and Samanadipa ?
+
+- Can I make myself useful in any way ? I know there’s often works going on. I would love to contribute if needed / appropriate
+
+- Is there an opportunity to exchange with a monk  ? With the wealth of information here and online, this is not truly necessary, but I don’t get to discuss the Dhamma in person much, especially with people as advanced as the monks at HH / Samanadipa.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fm5n5g/visiting_hh_samanadipa/lobn8q4/)** _2024-09-22 05:46:28_:
+
+    >- Is there a a schedule (timetable during the day, certain days of the week, a best time to visite, etc.). Best in the morning ?
+
+    No. The only thing that happens daily is the meal. Occasionally, there are small jobs to do here and there, usually finished before noon. The best time to visit would be after the meal duties are finished, at around 10AM.
+
+    
+    >- Would it be approriate to come with my wife and daughters (not Buddhist and clueless about it) ?
+
+    Not for staying overnight, since we wouldn't have enough rooms, and also because every guest should be a practitioner and keep the eight precepts during their stay.
+
+    They could still come with you on a day trip, although if you really want to discuss Dhamma and not just have a look at the place, it'd probably be better to come by yourself.
+
+    > - Is there an opportunity to exchange with a monk  ?
+
+    Certainly.
+
+    - Is it possible to visit both HH and Samanadipa ?
+
+    HH is in a very remote location, and is reserved for monastics only.
+
+---
+
 **r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-09-20 16:59:19_
 ### The deathless (Thanissaro) 
 
