@@ -1,3 +1,124 @@
+**r/HillsideHermitage** | Posted by LeUne1 _2024-10-02 09:28:30_
+### Video of Ven Nanamoli removing ticks from a snake
+
+Does harming the ticks not go against perfect virtue?
+
+https://m.youtube.com/watch?v=DffOpUbrhTo
+
+
+---
+
+**r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-10-01 03:11:05_
+### Is jhana only attainable by a sotapanna and above?
+
+Maybe I'm misreading or misunderstanding the suttas I have looked at, but did the Buddha say that only someone who has gone beyond sensuality can attain jhanas? And does going beyond (valuing) sensuality make one a sotapanna?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ftec39/is_jhana_only_attainable_by_a_sotapanna_and_above/lptxaku/)** _2024-10-01 16:08:29_:
+
+    The Suttas clearly state that even eternalists can attain jhānas. The question whether what’s generally regarded as jhāna today—[not requiring dispassion and withdrawal from sensuality](https://suttas.hillsidehermitage.org/?q=an6.73#an6.73:1.4-an6.73:2.1), but rather [skill in focusing on an object](https://suttas.hillsidehermitage.org/?q=an11.9#an11.9:2.3-an11.9:2.17)—actually is what the Buddha taught and leads to genuine freedom from suffering is a separate issue, to which our answer is no.
+
+---
+
+**r/HillsideHermitage** | Posted by MBBWS _2024-09-30 13:39:41_
+### I'm going to visit Samanadipa monastery this week and is my first time ever visiting a monastery and a monk in person.
+
+Please, can someone advice me on how to approach the monastery? 
+
+ - should I bring food or other things as an offer to the monastery/monks? 
+
+ - how to interact with monks (everytime we engaged should I have joined palms? I want to learn about such formalities) 
+
+- other things I should be aware of but I currently not
+
+Thank you for your responses in advance 🙏
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fsvskk/im_going_to_visit_samanadipa_monastery_this_week/lpnw2zt/)** _2024-09-30 15:34:39_:
+
+    > should I bring food or other things as an offer to the monastery/monks? 
+
+    It's not mandatory, but you're welcome to do so if you wish.
+
+    >how to interact with monks (everytime we engaged should I have joined palms? I want to learn about such formalities) 
+
+    We generally don't place any emphasis on such things here. 
+
+    > other things I should be aware of but I currently not
+
+    I assume you've already emailed the office? Email address is on the website.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-09-29 15:39:13_
+### How important is the unconditionality of the 8 precepts? (the additional 3, that is) 
+
+So, I've cut off all entertainment except for one thing, the Dungeons and Dragons campaign I've been it for the past 3 years. We're very near the end of the campaign. It's a big source of internal tension because I've been celibate and sleeping on the floor and not eating after noon for a long time and this is the one thing holding me back from taking the 8 every day, all the time, for the rest fo my life.  I often don't enjoy it, or don't get nearly as much enjoyment from the game or company as I used to and I don't delight in what delight remains. Part of me has wanted to just drop out for a long time. 
+
+
+Obviously there's issues with company, idle chatter, and the violence that's a part of the game.  It's once a week for like 3 hours. Am I worrying too much? Is it that bad if I see it through to the end? It seems absurd to imagine some magical boost to my practice by finally fulfilling the 8 precepts without exception when this is the **only exception**. It's really made me see how much pressure can come from the expectation of others, because it's much harder to abandon something that will affect others. 
+
+
+Edit: As I said above, I've wanted to drop out for a long time, and I have. It was my intent from the beginning and I see now I wasn't "worrying too much" about the effects of continuing to play, because it feels much better having the 8 fulfilled. I think it's clear to everyone that it's ***better*** not to play, but what you see above is a genuine question about ***how*** such a compromise as continuing to play affects one's path. And yeah, it's also the defilements squirming, hoping to find a way to preserve something that I know would be ***better*** to be totally abandoned. Thank you for your responses, which have had the added benefit of helping me see how proud and defensive I can be.
+
+
+Relevant sutta(MN 61)
+ “Rāhula, it’s like a royal elephant: immense, pedigreed, accustomed to battles, its tusks like chariot poles. Having gone into battle, it uses its forefeet & hindfeet, its forequarters & hindquarters, its head & ears & tusks & tail, **but will simply hold back its trunk**. The elephant trainer notices that and thinks, ‘This royal elephant has not given up its life to the king.’ 
+
+"But when the royal elephant… having gone into battle, uses its forefeet & hindfeet, its forequarters & hindquarters, its head & ears & tusks & tail **& his trunk**, the trainer notices that and thinks, ‘This royal elephant has given up its life to the king. There is nothing it will not do.’
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fs7740/how_important_is_the_unconditionality_of_the_8/lplo2ja/)** _2024-09-30 03:55:22_:
+
+    An excerpt from an essay in progress:
+
+    >It’s important not to deceive yourself into thinking that, as a layperson, the threshold for what constitutes greed, aversion, or delusion is somehow more lenient, and you can get away with more. We all have the same defilements, and wearing jeans instead of robes won’t magically prevent indulgence in those defilements from [obstructing anyone’s progress in the Dhamma](https://suttas.hillsidehermitage.org/?q=mn22#mn22:5.7-mn22:6.15). If anything, it’s the opposite. The fact that, as a layperson, your environment and lifestyle most often already put you at a disadvantage—you're trying to grow a very delicate plant in less fertile ground—means that complacency carries a greater risk. And complacency in your views is not justified no matter how you live externally.
+
+    >If keeping all the precepts is too difficult for you at the moment, the solution is not to move the goalpost and justify the shortcoming with the excuse that laypeople are not expected to do more. Taking what others do or don't do and not what you can discern for yourself as rooted in greed, aversion, or delusion as the guideline for what’s wrong is an attitude that will keep you bound to *sīlabbataparāmāsa*.
+
+    >Instead, you need to be self-honest and stick to the same universal definition of what constitutes a fault—anything involving greed, aversion, and delusion, and which an Arahant would not engage in—even if that means feeling remorse for some things you still can’t give up. If you don’t obscure that recognition, don’t cover up the ensuing regret whenever you fail, and strive to do better than last time, then you may still be progressing despite the imperfections in your restraint. But if you re-define what a fault is to leave out the things you still have difficulty giving up, you are shooting yourself in the foot.
+
+    >The first two of the five powers that a noble one possesses and that drive them further along the path are [shame and remorse (hiriottappā) ](https://suttas.hillsidehermitage.org/?q=an4.163#an4.163:2.4-an4.163:2.5)in regard to unwholesome qualities.
+
+    >This means that even when someone still lives as a householder keeping only the five precepts despite having attained the Right View, as was the case for many in the Buddha’s day, they won’t try to evade responsibility and find an external justification for fulfilling the training only partially. They would acknowledge that as a weakness on their part, even if it means feeling ashamed and remorseful. And this is precisely why, as said in the Suttas, everyone who has Right View is ultimately destined for full liberation sooner or later. Even when they’re heedless, they’re unable to lie to themselves about the fact that they’re not fully living in accordance with the Dhamma. This means that they will inevitably begin to do so at some point, and continue walking further on the same path until they reach the culmination.
+
+    >The Buddha didn’t teach two modes of practice: one for laypeople and one for monastics. He taught one practice—the taming of passions and the giving up of attachments—that each individual is free to follow to whichever extent they please. How much they’ll be able to achieve is proportional to the extent that they undertake it. But someone who shifts the target so that they no longer need to see craving as craving and unwholesome as unwholesome has abandoned Right View and is no longer on the same path, even if they keep all the other precepts perfectly.
+
+    >“*Gotamī, the things that you would know lead to passion, not dispassion; to attachment, not to detachment; to accumulation, not diminution; to abundance of desires, not fewness of desires; to discontent, not contentment; to socializing, not seclusion; to laziness, not effort; to being burdensome, not being unburdensome. Categorically, you should remember these things as not the Dhamma, not the training, and not the Teacher’s instructions.*
+
+    >“*Gotamī, the things that you would know lead to dispassion, not passion; to detachment, not attachment; to diminution, not accumulation; to fewness of desires, not abundance of desires; to contentment, not discontent; to seclusion, not socializing; to effort, not laziness; to being unburdensome, not being burdensome. Categorically, you should remember these things as the Dhamma, the training, and the Teacher’s instructions.”*
+
+    >— *AN 8.53*
+
+---
+
+**r/HillsideHermitage** | Posted by GachiOnFire _2024-09-29 13:44:23_
+### How does one resist things ajjhataṃ?
+
+>“Bhante, I am developing mindfulness of breathing.”
+
+>“In what way, Ariṭṭha, are you developing mindfulness of breathing?”
+
+>“Bhante, for me sensual desire for past sensuality has been abandoned, sensual desire for future sensuality has gone away, and the perception of **resistance towards things both here** and externally has been completely removed. Mindfully, I breathe in. Mindfully, I breathe out. In this way, Bhante, I am developing mindfulness of breathing.”
+
+>“Ariṭṭha, this is mindfulness of breathing. I do not say that it isn't.”
+
+>-- SN 54.6
+
+If ajjhataṃ is the dimension of that which is here that makes it possible for things to be out there (bahiddhā), is "resisting things ajjhataṃ" resisting my situation, having been thrown into and being enclosed within that body, feeling, mind, ~~these dhammas~~ my experience as a whole?
+
+Also, is it what craving for non-being is?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fs4oma/how_does_one_resist_things_ajjhataṃ/lpmmqje/)** _2024-09-30 10:13:35_:
+
+    >If ajjhataṃ is the dimension of that which is here that makes it possible for things to be out there (bahiddhā), is "resisting things ajjhataṃ" resisting my situation
+
+    Yes, but that's a bit too theoretical. The "internal" dimension is what you're currently feeling here and now and pushes you towards external directions. Even if there's no blatant action externally, you can still resist things internally, even just a neutral feeling. That keeps you liable to the hindrances, even if none of them are acutely present there and then.
+
+    >Also, is it what craving for non-being is?
+
+    Craving for non-being would be what's left over once you've achieved what this Sutta describes, which is the state of an *anāgāmi.* The resistance to internal and external phenomena is inseparable from sensuality, so if one is there, the other is too.
+
+---
+
 **r/HillsideHermitage** | Posted by devot3e _2024-09-27 00:29:08_
 ### Not really sure what to make of AN 4.166
 
