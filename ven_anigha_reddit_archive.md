@@ -1,3 +1,189 @@
+**r/HillsideHermitage** | Posted by Print-Remarkable _2024-10-11 11:43:05_
+### Monks online 
+
+Lately I’ve been trying to limit internet usage as a form of entertainment. Obviously the Venerables have internet access. I was wondering do they avoid frivolous browsing like reading news or social media for example and just stick to things dealing with study, teaching and spreading of the Dhamma? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1g17s9g/monks_online/lrih6ft/)** _2024-10-12 02:58:52_:
+
+    >I was wondering do they avoid frivolous browsing like reading news or social media for example and just stick to things dealing with study, teaching and spreading of the Dhamma?
+
+    By being aware of your intentions even before you pick up a device and while you are using it too, making sure that it's never one of distraction or entertainment, which could easily happen even if the initial intention was appropriate.
+
+    >“And how, bhikkhus, has a bhikkhu comprehended a mode of conduct and manner of dwelling in such a way that as he conducts himself thus and as he dwells thus, evil unwholesome states of covetousness and displeasure do not flow in upon him? Suppose a man would enter a thorny forest. There would be thorns in front of him, thorns behind him, thorns to his left, thorns to his right, thorns below him, thorns above him. He would go forward mindfully, he would go back mindfully, thinking, ‘May no thorn prick me!’ So too, bhikkhus, whatever in the world has a pleasing and agreeable nature is called a thorn in the Noble One’s Discipline. Having understood this thus as ‘a thorn,’ one should understand restraint and nonrestraint.  
+    —SN 35.244
+
+---
+
+**r/HillsideHermitage** | Posted by Wild-Brush1554 _2024-10-09 14:59:02_
+### Sense pleasures
+
+There is a lot of emphasis on abandonment of sense pleasures in the dhamma talks.
+
+What would one mean exactly by that? For example, when im free i mostly use my phone(most of it is consuming dhamma content), listen to music, talk to family or exercise. Is one not to do these at all? And if one can still do it, how do you start to devalue sensual pleasures.
+
+When i dont use my phone or do any other things i just sit in one place and stare at the wall. Is that the correct thing to do? And how do i be mindful of my intentions and truly be self aware.
+
+Please offer me your advice and do correct me in case I got something wrong.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fztfbr/sense_pleasures/lr7dkur/)** _2024-10-10 04:16:54_:
+
+    It's more about abandoning sensual craving than avoiding every pleasant sense experience as such. However, certain things are *always* done out of sensual craving, and listening to music would be one of them. If you give up all sexual activity, beautification of the body, entertainment, and eating for the sake of pleasure, you will have eliminated the specific actions that are always driven by sensual craving.   
+      
+    Everything else, such as exercising or talking to family, isn't sensual in itself; it becomes sensual depending on how and why you do it—whether you're engaging in conversation just to pass the time and have fun or for a practical purpose, whether you're exercising to improve your outward appearance or for health reasons, etc.
+
+    >When i dont use my phone or do any other things i just sit in one place and stare at the wall. Is that the correct thing to do?
+
+    Occasionally it could be (in dedicated periods of contemplation once you're well restrained), but it's not mandatory by any means. It could easily be an unwholesome intention of self-mortification if you think you *have* to do it.
+
+    It hardly matters what you *do*; that will change from day to day depending on circumstances and events in your life. What matters most is what you *don't* do, no matter what: breaking the precepts and engaging in any of the inherently sensual acts I listed above.
+
+---
+
+**r/HillsideHermitage** | Posted by Anemone1k _2024-10-09 13:17:29_
+### Citta is Where the Heart Is?
+
+In Hillside Hermitage's latest talk [Learning the Language of the Mind](https://www.youtube.com/watch?v=3E276FZat1s) it is mentioned near the end that citta is where the heart is. For me this doesn't compute. Like, at all. I have been trying to see citta as the container of the experience as a whole such as the mood or the shape of experience, but this citta being located where the heart is making me doubt I even know up from down anymore. Anyone able to shed more light on the heart being talked about here?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fzr6n9/citta_is_where_the_heart_is/lr7gktp/)** _2024-10-10 04:42:51_:
+
+    >I have been trying to see citta as the container of the experience as a whole such as the mood or the shape of experience
+
+    I would suggest continuing in that same direction and not making a big deal out of the confusion. You would come to understand the point rightly based on that, as opposed to sensation-based meditation practices that would only lead you to misconceive the body even more while thinking you're seeing it clearly.
+
+    The disclaimer in the description of the video is there for a reason:
+
+    >This practice is only applicable to those who are already sufficiently established in virtue and have been restraining their senses from intentional distraction and unbeneficial states, **otherwise any notion of "heart", "body" or "mind" that they have will not be pertaining to the true internal physicality of rupa.**
+
+    Simply put, the reason why that's a prerequisite is that sensuality and non-restraint keep one's mind and views firmly planted in the domain of external sense objects. So when an unrestrained person tries to discern the body, they cannot help but "objectify" it and misconceive it as a collection of sense objects (most commonly tactile sensations). But the actual "internal" body (the "physicality" as referred to in the talk) is something else, described as a ["hollow, empty village" that gets attacked by bandits](https://suttacentral.net/sn35.238/en/sujato?lang=en&layout=plain&reference=none&notes=none&highlight=true&script=latin), and it can only be seen clearly once the pull of sense objects is no longer able to lure you into acts of greed, aversion, or distraction. 
+
+    The mind is also a sense base, so even if you don't misconceive the body as sensations, you can start descending into and proliferating abstract notions about the body. Even if they are correct in theory, those are still sense objects, not the "internal" body that was being referred to where you would discern the "heart". And that's what the citta *corresponds to*, as said in the video; not that that *is* the citta.
+
+    ([This discussion](https://www.youtube.com/watch?v=hB9dQFtXMKs) is also relevant to the topic).
+
+---
+
+**r/HillsideHermitage** | Posted by DaNiEl880099 _2024-10-08 17:33:14_
+### A question about moderation and secular living.
+
+
+Hello. Let's assume I'm an ordinary person and I don't have a strict ambition to achieve stream entry. As a lay person, is it necessary for me to follow the 8 precepts? What if a given person is interested in Buddhism as something that is to constitute his spirituality as a form of defense against complete absorption by "worldly things", but at the same time does not see the power of renunciation. I think Buddha also gave some advice for this type of person, such as collecting "merits", "generosity", eradicating traits that harm other people?
+
+In short, I mean how do you see the approach to life for such an ordinary person. In Buddhist countries there are often millions of people who declare themselves to be Buddhists, what compromise do you see for them?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fz5kd6/a_question_about_moderation_and_secular_living/lr29u4p/)** _2024-10-09 08:28:12_:
+
+    >Let's assume I'm an ordinary person and I don't have a strict ambition to achieve stream entry. As a lay person, is it necessary for me to follow the 8 precepts? What if a given person is interested in Buddhism as something that is to constitute his spirituality as a form of defense against complete absorption by "worldly things", but at the same time does not see the power of renunciation.
+
+    No, eight precepts would not be "necessary" for such a person. It's almost guaranteed that they wouldn't even have the motivation to forego sensuality and distractions unless they were aiming for liberation anyway. Even if they happened to be celibate for some reason, they would find another way to fill that gap emotionally. Thus, they wouldn't be truly living aloof from sensuality, which is the practical meaning of "8 precepts".
+
+    >I think Buddha also gave some advice for this type of person, such as collecting "merits", "generosity", eradicating traits that harm other people?
+
+    Certainly. He would advise everyone no matter who they are and what they want to keep the five precepts and to be generous (and so do many other religions at least in part). That's the type of person he would give instructions similar to those in the [Sigalovādasutta](https://www.accesstoinsight.org/tipitaka/dn/dn.31.0.nara.html).
+
+---
+
+**r/HillsideHermitage** | Posted by obobinde _2024-10-08 15:04:19_
+### 2 questions about the three characteristics formula
+
+Sabbe sankhara anicca
+
+sabbe sankhara dukkha
+
+sabbe dhamma anatta
+
+In this classical formula there are two points that are still unclear to me.
+
+First :
+
+I don't get why does it switch from sankhara to dhamma. It would imply that something escapes one of the categories ?!
+
+Does it mean that everything is not self but not everything is anicca and dukkha ? Or that all determinations are anicca and dukkha but that not all determinations are anatta ? So either something(s) in the dhamma category is not sankhara or sth in the sankhara category is not a dhamma...
+
+Second :
+
+I'm trying to see some kind of logic in the order of the three statement.
+
+For example,
+
+Anicca would be the fact that everything that something depends on is liable to change.
+
+Anatta would be the fact that I am subjected to this change. I can't do anything about it. My eye through which I'm getting sights does his own thing; I can't choose to not see or not have a declining eyesight. Even If I would be taking medecine, the healing process (anicca) would be totally out of my control (anatta). As such, all those ever changing determinations, pertaining to *that body because of which* that are outside my reach are inherently and always unsatisfactory (dukkha).
+
+So the order : anicca >anatta>dukkha makes quite a lot of sense but apparently if the correct order (if there is one) is anicca>dukkha>anatta the causal step between dukkha and anatta is hazy to me. What am I missing ?
+
+Any input is welcome !
+
+  
+EDIT : 
+
+I kinda found an answer in a previous answer from [u/AlexCoventry](https://www.reddit.com/user/AlexCoventry/) quoting Nanavira even though I'm still not entirely clear how dukkha helps in understanding anatta...
+
+[Sabbe sankhārā aniccā; Sabbe sankhārā dukkhā; Sabbe dhammā anattā.](https://nanavira.org/index.php/notes-on-dhamma/shorter-notes/dhamma) (*'All determinations are impermanent; All determinations are unpleasurable (suffering); All things are not-self.'*) *Attā*, 'self', is fundamentally a notion of *mastery over things* (cf. Majjhima iv,5 <M.i,231-2> & Khandha Samy. vi,7 <S.iii,66>\[[7](https://nanavira.org/index.php/notes-on-dhamma/additional-texts#7)\]). But this notion is entertained only if it is pleasurable,\[[c](https://nanavira.org/index.php/notes-on-dhamma/shorter-notes/dhamma#nc)\] and it is only pleasurable provided the mastery is assumed to be permanent; for a mastery—which is essentially a kind of absolute timelessness, an *unmoved* moving of things—that is undermined by impermanence is no mastery at all, but a mockery. Thus the regarding of a thing, a *dhamma*, as *attā* or 'self' can survive for only so long as the notion gives pleasure, and it only gives pleasure for so long as that *dhamma* can be considered as permanent (for the regarding of a thing as 'self' endows it with the illusion of a kind of super-stability in time). In itself, *as a* dhamma *regarded as* attā, its impermanence is not manifest (for it is pleasant to consider it as permanent); but when it is seen to be dependent upon *other dhammā* not considered to be permanent, its impermanence does then become manifest. To see impermanence in what is regarded as *attā*, one must emerge from the confines of the individual *dhamma* itself and see that *it depends on what is impermanent*. Thus *sabbe sankhārā* (not *dhammā*) *aniccā* is said, meaning 'All things that things (*dhammā*) depend on are impermanent'. A given *dhamma, as a* dhamma *regarded as* attā, is, on account of being so regarded, considered to be pleasant; but when it is seen to be dependent upon some other *dhamma* that, not being regarded as *attā*, is manifestly unpleasurable (owing to the invariable false perception of permanence, of super-stability, in one not free from *asmimāna*), then its own unpleasurableness becomes manifest. Thus *sabbe sankhārā* (not *dhammā*) *dukkhā* is said. When this is seen—i.e. when perception of permanence and pleasure is understood to be false --, the notion 'This *dhamma* is my *attā*' comes to an end, and is replaced by *sabbe dhammā anattā*. Note that it is the *sotāpanna* who, knowing and seeing that his perception of permanence and pleasure is false, is free from this notion of 'self', though not from the more subtle conceit '(I) am' (*asmimāna*);\[[d](https://nanavira.org/index.php/notes-on-dhamma/shorter-notes/dhamma#nd)\] but it is only the *arahat* who is entirely free from the (false) perception of permanence and pleasure, and 'for him' perception of impermanence is no longer unpleasurable. (See also [A NOTE ON PATICCASAMUPPĀDA §12](https://nanavira.org/index.php/notes-on-dhamma/paticcasamuppada#p12) & [PARAMATTHA SACCA](https://nanavira.org/index.php/notes-on-dhamma/paramattha-sacca).)
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fz1z1k/2_questions_about_the_three_characteristics/lr2eux3/)** _2024-10-09 09:29:51_:
+
+    >Does it mean that everything is not self but not everything is anicca and dukkha ?
+
+    In theory, yes, something which isn't *saṅkhata* ("conditioned" or "determined") will not be *anicca* or *dukkha*. But it's not that there is one experience or state that you can just arrive at that would in itself be *asaṅkhata* regardless of *your* way of relating to it. As I've mentioned before, *saṅkhāras* are things for which one is entirely responsible[ due to one's ignorance](https://suttas.hillsidehermitage.org/?q=mn38#mn38:17.1). Nibbāna cannot be an outside thing that "rescues" you from *saṅkhāras* because nothing can destroy your ignorance for you.
+
+    So practically speaking, [until ignorance is abandoned, even (your idea of) Nibbāna is *anicca*, *dukkha, and anattā.*](https://suttas.hillsidehermitage.org/?q=mn1#mn1:26.1-mn1:26.4)
+
+    >So the order : anicca >anatta>dukkha makes quite a lot of sense but apparently if the correct order (if there is one) is anicca>dukkha>anatta the causal step between dukkha and anatta is hazy to me. What am I missing ?
+
+    You could say that the full "sequence" is *attā > anicca > dukkha > anattā.* In order for it not to be abstract, you need to start by recognizing that you have *already* taken certain things as yours. Even if you deny it through the learned notion that "there is no self," wherever there is delight, passion, and any concern about something being destroyed, there is appropriation.
+
+    Only from that personally applicable as opposed to theoretical starting point is *anicca* automatically and directly seen as *dukkha.* The fact that something is liable to perish is only painful because you delight in and assume ownership over it. Seeing that sufficiently automatically results in disenchantment and abandoning of what you used to grasp, i.e., what was *attā* (or belonging to *attā*) becomes *anattā*.
+
+---
+
+**r/HillsideHermitage** | Posted by noobknoob _2024-10-05 17:57:42_
+### Question from Ajahn's essay 'Appearance and Existence'. 
+
+Full Essay: [https://www.hillsidehermitage.org/appearance-and-existence/](https://www.hillsidehermitage.org/appearance-and-existence/)
+
+“There is what is given and what is offered and what is sacrificed; there is fruit and result of good and bad actions; there is this world and the other world; there is mother and father; there are spontaneously reborn beings; there are in the world good and virtuous recluses and brahmins who have realised for themselves by direct knowledge and declare this world and the other world.” (MN 117/iii,72)
+
+"This easily overlooked passage offers a very acute description of an *authentic* attitude of a *puthujjana*—the attitude of recognition and acknowledgment of the existence of things *as* phenomena (“*there is…”)*. Someone might argue that one does not necessarily see the spontaneously reborn beings for example, **but the point is that one should recognize the mere fact that there** ***could be*** **spontaneously reborn beings—the** ***possibility*** **of spontaneously reborn beings** ***exists*** **as such.** And if one recognizes the validity of the appearance and existence of that possibility, an *expectation of the concrete proof* that can be obtained only through *senses* (i.e. one needs to *see* those beings) ceases to be relevant, in the same way that a view that a thing exists only if it can be experienced through the senses ceases."
+
+The argument made here in support of the possibility of existence of spontaneously reborn beings is that the possibility of their existence is real as such.
+
+It can be argued that the possibility of them not existing is real as such as well. So how can one believe one over the other?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fww91w/question_from_ajahns_essay_appearance_and/lql5gk7/)** _2024-10-06 08:06:28_:
+
+    >It can be argued that the possibility of them not existing is real as such as well. So how can one believe one over the other?
+
+    The point of that is to go beyond the scientific point of view that most people are trapped in—a form of "mundane wrong view"—where they assume that something can be real only if it appears to their five senses. You would only begin to prioritize the possibility of the thing not existing if you've fallen back into that scientific mindset.
+
+    The phenomenological point of view, which the entire Dhamma is founded on, would not *deny* scientific evidence but would recognize that it's just another phenomenon in your experience that isn't intrinsically more fundamental than all others. Regarding it as the lens through which everything else should be seen is a *choice*. And that choice is not necessarily wrong when it comes to mundane matters, but it is when it comes to the five aggregates because science is *within* them, not the other way around.
+
+    If you acknowledge that, you would see that there always remains the possibility, no matter how remote, for things to be otherwise than the evidence from your five senses shows you. And that recognition is enough to return to the phenomenological perspective. You don't have to believe in specific possibilities right from the start.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-10-05 16:13:51_
+### So I feel like I'm possessed
+
+This might seem like a strange and mystical subject that doesn't belong here, but anyone who has read Nyanamoli's *Meanings* will know that the phenomenon of "feeling possessed" is a thing that *can* happen, even along the path.  
+
+For me, it precedes my Buddhist practice.  It's difficult to communicate what it's like feeling yourself as a plurality, or a plurality in yourself. I've experienced the inverse too, like I was a thief in my own body, like I stole a life, body, and memories that don't belong to me. It hasn't been a continuous thing and it's current manifestation is more unnerving than it's been for a while.
+
+Like Mathias said in *Meanings*, it undermines one's ability to act. Who is acting? If I doubt my current state of mind and feel like "I" am not in control and fight to "regain" control from the possessing force, why should I believe "my" attempts to "regain" control are "my own"?  How should I consider the intention to fight for control?  Does acting out of the perception of being possessed reinforce this very phenomenon?  
+
+I had a dream a while ago.  A wicked man was talking.  He finished whatever he was saying with the chilling words "*I have the best seat in the house.* ***Behind your eyes***." I had another similar dream this morning.
+
+Now, the Buddha taught that one who keeps the upasotha cannot be possessed by spirits. I ought to be safe from *them*, but is that all that can possess someone? What about this "self"? Do we dare go into the psychological notions of possession here? 
+
+Anyway, I don't actually feel all that worried now that it's passed. I try to see it as an image that has arisen, much like self.   I used to have a deep fear of losing my mind and losing control. That actually served as a big motivator on the path.  Because if someone restrained and virtuous who wants nothing loses their mind, can you even tell? They just sit there like usual. I'm the owner of my actions. I'm gonna keep my precepts and restraint and just keep going. I appreciate any advice or input on this subject. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1fwty0o/so_i_feel_like_im_possessed/lqkvmv3/)** _2024-10-06 06:19:10_:
+
+    I would try not to read into it, and focus on the same principle as always: making sure not to act in unwholesome ways, regardless of what the origin of the pressure is. You won't lose your mind unless you fail to do that, even in the worst of scenarios.
+
+    Also, you might have to be extra diligent with that if you have a history of mental health struggles. That can often be due to your mind wielding more power over you than "normal", so it will tend to have more tools in its arsenal to trick you. But it's not that people with mental health issues belong to a different category; it's just the normal condition intensified (or no longer successfully covered up).
+
+---
+
 **r/HillsideHermitage** | Posted by LeUne1 _2024-10-02 09:28:30_
 ### Video of Ven Nanamoli removing ticks from a snake
 
