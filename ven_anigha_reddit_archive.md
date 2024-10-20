@@ -1,3 +1,108 @@
+**r/HillsideHermitage** | Posted by ProfessionalIcy1980 _2024-10-18 16:36:37_
+### Has anyone typed up Ajahn Nyanamoli Thero's handwritten translations of the Majjhima-Nikaya?
+
+Just downloaded the handwritten translations from Path Press and was wondering if anyone had typed them up/had a typed copy. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1g6mims/has_anyone_typed_up_ajahn_nyanamoli_theros/lsn9yys/)** _2024-10-19 05:47:17_:
+
+    You're probably referring to [this](https://pathpress.org/nanamoli-majjhima-nikaya/). The author is not the living Ajahn Nyanamoli Thero from Hillside Hermitage, but an English monk named Ñāṇamoli who died in 1960.
+
+---
+
+**r/HillsideHermitage** | Posted by devot3e _2024-10-15 01:58:48_
+### Touched by joy and sorrow: Questioning some quotes of supposed Arahants.
+
+
+I’ve heard some teachers believe that an Arahant still feels emotions including negative ones, but simply does not hold them. This has been bubbling in my mind since I heard a teacher who I best not name say that an Arahant still experiences dukkha, but that there is no self in it, that it is simply “dukkha arising and dukkha passing away.”
+
+One anecdote of Ajahn Chah's interaction with a palm reader who read his palm and said: "You have a lot of anger!" to which Ajahn Chah replied: "Yes, but I don't use it."
+
+Some Western monks asked Luang Por Piak about this passage. His reply was along these lines: "Luang Por Chah was very creative with his use of language, he wanted to shake people up sometimes. The mind of an arahant is totally free from defilements. What he was referring to was the results of past kamma that were still present."
+
+Similarly:
+
+In 1979, Luang Pu Dune went to Chantaburi to rest and to visit with Ajaan Somchai … He discussed different points of meditation practice with Luang Pu, finally asking him, "Do you still have any anger?"
+Luang Pu immediately answered, "I do, but I don't pick it up."
+
+When Luang Pu Dune was undergoing treatment at Chulalongkorn Hospital in Bangkok, large numbers of people came ... Mr. Bamrungsak Kongsuk … broached the topic of the practice of the Dhamma by asking, "Luang Pu, how does one cut off anger?" Luang Pu answered, "There's nobody who cuts it off. There's only being aware of it in time. When you're aware of it in time, it disappears on its own.”
+
+And finally, another Ajahn Chah quote:
+
+     “The Buddha said that the Enlightened Ones were far from defilements. This doesn't mean that they ran away from defilements, they didn't run away anywhere. Defilements were there. He compared it to a lotus leaf in a pond of water. The leaf and the water exist together, they are in contact, but the leaf doesn't become damp. The water is like defilements and the lotus leaf is the Enlightened Mind.
+
+     The mind of one who practises is the same; it doesn't run away anywhere, it stays right there. Good, evil, happiness and unhappiness, right and wrong arise, and he knows them all. The meditator simply knows them, they don't enter his mind. That is, he has no clinging. He is simply the experiencer. To say he simply experiences is our common language. In the language of Dhamma we say he lets his mind follow the Middle Way.
+
+      These activities of happiness, unhappiness and so on are constantly arising because they are characteristics of the world. The Buddha was enlightened in the world, he contemplated the world. If he hadn't contemplated the world, if he hadn't seen the world, he couldn't have risen above it. The Buddha's Enlightenment was simply enlightenment of this very world. The world was still there: gain and loss, praise and criticism, fame and disrepute, happiness and unhappiness were all still there. If there weren't these things there would be nothing to become enlightened to! What he knew was just the world, that which surrounds the hearts of people. If people follow these things, seeking praise and fame, gain and happiness, and trying to avoid their opposites, they sink under the weight of the world.” 
+
+(in “Opening the Dhamma Eye”)
+
+—
+
+As I consider these quotes, it of course occurs to me that the teaching within may be a misrepresentation of what Arahantship means, an underestimation of the enormity of the shift. Obviously, if that were the case, it comes with certain implications about many teachers, which I should navigate with care. That being said, it’s possible it is in fact I that am misunderstanding here.
+
+(1) First, perhaps I am reading too much into things said with conventional language (as well as having been translated), in a conventional context and not precise but rather for the benefit of the one listening. Perhaps LP Piak’s description points to this, and is very clear on the matter re:defilements- and as far as I can tell, in line with the suttas. And with the second LP Dune story, he could perhaps be pointing to anatta- especially, once again, in context & with convention so that the person listening might better understand. I best not underestimate the tendency for language (and doubly so through translation) and context to muddle the meaning.
+
+(2) Second, it I must examine the texts.
+
+     “…In all matters the sage is unsupported, nothing that makes dear, nor undear, sorrow and avarice do not stain that one, As water does not stay upon a leaf. As a water-drop on lotus plant, as water does not stain a lotus flower, even so the sage is never stained by seen, heard, or whatever’s cognized. Certainly the wise do not conceive upon the seen, the heard, and cognized, nor wish for purity through another, for they are not attached nor yet displeased.”
+Jara Sutta, Sn4.6
+
+I read Dhammapada 83 before:
+
+     “Virtuous beings are unattached.
+    They do not indulge in heedless speech
+    about sensual pleasures.
+    They experience both joy and sorrow
+    but are possessed by neither.”
+
+This translation is by Ajahn Munindo, an Ajahn Chah follower (and also associated with the likes of LP Sumedho, whose talk “Do Arahants Like Ice Cream?” is worth hearing just to understand his idea of it.) I found something different in other translations:
+
+     True persons give up everything,
+     Sabbattha ve sappurisā cajanti,
+     they don’t cajole for the things they desire.
+     Na kāmakāmā lapayanti santo;
+     Though touched by sadness or happiness,
+     Sukhena phuṭṭhā atha vā dukhena,
+     the astute appear neither depressed nor elated.
+     Na uccāvacaṁ paṇḍitā dassayanti. 
+
+This one is by Bhante Sujato, who I suspect favors a similar view, but translated those two lines more literally. Ajahn Munindo’s liberal use of “joy” and “sorrow” for “sukha” and “dukkha” implies the same take as before. (Disclaimer- I don’t know Pali, and only picked out those words.) A number of other translators chose similarly.
+
+I know dukkha had different and sometimes nuanced meanings depending on context. The dukkha of the three characteristics to me implies the inherent unsatisfactoriness of anything of the world, which the Arahant still knows, along with anatta and anicca. For the Arahant, “though still in contact with the world, unshaken the mind remains, beyond all sorrow, spotless, secure.” (Mangala Sutta) And there is of course the dukkha of the first arrow vs the second arrow, the second of which would match with the dukkha of the Four Noble Truths.
+
+I’m not really sure what my exact question is here. It’s not my place to cast a judgement on whether these respected teachers are Ariya beings, especially considering my first possible misunderstanding. However, the idea that comes out of these words, while it might be a creation of my own mind rather than actually intended, feels shaky when cross-examined. If I understand correctly, HH might have something to say about all this. Happy to be pointed to a piece of writing already completed (but would appreciate help with anything super technical, please.) Would appreciate if anyone can add to this!
+
+Sorry for the length of the post. Gratitude 🙏
+
+Edit: adding AN 4.195 (worth reading in its entirety)
+
+“manasā dhammaṁ viññāya neva **sumano** hoti na **dummano**; upekkhako viharati sato sampajāno. Knowing a thought with the mind, they’re neither happy nor sad, but remain equanimous, mindful and aware.”
+
+Excerpt From
+Aṅguttaranikāya [Pali-English]: Numbered Discourses
+Bhikkhu Sujato
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1g3wwxv/touched_by_joy_and_sorrow_questioning_some_quotes/ls1fsh7/)** _2024-10-15 14:01:44_:
+
+    See Itivuttaka 44:
+
+    >And what is the element of extinguishment with residue? It's when a bhikkhu is an Arahant, who has destroyed the influxes, completed the renunciate journey, done what had to be done, laid down the burden, arrived at the highest goal, utterly destroyed the fetters of being, and is liberated through the right, ultimate knowledge. His five sense faculties still remain unimpaired, and so he continues to experience the agreeable and disagreeable, to feel pleasure and pain. The ending of passion, aversion and muddledness in him is called the element of extinguishment with residue.
+
+    See also MN 152, which states about an Arahant:
+
+    >...when seeing a form with the eye, there arises in a monk what is agreeable, what is disagreeable, what is agreeable and disagreeable. If he wants, he remains percipient of loathsomeness in the presence of what is not loathsome. If he wants, he remains percipient of unloathsomeness in the presence of what is loathsome. If he wants, he remains percipient of loathsomeness in the presence of what is not loathsome and what is. If he wants, he remains percipient of unloathsomeness in the presence of what is loathsome & what is not. If he wants — in the presence of what is loathsome and what is not — cutting himself off from both, he remains equanimous, aware, & mindful.
+
+    In theory, it's not wrong to say that pleasure and pain remain in an Arahant. But it also depends on the context and the audience. If they incline towards the view of being—welcoming, delighting, enjoying—which is the more common scenario, then it's more accurate to say that Nibbāna is the destruction of feelings ([even of consciousness altogether](https://suttacentral.net/sn12.1/en/bodhi?lang=en)) since that can bring *them* closer to the middle, and away from their delight in feelings. But if they incline towards[ the view of non-being—resisting and denying](https://suttacentral.net/sn1.24/en/bodhi?lang=en)—which can happen more with monastics and very earnest practitioners, then stating that not everything needs to be destroyed might nudge *them* closer to the middle. But, one thing for sure, there is no room for debate concerning [the acts an Arahant is incapable of](https://suttas.hillsidehermitage.org/?q=an9.7), regardless of which angle you take.
+
+    You can't necessarily judge the validity of what someone teaches based solely on how they describe the final goal, especially if it’s expressed as generically as, “X is still there, but you are no longer attached to it.” Even the most erroneous views about the Dhamma can be made to fit into such a broad framework.
+
+    >an Arahant still experiences dukkha, but that there is no self in it, that it is simply “dukkha arising and dukkha passing away.”
+
+    Taking this as an example, you would need to dig deeper to find out what does \*"\*dukkha" actually mean *for them,* and whether the views, attitudes, and practices that they proclaim for reaching that goal actually match what the Suttas instruct. Using the [right phrases](https://suttacentral.net/sn5.10/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin#6.1) doesn't amount to much in itself. Hence, the Buddha said that someone can get the phrasing of a teaching right, but not the meaning, and vice versa. This topic is a case where that distinction becomes particularly evident.
+
+---
+
 **r/HillsideHermitage** | Posted by Print-Remarkable _2024-10-11 11:43:05_
 ### Monks online 
 
