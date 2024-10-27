@@ -1,3 +1,148 @@
+**r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-10-25 22:06:38_
+### Dealcoholized Beer (0.5%)
+
+I used to enjoy drinking a dealcoholized beer here and there,  I realized that the 0.5% might be a breach of the fifth precept so I stopped due to doubt if it's a good idea. 
+
+I know the rules are very strict when it comes to monks and alcohol(not even a drop on a blade of grass) but I'm wondering what the situation is like for laypeople.  The "that lead to intoxication" part of the precept seems most relevant here, along with my intentions of course.  I find it very refreshing, and I enjoy the taste(and it's only 10 calories). I only drink one at a time.  Drinking a cold beer in a hot shower is really relaxing, although I worry if that might be a bit too sensual.  Probably the most sensual thing I'd do. 
+
+Not as relevant, but when I was conflicted about this before(unrelated to the alcohol content issue) I had a dream Ajahn Chah told it was fine to drink them. Drinking one in the afternoon/evening actually helped me get over my strong attachment to hot cocoa and chocolate, which was an endless craving for me(a consequence of replacing the evening meal with a piece of chocolate or cocoa when I first started taking the precept about eating times). I realize I can't do things just because dream Ajahn Chah says I can, but his advice certainly helped at the time.
+
+Edit: It's clear that I **was** trying to justify it or look for external validation(not that I've even had a drink since I realized it may be a compromise).  Like Bhikkhu Anigha(I am deeply thankful for your guidance) says, it seems more like it's an issue of consuming for the sake of pleasure. I imagine it's difficult to give advice on this topic given my circumstances(see below) and not wanting to push me in a wrong direction.  I got worked up over my eating issues but I found some peace last night by determining "I won't die so it doesn't matter" towards food and seeing that to as an issue dependent on having a body and being attached to it.
+
+Also, last night I dreamt I attended a debate. There were elderly people who told me this was a "beverages allowed" event and I told them I was grateful for that. They were FOR "allowing beverages" and waxed on about the history of their leadership. But then the other side showed up, the party of Ethics.  They had a very powerful presence and were very passionate about their cause and I came to favour them. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gc630i/dealcoholized_beer_05/ltt2y01/)** _2024-10-26 05:28:21_:
+
+    The problem wouldn't so much be the technicality of whether the alcohol percentage makes it count as an intoxicant—it probably doesn't because apparently the body metabolizes it almost as quickly as you drink it, so getting drunk is almost impossible—but the fact that your mind seems to be keen to justify it even though it clearly serves no practical purpose. So I would see it as a failure to give up eating for the sake of pleasure (a subtler stage of the training) and not a breach of the 5th precept per se.
+
+---
+
+**r/HillsideHermitage** | Posted by wisecameron _2024-10-25 00:49:22_
+### 7th precept question
+
+I work as a software developer.  I often read textbooks to learn new skills related to my job, and dedicate a large amount of time to go above in beyond in terms of my professional contributions and expanding my skillset.  I take it to be okay due to the phrase "accomplished in his sphere of activity" but would appreciate further insights into this matter.  Frankly, it has been difficult for me to determine whether this all falls under entertainment to some extent.  I legitimately do enjoy it. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gbi3m8/7th_precept_question/ltttvfp/)** _2024-10-26 10:05:17_:
+
+    As long as you are making sure that while you are doing it, the purpose is to support your livelihood and not entertainment per se, then even if you happen to find it entertaining, it would not be an automatic breach of the precepts like listening to music, watching movies, or playing videogames would be.
+
+    Now, that's not to say that spending a lot of time and effort in mundane endeavors even if they're not against the precepts won't detract from your efforts in the Dhamma. It will, simply because the  time and energy you have each day are limited, so you can't make optimal progress in two things at once. Hence the Buddha said that delighting in and overdoing talk, work, and sleep—none of which are against the precepts—would hinder progress even as a noble disciple.
+
+    Nevertheless, you have much bigger "leaks" to address than this if you're still breaking other precepts from time to time.
+
+---
+
+**r/HillsideHermitage** | Posted by wisecameron _2024-10-25 00:43:52_
+### 6th precept
+
+Hello, just wondering if  permanently sticking to a 8-eat  / 16-fast schedule and not snacking (ie; two meals within the window) would be within the spirit of the precept.  I have an odd sleep schedule largely related to work habits and am very physically active.  Im trying to be pragmatic here because I believe the solar noon interpretation would be very unhealthy for my body and thus unsustainable.  But I also don't want to be making a compromise, I want to actually be following the precept where it counts.
+
+Thanks.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gbhzou/6th_precept/ltv8nke/)** _2024-10-26 16:01:10_:
+
+    It would be more conducive to recognizing the mental craving for pleasure and restraining it than eating whenever you want. The specific timing of the meal(s) is not necessarily essential, although 4 hours would be better than 8, and a single meal better than a time window. But you can progress towards that gradually.
+
+    As an aside, you may also want to reconsider whether eating before noon is what's unhealthy/unnatural and not the odd sleep schedule.
+
+---
+
+**r/HillsideHermitage** | Posted by StriderLF _2024-10-22 16:49:59_
+### Is dealing with sloth and torpor through caffeine bad for the gradual training? 
+
+ Hello everyone. Sloth and torpor has been the hardest hindrance for me. Once it settles in, it seems like there's nothing to be done besides waiting. 
+
+ I've been trying to quite caffeine too, so my sloth and torpor is quite strong. Things get even worse because I have to work in a very thinking demanding job, so sometimes I feel defenseless without caffeine. 
+
+  
+ How do you deal with sloth and torpor without coffee? Is it bad to drink coffee if one is trying to practice the gradual training? 
+
+  
+ Thank you so much!
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1g9mv9f/is_dealing_with_sloth_and_torpor_through_caffeine/ltbu2cl/)** _2024-10-23 12:03:21_:
+
+    Sloth and torpor is not the fact that you're drowsy or tired. That will happen to the body at times regardless of what you do. It's the fact that you attend to that state wrongly, i.e., wallow in it, or try to get rid of it as if you were the owner of your aggregates. And that's why it makes you suffer.
+
+    So drinking coffee is not good or bad in itself. What's bad is the view that coffee or any sort of external remedy or lifestyle change can address the hindrance of sloth and torpor. They can't; they just remove the obvious *trigger* for that hindrance. So it would be like thinking that you're free from aversion just because annoying things no longer happen to you.
+
+---
+
+**r/HillsideHermitage** | Posted by SoberShire _2024-10-21 15:50:36_
+### Uprooting anxiety - Beginner here 
+
+Hello hoping to get some clarification to my understanding as I am new to this. I recently stopped trying to hide from life through the use of alcohol and am trying to learn how to live on life's terms
+
+Anxiety is a major hindrance for me (though obviously, I suffer from all 5). I was listening to the podcast episode "Unwelcoming of the Hindrances" and it made sense that I am strengthening this hindrance by two major factors:
+
+1) Running away/distracting myself from it - This was my primary reason for drinking/escape
+
+2) Attaching my attention to it by obsessively worrying about my health, the future, etc. Thinking that I need to pay attention to the stories and sensations produced by this hindrance or something horrible would happen.
+
+So these are both wrong attention and perpetuating the anxiety itself - is that accurate? To eventually uproot it, I need to learn how to let anxiety be here, do it's thing, but not try to escape it and not give it the attention it wants (or the attention I've habitually given it in the past) ?  Sort of like feel the fear and do what I need to do in life anyway? 
+
+I would like to start practicing/experimenting with this, but I don't want to unintentionally do this wrong and feed the anxiety more so any clarification would be most welcome.
+
+Thank you so much :)
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1g8sz3x/uprooting_anxiety_beginner_here/ltbv76g/)** _2024-10-23 12:11:36_:
+
+    >So these are both wrong attention and perpetuating the anxiety itself - is that accurate? To eventually uproot it, I need to learn how to let anxiety be here, do it's thing, but not try to escape it and not give it the attention it wants (or the attention I've habitually given it in the past) ? Sort of like feel the fear and do what I need to do in life anyway?
+
+    More accurately, don't just try to "deal" with the anxiety, with is often just one of the byproducts of the underlying problem. Look instead at what's making you *liable* to anxiety to begin with, which is bound to be passion and attachment of some sort that you still keep maintaining. When there is that which is dear, anxiety about losing it is inevitable. And by nurturing passion towards specific things, you also nurture passion towards your aggregates as a whole, so sickness, aging, and death will become even more distressing.
+
+    Once you've stopped engaging in acts of passion that increase the liability to anxiety (i.e., are established in virtue and restraint), then yes, the rest of the work is to learn how to balance your attention while  anxiety is there (not give in to it without trying to get rid of it). 
+
+    That last step is like heating up the water that's left in a pan until it all finally evaporates. You're not getting anywhere if you're still adding water to the pan by creating and maintaining existing cravings and attachments.
+
+---
+
+**r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-10-19 14:24:19_
+### Mind-moments
+
+I'm listening to this discussion:
+
+https://youtu.be/xw4d3kPrGd0?si=p3DoY7Ad_9uTPhjp
+
+And so far have gathered that the Ajahns refute the abhidhamma and commentary claim that the mind is made up of "mind moments."
+
+1.) Why are they refuting this? 
+2.) Why do they see the Commentaries and abhidhamma as untrustworthy or inaccurate?
+3.) How then should the mind be described, and what would they base that description on?
+
+I have not finished the discussion because there is so much there that I want to listen to it in blocks so I can stop and digest what I've heard. I apologize if these questions are answered later in the video.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1g7a0sq/mindmoments/lsv8sxq/)** _2024-10-20 17:03:39_:
+
+    It doesn't even matter whether the mind is made up of "mind moments". The problem is not that that specific idea is wrong, and we're suggesting an alternative. The entire premise that suffering is resolved by figuring out how your mind and experience "work" is in itself a very inaccurate conception of what wisdom is. It's on the same level as the pointless speculation that the Buddha denounced as a form of *ayoniso manasikāra* in MN 2:
+
+    >This is how he attends not-through-the-origin: ‘Did I exist in the past? Did I not exist in the past? What was I in the past? How was I in the past? After being what, what did I become in the past? Will I exist in the future? Will I not exist in the future? What will I be in the future? How will I be in the future? After being what, what will I become in the future?’  **Or he is undecided about the present thus: ‘Am I? Am I not? What am I? How am I? This creature—where did it come from? And where will it go?’**
+
+    Instead of figuring out what your mind is made of, the problem is (as MN 2 explains) how you attend to things and how that either feeds or starves your defilements. As a result of purifying your mind from greed, aversion, and delusion through virtue and sense restraint coupled with proper attention, you will get to understand *anattā* and the Four Noble Truths for yourself, and be liberated from suffering eventually. Not as a result of abstract rationalizations that you use to downplay and cover up the suffering you generate through your own actions—until that doesn't work anymore.
+
+    >Why do they see the Commentaries and abhidhamma as untrustworthy or inaccurate?
+
+    Because they consist either of descriptions of how to develop the opposite of mindfulness (complete absorption in one thing at the expense of everything else, depriving you of the perspective to distinguish wholesome from unwholesome) or abstract information that will make you think you understand what the Buddha meant just because you can parrot it.
+
+---
+
+**r/HillsideHermitage** | Posted by Anemone1k _2024-10-18 23:05:11_
+### Losing Mindfulness?
+
+How can mindfulness be lost if the very act of recognizing that loss implies its presence?   
+  
+An animal, for example, could be said to have legitimately lost its mindfulness of virtue since animals don't appear to have any reference point for virtuous recollection, but in contrast a human who recognizes he is breaking the precepts has not lost his mindfulness (otherwise he would not know he is breaking precepts). At most he has chosen to suppress his mindfulness to the degree required to act in that way, which indicates that the unfortunate choosing of that choice itself was rooted in mindfulness. So it doesn't seem possible to ever get outside of mindfulness once it is established, even if an entire life is lived making choices antithetical to it. This doesn't seem like a particularly skillful way to live, nor very peaceful, yet it would not seem to ever completely leave behind the mindfulness of what is wholesome.
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1g6v8fu/losing_mindfulness/lsvapzk/)** _2024-10-20 17:13:36_:
+
+    >but in contrast a human who recognizes he is breaking the precepts has not lost his mindfulness (otherwise he would not know he is breaking precepts). At most he has chosen to suppress his mindfulness to the degree required to act in that way, which indicates that the unfortunate choosing of that choice itself was rooted in mindfulness
+
+    In a certain sense you could put it that way, but "being mindful" in itself doesn't do anything. Freedom from suffering is not attained simply through mindfulness but also through effort (another one of the basic faculties and enlightenment factors). So if a person acts in unwholesome ways, their effort is lacking, and their mindfulness too, present as it may be, clearly isn't sufficiently developed. You wouldn't walk into a pit of burning embers if you were truly mindful of it as such.
+
+---
+
 **r/HillsideHermitage** | Posted by ProfessionalIcy1980 _2024-10-18 16:36:37_
 ### Has anyone typed up Ajahn Nyanamoli Thero's handwritten translations of the Majjhima-Nikaya?
 
