@@ -3,24 +3,38 @@ import datetime
 
 conn = sqlite3.connect('reddit_comments.db')
 
-def save_comments_to_markdown(filename='ven_anigha_reddit_archive.md'):
+def save_comments_to_markdown():
     c = conn.cursor()
-    with open(filename, 'w', encoding='utf-8') as file:
-        c.execute('SELECT * FROM submissions ORDER BY created_at DESC')
-        submissions = c.fetchall()
-        column_names = [description[0] for description in c.description]
-        for submission in submissions:
-            submission_dict = dict(zip(column_names, submission))
+    c.execute('SELECT * FROM submissions ORDER BY created_at DESC')
+    submissions = c.fetchall()
+    column_names = [description[0] for description in c.description]
 
-            # Use utcfromtimestamp for UTC time
-            submission_time = datetime.datetime.utcfromtimestamp(submission_dict['created_at']).strftime('%Y-%m-%d %H:%M:%S')
+    # Group submissions by year
+    submissions_by_year = {}
+    for submission in submissions:
+        submission_dict = dict(zip(column_names, submission))
+        # Get the year from created_at timestamp
+        submission_time = datetime.datetime.utcfromtimestamp(submission_dict['created_at'])
+        year = submission_time.year
+        submissions_by_year.setdefault(year, []).append(submission_dict)
 
-            file.write(f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time}\n")
-            file.write(f"### {submission_dict['title']}\n\n")
-            file.write(f"{submission_dict['body']}\n\n")
-            c.execute('SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc', (submission_dict['id'],))
-            comments = c.fetchall()
-            create_nested_structure(comments, file)
+    # Process submissions year by year
+    for year, submissions_in_year in submissions_by_year.items():
+        filename = f'ven_anigha_reddit_archive_{year}.md'
+        with open(filename, 'w', encoding='utf-8') as file:
+            for submission_dict in submissions_in_year:
+                # Format submission time
+                submission_time_str = datetime.datetime.utcfromtimestamp(submission_dict['created_at']).strftime('%Y-%m-%d %H:%M:%S')
+
+                file.write(f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time_str}_\n")
+                file.write(f"### {submission_dict['title']}\n\n")
+                file.write(f"{submission_dict['body']}\n\n")
+
+                # Fetch and process comments for the submission
+                c.execute('SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc', (submission_dict['id'],))
+                comments = c.fetchall()
+                create_nested_structure(comments, file)
+            print(f"Markdown file generated for {year}: {filename}")
 
 def create_nested_structure(threads, file_obj):
     thread_dict = {}

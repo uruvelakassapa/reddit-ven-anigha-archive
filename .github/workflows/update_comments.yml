@@ -51,23 +51,17 @@ jobs:
       run: |
         python generate_markdown.py
 
-    - name: Check if markdown file exists
-      id: markdown_check
-      run: |
-        if [ -f ven_anigha_reddit_archive.md ]; then
-          echo "markdown_exists=true" >> $GITHUB_ENV
-        else
-          echo "markdown_exists=false" >> $GITHUB_ENV
-        fi
-
-    - name: Commit and push changes if markdown file was created
-      if: env.markdown_exists == 'true'
+    - name: Commit and push changes if markdown files were created
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add ven_anigha_reddit_archive.md reddit_comments.db
-        git commit -m "Update Reddit comments and markdown file"
-        git push origin HEAD:${{ github.ref }}
+        git add ven_anigha_reddit_archive_*.md reddit_comments.db
+        if git diff --cached --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m "Update Reddit comments and markdown files"
+          git push origin HEAD:${{ github.ref }}
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
