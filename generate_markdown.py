@@ -12,7 +12,10 @@ def save_comments_to_markdown(filename='ven_anigha_reddit_archive.md'):
         for submission in submissions:
             submission_dict = dict(zip(column_names, submission))
 
-            file.write(f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{datetime.datetime.fromtimestamp(submission_dict['created_at']).strftime('%Y-%m-%d %H:%M:%S')}_\n")
+            # Use utcfromtimestamp for UTC time
+            submission_time = datetime.datetime.utcfromtimestamp(submission_dict['created_at']).strftime('%Y-%m-%d %H:%M:%S')
+
+            file.write(f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time}\n")
             file.write(f"### {submission_dict['title']}\n\n")
             file.write(f"{submission_dict['body']}\n\n")
             c.execute('SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc', (submission_dict['id'],))
@@ -23,6 +26,7 @@ def create_nested_structure(threads, file_obj):
     thread_dict = {}
     for thread in threads:
         thread_dict[thread[0]] = {
+            "id": thread[0],
             "parent": thread[4],
             "user": thread[2],
             "content": thread[6],
@@ -35,30 +39,50 @@ def create_nested_structure(threads, file_obj):
     for thread_id, thread in thread_dict.items():
         parent_id = thread["parent"]
         if parent_id and parent_id in thread_dict:
-            thread_dict[parent_id]["children"].append(thread_dict[thread_id])
+            thread_dict[parent_id]["children"].append(thread)
+        else:
+            thread["parent_missing"] = parent_id
 
-    # Function to recursively create the markdown structure
-    def generate_markdown(thread, indent=0):
-        indent_str = '    ' * indent
-        content_indent_str = '    ' * (indent + 1)
-        paragraphs = thread['content'].split('\n\n')
-        indented_paragraphs = ['\n'.join(f"{content_indent_str}{line}" for line in paragraph.split('\n')) for paragraph in paragraphs]
-        indented_content = '\n\n'.join(indented_paragraphs)
-        markdown = f"{indent_str}- **[{thread['user']}]({thread['url']})** _{datetime.datetime.fromtimestamp(thread['created_at']).strftime('%Y-%m-%d %H:%M:%S')}_:\n\n{indented_content}\n"
-        for child in thread["children"]:
-            markdown += generate_markdown(child, indent + 1)
-        return markdown
+    # Separate roots into top-level comments and orphan comments
+    top_level_roots = [thread for thread in thread_dict.values() if not thread["parent"]]
+    orphan_roots = [thread for thread in thread_dict.values() if thread.get("parent_missing") and thread["parent"]]
 
-    # Find the root threads (those without a parent)
-    roots = [thread for thread_id, thread in thread_dict.items() if not thread["parent"]]
+    # Sort top-level roots by 'created_at' ascending
+    top_level_roots.sort(key=lambda x: x['created_at'])
 
-    # Generate markdown for each root thread
     markdown_output = ""
-    for root in roots:
+
+    # Process top-level roots first
+    for root in top_level_roots:
         markdown_output += generate_markdown(root)
+
+    # Optionally process orphan roots
+    for root in orphan_roots:
+        markdown_output += generate_markdown(root)
+
     markdown_output += "\n---\n\n"
-    # Write the output to the file object
     file_obj.write(markdown_output)
+
+def generate_markdown(thread, indent=0):
+    indent_str = '    ' * indent
+    content_indent_str = '    ' * (indent + 1)
+    paragraphs = thread['content'].split('\n\n')
+    indented_paragraphs = ['\n'.join(f"{content_indent_str}{line}" for line in paragraph.split('\n')) for paragraph in paragraphs]
+    indented_content = '\n\n'.join(indented_paragraphs)
+    
+    parent_info = ""
+    if thread['parent']:
+        parent_info = " *(in reply to a comment not included)*"
+
+    comment_time = datetime.datetime.utcfromtimestamp(thread['created_at']).strftime('%Y-%m-%d %H:%M:%S')
+    
+    markdown = f"{indent_str}- **[{thread['user']}]({thread['url']})** _{comment_time}{parent_info}:\n\n{indented_content}\n"
+
+    # Sort children by 'created_at' ascending
+    sorted_children = sorted(thread["children"], key=lambda x: x['created_at'])
+    for child in sorted_children:
+        markdown += generate_markdown(child, indent + 1)
+    return markdown
 
 def main():
     save_comments_to_markdown()

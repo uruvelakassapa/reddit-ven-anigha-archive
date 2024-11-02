@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 import sqlite3
 import datetime
+import json
 
 # Load environment variables from .env file
 load_dotenv()
@@ -140,7 +141,7 @@ def get_latest_comment_id():
 
 def main():
     username = os.getenv('TARGET_USERNAME')  # Load target username from environment variable
-    till_last_comment = os.getenv('TILL_LAST_COMMENT')
+    till_last_comment = json.loads(os.getenv('TILL_LAST_COMMENT', 'true').lower())
 
     if till_last_comment:
         last_comment_id = get_latest_comment_id()  # Get the latest comment id from the database
