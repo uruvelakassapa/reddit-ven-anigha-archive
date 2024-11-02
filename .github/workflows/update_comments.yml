@@ -58,7 +58,7 @@ jobs:
           echo "markdown_exists=true" >> $GITHUB_ENV
         else
           echo "markdown_exists=false" >> $GITHUB_ENV
-      shell: bash
+        fi
 
     - name: Commit and push changes if markdown file was created
       if: env.markdown_exists == 'true'
