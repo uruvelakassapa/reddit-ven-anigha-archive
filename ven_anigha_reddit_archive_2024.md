@@ -1,3 +1,66 @@
+**r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-11-08 10:40:37_
+### Taking things for anxiety
+
+When, if ever, is it appropriate to take things for anxiety? Obviously things that intoxicate are out of the question. 
+
+Things like magnesium and catnip have calming qualities, and magnesium helps relax your muscles. I experience an almost constant tension in my neck and shoulders(from anxiety, I would wager) and having any sort of relief from this is a godsend. The pain can make it difficult to focus or meditate, and can increase my stress. To make matters worse as soon as I experience relief from the tension for whatever reason, the mind starts creating fear and anxiety that the fear and anxiety will come back, which can get me wound up until it does come back.  It feels like I'm intentionally trying to scare myself. It's almost like an OCD sort of thing. 
+
+I'm working on enduring on the right level and I have been able to find peace at times even when it's there. 
+
+I used to use drugs a lot, so I'm aware that there can be a desire to try and control feeling and I'm becoming more and more aware that it's a futile effort. My mind *can* have that attitude of "consume to feel better" or just to not experience reality as I do.
+
+I don't know if that means it's always bad to take things with the intention of reducing the tension, like catnip or magnesium, or taking them without that intention(which seems hard to do once you are aware of such effects).
+
+I'm aware in a strange way how consuming this or that food or substance can alter the way I experience the "others" I seem to carry around with me. I discerned at some point in the past that personality isn't as solid as I thought and that there are all these "parts" or things that seem "other". Regarding the alteration of the perception of them changing upon consuming this or that, it's made me understand why some foods are considered aphrodisiacs, or why pork is considered spiritually unhealthy by certain religions(it certainly isn't good for me). 
+I think understanding this framework of others is important.  I'm trying to stop attempting to interpret or psychologize them and instead see them all(including self) as appearances and stop assuming their bhava. This might be a more important point of discussion but I wouldn't know what to ask about it.
+
+See the sutta below on plant medicine and plant spirits. (I'm not dying or in the pain of death, of course, and I'm not linking that as a justification for anything, it's just relevant to this discussion). A fascination and attachment with them has been an issue and motivator for consuming certain plants in the past. From the horrific datura to basil and thyme tea. 
+ https://www.accesstoinsight.org/tipitaka/sn/sn41/sn41.010.wlsh.html
+
+Edit: down vote if you feel it's appropriate, but consider leaving a comment with your thoughts instead.  If the answer to a question is worth knowing, the question has value, and the Buddha encourages the asking of questions. 
+
+Given the honest history I laid out above, I think I'll continue to proceed with caution. I was considering buying some ashwagandha again to see if that would help with this horrible neck tension, but I'll put that on hold.  I still don't know where the milder things I listed above like magnesium and catnip fit. 
+
+It might be that part or all of the problem lies in looking for, valuing, and assuming a solution that isn't instead about letting go of the problem.  There is a place where I stop "making ***the*** problem" but it's hard to find.
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gmfo84/taking_things_for_anxiety/lw7js7p/)** _2024-11-09 05:44:29:
+
+    As long as something isn't an intoxicant, it's fine in itself. Everyone inevitably engages in management to some degree. It's wrong if (1) the management takes you outside the precepts or (2) you fall into the view that managing the circumstances that *trigger* your liability to suffering is the way to liberate yourself from suffering. But if you draw the line of allowable management somewhere (the precepts being the most fundamental "line"), and then move on to doing the actual work of undoing the liability, you won't get sidetracked.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-11-06 17:15:47_
+### Eating in moderation and working out
+
+I would like to eat in moderation, and I would like to work out and gain weight.  Trying to find the middle way here has been difficult, and anxiety and doubt about it has resulted in lots of internal conflict.  
+
+I thought it might not even be possible, but Ajahn Nyanamoli works out and has got muscles, which requires eating a calorie surplus to gain. When he speaks about moderation in eating, as in all things, the intention is emphasized, not eating slowly or chewing 30 times or something.  He's even said something along the lines of(I apologize for not having a direct quote) whether you eat a lot or a little doesn't matter, as long as you keep the right context in mind. 
+
+The reasons I got into working out(and eating enough to gain weight) were for:
+1. Mental health
+2. Physical health
+3. Being able to sit more comfortably
+4. Being strong and able to do whatever I need to do, and to generally feel more comfortable in my body.
+
+How does one navigate eating in moderation and eating to gain muscle at the same time?  I think of the Bodhisattva and his intentions eating Sujata's offering.  To make the body strong and comfortable enough for jhana.  His beauty would have also increased along with this, but that wasn't his intention, it was just a side effect.
+
+It's a bit more complicated when I  have to eat a lot to gain weight, eating before noon. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gl3lzv/eating_in_moderation_and_working_out/lvwfc8e/)** _2024-11-07 14:23:36:
+
+    >How does one navigate eating in moderation and eating to gain muscle at the same time?
+
+    You'd better make sure you sort out the former first and foremost (assuming the 8 precepts and sense restraint are already in place). Then you'll have some sort of reference point as to what the right context behind eating actually is, and you'll be able to tell when you drift away from it. Also, the idea that you need to actively try to eat more to gain muscle could easily become a way for someone who doesn't see their own mind clearly to rationalize their finding safety in food, a tendency which will naturally increase once all the other avenues for sensual gratification have been blocked by the precepts.
+
+    So, if you have the free time and will to commit to physical exercise, then just to be on the safe side, I would still recommend eating only for the sake of assuaging hunger. If you have enough energy to complete your workouts and your lifts are improving over time, you're probably eating enough. And if you're not, you'll likely feel hungrier, and thus naturally eat more.
+
+    >I think of the Bodhisattva and his intentions eating Sujata's offering. To make the body strong and comfortable enough for jhana. His beauty would have also increased along with this, but that wasn't his intention, it was just a side effect.
+
+    That's because he had been outright starving himself for years, to the point that [he didn't even have the strength to urinate or defecate without falling](https://suttas.hillsidehermitage.org/?q=mn12#mn12:52.1-mn12:56.3). It doesn't mean that an average, perfectly functional person *needs* to eat more and become stronger in order to develop their minds. Strengthening the body is a very secondary thing that's almost completely tangential to the practice, and should be done only if you're sure that the intention behind it is not tainted with passion, and is not fueling further appropriation and delight in your own body.
+
+---
+
 **r/HillsideHermitage** | Posted by Future_Plastic_9910 _2024-10-26 10:08:24_
 ### Are there any things that involve peripheral awareness?
 
