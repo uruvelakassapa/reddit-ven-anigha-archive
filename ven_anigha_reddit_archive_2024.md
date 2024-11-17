@@ -1,3 +1,93 @@
+**r/HillsideHermitage** | Posted by noobknoob _2024-11-14 12:51:25_
+### Gratification
+
+If the gratification of sensuality is limited only to the domain of 'delight', then why is it that if one, after delighting in the possibility of engaging in a sensual object (which already is releasing some pressure of the sensual desire), goes on to actually engage with the sensual object physically, they feel temporarily satisfied and it releases the pressure almost completely? 
+
+If the domains of 'delight' and physical sense engagement are completely independent (as is sometimes mentioned in the talks), why then the pressure (which is in the domain of delight/desire/craving) is released after engagement in the physical domain?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gr425d/gratification/lxauhdd/)** _2024-11-15 18:02:52:
+
+    The assumption that “the pressure is released” is precisely where the fundamental wrong view lies. The particular desire would often subside, but the *liability* to desire and other hindrances—which is a pressure that’s more in the background—always inevitably increases whenever you seek sensual gratification.
+
+    That’s why you never actually “get away with it”: you’re always increasing the weight of sensuality and the hindrances whenever you give in to them, but because for most people it’s already so heavy and they’re so used to carrying that load, each couple of pounds added doesn’t feel like much.
+
+    And you’ll see if you reflect carefully that there has never, ever been an instance where you were *truly* satisfied upon scratching a sensual itch (“satisfied” meaning, you were perfectly equanimous about what happened afterward and felt no need to do anything else). At best, you felt at ease only insofar as you expected to have *further* access to the same pleasant experience or object, or to a different one. The promise of satisfaction is always a mirage; it’s not there once you actually walk there.
+
+    So, indeed, it’s[ like a leper whose only concept of a "resolution" is to cauterize his wounds for temporary relief](https://suttacentral.net/mn75/en/bodhi?lang=en&reference=main&highlight=true), as opposed to curing his leprosy altogether.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gr425d/gratification/lxe47dv/)** _2024-11-16 05:42:25 *(in reply to a comment not included)*:
+
+    >But then stress piles up and tiredness increases, it's like I'm in auto pilot.
+
+    This doesn't happen by accident. If your mind's pressure to give in becomes stronger, it can only be because you were already giving in to its pressure before in other ways, and thus it gets agitated and wants to keep going with the same momentum. Like an untrained dog: the more you let it run around excitedly, the less it will be willing to stop when you pull on the leash.
+
+    So my advice would be to check other actions and behaviors by body, speech, or mind that you may be taking for granted, especially those that took place in the recent past, whenever you feel intense pressure to use your phone for distraction and similar. The only thing that can ever intensify the five hindrances is previous acts rooted in the five hindrances.
+
+---
+
+**r/HillsideHermitage** | Posted by Print-Remarkable _2024-11-13 02:23:43_
+### A little confusion about a teaching 
+
+Been studying the Mahadukkhakkahandha sutta in the MN and having trouble lining it up with Ven. Nyanamoli’s interpretation. Not to say I think his is wrong, I’m just confused. When discussing Gratification, danger, escape he often emphasizes that gratification is only found here and now in the specific delight being imagined and not in the specific object. Thus following through with the actual object is redundant. This interpretation makes total sense to me even though I probably didn’t do it justice in my explanation but I can’t find that same description with in the actual above mentioned sutta? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gq2fth/a_little_confusion_about_a_teaching/lxb8953/)** _2024-11-15 19:10:55:
+
+    >gratification is only found here and now in the specific delight being imagined and not in the specific object
+
+    If you read more closely, it says:
+
+    >And what is the gratification of sensuality? There are these five strands of sensuality. What five? Sights cognizable by the eye that are likable, desirable, agreeable, pleasant, sensual, and enticing.... (and so on). The pleasure and joy that arise ***based on*** these five strands of sensuality: this is the gratification of sensuality.
+
+    So the Sutta itself is also telling you that the gratification is not *in* the object, even though the object itself is already pleasant. The gratification arises *based on* the pleasant object, which is why completely abandoning gratification is possible to begin with (meaning, there is no need to dismantle everything that’s agreeable, which would be an endless task).
+
+    That gratification and the agreeability of the sense object are completely separate things can be seen from how, if you establish and maintain the context of eating purely for survival,[ like someone who eats their only child while stranded in a desert so that they can hopefully make it out alive](https://suttacentral.net/sn12.63/en/bodhi?lang=en), gratification would be absent from that meal even though the taste itself might be very agreeable—the very same taste (say, of your favorite food) that, with that context being absent, would’ve been purely sensual simply because of that.
+
+---
+
+**r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-11-09 04:57:20_
+### Mn 18 The Lump of Honey
+
+Could someone help me understand Venerable Mahākaccāna's explanation in MN18? 
+
+https://suttas.hillsidehermitage.org/?q=mn18#mn18:22.3~no-highlight
+
+In this sutta, the Buddha explains how one "is not underlain by perceptions". In his further explanation, he seems to imply that he's not referring to any and all perceptions but "perceptions and considerations born of proliferation". 
+
+As I understand the Buddha's explanation, this state not underlain by perceptions is reached "if there is nothing to be delighted in, welcomed, or rested upon" in regards to these unbeneficial proliferations. 
+
+The bhikkhus are confused and ask Mahākaccāna's for help. 
+
+His explanation is a variation on the description of the 12 links of dependent origination ripening in "perceptions and considerations born of proliferation" instead of old age and death. He seems to explain that with a functioning eye (and the 2 related factors) comes contact, feeling, thinking and then proliferation. 
+
+He even doubles down on his explanation saying that with a functioning eye, this chain of dependencies is conceivable. Fair enough, I can see that in my own experience. 
+
+Then he describes the cessation of this chain of dependencies explaining how if the eye was not functioning (and corresponding objects and eye-consciousness), it would be completely inconceivable to speak of contact.
+
+I can see that too, fair enough again. Knowing the eye is impermanent and not-self, I can see how there being no eye (this eye at least) is inevitable and then no perceptions would beset me. 
+
+However, right now, I do have a functioning eye. Knowing its impending cessation does not free me at all from this chain, practically. 
+
+I find the Buddha's brief explanation clearer as he seems to say that I should not delight in or welcome these proliferated perceptions. 
+
+At least, I can try to follow that instruction. I can see how it would stop ""perceptions and considerations born of proliferation" and not any and all perceptions which I cannot stop since my eye IS functioning. 
+
+How is Mahākaccāna's explanation practically useful? 
+
+It sounds to me like he's going too far by explaining how there could be no perception whatsoever in my experience. Then, of course, at that point, no proliferation. 
+
+To me it sounds like someone telling another person to bomb the whole neighbourhood, heck the whole planet, so stray cats won't come begging for food at his door. No planet, no neighbourhood, no cats, no problem. Thank you very much, that'll be 50 dollars plus taxes and travelling expenses. 
+
+Whereas the Buddha's brief explanation was more like "stop feeding the damn cats". 
+
+I can use my knowledge of dependent origination to remember periferally that these perceptions are impermanent, not mine and should not be grasped if unwholesome, but I can't say that it makes them "inconceivable" here and now in my experience. Perceptions are very much there and conceivable for me as I do have a functioning eye and can only imagine not having one. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gn2jvd/mn_18_the_lump_of_honey/lwryb3o/)** _2024-11-12 17:15:20:
+
+    >However, right now, I do have a functioning eye. Knowing its impending cessation does not free me at all from this chain, practically.
+
+    It wouldn't free you if you're expecting that to get rid of the besetting perceptions. But the whole point of the Sutta is that that's fortunately not necessary. But for it to "work", you do have to give up *all* expectations of management, i.e., of something that will give you peace by ridding you of the perceptions themselves, and recognize that the practice is to (1) not act out of lust or aversion towards perceptions  (virtue) and (2) have the right context while you continue to not act out, and in this case, the context is impermanence, i.e., the fact that what pressures you stands upon a foundation that's not in your control. In this way, you train your mind to not suffer amidst pressure, without having to exert the slightest effort to get rid of it or replace it. Hence the name of the Sutta and the metaphor behind it: the "sweetness" of true unburdening, since management is a huge burden.
+
+---
+
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-11-08 10:40:37_
 ### Taking things for anxiety
 
@@ -1086,6 +1176,17 @@ It sounds to me like he is taking consciousness to be nibbana. Am I missing some
     *suffering—having seen right here.”*
 
     As always, the obvious first step to that would be virtue and sense restraint.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lwdo8vi/)** _2024-11-10 07:21:26 *(in reply to a comment not included)*:
+
+    >If we take the consciousness aggregate as it is defined as the consciousness that associated with space and time in SN 22.48
+
+    Viññāṇa anidassana would certainly be *present*, otherwise you wouldn't be able to talk about it. So it still falls within the consciousness aggregate.
+
+    >The former is the condition of the arahant’s consciousness aggregate (before death) and the latter is the total absence of craving associated with any of his aggregates
+
+    You could also say that what gives rise to that consciousness[ *is* the total absence of passion and craving in every way](https://suttacentral.net/sn12.64/en/sujato?lang=en&layout=plain&reference=main&notes=none&highlight=false&script=latin#8.9), and that's something that you can only *train* towards, in every aspect of your life. It doesn't come from a meditative experience or a special insight. 
+
+    At the same time, the Arahant doesn't delight even in that consciousness or in any of the other pleasant and lofty "side effects" of the absence of craving, as doing so would remove the very condition that enables those effects.
 
 ---
 
@@ -3295,6 +3396,19 @@ Lastly, it must be emphasized that the actual Sutta jhānas are not "lite jhāna
     Outside of samādhi, the body does feel the pull of agreeable and disagreeable sense objects, but for one who fully understands the deathless with the mind (not a mystical state outside of the aggregates, but rather the ever-present possibility to not crave amidst what incites craving, i.e., "withstand the tide"), that's a non-issue, because the mind is where the whole mass of suffering exists. An agitated body is just an insignificant nuisance in comparison, and that's why an Arahant doesn't *need* to protect their samādhi anymore ([MN 107](https://suttas.hillsidehermitage.org/?q=mn107#mn107:11.2), SN 16.5, SN 17.30). 
 
     For a noble one, who knows how direct their mind to the deathless or "cessation" with the mind, the body eventually follows along, i.e. jhānas (AN 9.33). The body itself (the six senses as a unitary whole, not a collection of sensations) ceases to experience the pull of the things that used to pull it while they're still present (SN 35.247, SN 35.97), and that relief results in a very physical joy, ease, "rapture", etc., which is just a byproduct and a further substantiation of the same mental understanding. This is always temporary, but abiding in it repeatedly is how a noble disciple's understanding of the deathless eventually reaches fulfillment, and samādhi becomes just a nice-to-have.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1e2hztc/on_thinking_about_jhāna_by_ven_thanissaro/lxdypdl/)** _2024-11-16 04:54:32 *(in reply to a comment not included)*:
+
+    >am I correct that these views have fallen out of favor in recent years?
+
+    Yes, and not just recently but for well over a millenium. The Buddha said the true Dhamma would disappear from the mainstream several hundred years after his passing. Even if you refrain from taking a stance, the fact that there is such stark divergence of views as to what the right practice is even within "Buddhism" shows that something must have gone very wrong.
+
+    >maybe the Suttas should be read in a way where you forget anything that has come after, so when we see "Jhana", not to fill it with preconceived notions, but to look at what is actually being described within the Suttas.
+
+    It's inevitable to have *some* amount of "preconceived notions", since otherwise you wouldn't be able to interpret the texts at all, and would only see characters on a screen/paper. But none would lose anything of value by not assuming that the texts mean what contemporary Buddhist discourse suggests, most especially when it comes to meditation.
+
+    >perhaps we should read them as wisdom encoded mythology, like most ancient religious texts, rather than literal teachings of a historic person.
+
+    That would be going a bit too far. It's not a dealbreaker to feel some uncertainty about the more outlandish parts that have no direct impact on your practice (e.g., about the Buddha's ability to speak with gods and so on). But you certainly won't reach the fruits they describe (jhāna being one of them) if you think, for example, that the Suttas' frequent insistence on renunciation and giving up sensuality is just a byproduct of the culture of the times, or some sort of mythological/symbolic element, and thus it's not necessary to follow it strictly.
 
 ---
 
