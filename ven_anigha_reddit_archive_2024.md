@@ -1,3 +1,201 @@
+**r/HillsideHermitage** | Posted by solacetree _2024-11-18 23:13:35_
+### What is the state that Ajahn Brahm is calling jhana?
+
+Ajahn Brahm describes an absorbed state, which he calls jhana. It's characterized by:
+
+1. Extreme bliss
+2. Disappearance of the 5 senses
+3. Prolonged period of clarity of mind upon coming back out (this is important- if this is absent, it isn't [what he calls] jhana)
+4. Absence of acute manifestation of the 5 hindrances, which also lasts for some time afterwards
+5. He also describes the non-visual perception of a pleasant light, but my impression is that's just a common experience of it and he doesn't say that HAS to be there for it to count, or may manifest differently.
+
+He has been describing it like this without changing his story for a long time, so it's pretty clear this is a repeated experience that he personally has; I am not challenging that, simply want to know what it is. If you heard someone describe this experience without using any particular label for it, what would you think this state is? Is it described in the suttas anywhere? 
+
+I heard of a sutta where the Buddha is asked if someone is practicing arupa jhana correctly because they can still feel their body, and he says not quite (sorry, I don't know the source, but maybe someone remembers it?) Could AB's experience be an arupa jhana (and if so, why is it describes as being so much more blissful than other states?)
+
+Thank you!
+
+Final note: please do not speak rudely of any teachers on this post. Even if we disagree we should still be respectful to senior monastics (and everyone for that matter.) It is wise to speak straightforwardly but kindly.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/lxwkvl5/)** _2024-11-19 10:02:46:
+
+    I wouldn't expect to find anything in the Suttas matching the "absorbed state" that Ajahn Brahm teaches. It's a very common misconception that no longer experiencing the body (which the Suttas do say is the case in arūpa states) must mean "absorption", and it's equally wrong to think that just because the body disappears in a certain state, it must correspond to the arūpa states taught in the Suttas.
+
+    You can become unaware of sensory input by entering a state of trance in various ways (including not only meditation techniques but also certain drugs), *or* by developing so much clarity about the general aspects of your experience that transcend the multiplicity of the five senses to the point that this multiplicity disappears (and that's how you enter arūpa states). The latter is like someone who doesn’t hear the conversations happening in the area because they’re surveying the entire terrain from above, considering aspects that are way more fundamental. The former is like someone who also doesn’t hear the voices but for a different reason—because they’re engrossed in a movie playing at full volume while wearing noise-cancelling headphones.
+
+    A listener may think that the state is the same just because of what's absent, but one of them is training the type of qualities and ways of seeing experience that lead to Nibbāna, and the other one isn't. Thus, the criterion should be *how one arrived at it*, and that's why that's what the Suttas put the most emphasis on (and it is never absorption).
+
+    >I heard of a sutta where the Buddha is asked if someone is practicing arupa jhana correctly because they can still feel their body, and he says not quite
+
+    I can't find the specific Sutta right now, but I'm sure I read something similar at some point. There's also the incidents described in [DN 16](https://suttacentral.net/dn16/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#4.26.1) where the Buddha himself didn't hear extremely loud sounds while presumably abiding in arūpa states, and[ the story of the monk Sañjīva](https://suttas.hillsidehermitage.org/?q=mn50) who didn't realize he had been on fire for a whole night while in the cessation of perception and feeling. None of that is a result of absorption.
+
+    Edit: Also, if AB's state is supposed to contain points 1 and 2 simultaneously, it can be neither the jhānas nor the formless attainments since arūpa states (as defined in the Suttas) are not blissful, they're neutral, and the five senses/body doesn't disappear [even in the fourth jhana](https://suttas.hillsidehermitage.org/?q=mn39#mn39:18.1_mn39:18.3), let alone the very first one.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly1yw05/)** _2024-11-20 05:06:32 *(in reply to a comment not included)*:
+
+    >The qualities and ways of seeing that lead to Nibbāna include unawareness?
+
+    No, that's the crucial point. It's not that not perceiving sensory input is of any intrinsic value, and thus the fact that a certain state matches that description means nothing in itself. What's of value is what you would have to do for that to happen, which is develop an immense amount of *yoniso manasikāra*. That's why the Buddha knew that his former teachers who had developed arūpa states would be able to grasp the Dhamma very quickly.
+
+    >If I attend the fundamentals at the expense of the particulars that is still ignoring a necessary aspect of experience any way you slice it.
+
+    Indeed, which is why you don't "ignore" anything; that's how you would fall into absorption. If something falls off, it has to do so on its own because it has become too coarse, not because you were intentionally trying to remove it by attending to something else. The latter would be acting out of the five hindrances already.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly27i2f/)** _2024-11-20 06:19:30 *(in reply to a comment not included)*:
+
+    >how does this, as entry to the arupa states, differ from how we're working toward jhana?
+
+    It doesn't in its essence. See MN 104, which says that through the same practice of purifying the mind from any interest in sensuality that would lead to jhāna, the mind would eventually arrive at the imperturbable, which is an epithet for the fourth jhāna and the first two arūpa states. The way to attain the other two is described further below in the Sutta, and what stands out is that it's done by *reflection* (which must be firmly distinguished from the usual abstract thinking about Dhamma), not by focusing on an object.
+
+    >I have a hang-up. One of the criteria for Ajahn Brahm's jhana is that this state brings piercing, present-moment, and direct clarity. In his description of the experience, the clarity also lasts after exiting the state and allows deeper seeing when doing reflections and questioning the nature of reality. I'm not suggesting that this means the state is jhana. But wouldn't that be useful?
+
+    Increased clarity doesn't necessarily equate to right understanding. Most meditation teachers would say that their practices lead to heightened clarity, and a lot of people indeed wouldn't be after the blissful states themselves, but after the knowledge that supposedly comes out of them. But the Buddha stated clearly that there is[ wrong knowledge and wrong liberation](https://suttas.hillsidehermitage.org/?q=an10.105), and that they are the consequence of wrong samādhi, wrong sati, etc., all the way to wrong view. Not to mention that the idea that the clarity comes *after* the jhāna and that reflection is not possible within it already contradicts the Suttas.
+
+    >*Now imagine that when looking at the one doing the looking using the mirrored telescope, suddenly the image of the eyeball completely disappears, taking everything with it, leaving not even emptiness. One soon realizes, after the event has passed by, that if all that is known vanishes, then that which does the knowing must also have vanished. The deep insight arises that the one who knows is impermanent, and that the knower is not me.This is precisely what happens as one proceeds through the jhānas and the immaterial attainments.*
+
+    Ajahn Brahm's descriptions of insight carry the idea that having special *perceptions* or *experiences* and inferring things out of them is understanding, and that's the categorical mistake present in almost every spiritual tradition, including modern Theravada Buddhism, and which is most succinctly described in [MN 1](https://suttas.hillsidehermitage.org/?q=mn1). Ignorance cannot be removed by perceiving or experiencing something, no matter how extraordinary it is, because *avijjā* is embedded into the very structure of a puthujjana's perception, from top to bottom. Even when he has the most earth-shattering experiences of not-self, he will do so through his appropriation, misconceiving, and sense of self\*.\*
+
+    The solution is to go in the complete opposite direction, and start developing knowledge of the *nature* of all perception, regardless of what specifically is perceived. And that's precisely where *yoniso manasikāra* comes in: the nature of something has to be known **simultaneously,** but on a different level, than the thing itself. If you try to observe the nature of a thing directly, as you would inevitably do when your practice is based on absorption, it becomes a new thing with its own nature, and if you then try to see observe the nature of *that*, the same thing happens, ad infinitum. In the description I quoted above, that "deep insight" is a new phenomenon, on the same level as a sight or sound, whose nature is not seen. And the implicit idea is that having had that perception is enough in itself, so one won't be trying to see what actually matters either.
+
+    >Is there an alternative method to arriving at a sharp and clear mind with which to investigate?
+
+    The Gradual Training that the Suttas describe. The fact that people who haven't given up sensuality and acting out of hindrances in their daily lives—which is the true cause of muddledness according the Suttas—can succeed in Ajahn Brahm's method shows that it's not the type of clarity worth striving for. The issue is that what actually leads to the right type of sharpness and tranquility, the Gradual Training, is of course difficult and prolonged, and the results aren't nearly as immediate, palpable, and gratifying.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly7jngp/)** _2024-11-21 05:32:09 *(in reply to a comment not included)*:
+
+    >So if wanderers from other sects should say that the followers from the Sakyan are addicted to these 4 forms of pleasure seeking, they should be told "
+
+    Just FYI, this is one of the Suttas I've been working on translating, and "*addicted* to these 4 forms of pleasure seeking" is a very liberal translation, and so is Ven. Sujato's "*indulgence* in pleasure". "Devotion" or "dedication to pleasure (or even 'ease')" would be more accurate. 
+
+    "Addiction" and "indulgence" have to be abandoned in order to attain the pleasure of the first jhāna to begin with, since that pleasure comes precisely from [abandoning all such compulsions and dependencies](https://suttas.hillsidehermitage.org/?q=mn39#mn39:14.29_mn39:14.30). It's not only the coarse seeking of external sense objects that constitutes the first hindrance, which is frequently listed as "longing" (*abhijjhā*) in the Suttas. Also, the Buddha emphasized that [even a tiny speck of *bhava* should not be welcomed](https://suttacentral.net/an1.316-332/en/sujato?lang=en&layout=plain&reference=main&notes=none&highlight=false&script=latin#an1.328_1.1), and it is only through that sort of attitude that the hindrances can be truly surmounted. That's why the pleasure of jhāna is wholesome and leads to Nibbāna whether one wishes for it or not; its very presence implies thorough dispassion and relinquishment and the *absence* of "addiction". Thus, by all means, one should live devoted to it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly9du4v/)** _2024-11-21 15:23:39 *(in reply to a comment not included)*:
+
+    >As I experience it, there's only ever one thing arising and passing at any given moment. 
+
+    That's the mainstream understanding of experience that's taken completely for granted most of the time, but careful scrutiny shows that it's not really accurate. There certainly is only one thing that you can *attend to* at any given moment, but "simultaneous knowing" or yoniso manasikara doesn't mean "splitting" your attention into two.
+
+    For example,  let's say you go to the mall, but you only have 30 minutes of free parking. If you take longer than that, you'll have to pay $100. If there's only one thing in your experience, how come you (and every other functioning human) would be able to go inside the mall, find the right store(s), get in, find what you need, etc., all the while *simultaneously* remembering (sati) that you only have half an hour and you must not get sidetracked by all the alluring things you'll be encountering along the way?
+
+    That knowledge that is continuously remembered is not something that you actively think about or attend to; it's just "there", in the background, while your attention is shifting from this to that as you're walking around. Now, if you develop that same type of knowledge but in the context of Dhamma, to the point that you never forget certain fundamental truths about your experience no matter what specific phenomena come or go, you would have samadhi and be free from hindrances and suffering for that period of time. And this is why, at least [in the jhānas proper](https://suttas.hillsidehermitage.org/?q=an3.63#an3.63:6.9_an3.63:6.13), it wouldn't even matter [which posture you're in](https://suttas.hillsidehermitage.org/?q=an4.12); what would matter is the context/recollection that has been so thoroughly fortified at the background that it's become imperturbable (though, as is always mentioned in the Suttas, you do need to be in seclusion, which is one of the many reasons why "group meditation" is so misguided).
+
+    But, as we (and the Suttas) so often repeat, the practice doesn't begin with samadhi or meditation. The "simultaneous knowing" is developed through virtue and sense restraint first and foremost.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/lyjmy44/)** _2024-11-23 07:07:21 *(in reply to a comment not included)*:
+
+    >do these first two stages steer away from sensuality and instead align more closely with the Buddha’s teachings on taming the mind through gradual training—avoiding aversion, desire, or delusion—perhaps resembling *right sense restraint* as described in the gradual path?
+
+    I would also reply with a definitive No. If the abandoning unwholesome things were about
+
+    >*...not even thinking about your work, your family, your commitments, your responsibilities, your history, the good or bad times you had as a child .." you abandon all past experiences by showing no interest in them at all. You become someone who has no history during the time that you meditate. You do not even think about where you are from, where you were born, who your parents were or what your upbringing was like,*
+
+    then [a newborn baby would already abide in ultimate purity](https://suttacentral.net/mn78/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin#8.1), and a [blind and deaf person would be accomplished in sense restraint](https://suttacentral.net/mn152/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin#2.8). Sense restraint is not measured by how many things you don't perceive; it's measured by the absence of lust and aversion in regard to what you *do* perceive:
+
+    >“And how, Kuṇḍaliya, is restraint of the sense faculties developed and cultivated so that it fulfils the three kinds of good conduct? Here, Kuṇḍaliya, **having seen an agreeable form with the eye**, a bhikkhu does not long for it, or become excited by it, or generate lust for it. His body is steady and his mind is steady, inwardly well composed and well liberated. But having seen a disagreeable form with the eye, he is not dismayed by it, not daunted, not dejected, without ill will. His body is steady and his mind is steady, inwardly well composed and well liberated.  
+    —SN 46.6
+
+    This of course doesn't mean you should go out of your way to perceive things that could give rise to unwholesome states. It will inevitably happen unless you actively try to cocoon your mind as described above, which amounts to avoiding defeat by not showing up to the match in the first place.
+
+---
+
+**r/HillsideHermitage** | Posted by BestZebra6159 _2024-11-16 15:00:23_
+### What is the precise definition of sensuality?
+
+In Ven. Anigha's translation of [MN13](https://suttas.hillsidehermitage.org/?q=mn13), there is the following comment:
+
+> Even though technically the term usually occurs as plural in Pāli, I have chosen to translate kāma as “sensuality” throughout because it can accommodate both the instances when it refers more to desirable objects as well as when it refers to the desire itself.
+
+So in the context of this sutta, do we regard sensuality as "desire" or "desirable objects", or both? I cannot see how desire *or* sensual objects makes sense in the context of this sutta. Let me take an example of the danger of sensuality that is provided in the sutta:
+
+> Furthermore, __for the sake of sensuality__ kings fight with kings, aristocrats fight with aristocrats, brahmins fight with brahmins, and householders fight with householders. Mother fights with son, son with mother, father with son, and son with father. Brother fights with brother, brother with sister, sister with brother, and friend fights with friend. Once they’ve started quarreling, arguing, and disputing, they attack each other with fists, stones, rods, and swords, resulting in death and deadly suffering. This too is a peril of *sensuality* that’s presently evident, a mass of suffering with *sensuality* as it’s reason, source, and basis, purely caused by *sensuality*.
+
+If I take sensuality to mean "desirable objects" in this instance, then it makes sense, for example, that "for the sake of desirable objects" there is violence in the world. But the issue then is the last sentence. If we were to substitute "desirable objects" into "sensuality" we get that,
+
+> This too is a peril of *desirable objects* that’s presently evident, a mass of suffering with *desirable objects* as it’s reason, source, and basis, purely caused by *desirable objects*.
+
+But the implication of this would be the removal of desirable objects, i.e., the removal of things in the world. But that's clearly not what the Buddha's teaching; it's craving that's the root of suffering, not the world. So although regarding sensuality as "desirable objects" makes the first sentence makes sense (the "for the sake of desirable objects ..."), the last absolutely does not make sense.
+
+Now if we treat sensuality as "sensual desire" itself, then for the last sentence we get that:
+> This too is a peril of *sensual desire* that’s presently evident, a mass of suffering with *sensual desire* as it’s reason, source, and basis, purely caused by *sensual desire*.
+
+Which is starting to make a bit more sense since this would locate the removal of desire (not the things of the world) as the end of suffering. But.. we now look back at the first sentence and we get the following:
+
+> Furthermore, *for the sake of sensual desire* kings fight with kings, aristocrats fight with aristocrats, brahmins fight with brahmins, and householders fight with householders ...
+
+To me this sounds like "for the sake of *obtaining* sensual desires", kings fight with kings, etc. So although the issue with last sentence has been resolved, there is now an issue with how I understand the first sentence. But a bigger issue is with the escape if we take sensuality to mean sensual desire:
+
+> And what is the escape from sensuality? Removing and giving up desire-and-passion for sensuality: this is the escape from sensuality.
+
+If we take sensuality to mean sensual desire, then the Buddha is instructing us to give up desire-and-passion for sensual desire. This is the same thing Ajahn talks about in his video regarding ["Stop Wanting the Wanting of Sensuality"](https://youtu.be/_ttVxzlzlj0?si=VcOG7dhWMDFf7g8h) wherein he defines sensuality as sensual desire and elaborates on how we want sensual desire and how development of not-wanting towards that want-of-sensual-desire is the escape.
+
+The issue is, I simply do not see myself "wanting sensual desire". If in theory a button existed to remove sensual desire, I would not hesitate. I mean, wasn't the point of the video on the fact that [sensuality is not wanted](https://youtu.be/Y5_57craCak?si=Qh3ovTQjGkT1yGgK) precisely the fact that people do *not* want sensual desire? It was precisely after watching this that I had come to realize that I do not want the desire.
+
+But at the same time, Ajahn is stating that we want sensual desire in the "Stop Wanting the Wanting of Sensuality" video? How is this not a contradiction?
+
+Going back to the quote from MN 13, removing and giving up desire-and-passion for "sensual desire" (if we take sensuality to mean sensual desire here) also implies there is desire-and-passion for sensual desire, but I just cannot see it at all for myself.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxk3w8e/)** _2024-11-17 06:36:20:
+
+    >But the implication of this would be the removal of desirable objects, i.e., the removal of things in the world. But that's clearly not what the Buddha's teaching; it's craving that's the root of suffering, not the world.
+
+    Indeed, and that's clear enough from the description of the escape: giving up desire-and-passion *in regard to* kāmā (plural, i.e. desirable objects). So the fact that desirable objects are what leads to conflict does not automatically mean that the only solution is to get rid of them.
+
+    At the end of the day, the distinction between desirable objects and the desire itself is purely pedagogical; experientially, they're inseparable, which is why the Suttas use *kāma* to refer to both pretty much simultaneously. Unless you're already free from sensuality or have attained the first jhāna, you cannot even think of a desirable object without sensual desire being right there with it to the same extent. You can bring up perceptions that you *remember* to have aroused desire in the past, but if desire is not there at that moment, it's because that object is at least there and then not desirable.
+
+    So, technically, for one who is free from sensuality, desirable objects too have ceased, similar to how feelings, not just craving, are said to cease in an Arahant. It's just that if you tell that to someone who isn't free from sensuality, they'll usually end up thinking that suppressing the desire that's actually still there is the escape. They won't know how to actually uproot it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxpzvt9/)** _2024-11-18 06:59:12 *(in reply to a comment not included)*:
+
+    >Is my understanding correct?
+
+    In essence, yes, and the practical takeaway is that you cannot abandon sensuality simply by abandoning specific objects or thoughts about objects. That's a prerequisite for the actual abandonment (i.e., sense restraint), but sensuality itself is the way the world appears to you (due to the mind that has been inclined in that direction by past sensual engagement), and thus you carry it no matter what you do or where you go. You can't simply "stop" that; you can only undo it *from within.* Hence the need to practice "Not Wanting the Wanting", as opposed to trying to remove the wanting directly.
+
+    Edit: One point I forgot to mention is that the "for the sake of" is actually Ven. Sujato's rendering, which I originally did not think worth modifying. But now I changed it to "on account of [sensuality]", which is more in line with the Pāli and probably avoids some confusion.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxw6egl/)** _2024-11-19 07:22:43 *(in reply to a comment not included)*:
+
+    Yes, you undo it by getting the mind (citta) to fully understand that wanting what the senses want—"forms cognizable by the eye that *are agreeable, likeable...*"—is like putting its head under a guillotine that could fall at any moment Dealing with what the senses want directly is dealing with circumstances. That can only remove particular sensual cravings, like a game of "Whac-A-Mole", never solving the *liability* to sensuality. But for that uprooting to be possible, you do need to have actually, physically stopped engaging with the senses, thus sense restraint comes first.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxwqca9/)** _2024-11-19 11:00:36 *(in reply to a comment not included)*:
+
+    >Would this devaluing come from seeing the danger that naturally comes (in a sense of potential suffering, or not even potential but guaranteed) with every prospect of delight. As if it is bound. By sensuality (delighting in it) it is implied suffering?
+
+    Yes. It needs to fully sink in that the very *presence* of delight is a compromise to your safety, and means that suffering is *already there*, regardless of what ends up happening afterward.
+
+---
+
+**r/HillsideHermitage** | Posted by eric2800 _2024-11-16 13:34:12_
+### Meditation/Contemplation prior to Stream Entry
+
+I have watched a lot of youtube HH videos over last year. I have read articles on the website. HH resonates with me and my experience and also makes more sense in light of the Pali Suttas. I also believe Nanananda is similiar in some regards.
+
+AN 10.61 states in part listening to true teaching->faith->yoniso manasikara -> mindfulness-> sense restraint -> good conduct-> Mindfulness(MN10)
+
+  
+So it seems yoniso manasikara (YM) and sati can be developed prior to sense restraint but not to degree of the description in MN10. So what should I be contemplating prior to stream entry? What are videos that drill down on that on youtube HH channel?
+
+  
+Contemplations I remember or seem to be good but from my modest understanding is:
+
+Faith
+
+Liability to sensuality
+
+My intentions for contemplating and following Buddha and Dharma
+
+  
+Is it still practically viable to be mindful of hindrances in mind or is it better to wait on that one. Also I do know there was a video about isolating mind and hindrance and "seeing it" in play and over time mind will become tame. I f someone can point me to that or give a good explanation on it I would be grateful.
+
+Thanks all,
+
+Eric T
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gsndbm/meditationcontemplation_prior_to_stream_entry/lxk84c5/)** _2024-11-17 07:17:44:
+
+    Just to be clear, there aren't any contemplations or practices that will lead you to stream entry just because you do them, inasmuch as there isn't a magical food that will get cooked even if the pan that you put it in is cold. What leads to stream entry, or any noble attainment, is purifying your mind from obstructions, from the "dust" that blocks clear seeing (greed, aversion, and distraction). If you have sufficiently removed that, any basic reflection—say, of how you're liable to sickness, aging, and death whether you like it or not—would reveal and signify the Dhamma.
+
+    The problem of a *puthujjana* (assuming he's had plenty of instruction, as you say you have) isn't that he doesn't know what to contemplate. It's that whatever he contemplates won't sink in deeply enough because there's too much dust in his eyes still (or, in another simile, [the log is still too wet to light a fire](https://suttas.hillsidehermitage.org/?q=mn36#mn36:17.1_mn36:17.13)). Therefore, [purification of view hinges on purification of mind, which in turn hinges on purification of virtue.](https://suttas.hillsidehermitage.org/?q=mn24)
+
+    If you have at least the information about what needs to be understood, understanding will arise on its own if the work of abandoning the hindrances in every aspect of your life has been sufficiently completed (which takes years).
+
+    So, if one wants to practice contemplation prior to stream entry, it should be done as a means of purifying the mind from hindrances once bodily and verbal acts have been brought in check. And literally any theme or reflection from the Suttas that appeals to you will fulfill that purpose if it's done with *yoniso manasikāra*, and not as a mechanical repetition of an idea.
+
+---
+
 **r/HillsideHermitage** | Posted by noobknoob _2024-11-14 12:51:25_
 ### Gratification
 
@@ -3409,6 +3607,19 @@ Lastly, it must be emphasized that the actual Sutta jhānas are not "lite jhāna
     >perhaps we should read them as wisdom encoded mythology, like most ancient religious texts, rather than literal teachings of a historic person.
 
     That would be going a bit too far. It's not a dealbreaker to feel some uncertainty about the more outlandish parts that have no direct impact on your practice (e.g., about the Buddha's ability to speak with gods and so on). But you certainly won't reach the fruits they describe (jhāna being one of them) if you think, for example, that the Suttas' frequent insistence on renunciation and giving up sensuality is just a byproduct of the culture of the times, or some sort of mythological/symbolic element, and thus it's not necessary to follow it strictly.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1e2hztc/on_thinking_about_jhāna_by_ven_thanissaro/lxk0mfm/)** _2024-11-17 06:07:06 *(in reply to a comment not included)*:
+
+    >is full enlightenment only an ideal, not anything that anyone has done?
+
+    None of what you wrote after this accurately represents what the Buddha taught in the Suttas, and is based on misconceptions that have unfortunately become the norm.
+
+    >This to me helps explain the absurd idea that the goal is to never return, because going, "poof" would be the ultimate ideal but an illogical goal. The logic doesn't track for me as an "end to suffering" because non-existence is just not a feasible aim.
+
+    The sequence is not "cease to exist" -> "abandon suffering" (which the Buddha would've denounced as annihilationism), but precisely the other way around. The reason why you exist now and why you will continue to do so in the future is the same reason that you suffer, i.e. craving. So if you simply focus on abandoning craving because you see your own liability to suffering as undesirable here and now, the whole issue of existence will take care of itself even if you don't think about it. Hence the Buddha focused on suffering and its cessation (the Four Noble Truths) most of the time, and didn't talk about "ending existence" as the goal in and of itself.
+
+    >There is also the paradox throughout Buddhism as "you" experience no-self, void, emptiness or even saying "you" no longer return, etc.
+
+    The Buddha didn't say that you become enlightened by "experiencing" no-self, and that's a popular wrong view. What he taught is that one must understand that nothing is worth *appropriating* (i.e., taking as self or "mine") because nothing is ultimately dependable enough to be able to say that it's truly yours, and thus appropriation makes you liable to inevitable loss and suffering: it's a *mistake.* He wasn't making postulates about the existence or non-existence of self because that has nothing to do with the goal (the cessation of appropriation, AKA Nibbāna), which is something that you have to *train for,* not just "agree" with.
 
 ---
 
