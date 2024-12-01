@@ -1,3 +1,289 @@
+**r/HillsideHermitage** | Posted by Queasy-Astronaut9546 _2024-11-30 01:53:39_
+### Peripheral Awareness Clarification - Extent of Immediate Knowing
+
+I understand the common description of peripheral awareness being like an anchor that you throw out and let it drift away.  You don't directly attend to say, the body itself or even the thought of the body being there.  You recognize it being there as the container for your experience, there regardless of what you attend to particularly, and let it endure on its own. That makes sense.
+
+However, what isn't clear is the extent to which something is known "in front of you" in this practice.  From the above description, the "anchor" simile, it sounds like what you are presently aware of in front of you doesn't matter.  Meaning, you could have no inkling of the basis after establishing it - the fisherman isn't constantly thinking about their anchor, and they might even forget whether it's down or not.  Which implies then that you go about doing other things and the start and end of peripheral awareness is recognizing the yoni once and then it can literally vanish from your entire sphere of immediate attention and that doesn't matter.  
+
+But then in the video "Q&A on peripheral awareness" AN clearly says the difference between a normal person who knows, for instance, that their body is present and one who is practicing peripheral awareness is the "awareness of it" - implying that the importance of "you being aware of the background" goes beyond how I described it above.
+
+What I'm guessing is that while you don't want to be constantly making sure you still have a body, which is indeed ridiculous, YOU do want to have that thread of knowing that you know your body is there - which is reflexive, (was confusing to me at first) knowledge OF your knowledge.  So you recognize that you already know -- not nothing, but something particular -- that your body is present.  And THAT isn't let go of.  You do keep that thread "in front of you" but without making it your sole object of attention.  
+
+So it's not that peripheral awareness is tossing the anchor and forgetting about it.  You know you tossed the anchor in, you keep that in mind, which means in the sphere of your attention.  But its the mind's knowing that matters, NOT something YOU do because you know.  The effort required is not to keep it there necessarily, but to re-establish it (in front, or literally in your immediate sphere of perception) when it falls away.  Which happens when you completely forget.  In view 1, it's like the forgetting I just mentioned IS the point, and you're meant to take on faith that *something is happening behind your entire sphere of perception and immediate knowledge.  But then even the mind wouldn't know right? 
+
+Am I correct with my attempted answer? I have realized that I wont ever be sure if I'm correct until I hear from one who understands this for sure, because both sides of the interpretation (completely letting it go from even your sphere of attention, keeping it there just a little bit IN FRONT OF YOU, in the domain that you do attend to) have a good amount of evidence to support them from the perspective of being unsure.  I do lean towards number 2 being correct if I had to guess, but would not be surprised at all if the answer ends up being "you're overthinking this, number 1 was more correct."
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h31rph/peripheral_awareness_clarification_extent_of/lzo7l0z/)** _2024-11-30 05:11:49:
+
+    >I do lean towards number 2 being correct if I had to guess, but would not be surprised at all if the answer ends up being "you're overthinking this, number 1 was more correct."
+
+    It is closer to #1 than #2. The way you describe it, #2 sounds like it would just result in directly attending to a mental sense object, as elaborate as it may be, which is not yoniso manasikāra.
+
+    The point is that the things that you can and should recollect are already there in your experience, whether you attend to them or not. So the goal is not to attend to them constantly to get some sort of result, but to train your mind so that it *keeps perspective* over whatever is going on. And perspective is not something you can attend to; it's something that "colors" your attention, so to speak.
+
+    The act of thinking about the body is a separate thing from the perspective of the body. Thinking about the body *rightly* "triggers" the perspective of the body that was always possible to have because the body comes first. So it's not like you have a choice to continue to attend to the anchor or not. If you *can* keep attending to it, it's not an anchor/perspective in the first place. It's not sati. It's a mental sense object that could have uncovered the perspective, but since you misconceived it as having some use in and of itself and became fixated on it, it won't actually do so. That's why right understanding needs to come *before* mindfulness, not the other way around.
+
+    All this being said, it's not that your attention is completely irrelevant. It does matter somewhat in the sense that sense restraint needs to be your mode of being, and seclusion and non-distraction are also necessary at times when you want to truly strengthen the perspective. But within those prerequisites, the training is to put the perspective first and your attention second.
+
+---
+
+**r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-11-28 18:37:13_
+### Would the monks from HH or Samanadipa consider creating a discord?
+
+This way we can have some guidelines in discourse, a central area for resources, voice channels for sutta study, and maybe even regular Q&A with the monastics. Plus the sense of community might be beneficial.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h22lue/would_the_monks_from_hh_or_samanadipa_consider/lzjmw1g/)** _2024-11-29 11:17:35:
+
+    I don't think Discord is as suitable for serious Dhamma discussion. I find the instant messaging style can make one more inclined to type something quickly in the moment instead of deeply reflecting on the topic before posting a reply, and that might encourage pointless conversation and banter much more than the slower-paced, forum-style Reddit format.
+
+---
+
+**r/HillsideHermitage** | Posted by No_Let_3303 _2024-11-28 04:03:37_
+### How to endure the pressure of unwholesome mental states properly
+
+I’m trying to get some more clarity on what it practically looks like to properly endure unwholesome states such as craving for sensuality, ill will etc. For me it seems that the confusion comes from the mano getting overly involved in the immediate pressure. For example a craving for food will pop up i immediately recognize it as an issue and then it goes away but then I think to myself, that seemed to easy, did I just unknowingly distract myself from it by acknowledging it as unwholesome? maybe I should try to discern where it’s coming from right after the moment of its arrival because it’s still fresh in my mind. Then another part of me is like no you can only discern that if your mind is unhindered which would be impossible if an unwholesome state just arose lol. I think I might just be overthinking it so I’d appreciate another perspective on this please.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h1ne7o/how_to_endure_the_pressure_of_unwholesome_mental/lznuius/)** _2024-11-30 03:37:43:
+
+    This all sounds like a broader hindrance of restlessness and doubt that's making you look for the problem on an overly particular level of individual thoughts, where it actually isn't. And it's not about "catching things in their arrival" in a momentary, focused attention sense, as if unwholesome states could suddenly pop into your mind without you having any say in it. Indulgence is always intentional, so all you have to do is ask yourself whether you're willingly delighting or harboring hateful intentions against something, and if the answer is no, then whatever remains is not your responsibility.
+
+---
+
+**r/HillsideHermitage** | Posted by serculis _2024-11-26 20:08:31_
+### How to take care of myself during burnout?
+
+Well, I am officially burnt out from work. It's crept up on me gradually and went unnoticed, then the final straw just broke the camel's back. It's become poorly managed, we are all suffering from low morale, our concerns are not being listened to, the upper-ups are making terribly unprofessional childish decisions and it is having ripple effects across the company. I'm emotionally exhausted, not motivated, feeling cynical about the patients I see (having irrational bouts of restrained anger towards them that I know is wrong). This has happened a few times since I started the job 4 years ago. Work is just a rocking ship being hit by the waves at the moment and it will take a while to settle.
+
+The problem is it's affecting the rest of my daily life and I don't know how to actually overcome it under the new context of virtue. Every bit of advice I've looked up online recommends yoga, """meditation""", journalling, talking to a therapist, travelling, socialising etc. and nothing from what I've seen is actually wholesome. There was a video I saw where NT talks about people deluding themselves into relaxing from a hard day of work by watching a film and further making themselves restless and agitating the senses instead of just actually sleeping... and yeah, unfortunately I'm in that camp. Simply sitting around doing nothing feels like drowning to me, and I understand that it is completely my fault for not overcoming my habitual use of technology and I'm bearing the fruits of my wrong actions. I am coasting with my virtue and I realise this now. I'm gonna have to have a real read of these posts and essays because I feel lost on how to start it. The only thing I'm good and confident with is my eating, but the pressure to eat as a coping mechanism is becoming stronger and stronger and I feel sick from all of it. It's the only thing I can continue to restrain myself when times are tough but I am wondering whether I should "allow" myself a treat in the same way that a heroine addict is given a small dose of methadone to taper off their addiction in a controlled manner. Despite that, I feel repulsed and burdened at the idea of doing it, which I don't know how to interpret. Everything else however I find myself delighting at "allowing" myself to do (youtube, films etc.)
+
+Is there anything I can do right now to properly take care of myself? Or is this exactly what NT was talking about - "when things were going your way, you haven't been keeping your mind in check". My burnout is a result of my circumstances, but the actions that I have taken have made the situation worse and now all I want to do is vent to people, quit my responsibilities and distract myself every second of the day, and the pressure of restraining myself in any regard is making me feel sick.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h0lf00/how_to_take_care_of_myself_during_burnout/lzkrqyn/)** _2024-11-29 16:19:11:
+
+    >Or is this exactly what NT was talking about - "when things were going your way, you haven't been keeping your mind in check"
+
+    It sounds like it very likely is.
+
+    The burnout is in itself not something you necessarily could've had prevented. Sometimes the mind will become fed up with certain things, and that's not your fault, nor does it *necessarily* involve ignorance or craving. What you're responsible for and does involve ignorance is the fact that when things get unpleasant like that, [there is still the valuing of sensuality and distractions as means to escape the pain](https://suttas.hillsidehermitage.org/?q=sn36.6#sn36.6:1.16_sn36.6:1.19). The extent to which there is still that tendency to seek pleasure in response to suffering shows you the work you have to do; the goal is not to prevent the burnout itself. And, counterintuitevly, if that tendency was not there, no amount of displeasure could make you suffer internally, precisely because you would no longer resist it or hope to replace it with something else.
+
+    "Allowing" yourself even more things will not be a long term solution to this in any capacity; it will only reinforce the same wrong view that external pleasures are a solution to the pain generated by your own craving, and absolve you from having to tackle the craving itself. At the same time, if you've been severely neglecting your mind and letting it get wild for a while, it will may be difficult to abruptly restrain everything, so my advice would be (1) recognize that the pain of burnout is not in your direct control and don't try to deny it (2) make sure that you are not backsliding with your virtue and restraint even further, since that will only make it harder to get back on track. Find things that you *can* restrain without it being too painful—one of them might be speech and actions rooted in anger or annoyance—and work your way back up from there.
+
+    All of this should also serve as a lesson of why it's better to start containing yourself long before the mind starts getting out of control, since painful situations will inevitably arise sooner or later, finally making you feel the weight of the craving that you've been building up.
+
+    Craving, and thus suffering, can only subside if you stop providing the fuel for it through your own actions and wrong ways of attending to phenomena in your experience. Everything else is either a very flimsy fix that may even make the problem worse, or just wishful thinking.
+
+---
+
+**r/HillsideHermitage** | Posted by BestZebra6159 _2024-11-26 20:06:32_
+### What is craving?
+
+I believe I've made a grave error in understanding craving thus far. Initially a few years ago, I used to identify it with the sensation of heat present in the body when I inclined towards sensual pleasures.
+
+Then I realized that that's not craving since we're not trying to change bodily reactions. Up till now, which has been at least two years, I've been identifying it with non-physical "force" (what I believe HH designates as 'pressure') directing the entirety of my being towards something.
+
+If a sensual image arose, that force would be present towards that image, this force isn't the physical feeling of heat that's accompanied by it. And I thought the presence of this is an issue, and that it's the power of this force that I need to reduce. It made sense to me that the cessation of this force would be peaceful, since if it ceases then it doesn't really matter how unpleasant the external situation is, it was this force that was the issue. But it never made sense to me how I could change the power of this force since I didn't choose for it to arise as such. So I thought the practice was to figure out how to intend in a manner such that it would lead to the diminishing of the power of this force, and the complete cessation of this force would be the cessation of suffering.
+
+To give a practical example. If someone says something insulting to me, then it's unpleasant to listen to that, and unpleasant to be in that situation as a whole. But there's that extra force present in that situation which feels almost as if it's pushing me to act and say something back, and I thought that this force is the craving, and what needs to be removed.
+
+Now I'm starting to suspect that perhaps craving is none of this. Now I'm thinking that craving is the **intention to resist** what is present. And this actually makes sense, since regardless of the situation, fundamentally, I am responsible for intending by way of body, speech and mind in terms of whether I resist the situation or not.
+
+Now on a similar note, on account of this, I've come to conclude that delight and craving are different aspects of the same phenomenon. Both of them refer to a kind of intention. Craving is intention to resist what is present, but simultaneously, that intention implies an intention to "pick up" (not in a literal sense; i.e., to make one's own) what is not present. So craving and delight go hand-in-hand.
+
+When there's craving (the intention to resist what is present), there is necessarily delight (the intention to make one's own what is not one's own), but one must intend in such a manner **only if** the extent of "what is not one's own" is not adequately recollected **and** the dangers that accompany alongside it. Namely: that that which is not yours is subject to change. It doesn't matter at all how strong or weak that force is, or how that force operates, one's job is to maintain perspective in regards to what is not one's own, the implication of that, and intend in accordance with that perspective established. When that perspective is genuinely maintained on account of having thought and pondered upon the dangers of delight, it would be impossible for one to delight in what is present.
+
+The enlargening of this perspective, that is, the enlargening of the recognition of the extent of things which are not one's own, and acting in accordance with it (i.e., you drop delight in regards to even more things gradually), is the practice. Until eventually, all craving/delight (intention to resist/intention to make one's own what is not) cease, trivially, because all those intentions have been undone. And this is the cessation of suffering, and this only naturally implies gradual training is the **one and only way** towards it.
+
+The issue now is, seeing the connection between this (A) intention to resist and (B) the presence of suffering. I regard seeing the fact that "A iff B" as precisely the attainment of Right View as HH defines it. One could logically derive that suffering implies an intention to resist and vice versa, but such an exercise is of no practical use in terms of inducing an intuitive shift in one's understanding of the world and consequently, one's previous habits. Previous habits being namely, regarding of the arisen phenomena (including that "force" that seemingly pushes one towards things) as suffering. So I would appreciate it if I could get the following from the community:
+
+1. An evaluation of my understanding of craving/delight and the practice described in the 2nd last paragraph and beyond.
+2. How it is that one *sees* that A implies B and B implies A. Or in another words, (1) what it is that obstructs the seeing of that; (2) why it is that that obstructs the seeing of that; and (3) what it is that leads to the removal of those obstructions.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/lzijahu/)** _2024-11-29 04:34:44:
+
+    > But there's that extra force present in that situation which feels almost as if it's pushing me to act and say something back, and I thought that this force is the craving, and what needs to be removed.
+
+    You could also say that this too is "an intention to resist", or craving or delight. It's just that you're not directly responsible for it, i.e., it's not volitional, and you also cannot simply choose to stop it. That pressure has accumulated due to your past volitional choices of resisting what is present, as you put it. So if from now onwards you were to no longer exercise intentions of resistance *even* in regard to that "extra force" (which automatically rules out any sensual or averse actions), it would diminish. Like a fire that dies out when not provided any further fuel for long enough.
+
+    Where people usually go wrong is that once they've established restraint and no longer act out of coarser pressures, they think they are justified in resisting that "extra force" because it's bad, not realizing that that very act is an intention of resistance/craving, which is the sort of intention that led to that force being there to begin with. Thus, it's only a slightly less coarse form of the same vicious circle (denial as opposed to indulgence). Hence our frequent insistence on "enduring things on the right level" , even when it comes to the pressure of unwholesome mental states.
+
+    >(1) what it is that obstructs the seeing of that; (2) why it is that that obstructs the seeing of that; and (3) what it is that leads to the removal of those obstructions.
+
+    (1) The "extra force", i.e. the five hindrances.
+
+    (2) Because everything one does becomes subtly rooted in avoiding the arisen discomfort of the pressure/"extra force", whether it be to just appease it by indulging in the objects it points to, or trying to remove the pressure through aversion. Both attitudes blame the issue on the pressure and miss the greater goal of not fueling craving, which is where the suffering truly comes from, not the pressure itself.
+
+    (3) No longer acting out of any "intentions to resist" by following the Gradual Training long and diligently enough.
+
+---
+
+**r/HillsideHermitage** | Posted by Wild-Brush1554 _2024-11-25 15:24:57_
+### Practical Practice
+
+Hi everyone! Im still figuring out how to practice properly, Ive been watching dhamma talks and reading some material for about 10 months and now I want to develop a very serious practice.
+
+I am keeping good sila, following the 8 precepts other than eating once a day, but I do my best not to eat with craving.
+
+I have also been practising anapanasati, because what I have learnt is that in order to gain insight into reality through Vipassana one has to have great concentration, jhanas etc.
+
+But now after going through hillside hermitages talks I can see that right view is an essential prerequisite for meditation. 
+Am I correct in saying so? If I am then does my meditation practice which is aimed at increasing awareness, concentration in order to cultivate jhanas useless( since i do not have right view)
+
+If so how do I actually practice? I do from time to time sit without doing anything and broaden my awareness, this has not been too challenging as my mind doesn’t pull me too much with distractions, however it does still go into thought patterns from time to time, often reminiscing fun times and doubting my practice, buddhas teachings etc. Do i still continue this? And how is one supposed to measure progress and know that they’re doing it correctly or that the method is working.
+
+Also how does one contemplate? Do i just think of something and keep trying to get an answer until i find the root cause? 
+
+What should be the 1 thing I should focus on right now? And is there a step by step kind of checklist i can follow, so I focus on something or a few things now and once i am good with them i move on to the next?
+
+Any help will be appreciated 
+
+Thank you
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gzlc47/practical_practice/lz0uq9u/)** _2024-11-26 04:01:35:
+
+    >If I am then does my meditation practice which is aimed at increasing awareness, concentration in order to cultivate jhanas useless( since i do not have right view)
+
+    With or without right view, increasing awareness and concentration (by focusing on an object until your mind gets fixed to it, presumably) is not the way to attain neither jhānas nor insight, and you won't find such instructions in the Suttas. Freeing yourself from the five hindrances, which is a very different thing, is the way to achieve both.
+
+    >If so how do I actually practice?
+
+    [The Gradual Training](https://suttas.hillsidehermitage.org/?q=mn107) is what leads to the eventual overcoming of the five hindrances. That's the "checklist" you should follow. If you're already keeping the precepts well, the next step is sense restraint, which isn't about not seeing or not hearing, but about making sure that whenever you do intentionally pay attention to something, it's not rooted in greed, aversion, or distraction. The goal of the gradual training is to progressively develop the ability to directly discern the presence or absence of the three poisons at the background of whatever you are doing, saying, or thinking. When your intentions have been purified from defilements for a while even on the most refined level, you enter the first jhāna (but it will most likely take a long time to reach that point).
+
+    It's worth noting that at no point do you try to "stop thinking". Such effort is rooted in subtle aversion, and the first jhāna is composed of thinking purified of hindrances.
+
+    >Also how does one contemplate? Do i just think of something and keep trying to get an answer until i find the root cause?
+
+    No, that would be more like abstract psychologizing. Reflection should be directed at dispelling defilements if and when they have arisen. Not to get rid of them, but to develop clarity about how it is that *you* are acting out of them, and to remind yourself of why you shouldn't. When you're not being controlled by unwholesome states as far as you can see, you can try to develop clarity about the nature of your experience—the body, feelings, the Four Noble Truths, etc.—and that would in turn withdraw the mind from defilements even more.
+
+    >What should be the 1 thing I should focus on right now?
+
+    Understanding and recognizing what greed, aversion, and delusion actually are. That's what leads both to the right view, and to the ability to purify the mind from those things, which is what "meditation" and *samādhi/samatha* proper are about.
+
+---
+
+**r/HillsideHermitage** | Posted by devot3e _2024-11-25 10:35:03_
+### Humility in the face of criticism
+
+What do you think about the following phrase?
+
+"If you have an issue with someone and they're 99% in the wrong, and you're 1% in the wrong, you should apologize."
+
+I was taught this by a mentor and have found an interesting phenomena occurring when I employ it in practice.
+
+Recently someone was criticizing me partially fairly, partially unfairly. Typically, I find myself believing narratives in an argument: blaming them or something else, because under the surface I am deeply not okay with being flawed. I justify my actions in a desperate plea to escape the painful feeling of not being good enough, and when the truth is incontrovertible, it feels like death. I slip into a strange mixture of self-hatred and humiliation, all the while still justifying.
+
+Following the example, I found myself apologizing for that in which I was wrong, not defending myself whatsoever, deciding to be humble, to not be caught up in this person's opinion of me as right or wrong, to not try to "fix" the pain of being blamed. And giving the person the benefit of the doubt in whatever ways they were unkind. However, it's so difficult to see intentions. I suspect some of this was actually fear of being a trouble maker, and wanting to identify myself as the more mature person- yet another attempt at not seeing myself as flawed.
+
+The Buddha taught we should treasure criticism. And we shouldn't react to the pain of it, obviously. But many of us have built up so many "coping mechanisms" over time in reaction, that the waters are muddy. True non-reaction just isn't accessible to this muddied mind, because the intention to not react here (at least as I'm describing above) just converts into another unwholesome reaction.
+
+I feel like I can't fix it on this level because I can't see. Perhaps just a matter of trying repeatedly toward more pure conduct despite not seeing, walking that line until the mud settles with sila. Or perhaps this is not the root, another symptom of a deeper thing to be addressed.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gzfye5/humility_in_the_face_of_criticism/lz0wvi7/)** _2024-11-26 04:16:17:
+
+    >However, it's so difficult to see intentions. I suspect some of this was actually fear of being a trouble maker, and wanting to identify myself as the more mature person- yet another attempt at not seeing myself as flawed.
+
+    It's easy to make the mistake of looking for "intentions" on that overly broad and abstract level, but fundamentally, it can only be three things: desire or non-desire for pleasure, aversion or non-aversion to pain, and distraction or non-distraction in regard to neutrality.
+
+    In this case, the solution is not to find the perfect course of action that would've prevented those unpleasant feelings from arising. It's to not resist displeasure in the first place. That resistance is the root of the entire issue and suffering, so if you were to remove that, *whatever* you did or said—whether you apologized or not—would be fine and would not lead to suffering.
+
+    >Perhaps just a matter of trying repeatedly toward more pure conduct despite not seeing, walking that line until the mud settles with sila.
+
+    Indeed, if you want to make your mind less prone to resisting displeasure on the fundamental level, you need to stop doing things that are rooted in resisting displeasure or chasing after pleasure. You can't suddenly teleport back to baseline when you're no longer pleased with the mental state your actions have been building up.
+
+---
+
+**r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-11-25 02:15:04_
+### Is Buddhism only for monks and nuns
+
+If meditation is only for those with Right View, and Right View is likely near impossible for a layperson to attain in the modern world, then what exactly is the purpose of Buddhist practice for laypeople? 
+
+How is someone who isn't ordained and staying in monasteries on a regular basis, really supposed to attain stream entry, let alone enlightenment? 
+
+I could be wrong, but the practice for lay people that is put forth by the monastics at HH is to keep the 8 precepts and refine sense restraint. Basically, that turns the entire practice of Buddhism for a layperson into denying yourself the basic pleasures of life that everyone else around you partakes in, and to cut yourself off from society in a major way (basically becoming a monastic but without the benefits of living in a society with a shared lifestyle), and without the joy and tranquility of meditation.
+
+  
+I'm struggling to see the point in that kind of practice, especially when you can still follow the Buddha's teachings and be a good person keeping 5 precepts and meditating. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gz873x/is_buddhism_only_for_monks_and_nuns/lywmiy9/)** _2024-11-25 13:58:04:
+
+    >I'm struggling to see the point in that kind of practice, especially when you can still follow the Buddha's teachings and be a good person keeping 5 precepts and meditating.
+
+    Sure, that's perfectly possible. Although 8 precepts are the standard we set, it's expected that hardly anyone will follow it. It's mainly for the benefit of the few (lay)people whose sense of urgency is strong, and who refuse to live with the very real possibility that they will die or lose their health and ability to practice before attaining the Right View. There are many such people who may end up not realizing their potential if they're not clearly told what it takes to do so.
+
+    But anyone who isn't too concerned about the possibility of not reaching the ultimate goal and is content with just being a better person is free to not take it that far. But they will at least have heard the message, and will hopefully be a bit more inclined to take responsibility for their own choices and their consequences, rather than blaming their failure to realize the Dhamma on something else (which is what many if not most modern traditions would incline one to do).
+
+    So, in a sense, no "Buddhism" isn't just for monks and nuns. But Nibbāna, which is something else, is only for those who are willing to regard *all* craving, regardless of what the rest of the world thinks and what clothes they wear, as equally problematic.
+
+---
+
+**r/HillsideHermitage** | Posted by ChairOk548 _2024-11-24 01:48:33_
+### Is the realization that sensuality is a thorn, a very dark realization?
+
+I suppose this question is coming from a putthujjana's point of view, but if all sensuality is suffering and to be abandoned.. Then what's left?
+
+Everything that is seen as desirable by society, even fundamental things like being a good parent and spending time with your children, are now seen as trapping you in suffering.
+
+At that point you would likely live the rest of your life avoiding most engagement with the world, simply out of necessesity because acting out of any craving will trap you in suffering. This feels dark to me. Please tell me how this view is wrong. Thanks.
+
+Edit: thank you for the replies
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gyfu8d/is_the_realization_that_sensuality_is_a_thorn_a/lyqbopb/)** _2024-11-24 12:29:53:
+
+    >Then what's left?
+
+    Dispassion and detachment, which initially appear painful only because of one's passion and attachment. To an addict, it may feel as if never using his drug again would deprive his life of any meaning, but if he successfully overcomes his addiction, he'll come to see that there is, and always was, a lot more to life than the pleasure the drug gave him. He'll then see that what he (and probably most of the people he associated with)  regarded as pleasant was actually a [self-destructive pathology](https://suttacentral.net/mn75/en/bodhi?lang=en&reference=main&highlight=true#sc27) all along, and that the truly "dark" thing is to be in that state.
+
+    That being said, the practice [is a lot subtler than just avoiding everything that's pleasant](https://www.youtube.com/watch?v=wc9XWIZ64Wc).
+
+---
+
+**r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-11-23 14:12:16_
+### Doing and not doing
+
+I understand one isn't supposed to do asubha when lust arises, or metta when anger arises, as a reaction or attempt to fix things.   The problem was that the thing arose in the first place. One doesn't train the mind not to move by moving it, so you should just endure the mind rightly and let that which has arisen cease on its own.
+
+I just watched the video ["Why are you not an arahant yet?"](https://youtu.be/4xcPXgsuIsU?si=rDMxvPdA3hBlMk_7) It's an excellent video on seeing the real cause of suffering, or a feeling of inadequacy in our current state. Not in the things, not in the mind, but in that attitude towards the mind. "Why is that a problem?" It always comes back to feeling. The example in the video was Thaniyo's presently enduring tired, dull mind.  Following the line of "Why is that a problem?" it reaches an attitude in regard to feeling, in regard to mind. An assumption that things should be otherwise(or that the attitude could make it so). 
+
+How does this relate to the Buddha's instructions on seeing our unwholesome qualities like a dead dog around our neck, or earnestly striving to abandon them? To the Buddha's instruction regarding the factors of enlightenment, and when to cultivate which factors, based on whether the mind is sluggish or restless? [SN 46.53](https://suttacentral.net/sn46.53/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)
+
+I have a strong compulsion to fix things and do something. I recognize this as an issue. I'm learning to sit with things and question why I want to fix things.  My mind is still looking for something to do. My efforts are going from coarser to more refined, but they still feel too coarse. Now when the mind is tired(most of the time) I recollect the dhamma and investigate to stir up energy. When it's restless, I try anapanasati or have a cup of tea, or otherwise try to settle down. I don't know if these efforts are misplaced. There was emphasis in the video on not doing things for the sake of getting rid of or getting more of this or that state. One can even adopt that attitude for the sake of getting rid of things.
+
+How much of this is relative to where one is on the path? Naturally one starts with lots of doing and regarding things incorrectly. Efforts and ideas get refined and things wrongly attended to get rightly attended to with time.  I feel so strange about actions and doing things now. I read through *Meanings* at least five times over the last several months and it's made more and more sense, to the point most of the stuff doesn't seem out of reach, and a significant amount of assumption has been uprooted(although I can't see how much is left).  The desire to read again or check if I'm clear on this or that or drill the understanding is diminishing. I'm really confused about doing. Sometimes it feels like I'm picking up a controller that isn't plugged in and watching the game on the screen thinking I'm the one playing it.  I watched the video ["Abiding in Non-activity"](https://youtu.be/GgoRGxbR6y8?si=afgpYPaKKXe2JLdz) too, which is similar to the one above.  Do you just reach the point of seeing it all as not-self, seeing yourself and I am as second, and let things unfold(through actions not rooted in craving, aversion, delusion)? I still have a lot of work to do with my assumptions, especially my harsh attitude towards myself and wrongly judging others too.  I'm trying to learn to relax and not crave the end of suffering, but I don't want to throw away urgency or relax my effort until I'm free from suffering. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gy0hlr/doing_and_not_doing/lyux7i5/)** _2024-11-25 04:33:46:
+
+    >How does this relate to the Buddha's instructions on seeing our unwholesome qualities like a dead dog around our neck, or earnestly striving to abandon them? To the Buddha's instruction regarding the factors of enlightenment, and when to cultivate which factors, based on whether the mind is sluggish or restless?
+
+    The implied assumption seems to be that having a dull, tired mind is an unwholesome quality in itself. It's not. What's unwholesome is the tendency to attend to it wrongly, which is what makes it turn into a hindrance of sloth and torpor:
+
+    >“And what, bhikkhus, is the nutriment for the arising of unarisen sloth and torpor and for the increase and expansion of arisen sloth and torpor? There are, bhikkhus, discontent, lethargy, lazy stretching, drowsiness after meals, sluggishness of mind: **frequently not attending to them through the origin** (*ayoniso manasikāra*) is the nutriment for the arising of unarisen sloth and torpor and for the increase and expansion of arisen sloth and torpor.  
+    —SN 46.51
+
+    ...
+
+    >Now when the mind is tired(most of the time) I recollect the dhamma and investigate to stir up energy. When it's restless, I try anapanasati or have a cup of tea, or otherwise try to settle down.
+
+    This does sound like management, dealing with the symptoms of the problem rather than its actual root. The root is that your mind *craves*; the specific way that this craving manifests (sensuality, aversion, tiredness, restlessness, doubt) is secondary. Thus, if you continue to act out of craving, even in the name of solving what *feels* like the problem at first glance, you'll just keep going around in circles, getting rid of the present hindrance with another hindrance.
+
+    Instead, try to see an arisen unpleasant feeling as an arisen unpleasant feeling, regardless of its particular content and put aside the sense of duty to "deal" with it, and keep reminding yourself that the way to deal with it properly is to give up the craving and resistance to it to begin with. And that giving up of resistance is not something you need to hope will be bestowed upon you at the end of some practice; it's something you willfully cultivate (or not). And the right kind of calm is born precisely out of this lack of need to manage whatever feeling is there, since the now-expanded mind is no longer yoked to it in the first place.
+
+    >Do you just reach the point of seeing it all as not-self, seeing yourself and I am as second, and let things unfold(through actions not rooted in craving, aversion, delusion)?
+
+    Yes, but that point doesn't magically arise on its own one day as a result of a special type of doing. You'll only reach that point if you yourself have properly understood how to see things as not self, etc., and *that* requires consistent effort. And for as long as you're choosing management in the name of practice, you are not seeing that genuinely *nothing* is worth taking as self, including your own feelings.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gy0hlr/doing_and_not_doing/lywo76k/)** _2024-11-25 14:08:49 *(in reply to a comment not included)*:
+
+    > Could you say more about the "negative effort" I've heard on HH? Is it "just" not acting out of whatever the presently arisen feeling might be?
+
+    Yes, that's what can make an "inspiring subject" be wholesome to begin with. That passage is not referring to some antidote reflection or concentration object used to get rid of an arisen feeling or phenomenon that one is averse to. If something is wholesome, it has to come through yoniso manasikāra, i.e., non-delight and non-resistance regarding whatever has arisen, although its specific content might vary (in the form of any of the subjects for contemplation found in the Suttas).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1gy0hlr/doing_and_not_doing/lz1j645/)** _2024-11-26 07:27:51 *(in reply to a comment not included)*:
+
+    >So, I think I need to remember the truth of what I realized, but be careful not to use it as a management technique or a tool that does nothing other than refine the craving.
+
+    Yes, very true. The "management" begins not when you misremember the insight or some nuance connected with it, but when whatever you're reflecting on is fundamentally rooted in trying to get rid of the displeasure that has arisen. That attitude is craving, so if you take it up even with the stated intent of purifying your mind, you are precisely feeding the underlying tendency to become angry in the broadest sense (and other hindrances too) even if you manage to suppress the particular manifestation of anger at that moment. You can't truly get rid of any hindrance with another hindrance.
+
+    So in this particular case the anger may have lifted immediately, but make sure not to fixate on bringing about that result, and instead on neither giving in to the anger, nor trying to get rid of it, no matter how long it persists. That's how you cultivate non-craving on the fundamental level, and train your mind to be unmoved in regard to the entire domain of pressure, so that eventually, even though the *trigger* for anger (or any other hindrance) is still present—you're not suddenly overjoyed by whatever the person did to you—there is no suitable basis for it to arise.
+
+---
+
 **r/HillsideHermitage** | Posted by solacetree _2024-11-18 23:13:35_
 ### What is the state that Ajahn Brahm is calling jhana?
 
