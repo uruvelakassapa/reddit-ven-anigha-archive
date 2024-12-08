@@ -1,3 +1,228 @@
+**r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-12-06 02:11:43_
+### Is absorption always a problem?
+
+Is it wrong meditation to become absorbed into experiences while sitting? 
+
+Maybe I've misunderstood the talks I've heard and things I've read, but is it correct that if I'm meditating and become very absorbed into a pleasant feeling or a sensation or sight, then I'm no longer meditating correctly?
+
+Can someone please tell me if there is any room for absorption on the Buddha's path?
+
+To be completely upfront, I enjoy these states very much, but have been refraining lately because I've noticed they put my mind in a strong state of dullness and laziness, even when I'm not meditating. 
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h7qjcy/is_absorption_always_a_problem/m0nlj0g/)** _2024-12-06 03:55:19:
+
+    >Is it wrong meditation to become absorbed into experiences while sitting?
+
+    [Yes](https://suttas.hillsidehermitage.org/?q=an11.9#an11.9:2.3_an11.9:2.17). Absorption = lack of perspective, and lack of perspective is what fuels ignorance.
+
+    The pleasant feeling that the Buddha praised is wholesome precisely because it corresponds with broadening one's perspective rather than limiting it. And that is the pleasure of renunciation, so it cannot be accessed before fulfilling the previous steps of the Gradual Training. "Absorption" is an attempt to bypass those prerequisites and get there quicker, but like most such attempts in life, it doesn't lead to the same thing.
+
+---
+
+**r/HillsideHermitage** | Posted by 25thNightSlayer _2024-12-05 19:00:02_
+### Can one use the senses to gladden the mind (appreciating nature, seeing children play, etc.) and is that practice useful for uprooting the three poisons? I’m finding  it difficult to understand how laypeople can find the fruit of stream-entry. 
+
+I’ve been investigating further what sense restraint and renunciation means in practice to clear my confusions. I came across Thanissaro Bhikkhu’s article (https://www.dhammatalks.org/books/Meditations4/Section0019.html) and it does make sense, but I wonder if this is optimal practice to root out the causes of suffering. How do I truly know if I’m getting to the root of the poisons and what does that look like for laypeople who are immersed in sensuality? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h7gt9d/can_one_use_the_senses_to_gladden_the_mind/m0ni4ms/)** _2024-12-06 03:33:35:
+
+    >Can one use the senses to gladden the mind (appreciating nature, seeing children play, etc.) and is that practice useful for uprooting the three poisons?
+
+    Pleasantness on account of such things may potentially arise on its own, but it's far from something one should actively delight in and "use" to gladden the mind. That pleasure is still based on the senses, and delighting in it will maintain your appropriation of them, even if in a more refined way than more carnal pleasures.
+
+    > How do I truly know if I’m getting to the root of the poisons and what does that look like for laypeople who are immersed in sensuality?
+
+    Laypeople who are immersed in sensuality have to un-immerse themselves and start practicing sense restraint if they want to get to the root of the three poisons. Otherwise it's like continuing to smoke while trying to treat lung cancer. 
+
+    You will be able to know you're getting to the root of them if you first of all see them in your own mind for what they are, and that will only be possible if you stop giving in to the actions that they push you towards. That basically entails no longer living like an ordinary layperson.
+
+---
+
+**r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-12-05 03:16:46_
+### Are Bhikkhu Bodhi's sutta translations problematic?
+
+If so, what is recommended by the Hillside Hermitage/Samanadipa community?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h6zgdm/are_bhikkhu_bodhis_sutta_translations_problematic/m0hhau6/)** _2024-12-05 03:41:44:
+
+    In terms of fidelity to the Pāli, he is often the best of all the major translators. But it's worth keeping in mind that when something is unclear from the Pāli itself, he will sometimes present the commentary's interpretation as if it's what the Sutta says. Hence, it's good to always check an alternative translation, and the differences you spot will highlight things that merit further research.
+
+    >what is recommended by the Hillside Hermitage/Samanadipa community?
+
+    I plan to make all early books of the Canon available in full [on our website](https://suttas.hillsidehermitage.org/) eventually, though I'm placing emphasis on a different project at the moment.
+
+---
+
+**r/HillsideHermitage** | Posted by No_Squirrel4617 _2024-12-04 19:50:53_
+### Distracting thoughts
+
+I'm in need of some practical advice on how to go about undestracting myself from my thoughts. When I am in isolation, it's easy for me to not get carried away by unpleasant and pleasant feelings because they are so painful, and the context there is solid. However, when it comes to neutral feelings, I find myself already far down the line, and I need to bring it back and repeat. Unfortunately, I have been unwittingly cultivating this, and now I am trying to undo it for obvious reasons.
+
+Can someone with experience please share how to practically go about this? Also, if someone has some material on the matter, it would be appreciated.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h6pbs1/distracting_thoughts/m0hljeo/)** _2024-12-05 04:10:46:
+
+    If your mind keeps trying to wriggle out of the neutral feeling, that can only be because you still somtimes indulge in pleasure and resist pain when you are not in seclusion. So make sure you are not doing either of those, in any form, and then your mind will have no choice but to get used to and stop running away from the neutrality. Any other "solution" than that will amount to ignoring the neutrality with another internal activity, and that's when your practice becomes a "technique", even if you're not strictly focusing on an object.
+
+---
+
+**r/streamentry** | Posted by 25thNightSlayer _2024-12-04 04:54:14_
+### Does the Hillside Hermitage take on jhana actually make sense in anyone’s experience? 
+
+From what I gather, HH takes modern talk about jhana as chasing after pleasure. But, I’m not sure what they actually mean by this. Pleasure of the body developed through wholesome abiding is what modern approaches teach so I’m not seeing the contradiction between HH and teachings from Burbea for example. Anapanasati feels good in practice. I’ve experienced bodily pleasure from meditation, but is that to be ignored? What is HH trying to convey? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/streamentry/comments/1h685zc/does_the_hillside_hermitage_take_on_jhana/m0pi609/)** _2024-12-06 14:04:31 *(in reply to a comment not included)*:
+
+    It does not "exclude" it. The point is that, as mentioned in my reply quoted in the root comment above, the Suttas don't say that one arrives at a calm mind free from hindrances by working with pleasant sensations, but entirely the other way round. 
+
+    
+    As a result of freeing the mind from all forms of compulsion, starting with sensuality, bodily pleasure will be experienced. And sure, bodily pleasure is experienced through sensations, but the sensations are not what jhana is. Jhana is the withdrawal from hindrances and unwholesome states, and the bodily pleasure serves as a proxy for the strength and depth of that withdrawal, thus pervading the body with it means that one is becoming *even more* aloof from unwholesome states. 
+
+    
+     Making the pleasant sensations themselves the goal instead of the seclusion from all forms of thirst is trying to take a shorcut in vain, since it turns it into a sensual practice, and thus not jhana. 
+
+---
+
+**r/HillsideHermitage** | Posted by 25thNightSlayer _2024-12-04 04:42:05_
+### Why are Leigh Brasington’s jhana teachings frowned upon when the Buddha spoke of a pleasure not to be feared? 
+
+Leigh teaches the classical gradual training: sila, samadhi, panna. The anapanasati sutta clearly suggests utilizing feelings of wholesomeness that arise the body which lead to calmness. Metta for example is also felt in the body. Where is the line drawn between sensuality and wholesome bodily feelings? Why isn’t there more engagement with Leigh’s teachings by HH when they have led to transformative insights by many people such as Kim Allen etc. who teach suttas. Is there anyone here that claim to experience jhana in the way HH describes them? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0cvwuh/)** _2024-12-04 12:20:58:
+
+    >Where is the line drawn between sensuality and wholesome bodily feelings?
+
+    One of the main ways the line is drawn is the fact that the correct, wholesome bodily pleasure *requires* no longer valuing sensuality internally nor engaging with it externally. While Leigh Brasington's teachings (and most others in the mainstream) may recognize the importance of *sīla* on a basic level of the five precepts, they don't emphasize the recognition of the danger of sensuality and withdrawal from it, internally and externally, to the point that's necessary for entering jhāna. The pleasure of sensuality is not just inferior and less peaceful in comparison; it has to be seen as a factual *threat* to your well-being:
+
+    > “Bhikkhus, having not given up these six things, it’s impossible to abide having entered upon the first jhāna. What six? Sensual desire, ill will, indolence-and-lethargy, restlessness-and-anxiety, and doubt. And the peril of sensuality hasn’t been seen clearly as it is with right understanding. **Not having given up these six things, it’s impossible to abide having entered upon the first jhāna.**  
+    —AN 6.73
+
+    >And how has a bhikkhu seen sensual pleasures in such a way that he does not harbor desire, affection, infatuation, and passion for sensual pleasures \[i.e., abides free from the hindrance of sensuality\]?
+
+    >Suppose there was a pit of glowing coals deeper than a man’s height, filled with glowing coals that neither flamed nor smoked. Then a person would come along who wants to live and doesn’t want to die, who wants to be happy and recoils from pain. Two strong men would grab each arm and drag them towards the pit of glowing coals. They’d writhe and struggle to and fro. Why is that? For that person knows, ‘If I fall in that pit of glowing coals, that will result in my death or deadly pain.’
+
+    >In the same way, when a bhikkhu has seen sensual pleasures as like a pit of glowing coals, they have no underlying tendency for desire, affection, infatuation, and passion for sensual pleasures.
+
+    >—SN 35.244
+
+    >The pleasure and happiness that arise from these five cords of sensual pleasure is called sensual pleasure—a filthy, ordinary, ignoble pleasure. Such pleasure should not be cultivated or developed, **but should be feared, I say.**
+
+    >Take a bhikkhu who, quite secluded from sensual pleasures, abides having entered upon the first... second... third... fourth jhāna. This is called the pleasure of renunciation, the pleasure of seclusion, the pleasure of peace, the pleasure of awakening. Such pleasure should be cultivated and developed, and should not be feared, I say.  
+    —MN 66
+
+    The Buddha also never taught that you enter jhāna by focusing on your bodily sensations. He didn't teach anapanasati as a concentration object for entering jhāna as is widely thought today, but for developing the four satipaṭṭhānas (MN 118). And even there, he doesn't say that you focus on the sensations of your breathing, it says you establish mindfulness *while* you breathe. Mindfulness the four satipaṭṭhānas, none of which involve physical sensations.
+
+    When he did speak about jhāna, the way to attain it was to reflect on the danger in sensuality and the five hindrances, preceded by the thorough abandonment of any activities rooted in them (virtue and restraint). There isn't any instruction in the Suttas for entering jhāna any other way. If "reflecting on the danger" sounds too abstract and one needs something "more palpable", it's only because the basis of restraint hasn't been fulfilled to the necessary degree. It's not yet apparent how unpleasant and agitating sensuality and craving are because one keeps giving into them to some degree. The first step of the Gradual Training is not just keeping the five precepts as external rules and being a better person, but "seeing the danger in the *slightest* fault" (i.e., the slightest greed, aversion, or delusion). And if someone can attain true jhānas, there is no reason they would have difficulties with such renunciation.
+
+    You also cannot truly calm the hindrances, even temporarily, by observing and calming your body on the level of sensations. That practice is just a subtler form of sensuality, which is why it will never fully take you beyond it. Pleasant bodily sensations are one of the 5 cords of sensual pleasure, and you would be actively *seeking* them in that practice, but the Buddha said that passion, desire, and wanting for those 5 things is precisely what sensuality is.
+
+    When he described the development of samādhi, it was in the opposite order: once you've sufficiently cultivated the right way of regarding the hindrances—as a debt, an illness, etc.—and thus given them up, the body eventually follows suit. This means that to overcome the hindrances and enter jhāna, you need to understand what it is that agitates and disturbs your mind in the first place (which, again, will begin with things that you do in your daily life). Ignoring the entire domain of your intentions and mental states to focus on direct physical sensations and trying to make them pleasant is like quickly putting a pacifier into a toddler's mouth or giving it a tablet or phone to distract it, never addressing the reason why it was crying to begin with.
+
+    > they have led to transformative insights
+
+    It's often assumed that "transformative" automatically means beneficial. There is such a thing as wrong insight and wrong liberation (AN 10.105). What you will hear touted as "insight" by those who teach such practices is essentially glorified cognitive reframing strategies that help you manage the symptoms of the illness of ignorance without addressing it at its core. They may well use the same concepts—three characteristics, Four Noble Truths, etc.—on a superficial level, but those insights are used for a very different purpose: as a tool to deal with and dispel instances of suffering that still occur from time to time, whereas for someone who actually understands the Dhamma, suffering and defilements are [permanently unable to return](https://suttacentral.net/an7.12/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin) despite the most extreme circumstances, even if they never revisit any of their insights again.
+
+    Nobody denies that such practices can bring mundane benefits. But it's a severe error to equate them and their results with the Dhamma, akin to mistaking oxygen therapy and painkillers for an actual cure to a pulmonary embolism just because the symptoms go away for a while after you've used them.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0h1zoc/)** _2024-12-05 02:05:59 *(in reply to a comment not included)*:
+
+    Quite simply, *vedanā* are not sensations, and this is apparent from reading the Suttas carefully. A few examples: the Satipaṭṭhāna Sutta says that there are *vedanā* of the flesh and not of the flesh (*niramīsa)*. If they were sensations, they would always be the former. Furthermore, you would no longer experience *vedanā* beyond the fourth jhāna, which MN 111 shows is very much not the case. *vedanā* only ceases in *saññavedayitanirodha,* long after all perceptions of the five senses have been surmounted. Lastly, MN 74 says that one cannot experience more than one type of *vedanā* at a time, which a cursory investigation will show is not the case with sensations.
+
+    > may i ask how you consider vedananupassana - is this to be conceived of as mindfulness of feelings arising from the senses? or even mindfulness of sensations?
+
+    Just as the Satipaṭṭhāna Sutta says, one should be mindful of what kind of *vedanā* is there overall at the time, without having to focus on a specific sense base. 
+
+    Sensations are the external counterparts of the fifth sense base, exactly like sights are to the eye. In the same way as a sight, being pleasant, unpleasant, or neither can be a *quality* of a sensation, but it's not the sensation*.* Thus, it's no more accurate to equate *vedanā* to bodily sensations than to sights, sounds, or tastes.
+
+    I suppose "affectivity" would be one way to translate *vedanā* as it is used in the Suttas.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0h4q41/)** _2024-12-05 02:22:45 *(in reply to a comment not included)*:
+
+    > so they had to drop something(s) to enter a jhana right?
+
+    Correct. What one has to "drop" is the five hindrances, which, as described in SN 46.51, is done by starving them of fuel through *yoniso manasikāra,* not by replacing one object causing a hindrance with another object such as the breath. The latter would only "transmute" the hindrance into another one in relation to the new object.
+
+    It's certainly not the case that just through external renunciation a person will abide in jhānas at will, although practically speaking that is the vast majority of the work. Once that's done, one has to abide in seclusion for prolonged periods of time (which is why that's what always immediately precedes abandoning the hindrances), and that[ will start to reveal the "signs of the mind" (*cittassa nimitta*)](https://suttas.hillsidehermitage.org/?q=an6.68) more clearly ([my essay on the topic](https://www.hillsidehermitage.org/the-cues-of-the-mind/)). Referring back to what I wrote above, that practically means "understand(ing) what it is that agitates and disturbs your mind in the first place", which is nothing other than intentions rooted in craving. At the point we're discussing, those intentions are already quite subtle and would not be visible from the outside, whereas in the beginning they would've been coarse external indulgences of breaking precepts. That's the refinement that unfolds through the Gradual Training.
+
+    [Only when the signs of the mind are sufficiently seen is it possible to gain peaceful abidings in the present experience, i.e., jhānas.](https://suttas.hillsidehermitage.org/?q=sn47.8) To use the simile in that Sutta, meditation techniques taught today are akin to the cook who doesn't *discern* the subtly implied wishes of the king for what they are, and instead serves him dishes based on his own preferences or some cooking manual he has read.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0h99rk/)** _2024-12-05 02:50:34 *(in reply to a comment not included)*:
+
+    >"Mindfulness **of** in-&-out breathing, when developed & pursued, is of great fruit, of great benefit."
+
+    The Pāli doesn't actually say "of". The term *ānāpānasati* can be interpreted as "mindfulness in relation to breathing", and that interpretation is verified by [Iti 85](https://suttacentral.net/iti85/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin), which separates the compound into "*ānāpāne patissato",* i.e., "mindful *in regard to* in and out breathing" (unfortunately the translators seem to overlook that subtlety, however).
+
+    Mindfulness (or remembering) also isn't the same as *attention*, so it makes little sense to say that one is practicing Anapanasati *by virtue of* attending to the breath regardless of what one interprets the preposition between *ānāpāna* and *sati* to be.
+
+    >I read the above, from MN 118, that mindfulness can be anchored by focusing on the qualities of the breath, or breath energy in the body, as Ṭhānissaro Bhikkhu puts it.
+
+    The "focusing" part is a very common assumption and is never actually mentioned in the discourse (or in any other in the Canon, for that matter). If anything, [focusing is discouraged](https://suttas.hillsidehermitage.org/?q=an11.9). "Breath energies" are never mentioned anywhere either.
+
+    >The first satipaṭṭhāna is mindfulness of the body, including breathing? So, this would seem to also indicate mindfulness of the breath / physical sensations?
+
+    Body > physical sensations is quite a jump, and it's taken for granted in contemporary Buddhism without a second thought. The body is the internal counterpart of the six types of sense objects, corresponding to the conglomeration of the six "internal" sense faculties. Thus, equating the body with sensations is fundamentally no different than equating it with sights or sounds.
+
+    In SN 35.238, the Buddha says that the internal sense bases are empty, hollow, and void, like an empty village, and that they are "attacked" by external sense objects, a type of which would be bodily sensations. So equating the body with sensations is a failure to distinguish between the empty village and the attacking thieves, which nobody would do with the eye or the ear, but is easily done when it comes to the sense of touch just because physical sensations seem more "intimate". But in the Buddha's definition, they are *external*.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0hjssg/)** _2024-12-05 03:58:35 *(in reply to a comment not included)*:
+
+    Depends on what you mean by "encompass". If you mean that both physical sensations and mental phenomena can be a basis for *vedanā,* then that would be correct, and is how the Suttas describe the relationship. If you mean that *vedanā* can **be** either physical sensations or mental phenomena, then no, and that would confuse *vedanā* with *saññā.*
+
+    The simplest illustration of the distinction is in how in some cases the connotation that a physical sensation carries can make you either pleased, displeased, or indifferent, even though the sensation itself remains unchanged. That's why self-harm is a thing at all.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0hy8ca/)** _2024-12-05 05:48:23 *(in reply to a comment not included)*:
+
+    >i use ‘sensations’ in the sense of anything coming from any of the six the sense bases, so i see a difference of definitions and not understanding.
+
+    I see. I guess that's possible, but using it in that way would probably be misleading for many, since the Vipassana tradition equates *vedanā* with tactile perceptions, where "body scanning" is supposedly *vedanānupassanā*, and that understanding has seeped into other modern traditions.
+
+    >i wasn’t sure what you meant re MN74 - i didn’t grasp how more than one type of vedana can can be experienced at a time for bodily sensations. could you clarify what you mean by this?
+
+    I meant that we can experience more than one physical sensation at a time, which rules that out from being *vedanā*.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0i57id/)** _2024-12-05 06:52:37 *(in reply to a comment not included)*:
+
+    Simply replace "giving **close** attention" with "giving **proper/correct** attention", which is the meaning of *sādhuka*. Moreover, the physical sensations of breathing are not the in- and out-breathing any more than the sensations in your mouth while speaking are your speech, so it's gratuitous to place the emphasis on them either way, exactly like trying to practice mindfulness in regard to speech by watching those sensations.
+
+    A feeling being seen among/within feelings means that the feeling present while practicing *anāpānasati* will be seen with *yoniso manasikāra,* i.e., one will be the exact opposite of absorbed in it, and instead completely detached, dispassionate, and equanimous in regard to it, even if it's the most sublime pleasure, thanks to the mindfulness in regard to breathing that has been established already.
+
+    In contrast, the way anapanasati is almost always practiced today is just an internal way of chasing after pleasant feelings, in much the same way as one used to pursue sensual pleasures. When it says "experiencing joy, I shall breathe in, etc.", it's not a willful, sensual fabrication of pleasant physical sensations while breathing. Truly wholesome joy comes from abandoning the five hindrances, which are *mental defilements* (*cittassa upakkilesā).*
+
+    Thus, in order to practice Anapanasati while experiencing joy, the person needs to already know how to abandon the five hindrances through *yoniso manasikāra* and not just suppress them with a concentration method—hence the Right View is required—and then while that joy is there [on account of a mind liberated from the debt, illness, prison, etc.](https://suttas.hillsidehermitage.org/?q=dn2#dn2:69.1_dn2:74.3), they see it as conditioned by the breathing that could stop at any moment, and thus as impermanent, such that there is not the slightest room for ownership in regard to even that wholesome pleasure. There will be no ownership even in regard to the most acute discernment of impermanence and letting go, which is the last tetrad (and that points to how the Right View is being taken for granted there; otherwise one doesn't have any understanding of impermanence to disown in the first place). As defined in the Satipaṭṭhāna Sutta, the goal of all the four is to "abide independent, without taking up *anything* in the world", and that is what Anapanasati fulfills in a very acute way.
+
+    Thus, Anapanasati was given to noble disciples in MN 118, so that they would obliterate the subtle traces of ownership and mine-making, even in regard to the Dhamma itself, that were still barring them from Arahantship, [as a moving cart would scatter a large heap of sand. ](https://suttacentral.net/sn54.10/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) And that's why the [Ānāpānasaṃyutta](https://suttacentral.net/sn54?view=normal&lang=en) centers around touting how it will completely destroy all impurities if practiced rightly (i.e., by a sotāpanna or higher). Modern teachers would themselves acknowledge that the breath meditation they teach cannot *in itself* destroy the fetters. They instead see it as a self-hypnosis tool used chiefly to lull the mind into a trance state, at which point one puts the breath aside and tries to get a glimpse of some mystical hidden truth. There is none of that in the Suttas.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0i8b8r/)** _2024-12-05 07:23:35 *(in reply to a comment not included)*:
+
+    What you're referring to is that you can only *focus* on one sensory phenomenon at a time, and that's quite correct. But there is a totality of sensory phenomena which precedes your attention, and you are able to choose to attend something specific within that. That is why no matter how engrossed you are in one sensory experience, a change in one of the aspects of that totality that you were not focusing on can snap you out of it (e.g., starting to feel cold while engrossed in a book).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0ncv4y/)** _2024-12-06 03:00:35 *(in reply to a comment not included)*:
+
+    Even if we decided to call the movement of the air element "breath energy", the greater problem is that the usage of that concept has nothing to do with freedom from suffering or with actually abandoning the hindrances, but merely giving oneself something to entertain oneself with that is less coarse. The Buddha didn't teach to "play" with the air element as a means to calm the mind down. He in fact called the four great elements ["four deadly vipers"](https://suttacentral.net/sn35.238/en/bodhi?lang=en&reference=none&highlight=false) that one should run away from (i.e., develop dispassion towards) so "playing" with one of them and basing one's pleasure on it is not exactly something he would've encouraged.
+
+    On the other hand, in the very act of practicing Anapanasati properly, one would be understanding the air element as a deadly viper and developing dispassion towards it. Hence it fulfills the seven awakening factors (for a noble one) and culminates in complete relinquishment of all being. But that is generally not what Venerable Thanissaro's conception of wisdom is. It's rather a management-oriented view of letting go of fabrications to let go of dukkha—which is an endless task—and the permanent liberation is supposed to come from contacting a mystical, unfabricated reality supposedly outside the five aggregates, and not, as the Suttas describe, from full understanding of the mundane reality of the five aggregates in and of itself (which ironically includes such lofty experiences too, no matter how much one thinks it doesn't).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0nfx7a/)** _2024-12-06 03:19:36 *(in reply to a comment not included)*:
+
+    >How different is the concept of focusing on the breath when compared to the first foundation of mindfulness which is mindfulness of the body which includes knowing that one is breathing (short or long and so on)? Are we getting caught up in semantics when trying to draw a distinction here?
+
+    I wouldn't say so. The first and most important difference would be that focusing on breathing sensations will not reveal what the body actually is any more than focusing on a visual image will reveal your eyes. The practice of Anapanasati described in the Suttas is to be mindful of the body *while* breathing, which is a very different thing, and means that one must be able to discern the body properly *first,* the point being to undermine any sense of fundamental ownership over that body even though the act of breathing, let alone coarser acts.
+
+    >What do you make of other prominent Theravada monks like Ajahn Chah, Ajahn Sona, Thānissaro Bhikkhu, Bhante Gunaratana, etc who promote "focusing" on the breath (in my use "focusing" and "mindfulness of" may be the same)? In other words, why is there a divide on this issue among monks?
+
+    They are simply engaging in yogic practices unrelated to the Anapanasati taught in the Suttas, which was not taught as a focusing object that could be replaced with any other arbitrary object or sensation, but as a way to develop full understanding of the nature of intentionality/action and abandon it, which is how it directly leads to eliminating even the subtlest of fetters. It was also only taught to monks who were not content with anything less than full liberation and had aligned their entire lives with that goal, and not to lay people looking for just about anything that helps them cope with the stress caused by their own lack of restraint without having to actually address it. The general interpretation of mindfulness as focusing is also [at variance with the Suttas.](https://suttas.hillsidehermitage.org/?q=an11.9#an11.9:2.3_an11.9:2.8)
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/m0t0pkd/)** _2024-12-07 02:00:40 *(in reply to a comment not included)*:
+
+    Depends on what they do the other 22 hours.
+
+---
+
+**r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-11-30 19:18:35_
+### Is unshakeable conviction only available with Right View?
+
+I lack conviction to the point that when I hear one teacher, I am totally on board with what they are saying. But then, when I hear another teacher with a contradictory message, I agree with them and disagree with the one I previously agreed with. This lack of conviction in a solid interpretation of the Buddha's teachings is leaving me feeling like I'm getting nowhere despite a lot of effort. Then I think I just don't need a teacher and should "know things for myself" - but I even lack conviction in myself. After all, if I could end suffering on my own, wouldn't I be a Buddha? I've heard the advice of, just pick one teacher or one tradition for a while and see where it leads you. But, I can't authentically do that with the background awareness that this \*might\* be the wrong way.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h3k0ze/is_unshakeable_conviction_only_available_with/lzur88p/)** _2024-12-01 10:44:21:
+
+    Focus on what the Suttas unambiguously tell you to develop, which is virtue, self-restraint, and not tolerating greed, aversion, and delusion. You can't go wrong if you do that, and any teacher who would have you omit those practices and do something else entirely isn't teaching the true Dhamma.
+
+    If you've established that foundation to some extent, you'll be in a better position to see for yourself who is worth listening to and who isn't, and won't have to take their words on faith, or see who can sway you more with their outward presentation.
+
+---
+
 **r/HillsideHermitage** | Posted by Queasy-Astronaut9546 _2024-11-30 01:53:39_
 ### Peripheral Awareness Clarification - Extent of Immediate Knowing
 
@@ -46,6 +271,67 @@ I’m trying to get some more clarity on what it practically looks like to prope
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h1ne7o/how_to_endure_the_pressure_of_unwholesome_mental/lznuius/)** _2024-11-30 03:37:43:
 
     This all sounds like a broader hindrance of restlessness and doubt that's making you look for the problem on an overly particular level of individual thoughts, where it actually isn't. And it's not about "catching things in their arrival" in a momentary, focused attention sense, as if unwholesome states could suddenly pop into your mind without you having any say in it. Indulgence is always intentional, so all you have to do is ask yourself whether you're willingly delighting or harboring hateful intentions against something, and if the answer is no, then whatever remains is not your responsibility.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-11-28 02:50:42_
+### What is meant by "Reflexive eye" and does internal have two meanings? 
+
+I'm often not confident I understand some terms correctly or fully, and seek clarification. I've included my understanding of more terms on the eye to see if those need correction. 
+
+"But there is a further point. The body (or senses) in its mode as a material object perceived (or imagined) by other senses, is in the world. This is important; for it is the correlative to the description of the material body(or senses) as the reason, or instrument, whereby there is a perceiver and a conceiver of the world. **(Reflexively described the eye is, in fact, the perceiver
+and conceiver of the world-the atta-: but neither reflexive eye nor Atta is to be found.)** As soon as conception of the world (lokamaññanā) ceases, so, of course, does the world-and at one blow the body (or senses) ceases both as what is indicated by the conception of the world (i.e. the phantom perceiver and conceiver) and as a thing in the world. (Remember that Atta and loka are correlatives-atta is what is indicated by loka.)" - *StP, L.92
+
+My understanding is there's:
+
+External eye: the appearance of an eye, in a mirror or another sense, or in the body of another individual. 
+
+Internal: The sheer negative that meets forms externally. 
+"As long as one cannot see the full extent of their negative nature, one will assail them with the assumptions and mis-perceptions, because of which the internal senses will *exist*[bhava] and *appear* (either reflectively as some view or another, or being confused with their external counterparts." - *Meanings*, N.59
+
+"Matter because of which one can perceive and conceive the world" - *Meanings*, N.60
+
+"If experience were confined to the use of a single eye, the eye and forms would not be distinguishable, they would not appear as separate things." - *NoD*, phassa
+
+Image of the eye: When one looks in the mirror and reflects on an eye, the image that is negative to the external eye, which may be confused for the internal eye, but is actually the object of Mano, and thus another external.
+
+Reading further, I just noticed in *Meanings* N.65 Ven. Nyanamoli says "The meaning of 'internal' is limited to 'one's own body' and to nothing else, but the reasons are different than what you suppose... You say: "But my eye as I see it in the mirror or touch it with my hands is an *internal* eye according to MN 28, because it belongs to 'this body' like
+the kidneys." This is absolutely so, but again the only way to know that that eye belongs to the body, the only way to know it is internal is externally, because internally the eye (or any other sense or bodily organ) cannot appear to itself. So the eye that you see in the mirror is indeed an
+internal eye, if by that you mean "*that* because of which there is seeing in the first place." Thus an eye is *that* organ, that thing in the world because of which there is world. And it is this *dimension* 'because of which' that differentiates internal and external. And the same dimension, or rather the ignorance in regard to the same dimension is responsible for the appropriation of the world and senses ("that because of which one is a perceiver and conceiver of the world"). **To put all of this simply: it is the appropriation of one's body and senses as** ***mine*** **that makes them** ***internal*** (cf. Ven. Ñāṇavīra saying that in the subject-object pair the subject doesn't appear, and in the sense organ-sense object pair, the sense organ doesn't appear; ignorance in regard to this superposition and the identification of sense organs (i.e. one's body as a whole) and the subject occurs.)"
+
+The letter goes on.
+
+I don't get why he's calling the eye one can see in the mirror internal. It's external, out there.  And is the appropriation part about discerning internal here and external yonder from the there of the experience as a whole? 
+
+I didn't plan for the latter half of this post and now I'm quite tired and confused from reading and thinking so maybe I'm missing something obvious. 
+
+I appreciate any help to see where my understanding is correct or incorrect. Thank you. I've read this stuff a lot so I'm surprised that this confusion has come up. Sometimes it feels like understanding comes and goes. I seem to progress the most by obsessively reading and contemplating but it's exhausting, especially the reading.  I've messed around with my own perceptions in the past, even without drugs.  The most regrettable is intensely determining what I'm reading in front of me as the immediate, direct communication of the highest importance from an *other*.  I did this very intensely and the effects were strange, but what lingers now is that reading can be oppressive because of it. I don't know if that makes sense but please don't try stuff like that. 
+
+Edit: Regarding internal, I think last night when I posted this I wanted to look over or deny the fact that I guess I already knew internal refers to the closest body(Which can only be known as internal, externally, as an appearance through another sense), **and** also refers to the pure negative "field" that external forms arise in.  I don't understand why the words are used this way.  There is the appearance because of which there is seeing, but if we're talking about a reflection in the mirror, to call it internal seems wrong. I guess using the word "internal" is better that using "your" when teaching the dhamma. One can't be in the position of the senses. Experience as a whole comes first.  "Closest body" should be seen in reference to the "directional experience as a whole", while it will inevitably first be taken as "closest to **me**" and be caught up with views and assumptions about the internal and/or appropriating consciousness.  It's hard not to view oneself as the one behind, the one watching.
+
+Edit 2: maybe I was getting mixed up because it's external to consciousness, but it still want to say it isn't an internal eye, that it's a reflection in the mirror. Perhaps I'm being pedantic and it isn't wrong to say it's the appearance of an internal eye. I know he says "is indeed an internal eye, if by that you mean..." but it seems wrong to call an eye I can see internal.  I would have used the wording "the appearance because of which there is seeing" instead of calling an eye I can see internal, but perhaps that means the same thing. I think it comes down to internal does appear, to other senses, but I got mixed up because it is also said of them that they are sheer negative and don't appear, except through views or assumptions. It might just be that I want to deny it too much. Or maybe I might just want to make sure I'm not assuming that the reflection is that form, and assuming "this is the appearance, but the form **is** something else". The "is" being the problem because it implies its existence. 
+
+Edit 3: I can't reconcile the internal being sheer negative and also appearing. Right now I just wanted to type "Those appearances are perceptions, and I don't see because of perceptions(but because of form.)" But oh, isn't that interesting? Regarding the two meanings of internal, I think an appearance because-of-which there is seeing can be found, which one would normally consider "my" body. I feel this is only internal in a certain sense. The sheer negative, however, does not appear.  I keep reaching a point where it seems clear the senses do not exist, but then it's lost and I wonder how I got to that understanding.  I think this is the point of circling around appearance and existence, and assuming the senses located somewhere and I need to stop searching *onwards* and start searching further *into* the experience. 
+
+I've made a few edits to this post. I think the main thing is wanting to assume the body or senses being somewhere. This is probably a confusing post to read and I think it contains some repetition and contradictions, but if anyone has any pointers I'm very grateful.
+
+[Here](https://postimg.cc/gallery/hJmRwKD) is letter 92 of StP
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h1m3j2/what_is_meant_by_reflexive_eye_and_does_internal/lzze4gb/)** _2024-12-02 03:35:48:
+
+    >I don't get why he's calling the eye one can see in the mirror internal.
+
+    Note that he qualified this by
+
+    > if by that you mean "*that* because of which there is seeing in the first place."
+
+    The only way that eye can be perceived is through external means (including a mental image of it), but if you don't misconceive the perception/image of the eye to be that because of which there is seeing—but also without denying the perception and insisting in coming closer to the "real" eye... through another perception—then the internal dimension can be revealed peripherally. So it's not that the reflection of the eye in the mirror *is* what's internal, but you certainly would not be able to discern the internal without it.
+
+    When the "internal" is discerned rightly, all the thoughts and perceptions concerned with the eye are still intact, but none "stand" for the internal eye anymore. So even the most engaged thinking and reflecting on the eye, which is real as such and doesn't need to be denied, cannot get you to misconceive those thoughts as actually *being* the internal eye. And you also don't imply that there is some *other* manifestation of the eye you can access that is somehow more real or valid than all the others: *that too* would be a misconceiving, no matter how subtle that manifestation is. Still, it would also be wrong to say that the eye "doesn't exist", since you clearly experience sights while knowing that if someone impaled those fleshy orbs you see in the mirror, that would no longer be the case.
+
+    The purpose of all this is not abstract pondering, but revealing a sense of complete "confinement", of never being able to reach beyond the pre-determined limit no matter how hard or accurately you try, and only then can the actual impermanence of the eye become apparent—it's completely inaccessible by anything that you can intend, but nevertheless you know it's there. Thus, the ludicrousness of assuming that you could avoid its abrupt destruction and lamenting if it comes about is revealed. When that is the case, you won't be able to take the eye as yours even if you want to—true \*anattā—\*and that's the end of suffering. Anything less than that, and you *will* be taking it as yours, no matter what you do or tell yourself.
+
+    [This talk](https://www.youtube.com/watch?v=hB9dQFtXMKs) may be helpful. It's more about the body in general, but it's the same principle of not allowing any images and thoughts of the body to imply that they *are* the body, and instead staying mindful of the "actual" peripheral body while those thoughts are there, being careful not to overly objectify *that* into a new thought. That's the practice of satipaṭṭhāna: putting the thoughts about the body second to the body, i.e. seeing body within body. And the result is the same,[ a sense of complete confinement](https://www.youtube.com/watch?v=zPmfB2to2sQ), which might be unpleasant initially if you're not well developed in virtue, but at the same time frees you from the burden of ownership if maintained long enough.
 
 ---
 
@@ -113,6 +399,53 @@ The issue now is, seeing the connection between this (A) intention to resist and
     (2) Because everything one does becomes subtly rooted in avoiding the arisen discomfort of the pressure/"extra force", whether it be to just appease it by indulging in the objects it points to, or trying to remove the pressure through aversion. Both attitudes blame the issue on the pressure and miss the greater goal of not fueling craving, which is where the suffering truly comes from, not the pressure itself.
 
     (3) No longer acting out of any "intentions to resist" by following the Gradual Training long and diligently enough.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/lzuulwb/)** _2024-12-01 11:22:05 *(in reply to a comment not included)*:
+
+    >I had overlooked this aspect. However, it seems you're trying to say that that force is the citta, or the wild animal/child we're paired up with as recent HH videos have been discussing. Am I correct?
+
+    Yes.
+
+    > So that means citta can intend on its own?
+
+    No, it's not quite that it "intends on its own". It's more like it pressures you to intend, and because you're either unaware of that—you don't see the signs of the mind—or are simply careless, you intend what it wants you to intend.
+
+    >In (1) you state that the extra force is the hindrances, so I understand that to mean that it's the citta, i.e., the wild animal which is hindered. The hindered citta pressures. I had thus far thought that it was the pressure (the felt sense of "you should do something about this situation") that was craving, which had to be destroyed, but this is mistaken.
+
+    You can say that the pressure of the hindered citta is a form of craving, and it also has to be destroyed. But you cannot do so directly. [Only by ceasing to engage in craving yourself will the animal eventually be tamed.](https://suttas.hillsidehermitage.org/?q=mn8#mn8:16.1_mn8:16.5) If you act out of aversion to the pressure of the animal, you're acting out of craving, and thus continuing to agitating the animal in your very attempt to tame it.
+
+    >it's not the hindered citta which is the problem but rather, what one does on account of it being hindered
+
+    [The hindered citta *is* a problem](https://suttacentral.net/an5.51/en/bodhi?lang=en). It's what will obstruct any attainment of higher wisdom. It's just that you don't fix the problem of the hindrances by acting out of more hindrances, i.e., aversion to the pressure of the citta.
+
+    >one cannot but see that its the intention and intention only which is the problem, and that would be the understanding which constitutes Right View?
+
+    The Right View would be fully understanding the indirect method through which the mind is tamed, which again requires enduring the pressure of that same mind without aversion or impatience, but without denying that the final goal is to overcome that pressure.
+
+    Another point that's important to consider is what a tamed *citta* actually is. It doesn't mean it's focused on a single object and doesn't "move" at all, which is more like a temporarily lulled *citta*. It means it no longer pressures you regardless of which objects you attend to, and that's what *samādhi* is.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/lzx6l56/)** _2024-12-01 20:00:56 *(in reply to a comment not included)*:
+
+    >In other words, what is the "greater harm" that the ill-directed mind inflicts on us? Why should we tame this animal that isn't ours?
+
+    Because it inflicts pain on you, and pain + ignorance = craving (on "your" part), and craving on your part feeds the craving of the citta, because of which it then inflicts more pain, and so on. So taming the citta is not the same as abandoning ignorance, but it's an indispensable prerequisite. *Samādhi,* i.e.*,* pliability and unification of *citta*, is absolutely not optional; it just has nothing whatsoever to do with "absorption" and meditation techniques.
+
+    You can say "the citta is not me/mine", and that's true in theory, but the fact remains that if you haven't tamed it, you are the one who has to experience displeasure due to its tantrums when it doesn't get what it wants or gets what it doesn't want. Yes, you can and should endure those pressures no matter how intensely they arise because the *citta* is not yours, but in the end, some extent of pliability of it is necessary for true knowledge to take root. But that pliability itself comes out of enduring the *citta*'s pressures, so you actually catch two fish with one net (which is another way of saying that *samatha* and *vipassanā* are inseparable).
+
+    And why is pliability necessary? Because ultimately, you alone cannot understand the Four Noble Truths as they really are, as all "you" can do is deal with abstract concepts and ideas. The *citta* needs to cooperate for those concepts and ideas to be seen concretely, and it won't do so if it's still restless and defiant, just like a child:
+
+    >When his mind (*citta*) has become composed like this—purified, bright, flawless, rid of defilements, pliable, workable, steady, and imperturbable—he extends ***it*** (*cittaṃ abhininnāmeti)* towards the knowledge of the destruction of the influxes. He understands as it is: ‘This is suffering’ …  
+    —[MN 39](https://suttas.hillsidehermitage.org/?q=mn39#mn39:21.1_mn39:21.6)
+
+    ...
+
+    >The issue, more accurately, is *why is it that it's the citta which harbors the five hindrances*?
+
+    The question "why" is kind of irrelevant and would fall into metaphysical speculation. But you can see for yourself that it isn't *you* who harbors the hindrances simply because you cannot get rid of things like anger or anxiety as a matter of choice. You have the option to follow them, try to override them with external distractions, or to simply endure them, but still, they are *there*. Thus, it's not "you" who creates them, and that aspect of experience which is not "you" but nevertheless puts the most intimate sort of pressure on you is called *citta*.
+
+    >So will it be correct to say if I understand what the five hindrances are, I will understand the citta? Because if I were to understand the five hindrances, I would have to understand where they are and why they are there and not elsewhere. To understand "where they are", I would have to understand the nature of the citta.
+
+    Yes, that's quite correct. Understanding the nature of the citta concretely and accurately, AKA "seeing the signs of the mind", is the same as understanding the five hindrances, and both are prerequisites for the Right View.
+
+    And here we arrive at the reason why virtue and restraint from sensuality and ill will are on no account negotiable, [and are the prequisite for purifying/taming the citta](https://suttas.hillsidehermitage.org/?q=mn24#mn24:15.1_mn24:15.2) (which is in turn the prerequisite for purification of view). Only if you have been enduring the pressure of the citta long enough by not spilling out into certain actions on account of it can you start to get acquainted with what a hindrance actually is—you will "feel" it whether you like it or not—and that familiarity gets refined as you ascend the stages of the gradual training.
 
 ---
 
