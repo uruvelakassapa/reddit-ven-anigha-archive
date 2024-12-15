@@ -1,3 +1,199 @@
+**r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-12-12 12:40:25_
+### Lofty aspirations 
+
+At several points in my practice there have been times where things become much clearer. The scale of Samsara and suffering, the unsatisfactoryness of anything in the world, and other things that lead to great dispassion, resolve, compassion, etc. These are the times of shaking up, pivoting, and doubling down to practice harder and abandon what needs abandoning.  At times like this, I've made lofty aspirations and determinations that still drive me to one extent or another. 
+
+I was into Vajrayana and Mahayana when I first began learning about Buddhism, but I've overall inclined towards Therevada from the beginning, since I recognize that the Pali Canon contains within it the oldest, most authentic, most consistent teachings.  One thing that remains from the course my path has taken is the desire to help others as much as I can with this life, and however many lives remain before awakening and before arahantship. I realized at some point that I *could* live my life in a way that does some minimum amount of harm and some maximum amount of good. This underlying determination to (eventually) live in such a way means that while I have gotten stuck and lost my authenticity many times, the drive to end suffering and recognition that I could live I such a way to do a minimum amount of harm(no harm, really) and a maximum amount of good means I've only stayed stuck for so long.
+
+Now, aspirations can be useful. We use desire to end desire, conceit to end conceit.  We want jhana a lot, and so we practice in a way to get it, which includes abandoning that desire.  To be harmless is not optional in the end, and although this achieved by *not* doing certain things, it is itself also the highest good you can "do". What I want to know is the proper place for aspiration to do good beyond that.  Doing maximum good to help living beings.
+
+This inevitably leads to the desire to teach. I am not at all qualified to do so. I think I would teach people if they asked as well as I could at the moment with whatever I know, but really one wants to be a sotapana at least. I'd really want to be an arahant before I ever inclined towards *becoming* a teacher,if teaching would get in the way of work to be done. I've already seen the unwholesome things that can come from my aspiration. In the past I've attempted to teach people about what the Buddha taught to those who didn't ask and it hasn't done any good. It can easily become something to fantasize about.  It can be used as a means of escaping the present, or shielding one from looking too closely at oneself and taking the practice personally enough by thinking too much about others.
+
+Now, I recognize I can't take for granted the aspiration as I conceived it. I must know, what is a being? What does it mean to be truly help others? What is wellbeing? I can't know these things unless I'm awakened, so that must always take priority over ideas about others and doing good that will be incorrect unless one is awakened. The more I learn the dhamma the more I see how misplaced the idea of "saving living beings" is, but I want to know, how should I regard this sort of thinking, aspiring, determining, that I've spoken of? 
+The Buddha didn't wasn't even inclined to teach, which should really point to what the right attitude is. It's all suffering whatever I choose to do, but I'd like to help people. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hck808/lofty_aspirations/m1t8yjg/)** _2024-12-13 04:35:41:
+
+    You have to keep in mind that whatever notions you have about what enlightenment is and what you will gain from it are affected by your current ignorance and craving, and thus cannot be taken at face value.
+
+    >The Buddha didn't wasn't even inclined to teach, which should really point to what the right attitude is.
+
+    Indeed, which highlights that if your first thought is to try to help others, even *before* you have actually realized the Dhamma, there probably is a wrong attitude behind that. 
+
+    If being able to "save" others is what carries delight for you, then leading the holy life for that express purpose [would be an obstruction to progress.](https://suttas.hillsidehermitage.org/?q=mn16#mn16:12.1_mn16:12.4)
+
+---
+
+**r/HillsideHermitage** | Posted by Devotedlyindeed _2024-12-12 04:41:18_
+### How is Mindfulness of Body Relevant?
+
+Simply put, I do not understand how the 1st Satipatthana is relevant to the endeavor we are undertaking. Is this simply a starting point for learning to direct and maintain awareness of what is happening inside of experience, or perhaps a starting point to questioning the reality of our perceptions? How does this practice relate to the process of finding right view?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hcdc7i/how_is_mindfulness_of_body_relevant/m1t6eul/)** _2024-12-13 04:17:51:
+
+    The purpose of mindfulness of the body—which includes Anapanasati—is to fully clarity the fact that not only the body itself, but anything whatsoever that you could experience is impermanent (since it will be on the basis of the body), and thus a mistake to delight in and appropriate. That is why it[ inevitably leads to Nibbāna](https://suttacentral.net/an1.575-615/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin).
+
+    Focusing on bodily sensations—which you won't see advocated in the Suttas, yet is generally what contemporary notions about mindfulness of the body center around—is clearly unrelated to that goal.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hcdc7i/how_is_mindfulness_of_body_relevant/m1thgas/)** _2024-12-13 05:42:34 *(in reply to a comment not included)*:
+
+    Well, thinking in terms of "proprioception" is where the problem lies. That will inevitably evoke connotations of focusing on sensations and minute movements, which doesnÄt lead freedom from suffering any more than gardening does (in that it would take your mind away from it). And for anything to qualify as satipaṭṭhāna, it has to fulfill that criterion, since [that's how the Satipaṭṭhāna Sutta starts](https://suttas.hillsidehermitage.org/?q=mn10#mn10:2.1).
+
+    Firstly, neither "mindfulness" (sati) nor "awareness" (sampajaññā) are the same as *attention* (manasikāra), so the tendency to try to focus and observe things in the name of mindfulness is clearly mistaken on that account alone. Furthermore, you don't need to zone in on specific movements or sensations to *know* that your body is there, "underneath" your whole experience as an impermanent condition for it, even when you do mundane acts like extending your limbs. That background "knowing" is the purpose of that practice, so that you don't forget what comes first, and thereby automatically assume that it's *you* who comes first and is the master.
+
+    Closely observe your physical sensations is no different than getting absorbed in an external sight, since the actual body that you need to understand as impermanent is still there, "underneath" or "behind" that whole act and endeavor. But the focusing ironically makes you unable to recognize that.
+
+    >but I suppose could help with keeping sīla.
+
+    [Satipaṭṭhāna requires sīla being well established way beforehand, not the other way around](https://suttacentral.net/sn47.3/en/bodhi?lang=en&reference=none&highlight=false).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hcdc7i/how_is_mindfulness_of_body_relevant/m1tkrms/)** _2024-12-13 06:12:06 *(in reply to a comment not included)*:
+
+    Imagine you're walking through a jungle that you know is teeming with venomous vipers. Without having to repeat to yourself "Deadly vipers! Deadly vipers!" constantly, you would have a background awareness throughout that entire journey that would influence your activities in that jungle, preventing you from becoming careless.
+
+    Now, extend that same principle to the body. No matter what you do and where you go, you don't fully forget the fact that this mass of flesh and bone that your life depends on could get injured or destroyed without a moment's notice, despite all your wishes to protect it.
+
+    If you start overly *attending* to that reflection and becoming absorbed in it, or in any other specific perception, you will lose sight of the actual body that is always a ["background"](https://www.youtube.com/watch?v=F2-b5s6Msxw) to whatever you do or attend to. Similarly, if you start focusing on the sensations of your feet touching the floor as you walk, you will lose the awareness that truly matters in the jungle, and probably step on a snake sooner or later. 
+
+    Therefore, mindfulness is not something you "do"; it must be established *in regard to* whatever you do, even on the mental level, and that includes the act of  focusing. Some extent of focusing or attention is inevitable and necessary to function in life; the true problem is the *view* that focus is what mindfulness is.
+
+    Virtue and sense restraint need to be well developed already for proper mindfulness to be possible and sustainable, since the coarse mind of an unrestrained person inevitably "over-attends" and turns everything into a foreground. This is why the whole "meditation object" approach is what people usually find most congenial and can get on board with immediately, with no prior experience, unlike the true *satipaṭṭhānas* which, as shown repeatedly in the Suttas, require a lot of preliminary development and purification of one's behavior.
+
+---
+
+**r/HillsideHermitage** | Posted by Belozersky _2024-12-08 18:36:00_
+### How to reconcile SN12.19 with structural Dependent Origination?
+
+[SN12.19](https://suttacentral.net/sn12.19/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=asterisk&highlight=true&script=latin) says:
+
+/For an astute person shrouded by ignorance and fettered by craving, this body has been produced. But the astute person has given up that ignorance and finished that craving.
+
+Why is that?
+
+The astute person has completed the spiritual journey for the complete ending of suffering.
+
+Therefore, when their body breaks up, the astute person is not reborn in another body.
+
+Not being reborn in another body, they’re freed from (re)birth, old age, and death, from sorrow, lamentation, pain, sadness, and distress./
+
+The text seems to suggest that this current body is a result of ignorance and craving in the past lives. It also says that an enlightened person is freed from jati and jaramarana of the next life (since he doesn't take a new body), not of this life.
+
+Do you think this sutta contradicts the structural (akaliko) DO? Is this an instance of 'objective' 3rd person DO?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h9pfad/how_to_reconcile_sn1219_with_structural_dependent/m156yce/)** _2024-12-09 04:01:43:
+
+    The phenomenon of a new birth occurs *within* structural dependent origination, not the other way around. It's not like you get a new ignorance/craving for each new life. It's been the same one all along, and every new birth happens within that same "structure".
+
+    >“Bhikkhus, it is said that no first point of ignorance is evident, before which there was no ignorance, and afterwards it came to be.   
+    —AN 10.61
+
+    Structural, timeless dependent origination does not exclude the traditional multi-life interpretation; it *includes* it as an instance of the principle (although the emphasis is still different, with the latter being a mere explanation that doesn't free one from suffering).
+
+---
+
+**r/HillsideHermitage** | Posted by sillyguyyyyy _2024-12-07 02:53:47_
+### What is the extent of the 1st precept?
+
+Does the first precept pertain to mites (like dust mites on laundry or scabies), parasites, and germs/bacteria? 
+
+In the Buddha's day, people didn't know about microorganisms or dust mites, so when they washed their hands or did laundry, this wasn't something they even had to consider. 
+
+My practical questions are: 
+- Is this something one should be considering in regard to doing laundry (killing dust mites) and washing ones hands (killing germs)?
+- How can one keep the first precept in the case of a bacterial or parasitic infection (where the recommended treatment would involve killing the bacteria/parasites)?
+
+I know that the precepts are supposed to help reveal your state of mind, and that killing (almost?) always involves at least one of the three poisons. I just genuinely don't know how to tell where the line is with the first precept so I would really appreciate  hearing other people's perspectives on this, especially any monastics out there. I would love to hear WHY you are thinking about it in the way you are, not just what you would do in these cases.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h8iwrd/what_is_the_extent_of_the_1st_precept/m113ckc/)** _2024-12-08 13:55:36:
+
+    You'll inevitably have to draw the line somewhere and take responsibility for that choice, based on a degree of common knowledge of what is considered an animal. You won't be able to come to a clear-cut conclusion always, and the general standard in the Vinaya is that if you're not sure about something, better not do it. Putting up with doubt with self-honesty is an essential part of developing oneself in actual virtue rather than mere external rule-keeping. From that perspective, lack of external clarity and definitions is an opportunity and not a hindrance, so that you have no choice but to look at your own mind.
+
+    That being said, we know from the Suttas and Vinaya that plants and fungi are not considered living beings. They indeed didn't know about germs back then, but I would place them in an even lower category than plants, which are better not to destroy without good reason. Not because of the first precept as such, but because other beings might live/depend on them.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h8iwrd/what_is_the_extent_of_the_1st_precept/m1aiee3/)** _2024-12-10 01:37:26 *(in reply to a comment not included)*:
+
+    Yes, all these points are correct.
+
+---
+
+**r/HillsideHermitage** | Posted by BestZebra6159 _2024-12-06 16:55:37_
+### Simile for Sensuality (1)
+
+In a previous thread on what craving is, I'd asked Ven. Anigha if understanding the hindrances would lead me to understanding the citta, to which Bhante replied yes. So I'll be creating a series of similes to communicate my understanding of the nature of the hindrances over the span of the next few weeks, and try to improve upon them after any feedback I get that I'm able to make sense of. I will divide this post into 4 parts: (1) the simile; (2) what the elements of the simile correspond to in terms of sensuality; (3) the implications of the simile; (4) my own questions.
+___
+*Simile*:
+
+An individual finds themselves in the midst of a jungle with five hunters who can shoot them down with their bow-and-arrow, and of the five, there is one who is the chief among them with the rest following that chief's orders. The domain of the five is this jungle, prior to which comes a safeground they cannot see or enter.
+
+The five, not wishing for the individual's welfare or safety, shoot the individual in their domain with their arrows. On account of being shot, that individual -- looking for safety, looking for freedom from being shot -- further walks into the domain of the five to hide from being shot, or to destroy the various trees, plants, animals in hopes that doing so would provide them safety from being shot. They derives pleasure from the sense of safety they have achieved. However, on account of having walked *further* into the domain of the five, that individual is now subject to even *more* torment and pain from them; that individual has risked their safety even more.
+
+Not discerning as it is the gratification, danger and the escape in the case of being shot -- the individual remains bound up to jungle.
+
+What is the gratification? The false sense of safety derived from walking further into the domain of the five, thinking "surely, I will no longer get shot now".
+
+What is the danger? Remaining in, and walking further into the domain of the five.
+
+  - Why is that a danger? Because remaining in their domain keeps you *subject* to being shot again.
+
+What is the escape? Not walking further into the domain, not remaining still, and running back to the safeground **on account of** having discerned the extent of the domain of the five, and seeing the **danger** always inherent in dwelling in there; this is the escape.
+
+___
+*Elaboration on the Elements of the Simile*:
+
+- 'jungle': the six-sense based body
+- 'trees, plants, animals': sights, sounds, smells, tastes, touches, and thoughts
+- 'individual finds themselves in the midst of a jungle': the fact that one's (or majority of the individuals') starting state is always that of appropriation of the experience of the six-sense based body.
+- 'five hunters': the five hindrances
+- 'the chief among them': hindrance of sensual desire; this is the chief since on account of this, one gets lured into the domain of the five, at which point one has to deal with ill-will on account of harm done towards one's properties, the restlessness-and-worry that arises on account of having to think about how to protect them, and the fatigue, and doubt that follow.
+- 'the domain of the five is this jungle': the five hindrances arise dependent on the body, having appropriated the body, one is subject to the five hindrances.
+- 'being shot by the arrow': appropriated-experience of the five hindrances: sensual desire, ill will, etc.
+- 'looking for safety, looking for freedom from being shot': one **always** does not want sensual desire, ill will, etc.
+- 'walking into the domain of the five': further appropriation of the body on account of not seeing the danger of dwelling there. Equivalently, maintenance and fueling of the assumption that it's the "trees, plants, animals" (i.e., that which is experienced on account of the body) which are the issue as opposed to dwelling in the domain on account of which you're subject to the being shot in the first place.
+- 'they derive pleasure from the sense of safety they have achieved': one thinks that finding a shelter *in* the jungle, or destroying the jungle *is* safety from being shot, and thus experience pleasure on account of it. In realistic terms, this would be the pleasure derived from giving into sensual desire, thinking that giving into it has resolved the problem of you being subject to the desire in the first place, the problem you haven't even touched an inch, and in fact, the problem you've just contributed further to by giving into the desire and further appropriating the body. If one were to clearly see that destroying the jungle isn't solving the problem at all, the pleasure would cease to appear, i.e., if one were to clearly see that giving into the sensual desire never solved the problem that giving into it was intended to solve, it would be impossible to see giving into sensual desire as pleasurable.
+
+___
+
+*Implications of the Simile*:
+
+1. Taking 20 minutes out of your day to observe how it feels to be "shot" and watch that with equanimity, non-judgmentally, and from-a-detached-perspective, just to then go back to lashing out at the jungle for the rest of the day isn't going to solve the problem of you being-in-the-jungle in the first place, which was always the actual problem. And for that matter, doing that for 24 hours a day as a professional bhikkhu won't contribute to undoing your being-in-the-jungle either.
+2. Digging an underground dwelling where you don't see the trees, plants and animals and where you're not getting hit by the arrows is also not solving the problem since the hunters know your exact location, and know that you're going to have to come out eventually, at which point you're subject to the arrows again.
+3. Trying to destroy the hunters directly won't solve the problem either, because the hunters are experts at hiding and will never appear in front of you. All that'll end up doing is that you will end up further in the jungle, i.e., further appropriation of the body. 
+4. The hunters are also not the arrows, so destroying the particular sensual desire, ill will, or etc., the moment it arises by some "antidote" technique isn't undoing the hindrances. Applying an antidote technique like "pervading the world with metta" by thinking positive thoughts to get rid of the ill will is in fact simply "trying to destroy the trees, plants and animals" which were never the problem. The problem was dwelling in the jungle, walking further into it, on account of which one remains subject to ill will. And quite clearly spreading thoughts of good will to remove thoughts of ill will aren't undoing that dwelling at all, they're only pushing one further into the jungle.
+5. Simply enduring the pain of the shots isn't solving the problem either. One has to make an effort to get back to the safeground, i.e., one has to walk back. Endurance is the first step to that.
+
+So what is the escape from the jungle? It is:
+
+> Not walking further into the domain, not remaining still, and running back to the safeground **on account of** having discerned the extent of the domain of the five, and seeing the **danger** always inherent in dwelling in there; this is the escape.
+
+"Not walking further into the domain" refers to the *endurance* of the hindrances. Whatever sensual desire/ill will/sloth-and-torpor/etc. arises, one endures that, and does not act out on account of that. "Not remaining still" means not engaging in neutral activities for long periods of times which aren't contributing to your undoing of being-in-the-jungle but also not contributing to your walking-further-into-the-jungle. These would be non-sensual activities such as sleep, worldly duties, responsibilities, obligations. "Running back to the safeground on account of seeing the danger always inherent in dwelling there" refers to having discerned as it is, the extent of the body, the danger in dwelling "in" it, and not intending in any way that leads to the further "picking up" of the body. At this point, one makes an effort to discern whether there are still things one hasn't given up, on account of which one would walk further into the body, and make an effort to give up those things against the background of having discerned danger of dwelling in it. In other words, we get the gradual training: the eight precepts refer to "not walking further into the domain", "not remaining still" refers to being wakeful, and "running back" refers to sense restraint.
+
+Having done this thoroughly, one abides in the safeground, or, the first jhana. This is my current understanding of jhana. 
+
+Given this perspective, it's entirely possible to achieve jhanas in the lay life, the only problem being that you'll be naturally hindered by a bunch of activities that have you "remain still" (work, responsibilities, duties, etc.). If a person had **thoroughly** established the perception of danger in regards to dwelling in the domain, it would be impossible to remain still; they would necessarily have to ordain since they would see that the army of death is always marching at them, and they never know when they'll be attacked, and seeing this, they would grow dispassionate with lay life.
+
+Thus the rate at which one achieves the jhanas depends on:
+
+1. How far one was already within the jungle
+2. How much one does not tolerate being in the jungle
+
+___
+
+*Questions*:
+
+1. Is this an accurate understanding of the hindrances, and the escape from them? What needs to be improved in this picture?
+2. If this is accurate, then what is the citta here? And what is the taming of the citta here?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h85wpx/simile_for_sensuality_1/m15eoom/)** _2024-12-09 04:57:48:
+
+    >Is this an accurate understanding of the hindrances, and the escape from them? What needs to be improved in this picture?
+
+    It is accurate theoretically. What's important to keep in mind is that, even more so than with anything else, it is[ impossible to accurately conceive](https://suttacentral.net/an4.77/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) of what the cessation of hindrances is without actually having realized it there and then. Not because it's a mystical state, but because that very attempt at imagination will be within the hindrances, and thus, associating that imagining with freedom from hindrances will be misconceiving. They are always "behind" you.
+
+    So how do you undo it? You make sure to maintain perspective within your inevitably limited perspective. To whichever extent you can discern something that's even more "behind" than the hindrances, such as the body as the container of your whole experience, you make sure not to fully forget about it regardless of what the hindrances "do." If you try to counter a hindrance directly, you will inevitably be feeding another one. And there is no chance to be able to discern neither them nor what is *actually* behind them unless one has stopped acting out of them for a long time, which is why the previous steps of the Gradual Training need to be fulfilled first.
+
+    >If this is accurate, then what is the citta here? And what is the taming of the citta here?
+
+    Citta is what is constricted by the hindrances and pressures you to act out them and overlook them (and itself). Just like the hindrances, you won't be able to pin it down to this or that, and the attempt to do so will probably be your citta pressuring you to act out of a hindrance right there and then. So, it's also "behind" you. Citta remains invisible precisely to the extent that you are under the thumb of the hindrances.
+
+---
+
 **r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-12-06 02:11:43_
 ### Is absorption always a problem?
 
