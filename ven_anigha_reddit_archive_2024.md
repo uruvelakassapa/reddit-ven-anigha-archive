@@ -1,3 +1,164 @@
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2024-12-19 18:55:11_
+### Non-duality vs Buddhism
+
+Hello, I have this question boiling for a while as it never truly got answered by myself or someone else.  
+I am trying to understand the difference between non-duality and arahantship. Non-duality is common among lay folks state of being that is another name for anatta from what I understand(I experienced it myself as well). A lot of people are trying to preach it, but there are notable differences in the lifestyle people live. I find it confusing that not necessarily restrained people get awakened all around which contradicts the words of Ajahn Nyanamoli and the Buddha that I have no reason to distrust. Is non-dual awakening not the purest and arahantship is the purest awakening or what is the difference?
+
+Getting it to a more personal note, why would I want to leave lay life to become a monk if its not necessary? I will have to do it, even if I don't want to if that is what's necessary, but is it?
+
+blind leading the blind, talking poorly of other traditions and teachings without understanding them because it's hard to stop clinging to Buddhist terminology.   
+Reality is not made of words, words are based upon reality
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hi04ze/nonduality_vs_buddhism/m2x7lcp/)** _2024-12-20 02:17:58:
+
+    Non-dual awakening is simply one of the many possibilities for what the Buddha called [wrong knowledge and wrong liberation](https://suttacentral.net/sn45.26/en/bodhi?lang=en&reference=none&highlight=false). Notice that he doesn't deny the fact that there is a sense of awakening/higher knowledge and of being released from dukkha. But, perhaps contrary to one's intuition that any such experience/attainment must be right, he says that it's wrong, and that one who gains it is worse off on account of it than one who doesn't. Why is that? Because someone who finds a reliable way to cover up the symptoms of their illness will be much less inclined to seek the final cure to it.
+
+    Whether it's non-duality as discussed in Advaita, an experience of connection with God, or the supposed Nibbāna/anattā that most Buddhists experience through their meditation techniques—indeed, without making any fundamental changes to their lifestyle and de-valuing craving and sensual pleasures a lot of the time, despite the Buddha's frequent injunctions to do so—are tools to allay and plaster over suffering that continues to arise. To use the famous parable from Advaita, you see a snake, and you remind yourself of your insight that it's actually a rope. This relieves the suffering, but *for the wrong reason*. It's a factual liberation, but it's rooted in wrong view.
+
+    Wrong view is the implicit assumption that something other than craving can be the root of suffering, i.e., not having discovered the ultimate non-dual truth, not having had a "glimpse" of Nibbāna, and pretty much anything that puts the burden of salvation on something outside of yourself that you need to perceive or come into contact with (hence the Buddha famously said one must "be an island to oneself").
+
+    Right view is the recognition that the sole origin of suffering is craving: you suffer when you see the snake not because you still haven't been fortunate enough to have the great experience that reveals to you that in ultimate reality it's a rope, or that it's in a constant state of flux and is thus "empty of all intrinsic essence", but because you still crave. Period. 
+
+    When you reach liberation by uprooting craving itself instead of taking a roundabout way to remove dukkha, you cannot even begin to suffer ever again unless you want to (but such wanting is actually impossible), unlike with a non-duality/anattā insight that you could just forget. Thus, that liberation is "right", and that is what true "Buddhism" is about.
+
+---
+
+**r/HillsideHermitage** | Posted by Devotedlyindeed _2024-12-19 12:53:58_
+### Pitfalls in modern Buddhist emphasis on creating “kinder” internal narratives
+
+In so many Buddhist groups, efforts are focused on taking up new narratives and ways of thinking. This can be useful in a number of ways. 
+
+New narratives can reshape the way we speak, both at present and in the future through habit-forming. The Buddha taught that in some cases, we can use wholesome thoughts to abandon unwholesome thoughts:
+
+>“Here, bhikkhus, when a bhikkhu is giving attention to some sign, and owing to that sign there arise in him evil unwholesome thoughts connected with desire, with hate, and with delusion, then he should give attention to some other sign connected with what is wholesome… Just as a skilled carpenter or his apprentice might knock out, remove, and extract a coarse peg by means of a fine one, so too…when a bhikkhu gives attention to some other sign connected with what is wholesome, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside. With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.” (MN 20)
+
+Exploring new narratives can also help us see the world in new ways. Seeing situations in new perspectives is crucial for undoing deeply held beliefs, showing us the fallibility of perception, and bringing to light the reactions we have to our views being challenged. Are we like blind men fighting over the appearance of an elephant (Ud 6.4?)
+
+Despite these uses of rewriting our internal narratives, this method can be broadly misused. Take for example an unpleasant human being, someone who insults and degrades us. “They’re mean and horrible,” we may be thinking. What are the chances that a modern Buddhist would tell us to find a way to feel compassion for them? “Perhaps they were abused as a child,” they might say, “and it’s simply their conditioning.”“They’re creating the causes for suffering. We should see them as if they are injuring themselves.” Suddenly we don’t feel so angry. Anger solved, right? This may sound kind initially, but when rewriting a narrative, one should be cautious- extremely cautious- to examine the background intention. Is this example not an attempt to make the cruel person more tolerable? Seeing them as innocent certainly makes it easier to forgive, but not on account of our own growth in our ability to do so. This is yet another attempt to change the external world. We come to sickness and death, and are comforted with romanticized stories of how this is simply nature, and all is anicca; when we don’t get our way, we look for a silver lining. “Sukkha-sañña”, some might call it, if I am not misusing the term. This doesn’t change the fact that one is yet again seeking satisfaction and refuge by changing reality.
+
+In those moments where we come to a point where we can’t explain it away, where there really is no further excuse (kind narrative) for which to reach (or when the mind tires of reaching,) we come once again to the fact of dukkha. We could spend our time learning and developing the ability to see our circumstances in a positive light, to create comforting narratives, but at the end of the day it will never be enough to secure us from our unsatisfactory experience of the broken world in which we live. Our endeavor is not to make our circumstances easier to accept, easier to tolerate, or more lovable.
+
+Playing devil’s advocate against one’s own views and perceptions (or steel-manning, as Samanera Subhara explained) is absolutely critical to any form of true inquiry. An argument against my criticism is as follows:
+
+“You can’t see clearly when you’re overwhelmed; better to lessen the intensity of the challenge.”
+
+The commentarial metta method is the perfect example of this structure in practice. One starts by directing feelings of endearment (*let’s call it what it is) at a dear object like a puppy, and learns to send these feelings toward increasingly non-dear objects. If one started with a difficult object, it would be like lifting the heaviest weights at the gym. Bringing this method’s structure to a difficult scenario, one might initially find it too difficult to accept/sit with/not react to a strong unpleasant feeling, such as grief for example. One might create a romanticized narrative (“they lived a life full of generosity!” etc) to lighten the load and recompose when in a losing battle sitting with pain. This argument is especially relevant to long-term painful feelings like grief because it is often not possible to sustain the willpower needed indefinitely. 
+
+The process is like climbing a ladder. (*I had it in my mind that there was a source for this simile in the suttas, but I suspect it may have just been another narrative I heard.) One simply takes the highest rung that they can reach to safely pull themselves up, always striving higher. If they want to move towards the top, they don’t foolishly reach as high as possible and let go of all the lower rungs, because they will fall. One fears they might literally go insane if they just try to bear it all at once.
+
+Against devil’s advocate once again (I was just going to leave it, but I can’t help myself,) I reach to the first verse of the Dhammapada. 
+
+>“…When you speak and act with an impure heart, unhappiness follows as the wheel of the cart follows the foot of the ox.”
+
+A teacher once told me that when you act on wrong intention, the result is **always** bad, and when you act from pure intention, the result is **always** good. We may not see the immediate result of our attempt to get away from the unpleasant feeling for a few moments with an attempt to “think positive”, but despite the momentary relief, this is delusional. It is yet another cart wheeling along a rut, carving it deeper. Its result is a greater pull in the opposite direction from freedom.
+
+Additionally, I wrote “lighten the load and recompose when in a losing battle sitting with pain.” Turning to the narrative for temporary relief, lightening the load, **is** a loss of the battle to sit with pain. It is choosing distraction, is it not? 
+
+I would especially love to hear from those willing to play devil’s advocate further, and those willing to argue the counters I made regarding 1. the risk of insanity from taking on too great a burden and 2. the sustainability of willpower.
+
+Thanks for reading.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hhs97b/pitfalls_in_modern_buddhist_emphasis_on_creating/m2xahns/)** _2024-12-20 02:36:54:
+
+    >but despite the momentary relief, this is delusional. It is yet another cart wheeling along a rut, carving it deeper. Its result is a greater pull in the opposite direction from freedom.
+
+    Indeed.
+
+    There is something to say for lessening the intensity of the challenge to a degree that's more manageable for where you currently stand, which is why the Buddha taught in terms of the Gradual Training, and wasn't telling ordinary householders to try to abandon the five hindrances and enter jhāna. But that doesn't mean one should start doing something completely unrelated to the initial challenge, such as the fully management-based metta meditation you alluded to.
+
+    If want to stop suffering in relation to unpleasant feeling, which is what the ultimate goal is, you have to train your mind in relation to unpleasant feeling. To avoid insanity and the requirement for an unsustainable amount of willpower, one can do that as slowly and gradually as one pleases, though it's worth remembering that one's time could be limited. But, as soon as your effort starts to involve changing the feeling into something else first, you're not practicing for the same goal anymore.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hhs97b/pitfalls_in_modern_buddhist_emphasis_on_creating/m33kl9i/)** _2024-12-21 05:56:53 *(in reply to a comment not included)*:
+
+    It could be. Pretty much anything can become management, most especially when one isn't sufficiently developed in virtue. That creates the need to "dampen" the pressure of phenomena, since letting them endure as they actually are would result in the mind buckling and sinking back into the world and distractions.
+
+    And once something has become repetitive, you can be sure that it's management either way.
+
+---
+
+**r/HillsideHermitage** | Posted by Sukhena _2024-12-18 15:36:10_
+### Making the most of a coming "meditation retreat" 
+
+A few months ago, I signed up for a 10-day retreat that will start very soon. Reading the HH teachings, I'm questioning my practice accordingly. Because of that, I'm now wondering if this retreat could be a good opportunity to reflect on my practice and try to start practicing as the HH teachings advise. I'm still in the process of integrating the perspective shift these teachings bring, and I hope I won't just spend 10 days immersed in confusion.
+
+  
+Or maybe it would make more sense to just cancel this retreat and spend those 10 days alone, practicing sense restraint, reading, and reflecting on the HH teachings and suttas ?
+
+i'd be glad to hear some thoughts on this situation, if possible.
+
+Thank you very much for your time !
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hh45z3/making_the_most_of_a_coming_meditation_retreat/m2tyctx/)** _2024-12-19 15:07:52:
+
+    If you'll get to spend some time keeping the 8 precepts and in seclusion on top of that, without any expectation to take part in "group meditation" (which is pretty much an oxymoron), then it would be beneficial, and at the very least, you'll get a palpable sense of how dependent your mind is on the pleasures and activities that you're used to. Just like with any addiction, you simply do not see that clearly until those things are factually taken away, without being replaced with some other distracting activity (such as what people usually occupy themselves with during such "retreats"). Just don't expect anything resembling genuine insight to arise out of a mere 10 days of practice, no matter how "intensive" it is.
+
+---
+
+**r/HillsideHermitage** | Posted by noobknoob _2024-12-17 17:19:52_
+### Sense restraint
+
+I've not been able to understand how to practice sense restraint for a while. Let's say someone is restrained bodily and verbally, and dwelling in seclusion. Then, all sorts of intense and pressuring thoughts start arising.
+
+As I understand it, sense restraint means to not let the mind dwell on unwholesome thoughts. But how does this work along with "enduring the thoughts"? What exactly am I not supposed to let the mind get into and what exactly am I supposed to endure?
+
+ Is it the "first arising" that's supposed to be endured? If it is, well, as a puttujana I can't discern that. What do I do then? Seems like the only choice I have is either to let the mind think what it's thinking or just remove the whole thing. How do I actually practice sense restraint?
+
+Also, can one take up virtue and sense restraint together? Or one should wait for sometime after taking the precepts to start practicing sense restraint?
+
+Thanks for reading. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/sense_restraint/m2j7h7e/)** _2024-12-17 18:38:20:
+
+    >But how does this work along with "enduring the thoughts"? What exactly am I not supposed to let the mind get into and what exactly am I supposed to endure?
+
+    More accurately, you don't "endure" the thoughts. You endure the pressure to think certain thoughts.
+
+    So let's say, pressure to go and do something against the precepts arises. Sense restraint means not only do you not go and do it (which is the first "step" of pure virtue that already needs to be established), but you also don't proliferate and wallow in thoughts or fantasies about doing it, which could to some extent still be there for someone who has only established the precepts. But the key is that the pressure to proliferate will *still* be there, and if you try to get rid of that too, you are not training your mind, but are simply distracting it temporarily so that it doesn't react in line with its still-ingrained tendencies.
+
+    That same principle taken to an even broader and comprehensive extent is how you fully "remove the fuel" from the five hindrances, as opposed to just suppressing the specific thoughts about them with something else. Having done so sufficiently, you cease to be even *liable* to them for that period of time, and that's what *samādhi* is, and why sense restraint is a non-negotiable prerequisite for it.
+
+    It will take time and repeated attempts—provided all the prerequisites are in place—to become fully familiar with where the "line" between you thinking "out of" an arisen pressure and the pressure being there on its own is, but that's how you start to see the Middle Way very concretely.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/sense_restraint/m2m0xoi/)** _2024-12-18 04:31:42 *(in reply to a comment not included)*:
+
+    >i don’t think endurance of painful or unpleasant stimuli leads to any special knowledge or insight.
+
+    It does [according to the Buddha](https://suttas.hillsidehermitage.org/?q=sn35.228), provided you don't conflate what we mean by "endurance" with pointless self-mortification like trying to endure physical pain in your knees, which is a common mistake.
+
+    The "pressure" we refer to is primarily mental, such as what you experience when your mind craves to do or think something unwholesome, but you choose to restrain yourself regardless. The Suttas sometimes compare this to pinning down a wild animal until it calms down.
+
+    It's [also said](https://suttas.hillsidehermitage.org/?q=an5.113) that someone who is unable to endure (*khamati*, as in *khanti* or patience) the pressure of their five senses—which is what leads one to indulge in sensual desires—cannot attain right samādhi.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/sense_restraint/m2z2h4k/)** _2024-12-20 12:39:23 *(in reply to a comment not included)*:
+
+    My advice would be to first establish the 5 precepts unconditionally. Determine to keep them no matter the discomfort you have to endure as a result of it.
+
+    It might feel mechanical initially, and that's not because of the precepts, but because you're not sufficiently clear about their purpose. And you'll be able to see their purpose for yourself when you've been keeping them unconditionally long enough. 
+
+    Once the five precepts become easy, you do the exact same thing to upgrade to eight, and *then* you'll be able to practice sense restraint all the time, which is what you should really be aiming for. 
+
+    It's possible to practice sense restraint temporarily if at least for that time you have resolved not to break the main precepts, but that is as effective as putting bread in the oven but closing the door only for one minute out of every 5—it won't get properly baked. Certainly not within the timeframe you need, at least.
+
+---
+
+**r/HillsideHermitage** | Posted by obobinde _2024-12-16 09:50:27_
+### Is mind wandering necessarily unwholesome ?
+
+I was wondering if mind wandering is necessarily rooted in the 5 hindrances or ignorance. 
+
+If not, let’s say I notice my mind was wandering, for example thinking about how I would write this very message. It doesn’t appear rooted in either desire or aversion and in that case would choosing to keep thinking it be wholesome or maybe just neutral ?
+
+If yes, well, let’s say I’m aboard a train or walking in the street. Should I play hide and seek with mind wandering and just stop thinking intentionally when I catch myself thinking ? Or should I preemptively contemplate a theme, for example using the breath as a reminder that if this breathing body doesn’t take the next inhalation everything will stop with me having no say in that ? Or any other theme related to the Buddha’s teaching.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hffq06/is_mind_wandering_necessarily_unwholesome/m2d5vsr/)** _2024-12-16 18:20:52:
+
+    No, "mind wandering" is what *vitakkavicāra* is, and the first jhāna is free from all unwholesome states despite still having "mind wandering.".
+
+    The problem is thoughts rooted in greed, aversion, or distraction. Forcing the mind to stay occupied with a single object, no matter what it is, to prevent those things from coming up is a lazy and inevitably temporary fix.
+
+    When you want to train a dog, you have to punish it only when it makes mistakes and reward it only when it does the right things. There is no special technique or approach to dog training that can allow you to keep doing the same thing mechanically without having to notice what and how the dog is actually doing each and every time.
+
+    In exactly the same way, you need to contemplate and re-establish awareness of the right contexts *only* when you see that the mind wandering is currently going in an unwholesome direction, and that's [what the Buddha instructed time and again](https://suttas.hillsidehermitage.org/?q=sn35.246). Otherwise, you won't be traning your mind even if you're using the same reflections on paper; you'll just be adhering to some assumed notion of what the practice is and ignoring the actual state of the mind. And that's *sīlabbataparāmāsa* in a nutshell.
+
+---
+
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-12-12 12:40:25_
 ### Lofty aspirations 
 
