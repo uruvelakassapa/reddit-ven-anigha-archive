@@ -1,3 +1,180 @@
+**r/HillsideHermitage** | Posted by Pretend-Pirate4344 _2024-12-26 15:49:27_
+### Personal advice on monasticism needed
+
+I apologise if the mods deem this off-topic for the subreddit. If that’s so and anyone had the time to message me in private, or re-direct me somewhere else, that would be greatly appreciated regardless.   
+  
+I am 21 living in the UK and have started to see lay-life as mostly fruitless and quite obstructive to fulfilling the path. I have started to gain an interest in joining monastic life but the problem is that I’m transgender (MtF) and I expect that this completely excludes me from it. I started my transition before I ever considered that something could be more fulfilling than pursuing my desires. I am currently at the stage where it would be about equally complicated to either “complete” my transition, or fully de-transition, so this is quite a crossroads for me. I have come to recognise that my desire to transition is ultimately based on an attachment to the body, something which is non-self, but my main concern is that as a puthujjana, making decisions based on a *hope* to fulfil non-attachment to the body when I’m not there yet could be bad. For example: what if it messes up my mental health enough that it actually becomes an obstruction to the path? Alternatively, it could feel freeing to no longer try and find self-realisation in something that is ultimately not in my control. This is probably out of most people’s direct personal experience and the decision **is** only mine but if anyone is able to at least offer me some wise considerations for making a rational decision here, I would be very grateful. I already feel slightly awkward interacting with my local monastery as all 1-to-1 interactions with monks/nuns are gender segregated.  
+  
+TL;DR I have to choose between completing my transition and just trying to live as well I can as a lay-person, or make a fairly risky decision in the hopes I can establish a monastic life.
+
+(P.S. I hope it is clear that I am only asking for personal advice, not for any broader social criticism.)
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hmr176/personal_advice_on_monasticism_needed/m3x0ewn/)** _2024-12-26 19:19:15:
+
+    Have you already been keeping the 8 precepts and abandoning everything unwholesome within your current situation? For your specific case, it may be worth trying that first and seeing whether you indeed have it in you to give the practice your all before you start taking steps towards de-transitioning.
+
+    >as a puthujjana, making decisions based on a hope to fulfil non-attachment to the body when I’m not there yet could be bad
+
+    It cannot be any less bad than making decisions that fulfill the opposite (provided that liberation from suffering is what you value most). Trying to *force* non-attachment to the body through practices of self-mortification is potentially truly bad, but this is not quite that. It's *refraining* from going through with a decision that, as you yourself claim to now see, was rooted in attachment.
+
+    >For example: what if it messes up my mental health enough that it actually becomes an obstruction to the path? Alternatively, it could feel freeing to no longer try and find self-realisation in something that is ultimately not in my control.
+
+    Your mental health and happiness can only deteriorate due to actions rooted in greed, aversion, or delusion. Actions that are genuinely driven by the opposites of these cannot lead to truly unbeneficial results. So if you don't start making *other* choices of the first kind and make sure to practice rightly, aiming to overcome any resistance to the discomfort of being paired with that which you dislike and being separated from that which you like, both regarding this matter and all others, then you would become mentally healthier than the whole world.
+
+---
+
+**r/HillsideHermitage** | Posted by hopefullys00n _2024-12-26 03:00:21_
+### Pali words translated differently by the HH community
+
+Does anybody have a list of the Pali words/terms that the HH community translates differently than other folks do? I want to learn Pali, and I think it would be great to have such a list so that if I take a Pali class I can keep those alternate translations in mind. 
+
+For example, I usually see 'yoniso manasikara' translated as 'wise attention', but I know the HH community tends to translate it as 'womb attention/attending through the origin/source attention etc', which is much more meaningful/useful. 
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hmfcqo/pali_words_translated_differently_by_the_hh/m40gsyx/)** _2024-12-27 10:06:49:
+
+    There will eventually be a full list of all such terms [here](https://suttas.hillsidehermitage.org/glossary.html).
+
+---
+
+**r/HillsideHermitage** | Posted by Pallantinus _2024-12-25 18:16:39_
+### How should a layperson approach food choices and cooking according to the Dhamma?
+
+Hello everyone,
+
+
+
+I have a question about food.
+
+I understand that a monastic accepts the food offered by laypeople, regardless of whether they like it or not. The monastic eats the food without making decisions about what to eat.
+
+Within the context of healthy foods, avoiding pre-cooked or junk food, my question is: How should a layperson behave in a supermarket or when planning their daily diet?
+
+On one hand, there are foods they dislike but that could be just as healthy as those they like. Not buying them could be a form of aversion, while buying them just to avoid that aversion could be a form of self-mortification. This also applies to foods they like, but in the opposite sense.
+
+On the other hand, there is the issue of how to cook the food or which recipes to choose. It's not the same to prepare boiled chicken with spices, serve it with a salad and yogurt, as it is to use the same ingredients to make a homemade kebab/shawarma, or simply roast the chicken (which is usually much tastier than boiled chicken). Here, too, the dilemma arises between the option of "self-mortification" and yielding to the "desire" to cook something more flavorful.
+
+How should a layperson proceed according to the Dhamma in these cases?
+
+
+
+Thanks in advance for your help.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hm5twv/how_should_a_layperson_approach_food_choices_and/m3tleid/)** _2024-12-26 02:40:03:
+
+    Put aside any considerations of aste, either for gratification or avoidance, and choose what's most nutritious, easiest to prepare, and most affordable. From there, it would be a matter of standing your ground against the mind trying to either use the food for gratification or pressure you to doubt your choices and avoid things you know you didn't choose out of lust, just because they happen to be agreeable. Both entail falling from the context of sustaining the body to buy more time to practice and instead concerning yourself with how you feel.
+
+---
+
+**r/HillsideHermitage** | Posted by still_tracks _2024-12-21 09:46:42_
+### Discerning the General Feeling
+
+I would like to share my current understanding of the "general feeling" and kindly ask for corrections. I will use Bhante Anīgha's approach from [The Meaning of Yoniso Manasikāra](https://www.hillsidehermitage.org/wp-content/uploads/2023/06/The-Meaning-of-Yoniso-Manasikara-Bhikkhu-Anigha.pdf) and distinguish between the **external**/*internal* domain of experience via formatting the text. In this way, I hope to expose any wrong understanding more clearly.
+
+Today, I attempted to contemplate my current experience. When I **asked** myself "What is the *general feeling* right now?" I noticed that my **attention** had wandered to the area around my chest. I **sensed/perceived** a tightness and **felt** it unpleasant. Simultaneously, a **thought** arose, that the *general feeling* is unpleasant. I further thought "Oh, when I ask myself about the general feeling I immediately search for it on the level of **sensations**. Probably I am mixing up the *general feeling* with more **specific ones**, even confusing it with sensations. However, I learned that these sensations aren't the general feeling, they simply correspond to a certain "contraction?" of muscles and I am able to **sense** this, because the *body* is already *here*. And just as I can't **perceive** the *body*, but know that it has to be *here*, I also can't **perceive** the *general feeling*. However, it also has to be *here*, as something that underlies my whole experience." After these thoughts, the pressure which was concerned with managing these bodily sensations kind of disappeared and it seemed, that these bodily sensations aren't "my" problem anymore. Next I recognized that I was feeling very pleasant now and my attention again has shifted to bodily sensations. However, now the *context* of the previous **reflections** was still *here* and I didn't have to tell myself again that these sensations aren't the general feeling (though I had the urge to do this and use these reflections as a method).
+
+Do these reflections point in the right direction? Should the aggregates be "*known*" to be *here*, without the need to **look for / attend** them, as they can never be **perceived**? My native language German yields at least two possible translations for the term 'discern': 1. 'wahrnehmen' (to perceive something) and 2. 'erkennen' (to realize/understand something). Given this, I assume that 'discern' corresponds to the latter translation?
+
+Edit 1: small grammar corrections
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hj6npf/discerning_the_general_feeling/m3a3n6q/)** _2024-12-22 13:34:14:
+
+    >Do these reflections point in the right direction? 
+
+    Yes, certainly. The "general feeling" is neither a specific sensation, nor is it some esoteric, hidden thing that is absent and that you need to "dig out". Think of it as what's already determining your actions and choices right here and now in a very real and potent yet nonspecific sense, whether you think about it or not. That also includes your attending to specific sensations in your chest and whatnot. Asking yourself *why* are you doing that, or anything else for that matter, would be one way to point in the direction of the "general feeling".
+
+    And yes, it's quite important to keep reminding yourself that you can't *perceive* it, since that's the natural tendency of a mind that hasn't been trained, and is used to the "palpability" of sense objects and pleasures. It can't acknowledge peripheral *as* peripheral, and needs to make it actual/foreground in order to feel like something exists at all. That applies to all the other aggregates as well.
+
+    > 1. 'wahrnehmen' (to perceive something) and 2. 'erkennen' (to realize/understand something). Given this, I assume that 'discern' corresponds to the latter translation?
+
+    Yes, the latter seems to fit the Pāli _pajānāti_ much better.
+
+---
+
+**r/HillsideHermitage** | Posted by BestZebra6159 _2024-12-21 05:21:10_
+### On Precepts
+
+I'd thought to reflect on the precepts since it occurred to me that I'd taken their meaning for granted and what "taking them up" really entails. The present writing will be a culmination of my thinking that has been going on for the past few days and will contain the following: what precepts are, what it means to "take them up", and what the implications of that are. Any criticisms are welcome.
+___
+
+## What is a precept?
+
+Is the precept to not kill merely non-killing? So that means, so long as one is not exposed to situations where one has to kill, one is "keeping the precepts"? In other words, a hitman, on his days off or on his two hour lunch break, would be keeping the precept to not kill, even though he has the full **value of killing** wholly intact. Surely, this is not fundamental enough, and not what the Buddha intended by a precept.
+
+Let us define a precept as the keeping of a value. That is, the precept to abstain from an action is keeping the **value** of not acting in such a manner.
+
+But the latter part of "... keeping the value of not acting in such a manner" is not precise. What does "value" entail here, precisely? I say "value" entails not intending the action one has chosen to abstain from in any permutation the world may be in. Thus, we arrive at the most precise definition of a precept I can conceive of:
+
+- A precept to abstain from an action means the presence of the intention to abstain from that action regardless of the permutation of the world.
+
+## What does it mean to take up a precept?
+
+First of all, it's worth noting that there is the attribute of duration with regards to precepts. The uposatha day is one in which the precepts are kept for *a day*. Bhikkhus take up precepts for the rest of their life. So before proceeding to answer the question above, we may add a qualifier to our definition of the precept as follows:
+
+- A precept to abstain from an action *for a certain period* means the presence of the intention to abstain from that action regardless of the permutation of the world *for that period*.
+
+Thus, one is "keeping" a precept, or has "taken" it up, if upon reflection one finds the presence of such an intention of abstinence from a particular action in regard to *any permutation of the world regardless of its absurdity* for the period one has taken it up for.
+
+## What the implications of such a definition are.
+
+In all honesty, if the definition provided above is indeed the what the Buddha meant by the precepts, then it turns out that I've been mistakenly believing for all this time that I've been keeping the precepts and just need to work for a few more months to "check" all 8 and move onto sense restraint. It turns out, the definition above, disqualifies me from claiming of myself to be keeping even a single one: I'm keeping precisely 0.
+
+Previously I'd thought I was keeping the "precept to not kill", since I didn't kill when the occasions to kill came up, majority of them being non-pressuring. But as the precept to not kill defined above, the keeping of it would imply that, *presently*, regardless of whatever the world's state may be, *I will not kill*.
+
+To put it in harsh terms, but terms that are very necessary to be put into words: keeping the precept to not kill even for a day, would entail answering "no" to the question "if the only option you had to save your loved ones - ones who've taken care of you, only thought good for you - from being tortured to death, raped, mutilated, butchered is to kill the torturers, would you kill them?"
+
+If you're keeping uposatha, that means if on that day, somehow, your family happened to have been captured, and your only way of saving them was through killing the torturers, **you would not do that**. Your value of not killing, for that day, takes priority over the value of the physical well being of you and your loved ones.
+
+Bhikkhus are ones who've taken up that value *for the rest of their life*. I cannot even conceive of taking it up like that for a day, let alone for the rest of my life. Truly, the manner in which I'd thought of precepts previously, and precepts with the definition above, is like two wholly different leagues; the first allows me comfort at the thought that I'm making progress in the Dhamma, since I'm "keeping" the precepts, whilst the latter disqualifies me from even the first step and only forces immense existential burden.
+
+I'd thought, "Although I would likely kill if such a situation arose, it's fine since I'll be able to work my way up to that after I've kept all 8 precepts, trained myself in sense restraint, gotten jhanas". But it seems *the other way around*, that I actually have to get to *that* point first, before even conceiving of sense restraint, and then jhanas.
+
+If that's the definition of the precept, then I'm confident there are probably only a handful of people around the world who're observing uposatha days properly. I doubt even majority of the bhikkhus are keeping the precepts properly with that definition.
+
+This also means, people who wish to avoid hypothetical scenarios like the trolley problem, yet think of themselves as keeping the first precept to not kill, could not be farther away from keeping the actual precept. They've disqualified themselves from even being able to discern whether they're keeping the precept, which means, they obviously aren't. Discerning whether you're keeping the precept would mean if there's any possible conceivable situation in the world in which you would kill. In the trolley problem, that means, it doesn't matter how many people are about to die, even if it's the entire universe of people, including yourself, *your value of not killing would prevail*. It means you're willing to take up the consequences of not killing, as well.
+
+This is such an infinitely high bar for a precept, that I cannot think that this is actually the definition of keeping a precept. Yet, I cannot convince myself that there is any other "inferior" definition of precept that would work. This also makes it make sense, why, in gradual training, leaving the household life usually comes *before* keeping 8 precepts. **Truly** keeping the 8 precepts (with the definition above in mind), would entail you've **totally**, **top to bottom**, devalued the world.
+
+It's a huge bummer if this is actually what a precept is, but then my question would be: how should one develop oneself to the point where one is able to keep the precepts? The only thing holding me back from ordaining is my family, and that is largely because of our bad financial situation but also partly because in this cursed world that I'm nearly wholly tired of, the only thing I would say I'm attached to, is my family.
+
+I have no issue giving up that attachment (well, clearly I do, considering I haven't given it up yet, but I will give it up is what I know for sure), but after long thought, I've made up the decision that I will assist my family financially, and do not wish to mentally stress them with my leave as well as their vulnerability in old age and disease.
+
+But, the reason why I wish to help them financially is *because* I do not wish to see them suffering. That is: I value their non-suffering. To even say: "I keep the first precept" (with the definition above), would be the *complete* devaluing of that value. So then it wouldn't be possible for me to stay as a lay person to assist them?
+
+So does this mean, sotapatti is essentially off the table for me even though I'm thoroughly fed up with 99.999999% of sensuality that the world partakes in? I live in the West, so even being dissatisfied with 99.999999% of sensuality (of the West) may be an extremely low bar.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hj30yb/on_precepts/m38zdjp/)** _2024-12-22 06:05:35:
+
+    The all-encompasing giving up that you describe is certainly the goal and a real measure of overcoming craving and ownership, but it's not really something you can "do." It would be what the suttas call the "higher virtue," and it would be the *result* of keeping the precepts properly in the ordinary sense, i.e., within the much less extreme scenarios you are likely to encounter in daily life, but still *unconditionally*, as an effort to tame your own defilements rather than simply following a code laid down by some authority (which means you would never try find justified "exceptions", or excuse yourself from things you know deep down are rooted in defilements but are not strictly against the precepts).
+
+    You can set up as intense a resolve as you like here and now, but fundamentally, you will still be liable to either give in or lose your sanity in such extreme situations unless the mind has been tamed and wisdom developed beforehand.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hj30yb/on_precepts/m3fmqo2/)** _2024-12-23 13:30:36 *(in reply to a comment not included)*:
+
+    >Bhante, so how should I discern whether I'm keeping a precept presently or not?
+
+    Simply ask yourself whether you're intentionally planning to break them, or are OK with keeping them indefinitely. If the answer is the latter, then you're keeping them. You don't need to overthink it.
+
+    >I'm barely ever really put into situations where I have to "test" whether I'll kill in a situation or not, whether I'll steal in a situation or not, because they're fairly unlikely to occur here. But I can't hide the fact that if such situations were to occur, I would very likely end up killing, or stealing. So that means my determination of keeping the precepts isn't unconditional right now.
+
+    You have to draw a distinction between you volitionally determining to keep the precepts and valuing virtue, and there being underlying tendencies which could get you to break them in extreme situations despite your determination. So, again, the training is the former, and the destruction of the latter is the result.
+
+    >I can only have partial unconditionality, realistically speaking, i.e., I won't kill in situations that aren't too challenging. Because simply thinking about the extreme situations for long is starting to make me go mad. I don't think I can ever mentally handle the burden of such situations with my current mental development, so that means I cannot entirely keep the precepts unconditionally right now.
+
+    It's worth checking from time to time how your mind reacts to imagining those scenarios, since that would reveal the extent to which you've actually developed immovability rather than just practicing management, but you don't need to be revisiting them all the time to wind yourself up. There's guaranteed to be more than enough ordinary situations in your daily life where you are not as restrained as you could—unnecessary distractions/entertainment, idle chatter, acting out of annoyance, laziness, restlessness, doubt, and similar—so you have to tame your mind in regard to those before you can hope to be unruffled, i.e., virtuous regardless, in the extreme scenarios.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hj30yb/on_precepts/m3kswu8/)** _2024-12-24 10:55:02 *(in reply to a comment not included)*:
+
+    >So it could be the case that, an individual is fine with the thought presently, but if the situation were to actually arise, practically speaking, they'll end up choosing to kill.
+
+    That's right. You can only ever reflect and make choices in regard to the present (including any thoughts about the future since those are also ***present***), so that's all you need to be concerned about. Not killing is a present choice that you have to *keep making* case by case, no matter what takes place, and that's what it means to "take responsibility" for your actions. It's an incessant "renewal", and not a one-time determination that will last forever because that's just not how the mind works. It changes, and tomorrow it may have completely forgotten about what you promised to never do again today (which is something everyone who has undertaken the training will be able to relate to).
+
+    Only when the mind has been finally tamed is it not necessary to keep "renewing" the choice of virtue.
+
+    >But how should one understand the meaning of "mastery of the precepts" from the point of view of a non-Arahant?
+
+    It's when you don't break them in the present anymore, and your mind has become relatively comfortable with them.
+
+---
+
 **r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2024-12-19 18:55:11_
 ### Non-duality vs Buddhism
 
@@ -20,6 +197,43 @@ Reality is not made of words, words are based upon reality
     Right view is the recognition that the sole origin of suffering is craving: you suffer when you see the snake not because you still haven't been fortunate enough to have the great experience that reveals to you that in ultimate reality it's a rope, or that it's in a constant state of flux and is thus "empty of all intrinsic essence", but because you still crave. Period. 
 
     When you reach liberation by uprooting craving itself instead of taking a roundabout way to remove dukkha, you cannot even begin to suffer ever again unless you want to (but such wanting is actually impossible), unlike with a non-duality/anattā insight that you could just forget. Thus, that liberation is "right", and that is what true "Buddhism" is about.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hi04ze/nonduality_vs_buddhism/m38w1ok/)** _2024-12-22 05:33:16 *(in reply to a comment not included)*:
+
+    >After Ven Sāriputta attained stream entry I recall Ven. Mahamoggallana asked “have you seen the Deathless?” To which the the reply was “yes”.
+
+    To be more precise, the word was "reached" (*adhigata*), not "seen," which highlights how it wasn't just a momentary event-it would have continued ever since. If it were there only for a moment and then somehow vanished, then it'd make little sense to call it "deathless".
+
+    The wording is not necessarily the issue, but rather the implication that Nibbāna is something one comes into contact with, rather than the cessation of contact itself. Even if one refuses to call it contact and assumes it to be something greater, the nature of *being experienced having not been before* is what defines a contact regardless.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hi04ze/nonduality_vs_buddhism/m3dugvs/)** _2024-12-23 03:12:43 *(in reply to a comment not included)*:
+
+    >Is it that what defines a contact is that it is a phenomenon not experienced in one moment but then is experienced sometime later?
+
+    Strictly, it's not the *definition*, but it is certainly a characteristic of every contact.
+
+    >So the difference between that and Nibbāna that you're describing is that the cessation of experiences is a negative "phenomenon" uncovered through discernment and remains there perpetually available to an ariya, to the extent that they remember it?
+
+    Yes. One way to practically describe the cessation of contact, i.e., Nibbāna, is that there is nothing "new" to be experienced. Everything, without exception, is just form, feeling, perception, etc., and it will *never* be otherwise, not even in the most absurd imaginary scenarios. Complete "confinement".
+
+    For a puthujjana, owing to the gratuitous emphasis on the *content* of what he experiences, it will appear as if he wasn't experiencing what is there now in the past, or as if he will be able to experience something else in the future. That is enough to be liable to craving and passion. He doesn't need to make some specific wrong move for defilements to exist.
+
+    This is why you find passages like these in the Suttas, and why the precursor to Nibbāna is always said to be *understanding*, and not an experience that you just "have":
+
+    >‘The tides of conceiving do not sweep over one who stands upon these foundations, and when the tides of conceiving no longer sweep over him he is called a sage at peace.’ So it was said. And with reference to what was this said?
+
+    >By overcoming all conceivings, bhikkhu, one is called a sage at peace. And the sage at peace *is not born, does not age, does not die;* he is not shaken and does not yearn. For there is nothing for him by which he might be born. Not being born, how could he age? Not ageing, how could he die? Not dying, how could he be shaken? Not being shaken, why should he yearn?
+
+    Notice how it specifically mentions "conceivings", which you could practically understand as the implicit assumption that there can be *something* that isn't just form, feeling, etc. (or just the seen, just the heard, etc., as the Bāhiya Sutta puts it), such that the assumptions in regard to past, present, and future I mentioned above can arise. And often, views of Nibbāna being an "experience" go hand in hand with thinking that it's "outside" the aggregates, which, in light of all this, is clearly the opposite of what one is supposed to see.
+
+    You also get to see why Nibbāna is bound to be the opposite of joyful for one who still delights in the world. Instead of being some magical state that will solve all of their problems while leave everything else intact, it is the utter cessation not only of their sorrows, but of everything that motivates them to get up in the morning as well.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hi04ze/nonduality_vs_buddhism/m3k87vg/)** _2024-12-24 07:04:02 *(in reply to a comment not included)*:
+
+    >I’m used to thinking of it in terms of the meeting of the internal SB, external SB and the corresponding consciousness. Such as the case of me looking at these words on the screen.
+
+    Right, but that's not what *phassa* is. As you rightly remember from [Udāna 2.4](https://suttacentral.net/ud2.4/en/anandajoti?lang=en&reference=main&highlight=false) phassa exists due to appropriation, not because photons strike your retina or something like that (one of the many purely scholastic and conveniently easy misinterpretations popularized by the Commentaries, under which the Buddha's descriptions of Nibbāna make no sense anymore).
+
+    Notice how the standard definition of contact doesn't say that it's only eye and sight "coming together", but also consciousness. [With the cessation of desire-and-lust (or simply appropriation) there isn't that "union"](https://suttacentral.net/sn35.232/en/bodhi?lang=en&reference=main&highlight=false), and thus no contact whatsoever, despite the eye and sights remaining intact. [Consciousness is not "established"](https://suttacentral.net/sn12.64/en/bodhi?lang=en&reference=main&highlight=false).
+
+    Hence, as the Buddha remarked, it's purely for the cessation of desire-and-lust that the taught the Dhamma. Not for an "experience" of some special kind.
 
 ---
 
@@ -72,6 +286,16 @@ Thanks for reading.
     It could be. Pretty much anything can become management, most especially when one isn't sufficiently developed in virtue. That creates the need to "dampen" the pressure of phenomena, since letting them endure as they actually are would result in the mind buckling and sinking back into the world and distractions.
 
     And once something has become repetitive, you can be sure that it's management either way.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hhs97b/pitfalls_in_modern_buddhist_emphasis_on_creating/m3k9ohy/)** _2024-12-24 07:19:27 *(in reply to a comment not included)*:
+
+    >So how do I prevent the repetitive nature of recollection from becoming a management technique?
+
+    See whether the kind of choices (those driven by craving) that led to things "getting tough" continue to be made. 
+
+    Strictly speaking, virtue, restraint, and having a suitable environment are meant to prevent things from "getting tough" in the first place. Recollection comes later when those coarse disturbances are long gone but the mind is still agitated by subtler, comparatively minute cravings.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hhs97b/pitfalls_in_modern_buddhist_emphasis_on_creating/m3lby6d/)** _2024-12-24 13:46:51 *(in reply to a comment not included)*:
+
+    Great points!
 
 ---
 
