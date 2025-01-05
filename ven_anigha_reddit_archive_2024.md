@@ -1,3 +1,70 @@
+**r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-12-29 17:45:10_
+### New glossary entry for Yoniso Manasikāra
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hp1a5p/new_glossary_entry_for_yoniso_manasikāra/m4ec6n5/)** _2024-12-29 19:16:04 *(in reply to a comment not included)*:
+
+    Fixed and added clarifications. Thanks.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hp1a5p/new_glossary_entry_for_yoniso_manasikāra/m4gbxmj/)** _2024-12-30 01:41:25 *(in reply to a comment not included)*:
+
+    The former probably have the starkest deviations from the Pāli of all, with a lot of important things being overly watered down or distorted ("love" for *mettā* for instance), so I often have to do quite a bit of editing. I would have to make far less changes with the latter, but they have copyright and are not made for displaying Pāli line by line.
+
+    The Wisdom Pub. ones are not still perfect though; they still stealthily assert commentarial interpretations without explicit warning. But generally they're significantly more reasonable.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hp1a5p/new_glossary_entry_for_yoniso_manasikāra/m4i5jy0/)** _2024-12-30 10:24:51 *(in reply to a comment not included)*:
+
+    [Digital Pali Dictionary](https://digitalpalidictionary.github.io/) is basically the best there is at the moment, both in terms of functionality and accuracy. Most of the time it's quite accurate, but not always (see for example the entry for *yoniso manasikāra*).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hp1a5p/new_glossary_entry_for_yoniso_manasikāra/m4k0vyl/)** _2024-12-30 17:56:29 *(in reply to a comment not included)*:
+
+    >But my understanding is that awareness of intentions, which is necessary for proper restraint, is a better basis for a puthujjana's nascent YM. 
+
+    Yes, but that's because they would usually not be sufficiently established upon the previous elements of the gradual training, and thus would still be acting out of certain pressures every now and then during the day without explicit awareness, even if they're keeping all the precepts in the letter. The "momentum" (or "emphasis on *manasikāra*", as I refer to it in the writing) that this creates means that they will inevitably overlook their present intentions, and end up trying to *attend* to the subtler *"yonis"* of the four satipaṭṭhānas.
+
+    For someone who has fulfilled those prerequisites and upholds them continuously, that is less likely to happen even if they don't quite have the Right View yet. This is likely why the Buddha is said to have [taught satipaṭṭhāna to monks who were still puthujjanas](https://suttacentral.net/sn47.4/en/bodhi?lang=en&reference=none&highlight=false), yet there are no accounts of him doing so to laypeople unless they were noble disciples. And even that is exceedingly rare in the Suttas; he seems to most often have instructed noble lay disciples in recollection of the Triple Gem, which is a less refined but still valid form of YM.
+
+    An acute awareness of one's underlying motivations, paired of course with the effort to act in accordance with it, may be the most *yoniso manasikāra* that someone who doesn't live like a monastic all the time* is able to accomplish reliably. But this could be enough to understand the Dhamma, as it would reveal the general principle of wholesome and unwholesome and what craving actually is.
+
+    *Someone who leads a more hectic, non-secluded lifestyle due to things like work and has to engage with society on a very frequent basis, but still keeps the eight precepts unbroken. Coarse engagements like these, even if they're of a neutral kind, still push more of the "weight" of your being towards manasikāra and away from the yoni (a more "constricted" or focused/absorbed mind), albeit much less than in someone who keeps only five precepts or less. That's why excessive duties and talk are said to be potential hindrances even for an ordained noble disciple in a lot of Suttas.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hp1a5p/new_glossary_entry_for_yoniso_manasikāra/m4npjoa/)** _2024-12-31 06:55:23 *(in reply to a comment not included)*:
+
+    The catch is that you of course won't be able to recognize the assumption, for otherwise it wouldn't be there. But you can indirectly know that it's there because if it weren't, there would be no suffering no matter what happened to you.
+
+    "Assuming absolute control" doesn't mean you assume that you can fly or breathe underwater. It's fundamentally in regard to feeling, so even though you know very well that there are limitations to what you can do in/to the physical world, when there is unpleasant feeling there is still the vague but strong sense that there must be *something* within the things you can do that would get rid of it, even if you have no clue what that would be. And that's the result of the assumption of control.
+
+    If that assumption is destroyed, then it's a question of semantics whether you choose to call what's left "relative" control or something else. But what it would boil down to is the lack of any expectation that anything you do "should" result in a change (or persistence) of how you feel. The change (or persistence) *could* happen, but it would never be directly because of what you did, which means it may just as well have remained the same (or vice versa, remained the same when you tried to change it). It's the attitude you would have when submitting a proposal to a person you have absolutely no leverage over, and that's how knowledge uproots all craving.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hp1a5p/new_glossary_entry_for_yoniso_manasikāra/m4w5tmo/)** _2025-01-01 19:40:41 *(in reply to a comment not included)*:
+
+    Pretty much, yes. And even your ability to "submit proposals" at all, or to even consider them, is itself a proposal that was accepted, and you have no idea for how long that will continue to be the case.
+
+    Also, you need to undo the assumption not in some abstract sense, but specifically in relation to the things that shake the mind at its core when it can't control them. Things like sickness, aging, and death, loss of cherished posessions and loved ones, unfair treatment and blame, etc. This means that the measure of having understood non-control is not a "eureka" insight, but the inability to suffer in the face of these things, or of anything else whatsoever that would arouse a sense of indignation and upset if your proposal is ignored. 
+
+    Nibbāna is the abandonment of all entitlement towards the aggregates.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2024-12-28 16:47:56_
+### Being fed up with something
+
+I've been following Hillside Hermitage channel for a while now and I see the same theme in the videos I'd like to talk about and see what people have to say, strong emphasis on abandonment of sensuality and endurance of the pain, sort of implying that anyone who's not living in a monastery only focused on keeping the precepts is automatically an addict.
+
+In the videos Ajahn always highlights at any given possibility that the work depends on abandoning sensuality here and now and that there is no other way to do it, but from my own experience I can see that it cannot go on forever and all things are unsatisfactory whether I abandon them or not. I personally and others too just get fed up with things and exhaust their desires. I still engage with sensuality and make no effort to get rid of it, just got fed up with most things naturally.
+
+In my experience I am going through a ton of pain almost every day while engaging with sensuality and finding it unsatisfying, while at the end of each samsara cycle things get better. It doesn't matter whether I eat pleasant food or not, for the wrong reasons or not, the feelings come up anyway.
+
+I find my experience to contradict what Ajahn Nyanamoli says.
+
+* I'm suspecting for a while now that through feeling we accumulate experience.
+* We are automatically ignorant and come with delusion about reality
+* This delusion clashes with how reality actually is and it causes pain
+* Pain = experience, enough pain = freedom
+* Pain is unavoidable, Freedom is unavoidable
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ho9lkm/being_fed_up_with_something/m4bfogf/)** _2024-12-29 06:14:10:
+
+    The abandonment of sensuality comes from clearly *understanding* the gratification, danger, and escape from it. It doesn't come from just being apathetic towards it, for otherwise every 90 year old would be free from sensuality. The Buddha even said that there is an "equanimity of the household life", which is when a feeling of indifference arises by itself for someone who doesn't actually understand the danger in delight. So it's just a circumstancial indifference, and if their mood changes for whatever reason and life "regains its beauty", they'll start finding joy in sensuality again.
+
+---
+
 **r/HillsideHermitage** | Posted by Pretend-Pirate4344 _2024-12-26 15:49:27_
 ### Personal advice on monasticism needed
 
