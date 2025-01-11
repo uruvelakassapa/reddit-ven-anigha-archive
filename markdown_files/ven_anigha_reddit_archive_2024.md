@@ -1,3 +1,12 @@
+---
+title: "Ven Anīgha Reddit Archive 2024"
+author: "Ven Anīgha"
+date: "2024"
+description: "Reddit discussions by Ven Anīgha in 2024."
+---
+
+# Ven Anīgha Reddit Archive 2024
+
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-12-29 17:45:10_
 ### New glossary entry for Yoniso Manasikāra
 

@@ -1,3 +1,12 @@
+---
+title: "Ven Anīgha Reddit Archive 2025"
+author: "Ven Anīgha"
+date: "2025"
+description: "Reddit discussions by Ven Anīgha in 2025."
+---
+
+# Ven Anīgha Reddit Archive 2025
+
 **r/HillsideHermitage** | Posted by Magg0tBrainz _2025-01-02 13:46:29_
 ### What is the "you" that chooses what to allow the wild animal to engage with?
 

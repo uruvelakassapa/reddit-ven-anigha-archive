@@ -22,6 +22,14 @@ def save_comments_to_markdown():
     for year, submissions_in_year in submissions_by_year.items():
         filename = f'markdown_files/ven_anigha_reddit_archive_{year}.md'
         with open(filename, 'w', encoding='utf-8') as file:
+            file.write("---\n")
+            file.write(f"title: \"Ven Anīgha Reddit Archive {year}\"\n")
+            file.write("author: \"Ven Anīgha\"\n")
+            file.write(f"date: \"{year}\"\n")
+            file.write(f"description: \"Reddit discussions by Ven Anīgha in {year}.\"\n")
+            file.write("---\n\n")
+            file.write(f"# Ven Anīgha Reddit Archive {year}\n\n")
+
             for submission_dict in submissions_in_year:
                 # Format submission time
                 submission_time_str = datetime.datetime.fromtimestamp(submission_dict['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
