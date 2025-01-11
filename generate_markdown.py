@@ -78,9 +78,9 @@ def create_nested_structure(threads: list[list[str]]) -> str:
     markdown_output += "\n---\n\n"
     return markdown_output
 
-def generate_markdown(thread, indent=0):
-    indent_str = '    ' * indent
-    content_indent_str = '    ' * (indent + 1)
+def generate_markdown(thread: dict[str, str], level=0) -> str:
+    indent_str = '    ' * level 
+    content_indent_str = '    ' * (level + 1)
     paragraphs = thread['content'].split('\n\n')
     indented_paragraphs = ['\n'.join(f"{content_indent_str}{line}" for line in paragraph.split('\n')) for paragraph in paragraphs]
     indented_content = '\n\n'.join(indented_paragraphs)
@@ -90,13 +90,14 @@ def generate_markdown(thread, indent=0):
         parent_info = " *(in reply to a comment not included)*"
 
     comment_time = datetime.datetime.fromtimestamp(thread['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
-    
-    markdown = f"{indent_str}- **[{thread['user']}]({thread['url']})** _{comment_time}{parent_info}:\n\n{indented_content}\n"
+    comment_title = f"**[{thread['user']}]({thread['url']})** _{comment_time}{parent_info}"
+
+    markdown = f"{indent_str}- {comment_title}:\n\n{indented_content}\n"
 
     # Sort children by 'created_at' ascending
     sorted_children = sorted(thread["children"], key=lambda x: x['created_at'])
     for child in sorted_children:
-        markdown += generate_markdown(child, indent + 1)
+        markdown += generate_markdown(child, level + 1)
     return markdown
 
 def main():
