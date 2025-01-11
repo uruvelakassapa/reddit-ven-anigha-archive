@@ -14,7 +14,7 @@ def save_comments_to_markdown():
     for submission in submissions:
         submission_dict = dict(zip(column_names, submission))
         # Get the year from created_at timestamp
-        submission_time = datetime.datetime.utcfromtimestamp(submission_dict['created_at'])
+        submission_time = datetime.datetime.fromtimestamp(submission_dict['created_at'], datetime.UTC)
         year = submission_time.year
         submissions_by_year.setdefault(year, []).append(submission_dict)
 
@@ -24,7 +24,7 @@ def save_comments_to_markdown():
         with open(filename, 'w', encoding='utf-8') as file:
             for submission_dict in submissions_in_year:
                 # Format submission time
-                submission_time_str = datetime.datetime.utcfromtimestamp(submission_dict['created_at']).strftime('%Y-%m-%d %H:%M:%S')
+                submission_time_str = datetime.datetime.fromtimestamp(submission_dict['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
 
                 file.write(f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time_str}_\n")
                 file.write(f"### {submission_dict['title']}\n\n")
@@ -89,7 +89,7 @@ def generate_markdown(thread, indent=0):
     if thread['parent']:
         parent_info = " *(in reply to a comment not included)*"
 
-    comment_time = datetime.datetime.utcfromtimestamp(thread['created_at']).strftime('%Y-%m-%d %H:%M:%S')
+    comment_time = datetime.datetime.fromtimestamp(thread['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
     
     markdown = f"{indent_str}- **[{thread['user']}]({thread['url']})** _{comment_time}{parent_info}:\n\n{indented_content}\n"
 
