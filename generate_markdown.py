@@ -20,7 +20,7 @@ def save_comments_to_markdown():
 
     # Process submissions year by year
     for year, submissions_in_year in submissions_by_year.items():
-        filename = f'ven_anigha_reddit_archive_{year}.md'
+        filename = f'markdown_files/ven_anigha_reddit_archive_{year}.md'
         with open(filename, 'w', encoding='utf-8') as file:
             for submission_dict in submissions_in_year:
                 # Format submission time
