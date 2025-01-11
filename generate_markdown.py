@@ -33,10 +33,11 @@ def save_comments_to_markdown():
                 # Fetch and process comments for the submission
                 c.execute('SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc', (submission_dict['id'],))
                 comments = c.fetchall()
-                create_nested_structure(comments, file)
+                markdown_output = create_nested_structure(comments)
+                file.write(markdown_output)
             print(f"Markdown file generated for {year}: {filename}")
 
-def create_nested_structure(threads, file_obj):
+def create_nested_structure(threads: list[list[str]]) -> str:
     thread_dict = {}
     for thread in threads:
         thread_dict[thread[0]] = {
@@ -75,7 +76,7 @@ def create_nested_structure(threads, file_obj):
         markdown_output += generate_markdown(root)
 
     markdown_output += "\n---\n\n"
-    file_obj.write(markdown_output)
+    return markdown_output
 
 def generate_markdown(thread, indent=0):
     indent_str = '    ' * indent
