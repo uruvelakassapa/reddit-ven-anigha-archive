@@ -7,7 +7,7 @@ description: "Reddit discussions by Ven Anīgha in 2025."
 
 # Ven Anīgha Reddit Archive 2025
 
-## What is the "you" that chooses what to allow the wild animal to engage with?
+## [What is the "you" that chooses what to allow the wild animal to engage with?](https://www.reddit.com/r/HillsideHermitage/comments/1hru147/what_is_the_you_that_chooses_what_to_allow_the/)
 **Subreddit**: r/HillsideHermitage | **Posted by**: Magg0tBrainz _2025-01-02 13:46:29_
 
 What is the "you" that chooses what sense objects to engage with or present to the wild animal?
@@ -18,7 +18,7 @@ If you do have control, then what is the you that has control? Isn't that antith
 
 If you don't have control, what is the basis for that "you" that chooses what to engage with? And therefore, what is the basis of an ignorant mind, and what is the basis of an enlightened mind?
 
-### Comment by [Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hru147/what_is_the_you_that_chooses_what_to_allow_the/m5ba6ka/ on 2025-01-04 05:44:37
+### Comment by [Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hru147/what_is_the_you_that_chooses_what_to_allow_the/m5ba6ka/) on 2025-01-04 05:44:37
 
 >What is the "you" that chooses what sense objects to engage with or present to the wild animal?
 
@@ -38,14 +38,14 @@ Not sure what you mean by this. Assuming you're asking what is the cause of each
 
 It bears mentioning that "not allowing the wild animal to engage with things" is not what leads to enlightenment alone. That's what anyone who attains samadhi even with wrong view would have to do. A tamed animal (assuming the taming came from the gradual training and not a meditation technique) is but a *suitable basis* for enlightenment.
 
-## Is jhana necessary for enlightenment?
+## [Is jhana necessary for enlightenment?](https://www.reddit.com/r/HillsideHermitage/comments/1hrlr9i/is_jhana_necessary_for_enlightenment/)
 **Subreddit**: r/HillsideHermitage | **Posted by**: None _2025-01-02 04:38:15_
 
 I don't even fully understand what jhana is, mostly because of the many contradictory teachings from many different people who all say they know what it is and how to get it. I've sort of decided for a while to just not bother with the whole matter and do my practice. But is jhana a necessary part of the Buddha's instructions for awakening? If I don't know what it is, will whatever it is be cultivated if I'm practicing everything else correctly? 
 
 My basic point is - do I need to have this term clearly defined in the correct way, and is jhana a state I need to work towards intentionally, or is it something that will arise naturally by doing other things that support it?
 
-### Comment by [Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hrlr9i/is_jhana_necessary_for_enlightenment/m4ystlp/ on 2025-01-02 05:15:50
+### Comment by [Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hrlr9i/is_jhana_necessary_for_enlightenment/m4ystlp/) on 2025-01-02 05:15:50
 
 >My basic point is - do I need to have this term clearly defined in the correct way, and is jhana a state I need to work towards intentionally, or is it something that will arise naturally by doing other things that support it?
 
@@ -55,7 +55,7 @@ The contradictory teachings you mention are due to an underemphasis or altogethe
 
 And yes, jhāna (read: successful abandoning of sensuality and all forms of aversion) is indispensable for enlightenment.
 
-### Comment by [Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hrlr9i/is_jhana_necessary_for_enlightenment/m54x15d/ on 2025-01-03 05:03:50 *(in reply to a comment not included)*
+### Comment by [Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hrlr9i/is_jhana_necessary_for_enlightenment/m54x15d/) on 2025-01-03 05:03:50 *(in reply to a comment not included)*
 
 >And am I correct that you are saying jhana is not a state to be arrived at by putting yourself in a trance through a series of steps in accordance with a technique? Rather jhana is the pleasure that arises when one is sufficiently withdrawn from sensuality because of the intentional act of abandoning it throughout their life, not just temporarily during meditation, while being asleep, or for a period of time on retreat?
 
@@ -73,7 +73,7 @@ Yes. They're such a different thing that arises out of such a different mode of 
 
 [By applying the same attitude to it as one did to sensuality and the world in order to enter jhāna](https://suttas.hillsidehermitage.org/?q=mn64#mn64:9.1_mn64:9.9).
 
-### Comment by [Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hrlr9i/is_jhana_necessary_for_enlightenment/m54yj78/ on 2025-01-03 05:14:55 *(in reply to a comment not included)*
+### Comment by [Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hrlr9i/is_jhana_necessary_for_enlightenment/m54yj78/) on 2025-01-03 05:14:55 *(in reply to a comment not included)*
 
 >Then what you are saying is that jhana will not arise for anyone until anagami stage?
 
@@ -85,7 +85,7 @@ People who have been well withdrawn from sensuality, company, distractions, and 
 
 But this would soon fade once they return to the world and start breaking precepts again, etc. One would also ironically be prevented from getting to that modicum of proper samādhi even if the external conditions are right when engaging in a meditation technique, since that's often yet another activity of pursuing pleasure and avoiding pain that takes the place of the external activities that were abandoned. What comes out of that isn't a truly calm state, but another ecstatic pleasure that tires you out eventually.
 
-## Getting up early and napping during the day
+## [Getting up early and napping during the day](https://www.reddit.com/r/HillsideHermitage/comments/1hrco03/getting_up_early_and_napping_during_the_day/)
 **Subreddit**: r/HillsideHermitage | **Posted by**: Ok-Addition-7759 _2025-01-01 21:12:40_
 
 So, I get up pretty early and after I eat my meal for the day at 8:00 I'm often useless for the next several hours and struggle to meditate or be mindful.  I eat in moderation so that's not the issue.  I have to fiercely fight to stay awake after eating and often can't sit down for a couple hours after eating or I'll just go into oblivion.  I'm tempted to take naps all the time but it's really hit or miss if they actually make me function better.  
@@ -97,7 +97,7 @@ This sleep stuff really sucks because it feel like my body wants to get up this 
 Edit: A few of you mentioned food intolerance and I think that must be it.  I think it's my whey protein.  I had an inkling that might be an issue for a while but didn't test it out properly.  It's that subtle inner feminine voice that I seem to often miss or ignore, and then stumble around this way and that before I finally listen to them to see that once again, they were right.  It's a very male thing to prioritize thinking, logic, and prior determinations over intuition. 
 
 
-### Comment by [Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hrco03/getting_up_early_and_napping_during_the_day/m4yw1il/ on 2025-01-02 05:43:22
+### Comment by [Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hrco03/getting_up_early_and_napping_during_the_day/m4yw1il/) on 2025-01-02 05:43:22
 
 If you know you're not tired due to some specific physical reason like recent strenuous activity or some food intolerance, then the problem might be that you're expecting the dull state after the meal not to be there, with the wrong view that "only then" can you practice. That aversion would in turn make the sleepiness worse.
 

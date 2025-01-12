@@ -8,7 +8,7 @@ description: "Reddit discussions by Ven Anīgha in 2025."
 # Ven Anīgha Reddit Archive 2025
 
 **r/HillsideHermitage** | Posted by Magg0tBrainz _2025-01-02 13:46:29_
-### What is the "you" that chooses what to allow the wild animal to engage with?
+### [What is the "you" that chooses what to allow the wild animal to engage with?](https://www.reddit.com/r/HillsideHermitage/comments/1hru147/what_is_the_you_that_chooses_what_to_allow_the/)
 
 What is the "you" that chooses what sense objects to engage with or present to the wild animal?
 
@@ -41,7 +41,7 @@ If you don't have control, what is the basis for that "you" that chooses what to
 ---
 
 **r/HillsideHermitage** | Posted by None _2025-01-02 04:38:15_
-### Is jhana necessary for enlightenment?
+### [Is jhana necessary for enlightenment?](https://www.reddit.com/r/HillsideHermitage/comments/1hrlr9i/is_jhana_necessary_for_enlightenment/)
 
 I don't even fully understand what jhana is, mostly because of the many contradictory teachings from many different people who all say they know what it is and how to get it. I've sort of decided for a while to just not bother with the whole matter and do my practice. But is jhana a necessary part of the Buddha's instructions for awakening? If I don't know what it is, will whatever it is be cultivated if I'm practicing everything else correctly? 
 
@@ -88,7 +88,7 @@ My basic point is - do I need to have this term clearly defined in the correct w
 ---
 
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2025-01-01 21:12:40_
-### Getting up early and napping during the day
+### [Getting up early and napping during the day](https://www.reddit.com/r/HillsideHermitage/comments/1hrco03/getting_up_early_and_napping_during_the_day/)
 
 So, I get up pretty early and after I eat my meal for the day at 8:00 I'm often useless for the next several hours and struggle to meditate or be mindful.  I eat in moderation so that's not the issue.  I have to fiercely fight to stay awake after eating and often can't sit down for a couple hours after eating or I'll just go into oblivion.  I'm tempted to take naps all the time but it's really hit or miss if they actually make me function better.  
 

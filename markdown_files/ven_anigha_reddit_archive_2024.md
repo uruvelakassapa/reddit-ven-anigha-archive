@@ -8,7 +8,7 @@ description: "Reddit discussions by Ven Anīgha in 2024."
 # Ven Anīgha Reddit Archive 2024
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-12-29 17:45:10_
-### New glossary entry for Yoniso Manasikāra
+### [New glossary entry for Yoniso Manasikāra](https://suttas.hillsidehermitage.org/glossary.html)
 
 
 
@@ -52,7 +52,7 @@ description: "Reddit discussions by Ven Anīgha in 2024."
 ---
 
 **r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2024-12-28 16:47:56_
-### Being fed up with something
+### [Being fed up with something](https://www.reddit.com/r/HillsideHermitage/comments/1ho9lkm/being_fed_up_with_something/)
 
 I've been following Hillside Hermitage channel for a while now and I see the same theme in the videos I'd like to talk about and see what people have to say, strong emphasis on abandonment of sensuality and endurance of the pain, sort of implying that anyone who's not living in a monastery only focused on keeping the precepts is automatically an addict.
 
@@ -75,7 +75,7 @@ I find my experience to contradict what Ajahn Nyanamoli says.
 ---
 
 **r/HillsideHermitage** | Posted by Pretend-Pirate4344 _2024-12-26 15:49:27_
-### Personal advice on monasticism needed
+### [Personal advice on monasticism needed](https://www.reddit.com/r/HillsideHermitage/comments/1hmr176/personal_advice_on_monasticism_needed/)
 
 I apologise if the mods deem this off-topic for the subreddit. If that’s so and anyone had the time to message me in private, or re-direct me somewhere else, that would be greatly appreciated regardless.   
   
@@ -100,7 +100,7 @@ TL;DR I have to choose between completing my transition and just trying to live 
 ---
 
 **r/HillsideHermitage** | Posted by hopefullys00n _2024-12-26 03:00:21_
-### Pali words translated differently by the HH community
+### [Pali words translated differently by the HH community](https://www.reddit.com/r/HillsideHermitage/comments/1hmfcqo/pali_words_translated_differently_by_the_hh/)
 
 Does anybody have a list of the Pali words/terms that the HH community translates differently than other folks do? I want to learn Pali, and I think it would be great to have such a list so that if I take a Pali class I can keep those alternate translations in mind. 
 
@@ -114,7 +114,7 @@ For example, I usually see 'yoniso manasikara' translated as 'wise attention', b
 ---
 
 **r/HillsideHermitage** | Posted by Pallantinus _2024-12-25 18:16:39_
-### How should a layperson approach food choices and cooking according to the Dhamma?
+### [How should a layperson approach food choices and cooking according to the Dhamma?](https://www.reddit.com/r/HillsideHermitage/comments/1hm5twv/how_should_a_layperson_approach_food_choices_and/)
 
 Hello everyone,
 
@@ -143,7 +143,7 @@ Thanks in advance for your help.
 ---
 
 **r/HillsideHermitage** | Posted by still_tracks _2024-12-21 09:46:42_
-### Discerning the General Feeling
+### [Discerning the General Feeling](https://www.reddit.com/r/HillsideHermitage/comments/1hj6npf/discerning_the_general_feeling/)
 
 I would like to share my current understanding of the "general feeling" and kindly ask for corrections. I will use Bhante Anīgha's approach from [The Meaning of Yoniso Manasikāra](https://www.hillsidehermitage.org/wp-content/uploads/2023/06/The-Meaning-of-Yoniso-Manasikara-Bhikkhu-Anigha.pdf) and distinguish between the **external**/*internal* domain of experience via formatting the text. In this way, I hope to expose any wrong understanding more clearly.
 
@@ -168,7 +168,7 @@ Edit 1: small grammar corrections
 ---
 
 **r/HillsideHermitage** | Posted by BestZebra6159 _2024-12-21 05:21:10_
-### On Precepts
+### [On Precepts](https://www.reddit.com/r/HillsideHermitage/comments/1hj30yb/on_precepts/)
 
 I'd thought to reflect on the precepts since it occurred to me that I'd taken their meaning for granted and what "taking them up" really entails. The present writing will be a culmination of my thinking that has been going on for the past few days and will contain the following: what precepts are, what it means to "take them up", and what the implications of that are. Any criticisms are welcome.
 ___
@@ -252,7 +252,7 @@ So does this mean, sotapatti is essentially off the table for me even though I'm
 ---
 
 **r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2024-12-19 18:55:11_
-### Non-duality vs Buddhism
+### [Non-duality vs Buddhism](https://www.reddit.com/r/HillsideHermitage/comments/1hi04ze/nonduality_vs_buddhism/)
 
 Hello, I have this question boiling for a while as it never truly got answered by myself or someone else.  
 I am trying to understand the difference between non-duality and arahantship. Non-duality is common among lay folks state of being that is another name for anatta from what I understand(I experienced it myself as well). A lot of people are trying to preach it, but there are notable differences in the lifestyle people live. I find it confusing that not necessarily restrained people get awakened all around which contradicts the words of Ajahn Nyanamoli and the Buddha that I have no reason to distrust. Is non-dual awakening not the purest and arahantship is the purest awakening or what is the difference?
@@ -314,7 +314,7 @@ Reality is not made of words, words are based upon reality
 ---
 
 **r/HillsideHermitage** | Posted by Devotedlyindeed _2024-12-19 12:53:58_
-### Pitfalls in modern Buddhist emphasis on creating “kinder” internal narratives
+### [Pitfalls in modern Buddhist emphasis on creating “kinder” internal narratives](https://www.reddit.com/r/HillsideHermitage/comments/1hhs97b/pitfalls_in_modern_buddhist_emphasis_on_creating/)
 
 In so many Buddhist groups, efforts are focused on taking up new narratives and ways of thinking. This can be useful in a number of ways. 
 
@@ -376,7 +376,7 @@ Thanks for reading.
 ---
 
 **r/HillsideHermitage** | Posted by Sukhena _2024-12-18 15:36:10_
-### Making the most of a coming "meditation retreat" 
+### [Making the most of a coming "meditation retreat" ](https://www.reddit.com/r/HillsideHermitage/comments/1hh45z3/making_the_most_of_a_coming_meditation_retreat/)
 
 A few months ago, I signed up for a 10-day retreat that will start very soon. Reading the HH teachings, I'm questioning my practice accordingly. Because of that, I'm now wondering if this retreat could be a good opportunity to reflect on my practice and try to start practicing as the HH teachings advise. I'm still in the process of integrating the perspective shift these teachings bring, and I hope I won't just spend 10 days immersed in confusion.
 
@@ -394,7 +394,7 @@ Thank you very much for your time !
 ---
 
 **r/HillsideHermitage** | Posted by noobknoob _2024-12-17 17:19:52_
-### Sense restraint
+### [Sense restraint](https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/sense_restraint/)
 
 I've not been able to understand how to practice sense restraint for a while. Let's say someone is restrained bodily and verbally, and dwelling in seclusion. Then, all sorts of intense and pressuring thoughts start arising.
 
@@ -439,7 +439,7 @@ Thanks for reading.
 ---
 
 **r/HillsideHermitage** | Posted by obobinde _2024-12-16 09:50:27_
-### Is mind wandering necessarily unwholesome ?
+### [Is mind wandering necessarily unwholesome ?](https://www.reddit.com/r/HillsideHermitage/comments/1hffq06/is_mind_wandering_necessarily_unwholesome/)
 
 I was wondering if mind wandering is necessarily rooted in the 5 hindrances or ignorance. 
 
@@ -460,7 +460,7 @@ If yes, well, let’s say I’m aboard a train or walking in the street. Should 
 ---
 
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-12-12 12:40:25_
-### Lofty aspirations 
+### [Lofty aspirations ](https://www.reddit.com/r/HillsideHermitage/comments/1hck808/lofty_aspirations/)
 
 At several points in my practice there have been times where things become much clearer. The scale of Samsara and suffering, the unsatisfactoryness of anything in the world, and other things that lead to great dispassion, resolve, compassion, etc. These are the times of shaking up, pivoting, and doubling down to practice harder and abandon what needs abandoning.  At times like this, I've made lofty aspirations and determinations that still drive me to one extent or another. 
 
@@ -486,7 +486,7 @@ The Buddha didn't wasn't even inclined to teach, which should really point to wh
 ---
 
 **r/HillsideHermitage** | Posted by Devotedlyindeed _2024-12-12 04:41:18_
-### How is Mindfulness of Body Relevant?
+### [How is Mindfulness of Body Relevant?](https://www.reddit.com/r/HillsideHermitage/comments/1hcdc7i/how_is_mindfulness_of_body_relevant/)
 
 Simply put, I do not understand how the 1st Satipatthana is relevant to the endeavor we are undertaking. Is this simply a starting point for learning to direct and maintain awareness of what is happening inside of experience, or perhaps a starting point to questioning the reality of our perceptions? How does this practice relate to the process of finding right view?
 
@@ -521,7 +521,7 @@ Simply put, I do not understand how the 1st Satipatthana is relevant to the ende
 ---
 
 **r/HillsideHermitage** | Posted by Belozersky _2024-12-08 18:36:00_
-### How to reconcile SN12.19 with structural Dependent Origination?
+### [How to reconcile SN12.19 with structural Dependent Origination?](https://www.reddit.com/r/HillsideHermitage/comments/1h9pfad/how_to_reconcile_sn1219_with_structural_dependent/)
 
 [SN12.19](https://suttacentral.net/sn12.19/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=asterisk&highlight=true&script=latin) says:
 
@@ -551,7 +551,7 @@ Do you think this sutta contradicts the structural (akaliko) DO? Is this an inst
 ---
 
 **r/HillsideHermitage** | Posted by sillyguyyyyy _2024-12-07 02:53:47_
-### What is the extent of the 1st precept?
+### [What is the extent of the 1st precept?](https://www.reddit.com/r/HillsideHermitage/comments/1h8iwrd/what_is_the_extent_of_the_1st_precept/)
 
 Does the first precept pertain to mites (like dust mites on laundry or scabies), parasites, and germs/bacteria? 
 
@@ -575,7 +575,7 @@ I know that the precepts are supposed to help reveal your state of mind, and tha
 ---
 
 **r/HillsideHermitage** | Posted by BestZebra6159 _2024-12-06 16:55:37_
-### Simile for Sensuality (1)
+### [Simile for Sensuality (1)](https://www.reddit.com/r/HillsideHermitage/comments/1h85wpx/simile_for_sensuality_1/)
 
 In a previous thread on what craving is, I'd asked Ven. Anigha if understanding the hindrances would lead me to understanding the citta, to which Bhante replied yes. So I'll be creating a series of similes to communicate my understanding of the nature of the hindrances over the span of the next few weeks, and try to improve upon them after any feedback I get that I'm able to make sense of. I will divide this post into 4 parts: (1) the simile; (2) what the elements of the simile correspond to in terms of sensuality; (3) the implications of the simile; (4) my own questions.
 ___
@@ -656,7 +656,7 @@ ___
 ---
 
 **r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-12-06 02:11:43_
-### Is absorption always a problem?
+### [Is absorption always a problem?](https://www.reddit.com/r/HillsideHermitage/comments/1h7qjcy/is_absorption_always_a_problem/)
 
 Is it wrong meditation to become absorbed into experiences while sitting? 
 
@@ -679,7 +679,7 @@ To be completely upfront, I enjoy these states very much, but have been refraini
 ---
 
 **r/HillsideHermitage** | Posted by 25thNightSlayer _2024-12-05 19:00:02_
-### Can one use the senses to gladden the mind (appreciating nature, seeing children play, etc.) and is that practice useful for uprooting the three poisons? I’m finding  it difficult to understand how laypeople can find the fruit of stream-entry. 
+### [Can one use the senses to gladden the mind (appreciating nature, seeing children play, etc.) and is that practice useful for uprooting the three poisons? I’m finding  it difficult to understand how laypeople can find the fruit of stream-entry. ](https://www.reddit.com/r/HillsideHermitage/comments/1h7gt9d/can_one_use_the_senses_to_gladden_the_mind/)
 
 I’ve been investigating further what sense restraint and renunciation means in practice to clear my confusions. I came across Thanissaro Bhikkhu’s article (https://www.dhammatalks.org/books/Meditations4/Section0019.html) and it does make sense, but I wonder if this is optimal practice to root out the causes of suffering. How do I truly know if I’m getting to the root of the poisons and what does that look like for laypeople who are immersed in sensuality? 
 
@@ -698,7 +698,7 @@ I’ve been investigating further what sense restraint and renunciation means in
 ---
 
 **r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-12-05 03:16:46_
-### Are Bhikkhu Bodhi's sutta translations problematic?
+### [Are Bhikkhu Bodhi's sutta translations problematic?](https://www.reddit.com/r/HillsideHermitage/comments/1h6zgdm/are_bhikkhu_bodhis_sutta_translations_problematic/)
 
 If so, what is recommended by the Hillside Hermitage/Samanadipa community?
 
@@ -713,7 +713,7 @@ If so, what is recommended by the Hillside Hermitage/Samanadipa community?
 ---
 
 **r/HillsideHermitage** | Posted by No_Squirrel4617 _2024-12-04 19:50:53_
-### Distracting thoughts
+### [Distracting thoughts](https://www.reddit.com/r/HillsideHermitage/comments/1h6pbs1/distracting_thoughts/)
 
 I'm in need of some practical advice on how to go about undestracting myself from my thoughts. When I am in isolation, it's easy for me to not get carried away by unpleasant and pleasant feelings because they are so painful, and the context there is solid. However, when it comes to neutral feelings, I find myself already far down the line, and I need to bring it back and repeat. Unfortunately, I have been unwittingly cultivating this, and now I am trying to undo it for obvious reasons.
 
@@ -726,7 +726,7 @@ Can someone with experience please share how to practically go about this? Also,
 ---
 
 **r/streamentry** | Posted by 25thNightSlayer _2024-12-04 04:54:14_
-### Does the Hillside Hermitage take on jhana actually make sense in anyone’s experience? 
+### [Does the Hillside Hermitage take on jhana actually make sense in anyone’s experience? ](https://www.reddit.com/r/streamentry/comments/1h685zc/does_the_hillside_hermitage_take_on_jhana/)
 
 From what I gather, HH takes modern talk about jhana as chasing after pleasure. But, I’m not sure what they actually mean by this. Pleasure of the body developed through wholesome abiding is what modern approaches teach so I’m not seeing the contradiction between HH and teachings from Burbea for example. Anapanasati feels good in practice. I’ve experienced bodily pleasure from meditation, but is that to be ignored? What is HH trying to convey? 
 
@@ -743,7 +743,7 @@ From what I gather, HH takes modern talk about jhana as chasing after pleasure. 
 ---
 
 **r/HillsideHermitage** | Posted by 25thNightSlayer _2024-12-04 04:42:05_
-### Why are Leigh Brasington’s jhana teachings frowned upon when the Buddha spoke of a pleasure not to be feared? 
+### [Why are Leigh Brasington’s jhana teachings frowned upon when the Buddha spoke of a pleasure not to be feared? ](https://www.reddit.com/r/HillsideHermitage/comments/1h67ymi/why_are_leigh_brasingtons_jhana_teachings_frowned/)
 
 Leigh teaches the classical gradual training: sila, samadhi, panna. The anapanasati sutta clearly suggests utilizing feelings of wholesomeness that arise the body which lead to calmness. Metta for example is also felt in the body. Where is the line drawn between sensuality and wholesome bodily feelings? Why isn’t there more engagement with Leigh’s teachings by HH when they have led to transformative insights by many people such as Kim Allen etc. who teach suttas. Is there anyone here that claim to experience jhana in the way HH describes them? 
 
@@ -868,7 +868,7 @@ Leigh teaches the classical gradual training: sila, samadhi, panna. The anapanas
 ---
 
 **r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-11-30 19:18:35_
-### Is unshakeable conviction only available with Right View?
+### [Is unshakeable conviction only available with Right View?](https://www.reddit.com/r/HillsideHermitage/comments/1h3k0ze/is_unshakeable_conviction_only_available_with/)
 
 I lack conviction to the point that when I hear one teacher, I am totally on board with what they are saying. But then, when I hear another teacher with a contradictory message, I agree with them and disagree with the one I previously agreed with. This lack of conviction in a solid interpretation of the Buddha's teachings is leaving me feeling like I'm getting nowhere despite a lot of effort. Then I think I just don't need a teacher and should "know things for myself" - but I even lack conviction in myself. After all, if I could end suffering on my own, wouldn't I be a Buddha? I've heard the advice of, just pick one teacher or one tradition for a while and see where it leads you. But, I can't authentically do that with the background awareness that this \*might\* be the wrong way.
 
@@ -881,7 +881,7 @@ I lack conviction to the point that when I hear one teacher, I am totally on boa
 ---
 
 **r/HillsideHermitage** | Posted by Queasy-Astronaut9546 _2024-11-30 01:53:39_
-### Peripheral Awareness Clarification - Extent of Immediate Knowing
+### [Peripheral Awareness Clarification - Extent of Immediate Knowing](https://www.reddit.com/r/HillsideHermitage/comments/1h31rph/peripheral_awareness_clarification_extent_of/)
 
 I understand the common description of peripheral awareness being like an anchor that you throw out and let it drift away.  You don't directly attend to say, the body itself or even the thought of the body being there.  You recognize it being there as the container for your experience, there regardless of what you attend to particularly, and let it endure on its own. That makes sense.
 
@@ -910,7 +910,7 @@ Am I correct with my attempted answer? I have realized that I wont ever be sure 
 ---
 
 **r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-11-28 18:37:13_
-### Would the monks from HH or Samanadipa consider creating a discord?
+### [Would the monks from HH or Samanadipa consider creating a discord?](https://www.reddit.com/r/HillsideHermitage/comments/1h22lue/would_the_monks_from_hh_or_samanadipa_consider/)
 
 This way we can have some guidelines in discourse, a central area for resources, voice channels for sutta study, and maybe even regular Q&A with the monastics. Plus the sense of community might be beneficial.
 
@@ -921,7 +921,7 @@ This way we can have some guidelines in discourse, a central area for resources,
 ---
 
 **r/HillsideHermitage** | Posted by No_Let_3303 _2024-11-28 04:03:37_
-### How to endure the pressure of unwholesome mental states properly
+### [How to endure the pressure of unwholesome mental states properly](https://www.reddit.com/r/HillsideHermitage/comments/1h1ne7o/how_to_endure_the_pressure_of_unwholesome_mental/)
 
 I’m trying to get some more clarity on what it practically looks like to properly endure unwholesome states such as craving for sensuality, ill will etc. For me it seems that the confusion comes from the mano getting overly involved in the immediate pressure. For example a craving for food will pop up i immediately recognize it as an issue and then it goes away but then I think to myself, that seemed to easy, did I just unknowingly distract myself from it by acknowledging it as unwholesome? maybe I should try to discern where it’s coming from right after the moment of its arrival because it’s still fresh in my mind. Then another part of me is like no you can only discern that if your mind is unhindered which would be impossible if an unwholesome state just arose lol. I think I might just be overthinking it so I’d appreciate another perspective on this please.
 
@@ -932,7 +932,7 @@ I’m trying to get some more clarity on what it practically looks like to prope
 ---
 
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-11-28 02:50:42_
-### What is meant by "Reflexive eye" and does internal have two meanings? 
+### [What is meant by "Reflexive eye" and does internal have two meanings? ](https://www.reddit.com/r/HillsideHermitage/comments/1h1m3j2/what_is_meant_by_reflexive_eye_and_does_internal/)
 
 I'm often not confident I understand some terms correctly or fully, and seek clarification. I've included my understanding of more terms on the eye to see if those need correction. 
 
@@ -993,7 +993,7 @@ I've made a few edits to this post. I think the main thing is wanting to assume 
 ---
 
 **r/HillsideHermitage** | Posted by serculis _2024-11-26 20:08:31_
-### How to take care of myself during burnout?
+### [How to take care of myself during burnout?](https://www.reddit.com/r/HillsideHermitage/comments/1h0lf00/how_to_take_care_of_myself_during_burnout/)
 
 Well, I am officially burnt out from work. It's crept up on me gradually and went unnoticed, then the final straw just broke the camel's back. It's become poorly managed, we are all suffering from low morale, our concerns are not being listened to, the upper-ups are making terribly unprofessional childish decisions and it is having ripple effects across the company. I'm emotionally exhausted, not motivated, feeling cynical about the patients I see (having irrational bouts of restrained anger towards them that I know is wrong). This has happened a few times since I started the job 4 years ago. Work is just a rocking ship being hit by the waves at the moment and it will take a while to settle.
 
@@ -1018,7 +1018,7 @@ Is there anything I can do right now to properly take care of myself? Or is this
 ---
 
 **r/HillsideHermitage** | Posted by BestZebra6159 _2024-11-26 20:06:32_
-### What is craving?
+### [What is craving?](https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/)
 
 I believe I've made a grave error in understanding craving thus far. Initially a few years ago, I used to identify it with the sensation of heat present in the body when I inclined towards sensual pleasures.
 
@@ -1107,7 +1107,7 @@ The issue now is, seeing the connection between this (A) intention to resist and
 ---
 
 **r/HillsideHermitage** | Posted by Wild-Brush1554 _2024-11-25 15:24:57_
-### Practical Practice
+### [Practical Practice](https://www.reddit.com/r/HillsideHermitage/comments/1gzlc47/practical_practice/)
 
 Hi everyone! Im still figuring out how to practice properly, Ive been watching dhamma talks and reading some material for about 10 months and now I want to develop a very serious practice.
 
@@ -1151,7 +1151,7 @@ Thank you
 ---
 
 **r/HillsideHermitage** | Posted by devot3e _2024-11-25 10:35:03_
-### Humility in the face of criticism
+### [Humility in the face of criticism](https://www.reddit.com/r/HillsideHermitage/comments/1gzfye5/humility_in_the_face_of_criticism/)
 
 What do you think about the following phrase?
 
@@ -1182,7 +1182,7 @@ I feel like I can't fix it on this level because I can't see. Perhaps just a mat
 ---
 
 **r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-11-25 02:15:04_
-### Is Buddhism only for monks and nuns
+### [Is Buddhism only for monks and nuns](https://www.reddit.com/r/HillsideHermitage/comments/1gz873x/is_buddhism_only_for_monks_and_nuns/)
 
 If meditation is only for those with Right View, and Right View is likely near impossible for a layperson to attain in the modern world, then what exactly is the purpose of Buddhist practice for laypeople? 
 
@@ -1206,7 +1206,7 @@ I'm struggling to see the point in that kind of practice, especially when you ca
 ---
 
 **r/HillsideHermitage** | Posted by ChairOk548 _2024-11-24 01:48:33_
-### Is the realization that sensuality is a thorn, a very dark realization?
+### [Is the realization that sensuality is a thorn, a very dark realization?](https://www.reddit.com/r/HillsideHermitage/comments/1gyfu8d/is_the_realization_that_sensuality_is_a_thorn_a/)
 
 I suppose this question is coming from a putthujjana's point of view, but if all sensuality is suffering and to be abandoned.. Then what's left?
 
@@ -1227,7 +1227,7 @@ Edit: thank you for the replies
 ---
 
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-11-23 14:12:16_
-### Doing and not doing
+### [Doing and not doing](https://www.reddit.com/r/HillsideHermitage/comments/1gy0hlr/doing_and_not_doing/)
 
 I understand one isn't supposed to do asubha when lust arises, or metta when anger arises, as a reaction or attempt to fix things.   The problem was that the thing arose in the first place. One doesn't train the mind not to move by moving it, so you should just endure the mind rightly and let that which has arisen cease on its own.
 
@@ -1275,7 +1275,7 @@ How much of this is relative to where one is on the path? Naturally one starts w
 ---
 
 **r/HillsideHermitage** | Posted by solacetree _2024-11-18 23:13:35_
-### What is the state that Ajahn Brahm is calling jhana?
+### [What is the state that Ajahn Brahm is calling jhana?](https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/)
 
 Ajahn Brahm describes an absorbed state, which he calls jhana. It's characterized by:
 
@@ -1370,7 +1370,7 @@ Final note: please do not speak rudely of any teachers on this post. Even if we 
 ---
 
 **r/HillsideHermitage** | Posted by BestZebra6159 _2024-11-16 15:00:23_
-### What is the precise definition of sensuality?
+### [What is the precise definition of sensuality?](https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/)
 
 In Ven. Anigha's translation of [MN13](https://suttas.hillsidehermitage.org/?q=mn13), there is the following comment:
 
@@ -1433,7 +1433,7 @@ Going back to the quote from MN 13, removing and giving up desire-and-passion fo
 ---
 
 **r/HillsideHermitage** | Posted by eric2800 _2024-11-16 13:34:12_
-### Meditation/Contemplation prior to Stream Entry
+### [Meditation/Contemplation prior to Stream Entry](https://www.reddit.com/r/HillsideHermitage/comments/1gsndbm/meditationcontemplation_prior_to_stream_entry/)
 
 I have watched a lot of youtube HH videos over last year. I have read articles on the website. HH resonates with me and my experience and also makes more sense in light of the Pali Suttas. I also believe Nanananda is similiar in some regards.
 
@@ -1473,7 +1473,7 @@ Eric T
 ---
 
 **r/HillsideHermitage** | Posted by noobknoob _2024-11-14 12:51:25_
-### Gratification
+### [Gratification](https://www.reddit.com/r/HillsideHermitage/comments/1gr425d/gratification/)
 
 If the gratification of sensuality is limited only to the domain of 'delight', then why is it that if one, after delighting in the possibility of engaging in a sensual object (which already is releasing some pressure of the sensual desire), goes on to actually engage with the sensual object physically, they feel temporarily satisfied and it releases the pressure almost completely? 
 
@@ -1499,7 +1499,7 @@ If the domains of 'delight' and physical sense engagement are completely indepen
 ---
 
 **r/HillsideHermitage** | Posted by Print-Remarkable _2024-11-13 02:23:43_
-### A little confusion about a teaching 
+### [A little confusion about a teaching ](https://www.reddit.com/r/HillsideHermitage/comments/1gq2fth/a_little_confusion_about_a_teaching/)
 
 Been studying the Mahadukkhakkahandha sutta in the MN and having trouble lining it up with Ven. Nyanamoli’s interpretation. Not to say I think his is wrong, I’m just confused. When discussing Gratification, danger, escape he often emphasizes that gratification is only found here and now in the specific delight being imagined and not in the specific object. Thus following through with the actual object is redundant. This interpretation makes total sense to me even though I probably didn’t do it justice in my explanation but I can’t find that same description with in the actual above mentioned sutta? 
 
@@ -1518,7 +1518,7 @@ Been studying the Mahadukkhakkahandha sutta in the MN and having trouble lining 
 ---
 
 **r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-11-09 04:57:20_
-### Mn 18 The Lump of Honey
+### [Mn 18 The Lump of Honey](https://www.reddit.com/r/HillsideHermitage/comments/1gn2jvd/mn_18_the_lump_of_honey/)
 
 Could someone help me understand Venerable Mahākaccāna's explanation in MN18? 
 
@@ -1563,7 +1563,7 @@ I can use my knowledge of dependent origination to remember periferally that the
 ---
 
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-11-08 10:40:37_
-### Taking things for anxiety
+### [Taking things for anxiety](https://www.reddit.com/r/HillsideHermitage/comments/1gmfo84/taking_things_for_anxiety/)
 
 When, if ever, is it appropriate to take things for anxiety? Obviously things that intoxicate are out of the question. 
 
@@ -1595,7 +1595,7 @@ It might be that part or all of the problem lies in looking for, valuing, and as
 ---
 
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-11-06 17:15:47_
-### Eating in moderation and working out
+### [Eating in moderation and working out](https://www.reddit.com/r/HillsideHermitage/comments/1gl3lzv/eating_in_moderation_and_working_out/)
 
 I would like to eat in moderation, and I would like to work out and gain weight.  Trying to find the middle way here has been difficult, and anxiety and doubt about it has resulted in lots of internal conflict.  
 
@@ -1626,7 +1626,7 @@ It's a bit more complicated when I  have to eat a lot to gain weight, eating bef
 ---
 
 **r/HillsideHermitage** | Posted by Future_Plastic_9910 _2024-10-26 10:08:24_
-### Are there any things that involve peripheral awareness?
+### [Are there any things that involve peripheral awareness?](https://www.reddit.com/r/HillsideHermitage/comments/1gchsof/are_there_any_things_that_involve_peripheral/)
 
 Any normal thing like a game or an activity that require peripheral awareness more than usual 
 
@@ -1639,7 +1639,7 @@ Any normal thing like a game or an activity that require peripheral awareness mo
 ---
 
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-10-25 22:06:38_
-### Dealcoholized Beer (0.5%)
+### [Dealcoholized Beer (0.5%)](https://www.reddit.com/r/HillsideHermitage/comments/1gc630i/dealcoholized_beer_05/)
 
 I used to enjoy drinking a dealcoholized beer here and there,  I realized that the 0.5% might be a breach of the fifth precept so I stopped due to doubt if it's a good idea. 
 
@@ -1679,7 +1679,7 @@ Also, last night I dreamt I attended a debate. There were elderly people who tol
 ---
 
 **r/HillsideHermitage** | Posted by wisecameron _2024-10-25 00:49:22_
-### 7th precept question
+### [7th precept question](https://www.reddit.com/r/HillsideHermitage/comments/1gbi3m8/7th_precept_question/)
 
 I work as a software developer.  I often read textbooks to learn new skills related to my job, and dedicate a large amount of time to go above in beyond in terms of my professional contributions and expanding my skillset.  I take it to be okay due to the phrase "accomplished in his sphere of activity" but would appreciate further insights into this matter.  Frankly, it has been difficult for me to determine whether this all falls under entertainment to some extent.  I legitimately do enjoy it. 
 
@@ -1694,7 +1694,7 @@ I work as a software developer.  I often read textbooks to learn new skills rela
 ---
 
 **r/HillsideHermitage** | Posted by wisecameron _2024-10-25 00:43:52_
-### 6th precept
+### [6th precept](https://www.reddit.com/r/HillsideHermitage/comments/1gbhzou/6th_precept/)
 
 Hello, just wondering if  permanently sticking to a 8-eat  / 16-fast schedule and not snacking (ie; two meals within the window) would be within the spirit of the precept.  I have an odd sleep schedule largely related to work habits and am very physically active.  Im trying to be pragmatic here because I believe the solar noon interpretation would be very unhealthy for my body and thus unsustainable.  But I also don't want to be making a compromise, I want to actually be following the precept where it counts.
 
@@ -1709,7 +1709,7 @@ Thanks.
 ---
 
 **r/HillsideHermitage** | Posted by StriderLF _2024-10-22 16:49:59_
-### Is dealing with sloth and torpor through caffeine bad for the gradual training? 
+### [Is dealing with sloth and torpor through caffeine bad for the gradual training? ](https://www.reddit.com/r/HillsideHermitage/comments/1g9mv9f/is_dealing_with_sloth_and_torpor_through_caffeine/)
 
  Hello everyone. Sloth and torpor has been the hardest hindrance for me. Once it settles in, it seems like there's nothing to be done besides waiting. 
 
@@ -1730,7 +1730,7 @@ Thanks.
 ---
 
 **r/HillsideHermitage** | Posted by SoberShire _2024-10-21 15:50:36_
-### Uprooting anxiety - Beginner here 
+### [Uprooting anxiety - Beginner here ](https://www.reddit.com/r/HillsideHermitage/comments/1g8sz3x/uprooting_anxiety_beginner_here/)
 
 Hello hoping to get some clarification to my understanding as I am new to this. I recently stopped trying to hide from life through the use of alcohol and am trying to learn how to live on life's terms
 
@@ -1759,7 +1759,7 @@ Thank you so much :)
 ---
 
 **r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-10-19 14:24:19_
-### Mind-moments
+### [Mind-moments](https://www.reddit.com/r/HillsideHermitage/comments/1g7a0sq/mindmoments/)
 
 I'm listening to this discussion:
 
@@ -1788,7 +1788,7 @@ I have not finished the discussion because there is so much there that I want to
 ---
 
 **r/HillsideHermitage** | Posted by Anemone1k _2024-10-18 23:05:11_
-### Losing Mindfulness?
+### [Losing Mindfulness?](https://www.reddit.com/r/HillsideHermitage/comments/1g6v8fu/losing_mindfulness/)
 
 How can mindfulness be lost if the very act of recognizing that loss implies its presence?   
   
@@ -1805,7 +1805,7 @@ An animal, for example, could be said to have legitimately lost its mindfulness 
 ---
 
 **r/HillsideHermitage** | Posted by ProfessionalIcy1980 _2024-10-18 16:36:37_
-### Has anyone typed up Ajahn Nyanamoli Thero's handwritten translations of the Majjhima-Nikaya?
+### [Has anyone typed up Ajahn Nyanamoli Thero's handwritten translations of the Majjhima-Nikaya?](https://www.reddit.com/r/HillsideHermitage/comments/1g6mims/has_anyone_typed_up_ajahn_nyanamoli_theros/)
 
 Just downloaded the handwritten translations from Path Press and was wondering if anyone had typed them up/had a typed copy. 
 
@@ -1816,7 +1816,7 @@ Just downloaded the handwritten translations from Path Press and was wondering i
 ---
 
 **r/HillsideHermitage** | Posted by devot3e _2024-10-15 01:58:48_
-### Touched by joy and sorrow: Questioning some quotes of supposed Arahants.
+### [Touched by joy and sorrow: Questioning some quotes of supposed Arahants.](https://www.reddit.com/r/HillsideHermitage/comments/1g3wwxv/touched_by_joy_and_sorrow_questioning_some_quotes/)
 
 
 I’ve heard some teachers believe that an Arahant still feels emotions including negative ones, but simply does not hold them. This has been bubbling in my mind since I heard a teacher who I best not name say that an Arahant still experiences dukkha, but that there is no self in it, that it is simply “dukkha arising and dukkha passing away.”
@@ -1910,7 +1910,7 @@ Bhikkhu Sujato
 ---
 
 **r/HillsideHermitage** | Posted by Print-Remarkable _2024-10-11 11:43:05_
-### Monks online 
+### [Monks online ](https://www.reddit.com/r/HillsideHermitage/comments/1g17s9g/monks_online/)
 
 Lately I’ve been trying to limit internet usage as a form of entertainment. Obviously the Venerables have internet access. I was wondering do they avoid frivolous browsing like reading news or social media for example and just stick to things dealing with study, teaching and spreading of the Dhamma? 
 
@@ -1926,7 +1926,7 @@ Lately I’ve been trying to limit internet usage as a form of entertainment. Ob
 ---
 
 **r/HillsideHermitage** | Posted by Wild-Brush1554 _2024-10-09 14:59:02_
-### Sense pleasures
+### [Sense pleasures](https://www.reddit.com/r/HillsideHermitage/comments/1fztfbr/sense_pleasures/)
 
 There is a lot of emphasis on abandonment of sense pleasures in the dhamma talks.
 
@@ -1991,7 +1991,7 @@ Please offer me your advice and do correct me in case I got something wrong.
 ---
 
 **r/HillsideHermitage** | Posted by Anemone1k _2024-10-09 13:17:29_
-### Citta is Where the Heart Is?
+### [Citta is Where the Heart Is?](https://www.reddit.com/r/HillsideHermitage/comments/1fzr6n9/citta_is_where_the_heart_is/)
 
 In Hillside Hermitage's latest talk [Learning the Language of the Mind](https://www.youtube.com/watch?v=3E276FZat1s) it is mentioned near the end that citta is where the heart is. For me this doesn't compute. Like, at all. I have been trying to see citta as the container of the experience as a whole such as the mood or the shape of experience, but this citta being located where the heart is making me doubt I even know up from down anymore. Anyone able to shed more light on the heart being talked about here?
 
@@ -2021,8 +2021,8 @@ In Hillside Hermitage's latest talk [Learning the Language of the Mind](https://
 ---
 
 **r/HillsideHermitage** | Posted by DaNiEl880099 _2024-10-08 17:33:14_
-### A question about moderation and secular living.
-
+### [A question about moderation and secular living.
+](https://www.reddit.com/r/HillsideHermitage/comments/1fz5kd6/a_question_about_moderation_and_secular_living/)
 
 Hello. Let's assume I'm an ordinary person and I don't have a strict ambition to achieve stream entry. As a lay person, is it necessary for me to follow the 8 precepts? What if a given person is interested in Buddhism as something that is to constitute his spirituality as a form of defense against complete absorption by "worldly things", but at the same time does not see the power of renunciation. I think Buddha also gave some advice for this type of person, such as collecting "merits", "generosity", eradicating traits that harm other people?
 
@@ -2041,7 +2041,7 @@ In short, I mean how do you see the approach to life for such an ordinary person
 ---
 
 **r/HillsideHermitage** | Posted by obobinde _2024-10-08 15:04:19_
-### 2 questions about the three characteristics formula
+### [2 questions about the three characteristics formula](https://www.reddit.com/r/HillsideHermitage/comments/1fz1z1k/2_questions_about_the_three_characteristics/)
 
 Sabbe sankhara anicca
 
@@ -2154,7 +2154,7 @@ I kinda found an answer in a previous answer from [u/AlexCoventry](https://www.r
 ---
 
 **r/HillsideHermitage** | Posted by noobknoob _2024-10-05 17:57:42_
-### Question from Ajahn's essay 'Appearance and Existence'. 
+### [Question from Ajahn's essay 'Appearance and Existence'. ](https://www.reddit.com/r/HillsideHermitage/comments/1fww91w/question_from_ajahns_essay_appearance_and/)
 
 Full Essay: [https://www.hillsidehermitage.org/appearance-and-existence/](https://www.hillsidehermitage.org/appearance-and-existence/)
 
@@ -2179,7 +2179,7 @@ It can be argued that the possibility of them not existing is real as such as we
 ---
 
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-10-05 16:13:51_
-### So I feel like I'm possessed
+### [So I feel like I'm possessed](https://www.reddit.com/r/HillsideHermitage/comments/1fwty0o/so_i_feel_like_im_possessed/)
 
 This might seem like a strange and mystical subject that doesn't belong here, but anyone who has read Nyanamoli's *Meanings* will know that the phenomenon of "feeling possessed" is a thing that *can* happen, even along the path.  
 
@@ -2202,7 +2202,7 @@ Anyway, I don't actually feel all that worried now that it's passed. I try to se
 ---
 
 **r/HillsideHermitage** | Posted by LeUne1 _2024-10-02 09:28:30_
-### Video of Ven Nanamoli removing ticks from a snake
+### [Video of Ven Nanamoli removing ticks from a snake](https://www.reddit.com/r/HillsideHermitage/comments/1fuc423/video_of_ven_nanamoli_removing_ticks_from_a_snake/)
 
 Does harming the ticks not go against perfect virtue?
 
@@ -2217,7 +2217,7 @@ https://m.youtube.com/watch?v=DffOpUbrhTo
 ---
 
 **r/HillsideHermitage** | Posted by Substantial_Suit5367 _2024-10-01 03:11:05_
-### Is jhana only attainable by a sotapanna and above?
+### [Is jhana only attainable by a sotapanna and above?](https://www.reddit.com/r/HillsideHermitage/comments/1ftec39/is_jhana_only_attainable_by_a_sotapanna_and_above/)
 
 Maybe I'm misreading or misunderstanding the suttas I have looked at, but did the Buddha say that only someone who has gone beyond sensuality can attain jhanas? And does going beyond (valuing) sensuality make one a sotapanna?
 
@@ -2236,7 +2236,7 @@ Maybe I'm misreading or misunderstanding the suttas I have looked at, but did th
 ---
 
 **r/HillsideHermitage** | Posted by MBBWS _2024-09-30 13:39:41_
-### I'm going to visit Samanadipa monastery this week and is my first time ever visiting a monastery and a monk in person.
+### [I'm going to visit Samanadipa monastery this week and is my first time ever visiting a monastery and a monk in person.](https://www.reddit.com/r/HillsideHermitage/comments/1fsvskk/im_going_to_visit_samanadipa_monastery_this_week/)
 
 Please, can someone advice me on how to approach the monastery? 
 
@@ -2265,7 +2265,7 @@ Thank you for your responses in advance 🙏
 ---
 
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2024-09-29 15:39:13_
-### How important is the unconditionality of the 8 precepts? (the additional 3, that is) 
+### [How important is the unconditionality of the 8 precepts? (the additional 3, that is) ](https://www.reddit.com/r/HillsideHermitage/comments/1fs7740/how_important_is_the_unconditionality_of_the_8/)
 
 So, I've cut off all entertainment except for one thing, the Dungeons and Dragons campaign I've been it for the past 3 years. We're very near the end of the campaign. It's a big source of internal tension because I've been celibate and sleeping on the floor and not eating after noon for a long time and this is the one thing holding me back from taking the 8 every day, all the time, for the rest fo my life.  I often don't enjoy it, or don't get nearly as much enjoyment from the game or company as I used to and I don't delight in what delight remains. Part of me has wanted to just drop out for a long time. 
 
@@ -2338,7 +2338,7 @@ Relevant sutta(MN 61)
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-09-29 13:44:23_
-### How does one resist things ajjhataṃ?
+### [How does one resist things ajjhataṃ?](https://www.reddit.com/r/HillsideHermitage/comments/1fs4oma/how_does_one_resist_things_ajjhataṃ/)
 
 >“Bhante, I am developing mindfulness of breathing.”
 
@@ -2367,7 +2367,7 @@ Also, is it what craving for non-being is?
 ---
 
 **r/HillsideHermitage** | Posted by devot3e _2024-09-27 00:29:08_
-### Not really sure what to make of AN 4.166
+### [Not really sure what to make of AN 4.166](https://www.reddit.com/r/HillsideHermitage/comments/1fqbb5c/not_really_sure_what_to_make_of_an_4166/)
 
 “Bhikkhus, there are these four modes of practice. What four? (1) Practice that is painful with sluggish direct knowledge; (2) practice that is painful with quick direct knowledge; (3) practice that is pleasant with sluggish direct knowledge; and (4) practice that is pleasant with quick direct knowledge.
 (1) The mode of practice that is painful with sluggish direct knowledge is declared to be inferior for both reasons: because it is painful and because direct knowledge is sluggish. This mode of practice is declared to be inferior for both reasons.
@@ -2399,7 +2399,7 @@ For more context if you’re interested, AN 4.162
 ---
 
 **r/HillsideHermitage** | Posted by Secret_Invite_9895 _2024-09-26 20:54:08_
-### meditation not taught to non stream enterers
+### [meditation not taught to non stream enterers](https://www.reddit.com/r/HillsideHermitage/comments/1fq6p0z/meditation_not_taught_to_non_stream_enterers/)
 
 So when the Buddha prescribes mediation it is never mentioned that he is talking to a puthujjana but, it's also usually not mentioned whether or not he is talking to a stream enterer. And there are suttas where the Buddha is trying to inspire people by describing samsara(how unending and unsatisfying it is and how it is enough to become disenchanted with the world and commit to attaining nibbana) and then he says to go sit at the roots of trees and meditate. If the buddha knew he was talkling to stream enterers then why would he need to inspire them in this way? Would it not make more sense that he was considering that at least some of the people he was talking to would not be stream enterers? 
 
@@ -2445,7 +2445,7 @@ What is some evidence from the suttas that Buddha did not want puthujjanas to me
 ---
 
 **r/HillsideHermitage** | Posted by OppositeMountain176 _2024-09-26 16:52:12_
-### Is the culmination point the complete elimination of the second arrow? That is to say - the arrow can not / does not appear. Or is it more like a point when the second arrow does appear but there is perfect understanding of the mechanics of it and thus perfect equanimity in its midst? 
+### [Is the culmination point the complete elimination of the second arrow? That is to say - the arrow can not / does not appear. Or is it more like a point when the second arrow does appear but there is perfect understanding of the mechanics of it and thus perfect equanimity in its midst? ](https://www.reddit.com/r/HillsideHermitage/comments/1fq0y6e/is_the_culmination_point_the_complete_elimination/)
 
 
 
@@ -2460,7 +2460,7 @@ What is some evidence from the suttas that Buddha did not want puthujjanas to me
 ---
 
 **r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-09-24 04:55:47_
-### Rebirth, citta, mano, sankhara
+### [Rebirth, citta, mano, sankhara](https://www.reddit.com/r/HillsideHermitage/comments/1fo4omz/rebirth_citta_mano_sankhara/)
 
 Bhante Anigha,
 
@@ -2493,7 +2493,7 @@ Thank you 🙏
 ---
 
 **r/HillsideHermitage** | Posted by Unfair_Sink_3280 _2024-09-22 04:38:06_
-### Questions regarding not trying to get rid of the sense object or trying to cover up pain with "ideas, attitudes, and Information" while trying to restraint. PLEASE HELP!!!!
+### [Questions regarding not trying to get rid of the sense object or trying to cover up pain with "ideas, attitudes, and Information" while trying to restraint. PLEASE HELP!!!!](https://www.reddit.com/r/HillsideHermitage/comments/1fml81u/questions_regarding_not_trying_to_get_rid_of_the/)
 
 I understand that in the beginning, I will not be perfect, and I will try to either "overshoot the mark or undershoot the mark" as ajahn always says. I still need advice on this topic so I could be headed in the right direction:
 
@@ -2524,7 +2524,7 @@ THANK YOU bhante. my goal right now is to correctly establish in 5 precepts for 
 ---
 
 **r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-09-21 15:32:13_
-### Visiting HH / Samanadipa
+### [Visiting HH / Samanadipa](https://www.reddit.com/r/HillsideHermitage/comments/1fm5n5g/visiting_hh_samanadipa/)
 
 This summer, I am going on holiday to Slovenia with my wife and two daughters. This would be a good opportunity for me to visit HH and/or Samanadipa.
 
@@ -2564,7 +2564,7 @@ To this end, I would have a few questions:
 ---
 
 **r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-09-20 16:59:19_
-### The deathless (Thanissaro) 
+### [The deathless (Thanissaro) ](https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/)
 
 What is your opinion of Thanissaro's description of the deathless in the following video (first 10min):
 
@@ -2665,7 +2665,7 @@ It sounds to me like he is taking consciousness to be nibbana. Am I missing some
 ---
 
 **r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-09-19 16:00:13_
-### Mano/citta and the 5 aggregates
+### [Mano/citta and the 5 aggregates](https://www.reddit.com/r/HillsideHermitage/comments/1fkodls/manocitta_and_the_5_aggregates/)
 
 How does mano relate to the five aggregates? Is it the same as sankhara as in intentions/choices ? 
 
@@ -2684,7 +2684,7 @@ It's not easy to see the difference between the two because, in my experience, w
 ---
 
 **r/HillsideHermitage** | Posted by devot3e _2024-09-18 08:12:57_
-### What’s the alternative to willpower?
+### [What’s the alternative to willpower?](https://www.reddit.com/r/HillsideHermitage/comments/1fjnphj/whats_the_alternative_to_willpower/)
 
 For reference, I am a lay steward in a monastery. 
 
@@ -2720,7 +2720,7 @@ I feel confident to say that willpower is a finite resource. Willpower even chan
 ---
 
 **r/HillsideHermitage** | Posted by plucesiar _2024-09-17 23:13:50_
-### What is the difference between "hindrance" vs "fetter"?
+### [What is the difference between "hindrance" vs "fetter"?](https://www.reddit.com/r/HillsideHermitage/comments/1fje0cn/what_is_the_difference_between_hindrance_vs_fetter/)
 
 I was listening to the recent YouTube video on "Q&A - Freedom through the Right precepts", and around the [51:32 mark](https://youtu.be/wPr59OHLcrk?si=6XyHXC3rfomQJsVK&t=3092), Ajahn Nanamoli was talking about hindrance vs fetter, but I'm still not really following, other than the point that hindrances are more "fundamental", and hence fetters fall off first.  Can someone please clarify?  Thank you!
 
@@ -2731,7 +2731,7 @@ I was listening to the recent YouTube video on "Q&A - Freedom through the Right 
 ---
 
 **r/HillsideHermitage** | Posted by WaxyBloom _2024-09-17 14:49:40_
-### Does the Buddha recommend the eight precepts?
+### [Does the Buddha recommend the eight precepts?](https://www.reddit.com/r/HillsideHermitage/comments/1fj17ig/does_the_buddha_recommend_the_eight_precepts/)
 
 For the monks the Buddha says follow the Pāṭimokkha.  For lay followers he says the five precepts (with extra right speech sometimes).  The only place I see the eight precepts is on the uposatha.  Is that correct?
 
@@ -2762,7 +2762,7 @@ For the monks the Buddha says follow the Pāṭimokkha.  For lay followers he sa
 ---
 
 **r/HillsideHermitage** | Posted by robkhaw _2024-09-16 23:41:39_
-### Is the Puthujjana's meditation mere confinement?
+### [Is the Puthujjana's meditation mere confinement?](https://www.reddit.com/r/HillsideHermitage/comments/1fijs91/is_the_puthujjanas_meditation_mere_confinement/)
 
 I have noticed a recent trend in most modern meditation instruction which tries to "sell you" their specific brand or technique by emphasizing the pleasure of meditation. Either that pleasure is supposed to be immediate ("meditation should be fun", "you should want to meditate") or comes about as a consequence of diligent practice ("this method will eventually lead to jhana, which are very pleasurable states", "meditation will eventually increase your baseline happiness"). If this is not always stated so explicitly at the outset there remains a lingering assumption, at the very least on the part of the practitioners, that meditation should lead to pleasure.
 
@@ -2795,7 +2795,7 @@ Is this the right way of thinking about and practicing meditation? How does one 
 ---
 
 **r/HillsideHermitage** | Posted by Endmakerstruckdown _2024-09-16 02:04:00_
-### Would Venerable Anigha give some words on craving? 
+### [Would Venerable Anigha give some words on craving? ](https://www.reddit.com/r/HillsideHermitage/comments/1fhti64/would_venerable_anigha_give_some_words_on_craving/)
 
 If the Venerable were to give some words on craving, may he answer in any way. I'd be very grateful for the guidance. 
 
@@ -2835,7 +2835,7 @@ As long as one maintains what internal spirit, would a discriminating follower o
 ---
 
 **r/HillsideHermitage** | Posted by sallekha _2024-09-14 02:24:39_
-### Who are the ariyasāvakas?
+### [Who are the ariyasāvakas?](https://www.reddit.com/r/HillsideHermitage/comments/1fgc0ir/who_are_the_ariyasāvakas/)
 
 Hello everyone, is there any conclusive interpretation of what ariyasāvaka means in the suttas?
 Is there a meaningful distinction to be made with sutavā ariyasāvaka? Or has there been some sort of study on the ways these phrases are used?
@@ -2857,7 +2857,7 @@ Thank you for any light you could shed on this.
 ---
 
 **r/HillsideHermitage** | Posted by dhamma_ _2024-09-13 01:50:00_
-### Seeing things as things 
+### [Seeing things as things ](https://www.reddit.com/r/HillsideHermitage/comments/1ffjccw/seeing_things_as_things/)
 
 All things stand on equal footing, that is to say they are manifest. What ever is does not reach beyond that. What ever seems otherwise is not seen in its nature rather it's content is taken to be that which it implies.
 
@@ -2885,7 +2885,7 @@ I am wondering is this what is meant by "seeing a thing as a thing" phenomenolog
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-09-13 00:23:34_
-### Is this enough to make any eventual headway in renunciation?
+### [Is this enough to make any eventual headway in renunciation?](https://www.reddit.com/r/HillsideHermitage/comments/1ffhnsn/is_this_enough_to_make_any_eventual_headway_in/)
 
 I posted yesterday about my long standing addiction to distraction (watching videos online) and lying in bed for hours. Today after coming home from work, I decided I would make myself do things in order to not fall into the "I'm so tired from work and all I can do is lie down now" trap again. So, I took a shower and did some cleaning. 
 
@@ -2910,7 +2910,7 @@ Is this too small of a step to even be counted as moving in the right direction?
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-09-12 01:43:45_
-### Feeling tired as an excuse
+### [Feeling tired as an excuse](https://www.reddit.com/r/HillsideHermitage/comments/1fer47p/feeling_tired_as_an_excuse/)
 
 I've been in this pattern now for maybe a year or more, where I feel exhausted and then I just basically become really lazy and give up on my intentions of practicing renunciation. This is in regards to over indulging in sleep or relaxation (like just laying around basically) and that leads to entertainment. I suppose I realize that the only way to get out of this pattern is to stop playing it out every time the tiredness or exhaustion arises, but it's like a whole chain or set of behaviors that seem to just play out.
 
@@ -2944,7 +2944,7 @@ The path seems very hard now. I see my main work as developing more in renunciat
 ---
 
 **r/HillsideHermitage** | Posted by upasakatrainee _2024-09-11 12:34:10_
-### Provoking the right anxiety
+### [Provoking the right anxiety](https://www.reddit.com/r/HillsideHermitage/comments/1fe8zqo/provoking_the_right_anxiety/)
 
 u/Bhikkhu_Anigha
 
@@ -2998,7 +2998,7 @@ Thanks in advance !
 ---
 
 **r/HillsideHermitage** | Posted by hotoke_follower _2024-09-11 11:46:02_
-### Question about Phassa
+### [Question about Phassa](https://www.reddit.com/r/HillsideHermitage/comments/1fe83hq/question_about_phassa/)
 
 [removed]
 
@@ -3011,7 +3011,7 @@ Thanks in advance !
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-09-10 01:39:59_
-### Teachings of Thanissaro Bhikkhu
+### [Teachings of Thanissaro Bhikkhu](https://www.reddit.com/r/HillsideHermitage/comments/1fd6gcy/teachings_of_thanissaro_bhikkhu/)
 
 I often listen to dhamma talks by Thanissaro Bhikkhu and I have practiced his meditation methods in the past (though not regularly). Does he stay pretty consistent with the suttas when he speaks about Dhamma? I have only just begun reading the suttas on my own, and have to admit that they are difficult to understand unless I spend additional time finding online talks explaining them afterwards.
 
@@ -3028,7 +3028,7 @@ I often listen to dhamma talks by Thanissaro Bhikkhu and I have practiced his me
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-09-08 15:11:34_
-### Can I please get some honest feedback on something I likely am not seeing clearly?
+### [Can I please get some honest feedback on something I likely am not seeing clearly?](https://www.reddit.com/r/HillsideHermitage/comments/1fc01mf/can_i_please_get_some_honest_feedback_on/)
 
 This has to do with the 6th precept and observing it "to the letter" vs "in spirit" and I'm sorry but it's a long post:
 
@@ -3061,7 +3061,7 @@ I also apologize if this was not the most coherent and well organized post. I wa
 ---
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-09-08 12:35:51_
-### Stepwise Training
+### [Stepwise Training](https://www.hillsidehermitage.org/stepwise-training/)
 
 
 
@@ -3095,7 +3095,7 @@ I also apologize if this was not the most coherent and well organized post. I wa
 ---
 
 **r/HillsideHermitage** | Posted by knwp7 _2024-09-06 13:55:16_
-### The axe-handle has finally worn out.
+### [The axe-handle has finally worn out.](https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/)
 
 The axe-handle has finally worn out.
 
@@ -3242,7 +3242,7 @@ edit: current status: I am not looking to progress to/in jhanas or in vipassana.
 ---
 
 **r/HillsideHermitage** | Posted by Handsome_God123 _2024-09-05 08:29:19_
-### I Still Don't Understand about Sotapanna
+### [I Still Don't Understand about Sotapanna](https://www.reddit.com/r/HillsideHermitage/comments/1f9hffn/i_still_dont_understand_about_sotapanna/)
 
 Hi brothers and sisters in dhamma. Sometime ago another member of this subreddit made a post about the suffering of Sotapnna, I read the thread and I saw how Bhikku Anigha gave very interesting answer and it leads to me having more question.
 
@@ -3298,7 +3298,7 @@ I hope Bhikku Anigha can give answers, and you guys who are more experienced can
 ---
 
 **r/HillsideHermitage** | Posted by plucesiar _2024-09-03 20:09:58_
-### To what extent should "I" assume responsibility for phenomena arising in my experience?
+### [To what extent should "I" assume responsibility for phenomena arising in my experience?](https://www.reddit.com/r/HillsideHermitage/comments/1f89y5q/to_what_extent_should_i_assume_responsibility_for/)
 
 When I can sense my mind in an unwholesome state (e.g., lust, anger, laziness, and so on), to what extent should I assume responsibility for causing to arise vs perceiving it as "un-ownable"?  Or perhaps is responsibility for vs un-ownable different things, or is this altogether a wrong line of questioning?
 
@@ -3324,7 +3324,7 @@ On a meta level, I'm also trying to reconcile "I am the owner of my actions" (ka
 ---
 
 **r/HillsideHermitage** | Posted by noobknoob _2024-08-27 15:29:42_
-### Do we have control over "wanting of the wanting"?
+### [Do we have control over "wanting of the wanting"?](https://www.reddit.com/r/HillsideHermitage/comments/1f2jyr4/do_we_have_control_over_wanting_of_the_wanting/)
 
 https://youtu.be/_ttVxzlzlj0?si=IoAf5KlD_GzN8V0N
 
@@ -3373,7 +3373,7 @@ I have a similar question about upadana. Is upadana a phenomena (Dhamma)? What d
 ---
 
 **r/HillsideHermitage** | Posted by Benjifish69 _2024-08-25 08:13:30_
-### Magga & Phala, Right View, Stream Entry and faith/dhamma followers - regarding recent events
+### [Magga & Phala, Right View, Stream Entry and faith/dhamma followers - regarding recent events](https://www.reddit.com/r/HillsideHermitage/comments/1f0rgzb/magga_phala_right_view_stream_entry_and/)
 
 What if we take the interpretation that Right View is something different from Stream Entry?
 Hear my out here.
@@ -3449,7 +3449,7 @@ If these great sal trees could understand what was well said and poorly said, I�
 ---
 
 **r/HillsideHermitage** | Posted by Chemical-Medium4316 _2024-08-25 08:13:27_
-### Another yoniso manisikara question...
+### [Another yoniso manisikara question...](https://www.reddit.com/r/HillsideHermitage/comments/1f0rgyl/another_yoniso_manisikara_question/)
 
 So it was thinking. What is the existential manifestation of yoniso manisikara? So I thought let's say I have the hinderance of remorse arise I have two smoke a cigarette or don't smoke and just endure it the way it's supposed to be endured (from the not personal point of view which can be bodily activity)... so sister medhini said in a video before that a non sensual thought is the thought of the danger of sensuality. As in the good thought is manifested negatively not as an object you can attend to.
 
@@ -3466,7 +3466,7 @@ Back to the example. A hinderance has arisen, I know if I cover it up il I won't
 ---
 
 **r/HillsideHermitage** | Posted by Altruistic_Guard_251 _2024-08-23 15:04:27_
-### A Sotāpanna's Suffering
+### [A Sotāpanna's Suffering](https://www.reddit.com/r/HillsideHermitage/comments/1ezf1p7/a_sotāpannas_suffering/)
 
 Hello everyone!
 
@@ -3691,7 +3691,7 @@ Again, it is not my intention to be dismissive of anyone, or wanting to criticiz
 ---
 
 **r/HillsideHermitage** | Posted by RighteousPistachio _2024-08-23 08:00:00_
-### Seeing the Mind
+### [Seeing the Mind](https://m.youtube.com/watch?v=y7pKJXbxaro)
 
 
 
@@ -3714,7 +3714,7 @@ Again, it is not my intention to be dismissive of anyone, or wanting to criticiz
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-08-23 01:29:54_
-### Rebirth, Kamma, and what is even the point?
+### [Rebirth, Kamma, and what is even the point?](https://www.reddit.com/r/HillsideHermitage/comments/1ez0fut/rebirth_kamma_and_what_is_even_the_point/)
 
 Early on in my Buddhist practice, the teachings on non-self, rebirth, and kamma were something I easily accepted. Perhaps because I came from a non-religious background so did not have an opposing world view to counter those teachings.
 
@@ -3776,7 +3776,7 @@ Also I'm watching this and it's bringing up a lot of questions
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-08-20 13:11:34_
-### Noting Meditation 
+### [Noting Meditation ](https://www.reddit.com/r/HillsideHermitage/comments/1ewv66l/noting_meditation/)
 
 Greetings everyone. Would the Mahasi Sayadaw's meditation technique of mental noting experiences and phenomenon be considered a valid meditation within the framework of what the Buddha himself taught and said about meditation? If so, how? If not, why not? 
 
@@ -3973,7 +3973,7 @@ Thank you all for any input.
 ---
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-08-19 10:26:28_
-### Essay: Developing Stream Entry
+### [Essay: Developing Stream Entry](https://www.hillsidehermitage.org/developing-stream-entry/)
 
 
 
@@ -4022,7 +4022,7 @@ Thank you all for any input.
 ---
 
 **r/HillsideHermitage** | Posted by StriderLF _2024-08-19 01:05:32_
-### When is it Upekkha and when is it laziness? 
+### [When is it Upekkha and when is it laziness? ](https://www.reddit.com/r/HillsideHermitage/comments/1evp82l/when_is_it_upekkha_and_when_is_it_laziness/)
 
  I've been trying to develop Upekkha, but very often remaining equanimous to certain things has a flavor of just being lazy or of the "it's going to be fine anyway" wrong view. How can I tell the difference between Upekkha and just wishful thinking that everything will be fine? 
 
@@ -4044,7 +4044,7 @@ Thank you all for any input.
 ---
 
 **r/HillsideHermitage** | Posted by jareddun _2024-08-15 15:45:38_
-### Restraint and discipline is tiring me?
+### [Restraint and discipline is tiring me?](https://www.reddit.com/r/HillsideHermitage/comments/1esyjg6/restraint_and_discipline_is_tiring_me/)
 
 I've since forever felt this resistance to restraint in my daily life. No matter what it is, "something" starts to feel bad after I've restrained myself for a while. Sometimes, it's to the point that I've felt that I'll die of a heart attack or something.
 
@@ -4063,7 +4063,7 @@ So starting today, what I can do to improve? How can I stand against the pull of
 ---
 
 **r/HillsideHermitage** | Posted by wisecameron _2024-08-15 07:31:38_
-### Enduring the pressure correctly
+### [Enduring the pressure correctly](https://www.reddit.com/r/HillsideHermitage/comments/1esp5sp/enduring_the_pressure_correctly/)
 
 Let's say, as a really simple example, that I am sitting down and not engaging with anything else on an external level.  Just sitting still, that's it.  And then, I have a really strong urge to stand up.  I'm using this example because it's so simple, this could equally apply to more coarse situations like an urge to smoke cigarettes.
 
@@ -4088,7 +4088,7 @@ To rephrase what I said above - when I'm met with an unpleasant abiding, I know 
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-08-06 16:42:41_
-### Logic behind restraint and non-restraint
+### [Logic behind restraint and non-restraint](https://www.reddit.com/r/HillsideHermitage/comments/1elmlvg/logic_behind_restraint_and_nonrestraint/)
 
 I've heard multiple times that giving into craving further perpetuates it. Why is that the case? I understand that intuitively through empirical observations, but there's still a sense of doubt with regards to it. Also, is abstinence supposed to naturally ward off the craving? Similarly, why?
 
@@ -4122,7 +4122,7 @@ Say there's a pleasant prospect present, the recognition of that prospect is fel
 ---
 
 **r/HillsideHermitage** | Posted by DaNiEl880099 _2024-08-06 08:36:11_
-### Am I practicing the right way?
+### [Am I practicing the right way?](https://www.reddit.com/r/HillsideHermitage/comments/1elckwf/am_i_practicing_the_right_way/)
 
 My practice is to be relaxed and at ease with the right attitude and awareness of what is happening. The attitude I am talking about is the one that allows me to tolerate what is occurring in the present moment without any aversion to it or strong desire. I try to develop this type of awareness constantly. I also develop this awareness by asking questions.
 
@@ -4141,7 +4141,7 @@ Is it worth continuing this practice if there are results in improving morality 
 ---
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-08-03 09:02:08_
-### The Four Noble Truths are One Insight (SN 56.30)
+### [The Four Noble Truths are One Insight (SN 56.30)](https://suttas.hillsidehermitage.org/?q=sn56.30)
 
 
 
@@ -4165,7 +4165,7 @@ Is it worth continuing this practice if there are results in improving morality 
 ---
 
 **r/HillsideHermitage** | Posted by sallekha _2024-07-25 21:17:11_
-### Step by step?
+### [Step by step?](https://www.reddit.com/r/HillsideHermitage/comments/1ec6a9u/step_by_step/)
 
 As I currently understand what you are teaching about the gradual training, it is necessary to go step by step in the correct order so as not to unconsciously engage in dukkha management. What I am having trouble understanding is how moderation in eating comes after sense restraint, since isn't immoderate eating (with sensuality at least) tainted with "grasping at the signs and features"? Or is this stage mainly to purify the other unskillful motives for eating (bulking up, beautification)? Also, if lack of accomplishment in virtue basically includes acting on \*any\* unskillful motives through body or speech, wouldn't improper eating already be filtered out through that? Or if not then, through sense restraint? What am I missing?
 
@@ -4202,7 +4202,7 @@ As I currently understand what you are teaching about the gradual training, it i
 ---
 
 **r/HillsideHermitage** | Posted by sallekha _2024-07-25 21:15:52_
-### Questions on Jhāna
+### [Questions on Jhāna](https://www.reddit.com/r/HillsideHermitage/comments/1ec693c/questions_on_jhāna/)
 
 Is it not theoretically possible that one could attain jhāna without having gone through the gradual training (e.g. Prince Siddhartha as a young boy, or various devatas)? As such would it be legitimately jhāna but (not being rooted in the complete gradual training and achieved, say, through meditation techniques) simply more dependent on certain conditions (birth in heaven, being on a meditation retreat) and therefore less useful for total release. Or in your view is anyone who attains such a state not truly secluded from unwholesome states and therefore not in jhāna even though they might think they are? In other words, is it possible that using the gradual training as the basis for samādhi is not the only way to reach jhāna but simply the way the Buddha taught it for the sake of permanent freedom? Thank for taking the time.
 
@@ -4232,7 +4232,7 @@ Is it not theoretically possible that one could attain jhāna without having gon
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-07-22 16:37:33_
-### How difficult is it for a sotapanna to reach sakadagami or anagami?
+### [How difficult is it for a sotapanna to reach sakadagami or anagami?]()
 
 [deleted]
 
@@ -4274,7 +4274,7 @@ Is it not theoretically possible that one could attain jhāna without having gon
 ---
 
 **r/HillsideHermitage** | Posted by LeUne1 _2024-07-22 07:24:38_
-### What does "self" mean?
+### [What does "self" mean?](https://www.reddit.com/r/HillsideHermitage/comments/1e987lc/what_does_self_mean/)
 
 The average secular or atheistic westerner understands that we're made of components, and that the body regulates itself, they know and agree that we're a bunch of chemicals that can be altered with drugs as many take antidepressants, yet they still believe in a self. So what does self actually mean, both in the real world and suttas?
 
@@ -4315,7 +4315,7 @@ So if someone insists that they have a self, all I have to ask is "do you get bo
 ---
 
 **r/HillsideHermitage** | Posted by abuddhistview _2024-07-21 23:17:31_
-### New site for suttas + epubs for Ven. Akincano's and Bhante Anigha's writings
+### [New site for suttas + epubs for Ven. Akincano's and Bhante Anigha's writings](https://www.reddit.com/r/HillsideHermitage/comments/1e8zizv/new_site_for_suttas_epubs_for_ven_akincanos_and/)
 
 I've been working on a new site to read the read the suttas that I thought I'd share here. It started out just as a place where I could read translations from both Bhikkhu Bodhi and Thanissaro, who were my preferred translators at the time, but since then Bhante Anigha started sharing his excellent translations, so I've them as well. 
 
@@ -4340,7 +4340,7 @@ Let me know if there's anything specific you'd find helpful. I'll be adding quit
 ---
 
 **r/HillsideHermitage** | Posted by Napoletano_Azzurro _2024-07-19 17:52:06_
-### Satipatthana - internal, external, both internal and external.
+### [Satipatthana - internal, external, both internal and external.](https://www.reddit.com/r/HillsideHermitage/comments/1e79wsy/satipatthana_internal_external_both_internal_and/)
 
 Friends,
 
@@ -4393,7 +4393,7 @@ As always, I am very grateful for any elucidation, May you all be well.
 ---
 
 **r/HillsideHermitage** | Posted by Altruistic_Guard_251 _2024-07-19 11:27:10_
-### A Note on Etymology (and Semantics, I guess)
+### [A Note on Etymology (and Semantics, I guess)](https://www.reddit.com/r/HillsideHermitage/comments/1e71ewd/a_note_on_etymology_and_semantics_i_guess/)
 
 I like to take a few comments in the other thread as an occasion of saying something about the place of etymology, word-derivation, and semantics in understanding the meaning of (Pāli) words. 
 
@@ -4461,7 +4461,7 @@ Yes, indeed. Only the attempt to rely solely on etymology in order to rectify th
 ---
 
 **r/HillsideHermitage** | Posted by upasakatrainee _2024-07-18 05:51:40_
-### Kusala Citta vs. Sukha Vedana
+### [Kusala Citta vs. Sukha Vedana](https://www.reddit.com/r/HillsideHermitage/comments/1e6434y/kusala_citta_vs_sukha_vedana/)
 
 As Ajahn often instructs, the overaching mood that one is under the influence of, is a close approximation to what the citta is at the time. In what way does one then distinguish a 'gladdened mind' or an 'elated mind' ; from a pleasant feeling.
 
@@ -4478,7 +4478,7 @@ Thank you.
 ---
 
 **r/HillsideHermitage** | Posted by onthepath98 _2024-07-17 19:34:24_
-### Asking for help
+### [Asking for help](https://www.reddit.com/r/HillsideHermitage/comments/1e5r58m/asking_for_help/)
 
 Hello everyone,
 
@@ -4502,7 +4502,7 @@ I have this constant background noise regarding decision this every day and have
 ---
 
 **r/HillsideHermitage** | Posted by Altruistic_Guard_251 _2024-07-17 13:19:53_
-### On Withstanding the Defilements
+### [On Withstanding the Defilements](https://www.reddit.com/r/HillsideHermitage/comments/1e5i0zr/on_withstanding_the_defilements/)
 
 Hello everyone,
 
@@ -4596,7 +4596,7 @@ What are your thoughts on this? If I should have misrepresented Ajahn Nyanamoli'
 ---
 
 **r/HillsideHermitage** | Posted by serculis _2024-07-16 14:26:43_
-### My circumstances, and ordination. Gratefully asking for advice.
+### [My circumstances, and ordination. Gratefully asking for advice.](https://www.reddit.com/r/HillsideHermitage/comments/1e4q0og/my_circumstances_and_ordination_gratefully_asking/)
 
 I am a psychology graduate living in the UK. Have gone through abuse most of my life and only gotten my freedom 2.5 years ago. Originally wanted to go into a career of mental health. Had an on-off secular meditation practice of 7 years. Used to be nostril-watcher but changed as I had to cultivate better behaviours to overcome trauma.
 
@@ -4657,7 +4657,7 @@ Thank you for reading, sorry for the long post, I appreciate any comments or poi
 ---
 
 **r/HillsideHermitage** | Posted by anansi1_ _2024-07-16 13:16:09_
-### Path Press recommended reading
+### [Path Press recommended reading](https://www.reddit.com/r/HillsideHermitage/comments/1e4odxk/path_press_recommended_reading/)
 
 I'm interested in reading the writings of Ajahn Nyanamoli Thero, but I've heard 'Meanings,' in particular, can be quite challenging. Is this true? If so, are there any other books on the Path Press Publications website that can help me understand 'Meanings' or any of his other books better?
 
@@ -4679,7 +4679,7 @@ Thanks in advance for any recommendations! I really appreciate the help.
 ---
 
 **r/HillsideHermitage** | Posted by Akalika_Username _2024-07-14 17:34:16_
-### Some assistance with understanding the “extent” of defilements?
+### [Some assistance with understanding the “extent” of defilements?](https://www.reddit.com/r/HillsideHermitage/comments/1e381ej/some_assistance_with_understanding_the_extent_of/)
 
 It is my understanding that defilements are maintained by ignorance, so understanding them – their “extent” or entire domain – results in their abandonment right there and then. We cannot understand something and be ignorant of it at the same time. The mind infected with greed is actively maintaining its infection through ignorance of that activity. Seeing the sign of the mind infected with greed means recognizing that greediness is a detrimental overlay, something inflicted on experience by the assumed ownership of the untamed citta’s inclination toward a sense object. The Right View includes the recognition of how defilements cannot defile the mind without the false belief that they can. Until the full extent of defilements is recognized, any recognition of a defilement will disguise the defilement that underlies that recognition as its background and context. For example, even our attempt to peripherally apprehend the mind of greed may be done with aversion because we cannot discern what is simultaneously present. 
 
@@ -4711,7 +4711,7 @@ Thanks in advance to anyone who takes the time to reply.
 ---
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-07-13 19:01:31_
-### On “Thinking about Jhāna” by Ven. Thanissaro
+### [On “Thinking about Jhāna” by Ven. Thanissaro](https://www.reddit.com/r/HillsideHermitage/comments/1e2hztc/on_thinking_about_jhāna_by_ven_thanissaro/)
 
 I discovered [this recent writing](https://www.dhammatalks.org/books/HeartFlowing/06-thinking-about-jhana.html) by Ven. Ṭhānissaro that attempts to disprove some of the points I made in my essay about the jhānas (not sure if deliberately), and so I decided to address the main remarks made there because it serves as an opportunity to better articulate and expand upon the essence of what I originally wrote. It’s not necessary to be familiar with the original essay to comprehend the following.
 
@@ -4900,7 +4900,7 @@ Lastly, it must be emphasized that the actual Sutta jhānas are not "lite jhāna
 ---
 
 **r/HillsideHermitage** | Posted by upasakatrainee _2024-07-07 06:50:26_
-### Citta "being-in-relation-to" phenomena
+### [Citta "being-in-relation-to" phenomena](https://www.reddit.com/r/HillsideHermitage/comments/1dxabl7/citta_beinginrelationto_phenomena/)
 
 Dear Bhante Anigha,
 
@@ -4928,7 +4928,7 @@ Thanks in advance for your clarification 🙏
 ---
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-06-29 03:31:44_
-### Is Painful Practice Avoidable?
+### [Is Painful Practice Avoidable?](http://suttas.hillsidehermitage.org/?q=an4.162)
 
 
 
@@ -4945,7 +4945,7 @@ Thanks in advance for your clarification 🙏
 ---
 
 **r/HillsideHermitage** | Posted by VitakkaVicara _2024-06-21 22:16:32_
-### For Ven. Anigha.  What is Pali/Sanskrit term for "Context"?
+### [For Ven. Anigha.  What is Pali/Sanskrit term for "Context"?](https://www.reddit.com/r/HillsideHermitage/comments/1dlg93a/for_ven_anigha_what_is_palisanskrit_term_for/)
 
 Venerable Anigha,  (or anyone who knows).
 
@@ -4968,7 +4968,7 @@ Thank you!
 ---
 
 **r/HillsideHermitage** | Posted by kidfromdeliverance _2024-06-21 19:51:28_
-### Can someone define the word “context” as used in the HH videos?
+### [Can someone define the word “context” as used in the HH videos?](https://www.reddit.com/r/HillsideHermitage/comments/1dlcxyq/can_someone_define_the_word_context_as_used_in/)
 
 It seems as if the term is referring to a specific parameter of “context”, phenomenological, ethical, dhammic, etc., but each time I think I understand, I encounter a video that seems to have a different nuance to it. Any clarification will be appreciated. 
 
@@ -5017,7 +5017,7 @@ It seems as if the term is referring to a specific parameter of “context”, p
 ---
 
 **r/HillsideHermitage** | Posted by wisecameron _2024-06-21 18:38:26_
-### Clarification regarding HH descriptions of MN10
+### [Clarification regarding HH descriptions of MN10](https://www.reddit.com/r/HillsideHermitage/comments/1dlb8gi/clarification_regarding_hh_descriptions_of_mn10/)
 
 Note: I am posting this on request from Venerable Anigha, who will post his response at some point soon.  The perspective I outlined here is, after reading his response, obviously derived from more contemporary perspectives of anapanasati.  I think it's pretty easy to see how I built up this perspective regarding what Ajahn Nyanamoli is talking about, and Venerable Anigha does a great job of explaining why it is incorrect.  From my own experience, what I've outlined here more or less feels like juggling -- he brought up the simile of the mountain cow, and its relevance is quite obvious.  My perspective was obviously wrong somewhere, but without giving up the idea of "moving" from point A to B to C, etc, I don't think I would have ever come around to what is actually meant.  I think that this post -- and his response -- will be very useful for clearing up wrong notions about the practice of anapanasati, especially since I've dove pretty deep into the wrong pond.   With all that said, feel free to contribute your own thoughts about anything I've said, the only goal here is to learn and hopefully help others to connect the dots as well - I'm sure the perspective I've outlined here will be shared by some readers to varying extents (and to many, be obviously incorrect, in which case your input is especially encouraged).
 
@@ -5073,7 +5073,7 @@ So overall, it seems like we have two categories of "calming" 1) The sutta descr
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-06-19 14:57:39_
-### Why does HH and it's followers seem to be anti-meditation?
+### [Why does HH and it's followers seem to be anti-meditation?](https://www.reddit.com/r/HillsideHermitage/comments/1djl80a/why_does_hh_and_its_followers_seem_to_be/)
 
 I am trying to understand if they are just critical of some types of meditation, or are against meditation practice as a whole.
 
@@ -5110,7 +5110,7 @@ I am trying to understand if they are just critical of some types of meditation,
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-06-18 19:16:40_
-### Precepts
+### [Precepts]()
 
 [deleted]
 
@@ -5125,7 +5125,7 @@ I am trying to understand if they are just critical of some types of meditation,
 ---
 
 **r/HillsideHermitage** | Posted by meshinthesky _2024-06-16 05:37:27_
-### Questions on the yoniso manasikāra essay
+### [Questions on the yoniso manasikāra essay](https://www.reddit.com/r/HillsideHermitage/comments/1dh0r27/questions_on_the_yoniso_manasikāra_essay/)
 
 >The puthujjana lacks even the correct understanding of what yoniso manasikāra is - ayoniso manasikāra is the very reason for his self-view.
 
@@ -5196,7 +5196,7 @@ pd: the footnote 11 (https://www.youtube.com/watch?v=Y5\_57craC) is incorrect li
 ---
 
 **r/HillsideHermitage** | Posted by fe_feron _2024-06-15 09:35:54_
-### Extent of precepts leading to sense restraint
+### [Extent of precepts leading to sense restraint](https://www.reddit.com/r/HillsideHermitage/comments/1dge9za/extent_of_precepts_leading_to_sense_restraint/)
 
 In the comments on a [recent post](https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/), u/Bhikkhu_Anigha wrote:
 
@@ -5228,7 +5228,7 @@ Or does understanding "I am not declining away from wholesome" imply that one ne
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-06-14 10:39:31_
-### Signs and features & hints of the mind
+### [Signs and features & hints of the mind](https://www.reddit.com/r/HillsideHermitage/comments/1dfnthv/signs_and_features_hints_of_the_mind/)
 
 Hello, could you help me shed some light on this please: are the "signs and features" and "hints/signs of the mind" totally different things that should not be put in the same bag or are they two sides of the same coin?
 
@@ -5257,7 +5257,7 @@ How should it be understood?
 ---
 
 **r/HillsideHermitage** | Posted by DrugstoreCowboy22 _2024-06-11 16:59:06_
-### question about withdrawal from sensuality
+### [question about withdrawal from sensuality](https://www.reddit.com/r/HillsideHermitage/comments/1ddj3o1/question_about_withdrawal_from_sensuality/)
 
 So let me get this straight, when I try my best to avoid welcoming sensuality, and certain perceptions come and torment me, that is not some "energy" that is building up and that I need to release in some way, but rather the extent of infestation of my own addiction to sensuality, right? Sort of like the tide going away and revealing all the things that were underneath, the depravations, the strange beliefs, the neurotic compulsions. All the things that lived rent-free because of my addiction and gratifying of sensuality that made me unaware to them, numb to them. Am I on the right track here?
 
@@ -5291,7 +5291,7 @@ So let me get this straight, when I try my best to avoid welcoming sensuality, a
 ---
 
 **r/HillsideHermitage** | Posted by noobknoob _2024-06-08 10:47:44_
-### Is Craving a Dhamma?
+### [Is Craving a Dhamma?](https://www.reddit.com/r/HillsideHermitage/comments/1db066g/is_craving_a_dhamma/)
 
 Trying to understand what 'Dhamma' (when translated as 'phenomena') actually means. What's the necessary condition for something to be called a Dhamma? 
 
@@ -5316,7 +5316,7 @@ Thanks.
 ---
 
 **r/HillsideHermitage** | Posted by craveminerals _2024-06-05 18:34:07_
-### “Rebirth by choice”? 
+### [“Rebirth by choice”? ](https://www.reddit.com/r/HillsideHermitage/comments/1d8x7rc/rebirth_by_choice/)
 
 
 
@@ -5385,7 +5385,7 @@ Furthermore, take a mendicant who has faith, ethics, learning, generosity, and w
 ---
 
 **r/HillsideHermitage** | Posted by CleanExtension7796 _2024-06-05 17:07:37_
-### Why is the joy of relief absent?
+### [Why is the joy of relief absent?](https://www.reddit.com/r/HillsideHermitage/comments/1d8v4a6/why_is_the_joy_of_relief_absent/)
 
 I’ve been keeping the precepts, practicing contentment with little, not delighting in company, dwelling alone the majority of the time. There aren’t many actions anymore either, by body or speech, as I’ve seen so many are rooted in unwholesome intentions or distraction. I’ve been reading and rereading suttas and the essays and they are straightforward, directly applicable to me.
 
@@ -5449,7 +5449,7 @@ Thank you in advance to anyone who makes a comment. This may be something one ca
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-06-05 07:53:04_
-### Pressure, craving, acting out of mind
+### [Pressure, craving, acting out of mind](https://www.reddit.com/r/HillsideHermitage/comments/1d8keg1/pressure_craving_acting_out_of_mind/)
 
 To the question:
 
@@ -5482,7 +5482,7 @@ Is this understanding correct?
 ---
 
 **r/HillsideHermitage** | Posted by serculis _2024-06-01 15:50:55_
-### Help me understand the phenomenology of wanting unpleasant feelings (contains self-harming)
+### [Help me understand the phenomenology of wanting unpleasant feelings (contains self-harming)](https://www.reddit.com/r/HillsideHermitage/comments/1d5pzsc/help_me_understand_the_phenomenology_of_wanting/)
 
 From my understanding, if something is unpleasant, there is always a wanting to get rid of it. If something is pleasant, there is always a wanting to obtain it. Even if you have someone who says "no, I like being depressed, I feel comfortable in this emotion, it's all I've ever known" then *that* right there is a pleasant feeling that is wanted, or rather, the idea of being content provokes a feeling of uncertainty which is unpleasant and there is craving to get away from it. So from what I understand, unpleasant feeling exists on a scale, and less-unpleasant feelings are deemed desirable, or 'pleasant', and if one does not know this properly, you can easily get confused thinking you sometimes want unpleasant feeling which can only be a contradiction.
 
@@ -5526,7 +5526,7 @@ And I just want to repeat that in those 3 years of not doing it, the "wanting of
 ---
 
 **r/HillsideHermitage** | Posted by obobinde _2024-05-30 15:43:55_
-### What is wakefulness ?
+### [What is wakefulness ?](https://www.reddit.com/r/HillsideHermitage/comments/1d473w0/what_is_wakefulness/)
 
 Often in sutta we encounter the adjective "wakeful" and I wondered how we should understand it since sampajanna covers awareness (reflexive attitude) and sati recollectedness ? Is it an incentive to not be lethargic or to not oversleep or is it pointing at a deeper meaning. ?
 
@@ -5539,7 +5539,7 @@ Often in sutta we encounter the adjective "wakeful" and I wondered how we should
 ---
 
 **r/HillsideHermitage** | Posted by Print-Remarkable _2024-05-29 15:55:43_
-### The Digha difference 
+### [The Digha difference ](https://www.reddit.com/r/HillsideHermitage/comments/1d3fky3/the_digha_difference/)
 
 Been spending some time in the Digha recently and besides the obvious difference in length I’ve noticed a few other things. How are the descriptions of previous Buddhas and the markings of a Buddha significant in realizing right view? We don’t seem to touch upon these things in the Hillside community or very rarely. 
 
@@ -5552,7 +5552,7 @@ Been spending some time in the Digha recently and besides the obvious difference
 ---
 
 **r/HillsideHermitage** | Posted by Difficult-Strain-580 _2024-05-29 14:28:31_
-### Question : Unyoked from biology
+### [Question : Unyoked from biology](https://www.reddit.com/r/HillsideHermitage/comments/1d3dk4i/question_unyoked_from_biology/)
 
 I have a question about Bhikkhu Anigha's latest post titled "Unyoked from biology" on the HH website. 
 
@@ -5605,7 +5605,7 @@ Also looking at the citta in this way, doesn't it sound like it is that citta th
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-05-29 03:12:42_
-### Sense restraint, how hard to push, what about when I mess up?
+### [Sense restraint, how hard to push, what about when I mess up?](https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/)
 
 Lately my Buddhist practice has evolved from very meditation-centric, to now including other aspects of the path. For example, I have been practicing more generosity, kindness, metta, dhana at the monestary, and... sense restraint. I find that I'm very critical of myself when it comes to practicing sense restraint, because in my way of thinking, it's a practice of NOT doing certain things. Whereas, metta, dhana, being kind to others and that sort of thing is a practice of remembering to do things, and even if I just do a little bit I reflect on the goodness of it and that makes me feel good. 
 But when it comes to sense restraint, I feel like I'm constantly second guessing my resolve. I determine to refrain from things, the pressure of boredom or craving gets too strong to bare, and I give in sometimes. Then I feel pretty terrible. I feel like I'm now caught in a pattern similar to addiction, and I don't think my approach has been very healthy or helpful to me. Can someone please take the time to explain to me an example of a gradual training in sense restraint? 
@@ -5647,7 +5647,7 @@ But when it comes to sense restraint, I feel like I'm constantly second guessing
 ---
 
 **r/HillsideHermitage** | Posted by meshinthesky _2024-05-28 07:33:00_
-### How to contemplate dullness and drowsiness without falling sleep
+### [How to contemplate dullness and drowsiness without falling sleep](https://www.reddit.com/r/HillsideHermitage/comments/1d2dsrn/how_to_contemplate_dullness_and_drowsiness/)
 
 Compared to the other four hindrances, I'm having hard time with drowsiness. I'm talking in general, not just in the context of sitting meditation, which I do with opened eyes.
 
@@ -5708,7 +5708,7 @@ Any suggestion to address this topic? I have read quite a bunch of material on t
 ---
 
 **r/HillsideHermitage** | Posted by like_a_raft _2024-05-25 07:55:59_
-### The dangers and compromises of the crowded and dusty household life
+### [The dangers and compromises of the crowded and dusty household life](https://www.reddit.com/r/HillsideHermitage/comments/1d06zkf/the_dangers_and_compromises_of_the_crowded_and/)
 
 Greetings,
 
@@ -5877,7 +5877,7 @@ Thank you for your attention and insights, may you all progress steadily in the 
 ---
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-05-24 06:04:48_
-### Dhamma Essay: Unyoked from Biology
+### [Dhamma Essay: Unyoked from Biology](https://www.hillsidehermitage.org/unyoked-from-biology/)
 
 
 
@@ -5976,7 +5976,7 @@ Thank you for your attention and insights, may you all progress steadily in the 
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-05-20 19:54:23_
-### [deleted by user]
+### [[deleted by user]]()
 
 [removed]
 
@@ -5989,7 +5989,7 @@ Thank you for your attention and insights, may you all progress steadily in the 
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-05-20 19:16:32_
-### [deleted by user]
+### [[deleted by user]]()
 
 [removed]
 
@@ -6006,7 +6006,7 @@ Thank you for your attention and insights, may you all progress steadily in the 
 ---
 
 **r/HillsideHermitage** | Posted by ComprehensivePin6440 _2024-05-19 18:23:48_
-### A post worthy of revisiting ft Bhikkhu Anigha
+### [A post worthy of revisiting ft Bhikkhu Anigha](https://www.reddit.com/r/HillsideHermitage/s/eBgvI12Cbx)
 
 
 
@@ -6033,7 +6033,7 @@ Thank you for your attention and insights, may you all progress steadily in the 
 ---
 
 **r/HillsideHermitage** | Posted by obobinde _2024-05-14 15:59:53_
-### Mind is the maker of all things ?
+### [Mind is the maker of all things ?](https://www.reddit.com/r/HillsideHermitage/comments/1crvor3/mind_is_the_maker_of_all_things/)
 
 After watching this [short video](https://www.youtube.com/watch?v=YndVvyOcymQ) about the first Dhammapada verse from HH, it got me wondering.
 
@@ -6076,7 +6076,7 @@ In fewer words :
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-05-05 16:15:41_
-### Withdrawal of Life Support equivalent to killing?
+### [Withdrawal of Life Support equivalent to killing?]()
 
 [deleted]
 
@@ -6100,7 +6100,7 @@ In fewer words :
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-05-05 12:36:15_
-### MN20 and management
+### [MN20 and management](https://www.reddit.com/r/HillsideHermitage/comments/1ckqai5/mn20_and_management/)
 
 Hello,
 
@@ -6154,7 +6154,7 @@ Edit: not sure why this HH picture is displayed here
 ---
 
 **r/HillsideHermitage** | Posted by VoliZivot _2024-05-02 21:51:27_
-### Jhana
+### [Jhana](https://www.reddit.com/r/HillsideHermitage/comments/1cirx6i/jhana/)
 
 Siddhartha prior to buddhahood trained all the way up to neither perception nor non perception. Still not being freed from suffering he went the way of the asetic. 
 It's my understanding that to enter jhana one would have been freed from sensual desire since abandonment of sense desire and seclusion is what jhana is. If this is case, why did he go the asetic route if he had already surmounted sense desire? 
@@ -6184,7 +6184,7 @@ Grateful to anyone who takes the time to reply, and am very grateful for hermati
 ---
 
 **r/HillsideHermitage** | Posted by aaimnr _2024-05-01 23:10:01_
-### Right Disgust - why disgust can be practiced directly as an antidote and Metta cannot?
+### [Right Disgust - why disgust can be practiced directly as an antidote and Metta cannot?](https://www.reddit.com/r/HillsideHermitage/comments/1ci0ap8/right_disgust_why_disgust_can_be_practiced/)
 
 While watching the recent [Right Disgust video ](https://www.youtube.com/watch?v=sqSaMcuy2kI) I couldn't help wondering why Ajahn recommends using Asubha as a direct practice to counter lust, but many times advised against treating Metta as anything other than lack of aversion (so something purely negative). 
 Also, contrary to statements made in the video on Asubha being practiced concurrently with desire being present, Bhikkhu Anigha made the following point in "Pervading the World with Friendliness":
@@ -6240,7 +6240,7 @@ Thank you.
 ---
 
 **r/HillsideHermitage** | Posted by sfimirat _2024-04-30 20:26:17_
-### Additional Training Rules
+### [Additional Training Rules](https://www.reddit.com/r/HillsideHermitage/comments/1ch2tr3/additional_training_rules/)
 
 Hi everyone,
 
@@ -6314,7 +6314,7 @@ I undertake the precept to refrain from sitting or lying on high and luxurious s
 ---
 
 **r/HillsideHermitage** | Posted by Belozersky _2024-04-29 19:14:34_
-### What about the so called "arupa jhanas"?
+### [What about the so called "arupa jhanas"?](https://www.reddit.com/r/HillsideHermitage/comments/1cg7mmd/what_about_the_so_called_arupa_jhanas/)
 
 I'm talking about the dimension of infinite consciousness, of nothingness, of neither perception nor not perception etc. What is HH stance on these things? I'm asking because it seems that these things are very important according to some suttas, and, at the same time, I personally wasn't able to find any talk about the "arupas".
 
@@ -6346,7 +6346,7 @@ Thanks.
 ---
 
 **r/HillsideHermitage** | Posted by According_Clerk2745 _2024-04-28 14:50:27_
-### Pabhasara Sutta
+### [Pabhasara Sutta](https://www.reddit.com/r/HillsideHermitage/comments/1cf8619/pabhasara_sutta/)
 
  [AN 1.51–60: Accharāsaṅghātavagga—Thanissaro Bhikkhu (suttacentral.net)](https://suttacentral.net/an1.51-60/en/thanissaro?lang=en&reference=none&highlight=false)   
 
@@ -6407,7 +6407,7 @@ Would love to see how HH Bhikku's view this even if it's an explanation in brief
 ---
 
 **r/HillsideHermitage** | Posted by sfimirat _2024-04-28 12:44:00_
-### Wrong Speech and Therapy
+### [Wrong Speech and Therapy](https://www.reddit.com/r/HillsideHermitage/comments/1cf5jne/wrong_speech_and_therapy/)
 
 Hi everyone,
 
@@ -6428,7 +6428,7 @@ My question is this: is there ever a time when one wouldn’t be engaging in wro
 ---
 
 **r/HillsideHermitage** | Posted by sfimirat _2024-04-27 11:49:16_
-### 8 Precepts
+### [8 Precepts](https://www.reddit.com/r/HillsideHermitage/comments/1cecoat/8_precepts/)
 
 Hello all,
 
@@ -6475,7 +6475,7 @@ I think I already know the answers to my questions but I would appreciate your c
 ---
 
 **r/HillsideHermitage** | Posted by sfimirat _2024-04-26 12:51:06_
-### Vitakkasaṇṭhānasutta
+### [Vitakkasaṇṭhānasutta](https://www.reddit.com/r/HillsideHermitage/comments/1cdklmr/vitakkasaṇṭhānasutta/)
 
 Hi everyone,
 
@@ -6515,7 +6515,7 @@ Thank you all in advance.
 ---
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-04-24 04:58:26_
-### New Essay: Restraining the Senses
+### [New Essay: Restraining the Senses](https://www.hillsidehermitage.org/restraining-the-senses/)
 
 
 
@@ -6569,7 +6569,7 @@ Thank you all in advance.
 ---
 
 **r/HillsideHermitage** | Posted by RighteousPistachio _2024-04-19 08:03:54_
-### Feelings, Emotions, and Sensations 🤔
+### [Feelings, Emotions, and Sensations 🤔](https://m.youtube.com/watch?v=RIx1EmVYbbc&pp=ygUKc2FtYW5hZGlwYQ%3D%3D)
 
 
 
@@ -6604,7 +6604,7 @@ Thank you all in advance.
 ---
 
 **r/HillsideHermitage** | Posted by foowfoowfoow _2024-04-19 03:14:18_
-### comment on nanavira and the relevance of 'flux' to the buddha's path
+### [comment on nanavira and the relevance of 'flux' to the buddha's path](https://www.reddit.com/r/HillsideHermitage/comments/1c7mobi/comment_on_nanavira_and_the_relevance_of_flux_to/)
 
 thank you to u/Additional_Fix8417 for your comments in another post and pointing me to the below link by nanavira:
 
@@ -6889,7 +6889,7 @@ comments on the above critique are welcome.
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-04-17 12:40:34_
-### Facing boredom and not chase after pleasure
+### [Facing boredom and not chase after pleasure](https://www.reddit.com/r/HillsideHermitage/comments/1c68si4/facing_boredom_and_not_chase_after_pleasure/)
 
 One of the biggest bound with sensuality I have to work on is my attitude when facing boredom. For as long as I can remember I've always tried to escape boredom with pleasurable and stimulating activities to the point where I developped an irrationnal fear of it.
 
@@ -6919,7 +6919,7 @@ Surely I also could do activities related to the Dhamma, like studying suttas an
 ---
 
 **r/HillsideHermitage** | Posted by monkeyseashore _2024-04-16 06:36:02_
-### Questions on suffering and views.
+### [Questions on suffering and views.](https://www.reddit.com/r/HillsideHermitage/comments/1c59c1g/questions_on_suffering_and_views/)
 
 warm greetings all,  
 
@@ -7006,7 +7006,7 @@ What I don't understand is what makes wrong views like "externalism" or "materia
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-04-14 04:01:15_
-### Role of focus
+### [Role of focus](https://www.reddit.com/r/HillsideHermitage/comments/1c3khnr/role_of_focus/)
 
 Just looking for perspectives on this particular view of practice. As I understand, the only problem with contemporary practices is the notion of avoiding what is present in favor of fully indulging in one sense object.  However, if you can maintain awareness of the necessary overlying context, ie; body is the container, and you don't shift away from anything that arises, then there is no problem with stabilizing the mind on the sensation of breath, for instance.  It's actually better than letting it jump all over the place and cause trouble. 
 
@@ -7039,7 +7039,7 @@ I ask this because I have seen videos where Ajahn seems to discourage this type 
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-04-12 14:08:52_
-### Money, Material Safety and Dhamma
+### [Money, Material Safety and Dhamma](https://www.reddit.com/r/HillsideHermitage/comments/1c2a3r6/money_material_safety_and_dhamma/)
 
 Do you think making money and following Dhamma are incompatible?
 
@@ -7070,7 +7070,7 @@ Not sure why I'm bringing this, I think I already know the answer to that questi
 ---
 
 **r/HillsideHermitage** | Posted by obobinde _2024-04-12 09:07:28_
-### Would that meditation practice be ok ?
+### [Would that meditation practice be ok ?](https://www.reddit.com/r/HillsideHermitage/comments/1c24j20/would_that_meditation_practice_be_ok/)
 
 After encountering HH I dropped my morning sitting practice to focus on sense restraint first. Since then sense restraint helped me tremendously to improve my outer and inner conduct. I can clearly experience the pressure on the senses when the mind is craving something. I can clearly see how it is indeed disagreeable when the mind doesn't get what it wants. At times I noticed too how this craving appears and just vanishes without having done anything to suppress it. As explained in this sub before, the restraining needed to be tighten at some point because things got easier and I was't feeling bothered anymore. This has been my experience. I'm nowhere perfect as I'm still struggling noticeably in the evening time to not indulge in watching TV shows or to browse the web.
 
@@ -7093,7 +7093,7 @@ So is that totally wrong or is that ok to practice sitting mediation along those
 ---
 
 **r/HillsideHermitage** | Posted by Belozersky _2024-04-08 15:08:45_
-### "One has to experience the pleasure of jhana before doing the sense restraint"
+### ["One has to experience the pleasure of jhana before doing the sense restraint"](https://www.reddit.com/r/HillsideHermitage/comments/1bz09ok/one_has_to_experience_the_pleasure_of_jhana/)
 
 I've encountered this view i.e. that one has to achieve jhana before one can start abandoning sensuality since it will alleviate the pain of restraint, quite a handful of times on Reddit, SuttaCentral and even heard it from some ajhans. Does this view have any grounding in the suttas? Because, prima facie, it seems that such view contradicts many suttas (e.g. DN2) where a trainee get himself established in sila and restraint first, and only then he achieves jhana.
 
@@ -7116,7 +7116,7 @@ I've encountered this view i.e. that one has to achieve jhana before one can sta
 ---
 
 **r/HillsideHermitage** | Posted by obobinde _2024-04-02 20:32:56_
-### Is experiencing less suffering the yardstick to judge the efficiency of a buddhist method ?
+### [Is experiencing less suffering the yardstick to judge the efficiency of a buddhist method ?](https://www.reddit.com/r/HillsideHermitage/comments/1bu9apb/is_experiencing_less_suffering_the_yardstick_to/)
 
 If I'm not mistaken it's when we experience less suffering thanks to implementing the Buddha's teaching that we can accept it without a doubt. If such is a case, how can we dismiss other buddhist teachings or even non buddhist teachings as dead-ends even though according to numerous autobiographies and testimonies those others methods (Dzogchen/Mahamudra/Advaita) produce an extinction of suffering ? For reference, [this gem of an answer from Bhikkhu Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1agagmv/possible_explanation_on_how_meditation_methods/) answers partly this question but doesn't address the suffering aspect which is why I'm posting this.
 
@@ -7141,7 +7141,7 @@ If I'm not mistaken it's when we experience less suffering thanks to implementin
 ---
 
 **r/HillsideHermitage** | Posted by upasakatrainee _2024-04-02 12:41:38_
-### Right View vs. Fruit of Stream Entry
+### [Right View vs. Fruit of Stream Entry](https://www.reddit.com/r/HillsideHermitage/comments/1btxr1i/right_view_vs_fruit_of_stream_entry/)
 
 Would it be correct to state that Right View as an understanding of 'what needs to be done' comes about as a precursor and pre-requisite to the 'experience' of Stream Entry ?
 
@@ -7164,7 +7164,7 @@ If this is accurate, would Right View be a precursor to an *inevitable* Stream E
 ---
 
 **r/HillsideHermitage** | Posted by Particular-Snow2271 _2024-04-01 20:04:39_
-### Guarding the sense doors
+### [Guarding the sense doors](https://www.reddit.com/r/HillsideHermitage/comments/1bte1mb/guarding_the_sense_doors/)
 
 Hi, I've been quite interested in this practice for the past few months, and I find that I've been in contemplation/meditation for a while, I can experience what this means. I've also experienced glimpses of the deathless before, so I get it on that "level" as well. However, with my normal waking mind, this is quite difficult. I try but the practice seems to have little no potency. 
 
@@ -7240,7 +7240,7 @@ Does this seem useful, am I missing anything? Any thoughts/feedback would be hel
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-03-28 23:01:43_
-### Sankhara as an attitude?
+### [Sankhara as an attitude?](https://www.reddit.com/r/HillsideHermitage/comments/1bq9hju/sankhara_as_an_attitude/)
 
 I was reading the translation Ven. Anigha released for MN 35 and found this interesting [note](https://suttas.hillsidehermitage.org/?q=mn35#mn35:4.5-mn35:4.6) here which states:
 
@@ -7293,7 +7293,7 @@ I'm unable to understand this, maybe I can sum up the difficulties in comprehend
 ---
 
 **r/HillsideHermitage** | Posted by upasakatrainee _2024-03-26 14:24:31_
-### Why is fear not explicity called out as a hindrance ?
+### [Why is fear not explicity called out as a hindrance ?](https://www.reddit.com/r/HillsideHermitage/comments/1bo96ek/why_is_fear_not_explicity_called_out_as_a/)
 
 I have been wondering this for sometime now, and as far as I can tell it is likely because fear is embedded within the first two hindrances of sense-desire, and ill-will. 
 
@@ -7316,7 +7316,7 @@ Kindly correct my understanding if inaccurate.
 ---
 
 **r/HillsideHermitage** | Posted by Ctrl_Alt_Explode _2024-03-25 18:59:03_
-### Just sit and die?
+### [Just sit and die?](https://www.reddit.com/r/HillsideHermitage/comments/1bnlq71/just_sit_and_die/)
 
 Hypothetically speaking, if you really got yourself rid of desire (you won't leave your meditation to chase some sort of sensual pleasure, like "let me go and grab a snack" or "let me watch a movie"), and you get yourself rid of aversion (any pain or discomfort from sitting won't disturb you, not even if you sit for hours), and you have contentment/equanimity (you're completely content while meditating, you don't need anything else, you're OK), wouldn't you just "sit there" and die then?
 
@@ -7335,7 +7335,7 @@ Hypothetically speaking, if you really got yourself rid of desire (you won't lea
 ---
 
 **r/HillsideHermitage** | Posted by cruisermoves _2024-03-25 16:41:44_
-### Not acting out of any feeling
+### [Not acting out of any feeling](https://www.reddit.com/r/HillsideHermitage/comments/1bni9q7/not_acting_out_of_any_feeling/)
 
 I was reading the article by Sister Medhini about fixed views vs unfixed certainties (https://www.hillsidehermitage.org/fixed-views-vs-unfixed-certainties) and towards the end she says "if you train towards not acting out of feeling to any extent at all...." 
 This seems amazing to me. Is this how we should train?
@@ -7381,7 +7381,7 @@ This seems amazing to me. Is this how we should train?
 ---
 
 **r/HillsideHermitage** | Posted by VitakkaVicara _2024-03-24 22:54:04_
-### Only an anagami removes hindrance of doubt?!
+### [Only an anagami removes hindrance of doubt?!](https://www.reddit.com/r/HillsideHermitage/comments/1bmy2w6/only_an_anagami_removes_hindrance_of_doubt/)
 
 In [another post](https://www.reddit.com/user/Additional_Fix8417/), Additional\_Fix8417 has said that:
 
@@ -7409,7 +7409,7 @@ Thank you.
 ---
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-03-20 04:13:23_
-### How Virtue, not “Concentration” or “Absorption”, Overcomes the Hindrances
+### [How Virtue, not “Concentration” or “Absorption”, Overcomes the Hindrances](https://www.reddit.com/r/HillsideHermitage/comments/1bj4uy5/how_virtue_not_concentration_or_absorption/)
 
 New Dhamma discussion: [https://www.youtube.com/watch?v=igC9gzKZV6o](https://www.youtube.com/watch?v=igC9gzKZV6o)
 
@@ -7440,7 +7440,7 @@ MN 18 (see comments): [https://suttas.hillsidehermitage.org/?q=mn%2018](https://
 ---
 
 **r/HillsideHermitage** | Posted by Belozersky _2024-03-19 17:27:16_
-### Trying to grasp how to not act out on a mental level (inspired by the recent video)
+### [Trying to grasp how to not act out on a mental level (inspired by the recent video)](https://www.reddit.com/r/HillsideHermitage/comments/1bipw6q/trying_to_grasp_how_to_not_act_out_on_a_mental/)
 
 When my mind encounters a pleasant idea, for example a sexual fantasy, I understand that if I were to pursue it or, in other words, start to entertain it or delight in it, I would be acting unskillfully i.e. I would be acting out of pressure by trying to develop this thought further. When this understanding (that pursuing this idea is unskillful) happens some sort of a "click" occurs, for the lack of a better word, which "blocks" my engagement with such thought, and, afterwards, this thought retreats into the background of my awareness (so it is not in my immediate focus anymore, but I can still feel the pressure of it, so to speak)  while I continue whatever I was doing at that moment. I'm not trying to actively dispel such thoughts like some people might do with their intrusive thoughts.
 
@@ -7468,7 +7468,7 @@ So, is this the correct way of restraint on the mental level? Thanks
 ---
 
 **r/HillsideHermitage** | Posted by obobinde _2024-03-19 16:22:24_
-### In DN 21 and AN 9.3 what is the cutting of thought and reflexion referring to ?
+### [In DN 21 and AN 9.3 what is the cutting of thought and reflexion referring to ?](https://www.reddit.com/r/HillsideHermitage/comments/1bioaco/in_dn_21_and_an_93_what_is_the_cutting_of_thought/)
 
 Engaged in a conversation on another forum these two suttas were mentioned where the stopping of thinking and pondering is presented as a worthwhile goal and a usecase for anapanasati. It got me wondering as I've never heard about it before. I think in DN 21 the Buddha may be talking about first and second jhana where in the second thinkong and pondering are absent hence more happiness but I can't be sure. No idea for AN 9.3. What do you think ?
 
@@ -7506,7 +7506,7 @@ Engaged in a conversation on another forum these two suttas were mentioned where
 ---
 
 **r/HillsideHermitage** | Posted by upasakatrainee _2024-03-13 11:30:09_
-### Skilful boundary for contemplation practice
+### [Skilful boundary for contemplation practice](https://www.reddit.com/r/HillsideHermitage/comments/1bdp6fj/skilful_boundary_for_contemplation_practice/)
 
 To what extent is is beneficial/unbenefical to bring to mind circumstances that would cause one to suffer, as a means of ascertaining one's liability to still suffer? 
 
@@ -7552,7 +7552,7 @@ Many thanks in advance
 ---
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-03-13 10:43:09_
-### New section on HH website for accurate Sutta translations
+### [New section on HH website for accurate Sutta translations](https://www.reddit.com/r/HillsideHermitage/comments/1bdoe5g/new_section_on_hh_website_for_accurate_sutta/)
 
 [suttas.hillsidehermitage.org](https://suttas.hillsidehermitage.org)
 
@@ -7574,7 +7574,7 @@ Many thanks in advance
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-03-13 01:32:46_
-### Anagami and Arahants are in constant Jhana?
+### [Anagami and Arahants are in constant Jhana?](https://www.reddit.com/r/HillsideHermitage/comments/1bdeya6/anagami_and_arahants_are_in_constant_jhana/)
 
 I was contemplating the hindrances and noticed that if all that was required to get into jhana was the temporary abandonment of the hindrances then that would appear to contradict the suttas. Ironically, in my contemplation I was contemplating the hindrance of doubt, and this question is certainly present on the basis of that hindrance, so in a sense I'm just pushing back my progress in terms of discerning the escape from the hindrances.
 
@@ -7647,7 +7647,7 @@ Anyways, I certainly need to stop my analysis here otherwise I'll go back into e
 ---
 
 **r/HillsideHermitage** | Posted by Chemical-Medium4316 _2024-03-07 15:08:40_
-### Citta
+### [Citta](https://www.reddit.com/r/HillsideHermitage/comments/1b8wy66/citta/)
 
 I’m trying to identify the citta in full clarity so to correctly practice metta. I Need clarity about it help would be appreciated
 
@@ -7681,7 +7681,7 @@ I’m trying to identify the citta in full clarity so to correctly practice mett
 ---
 
 **r/HillsideHermitage** | Posted by ajmonkarsh _2024-03-02 23:47:40_
-### Can you observe the mind?
+### [Can you observe the mind?](https://www.reddit.com/r/HillsideHermitage/comments/1b52k3t/can_you_observe_the_mind/)
 
 I’ve seen somewhere on HH that it isn’t possible to do this. Assuming the mind is not its thoughts; I am observing my thoughts? Feelings? 
 
@@ -7713,7 +7713,7 @@ I’ve seen somewhere on HH that it isn’t possible to do this. Assuming the mi
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-03-02 10:29:39_
-### [deleted by user]
+### [[deleted by user]]()
 
 [removed]
 
@@ -7728,7 +7728,7 @@ I’ve seen somewhere on HH that it isn’t possible to do this. Assuming the mi
 ---
 
 **r/HillsideHermitage** | Posted by Omaree9 _2024-03-01 12:19:57_
-### Formal Meditation
+### [Formal Meditation](https://www.reddit.com/r/HillsideHermitage/comments/1b3syte/formal_meditation/)
 
 What is the right way to go about formal meditation? Choose a context and let the mind revolve around that context? How do you all practice? 
 
@@ -7762,7 +7762,7 @@ Edit: when I say formal meditation I mean set time aside to contemplate certain 
 ---
 
 **r/HillsideHermitage** | Posted by Tao_389 _2024-02-29 19:01:31_
-### Questions on the right view
+### [Questions on the right view](https://www.reddit.com/r/HillsideHermitage/comments/1b38994/questions_on_the_right_view/)
 
 I had a couple of questions on the right view and would be grateful for any clarifications on this:
 
@@ -7794,7 +7794,7 @@ Thank you.
 ---
 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2024-02-29 17:51:08_
-### New Essay: Pervading the World with Friendliness
+### [New Essay: Pervading the World with Friendliness](https://www.hillsidehermitage.org/pervading-the-world-with-friendliness/)
 
 
 
@@ -7873,7 +7873,7 @@ Thank you.
 ---
 
 **r/HillsideHermitage** | Posted by monkeyseashore _2024-02-29 01:56:36_
-### How to abandon deeply rooted views/goals
+### [How to abandon deeply rooted views/goals](https://www.reddit.com/r/HillsideHermitage/comments/1b2odzt/how_to_abandon_deeply_rooted_viewsgoals/)
 
 Dear friends,
 
@@ -7904,7 +7904,7 @@ How do I remove this habit from my mind, and in general other bad (habitual/auto
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-02-29 01:02:32_
-### "Rightly discerning aggregates is like penetrating a hair-tip with an arrow".. why?
+### ["Rightly discerning aggregates is like penetrating a hair-tip with an arrow".. why?](https://www.reddit.com/r/HillsideHermitage/comments/1b2n8ws/rightly_discerning_aggregates_is_like_penetrating/)
 
 I was reading this Sutta and came across this verse:
 
@@ -7961,7 +7961,7 @@ I'm unsure. Maybe such a "subtle thing" is about "including the sense of self" i
 ---
 
 **r/HillsideHermitage** | Posted by sahassaransi_mw _2024-02-26 12:12:45_
-### Questions on the Samanadipa vids
+### [Questions on the Samanadipa vids](https://www.reddit.com/r/HillsideHermitage/comments/1b0g1ix/questions_on_the_samanadipa_vids/)
 
 
 Theruwan saranai! These are some questions I have had for some time while listening to and contemplating Samanadipa's set of new videos. Forgive the length, as usual! 
@@ -8074,7 +8074,7 @@ Would these examples be more along the lines of how I should be discerning inten
 ---
 
 **r/HillsideHermitage** | Posted by craveminerals _2024-02-25 20:56:25_
-### Free from sensual desire = free from fear?
+### [Free from sensual desire = free from fear?](https://www.reddit.com/r/HillsideHermitage/comments/1azyovw/free_from_sensual_desire_free_from_fear/)
 
 Hi fellow practitioners, 
 
@@ -8118,7 +8118,7 @@ A fearful person
 ---
 
 **r/HillsideHermitage** | Posted by Handsome_God123 _2024-02-24 06:27:33_
-### What exactly is Anatta?
+### [What exactly is Anatta?](https://www.reddit.com/r/HillsideHermitage/comments/1aynqlc/what_exactly_is_anatta/)
 
 Is it a mindset of not regarding things as not self, or is it the thought that there really is no self.
 
@@ -8152,7 +8152,7 @@ Also I want to apologize if my point is not clear enough. English is not my firs
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-02-22 07:20:51_
-### New discussion with Ven. Anīgha!
+### [New discussion with Ven. Anīgha!]()
 
 [deleted]
 
@@ -8178,7 +8178,7 @@ Also I want to apologize if my point is not clear enough. English is not my firs
 ---
 
 **r/HillsideHermitage** | Posted by Honest_Chemist_9025 _2024-02-20 22:18:28_
-### I am new to Buddhism and have watched a few videos by Hillside Hermitage, I don't get what the problem is with Orthodox or mainstream Therevada 
+### [I am new to Buddhism and have watched a few videos by Hillside Hermitage, I don't get what the problem is with Orthodox or mainstream Therevada ](https://www.reddit.com/r/HillsideHermitage/comments/1avup7i/i_am_new_to_buddhism_and_have_watched_a_few/)
 
 
 
@@ -8208,7 +8208,7 @@ Also I want to apologize if my point is not clear enough. English is not my firs
 ---
 
 **r/HillsideHermitage** | Posted by Strange_Dealer8956 _2024-02-20 08:16:42_
-### Upadana and Knowledge outside of the five aggregates?
+### [Upadana and Knowledge outside of the five aggregates?](https://www.reddit.com/r/HillsideHermitage/comments/1avcm17/upadana_and_knowledge_outside_of_the_five/)
 
 So one experiences a feeling and the mind's automatic reaction to get rid of it or want more of it.
 
@@ -8253,7 +8253,7 @@ Thanks in advance
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-02-20 04:18:48_
-### Reflection on Conceit and Speech
+### [Reflection on Conceit and Speech](https://www.reddit.com/r/HillsideHermitage/comments/1av8m05/reflection_on_conceit_and_speech/)
 
 >"Monks, I will teach you craving: the ensnarer that has flowed along, spread out, and caught hold, with which this world is smothered & enveloped like a tangled skein, a knotted ball of string, like matted rushes and reeds, and does not go beyond transmigration, beyond the planes of deprivation, woe, & bad destinations. Listen well, and I will speak."  
 >  
@@ -8292,7 +8292,7 @@ My reason for restraining this currently is simply because it's unnecessary. But
 ---
 
 **r/HillsideHermitage** | Posted by Print-Remarkable _2024-02-17 21:46:09_
-### Yoniso manasikara
+### [Yoniso manasikara](https://www.reddit.com/r/HillsideHermitage/comments/1atd8zt/yoniso_manasikara/)
 
 I’ve been listening closely and repeatedly to the below video trying to gain a better understanding of overcoming defilements with proper yoniso manasikara coupled with another’s utterance. Some what understandable when using the examples for the defilement of lust. But one of my main issues is the defilement of worry. So in the case of worry, would the proper attention to the root or womb be ignorance? Example (worry about job) or (worry about family issues) The womb in these instances being ingnorance in ownership or misappropriating things out of my control such as situations at a job or dealing with family. Or in other words I’m ignorant in thinking I can own or change bad situations and thus ignorance leads to the sankhara of ownership? Am I on the right track here? Thank you Dhamma family 
 
@@ -8319,7 +8319,7 @@ https://youtu.be/UiaSmfyHcEg?si=0SHzjJzERmW-Trb1
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-02-15 20:05:04_
-### What did the householders in the Buddha's time see to want to go into the homeless life?
+### [What did the householders in the Buddha's time see to want to go into the homeless life?](https://www.reddit.com/r/HillsideHermitage/comments/1aropkz/what_did_the_householders_in_the_buddhas_time_see/)
 
 The suttas and vinaya are filled with householders realizing some inherent danger in remaining as a layperson and it appears that that danger is so much that it overrides all their responsibilities. I can imagine an only son leaving his family to ordain being a significant threat to that family's well-being considering Indian societies are structured around their kids providing full support to their parents which is the case even today.
 
@@ -8391,7 +8391,7 @@ However, the general point still remains that there seems to be some danger seen
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-02-14 10:50:41_
-### Resistance is suffering
+### [Resistance is suffering](https://www.reddit.com/r/HillsideHermitage/comments/1aqk4ob/resistance_is_suffering/)
 
 Hello, I'm looking for some clarifications about tanha and assumption of sensuality.
 
@@ -8456,7 +8456,7 @@ So roughly speaking are these the steps to see the way out of kamupadana and eve
 ---
 
 **r/HillsideHermitage** | Posted by matrixunplugged1 _2024-02-13 20:58:46_
-### Hello
+### [Hello](https://www.reddit.com/r/HillsideHermitage/comments/1aq4cz4/hello/)
 
 Hello,
 
@@ -8483,7 +8483,7 @@ My main question is, since developing the right view involves a lot of critical 
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-02-12 09:00:27_
-### Overcoming drowsiness and dullness?
+### [Overcoming drowsiness and dullness?](https://www.reddit.com/r/HillsideHermitage/comments/1aovr9j/overcoming_drowsiness_and_dullness/)
 
 Hi all, just want to ask for opinion regarding dealing with drowsiness and dullness.  
 
@@ -8549,7 +8549,7 @@ developing tranquility -> immersion -> equanimity
 ---
 
 **r/HillsideHermitage** | Posted by Appropriate_Bear_840 _2024-02-11 08:22:16_
-### Metta abandons only ill will ?
+### [Metta abandons only ill will ?](https://www.reddit.com/r/HillsideHermitage/comments/1ao38fr/metta_abandons_only_ill_will/)
 
 I had some doubts about metta practice from one of  u/Bhikkhu_Anigha's comment on another post.
 
@@ -8627,7 +8627,7 @@ Sorry to bother you with so many questions. This has been bugging me for a while
 ---
 
 **r/HillsideHermitage** | Posted by GoteMcGoteface _2024-02-09 17:50:43_
-### How to understand MN20 in relation to ‘Sīla is Samādhi’?
+### [How to understand MN20 in relation to ‘Sīla is Samādhi’?](https://www.reddit.com/r/HillsideHermitage/comments/1amu2uw/how_to_understand_mn20_in_relation_to_sīla_is/)
 
 I’m having some trouble reconciling two teachings, hopefully you can help. In the ’Removal of distracting thoughts’ MN20, the Buddha teaches 5 methods to remove unskilful thoughts. He says…  
 
@@ -8902,7 +8902,7 @@ Many thanks to Bhikkhu Anigha for writing this essay, I feel like it will be a m
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-02-09 14:59:22_
-### [deleted by user]
+### [[deleted by user]]()
 
 [removed]
 
@@ -8915,7 +8915,7 @@ Many thanks to Bhikkhu Anigha for writing this essay, I feel like it will be a m
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-02-09 08:41:55_
-### Do you think going forth is the best possible way to train the mind?
+### [Do you think going forth is the best possible way to train the mind?](https://www.reddit.com/r/HillsideHermitage/comments/1amjqca/do_you_think_going_forth_is_the_best_possible_way/)
 
 Hello, I was wondering about one point and since I have no experience in the matter, I'm curious what people that possibly have some experience might think about it.
 
@@ -8964,7 +8964,7 @@ What do you think?
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-02-07 20:06:08_
-### [deleted by user]
+### [[deleted by user]]()
 
 [removed]
 
@@ -8981,7 +8981,7 @@ What do you think?
 ---
 
 **r/HillsideHermitage** | Posted by Strange_Dealer8956 _2024-02-06 15:33:32_
-### Ajahn Chah's approach to mediation
+### [Ajahn Chah's approach to mediation](https://www.reddit.com/r/HillsideHermitage/comments/1akcirs/ajahn_chahs_approach_to_mediation/)
 
 In this talk Ajahn Chah talks about using meditation to calm the mind to then give rise to mindfulness.
 
@@ -9102,7 +9102,7 @@ Is this approach also valid? Or is it that any progress with the meditation appr
 ---
 
 **r/HillsideHermitage** | Posted by According_Clerk2745 _2024-02-06 06:38:06_
-### 22.95. A Lump of Foam
+### [22.95. A Lump of Foam](https://www.reddit.com/r/HillsideHermitage/comments/1ak3hu9/2295_a_lump_of_foam/)
 
 Would  love to get @bhikkhu_anigha interpretation of the Phenapindupama
 sutta. From a pair of eyes with little dust🙏🙏.
@@ -9133,7 +9133,7 @@ I always like to keep a sutta in my mind throughout my day and night, constantly
 ---
 
 **r/HillsideHermitage** | Posted by NAD1701 _2024-02-03 22:23:12_
-### Sensual Pleasure
+### [Sensual Pleasure](https://www.reddit.com/r/HillsideHermitage/comments/1ai7ys9/sensual_pleasure/)
 
 What is sensual pleasure?
 
@@ -9180,7 +9180,7 @@ Sensual Pleasures
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-02-01 14:29:13_
-### [deleted by user]
+### [[deleted by user]]()
 
 [removed]
 
@@ -9231,7 +9231,7 @@ Sensual Pleasures
 ---
 
 **r/HillsideHermitage** | Posted by iurileao _2024-02-01 13:01:11_
-### Possible explanation on how meditation methods lead to enlightment?
+### [Possible explanation on how meditation methods lead to enlightment?](https://www.reddit.com/r/HillsideHermitage/comments/1agagmv/possible_explanation_on_how_meditation_methods/)
 
 I have found this article called "An Enlightened Mind Has Done This: Two Types of Objectification", written by a certain Mr. Roger Thisdell, who claims to have become enlighted in may 2021. There he explains how the meditation methods he´s trained in led to his enlightment: 
 
@@ -9313,7 +9313,7 @@ I would appreciate if the more experienced members of the community could help w
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-02-01 04:03:02_
-### Relationship between precepts and craving
+### [Relationship between precepts and craving](https://www.reddit.com/r/HillsideHermitage/comments/1ag1y98/relationship_between_precepts_and_craving/)
 
 Up till now I thought that keeping the five precepts was to prevent actions rooted in coarse forms of craving, but after reflecting on this, I think there may be some issues with this understanding. For me it's certainly true that if I were to break the five precepts, it's quite clearly due to the resistance to what is currently felt. But these actions of killing, stealing, lying, etc., seem entirely possible without craving.
 
@@ -9350,7 +9350,7 @@ Would appreciate any help here.
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-01-31 09:38:11_
-### Root of hindrances
+### [Root of hindrances](https://www.reddit.com/r/HillsideHermitage/comments/1afe5du/root_of_hindrances/)
 
 From what I understand, Ajahn Nyanamoli advocates to train until one is able to see when one's intentions are rooted in the hindrances and to endure the discomfort that these hindrances brought with them without acting out of it, doing it over time (months, years) will allow the mind to cool down and these hindrances to lose their grip.
 
@@ -9411,7 +9411,7 @@ I come to you essentially because I don't exclude that there is a possibility th
 ---
 
 **r/HillsideHermitage** | Posted by Glassman25 _2024-01-29 23:08:03_
-### How is Stream Entry not a “special experience?”
+### [How is Stream Entry not a “special experience?”](https://www.reddit.com/r/HillsideHermitage/comments/1ae95hq/how_is_stream_entry_not_a_special_experience/)
 
 I’ve read this sentiment a couple times recently.  It seems to me that the moment one achieves this that it would be quite special!
 
@@ -9433,7 +9433,7 @@ I’ve read this sentiment a couple times recently.  It seems to me that the mom
 ---
 
 **r/HillsideHermitage** | Posted by Tao_389 _2024-01-29 13:53:48_
-### Unable to take the precept of non-lying
+### [Unable to take the precept of non-lying](https://www.reddit.com/r/HillsideHermitage/comments/1advtmb/unable_to_take_the_precept_of_nonlying/)
 
 I am not able to take the precept of non-lying with its full value. It feels like it's just too much weight I could take on. Even celibacy seems easier to me than this. It is not like I keep lying and so it is hard to take up this precept but I have lied on occasions. When I contemplated on what things exactly prevent me from taking this precept, I came to know that it was due to emotional attachment to my parents / family. Specifically, there have been some situations where if I had to tell a small deliberate lie that would result in much lesser unpleasant emotions to my parents or so, I have chosen to lie. And if I do take the precept right on, I know internally that I am not ready if the worst possible thing would challenge me.
 
@@ -9454,7 +9454,7 @@ I am really not sure how to go about this. I have been keeping the other 4 prece
 ---
 
 **r/HillsideHermitage** | Posted by serculis _2024-01-29 12:50:13_
-### Am I discerning correctly?
+### [Am I discerning correctly?](https://www.reddit.com/r/HillsideHermitage/comments/1adukgl/am_i_discerning_correctly/)
 
 Trying to wrap my head around using mindfulness to discern my thoughts and behaviours. I would be grateful if someone could scrutinise my thoughts so far with the following example:
 
@@ -9494,7 +9494,7 @@ Is this... at least... a less wrong way of discernment?
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-01-28 22:17:08_
-### Results versus deliberate decisions
+### [Results versus deliberate decisions](https://www.reddit.com/r/HillsideHermitage/comments/1adetgv/results_versus_deliberate_decisions/)
 
 I want to see if I am totally mistaken or not…
 
@@ -9534,7 +9534,7 @@ I appreciate any input.
 ---
 
 **r/HillsideHermitage** | Posted by TD-0 _2024-01-27 17:01:06_
-### Role of virtue beyond stream entry
+### [Role of virtue beyond stream entry](https://www.reddit.com/r/HillsideHermitage/comments/1acfdj3/role_of_virtue_beyond_stream_entry/)
 
 As the title states, I'm interested in clarifying the role of virtue beyond stream entry. I understand why and how virtue and restraint play a key role in developing the Right View prior to stream entry. But once the fruit of stream entry has been attainewd, one's liability to suffer has been reduced to "7 grains of sand". At this point, they have the understanding that makes them "incapable of suffering amidst suffering". So, my question is, essentially, why bother being virtuous any more? Why follow the Noble 8fold path?
 
@@ -9602,7 +9602,7 @@ E: I thought I'd reframe the question here -- Basically, if a stream enterer is 
 ---
 
 **r/HillsideHermitage** | Posted by craveminerals _2024-01-25 10:45:56_
-### Spreading a heart full of love
+### [Spreading a heart full of love](https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/)
 
 Hi fellow practitioners, 
 
@@ -9775,7 +9775,7 @@ I suppose that the friendly disposition which Venerable Nyanamoli described does
 ---
 
 **r/HillsideHermitage** | Posted by Bodimmowo _2024-01-23 21:18:56_
-### Meditation in the gradual training presented in DN 2
+### [Meditation in the gradual training presented in DN 2](https://www.reddit.com/r/HillsideHermitage/comments/19dzb2w/meditation_in_the_gradual_training_presented_in/)
 
 I have a few questions about the gradual training presented in DN 2 and I hope to hear the answers from -- especially anyone from the Hermitage:
 
@@ -9892,7 +9892,7 @@ Thank you in advance for reading and/or responding.
 ---
 
 **r/HillsideHermitage** | Posted by sahassaransi_mw _2024-01-23 07:56:18_
-### Contemplation to assist Sila
+### [Contemplation to assist Sila](https://www.reddit.com/r/HillsideHermitage/comments/19djc5b/contemplation_to_assist_sila/)
 
 
 If I understand correctly, it seems that HH encourages that alongside keeping the precepts, one should also contemplate themes such as: why they are keeping the precepts, the value of the precepts, if they know what keeping the precepts has to do with the Dhamma, the danger of sensuality/peril in ill will, etc etc. 
@@ -9996,7 +9996,7 @@ Virtue as shown in the context of the gradual training doesn't mention any sort 
 ---
 
 **r/HillsideHermitage** | Posted by Heuristicdish _2024-01-21 16:00:06_
-### Question on Suffering as not self.
+### [Question on Suffering as not self.](https://www.reddit.com/r/HillsideHermitage/comments/19c6huv/question_on_suffering_as_not_self/)
 
 I don’t see with my own faculties how suffering is not self. It seems to me that the very nature of suffering is appropriation of form and impermanence against the grain of their qualities. Of the three marks, suffering is the most “personal.” It has to do with the person. Although, I’m sure there are impersonal, psychologically invisible forms of suffering going on under the hood. To see suffering as not self must be liberation and related to sottapannas and above. To see it directly. I think Volition has a similar issue. Does anyone know of resources that treat this topic in terms of practice or study?
 
@@ -10021,7 +10021,7 @@ I don’t see with my own faculties how suffering is not self. It seems to me th
 ---
 
 **r/HillsideHermitage** | Posted by Anemone1k _2024-01-21 15:20:49_
-### Assuming Right View
+### [Assuming Right View](https://www.reddit.com/r/HillsideHermitage/comments/19c5mpd/assuming_right_view/)
 
 Whenever I see that I am taking something for granted, it's obvious that that thing was not included within the aggregates for as long as I was taking it for granted. Now that it is recognized, it is automatically of the aggregates. Is this what Ajahn Nyanamoli means when I hear him say that assumption is not in the aggregates?
 
@@ -10110,7 +10110,7 @@ I ask, because I don't see how Right View could be anything but an assumption, b
 ---
 
 **r/HillsideHermitage** | Posted by Hinek _2024-01-18 09:13:56_
-### How to make the best out of a dark retreat?
+### [How to make the best out of a dark retreat?](https://www.reddit.com/r/HillsideHermitage/comments/199m21n/how_to_make_the_best_out_of_a_dark_retreat/)
 
 Hello everyone!
 
@@ -10227,7 +10227,7 @@ Any insight/advice is very welcome. Thank you.
 ---
 
 **r/HillsideHermitage** | Posted by TubularScrapple _2024-01-16 21:10:50_
-### Pleasant enclosed within the unpleasant
+### [Pleasant enclosed within the unpleasant](https://www.reddit.com/r/HillsideHermitage/comments/198e27i/pleasant_enclosed_within_the_unpleasant/)
 
 I was listening to a talk earlier, and thinking and pondering about how it applies. But I thought it might be an interesting discussion point since a brief search didn't show up many exact results.
 
@@ -10295,7 +10295,7 @@ Keen to hear thoughts.
 ---
 
 **r/HillsideHermitage** | Posted by iurileao _2024-01-15 18:31:15_
-### Any known list of suttas finishing with the arising of right view?
+### [Any known list of suttas finishing with the arising of right view?](https://www.reddit.com/r/HillsideHermitage/comments/197fxsp/any_known_list_of_suttas_finishing_with_the/)
 
 Hello, everyone! Does anyone know of a list/compilation of suttas in which the listener develops right view by the end of it?
 
@@ -10477,7 +10477,7 @@ Hello, everyone! Does anyone know of a list/compilation of suttas in which the l
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-01-15 09:51:47_
-### Understanding not-self in not-self
+### [Understanding not-self in not-self](https://www.reddit.com/r/HillsideHermitage/comments/197541n/understanding_notself_in_notself/)
 
 After learning that the aggregates were there on their own for that sense of self to be there, I started thinking this body and this mind aren't mine, but rather that "I" is theirs.
 
@@ -10539,7 +10539,7 @@ So is it wrong to think that because there are those aggregates that were alread
 ---
 
 **r/HillsideHermitage** | Posted by meshinthesky _2024-01-14 16:59:18_
-### Question regarding right and the wrong interpretations of mindfulness, according Nyanamoli.
+### [Question regarding right and the wrong interpretations of mindfulness, according Nyanamoli.](https://www.reddit.com/r/HillsideHermitage/comments/196kehz/question_regarding_right_and_the_wrong/)
 
 I recently read *The only way to Jhana*, and found it really useful in order to further appreciate the whole teachings Buddha asked us to commit in order to attain right view.
 
@@ -10620,7 +10620,7 @@ Why such meditation (and other similars) are not the right mindfulness? As per m
 ---
 
 **r/HillsideHermitage** | Posted by TubularScrapple _2024-01-14 07:09:23_
-### Moderation in eating
+### [Moderation in eating](https://www.reddit.com/r/HillsideHermitage/comments/196a1us/moderation_in_eating/)
 
 Wonder what everyone's thoughts on this matter are.  
 
@@ -10679,7 +10679,7 @@ I fully admit, I don't understand what is correct here. So keen to get some advi
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-01-14 02:39:23_
-### Reflection on my personal hypocrisy
+### [Reflection on my personal hypocrisy](https://www.reddit.com/r/HillsideHermitage/comments/1965aw7/reflection_on_my_personal_hypocrisy/)
 
 Before officially leaving a large portion of the internet for solitude and contemplation, I wanted to do a reflection first and get some advice here if possible.
 
@@ -10735,7 +10735,7 @@ I wish development in virtue were as simple as the press of a button -- I would 
 ---
 
 **r/HillsideHermitage** | Posted by None _2024-01-11 18:20:18_
-### [deleted by user]
+### [[deleted by user]]()
 
 [removed]
 
@@ -10752,7 +10752,7 @@ I wish development in virtue were as simple as the press of a button -- I would 
 ---
 
 **r/HillsideHermitage** | Posted by GachiOnFire _2024-01-10 20:48:14_
-### Craving for being and non-being
+### [Craving for being and non-being](https://www.reddit.com/r/HillsideHermitage/comments/193iqag/craving_for_being_and_nonbeing/)
 
 Hello, in [MN 9](https://suttacentral.net/mn9/en/bodhi) it is said:
 
@@ -10788,7 +10788,7 @@ Here, should one understand "craving for being, and craving for non-being" as on
 ---
 
 **r/HillsideHermitage** | Posted by 1hullofaguy _2024-01-08 18:13:56_
-### How to understand Ven. Ñānavīra on PS in light of SN 12.2?
+### [How to understand Ven. Ñānavīra on PS in light of SN 12.2?](https://www.reddit.com/r/HillsideHermitage/comments/191rpsk/how_to_understand_ven_ñānavīra_on_ps_in_light_of/)
 
 Ven Ñānavīra has a unique interpretation of PS that has been very influential, especially in the HH teachings. He rejects that jāti in the PS formula refers to rebirth, as the Theravāda tradition has classically understood it, and instead asserts it simply means birth. He explains the implications of this in his “Notes on Dhamma,” writing:
 
@@ -10853,7 +10853,7 @@ My thanks 🙏🙏🙏
 ---
 
 **r/HillsideHermitage** | Posted by NAD1701 _2024-01-07 13:35:45_
-### Where is the suffering
+### [Where is the suffering](https://www.reddit.com/r/HillsideHermitage/comments/190sai4/where_is_the_suffering/)
 
 Scenario: 
 I’m having a discussion with a person and they say something that upsets me. 
@@ -10888,7 +10888,7 @@ Questions:
 ---
 
 **r/HillsideHermitage** | Posted by Single-Collar1393 _2024-01-04 20:12:05_
-### Giving into pressure
+### [Giving into pressure](https://www.reddit.com/r/HillsideHermitage/comments/18ymn08/giving_into_pressure/)
 
 I am here to seek help. I have been listening to HH for past 4 years. And for the past year, I have been constantly giving into pressures. I give into pressure even when I am fully aware that I’m making a bad choices and hate my self when giving into them. This has made me realize that every-time pressure arise, which it will everyday, I will give into them. Due to this, I am self-loathing and thinking about ending myself. What could I do?
 
@@ -11010,7 +11010,7 @@ I am here to seek help. I have been listening to HH for past 4 years. And for th
 ---
 
 **r/HillsideHermitage** | Posted by deus_ex_coffee _2024-01-03 00:38:12_
-### Is there a comprehensive guide or system of the gradual training for lay people?
+### [Is there a comprehensive guide or system of the gradual training for lay people?](https://www.reddit.com/r/HillsideHermitage/comments/18x5imq/is_there_a_comprehensive_guide_or_system_of_the/)
 
 I’m happy to have recently come across hillside hermitage and the teachings presented here. The content is quite dense to say the least so I’m wondering if there is a system or guide for those at day one? 
 All the best .
@@ -11041,7 +11041,7 @@ All the best .
 ---
 
 **r/HillsideHermitage** | Posted by ReputationVarious311 _2024-01-02 11:32:02_
-### The mechanism of doubt
+### [The mechanism of doubt](https://www.reddit.com/r/HillsideHermitage/comments/18wnd58/the_mechanism_of_doubt/)
 
  This morning I've tried to dig out certain HH video concerning the workings of doubt, the one, if I remember correctly, in which the resolution of doubts is said to be found in starving them out by not feeding (into) them. Basically, an interrogation of doubts was recognized as the food for their growth and sustenance.
 

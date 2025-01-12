@@ -87,7 +87,7 @@ def create_intended_md_from_submission(submission_dict: dict[str, str | float]) 
     submission_time_str = datetime.datetime.fromtimestamp(submission_dict['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
 
     submission_md = f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time_str}_\n"
-    submission_md += f"### {submission_dict['title']}\n\n"
+    submission_md += f"### [{submission_dict['title']}]({submission_dict["link"]})\n\n"
     submission_md += f"{submission_dict['body']}\n\n"
 
     # Fetch and process comments for the submission
@@ -137,7 +137,7 @@ def create_non_indented_md_from_submission(submission_dict: dict[str, str | floa
     """
     submission_time_str = datetime.datetime.fromtimestamp(submission_dict['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
 
-    submission_md = f"## {submission_dict['title']}\n"
+    submission_md = f"## [{submission_dict['title']}]({submission_dict["link"]})\n"
     submission_md += f"**Subreddit**: {submission_dict['subreddit']} | **Posted by**: {submission_dict['author']} _{submission_time_str}_\n\n"
     submission_md += f"{sanitize_markdown_content(submission_dict['body'])}\n\n"
 
@@ -163,7 +163,7 @@ def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
     parent_info = ""
     if thread['parent']:
         parent_info = " *(in reply to a comment not included)*"
-    comment_title = f"{heading_prefix} Comment by [{thread['user']}]({thread['url']} on {comment_time}{parent_info}"
+    comment_title = f"{heading_prefix} Comment by [{thread['user']}]({thread['url']}) on {comment_time}{parent_info}"
 
     # Add content
     markdown = f"{comment_title}\n\n{sanitize_markdown_content(thread['content'])}\n\n"
