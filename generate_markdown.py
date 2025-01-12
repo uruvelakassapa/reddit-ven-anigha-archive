@@ -1,5 +1,6 @@
 import sqlite3
 import datetime
+from typing import Any
 
 metablock_template = """\
 ---
@@ -13,10 +14,7 @@ description: \"Reddit discussions by Ven Anīgha in {year}.\"
 
 """
 
-conn = sqlite3.connect('reddit_comments.db')
-
 def save_comments_to_markdown():
-    c = conn.cursor()
     c.execute('SELECT * FROM submissions ORDER BY created_at DESC')
     submissions = c.fetchall()
     column_names = [description[0] for description in c.description]
@@ -38,25 +36,11 @@ def save_comments_to_markdown():
             file.write(metablock)
 
             for submission_dict in submissions_in_year:
-                # Format submission time
-                submission_time_str = datetime.datetime.fromtimestamp(submission_dict['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
-
-                file.write(f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time_str}_\n")
-                file.write(f"### {submission_dict['title']}\n\n")
-                file.write(f"{submission_dict['body']}\n\n")
-
-                # Fetch and process comments for the submission
-                c.execute('SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc', (submission_dict['id'],))
-                comments = c.fetchall()
-
-                threads = create_thread_dicts(comments)
-                for thread in threads:
-                    file.write(generate_markdown(thread))
-                file.write("\n---\n\n")
+                file.write(create_intended_md_from_submission(submission_dict))
 
             print(f"Markdown file generated for {year}: {filename}")
 
-def create_thread_dicts(threads: list[list[str]]) -> list[dict[str,str]]:
+def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str,str]]:
     thread_dict = {}
     for thread in threads:
         thread_dict[thread[0]] = {
@@ -91,8 +75,24 @@ def create_thread_dicts(threads: list[list[str]]) -> list[dict[str,str]]:
 
     return top_level_threads + orphan_threads
 
+def create_intended_md_from_submission(submission_dict: dict[str, str | float]) -> str:
+    submission_time_str = datetime.datetime.fromtimestamp(submission_dict['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
 
-def generate_markdown(thread: dict[str, str], level=0) -> str:
+    submission_md = f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time_str}_\n"
+    submission_md += f"### {submission_dict['title']}\n\n"
+    submission_md += f"{submission_dict['body']}\n\n"
+
+    # Fetch and process comments for the submission
+    c.execute('SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc', (submission_dict['id'],))
+    comments = c.fetchall()
+
+    threads = create_thread_dicts(comments)
+    for thread in threads:
+        submission_md += create_intended_md_from_thread(thread)
+    return submission_md + "\n---\n\n"
+
+
+def create_intended_md_from_thread(thread: dict[str, str], level=0) -> str:
     indent_str = '    ' * level 
     content_indent_str = '    ' * (level + 1)
     paragraphs = thread['content'].split('\n\n')
@@ -111,12 +111,12 @@ def generate_markdown(thread: dict[str, str], level=0) -> str:
     # Sort children by 'created_at' ascending
     sorted_children = sorted(thread["children"], key=lambda x: x['created_at'])
     for child in sorted_children:
-        markdown += generate_markdown(child, level + 1)
+        markdown += create_intended_md_from_thread(child, level + 1)
     return markdown
 
-def main():
+if __name__ == "__main__":
+    conn = sqlite3.connect('reddit_comments.db')
+    c = conn.cursor()
+
     save_comments_to_markdown()
     print("Markdown file generated from the database.")
-
-if __name__ == "__main__":
-    main()
