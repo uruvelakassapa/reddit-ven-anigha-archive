@@ -7,4 +7,4 @@ Both files are run every midnight Sunday UTC.
 Todo
 
 - [ ] automatic pdf generation
-- [ ] automatic epub generation
+- [✔️] automatic epub generation
