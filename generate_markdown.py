@@ -1,6 +1,18 @@
 import sqlite3
 import datetime
 
+metablock_template = """\
+---
+title: \"Ven Anīgha Reddit Archive {year}\"
+author: \"Ven Anīgha\"
+date: \"{year}\"
+description: \"Reddit discussions by Ven Anīgha in {year}.\"
+---
+
+# Ven Anīgha Reddit Archive {year}
+
+"""
+
 conn = sqlite3.connect('reddit_comments.db')
 
 def save_comments_to_markdown():
@@ -22,13 +34,8 @@ def save_comments_to_markdown():
     for year, submissions_in_year in submissions_by_year.items():
         filename = f'markdown_files/ven_anigha_reddit_archive_{year}.md'
         with open(filename, 'w', encoding='utf-8') as file:
-            file.write("---\n")
-            file.write(f"title: \"Ven Anīgha Reddit Archive {year}\"\n")
-            file.write("author: \"Ven Anīgha\"\n")
-            file.write(f"date: \"{year}\"\n")
-            file.write(f"description: \"Reddit discussions by Ven Anīgha in {year}.\"\n")
-            file.write("---\n\n")
-            file.write(f"# Ven Anīgha Reddit Archive {year}\n\n")
+            metablock = metablock_template.format(year=year)
+            file.write(metablock)
 
             for submission_dict in submissions_in_year:
                 # Format submission time
