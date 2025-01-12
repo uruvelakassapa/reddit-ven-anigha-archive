@@ -41,11 +41,15 @@ def save_comments_to_markdown():
                 # Fetch and process comments for the submission
                 c.execute('SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc', (submission_dict['id'],))
                 comments = c.fetchall()
-                markdown_output = create_nested_structure(comments)
-                file.write(markdown_output)
+
+                threads = create_thread_dicts(comments)
+                for thread in threads:
+                    file.write(generate_markdown(thread))
+                file.write("\n---\n\n")
+
             print(f"Markdown file generated for {year}: {filename}")
 
-def create_nested_structure(threads: list[list[str]]) -> str:
+def create_thread_dicts(threads: list[list[str]]) -> list[dict[str,str]]:
     thread_dict = {}
     for thread in threads:
         thread_dict[thread[0]] = {
@@ -59,32 +63,27 @@ def create_nested_structure(threads: list[list[str]]) -> str:
         }
 
     # Build the nested structure
-    for thread_id, thread in thread_dict.items():
+    top_level_threads = []
+    orphan_threads = []
+
+    for thread in thread_dict.values():
         parent_id = thread["parent"]
+        # Populate children threads
         if parent_id and parent_id in thread_dict:
             thread_dict[parent_id]["children"].append(thread)
-        else:
-            thread["parent_missing"] = parent_id
-
-    # Separate roots into top-level comments and orphan comments
-    top_level_roots = [thread for thread in thread_dict.values() if not thread["parent"]]
-    orphan_roots = [thread for thread in thread_dict.values() if thread.get("parent_missing") and thread["parent"]]
-
+        
+        # Root threads have no parents.
+        if not parent_id:
+            top_level_threads.append(thread)
+        # Orphan threads have parent_ids not in the database.
+        elif parent_id not in thread_dict:
+            orphan_threads.append(thread)
+        
     # Sort top-level roots by 'created_at' ascending
-    top_level_roots.sort(key=lambda x: x['created_at'])
+    top_level_threads.sort(key=lambda x: x['created_at'])
 
-    markdown_output = ""
+    return top_level_threads + orphan_threads
 
-    # Process top-level roots first
-    for root in top_level_roots:
-        markdown_output += generate_markdown(root)
-
-    # Optionally process orphan roots
-    for root in orphan_roots:
-        markdown_output += generate_markdown(root)
-
-    markdown_output += "\n---\n\n"
-    return markdown_output
 
 def generate_markdown(thread: dict[str, str], level=0) -> str:
     indent_str = '    ' * level 
