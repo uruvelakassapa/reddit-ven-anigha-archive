@@ -1,6 +1,7 @@
-import sqlite3
-import datetime
 from typing import Any
+import datetime
+import re
+import sqlite3
 
 metablock_template = """\
 ---
@@ -30,15 +31,22 @@ def save_comments_to_markdown():
 
     # Process submissions year by year
     for year, submissions_in_year in submissions_by_year.items():
-        filename = f'markdown_files/ven_anigha_reddit_archive_{year}.md'
-        with open(filename, 'w', encoding='utf-8') as file:
-            metablock = metablock_template.format(year=year)
-            file.write(metablock)
+        md_filename = f'markdown_files/ven_anigha_reddit_archive_{year}.md'
+        epub_md_filename = f'epub_files/ven_anigha_reddit_archive_{year}.md'
 
-            for submission_dict in submissions_in_year:
-                file.write(create_intended_md_from_submission(submission_dict))
+        metablock = metablock_template.format(year=year)
+        with open(epub_md_filename, 'w', encoding='utf-8') as epub_md_file:
+            with open(md_filename, 'w', encoding='utf-8') as md_file:
+                md_file.write(metablock)
+                epub_md_file.write(metablock)
 
-            print(f"Markdown file generated for {year}: {filename}")
+                for submission_dict in submissions_in_year:
+                    md_file.write(create_intended_md_from_submission(submission_dict))
+                    epub_md_file.write(create_non_indented_md_from_submission(submission_dict))
+
+                print(f"Indented markdown file generated for {year}: {md_filename}")
+                print(f"Markdown files for EPUB generated for {year}: {md_filename}")
+        
 
 def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str,str]]:
     thread_dict = {}
@@ -112,6 +120,58 @@ def create_intended_md_from_thread(thread: dict[str, str], level=0) -> str:
     sorted_children = sorted(thread["children"], key=lambda x: x['created_at'])
     for child in sorted_children:
         markdown += create_intended_md_from_thread(child, level + 1)
+    return markdown
+
+def sanitize_markdown_content(content: str) -> str:
+    """
+    Sanitize user-generated content to prevent it from interfering with EPUB markdown structure.
+    """
+    # Escape markdown headers by prefixing with a backslash
+    sanitized_content = re.sub(r'^(#+)', r'\\\1', content, flags=re.MULTILINE)
+    return sanitized_content
+
+
+def create_non_indented_md_from_submission(submission_dict: dict[str, str | float]) -> str:
+    """
+    Generate markdown for a submission without indentation for EPUB generation, using titles for structure.
+    """
+    submission_time_str = datetime.datetime.fromtimestamp(submission_dict['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
+
+    submission_md = f"## {submission_dict['title']}\n"
+    submission_md += f"**Subreddit**: {submission_dict['subreddit']} | **Posted by**: {submission_dict['author']} _{submission_time_str}_\n\n"
+    submission_md += f"{sanitize_markdown_content(submission_dict['body'])}\n\n"
+
+    # Fetch and process comments for the submission
+    c.execute('SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc', (submission_dict['id'],))
+    comments = c.fetchall()
+
+    threads = create_thread_dicts(comments)
+    for thread in threads:
+        submission_md += create_non_indented_md_from_thread(thread)
+    return submission_md
+
+
+def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
+    """
+    Generate markdown for a thread without indentation for EPUB generation, using markdown headings.
+    """
+    # Use level to determine heading level (e.g., ###, ####)
+    heading_prefix = "#" * (level + 3)  # Start from ### for comments
+    comment_time = datetime.datetime.fromtimestamp(thread['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
+
+    # Build comment title
+    parent_info = ""
+    if thread['parent']:
+        parent_info = " *(in reply to a comment not included)*"
+    comment_title = f"{heading_prefix} Comment by [{thread['user']}]({thread['url']} on {comment_time}{parent_info}"
+
+    # Add content
+    markdown = f"{comment_title}\n\n{sanitize_markdown_content(thread['content'])}\n\n"
+
+    # Sort children by 'created_at' ascending
+    sorted_children = sorted(thread["children"], key=lambda x: x['created_at'])
+    for child in sorted_children:
+        markdown += create_non_indented_md_from_thread(child, level + 1)
     return markdown
 
 if __name__ == "__main__":

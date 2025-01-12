@@ -50,6 +50,14 @@ jobs:
     - name: Run the markdown generation script
       run: |
         python generate_markdown.py
+    
+    - name: Set up Pandoc
+      run: |
+        sudo apt-get install -y pandoc texlive texlive-xetex
+    
+    - name: Convert Markdown to EPUB
+      run: |
+        for file in epub_files/*.md; do pandoc "$file" -o "epub_files/$(basename "$file" .md).epub"; done
 
     - name: Commit and push changes if markdown files were created
       run: |
