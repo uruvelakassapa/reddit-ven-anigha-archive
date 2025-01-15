@@ -171,7 +171,7 @@ def create_non_indented_md_from_submission(
         submission_dict["created_at"], datetime.UTC
     ).strftime("%Y-%m-%d %H:%M:%S")
 
-    submission_md = f"## [{submission_dict['title']}]({submission_dict["link"]})\n"
+    submission_md = f"## [{submission_dict['title']}]({submission_dict['link']})\n"
     submission_md += f"**Subreddit**: {submission_dict['subreddit']} | **Posted by**: {submission_dict['author']} _{submission_time_str}_\n\n"
     submission_md += f"{sanitize_markdown_content(submission_dict['body'])}\n\n"
 
