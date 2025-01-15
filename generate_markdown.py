@@ -1,7 +1,10 @@
 from typing import Any
 import datetime
+import os
 import re
+import shutil
 import sqlite3
+import subprocess
 
 metablock_template = """\
 ---
@@ -9,6 +12,13 @@ title: \"Ven Anīgha Reddit Archive {year}\"
 author: \"Ven Anīgha\"
 date: \"{year}\"
 description: \"Reddit discussions by Ven Anīgha in {year}.\"
+mainfont: "Times New Roman"
+fontsize: 12pt
+geometry: margin=1in
+documentclass: book
+pdf-engine: xelatex
+toc: true
+toc-depth: 2
 ---
 
 # Ven Anīgha Reddit Archive {year}
@@ -32,19 +42,18 @@ def save_comments_to_markdown():
     # Process submissions year by year
     for year, submissions_in_year in submissions_by_year.items():
         md_filename = f'markdown_files/ven_anigha_reddit_archive_{year}.md'
-        epub_md_filename = f'epub_files/ven_anigha_reddit_archive_{year}.md'
+        epub_md_filename = f'temp_files/ven_anigha_reddit_archive_{year}.md'
 
         metablock = metablock_template.format(year=year)
         with open(epub_md_filename, 'w', encoding='utf-8') as epub_md_file:
             with open(md_filename, 'w', encoding='utf-8') as md_file:
-                md_file.write(metablock)
                 epub_md_file.write(metablock)
 
                 for submission_dict in submissions_in_year:
                     md_file.write(create_intended_md_from_submission(submission_dict))
                     epub_md_file.write(create_non_indented_md_from_submission(submission_dict))
 
-                print(f"Indented markdown file generated for {year}: {md_filename}")
+                print(f"Markdown files with indention generated for {year}: {md_filename}")
                 print(f"Markdown files for EPUB generated for {year}: {md_filename}")
         
 
@@ -159,13 +168,11 @@ def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
     heading_prefix = "#" * (level + 3)  # Start from ### for comments
     comment_time = datetime.datetime.fromtimestamp(thread['created_at'], datetime.UTC).strftime('%Y-%m-%d %H:%M:%S')
 
-    # Build comment title
     parent_info = ""
     if thread['parent']:
         parent_info = " *(in reply to a comment not included)*"
     comment_title = f"{heading_prefix} Comment by [{thread['user']}]({thread['url']}) on {comment_time}{parent_info}"
 
-    # Add content
     markdown = f"{comment_title}\n\n{sanitize_markdown_content(thread['content'])}\n\n"
 
     # Sort children by 'created_at' ascending
@@ -174,9 +181,23 @@ def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
         markdown += create_non_indented_md_from_thread(child, level + 1)
     return markdown
 
+def convert_to_epub_and_pdf(input_dir: str, epub_dir: str, pdf_dir) -> None:
+    for file in os.listdir(input_dir):
+        if file.endswith(".md"):
+            base_name = os.path.splitext(file)[0]
+            try:
+                subprocess.run(["pandoc", os.path.join(input_dir, file), "-o", os.path.join(epub_dir, f"{base_name}.epub")])
+                subprocess.run(["pandoc", os.path.join(input_dir, file), "-o", os.path.join(pdf_dir, f"{base_name}.pdf"), "--pdf-engine", "xelatex"])
+                print(f"Converted {file} to EPUB and PDF.")
+            except Exception as e:
+                print(f"Failed to convert {file}: {e}")
+
 if __name__ == "__main__":
     conn = sqlite3.connect('reddit_comments.db')
     c = conn.cursor()
 
+    os.makedirs('temp_files', exist_ok=True)
     save_comments_to_markdown()
     print("Markdown file generated from the database.")
+    convert_to_epub_and_pdf("temp_files", "epub_files", "pdf_files")
+    shutil.rmtree("temp_files")

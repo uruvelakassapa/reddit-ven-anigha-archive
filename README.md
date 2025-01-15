@@ -8,3 +8,8 @@ Todo
 
 - [ ] automatic pdf generation
 - [x] automatic epub generation
+
+# Packages for PDF generation
+
+[Install pandocs by following this link.](https://pandoc.org/installing.html)
+[Install Noto Serif.](https://fonts.google.com/selection)

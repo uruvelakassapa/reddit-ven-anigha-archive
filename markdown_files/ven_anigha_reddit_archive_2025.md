@@ -1,12 +1,3 @@
----
-title: "Ven Anīgha Reddit Archive 2025"
-author: "Ven Anīgha"
-date: "2025"
-description: "Reddit discussions by Ven Anīgha in 2025."
----
-
-# Ven Anīgha Reddit Archive 2025
-
 **r/HillsideHermitage** | Posted by Ok-Addition-7759 _2025-01-10 20:06:07_
 ### [What is the appropriate attitude/view to have towards one's parents? ](https://www.reddit.com/r/HillsideHermitage/comments/1hydjpc/what_is_the_appropriate_attitudeview_to_have/)
 
