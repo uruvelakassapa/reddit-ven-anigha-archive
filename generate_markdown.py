@@ -12,7 +12,7 @@ title: \"Ven Anīgha Reddit Archive {year}\"
 author: \"Ven Anīgha\"
 date: \"{year}\"
 description: \"Reddit discussions by Ven Anīgha in {year}.\"
-mainfont: "Times New Roman"
+mainfont: "Source Serif 4"
 fontsize: 12pt
 geometry: margin=1in
 documentclass: book
