@@ -78,12 +78,25 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add **/ven_anigha_reddit_archive_* reddit_comments.db
+
+        echo "Adding files to staging area..."
+        git add **/ven_anigha_reddit_archive_* reddit_comments.db --verbose
+        echo
+
+        # Check if there are changes to commit
         if git diff --cached --quiet; then
           echo "No changes to commit."
         else
-          git commit -m "Update Reddit comments and markdown files"
-          git push origin HEAD:${{ github.ref }}
+          echo "Committing changes..."
+          git commit -m "Update Reddit comments and markdown files" --verbose
+          echo
+
+          echo "Latest commit log:"
+          git --no-pager log -1 --stat
+          echo
+
+          echo "Pushing changes to remote repository..."
+          git push origin HEAD:${{ github.ref }} --verbose
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
