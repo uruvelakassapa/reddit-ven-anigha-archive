@@ -11,10 +11,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Attempt to download the latest database artifact
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: reddit-comments-db
         path: ${{ runner.temp }}/sqlite
@@ -29,12 +29,14 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.13'
 
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install praw python-dotenv tqdm
+        python -m venv .venv
+        source .venv/bin/activate
+        pip install --upgrade pip
+        pip install -r requirements.txt
 
     - name: Run the Reddit comments fetch script
       env:
@@ -45,28 +47,63 @@ jobs:
         LIMIT: ${{ secrets.LIMIT }}
         TILL_LAST_COMMENT: true  # Adjust based on whether you want to fetch since the last comment
       run: |
+        source .venv/bin/activate
         python fetch_comments.py
+    
+    - name: Set up Pandoc
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc texlive-xetex
+    
+    - name: Install Source Serif
+      run: |
+        cd $(mktemp -d /tmp/source_serif_4.XXXXXX)
+        TEMP_DIR=$(pwd)
+
+        sudo mkdir -p /usr/share/fonts/opentype/source_serif_4/
+
+        wget https://github.com/adobe-fonts/source-serif/releases/download/4.005R/source-serif-4.005_Desktop.zip
+        unzip source-serif-4.005_Desktop.zip
+        sudo cp source-serif-4.005_Desktop/OTF/*.otf /usr/share/fonts/opentype/source_serif_4/
+
+        sudo fc-cache -f -v
+
+        cd $GITHUB_WORKSPACE
+        rm -rf $TEMP_DIR
 
     - name: Run the markdown generation script
       run: |
         python generate_markdown.py
-
+    
     - name: Commit and push changes if markdown files were created
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add ven_anigha_reddit_archive_*.md reddit_comments.db
+
+        echo "Adding files to staging area..."
+        git add **/ven_anigha_reddit_archive_* reddit_comments.db --verbose
+        echo
+
+        # Check if there are changes to commit
         if git diff --cached --quiet; then
           echo "No changes to commit."
         else
-          git commit -m "Update Reddit comments and markdown files"
-          git push origin HEAD:${{ github.ref }}
+          echo "Committing changes..."
+          git commit -m "Update Reddit comments and markdown files" --verbose
+          echo
+
+          echo "Latest commit log:"
+          git --no-pager log -1 --stat
+          echo
+
+          echo "Pushing changes to remote repository..."
+          git push origin HEAD:${{ github.ref }} --verbose
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Store database persistently
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: reddit-comments-db
         path: reddit_comments.db

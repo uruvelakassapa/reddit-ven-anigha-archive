@@ -1,11 +1,33 @@
-import sqlite3
+from typing import Any
 import datetime
+import os
+import re
+import shutil
+import sqlite3
+import subprocess
 
-conn = sqlite3.connect('reddit_comments.db')
+metablock_template = """\
+---
+title: \"Ven Anīgha Reddit Archive {year}\"
+author: \"Ven Anīgha\"
+date: \"{year}\"
+description: \"Reddit discussions by Ven Anīgha in {year}.\"
+mainfont: "Source Serif 4"
+fontsize: 12pt
+geometry: margin=1in
+documentclass: book
+pdf-engine: xelatex
+toc: true
+toc-depth: 2
+---
+
+# Ven Anīgha Reddit Archive {year}
+
+"""
+
 
 def save_comments_to_markdown():
-    c = conn.cursor()
-    c.execute('SELECT * FROM submissions ORDER BY created_at DESC')
+    c.execute("SELECT * FROM submissions ORDER BY created_at DESC")
     submissions = c.fetchall()
     column_names = [description[0] for description in c.description]
 
@@ -14,29 +36,35 @@ def save_comments_to_markdown():
     for submission in submissions:
         submission_dict = dict(zip(column_names, submission))
         # Get the year from created_at timestamp
-        submission_time = datetime.datetime.utcfromtimestamp(submission_dict['created_at'])
+        submission_time = datetime.datetime.fromtimestamp(
+            submission_dict["created_at"], datetime.UTC
+        )
         year = submission_time.year
         submissions_by_year.setdefault(year, []).append(submission_dict)
 
     # Process submissions year by year
     for year, submissions_in_year in submissions_by_year.items():
-        filename = f'ven_anigha_reddit_archive_{year}.md'
-        with open(filename, 'w', encoding='utf-8') as file:
-            for submission_dict in submissions_in_year:
-                # Format submission time
-                submission_time_str = datetime.datetime.utcfromtimestamp(submission_dict['created_at']).strftime('%Y-%m-%d %H:%M:%S')
+        md_filename = f"markdown_files/ven_anigha_reddit_archive_{year}.md"
+        epub_md_filename = f"temp_files/ven_anigha_reddit_archive_{year}.md"
 
-                file.write(f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time_str}_\n")
-                file.write(f"### {submission_dict['title']}\n\n")
-                file.write(f"{submission_dict['body']}\n\n")
+        metablock = metablock_template.format(year=year)
+        with open(epub_md_filename, "w", encoding="utf-8") as epub_md_file:
+            with open(md_filename, "w", encoding="utf-8") as md_file:
+                epub_md_file.write(metablock)
 
-                # Fetch and process comments for the submission
-                c.execute('SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc', (submission_dict['id'],))
-                comments = c.fetchall()
-                create_nested_structure(comments, file)
-            print(f"Markdown file generated for {year}: {filename}")
+                for submission_dict in submissions_in_year:
+                    md_file.write(create_intended_md_from_submission(submission_dict))
+                    epub_md_file.write(
+                        create_non_indented_md_from_submission(submission_dict)
+                    )
 
-def create_nested_structure(threads, file_obj):
+                print(
+                    f"Markdown files with indention generated for {year}: {md_filename}"
+                )
+                print(f"Markdown files for EPUB generated for {year}: {md_filename}")
+
+
+def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str, str]]:
     thread_dict = {}
     for thread in threads:
         thread_dict[thread[0]] = {
@@ -46,61 +74,178 @@ def create_nested_structure(threads, file_obj):
             "content": thread[6],
             "url": thread[5],
             "created_at": thread[3],
-            "children": []
+            "children": [],
         }
 
     # Build the nested structure
-    for thread_id, thread in thread_dict.items():
+    top_level_threads = []
+    orphan_threads = []
+
+    for thread in thread_dict.values():
         parent_id = thread["parent"]
+        # Populate children threads
         if parent_id and parent_id in thread_dict:
             thread_dict[parent_id]["children"].append(thread)
-        else:
-            thread["parent_missing"] = parent_id
 
-    # Separate roots into top-level comments and orphan comments
-    top_level_roots = [thread for thread in thread_dict.values() if not thread["parent"]]
-    orphan_roots = [thread for thread in thread_dict.values() if thread.get("parent_missing") and thread["parent"]]
+        # Root threads have no parents.
+        if not parent_id:
+            top_level_threads.append(thread)
+        # Orphan threads have parent_ids not in the database.
+        elif parent_id not in thread_dict:
+            orphan_threads.append(thread)
 
     # Sort top-level roots by 'created_at' ascending
-    top_level_roots.sort(key=lambda x: x['created_at'])
+    top_level_threads.sort(key=lambda x: x["created_at"])
 
-    markdown_output = ""
+    return top_level_threads + orphan_threads
 
-    # Process top-level roots first
-    for root in top_level_roots:
-        markdown_output += generate_markdown(root)
 
-    # Optionally process orphan roots
-    for root in orphan_roots:
-        markdown_output += generate_markdown(root)
+def create_intended_md_from_submission(submission_dict: dict[str, str | float]) -> str:
+    submission_time_str = datetime.datetime.fromtimestamp(
+        submission_dict["created_at"], datetime.UTC
+    ).strftime("%Y-%m-%d %H:%M:%S")
 
-    markdown_output += "\n---\n\n"
-    file_obj.write(markdown_output)
+    submission_md = f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time_str}_\n"
+    submission_md += f"### [{submission_dict['title']}]({submission_dict['link']})\n\n"
+    submission_md += f"{submission_dict['body']}\n\n"
 
-def generate_markdown(thread, indent=0):
-    indent_str = '    ' * indent
-    content_indent_str = '    ' * (indent + 1)
-    paragraphs = thread['content'].split('\n\n')
-    indented_paragraphs = ['\n'.join(f"{content_indent_str}{line}" for line in paragraph.split('\n')) for paragraph in paragraphs]
-    indented_content = '\n\n'.join(indented_paragraphs)
-    
+    # Fetch and process comments for the submission
+    c.execute(
+        "SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc",
+        (submission_dict["id"],),
+    )
+    comments = c.fetchall()
+
+    threads = create_thread_dicts(comments)
+    for thread in threads:
+        submission_md += create_intended_md_from_thread(thread)
+    return submission_md + "\n---\n\n"
+
+
+def create_intended_md_from_thread(thread: dict[str, str], level=0) -> str:
+    indent_str = "    " * level
+    content_indent_str = "    " * (level + 1)
+    paragraphs = thread["content"].split("\n\n")
+    indented_paragraphs = [
+        "\n".join(f"{content_indent_str}{line}" for line in paragraph.split("\n"))
+        for paragraph in paragraphs
+    ]
+    indented_content = "\n\n".join(indented_paragraphs)
+
     parent_info = ""
-    if thread['parent']:
+    if thread["parent"]:
         parent_info = " *(in reply to a comment not included)*"
 
-    comment_time = datetime.datetime.utcfromtimestamp(thread['created_at']).strftime('%Y-%m-%d %H:%M:%S')
-    
-    markdown = f"{indent_str}- **[{thread['user']}]({thread['url']})** _{comment_time}{parent_info}:\n\n{indented_content}\n"
+    comment_time = datetime.datetime.fromtimestamp(
+        thread["created_at"], datetime.UTC
+    ).strftime("%Y-%m-%d %H:%M:%S")
+    comment_title = (
+        f"**[{thread['user']}]({thread['url']})** _{comment_time}{parent_info}"
+    )
+
+    markdown = f"{indent_str}- {comment_title}:\n\n{indented_content}\n"
 
     # Sort children by 'created_at' ascending
-    sorted_children = sorted(thread["children"], key=lambda x: x['created_at'])
+    sorted_children = sorted(thread["children"], key=lambda x: x["created_at"])
     for child in sorted_children:
-        markdown += generate_markdown(child, indent + 1)
+        markdown += create_intended_md_from_thread(child, level + 1)
     return markdown
 
-def main():
-    save_comments_to_markdown()
-    print("Markdown file generated from the database.")
+
+def sanitize_markdown_content(content: str) -> str:
+    """
+    Sanitize user-generated content to prevent it from interfering with EPUB markdown structure.
+    """
+    # Escape markdown headers by prefixing with a backslash
+    sanitized_content = re.sub(r"^(#+)", r"\\\1", content, flags=re.MULTILINE)
+    return sanitized_content
+
+
+def create_non_indented_md_from_submission(
+    submission_dict: dict[str, str | float]
+) -> str:
+    """
+    Generate markdown for a submission without indentation for EPUB generation, using titles for structure.
+    """
+    submission_time_str = datetime.datetime.fromtimestamp(
+        submission_dict["created_at"], datetime.UTC
+    ).strftime("%Y-%m-%d %H:%M:%S")
+
+    submission_md = f"## [{submission_dict['title']}]({submission_dict['link']})\n"
+    submission_md += f"**Subreddit**: {submission_dict['subreddit']} | **Posted by**: {submission_dict['author']} _{submission_time_str}_\n\n"
+    submission_md += f"{sanitize_markdown_content(submission_dict['body'])}\n\n"
+
+    # Fetch and process comments for the submission
+    c.execute(
+        "SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc",
+        (submission_dict["id"],),
+    )
+    comments = c.fetchall()
+
+    threads = create_thread_dicts(comments)
+    for thread in threads:
+        submission_md += create_non_indented_md_from_thread(thread)
+    return submission_md
+
+
+def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
+    """
+    Generate markdown for a thread without indentation for EPUB generation, using markdown headings.
+    """
+    # Use level to determine heading level (e.g., ###, ####)
+    heading_prefix = "#" * (level + 3)  # Start from ### for comments
+    comment_time = datetime.datetime.fromtimestamp(
+        thread["created_at"], datetime.UTC
+    ).strftime("%Y-%m-%d %H:%M:%S")
+
+    parent_info = ""
+    if thread["parent"]:
+        parent_info = " *(in reply to a comment not included)*"
+    comment_title = f"{heading_prefix} Comment by [{thread['user']}]({thread['url']}) on {comment_time}{parent_info}"
+
+    markdown = f"{comment_title}\n\n{sanitize_markdown_content(thread['content'])}\n\n"
+
+    # Sort children by 'created_at' ascending
+    sorted_children = sorted(thread["children"], key=lambda x: x["created_at"])
+    for child in sorted_children:
+        markdown += create_non_indented_md_from_thread(child, level + 1)
+    return markdown
+
+
+def convert_to_epub_and_pdf(input_dir: str, epub_dir: str, pdf_dir) -> None:
+    for file in os.listdir(input_dir):
+        if file.endswith(".md"):
+            base_name = os.path.splitext(file)[0]
+            try:
+                subprocess.run(
+                    [
+                        "pandoc",
+                        os.path.join(input_dir, file),
+                        "-o",
+                        os.path.join(epub_dir, f"{base_name}.epub"),
+                    ]
+                )
+                subprocess.run(
+                    [
+                        "pandoc",
+                        os.path.join(input_dir, file),
+                        "-o",
+                        os.path.join(pdf_dir, f"{base_name}.pdf"),
+                        "--pdf-engine",
+                        "xelatex",
+                    ]
+                )
+                print(f"Converted {file} to EPUB and PDF.")
+            except Exception as e:
+                print(f"Failed to convert {file}: {e}")
+
 
 if __name__ == "__main__":
-    main()
+    conn = sqlite3.connect("reddit_comments.db")
+    c = conn.cursor()
+
+    os.makedirs("temp_files", exist_ok=True)
+    save_comments_to_markdown()
+    print("Markdown file generated from the database.")
+    convert_to_epub_and_pdf("temp_files", "epub_files", "pdf_files")
+    shutil.rmtree("temp_files")

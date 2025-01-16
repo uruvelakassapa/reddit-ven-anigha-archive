@@ -1,0 +1,3 @@
+# Ignore these files for locally running Github Workflows using act
+.secrets
+.artifacts
