@@ -6,6 +6,8 @@ Then markdown, pdf, and epub files are created by year with `generate_markdown.p
 
 Both database and output files are run every midnight Sunday UTC.
 
+Most of the time, comments from Reddit have quotes markers in the correct place. However, there are some quotes that don't have their markers. Some comments have paragraphs that seem like Anigha is saying it, but it's actually a quote of the other person. This issue is quite rare though and it's very clear when Anigha is speaking in the text.
+
 ## Todo
 
 - [x] automatic pdf generation
