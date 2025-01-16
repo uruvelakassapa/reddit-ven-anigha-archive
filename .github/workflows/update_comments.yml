@@ -57,16 +57,16 @@ jobs:
     
     - name: Install Source Serif
       run: |
-        cd $(mktemp -d /tmp/source_serif_4)
+        cd $(mktemp -d /tmp/source_serif_4.XXXXXX)
         TEMP_DIR=$(pwd)
 
-        mkdir -p /usr/share/fonts/opentype/source_serif_4/
+        sudo mkdir -p /usr/share/fonts/opentype/source_serif_4/
 
         wget https://github.com/adobe-fonts/source-serif/releases/download/4.005R/source-serif-4.005_Desktop.zip
         unzip source-serif-4.005_Desktop.zip
-        cp source-serif-4.005_Desktop/OTF/*.otf /usr/share/fonts/opentype/source_serif_4/
+        sudo cp source-serif-4.005_Desktop/OTF/*.otf /usr/share/fonts/opentype/source_serif_4/
 
-        fc-cache -f -v
+        sudo fc-cache -f -v
 
         cd $GITHUB_WORKSPACE
         rm -rf $TEMP_DIR
