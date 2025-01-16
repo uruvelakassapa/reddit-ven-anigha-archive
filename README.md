@@ -16,6 +16,7 @@ Most of the time, comments from Reddit have quotes markers in the correct place.
 - [ ] (maybe) include the parent comments within threads as opposed to only the original question.
 - [ ] Fix questions that were deleted and show up as [removed] in the database.
 - [ ] Fix issue where emojis are missing from PDFs.
+- [ ] Links in the PDFs work but they are hard to distinguish from normal text because they aren't underlined.
 
 ## Packages for PDF local package generation
 
