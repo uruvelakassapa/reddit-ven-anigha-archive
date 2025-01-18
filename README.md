@@ -1,13 +1,22 @@
-Archiving all comments by [Venerable Anīgha on reddit](https://www.reddit.com/user/Bhikkhu_Anigha/comments/).
+This repo archives all comments by [Venerable Anīgha on Reddit](https://www.reddit.com/user/Bhikkhu_Anigha/comments/) then generates readable files.
 
-The sqlite database contains all comments by Ven. Anīgha as well as the original questions. This is database is populated by fetch_comments.py
-Then markdown files are created by year with generate_markdown.py.
-Both files are run every midnight Sunday UTC.
+The sqlite database contains all comments by Ven. Anīgha as well as the original questions. This is database is populated by `fetch_comments.py`.
 
-Todo
+Then markdown, pdf, and epub files are created by year with `generate_markdown.py`. The resulting files are in the `*_files/` folders.
+
+Both database and output files are run every midnight Sunday UTC.
+
+Most of the time, comments from Reddit have quotes markers in the correct place. However, there are some quotes that don't have their markers. Some comments have paragraphs that seem like Anigha is saying it, but it's actually a quote of the other person. This issue is quite rare though and it's very clear when Anigha is speaking in the text.
+
+## Todo
 
 - [x] automatic pdf generation
 - [x] automatic epub generation
+- [ ] Add date of generation to the files.
+- [ ] (maybe) include the parent comments within threads as opposed to only the original question.
+- [ ] Fix questions that were deleted and show up as [removed] in the database.
+- [ ] Fix issue where emojis are missing from PDFs.
+- [ ] Make external links in the PDFs more noticable. Links work but are hard to distinguish from normal text because they don't have a different style.
 
 ## Packages for PDF local package generation
 
