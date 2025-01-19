@@ -1,6 +1,5 @@
 from typing import Any
 import datetime
-import os
 import re
 import shutil
 import sqlite3
@@ -214,8 +213,8 @@ def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
     return markdown
 
 
-def convert_to_epub_and_pdf(input_dir: str, epub_dir: str, pdf_dir) -> None:
-    input_dir, epub_dir, pdf_dir = Path(input_dir), Path(epub_dir), Path(pdf_dir)
+def convert_to_epub_and_pdf(input_dir: Path, epub_dir: str, pdf_dir) -> None:
+    epub_dir, pdf_dir = Path(epub_dir), Path(pdf_dir)
 
     for file in input_dir.glob("*.md"):
         base_name = file.stem
@@ -228,7 +227,8 @@ def convert_to_epub_and_pdf(input_dir: str, epub_dir: str, pdf_dir) -> None:
                     str(file),
                     "-o",
                     str(epub_path),
-                ]
+                ],
+                check=True,
             )
             subprocess.run(
                 [
@@ -238,17 +238,23 @@ def convert_to_epub_and_pdf(input_dir: str, epub_dir: str, pdf_dir) -> None:
                     str(pdf_path),
                     "--pdf-engine",
                     "xelatex",
-                ]
+                ],
+                check=True,
             )
             print(f"Converted {file} into {epub_path} and {pdf_path}.")
+        except subprocess.CalledProcessError as e:
+            print(f"Pandoc failed to convert {file}: {e}")
         except Exception as e:
-            print(f"Failed to convert {file}: {e}")
+            print(f"An unexpected error occurred while converting {file}: {e}")
 
 
 if __name__ == "__main__":
-    with sqlite3.connect("reddit_comments.db") as conn:
-        os.makedirs("temp_files", exist_ok=True)
-        save_comments_to_markdown(conn, "markdown_files", "temp_files")
+    temp_files_dir = Path("temp_files")
+    temp_files_dir.mkdir(exist_ok=True)
+    try:
+        with sqlite3.connect("reddit_comments.db") as conn:
+            save_comments_to_markdown(conn, "markdown_files", temp_files_dir)
 
-    convert_to_epub_and_pdf("temp_files", "epub_files", "pdf_files")
-    shutil.rmtree("temp_files")
+        convert_to_epub_and_pdf(temp_files_dir, "epub_files", "pdf_files")
+    finally:
+        shutil.rmtree(temp_files_dir)
