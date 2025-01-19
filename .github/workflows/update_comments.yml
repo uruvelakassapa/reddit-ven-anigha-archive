@@ -34,9 +34,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m venv .venv
-        source .venv/bin/activate
-        pip install --upgrade pip
-        pip install -r requirements.txt
+        .venv/bin/pip install --upgrade pip
+        .venv/bin/pip install .
 
     - name: Run the Reddit comments fetch script
       env:
@@ -47,8 +46,7 @@ jobs:
         LIMIT: ${{ secrets.LIMIT }}
         TILL_LAST_COMMENT: true  # Adjust based on whether you want to fetch since the last comment
       run: |
-        source .venv/bin/activate
-        python fetch_comments.py
+        .venv/bin/python src/fetch_comments.py
     
     - name: Set up Pandoc
       run: |
@@ -73,7 +71,7 @@ jobs:
 
     - name: Run the markdown generation script
       run: |
-        python generate_markdown.py
+        .venv/bin/python src/generate_markdown.py
     
     - name: Commit and push changes if markdown files were created
       run: |
