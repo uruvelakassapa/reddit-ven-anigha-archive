@@ -4,7 +4,7 @@ import sqlite3
 from pathlib import Path
 import pytest
 
-from generate_markdown import (
+from src.generate_markdown import (
     create_intended_md_from_submission,
     create_intended_md_from_thread,
     create_non_indented_md_from_submission,
@@ -238,44 +238,39 @@ def in_memory_db(
 
 
 def test_create_thread_dicts(
-    sample_db_data: tuple[list[dict[str, Any]], list[dict[str, Any]]]
+    in_memory_db: sqlite3.Connection,
 ):
-    _, comments_data = sample_db_data
-    # Convert comments_data to the format expected by create_thread_dicts
-    threads = [
-        [
-            c["id"],
-            None,  # parent_id (not used in this conversion)
-            c["author"],
-            c["created_utc"],
-            c["parent_id"],
-            c["permalink"],
-            c["comment_body"],
-        ]
-        for c in comments_data
-    ]
-
-    thread_dicts = create_thread_dicts(threads)
+    cursor = in_memory_db.cursor()
+    cursor.execute(
+        """
+        SELECT
+            id, submission_id, author, created_utc, parent_id, permalink, comment_body, updated_at
+        FROM comments
+        ORDER BY created_utc
+        """
+    )
+    comments_data = cursor.fetchall()
+    comments_dicts = create_thread_dicts(comments_data)
 
     # Assertions to check if the structure is built correctly
-    assert len(thread_dicts) == 3  # Two top-level threads, one orphan
+    assert len(comments_dicts) == 3  # Two top-level threads, one orphan
 
     # Find top level threads (comments that have no parent)
-    top_level_threads = [t for t in thread_dicts if t["parent"] is None]
+    top_level_comments = [t for t in comments_dicts if t["parent_id"] is None]
 
     # Test top level threads
-    assert top_level_threads[0]["id"] == "com3"
-    assert len(top_level_threads[0]["children"]) == 1
-    assert top_level_threads[0]["children"][0]["id"] == "com4"
+    assert top_level_comments[0]["id"] == "com3"
+    assert len(top_level_comments[0]["children"]) == 1
+    assert top_level_comments[0]["children"][0]["id"] == "com4"
 
-    assert top_level_threads[1]["id"] == "com1"
-    assert len(top_level_threads[1]["children"]) == 1
-    assert top_level_threads[1]["children"][0]["id"] == "com2"
+    assert top_level_comments[1]["id"] == "com1"
+    assert len(top_level_comments[1]["children"]) == 1
+    assert top_level_comments[1]["children"][0]["id"] == "com2"
 
     # Find orphan threads
-    orphan_threads = thread_dicts[len(top_level_threads) :]
-    assert len(orphan_threads) == 1
-    assert orphan_threads[0]["id"] == "com7"
+    orphan_comments = comments_dicts[len(top_level_comments) :]
+    assert len(orphan_comments) == 1
+    assert orphan_comments[0]["id"] == "com7"
 
 
 def test_create_intended_md_from_submission(
@@ -319,29 +314,29 @@ def test_create_intended_md_from_submission(
 
 
 def test_create_intended_md_from_thread():
-    thread1 = {
+    comment1 = {
         "id": "com1",
-        "parent": None,
-        "user": "Commenter1",
-        "content": "Comment 1 on Submission 1",
-        "url": "https://www.reddit.com/r/subreddit1/comments/sub1/comment_1/",
-        "created_at": datetime.datetime(2024, 1, 2, tzinfo=datetime.UTC).timestamp(),
+        "parent_id": None,
+        "author": "Commenter1",
+        "comment_body": "Comment 1 on Submission 1",
+        "permalink": "https://www.reddit.com/r/subreddit1/comments/sub1/comment_1/",
+        "created_utc": datetime.datetime(2024, 1, 2, tzinfo=datetime.UTC).timestamp(),
         "children": [],
         "type": CommentType.PARENT,
     }
-    thread2 = {
+    comment2 = {
         "id": "com2",
-        "parent": "com1",
-        "user": "Commenter2",
-        "content": "Comment 2 (reply to Comment 1)",
-        "url": "https://www.reddit.com/r/subreddit1/comments/sub1/comment_2/",
-        "created_at": datetime.datetime(2024, 1, 3, tzinfo=datetime.UTC).timestamp(),
+        "parent_id": "com1",
+        "author": "Commenter2",
+        "comment_body": "Comment 2 (reply to Comment 1)",
+        "permalink": "https://www.reddit.com/r/subreddit1/comments/sub1/comment_2/",
+        "created_utc": datetime.datetime(2024, 1, 3, tzinfo=datetime.UTC).timestamp(),
         "children": [],
         "type": CommentType.REPLY,
     }
-    thread1["children"].append(thread2)
+    comment1["children"].append(comment2)
 
-    result = create_intended_md_from_thread(thread1)
+    result = create_intended_md_from_thread(comment1)
     expected = (
         "- **[Commenter1](https://www.reddit.com/r/subreddit1/comments/sub1/comment_1/)** _2024-01-02 00:00:00_:\n\n"
         "    Comment 1 on Submission 1\n"
@@ -350,40 +345,40 @@ def test_create_intended_md_from_thread():
     )
     assert result == expected
 
-    thread3 = {
+    comment3 = {
         "id": "com3",
-        "parent": None,
-        "user": "Commenter3",
-        "content": "Comment 3 on Submission 2",
-        "url": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_3/",
-        "created_at": datetime.datetime(2023, 2, 2, tzinfo=datetime.UTC).timestamp(),
+        "parent_id": None,
+        "author": "Commenter3",
+        "comment_body": "Comment 3 on Submission 2",
+        "permalink": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_3/",
+        "created_utc": datetime.datetime(2023, 2, 2, tzinfo=datetime.UTC).timestamp(),
         "children": [],
         "type": CommentType.PARENT,
     }
-    thread4 = {
+    comment4 = {
         "id": "com4",
-        "parent": "com3",
-        "user": "Commenter4",
-        "content": "Comment 4 (reply to Comment 3)\n\n# Header in comment",
-        "url": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_4/",
-        "created_at": datetime.datetime(2023, 2, 3, tzinfo=datetime.UTC).timestamp(),
+        "parent_id": "com3",
+        "author": "Commenter4",
+        "comment_body": "Comment 4 (reply to Comment 3)\n\n# Header in comment",
+        "permalink": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_4/",
+        "created_utc": datetime.datetime(2023, 2, 3, tzinfo=datetime.UTC).timestamp(),
         "children": [],
         "type": CommentType.REPLY,
     }
-    thread5 = {
+    comment5 = {
         "id": "com5",
-        "parent": "com4",
-        "user": "Commenter5",
-        "content": "Comment 5 (reply to Comment 4)",
-        "url": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_5/",
-        "created_at": datetime.datetime(2023, 2, 4, tzinfo=datetime.UTC).timestamp(),
+        "parent_id": "com4",
+        "author": "Commenter5",
+        "comment_body": "Comment 5 (reply to Comment 4)",
+        "permalink": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_5/",
+        "created_utc": datetime.datetime(2023, 2, 4, tzinfo=datetime.UTC).timestamp(),
         "children": [],
         "type": CommentType.REPLY,
     }
-    thread3["children"].append(thread4)
-    thread4["children"].append(thread5)
+    comment3["children"].append(comment4)
+    comment4["children"].append(comment5)
 
-    result = create_intended_md_from_thread(thread3)
+    result = create_intended_md_from_thread(comment3)
     expected = (
         "- **[Commenter3](https://www.reddit.com/r/subreddit2/comments/sub2/comment_3/)** _2023-02-02 00:00:00_:\n\n"
         "    Comment 3 on Submission 2\n"
@@ -438,29 +433,29 @@ def test_create_non_indented_md_from_submission(
 
 
 def test_create_non_indented_md_from_thread():
-    thread1 = {
+    comment1 = {
         "id": "com1",
-        "parent": None,
-        "user": "Commenter1",
-        "content": "Comment 1 on Submission 1",
-        "url": "https://www.reddit.com/r/subreddit1/comments/sub1/comment_1/",
-        "created_at": datetime.datetime(2024, 1, 2, tzinfo=datetime.UTC).timestamp(),
+        "parent_id": None,
+        "author": "Commenter1",
+        "comment_body": "Comment 1 on Submission 1",
+        "permalink": "https://www.reddit.com/r/subreddit1/comments/sub1/comment_1/",
+        "created_utc": datetime.datetime(2024, 1, 2, tzinfo=datetime.UTC).timestamp(),
         "children": [],
         "type": CommentType.PARENT,
     }
-    thread2 = {
+    comment2 = {
         "id": "com2",
-        "parent": "com1",
-        "user": "Commenter2",
-        "content": "Comment 2 (reply to Comment 1)",
-        "url": "https://www.reddit.com/r/subreddit1/comments/sub1/comment_2/",
-        "created_at": datetime.datetime(2024, 1, 3, tzinfo=datetime.UTC).timestamp(),
+        "parent_id": "com1",
+        "author": "Commenter2",
+        "comment_body": "Comment 2 (reply to Comment 1)",
+        "permalink": "https://www.reddit.com/r/subreddit1/comments/sub1/comment_2/",
+        "created_utc": datetime.datetime(2024, 1, 3, tzinfo=datetime.UTC).timestamp(),
         "children": [],
         "type": CommentType.REPLY,
     }
-    thread1["children"].append(thread2)
+    comment1["children"].append(comment2)
 
-    result = create_non_indented_md_from_thread(thread1)
+    result = create_non_indented_md_from_thread(comment1)
     expected = (
         "### Comment by [Commenter1](https://www.reddit.com/r/subreddit1/comments/sub1/comment_1/) on 2024-01-02 00:00:00\n\n"
         "Comment 1 on Submission 1\n\n"
@@ -469,40 +464,40 @@ def test_create_non_indented_md_from_thread():
     )
     assert result == expected
 
-    thread3 = {
+    comment3 = {
         "id": "com3",
-        "parent": None,
-        "user": "Commenter3",
-        "content": "Comment 3 on Submission 2",
-        "url": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_3/",
-        "created_at": datetime.datetime(2023, 2, 2, tzinfo=datetime.UTC).timestamp(),
+        "parent_id": None,
+        "author": "Commenter3",
+        "comment_body": "Comment 3 on Submission 2",
+        "permalink": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_3/",
+        "created_utc": datetime.datetime(2023, 2, 2, tzinfo=datetime.UTC).timestamp(),
         "children": [],
         "type": CommentType.PARENT,
     }
-    thread4 = {
+    comment4 = {
         "id": "com4",
-        "parent": "com3",
-        "user": "Commenter4",
-        "content": "Comment 4 (reply to Comment 3)\n\n# Header in comment",
-        "url": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_4/",
-        "created_at": datetime.datetime(2023, 2, 3, tzinfo=datetime.UTC).timestamp(),
+        "parent_id": "com3",
+        "author": "Commenter4",
+        "comment_body": "Comment 4 (reply to Comment 3)\n\n# Header in comment",
+        "permalink": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_4/",
+        "created_utc": datetime.datetime(2023, 2, 3, tzinfo=datetime.UTC).timestamp(),
         "children": [],
         "type": CommentType.REPLY,
     }
-    thread5 = {
+    comment5 = {
         "id": "com5",
-        "parent": "com4",
-        "user": "Commenter5",
-        "content": "Comment 5 (reply to Comment 4)",
-        "url": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_5/",
-        "created_at": datetime.datetime(2023, 2, 4, tzinfo=datetime.UTC).timestamp(),
+        "parent_id": "com4",
+        "author": "Commenter5",
+        "comment_body": "Comment 5 (reply to Comment 4)",
+        "permalink": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_5/",
+        "created_utc": datetime.datetime(2023, 2, 4, tzinfo=datetime.UTC).timestamp(),
         "children": [],
         "type": CommentType.REPLY,
     }
-    thread3["children"].append(thread4)
-    thread4["children"].append(thread5)
+    comment3["children"].append(comment4)
+    comment4["children"].append(comment5)
 
-    result = create_non_indented_md_from_thread(thread3)
+    result = create_non_indented_md_from_thread(comment3)
     expected = (
         "### Comment by [Commenter3](https://www.reddit.com/r/subreddit2/comments/sub2/comment_3/) on 2023-02-02 00:00:00\n\n"
         "Comment 3 on Submission 2\n\n"

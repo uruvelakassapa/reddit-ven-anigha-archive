@@ -47,7 +47,14 @@ def save_comments_to_markdown(
     temp_dir.mkdir(exist_ok=True)
 
     cursor = conn.cursor()
-    cursor.execute("SELECT * FROM submissions ORDER BY created_at DESC")
+    cursor.execute(
+        """
+        SELECT
+            id, title, body, author, created_at, link, subreddit, updated_at
+        FROM submissions
+        ORDER BY created_at DESC
+        """
+    )
     submissions = cursor.fetchall()
     column_names = [description[0] for description in cursor.description]
 
@@ -91,57 +98,59 @@ class CommentType(Enum):
     ORPHAN = 3
 
 
-def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str, str]]:
+def create_thread_dicts(comments: list[list[Any]]) -> list[dict[str, Any]]:
     """
     Converts a list of comment tuples into a list of nested dictionaries representing the thread structure.
 
     Args:
-        threads: A list of tuples, each representing a comment with its attributes.
+        comments: A list of tuples, each representing a comment with its attributes.
 
     Returns:
         A list of dictionaries, where each dictionary represents a comment thread,
         potentially nested with child comments under the 'children' key.
     """
-    thread_dict = {}
-    for thread in threads:
-        thread_dict[thread[0]] = {
-            "id": thread[0],
-            "parent": thread[4],
-            "user": thread[2],
-            "content": thread[6],
-            "url": thread[5],
-            "created_at": thread[3],
+    comments_dict = {}
+    for comment in comments:
+        comments_dict[comment[0]] = {
+            "id": comment[0],
+            "submission_id": comment[1],
+            "author": comment[2],
+            "created_utc": comment[3],
+            "parent_id": comment[4],
+            "permalink": comment[5],
+            "comment_body": comment[6],
+            "updated_at": comment[7],
             "children": [],
             "type": None,
         }
 
     # Build the nested structure
-    top_level_threads = []
-    orphan_threads = []
+    top_level_comments = []
+    orphan_comments = []
 
-    for thread in thread_dict.values():
-        parent_id = thread["parent"]
-        # Populate children threads
-        if parent_id and parent_id in thread_dict:
-            thread_dict[parent_id]["children"].append(thread)
+    for comment in comments_dict.values():
+        parent_id = comment["parent_id"]
+        # Populate children comments
+        if parent_id and parent_id in comments_dict:
+            comments_dict[parent_id]["children"].append(comment)
 
-        # Root threads have no parents.
+        # Root comments have no parents.
         if not parent_id:
-            thread["type"] = CommentType.PARENT
-            top_level_threads.append(thread)
-        # Orphan threads have parent_ids not in the database.
-        elif parent_id not in thread_dict:
-            thread["type"] = CommentType.ORPHAN
-            orphan_threads.append(thread)
+            comment["type"] = CommentType.PARENT
+            top_level_comments.append(comment)
+        # Orphan comments have parent_ids not in the database.
+        elif parent_id not in comments_dict:
+            comment["type"] = CommentType.ORPHAN
+            orphan_comments.append(comment)
         else:
-            # Reply thread are not added because they will be traversed by the parent thread
-            thread["type"] = CommentType.REPLY
+            # Reply comment are not added because they will be traversed by the parent comment
+            comment["type"] = CommentType.REPLY
 
-    top_level_threads.sort(key=lambda x: x["created_at"])
-    orphan_threads.sort(key=lambda x: x["created_at"])
+    top_level_comments.sort(key=lambda x: x["created_utc"])
+    orphan_comments.sort(key=lambda x: x["created_utc"])
 
-    # Append all orphan_threads to the end so that comments with parents are seen first.
-    return top_level_threads + orphan_threads
+    # Append all orphan_comments to the end so that comments with parents are seen first.
+    return top_level_comments + orphan_comments
 
 
 def create_intended_md_from_submission(
@@ -168,23 +177,29 @@ def create_intended_md_from_submission(
 
     # Fetch and process comments for the submission
     cursor.execute(
-        "SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc",
+        """
+        SELECT
+            id, submission_id, author, created_utc, parent_id, permalink, comment_body, updated_at
+        FROM comments
+        WHERE submission_id = ?
+        ORDER BY created_utc
+        """,
         (submission_dict["id"],),
     )
     comments = cursor.fetchall()
 
-    threads = create_thread_dicts(comments)
-    for thread in threads:
-        submission_md += create_intended_md_from_thread(thread)
+    comments_dict = create_thread_dicts(comments)
+    for comment in comments_dict:
+        submission_md += create_intended_md_from_thread(comment)
     return submission_md + "\n---\n\n"
 
 
-def create_intended_md_from_thread(thread: dict[str, str], level=0) -> str:
+def create_intended_md_from_thread(comment: dict[str, Any], level=0) -> str:
     """
     Recursively generates indented markdown text for a comment thread.
 
     Args:
-        thread: A dictionary representing a comment thread.
+        comment: A dictionary representing a comment thread.
         level: The nesting level of the comment (default: 0).
 
     Returns:
@@ -193,24 +208,22 @@ def create_intended_md_from_thread(thread: dict[str, str], level=0) -> str:
     """
     indent = "    " * level
     content = "\n".join(
-        f"{indent + "    " + line if line else ""}"
-        for line in thread["content"].splitlines()
+        f"{indent + '    ' + line if line else ''}"
+        for line in comment["comment_body"].splitlines()
     )
 
     parent_info = ""
-    if thread["type"] == CommentType.ORPHAN:
+    if comment["type"] == CommentType.ORPHAN:
         parent_info = " *(in reply to a comment not included)*"
 
     comment_time = datetime.datetime.fromtimestamp(
-        thread["created_at"], datetime.UTC
+        comment["created_utc"], datetime.UTC
     ).strftime("%Y-%m-%d %H:%M:%S")
-    comment_title = (
-        f"**[{thread['user']}]({thread['url']})** _{comment_time}_{parent_info}"
-    )
+    comment_title = f"**[{comment['author']}]({comment['permalink']})** _{comment_time}_{parent_info}"
 
     markdown = f"{indent}- {comment_title}:\n\n{content}\n"
 
-    sorted_children = sorted(thread["children"], key=lambda x: x["created_at"])
+    sorted_children = sorted(comment["children"], key=lambda x: x["created_utc"])
     for child in sorted_children:
         markdown += create_intended_md_from_thread(child, level + 1)
     return markdown
@@ -259,25 +272,31 @@ def create_non_indented_md_from_submission(
 
     # Fetch and process comments for the submission
     cursor.execute(
-        "SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc",
+        """
+        SELECT
+            id, submission_id, author, created_utc, parent_id, permalink, comment_body, updated_at
+        FROM comments
+        WHERE submission_id = ?
+        ORDER BY created_utc
+        """,
         (submission_dict["id"],),
     )
     comments = cursor.fetchall()
 
-    threads = create_thread_dicts(comments)
-    for thread in threads:
-        submission_md += create_non_indented_md_from_thread(thread)
+    comments_dict = create_thread_dicts(comments)
+    for comment in comments_dict:
+        submission_md += create_non_indented_md_from_thread(comment)
     return submission_md
 
 
-def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
+def create_non_indented_md_from_thread(comment: dict[str, Any], level=0) -> str:
     """
     Recursively generates non-indented markdown text for a comment thread, suitable for EPUB generation.
 
     Uses markdown headings to represent the comment hierarchy.
 
     Args:
-        thread: A dictionary representing a comment thread.
+        comment: A dictionary representing a comment thread.
         level: The nesting level of the comment (default: 0).
 
     Returns:
@@ -287,18 +306,20 @@ def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
     # Use level to determine heading level (e.g., ###, ####)
     heading_prefix = "#" * (level + 3)  # Start from ### for comments
     comment_time = datetime.datetime.fromtimestamp(
-        thread["created_at"], datetime.UTC
+        comment["created_utc"], datetime.UTC
     ).strftime("%Y-%m-%d %H:%M:%S")
 
     parent_info = ""
-    if thread["type"] == CommentType.ORPHAN:
+    if comment["type"] == CommentType.ORPHAN:
         parent_info = " *(in reply to a comment not included)*"
-    comment_title = f"{heading_prefix} Comment by [{thread['user']}]({thread['url']}) on {comment_time}{parent_info}"
+    comment_title = f"{heading_prefix} Comment by [{comment['author']}]({comment['permalink']}) on {comment_time}{parent_info}"
 
-    markdown = f"{comment_title}\n\n{sanitize_markdown_content(thread['content'])}\n\n"
+    markdown = (
+        f"{comment_title}\n\n{sanitize_markdown_content(comment['comment_body'])}\n\n"
+    )
 
     # Sort children by 'created_at' ascending
-    sorted_children = sorted(thread["children"], key=lambda x: x["created_at"])
+    sorted_children = sorted(comment["children"], key=lambda x: x["created_utc"])
     for child in sorted_children:
         markdown += create_non_indented_md_from_thread(child, level + 1)
     return markdown

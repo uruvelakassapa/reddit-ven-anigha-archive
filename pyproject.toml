@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=43.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project]
+name = "reddit-ven-anigha-archive"
+version = "0.0.1"
+description = "Fetches and archives comments from /u/Bhikkhu_Anigha's comments on Reddit"
+authors = [
+  { name = "f0lie", email = "9092074+f0lie@users.noreply.github.com" }
+]
+dependencies = [
+    "praw",
+    "python-dotenv",
+    "tqdm",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest>=8.0",
+    "coverage",
+    "pytest-cov"
+]
+style = [
+    "black"
+]
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+testpaths = [
+    "tests",
+]
+
+[tool.black]
+line-length = 88
+
+[tool.coverage.run]
+branch = true
+source = ["src"] 
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = true

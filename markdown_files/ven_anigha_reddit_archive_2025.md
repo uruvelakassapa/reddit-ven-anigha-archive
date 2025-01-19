@@ -1,3 +1,30 @@
+**r/HillsideHermitage** | Posted by Belozersky _2025-01-18 22:59:45_
+### [Whatever has the nature of arising has the nature of ceasing; Freedom from suffering too?](https://www.reddit.com/r/HillsideHermitage/comments/1i4jukp/whatever_has_the_nature_of_arising_has_the_nature/)
+
+Whatever has the nature of arising has the nature of ceasing.
+
+Freedom from suffering has the nature of arising.
+
+Hence, Freedom from suffering has the nature of ceasing.
+
+This argument would mean that liberation can't be unconditional. The very fact that you've achieved liberation means that you will lose it at some point. What do you think about this argument? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i4jukp/whatever_has_the_nature_of_arising_has_the_nature/m7xq56r/)** _2025-01-19 05:34:48_:
+
+    >Freedom from suffering has the nature of arising.
+
+    Technically it does not. That's one reason why the widespread conception of awakening/freedom from suffering as an "experience" is very misguided. Such a thing, having not been there before and then all of a sudden appearing, will inevitably be impermanent *in its nature* (i.e., its facticity of having arisen), no matter how extraordinary—even "unconditioned"—its *content* is.
+
+    >“Bhikkhus, there are these three characteristics that define the conditioned. What three? An arising is seen, a vanishing is seen, and its alteration while it persists is seen. These are the three characteristics that define the conditioned.
+
+    >“Bhikkhus, there are these three characteristics that define the unconditioned. What three? No arising is seen, no vanishing is seen, and no alteration while it persists is seen. These are the three characteristics that define the unconditioned.”
+
+    —AN 3.47
+
+    For an explanation of what it means for Nibbāna not to be liable to arising, which also makes it clear that it's not a miraculous event that happens to you but something that you *understand*, see [this comment](https://www.reddit.com/r/HillsideHermitage/comments/1hi04ze/comment/m3dugvs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+
+---
+
 **r/HillsideHermitage** | Posted by Devotedlyindeed _2025-01-17 04:58:55_
 ### [Sutta accounts of jhāna while listening to/contemplating teachings](https://www.reddit.com/r/HillsideHermitage/comments/1i38we3/sutta_accounts_of_jhāna_while_listening/)
 

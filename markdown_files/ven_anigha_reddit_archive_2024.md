@@ -538,6 +538,21 @@ Do you think this sutta contradicts the structural (akaliko) DO? Is this an inst
     —AN 10.61
 
     Structural, timeless dependent origination does not exclude the traditional multi-life interpretation; it *includes* it as an instance of the principle (although the emphasis is still different, with the latter being a mere explanation that doesn't free one from suffering).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h9pfad/how_to_reconcile_sn1219_with_structural_dependent/m814zbr/)** _2025-01-19 19:21:55_ *(in reply to a comment not included)*:
+
+    They basically *have* to.
+
+    >And what should be described as subject to birth ? Partners and children, male and female bondservants, goats and sheep, chickens and pigs, elephants and cattle, and gold and money are subject to birth. These acquisitions are subject to birth. Someone who is tied to, infatuated with, and has fallen for such things, themselves subject to birth, seeks what is also subject to birth.
+
+    (repeated for aging, illness, and death) —MN 26
+
+    >And the sage at peace is not born, does not age, does not die; he is not shaken and does not yearn. For there is nothing present in him by which he might be born. Not being born, how could he age? Not ageing, how could he die? Not dying, how could he be shaken? Not being shaken, why should he yearn?
+
+    —MN 140
+
+    Birth is acquisition, aging and illness are deterioration, and death is final destruction. That general principle applies just as much to your sense of self as to things that sense of self takes ownership of, such as the body. Hence it's not like if you free yourself from attachment to the body, as the Buddha said a puthujjana can, you would be free from birth, aging, or death.
+
+    ([This Sutta](https://suttacentral.net/sn12.39/en/bodhi?lang=en&reference=none&highlight=false) uses the same terms people often assume refer to "literal" birth only (e.g., the "descent" of name and form), and says that they cease as soon as gives up all "tendencies," anusaya).
 
 ---
 
