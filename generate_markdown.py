@@ -31,6 +31,17 @@ toc-depth: 2
 def save_comments_to_markdown(
     conn: sqlite3.Connection, markdown_files_dir, temp_files_dir
 ) -> None:
+    """
+    Saves Reddit submissions and comments from a SQLite database to markdown files.
+
+    Organizes submissions by year and generates separate markdown files for each year.
+    Creates both indented and non-indented (for EPUB) markdown formats.
+
+    Args:
+        conn: An SQLite database connection.
+        markdown_files_dir: The directory to save the indented markdown files.
+        temp_files_dir: The directory to save the non-indented markdown files used for EPUB generation.
+    """
     markdown_dir = Path(markdown_files_dir)
     temp_dir = Path(temp_files_dir)
     temp_dir.mkdir(exist_ok=True)
@@ -68,6 +79,10 @@ def save_comments_to_markdown(
 
 
 class CommentType(Enum):
+    """
+    Enum representing the type of a comment within a thread.
+    """
+
     # Comments directly reponding to the submission.
     PARENT = 1
     # Comments replying to another comment.
@@ -77,6 +92,16 @@ class CommentType(Enum):
 
 
 def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str, str]]:
+    """
+    Converts a list of comment tuples into a list of nested dictionaries representing the thread structure.
+
+    Args:
+        threads: A list of tuples, each representing a comment with its attributes.
+
+    Returns:
+        A list of dictionaries, where each dictionary represents a comment thread,
+        potentially nested with child comments under the 'children' key.
+    """
     thread_dict = {}
     for thread in threads:
         thread_dict[thread[0]] = {
@@ -122,6 +147,17 @@ def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str, str]]:
 def create_intended_md_from_submission(
     cursor: sqlite3.Cursor, submission_dict: dict[str, str | float]
 ) -> str:
+    """
+    Generates indented markdown text for a given Reddit submission and its comments.
+
+    Args:
+        cursor: An SQLite database cursor.
+        submission_dict: A dictionary containing the submission data.
+
+    Returns:
+        A string containing the markdown representation of the submission and its comments,
+        with comments indented according to their nesting level.
+    """
     submission_time_str = datetime.datetime.fromtimestamp(
         submission_dict["created_at"], datetime.UTC
     ).strftime("%Y-%m-%d %H:%M:%S")
@@ -144,6 +180,17 @@ def create_intended_md_from_submission(
 
 
 def create_intended_md_from_thread(thread: dict[str, str], level=0) -> str:
+    """
+    Recursively generates indented markdown text for a comment thread.
+
+    Args:
+        thread: A dictionary representing a comment thread.
+        level: The nesting level of the comment (default: 0).
+
+    Returns:
+        A string containing the markdown representation of the comment and its replies,
+        with each comment indented according to its nesting level.
+    """
     indent = "    " * level
     content = "\n".join(
         f"{indent + "    " + line if line else ""}"
@@ -171,7 +218,15 @@ def create_intended_md_from_thread(thread: dict[str, str], level=0) -> str:
 
 def sanitize_markdown_content(content: str) -> str:
     """
-    Sanitize user-generated content to prevent it from interfering with EPUB markdown structure.
+    Sanitizes user-generated content to prevent it from interfering with EPUB markdown structure.
+
+    Currently, it escapes markdown headers by prefixing them with a backslash.
+
+    Args:
+        content: The string content to sanitize.
+
+    Returns:
+        The sanitized string content.
     """
     # Escape markdown headers by prefixing with a backslash
     sanitized_content = re.sub(r"^(#+)", r"\\\1", content, flags=re.MULTILINE)
@@ -182,7 +237,17 @@ def create_non_indented_md_from_submission(
     cursor: sqlite3.Cursor, submission_dict: dict[str, str | float]
 ) -> str:
     """
-    Generate markdown for a submission without indentation for EPUB generation, using titles for structure.
+    Generates non-indented markdown text for a given Reddit submission and its comments, suitable for EPUB generation.
+
+    Uses markdown headings to represent the structure instead of indentation.
+
+    Args:
+        cursor: An SQLite database cursor.
+        submission_dict: A dictionary containing the submission data.
+
+    Returns:
+        A string containing the markdown representation of the submission and its comments,
+        without indentation and using headings for structure.
     """
     submission_time_str = datetime.datetime.fromtimestamp(
         submission_dict["created_at"], datetime.UTC
@@ -207,7 +272,17 @@ def create_non_indented_md_from_submission(
 
 def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
     """
-    Generate markdown for a thread without indentation for EPUB generation, using markdown headings.
+    Recursively generates non-indented markdown text for a comment thread, suitable for EPUB generation.
+
+    Uses markdown headings to represent the comment hierarchy.
+
+    Args:
+        thread: A dictionary representing a comment thread.
+        level: The nesting level of the comment (default: 0).
+
+    Returns:
+        A string containing the markdown representation of the comment and its replies,
+        without indentation and using headings for structure.
     """
     # Use level to determine heading level (e.g., ###, ####)
     heading_prefix = "#" * (level + 3)  # Start from ### for comments
@@ -230,6 +305,14 @@ def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
 
 
 def convert_to_epub_and_pdf(input_dir: Path, epub_dir: str, pdf_dir) -> None:
+    """
+    Converts markdown files in a directory to EPUB and PDF formats using pandoc.
+
+    Args:
+        input_dir: The directory containing the markdown files.
+        epub_dir: The directory to save the generated EPUB files.
+        pdf_dir: The directory to save the generated PDF files.
+    """
     epub_dir, pdf_dir = Path(epub_dir), Path(pdf_dir)
 
     for file in input_dir.glob("*.md"):
