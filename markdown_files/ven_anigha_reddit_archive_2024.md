@@ -725,10 +725,10 @@ From what I gather, HH takes modern talk about jhana as chasing after pleasure. 
 
     It does not "exclude" it. The point is that, as mentioned in my reply quoted in the root comment above, the Suttas don't say that one arrives at a calm mind free from hindrances by working with pleasant sensations, but entirely the other way round. 
 
-    
+
     As a result of freeing the mind from all forms of compulsion, starting with sensuality, bodily pleasure will be experienced. And sure, bodily pleasure is experienced through sensations, but the sensations are not what jhana is. Jhana is the withdrawal from hindrances and unwholesome states, and the bodily pleasure serves as a proxy for the strength and depth of that withdrawal, thus pervading the body with it means that one is becoming *even more* aloof from unwholesome states. 
 
-    
+
      Making the pleasant sensations themselves the goal instead of the seclusion from all forms of thirst is trying to take a shorcut in vain, since it turns it into a sensual practice, and thus not jhana. 
 
 ---
@@ -2537,7 +2537,7 @@ To this end, I would have a few questions:
 
     No. The only thing that happens daily is the meal. Occasionally, there are small jobs to do here and there, usually finished before noon. The best time to visit would be after the meal duties are finished, at around 10AM.
 
-    
+
     >- Would it be approriate to come with my wife and daughters (not Buddhist and clueless about it) ?
 
     Not for staying overnight, since we wouldn't have enough rooms, and also because every guest should be a practitioner and keep the eight precepts during their stay.
@@ -3631,7 +3631,7 @@ Again, it is not my intention to be dismissive of anyone, or wanting to criticiz
 
     —SN 13.11
 
-    
+
     That is why the Buddha describes it the way he does in the Arrow Sutta, instead of saying that the noble disciple "does" something and *then* is not hit by suffering. But when speaking to noble disciples, he didn't fail to remind them that they still have work to do and that they should be diligent and continue practicing. 
 
     The Dhamma is *opanayika* and *ehipassika*: it's meant to primarily push ***you*** onwards. Providing a cohesive system of intellectual principles is a secondary goal (which from my perspective it also achieves). For certain people, the latter can serve as a vehicle for the former, but for others, excessive concern with intellectual clarity gets in the way of the primary goal.
@@ -4258,7 +4258,7 @@ Is it not theoretically possible that one could attain jhāna without having gon
     >Suppose a carpenter or his apprentice sees the marks of his fingers and thumb on the handle of his adze. He doesn’t know how much of the handle was worn away today, how much yesterday, and how much previously. He just knows ‘it’s worn away’ once it’s already worn away.  
     —SN 22.101
 
-    
+
 
     >
 
@@ -4856,7 +4856,7 @@ Lastly, it must be emphasized that the actual Sutta jhānas are not "lite jhāna
     But it is perfectly self-explanatory why it is beneficial to frequently abide in a state where not being affected by the tides ***is*** what’s pleasant.
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1e2hztc/on_thinking_about_jhāna_by_ven_thanissaro/ldgr99g/)** _2024-07-16 15:45:20 *(in reply to a comment not included)*:
 
-    
+
 
     Outside of samādhi, the body does feel the pull of agreeable and disagreeable sense objects, but for one who fully understands the deathless with the mind (not a mystical state outside of the aggregates, but rather the ever-present possibility to not crave amidst what incites craving, i.e., "withstand the tide"), that's a non-issue, because the mind is where the whole mass of suffering exists. An agitated body is just an insignificant nuisance in comparison, and that's why an Arahant doesn't *need* to protect their samādhi anymore ([MN 107](https://suttas.hillsidehermitage.org/?q=mn107#mn107:11.2), SN 16.5, SN 17.30). 
 
@@ -7931,22 +7931,22 @@ I'm unsure. Maybe such a "subtle thing" is about "including the sense of self" i
 
     >I'm unsure. Maybe such a "subtle thing" is about "including the sense of self" into the picture as it is often discussed? 
 
-    
+
     Yes. Even the most untrained puthujjana can see *instances* of form, feeling, etc. and know them as impermanent, etc. But what is subtle and hard to do is see those peripheral, more "personal" aspects of experience that you naturally takes for granted, and that endure *simultaneously* with the particular content, as also being within the aggregates. 
 
-    
+
     A good example of this is the situation described in the [previous thread](https://www.reddit.com/r/HillsideHermitage/comments/1b0g1ix/questions_on_the_samanadipa_vids/), where one recognizes that the attempt to even contemplate things and "practice" which seems fine superficially is underlain by a subtler aversion to the present feeling . That is a real part of your experience/five aggregates that is not recognized *while it's there*. 
 
-    
+
     But if you embark on a quest to "catch" such background intentions and inclinations with your direct attention, you will for that very reason fail to see them, and there will be pressures and attitudes lurking underneath *that* activity you're engaging in. They are always there **in regard to** the things you attend to directly. To use Ajahn Nyanamoli's simile, it's like those stars in the sky that are seen only *as peripheral* to other starts, and disappear the moment you try to zone in on them. Knowing the aggregates as they are requires you to have sufficiently grasped the signs of the mind/developed sufficient yoniso manasikara, and that means being able to recognize these overlooked phenomena. 
 
-    
+
     This is why the Buddha compared the aggregates to a murderer who earns your trust and kills you when you don't expect it. The way the householder in the simile places trust in that person and doesn't suspect them is analogous to how one overlooks the peripheral aspects of the five aggregates where all the assumptions and wrong attitudes become established. 
 
-    
+
     To extend the simile, people would instead tend to think of the aggregates as things they can see from afar as they're approaching, and that's how the naive methodical and systematic attitudes toward the practice come about. You'd think you escaped the danger by warding off and "antidoting" these obvious thoughts and pressures and focusing on objects, while you continue to commune with the murderer. 
 
-    
+
      Edit: The Sutta with the relevant simile is SN 22.85
 
 ---
@@ -9836,7 +9836,7 @@ Thank you in advance for reading and/or responding.
       
     >\[...\]  
 
-    
+
     >“Bhikkhus, whatever a bhikkhu frequently thinks and ponders upon, that will become the inclination of his mind. If he frequently thinks and ponders upon thoughts of renunciation, he has abandoned the thought of sensual desire to cultivate the thought of renunciation, and then his mind inclines to thoughts of renunciation. If he frequently thinks and ponders upon thoughts of non-ill will…upon thoughts of non-cruelty, he has abandoned the thought of cruelty to cultivate the thought of non-cruelty, and then his mind inclines to thoughts of non-cruelty.
 
     —MN 19
@@ -10051,10 +10051,10 @@ I ask, because I don't see how Right View could be anything but an assumption, b
 
     >like water drops from a lotus.   
 
-    
+
     >\[...\]  
 
-    
+
     >One who has abandoned aversion, 
 
     >is not averse amidst that which incites aversion.
@@ -10065,7 +10065,7 @@ I ask, because I don't see how Right View could be anything but an assumption, b
       
     \[...\]  
 
-    
+
     >One who has abandoned muddledness  
     is not muddled amidst that which incites muddledness.  
     He banishes all muddledness  
@@ -10073,7 +10073,7 @@ I ask, because I don't see how Right View could be anything but an assumption, b
 
     —Itivuttaka 3.39
 
-    
+
 
     With this I don't mean one should go seek out experiences that incite the defilements, but that once one has withdrawn from those outwardly through virtue and sense restraint, the *possibility* of those experiences arising needs to be addressed internally so that whether they come or not, one becomes perfectly certain that they will *not* be able to arouse the defilements that they are a *basis* for (and that total certainty is what Nibbāna, or even samādhi but temporarily, is). It's impossible to understand and address those possibilities while they are actualities (hence you need to have practiced *before* you get sick, old, and die, or before you encounter pressuring things in order to have any chance of not being overwhelmed by them).
 

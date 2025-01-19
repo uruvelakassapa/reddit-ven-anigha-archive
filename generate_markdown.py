@@ -129,14 +129,11 @@ def create_intended_md_from_submission(
 
 
 def create_intended_md_from_thread(thread: dict[str, str], level=0) -> str:
-    indent_str = "    " * level
-    content_indent_str = "    " * (level + 1)
-    paragraphs = thread["content"].split("\n\n")
-    indented_paragraphs = [
-        "\n".join(f"{content_indent_str}{line}" for line in paragraph.split("\n"))
-        for paragraph in paragraphs
-    ]
-    indented_content = "\n\n".join(indented_paragraphs)
+    indent = "    " * level
+    content = "\n".join(
+        f"{indent + "    " + line if line else ""}"
+        for line in thread["content"].splitlines()
+    )
 
     parent_info = ""
     if thread["parent"]:
@@ -149,7 +146,7 @@ def create_intended_md_from_thread(thread: dict[str, str], level=0) -> str:
         f"**[{thread['user']}]({thread['url']})** _{comment_time}{parent_info}"
     )
 
-    markdown = f"{indent_str}- {comment_title}:\n\n{indented_content}\n"
+    markdown = f"{indent}- {comment_title}:\n\n{content}\n"
 
     # Sort children by 'created_at' ascending
     sorted_children = sorted(thread["children"], key=lambda x: x["created_at"])
