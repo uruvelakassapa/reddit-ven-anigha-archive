@@ -1,3 +1,131 @@
+**r/HillsideHermitage** | Posted by Devotedlyindeed _2025-01-17 04:58:55_
+### [Sutta accounts of jhāna while listening to/contemplating teachings](https://www.reddit.com/r/HillsideHermitage/comments/1i38we3/sutta_accounts_of_jhāna_while_listening/)
+
+I was recently discussing with a monk (whose views on jhāna do not align with HH) the importance of contemplation in practice, and I mentioned that there were people who entered jhāna while listening to the Buddha teach. But it suddenly occurred to me that I actually don't know any explicit accounts of that happening. Maybe I just recalling this based on implications of people gaining Noble attainments while listening, figuring that must mean they had to go into jhāna to fulfill the N8P; it makes way more sense than assuming everyone who became enlightened while listening to the Buddha had already been practicing jhāna. But are there unequivocal accounts that it was like this?
+
+Additionally, are there unequivocal accounts in the suttas that people enter jhāna while actively contemplating, or is this something I've also inferred while reframing my views of meditation into something more contemplation-forward? (I know of modern accounts of such written pretty straightforwardly, such as Bhante Ñaņadīpa's, but can't recall any so clearly stated in the suttas.)
+
+I am seeking cut-and-dry examples, if there are any so clear.
+ Thanks in adance~
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i38we3/sutta_accounts_of_jhāna_while_listening/m7lc7fg/)** _2025-01-17 07:00:30:
+
+    You may have gotten that from [SN 46.38](https://suttacentral.net/sn46.38/en/bodhi?lang=en&reference=pts&highlight=false), which doesn't describe jhāna per se, only giving up the five hindrances.  It's also [often mentioned](https://suttas.hillsidehermitage.org/?q=mn56#mn56:18.3) how the Buddha would first teach about generosity and the danger in sensuality in order to make a person's mind free from hindrances (*vinīvaraṇa),* and only then teach them the Four Noble Truths.
+
+    It does show that abandoning the hindrances involves something very different from what people tend to think. It's fundamentally about *clarity of understanding*, chiefly regarding the harmful nature of sensuality, and the benefit and peace of giving it up. Hence it is said that understanding the former as it is, not just in theory but "as it really is with right understanding," [is an indispensable prerequisite](https://suttas.hillsidehermitage.org/?q=an6.73) for entering the first jhāna. After all, jhāna literally means nothing more obscure than "contemplation; reflection; consideration, etc." Hence the Suttas say one can "do jhāna" either wrongly or rightly, i.e. [with or without hindrances](https://suttacentral.net/mn108/en/sujato).
+
+    If an ordinary person's mind can be freed from hindrances and get to develop understanding in this way, then it's no wonder that a noble disciple listening to further expositions of the Four Noble Truths—who sees *the right meaning* of those teachings in his own experience directly and beyond doubt—would be free from the hindrances and fulfill the awakening factors at that time.
+
+    >Additionally, are there unequivocal accounts in the suttas that people enter jhāna while actively contemplating, or is this something I've also inferred while reframing my views of meditation into something more contemplation-forward
+
+    Every description of someone entering jhāna in the Suttas describes them contemplating the drawbacks of the five hindrances beforehand (e.g., DN 2, MN 39). There's also MN 19 and SN 35.246, which put it in a slightly different way.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i38we3/sutta_accounts_of_jhāna_while_listening/m7m7tu7/)** _2025-01-17 12:21:05 *(in reply to a comment not included)*:
+
+    >These seem to contradict each other, unless jhāna in general is a more broad term than "The First Jhāna"?
+
+    Yes, that was essentially my point. "jhāna" simply means "contemplation/reflection," and by itself in no way implies one is reflecting, contemplating *properly* (i.e., in such a way that the hindrances are overcome and the mind is tamed). The verb "pajjhāyati," from the same root as jhāna, means thinking in a distressed/dejected way, and "nijjhāna" is used to refer to considering/pondering a view, as a result of which one (rightly or wrongly) comes to agree with it.
+
+    >And then would it be right to say (proper noun:) Jhānas are simply when someone does jhāna, along with right view and absence of the 5H?
+
+    Correct. So when the Buddha spoke about "the four jhānas," those are the four contemplations that are always right because they lead squarely to right knowledge, dispassion and relinquishment. Hence they are defined as *sammāsamādhi.*
+
+    >And that since the Buddha describes going off to enter into and practice jhāna, he would therefore still experience the 5H. Is there somewhere you have explained this matter?
+
+    Not sure what you mean by this. If you mean that the Buddha still had the five hindrances and therefore had to go and practice jhāna, that would not be correct. As he said, an Arahant's hindrances are ["cut off at the root, not liable to future arising."](https://suttacentral.net/sn54.12/en/sujato?lang=en&layout=plain&reference=pts&notes=asterisk&highlight=false&script=latin)
+
+    Thus, First Jhāna at the very least implies freedom from the five hindrances, but freedom from the five hindrances does not imply jhāna (as seen also in the Suttas I cited above). If Arahants were perpetually in at least the first jhāna, they would not be able to speak.
+
+    >Thank you for elaborating; I'm not very good at logic with these things.
+
+    Sure, no problem.
+
+---
+
+**r/HillsideHermitage** | Posted by Formal_Breath_2025 _2025-01-16 13:50:26_
+### [Two ways of thinking about Jhāna?](https://www.reddit.com/r/HillsideHermitage/comments/1i2pbul/two_ways_of_thinking_about_jhāna/)
+
+I have recently been listening to Ven. Nyanamoli’s talks about Jhāna and I feel like there are two different themes that tend to come up. One is that Jhāna is developed naturally when one has abandoned the 5 hindrances and develops the pleasure of seclusion and renunciation, and the other is that Jhāna is developed by reflecting on subtle themes within experience: in the 1st Jhāna it’s that speech is determined by thinking and pondering, and understanding that these are two separate domains with cessation of speech, all the way to the 4th Jhāna where it’s that breathing itself has a prior life-determination which exists independently of it (but this is well beyond my understanding). I don’t fully understand how these are linked - is it that someone who develops the pleasure of wholesomeness and seclusion will naturally come to perceive the dependent arising of e.g. thoughts and speech while dwelling in that pleasure? Or is that someone has wholesomeness and seclusion as the *prerequisite* for examining the relationship between thoughts and speech? If it’s the latter then it seems like Jhāna would be quite hard to develop without instruction, but maybe it’s something that seems much more natural after the 5 hindrances are already abandoned.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i2pbul/two_ways_of_thinking_about_jhāna/m7gfaly/)** _2025-01-16 14:38:56:
+
+    That would be the difference between someone who develops jhāna outside of the Buddha's teaching and someone who does so as a noble disciple. The distinction is never explictily made in the Suttas, but it's implicit in many ways.
+
+    [There are accounts of ascetics before the Buddha who were free of passion for sensual pleasures](https://suttacentral.net/an7.74/en/sujato?lang=en&layout=plain&reference=pts&notes=asterisk&highlight=false&script=latin), and that can be taken as a sign that they had developed renunciation and made their minds value it and be joyful and peaceful on account of it [(which is what jhāna is](https://suttas.hillsidehermitage.org/?q=an9.41#an9.41:7.1_an9.41:7.18)). [MN 102](https://suttas.hillsidehermitage.org/?q=mn39#mn39:13.1_mn39:14.30) describes such a scenario in more detail.
+
+    The second "type" of jhāna that is bound with clarity about the nature of experience is the type that requires Right View, and that is the jhāna that is only accessible to noble disciples, that develops the seven factors of awakening, and that can truly be said to be *sammāsamādhi* (right composure), since it is born out of *sammāsati* (right recollection). Both of which, of course, [necessitate the right view](https://suttacentral.net/mn117/en/sujato?lang=en&layout=plain&reference=main%2Cpts&notes=asterisk&highlight=false&script=latin#34.1). And only that second type of jhāna involves *complete* abandonment of the five hindrances, since the ability to give them up fully [is a characteristic of a noble disciple](https://suttas.hillsidehermitage.org/?q=mn48#mn48:8.1_mn48:8.15). Giving up the hindrances requires understanding their nature and is not something that just "happens" on the basis of a method or technique.
+
+    You could argue that developing the first "type" of jhāna could serve as a basis for someone to get the right view, since, as we often see from the Suttas, whenever people would understand the four noble truths,[ it was because their minds were relatively free from hindrances](https://suttas.hillsidehermitage.org/?q=mn56#mn56:18.1_mn56:18.8), though most likely not fully in the first jhāna since they were not in seclusion.
+
+    Still, just to emphasize: [as said in the Suttas dozens of times](https://suttas.hillsidehermitage.org/?q=mn39#mn39:13.1_mn39:14.30), that freedom would have to come from reflecting on the hindrances rightly based upon[ a lifestyle](https://www.youtube.com/watch?v=HVw4gDCrfKQ) where one is well restrained in regard to them already (which is what you end up with by following the Gradual Training). What people nowadays regard as "meditation" would play no role at all, which is why you never see *that* mentioned prior to someone entering the jhānas, but instead the completion of the earlier parts of the Gradual Training. The states arising out of those two things are worlds apart from each other.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i2pbul/two_ways_of_thinking_about_jhāna/m7gv0vm/)** _2025-01-16 15:59:41 *(in reply to a comment not included)*:
+
+    >someone who is already proficient in establishing the right order of things would immediately understand the 1st Jhāna as indicating the relationship between thought and speech, even if they had not been given that specific teaching already?
+
+    They may not think of it in terms of "relationship between thought and speech" explicitly, but they will certainly be able to see the full scope of thinking, without overlooking anything, due to the strength of their yoniso manasikāra. And "not overlooking anything" is the only way to uproot the hindrances, for otherwise something or other will remain "underlying" you, keeping you subservient to it in some subtle way through its unnoticed pressure.
+
+    Seeing that full scope clearly, and not some specific contemplation, is what automatically makes one unable to speak, as well as freeing one from any assumptions of pleasures (or anything, really) "outside" this experience. All those pleasures are seen as simply vitakkavicāra *about* a sight, smell, etc., and one is unable to conceive even of the possibility of an "actual" sight outside vitakkavicāra that one needs to go and "get." Hence some other Suttas speak of cessation of "sensual perception" (*kāmasaññā*) rather than of speech in the first jhāna. Both have exactly the same root and cannot exist without the other.
+
+    And, of course, seeing that "full scope" is only possible if one's bodily and verbal actions of sensual or averse nature have been well restrained beforehand. Entertaining delight not only in thought but also to the extent of acting physically and verbally can only stem from the assumption that what you acted towards exists outside vitakkavicāra, which means the assumption will "ossify" even more and become harder to uproot.
+
+---
+
+**r/HillsideHermitage** | Posted by benedictus-s _2025-01-16 12:38:29_
+### [What do I have to renounce?](https://www.reddit.com/r/HillsideHermitage/comments/1i2nz03/what_do_i_have_to_renounce/)
+
+I am not yet following the eight precepts, even though I’m gradually going in that direction, and am full of doubt. I (believe I) understand that much of the practice revolves around not feeding taṇha. The precepts forbid activities that necessarely do, and sense restraint is about dealing with the other subtler unskillful things we do. I’ve heard in dhamma talks that one not supposed to really be able to discern skillful from unskillful before having been restrained for a while. 
+
+I obviously do not know how much I would have to abandon, since I haven’t even reached dhamma practice, and it is filling me with doubt. I think I could follow the eight precepts, but I’m not sure how much farther I could go. I know I don’t have to renounce everything that brings me joy, but only what feeds the craving. I however don’t really know what that entails? Is there a way to make that distinction in my present experience? For example, I like reading about non buddhist philosophy, but I don’t know whether I crave it. I also enjoy reading fiction from time to time and the same question applies...
+
+I’m aware my question does not reflect the existential terror that my situation should inspire. I would be very grateful I you could give me your informed opinion on the matter.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i2nz03/what_do_i_have_to_renounce/m7gz7rw/)** _2025-01-16 16:20:02:
+
+    >I know I don’t have to renounce everything that brings me joy, but only what feeds the craving. I however don’t really know what that entails? Is there a way to make that distinction in my present experience? For example, I like reading about non buddhist philosophy, but I don’t know whether I crave it. I also enjoy reading fiction from time to time and the same question applies...
+
+    It's impossible to stop feeding craving completely from the very beginning no matter how hard you try. No particular "protocol" of living will do that in itself; that requires first-hand discernment of what craving is and its cessation, i.e., stream-entry. As the Buddha said, craving perpetually "moves," so it's not like by restraining one or even all of the specific things that arouse craving for you *now*, you won't see it come up anymore.
+
+    This is why it's a training that [builds up in progressively](https://suttas.hillsidehermitage.org/?q=mn107). In this case, your only concern should be to begin keeping the precepts and get used to that. Don't worry about anything else for now. Once you get used to the precepts and more "space" starts to open up as a result, you will naturally start to see [subtler impurities](https://suttas.hillsidehermitage.org/?q=an3.121) in your own mind, and only with that first-hand discernment will you be able to abandon them rightly.
+
+    (If one has a severely wrong view of what practice and purification are, a view that places the emphasis on something completely unrelated to the precepts and one's behavior, then it's of course very unlikely that any further impurities at the level of conduct will be noticed—even after keeping the precepts perfectly for decades—simply because one won't be looking to find them. The precepts become simply boxes to tick mindlessly before moving on to the main act ASAP.)
+
+---
+
+**r/HillsideHermitage** | Posted by TheDailyOculus _2025-01-15 23:08:07_
+### [Musings on right intention](https://www.reddit.com/r/HillsideHermitage/comments/1i2akrd/musings_on_right_intention/)
+
+It's not until recently that I truly began to notice/view/understand how the word intention applies. Below is my current understanding as I practice it:
+
+Intention seems to me to be the closest you can get to the origin of any action. Even thoughts/images/pressure have a sense of being offered up by the mind, but you have to "take them up" (assuming you are the owner and that they are yours) by intending in the direction of what was already offered, for those thoughts to further escalate in that direction. 
+
+Only by being ignorant of their nature as independently arisen phenomena, not created by you, can you assume ownership and intend to act out. And as such, you don't see the intention, only the action. You don't "see" the thought/image/feeling/pressure, you only see that you act as you please in this world.
+
+So when you see a pleasant sight or a pleasant image arise in your mind - "you" are in the presence of a mental image of that sight, a pleasant feeling, and a potential line of thinking.
+
+But if you do not slip into that trap of image/feeling/thoughts, if you do not intend in line with the pressure to go in that direction, there is no fuel for them to burn brighter so to speak. With your intention present (to me it seems that the words "delighting in" and "being averse to" applies as well), the mind will be encouraged to offer up these independently enduring phenomena.
+
+And to the degree you commit to non-delight and non-aversion (or non-intention) in regard to presently enduring phenomena, the mind will calm down more and more and offer up such suggestions less and less.
+
+I've been applying the concept of studying intention in regard to the breath, while recollecting that the breath exists on its own with no overlap with ones intention. So the intention to breath and the actual breath are not the same. Aversion and delight comes from assuming that there is a cohesive "you" that bridges the gap between intention and body, or intention and mental phenomena. In intending to breath deeply, you intend in a direction that already exists in the mind in the form of a mental image.
+
+But even the closest things to you, thoughts, mental images, feelings.. They are the minds territory, and the mind pressures you to go in its wanted direction.
+
+And so the only real training, is to practice non-intention in regard to anything unskillful presented to you by the mind and the senses. That is, patiently enduring not acting out of greed, aversion and delusion.
+
+
+I'm at a place now where I still act out unskilfully from time to time, but there is an overlap with me also knowing and seeing beforehand what I've described above, and so I act out knowing it is unskillful. But it seems to me, that I now know what abandoning sensuality truly means. All I have to do is to train this in a less disturbed environment until I've grown endurant enough to non-intend instead of intending in the face of greed, aversion and delusion.
+
+Edit: I should also mention that it is that very intention affected with greed, aversion and delusion that is the reason one still acts out in the presence of pleasant or unpleasant phenomenon. By knowing what phenomena that are skillful or unskillful, and by seeing that choice/intention, and by having enough strenght to endure non-action in their presence, ones failure to non-intenf becomes purified.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i2akrd/musings_on_right_intention/m7gnphx/)** _2025-01-16 15:23:22:
+
+    This sounds mostly like the right direction, but do make sure not to forget that you won't be able to recognize subtle things like the relationship between intention and breathing with any significant degree of accuracy until this
+
+    >I'm at a place now where I still act out unskilfully from time to time, but there is an overlap with me also knowing and seeing beforehand what I've described above, and so I act out knowing it is unskillful.
+
+    ...is no longer the case. If that's still happening, it suggests that your clarity of those acts as unskillful is insufficient and somewhat shallow, so I would focus on addressing that first. Otherwise you'll be trying to build the roof of the house before there is even a foundation. Proper knowledge of *kusala* and *akusala* would alone make you a sotāpanna.
+
+---
+
 **r/HillsideHermitage** | Posted by StrikingRegular1150 _2025-01-12 00:24:11_
 ### ["The More You Scratch an Itch.." Further explanation, Please?](https://www.reddit.com/r/HillsideHermitage/comments/1hza628/the_more_you_scratch_an_itch_further_explanation/)
 
