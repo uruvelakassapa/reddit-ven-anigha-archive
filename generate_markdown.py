@@ -5,6 +5,7 @@ import re
 import shutil
 import sqlite3
 import subprocess
+from pathlib import Path
 
 metablock_template = """\
 ---
@@ -27,7 +28,13 @@ toc-depth: 2
 """
 
 
-def save_comments_to_markdown(conn: sqlite3.Connection) -> None:
+def save_comments_to_markdown(
+    conn: sqlite3.Connection, markdown_files_dir, temp_files_dir
+) -> None:
+    markdown_dir = Path(markdown_files_dir)
+    temp_dir = Path(temp_files_dir)
+    temp_dir.mkdir(exist_ok=True)
+
     cursor = conn.cursor()
     cursor.execute("SELECT * FROM submissions ORDER BY created_at DESC")
     submissions = cursor.fetchall()
@@ -46,26 +53,18 @@ def save_comments_to_markdown(conn: sqlite3.Connection) -> None:
 
     # Process submissions year by year
     for year, submissions_in_year in submissions_by_year.items():
-        md_filename = f"markdown_files/ven_anigha_reddit_archive_{year}.md"
-        epub_md_filename = f"temp_files/ven_anigha_reddit_archive_{year}.md"
+        markdown_text = ""
+        epub_text = metablock_template.format(year=year)
+        for submission_dict in submissions_in_year:
+            markdown_text += create_intended_md_from_submission(cursor, submission_dict)
+            epub_text += create_non_indented_md_from_submission(cursor, submission_dict)
 
-        metablock = metablock_template.format(year=year)
-        with open(epub_md_filename, "w", encoding="utf-8") as epub_md_file:
-            with open(md_filename, "w", encoding="utf-8") as md_file:
-                epub_md_file.write(metablock)
-
-                for submission_dict in submissions_in_year:
-                    md_file.write(
-                        create_intended_md_from_submission(cursor, submission_dict)
-                    )
-                    epub_md_file.write(
-                        create_non_indented_md_from_submission(cursor, submission_dict)
-                    )
-
-                print(
-                    f"Markdown files with indention generated for {year}: {md_filename}"
-                )
-                print(f"Markdown files for EPUB generated for {year}: {md_filename}")
+        markdown_file = markdown_dir / f"ven_anigha_reddit_archive_{year}.md"
+        markdown_file.write_text(markdown_text, encoding="utf-8")
+        epub_file = temp_dir / f"ven_anigha_reddit_archive_{year}.md"
+        epub_file.write_text(epub_text, encoding="utf-8")
+        print(f"Generated markdown file with indention for {year} at: {markdown_file}")
+        print(f"Generated markdown file for EPUB creation for {year} at: {epub_file}")
 
 
 def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str, str]]:
@@ -216,38 +215,40 @@ def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
 
 
 def convert_to_epub_and_pdf(input_dir: str, epub_dir: str, pdf_dir) -> None:
-    for file in os.listdir(input_dir):
-        if file.endswith(".md"):
-            base_name = os.path.splitext(file)[0]
-            try:
-                subprocess.run(
-                    [
-                        "pandoc",
-                        os.path.join(input_dir, file),
-                        "-o",
-                        os.path.join(epub_dir, f"{base_name}.epub"),
-                    ]
-                )
-                subprocess.run(
-                    [
-                        "pandoc",
-                        os.path.join(input_dir, file),
-                        "-o",
-                        os.path.join(pdf_dir, f"{base_name}.pdf"),
-                        "--pdf-engine",
-                        "xelatex",
-                    ]
-                )
-                print(f"Converted {file} to EPUB and PDF.")
-            except Exception as e:
-                print(f"Failed to convert {file}: {e}")
+    input_dir, epub_dir, pdf_dir = Path(input_dir), Path(epub_dir), Path(pdf_dir)
+
+    for file in input_dir.glob("*.md"):
+        base_name = file.stem
+        epub_path = epub_dir / f"{base_name}.epub"
+        pdf_path = pdf_dir / f"{base_name}.pdf"
+        try:
+            subprocess.run(
+                [
+                    "pandoc",
+                    str(file),
+                    "-o",
+                    str(epub_path),
+                ]
+            )
+            subprocess.run(
+                [
+                    "pandoc",
+                    str(file),
+                    "-o",
+                    str(pdf_path),
+                    "--pdf-engine",
+                    "xelatex",
+                ]
+            )
+            print(f"Converted {file} into {epub_path} and {pdf_path}.")
+        except Exception as e:
+            print(f"Failed to convert {file}: {e}")
 
 
 if __name__ == "__main__":
     with sqlite3.connect("reddit_comments.db") as conn:
         os.makedirs("temp_files", exist_ok=True)
-        save_comments_to_markdown(conn)
+        save_comments_to_markdown(conn, "markdown_files", "temp_files")
 
-    print("Markdown file generated from the database.")
     convert_to_epub_and_pdf("temp_files", "epub_files", "pdf_files")
     shutil.rmtree("temp_files")
