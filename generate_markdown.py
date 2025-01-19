@@ -27,10 +27,11 @@ toc-depth: 2
 """
 
 
-def save_comments_to_markdown():
-    c.execute("SELECT * FROM submissions ORDER BY created_at DESC")
-    submissions = c.fetchall()
-    column_names = [description[0] for description in c.description]
+def save_comments_to_markdown(conn: sqlite3.Connection) -> None:
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM submissions ORDER BY created_at DESC")
+    submissions = cursor.fetchall()
+    column_names = [description[0] for description in cursor.description]
 
     # Group submissions by year
     submissions_by_year = {}
@@ -54,9 +55,11 @@ def save_comments_to_markdown():
                 epub_md_file.write(metablock)
 
                 for submission_dict in submissions_in_year:
-                    md_file.write(create_intended_md_from_submission(submission_dict))
+                    md_file.write(
+                        create_intended_md_from_submission(cursor, submission_dict)
+                    )
                     epub_md_file.write(
-                        create_non_indented_md_from_submission(submission_dict)
+                        create_non_indented_md_from_submission(cursor, submission_dict)
                     )
 
                 print(
@@ -101,7 +104,9 @@ def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str, str]]:
     return top_level_threads + orphan_threads
 
 
-def create_intended_md_from_submission(submission_dict: dict[str, str | float]) -> str:
+def create_intended_md_from_submission(
+    cursor: sqlite3.Cursor, submission_dict: dict[str, str | float]
+) -> str:
     submission_time_str = datetime.datetime.fromtimestamp(
         submission_dict["created_at"], datetime.UTC
     ).strftime("%Y-%m-%d %H:%M:%S")
@@ -111,11 +116,11 @@ def create_intended_md_from_submission(submission_dict: dict[str, str | float]) 
     submission_md += f"{submission_dict['body']}\n\n"
 
     # Fetch and process comments for the submission
-    c.execute(
+    cursor.execute(
         "SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc",
         (submission_dict["id"],),
     )
-    comments = c.fetchall()
+    comments = cursor.fetchall()
 
     threads = create_thread_dicts(comments)
     for thread in threads:
@@ -163,7 +168,7 @@ def sanitize_markdown_content(content: str) -> str:
 
 
 def create_non_indented_md_from_submission(
-    submission_dict: dict[str, str | float]
+    cursor: sqlite3.Cursor, submission_dict: dict[str, str | float]
 ) -> str:
     """
     Generate markdown for a submission without indentation for EPUB generation, using titles for structure.
@@ -177,11 +182,11 @@ def create_non_indented_md_from_submission(
     submission_md += f"{sanitize_markdown_content(submission_dict['body'])}\n\n"
 
     # Fetch and process comments for the submission
-    c.execute(
+    cursor.execute(
         "SELECT * FROM comments WHERE submission_id = ? ORDER BY created_utc",
         (submission_dict["id"],),
     )
-    comments = c.fetchall()
+    comments = cursor.fetchall()
 
     threads = create_thread_dicts(comments)
     for thread in threads:
@@ -242,11 +247,10 @@ def convert_to_epub_and_pdf(input_dir: str, epub_dir: str, pdf_dir) -> None:
 
 
 if __name__ == "__main__":
-    conn = sqlite3.connect("reddit_comments.db")
-    c = conn.cursor()
+    with sqlite3.connect("reddit_comments.db") as conn:
+        os.makedirs("temp_files", exist_ok=True)
+        save_comments_to_markdown(conn)
 
-    os.makedirs("temp_files", exist_ok=True)
-    save_comments_to_markdown()
     print("Markdown file generated from the database.")
     convert_to_epub_and_pdf("temp_files", "epub_files", "pdf_files")
     shutil.rmtree("temp_files")

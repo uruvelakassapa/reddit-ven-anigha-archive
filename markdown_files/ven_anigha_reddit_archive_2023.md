@@ -4956,13 +4956,13 @@ Would the play with the dogs be unwholesome if one were to crave it and feel a l
 
     In essence, if your mind is polluted with ignorance, __*whatever*__ you do will be unskilful, even with the best of intentions. If it's free from ignorance, __*whatever*__ you do will be skilful and beneficial, even if the entire world disagrees with it (and, as it will hopefully be clear from what follows, sexual activity is among the very few things that fall totally outside that "whatever").
 
-    
-    
-    >Mind precedes all things. Mind is their chief; they are all determined by mind. If with an impure mind a person speaks or acts, suffering follows him, like the wheel that follows the foot of the ox.
-    
-    
-    >Mind precedes all things. Mind is their chief; they are all determined by mind. If with a pure mind a person speaks or acts, happiness follows him, like his never-departing shadow.
-    
+    
+    
+    >Mind precedes all things. Mind is their chief; they are all determined by mind. If with an impure mind a person speaks or acts, suffering follows him, like the wheel that follows the foot of the ox.
+    
+    
+    >Mind precedes all things. Mind is their chief; they are all determined by mind. If with a pure mind a person speaks or acts, happiness follows him, like his never-departing shadow.
+    
     ―Dhammapada 1-2
 
     
