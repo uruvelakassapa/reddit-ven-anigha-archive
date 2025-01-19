@@ -5,6 +5,7 @@ import shutil
 import sqlite3
 import subprocess
 from pathlib import Path
+from enum import Enum
 
 metablock_template = """\
 ---
@@ -66,6 +67,15 @@ def save_comments_to_markdown(
         print(f"Generated markdown file for EPUB creation for {year} at: {epub_file}")
 
 
+class CommentType(Enum):
+    # Comments directly reponding to the submission.
+    PARENT = 1
+    # Comments replying to another comment.
+    REPLY = 2
+    # Comments replying to another comment but does not appear in the database.
+    ORPHAN = 3
+
+
 def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str, str]]:
     thread_dict = {}
     for thread in threads:
@@ -77,6 +87,7 @@ def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str, str]]:
             "url": thread[5],
             "created_at": thread[3],
             "children": [],
+            "type": None,
         }
 
     # Build the nested structure
@@ -91,14 +102,20 @@ def create_thread_dicts(threads: list[list[Any]]) -> list[dict[str, str]]:
 
         # Root threads have no parents.
         if not parent_id:
+            thread["type"] = CommentType.PARENT
             top_level_threads.append(thread)
         # Orphan threads have parent_ids not in the database.
         elif parent_id not in thread_dict:
+            thread["type"] = CommentType.ORPHAN
             orphan_threads.append(thread)
+        else:
+            # Reply thread are not added because they will be traversed by the parent thread
+            thread["type"] = CommentType.REPLY
 
-    # Sort top-level roots by 'created_at' ascending
     top_level_threads.sort(key=lambda x: x["created_at"])
+    orphan_threads.sort(key=lambda x: x["created_at"])
 
+    # Append all orphan_threads to the end so that comments with parents are seen first.
     return top_level_threads + orphan_threads
 
 
@@ -134,19 +151,18 @@ def create_intended_md_from_thread(thread: dict[str, str], level=0) -> str:
     )
 
     parent_info = ""
-    if thread["parent"]:
+    if thread["type"] == CommentType.ORPHAN:
         parent_info = " *(in reply to a comment not included)*"
 
     comment_time = datetime.datetime.fromtimestamp(
         thread["created_at"], datetime.UTC
     ).strftime("%Y-%m-%d %H:%M:%S")
     comment_title = (
-        f"**[{thread['user']}]({thread['url']})** _{comment_time}{parent_info}"
+        f"**[{thread['user']}]({thread['url']})** _{comment_time}_{parent_info}"
     )
 
     markdown = f"{indent}- {comment_title}:\n\n{content}\n"
 
-    # Sort children by 'created_at' ascending
     sorted_children = sorted(thread["children"], key=lambda x: x["created_at"])
     for child in sorted_children:
         markdown += create_intended_md_from_thread(child, level + 1)
@@ -200,7 +216,7 @@ def create_non_indented_md_from_thread(thread: dict[str, str], level=0) -> str:
     ).strftime("%Y-%m-%d %H:%M:%S")
 
     parent_info = ""
-    if thread["parent"]:
+    if thread["type"] == CommentType.ORPHAN:
         parent_info = " *(in reply to a comment not included)*"
     comment_title = f"{heading_prefix} Comment by [{thread['user']}]({thread['url']}) on {comment_time}{parent_info}"
 
