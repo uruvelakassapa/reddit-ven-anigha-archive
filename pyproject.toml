@@ -33,6 +33,12 @@ minversion = "8.0"
 testpaths = [
     "tests",
 ]
+addopts = [
+    "--import-mode=importlib",
+    "-ra",
+    "-q"
+]
+pythonpath = ["."]
 
 [tool.black]
 line-length = 88
