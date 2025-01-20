@@ -1,3 +1,34 @@
+**r/HillsideHermitage** | Posted by upasakatrainee _2025-01-19 08:29:11_
+### ['Significance' of mother and father.](https://www.reddit.com/r/HillsideHermitage/comments/1i4u0xm/significance_of_mother_and_father/)
+
+Dear Bhante u/Bhikkhu_Anigha,
+
+I was revisiting the talk on Right View, and the point made that while one might 'rationalize' that mother and father are just a heap of atoms or just perceptions and such; they are actively ignoring the phenomenological 'significance' of those (heaps of atoms), in their present lived experience. It is this 'significance', that lends the 'motherhood' or 'fatherhood' to the persons referred to.
+
+A question arose then, that since the entirety of a persons experience is encompassed by the 5 aggregates (and nothing beyond the 5 aggregates); where would this 'significance' then fit in, into the aggregates model. Would not the significance, most accurately be falling under the aggregate of Sañña ?
+
+Also, per my understanding, it is the 'overrriding' of this very strong significance, that renders the act of killing one's mother or father, such a heinous act of Ānantarika Kamma. Therefore it stands to reason that the mother and father need not be biological. As long as an individual bears that significance towards any person(s) (e.g. one is adopted and isn't aware of that fact), the act of intentionally violating that significance, through killing, would bear the same consequences.
+
+So a person raised by adoptive parents, but grows up unaware of that fact (i.e. with the notion/significance of them being his birth parents), would still be committing an Ānantarika Kamma, should he take their life.
+
+Thank you for your responses as always !
+
+
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i4u0xm/significance_of_mother_and_father/m8458tj/)** _2025-01-20 05:10:32_:
+
+    >Would not the significance, most accurately be falling under the aggregate of Sañña ?
+
+    It would be all of them. Particularly feeling and intention.
+
+    >Also, per my understanding, it is the 'overrriding' of this very strong significance, that renders the act of killing one's mother or father, such a heinous act of Ānantarika Kamma. Therefore it stands to reason that the mother and father need not be biological. As long as an individual bears that significance towards any person(s) (e.g. one is adopted and isn't aware of that fact), the act of intentionally violating that significance, through killing, would bear the same consequences.
+
+    Certainly. The "overriding" of that significance requires such a strong degree of greed or aversion that the mind is irreparably "broken" as a result (any lesser passions or aversions also "damage" it and obstruct it from seeing the Dhamma, but such damage is reversible in this life). It has nothing really to do with the biological connection, which at the end of the day is something you can only take on trust.
+
+---
+
 **r/HillsideHermitage** | Posted by Belozersky _2025-01-18 22:59:45_
 ### [Whatever has the nature of arising has the nature of ceasing; Freedom from suffering too?](https://www.reddit.com/r/HillsideHermitage/comments/1i4jukp/whatever_has_the_nature_of_arising_has_the_nature/)
 

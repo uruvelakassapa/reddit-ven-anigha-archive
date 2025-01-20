@@ -4,28 +4,36 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 import sqlite3
 import datetime
-import json
-
-# Load environment variables from .env file
-load_dotenv(".secrets")
-
-# Set up your Reddit app credentials from environment variables
-reddit = praw.Reddit(
-    client_id=os.getenv("CLIENT_ID"),
-    client_secret=os.getenv("CLIENT_SECRET"),
-    user_agent=os.getenv("USER_AGENT"),
-)
-
-conn = sqlite3.connect("reddit_comments.db")
-
-LIMIT = int(os.getenv("LIMIT")) if os.getenv("LIMIT") else None
+from typing import Any
 
 
-def fetch_user_comments(username, till_comment_id=None):  # None will get entire history
+def fetch_user_comments(
+    reddit: praw.Reddit,
+    username: str,
+    limit: int,
+    till_comment_id: str | None = None,
+) -> dict[str, dict[str, Any]]:
+    """
+    Fetches comments from a specified user, optionally stopping at a specific comment ID.
+
+    Args:
+        reddit: The PRAW Reddit instance.
+        username: The Reddit username.
+        limit: The max number of comments to fetch
+        till_comment_id: The ID of the comment to stop fetching at (optional).
+
+    Returns:
+        A dictionary where keys are submission IDs and values are dictionaries
+        containing submission details and a list of comments.
+    """
     user = reddit.redditor(username)
     comments_by_submission = {}
 
-    for comment in tqdm(user.comments.new(limit=LIMIT)):
+    for comment in tqdm(
+        user.comments.new(limit=limit),
+        total=limit,
+        desc=f"Fetching comments for {username}",
+    ):
         if comment.id == till_comment_id:
             break
         submission_id = comment.submission.id
@@ -40,15 +48,23 @@ def fetch_user_comments(username, till_comment_id=None):  # None will get entire
                 "subreddit": submission.subreddit_name_prefixed,
                 "comments": [],
             }
+
         comments_by_submission[submission_id]["comments"].append(comment)
 
     return comments_by_submission
 
 
-def save_comments_to_db(comments):
+def save_comments_to_db(conn: sqlite3.Connection, comments: dict[str, dict[str, Any]]):
+    """
+    Saves comments to the SQLite database.
+
+    Args:
+        conn: The SQLite database connection.
+        comments: A dictionary of comments organized by submission.
+    """
     c = conn.cursor()
 
-    # Create submissions table with updated_at field
+    # Create tables if they don't exist
     c.execute(
         """
     CREATE TABLE IF NOT EXISTS submissions (
@@ -64,7 +80,6 @@ def save_comments_to_db(comments):
     """
     )
 
-    # Create comments table with updated_at field
     c.execute(
         """
     CREATE TABLE IF NOT EXISTS comments (
@@ -82,22 +97,20 @@ def save_comments_to_db(comments):
     """
     )
 
-    # Insert data into submissions and comments tables
     for submission_id, submission_data in comments.items():
-        # Upsert into submissions table
         c.execute(
             """
-        INSERT INTO submissions (id, title, body, author, created_at, link, subreddit, updated_at)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        ON CONFLICT(id) DO UPDATE SET
-            title=excluded.title,
-            body=excluded.body,
-            author=excluded.author,
-            created_at=excluded.created_at,
-            link=excluded.link,
-            subreddit=excluded.subreddit,
-            updated_at=excluded.updated_at
-        """,
+            INSERT INTO submissions (id, title, body, author, created_at, link, subreddit, updated_at)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            ON CONFLICT(id) DO UPDATE SET
+                title=excluded.title,
+                body=excluded.body,
+                author=excluded.author,
+                created_at=excluded.created_at,
+                link=excluded.link,
+                subreddit=excluded.subreddit,
+                updated_at=excluded.updated_at
+            """,
             (
                 submission_id,
                 submission_data["title"],
@@ -110,7 +123,6 @@ def save_comments_to_db(comments):
             ),
         )
 
-        # Upsert into comments table
         for comment in submission_data["comments"]:
             parent_id = comment.parent_id[3:] if not comment.is_root else None
             c.execute(
@@ -138,42 +150,58 @@ def save_comments_to_db(comments):
                 ),
             )
 
-    # Commit the changes to the database
     conn.commit()
 
 
-def get_latest_comment_id():
-    try:
-        c = conn.cursor()
-        c.execute("SELECT id FROM comments ORDER BY created_utc DESC LIMIT 1")
-        latest_comment = c.fetchone()
-        return latest_comment[0] if latest_comment else None
-    except sqlite3.OperationalError:
-        # This will catch errors like 'no such table: comments'
-        return None
+def get_latest_comment_id(conn: sqlite3.Connection) -> str | None:
+    """
+    Gets the ID of the latest comment stored in the database.
+
+    Args:
+        conn: The SQLite database connection.
+
+    Returns:
+        The ID of the latest comment, or None if the database is empty or the table doesn't exist.
+    """
+    c = conn.cursor()
+    c.execute("SELECT id FROM comments ORDER BY created_utc DESC LIMIT 1")
+    latest_comment = c.fetchone()
+    return latest_comment[0] if latest_comment else None
 
 
 def main():
-    username = os.getenv(
-        "TARGET_USERNAME"
-    )  # Load target username from environment variable
-    till_last_comment = json.loads(os.getenv("TILL_LAST_COMMENT", "true").lower())
+    """
+    Main function to fetch and store Reddit comments.
+    """
+    load_dotenv(".secrets")
 
-    if till_last_comment:
-        last_comment_id = (
-            get_latest_comment_id()
-        )  # Get the latest comment id from the database
-        comments_by_submission = fetch_user_comments(
-            username, till_comment_id=last_comment_id
-        )
-    else:
-        comments_by_submission = fetch_user_comments(username)
+    # Use environment variable or default to None for unlimited fetching.
+    limit = int(os.getenv("LIMIT")) if os.getenv("LIMIT") else None
 
-    if comments_by_submission:
-        save_comments_to_db(comments_by_submission)
-        print(f"Database updated with comments organized by submission.")
-    else:
-        print(f"No new comments found for {username}.")
+    # Set up your Reddit app credentials from environment variables
+    reddit = praw.Reddit(
+        client_id=os.getenv("CLIENT_ID"),
+        client_secret=os.getenv("CLIENT_SECRET"),
+        user_agent=os.getenv("USER_AGENT"),
+    )
+
+    username = os.getenv("TARGET_USERNAME")
+    till_last_comment = os.getenv("TILL_LAST_COMMENT", "true").lower() == "true"
+
+    with sqlite3.connect("reddit_comments.db") as conn:
+        if till_last_comment:
+            last_comment_id = get_latest_comment_id(conn)
+            comments_by_submission = fetch_user_comments(
+                reddit, username, limit, till_comment_id=last_comment_id
+            )
+        else:
+            comments_by_submission = fetch_user_comments(reddit, username, limit)
+
+        if comments_by_submission:
+            save_comments_to_db(conn, comments_by_submission)
+            print(f"Database updated with comments organized by submission.")
+        else:
+            print(f"No new comments found for {username}.")
 
 
 if __name__ == "__main__":

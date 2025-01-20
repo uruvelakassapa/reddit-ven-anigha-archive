@@ -553,6 +553,9 @@ Do you think this sutta contradicts the structural (akaliko) DO? Is this an inst
     Birth is acquisition, aging and illness are deterioration, and death is final destruction. That general principle applies just as much to your sense of self as to things that sense of self takes ownership of, such as the body. Hence it's not like if you free yourself from attachment to the body, as the Buddha said a puthujjana can, you would be free from birth, aging, or death.
 
     ([This Sutta](https://suttacentral.net/sn12.39/en/bodhi?lang=en&reference=none&highlight=false) uses the same terms people often assume refer to "literal" birth only (e.g., the "descent" of name and form), and says that they cease as soon as gives up all "tendencies," anusaya).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1h9pfad/how_to_reconcile_sn1219_with_structural_dependent/m843l0d/)** _2025-01-20 04:57:51_ *(in reply to a comment not included)*:
+
+    Yes. There is only bhava if there is upādāna, as the Suttas say. From that you can tell that bhava is not simply the presence of things. When one "adopts" (upādāna) even the subtlest of things, to that extent there is [a mode of] being.
 
 ---
 
