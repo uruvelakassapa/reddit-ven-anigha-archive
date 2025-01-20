@@ -13,19 +13,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Attempt to download the latest database artifact
-      uses: actions/download-artifact@v4
-      with:
-        name: reddit-comments-db
-        path: ${{ runner.temp }}/sqlite
-      continue-on-error: true  # Continue even if the artifact is not found
-
-    - name: Move database if it exists
-      run: |
-        if [ -f "${{ runner.temp }}/sqlite/reddit_comments.db" ]; then
-          mv "${{ runner.temp }}/sqlite/reddit_comments.db" reddit_comments.db
-        fi
-
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -99,9 +86,3 @@ jobs:
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Store database persistently
-      uses: actions/upload-artifact@v4
-      with:
-        name: reddit-comments-db
-        path: reddit_comments.db
