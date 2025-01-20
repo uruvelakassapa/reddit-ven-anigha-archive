@@ -191,15 +191,13 @@ def main():
     with sqlite3.connect("reddit_comments.db") as conn:
         if till_last_comment:
             last_comment_id = get_latest_comment_id(conn)
-            comments_by_submission = fetch_user_comments(
-                reddit, username, limit, till_comment_id=last_comment_id
-            )
+            comments_by_submission = fetch_user_comments(reddit, username, limit, till_comment_id=last_comment_id)
         else:
             comments_by_submission = fetch_user_comments(reddit, username, limit)
 
         if comments_by_submission:
             save_comments_to_db(conn, comments_by_submission)
-            print(f"Database updated with comments organized by submission.")
+            print("Database updated with comments organized by submission.")
         else:
             print(f"No new comments found for {username}.")
 

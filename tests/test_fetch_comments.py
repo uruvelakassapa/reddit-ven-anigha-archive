@@ -41,9 +41,7 @@ def create_mock_submission(submission_id: str, **kwargs: Any) -> MagicMock:
         if kwargs.get("created_utc") is not None
         else (MOCK_DATETIME - datetime.timedelta(days=get_ints_at_end(submission_id)))
     ).timestamp()  # Default time is based on mock id
-    mock_submission.url = (
-        f"https://reddit.com/r/subreddit_{submission_id}/comments/{submission_id}/"
-    )
+    mock_submission.url = f"https://reddit.com/r/subreddit_{submission_id}/comments/{submission_id}/"
     mock_submission.subreddit_name_prefixed = "r/subreddit_" + submission_id
     return mock_submission
 
@@ -58,9 +56,7 @@ def create_mock_comment(
     """Helper function to create mock PRAW Comment objects with sensible defaults."""
     mock_comment = MagicMock(spec=Comment)
     mock_comment.id = comment_id
-    mock_comment.parent_id = (
-        parent_id if parent_id else f"t3_{submission.id}"
-    )  # Simulate PRAW's structure
+    mock_comment.parent_id = parent_id if parent_id else f"t3_{submission.id}"  # Simulate PRAW's structure
     mock_comment.is_root = is_root
     mock_comment.author = MagicMock(spec=Redditor)
     mock_comment.author.name = "author_" + comment_id
@@ -69,9 +65,7 @@ def create_mock_comment(
     mock_comment.created_utc = (
         kwargs.get("created_utc")
         if kwargs.get("created_utc") is not None
-        else (
-            MOCK_DATETIME - datetime.timedelta(days=get_ints_at_end(comment_id))
-        ).timestamp()
+        else (MOCK_DATETIME - datetime.timedelta(days=get_ints_at_end(comment_id))).timestamp()
     )  # Default time is based on mock id
     mock_comment.body = "body_" + comment_id
     return mock_comment
@@ -87,9 +81,7 @@ def mock_reddit():
     mock_submission1 = create_mock_submission("submission1")
     mock_comments = [
         create_mock_comment(mock_submission1, "comment1"),
-        create_mock_comment(
-            mock_submission1, "comment2", parent_id="t3_submission1", is_root=False
-        ),
+        create_mock_comment(mock_submission1, "comment2", parent_id="t3_submission1", is_root=False),
     ]
     mock_reddit.redditor.return_value.comments.new.return_value = mock_comments
     return mock_reddit
@@ -115,9 +107,7 @@ def test_fetch_user_comments_no_existing(mock_reddit: MagicMock):
 
 
 def test_fetch_user_comments_till_existing(mock_reddit: MagicMock):
-    comments = fetch_user_comments(
-        mock_reddit, MOCK_USERNAME, 100, till_comment_id="comment2"
-    )
+    comments = fetch_user_comments(mock_reddit, MOCK_USERNAME, 100, till_comment_id="comment2")
 
     assert len(comments) == 1
     assert "submission1" in comments
@@ -142,9 +132,7 @@ def test_save_comments_to_db(in_memory_db: sqlite3.Connection):
             "link": "https://reddit.com/r/subreddit1/comments/submission1/",
             "subreddit": "r/subreddit1",
             "comments": [
-                create_mock_comment(
-                    mock_submission1, "comment1", created_utc=MOCK_DATETIME.timestamp()
-                ),
+                create_mock_comment(mock_submission1, "comment1", created_utc=MOCK_DATETIME.timestamp()),
             ],
         },
         "submission2": {
@@ -166,7 +154,7 @@ def test_save_comments_to_db(in_memory_db: sqlite3.Connection):
         },
     }
 
-    with patch("fetch_comments.datetime.datetime") as mock_dt:
+    with patch("src.fetch_comments.datetime.datetime") as mock_dt:
         mock_dt.now.return_value = MOCK_DATETIME
         save_comments_to_db(in_memory_db, mock_comments_data)
 
@@ -181,7 +169,7 @@ def test_save_comments_to_db(in_memory_db: sqlite3.Connection):
 
     # Test upsert (update existing comment)
     mock_comments_data["submission1"]["comments"][0].body = "Updated Comment Body"
-    with patch("fetch_comments.datetime.datetime") as mock_dt:
+    with patch("src.fetch_comments.datetime.datetime") as mock_dt:
         mock_dt.now.return_value = MOCK_DATETIME
         save_comments_to_db(in_memory_db, mock_comments_data)
 
@@ -225,9 +213,7 @@ def test_get_latest_comment_id(in_memory_db: sqlite3.Connection):
             "link": "https://reddit.com/r/subreddit1/comments/submission1/",
             "subreddit": "r/subreddit1",
             "comments": [
-                create_mock_comment(
-                    mock_submission1, "comment1", created_utc=MOCK_DATETIME.timestamp()
-                ),
+                create_mock_comment(mock_submission1, "comment1", created_utc=MOCK_DATETIME.timestamp()),
                 create_mock_comment(
                     mock_submission1,
                     "comment2",
@@ -236,7 +222,7 @@ def test_get_latest_comment_id(in_memory_db: sqlite3.Connection):
             ],
         }
     }
-    with patch("fetch_comments.datetime.datetime") as mock_dt:
+    with patch("src.fetch_comments.datetime.datetime") as mock_dt:
         mock_dt.now.return_value = MOCK_DATETIME
         save_comments_to_db(in_memory_db, mock_comments_data)
 
@@ -318,7 +304,5 @@ def test_main(
 
     main()
 
-    mock_fetch_user_comments.assert_called_once_with(
-        mock_praw.Reddit.return_value, "testuser", 10
-    )
+    mock_fetch_user_comments.assert_called_once_with(mock_praw.Reddit.return_value, "testuser", 10)
     mock_get_latest_comment_id.assert_not_called()

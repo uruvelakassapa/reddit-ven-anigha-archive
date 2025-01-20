@@ -110,28 +110,20 @@ def sample_db_data() -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
             "title": "Submission Title 1",
             "body": "Submission Body 1",
             "author": "Author1",
-            "created_at": datetime.datetime(
-                2024, 1, 1, tzinfo=datetime.UTC
-            ).timestamp(),
+            "created_at": datetime.datetime(2024, 1, 1, tzinfo=datetime.UTC).timestamp(),
             "link": "https://reddit.com/r/subreddit1/comments/sub1",
             "subreddit": "r/subreddit1",
-            "updated_at": datetime.datetime(
-                2024, 1, 1, tzinfo=datetime.UTC
-            ).timestamp(),
+            "updated_at": datetime.datetime(2024, 1, 1, tzinfo=datetime.UTC).timestamp(),
         },
         {
             "id": "sub2",
             "title": "Submission Title 2 # Header",
             "body": "Submission Body 2\n\n# Another Header",
             "author": "Author2",
-            "created_at": datetime.datetime(
-                2023, 2, 1, tzinfo=datetime.UTC
-            ).timestamp(),
+            "created_at": datetime.datetime(2023, 2, 1, tzinfo=datetime.UTC).timestamp(),
             "link": "https://reddit.com/r/subreddit2/comments/sub2",
             "subreddit": "r/subreddit2",
-            "updated_at": datetime.datetime(
-                2023, 2, 1, tzinfo=datetime.UTC
-            ).timestamp(),
+            "updated_at": datetime.datetime(2023, 2, 1, tzinfo=datetime.UTC).timestamp(),
         },
     ]
 
@@ -141,85 +133,61 @@ def sample_db_data() -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
             "id": "com1",
             "submission_id": "sub1",
             "author": "Commenter1",
-            "created_utc": datetime.datetime(
-                2024, 1, 2, tzinfo=datetime.UTC
-            ).timestamp(),
+            "created_utc": datetime.datetime(2024, 1, 2, tzinfo=datetime.UTC).timestamp(),
             "parent_id": None,
             "permalink": "https://www.reddit.com/r/subreddit1/comments/sub1/comment_1/",
             "comment_body": "Comment 1 on Submission 1",
-            "updated_at": datetime.datetime(
-                2024, 1, 2, tzinfo=datetime.UTC
-            ).timestamp(),
+            "updated_at": datetime.datetime(2024, 1, 2, tzinfo=datetime.UTC).timestamp(),
         },
         {
             "id": "com2",
             "submission_id": "sub1",
             "author": "Commenter2",
-            "created_utc": datetime.datetime(
-                2024, 1, 3, tzinfo=datetime.UTC
-            ).timestamp(),
+            "created_utc": datetime.datetime(2024, 1, 3, tzinfo=datetime.UTC).timestamp(),
             "parent_id": "com1",
             "permalink": "https://www.reddit.com/r/subreddit1/comments/sub1/comment_2/",
             "comment_body": "Comment 2 (reply to Comment 1)",
-            "updated_at": datetime.datetime(
-                2024, 1, 3, tzinfo=datetime.UTC
-            ).timestamp(),
+            "updated_at": datetime.datetime(2024, 1, 3, tzinfo=datetime.UTC).timestamp(),
         },
         {
             "id": "com3",
             "submission_id": "sub2",
             "author": "Commenter3",
-            "created_utc": datetime.datetime(
-                2023, 2, 2, tzinfo=datetime.UTC
-            ).timestamp(),
+            "created_utc": datetime.datetime(2023, 2, 2, tzinfo=datetime.UTC).timestamp(),
             "parent_id": None,
             "permalink": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_3/",
             "comment_body": "Comment 3 on Submission 2",
-            "updated_at": datetime.datetime(
-                2023, 2, 2, tzinfo=datetime.UTC
-            ).timestamp(),
+            "updated_at": datetime.datetime(2023, 2, 2, tzinfo=datetime.UTC).timestamp(),
         },
         {
             "id": "com4",
             "submission_id": "sub2",
             "author": "Commenter4",
-            "created_utc": datetime.datetime(
-                2023, 2, 3, tzinfo=datetime.UTC
-            ).timestamp(),
+            "created_utc": datetime.datetime(2023, 2, 3, tzinfo=datetime.UTC).timestamp(),
             "parent_id": "com3",
             "permalink": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_4/",
             "comment_body": "Comment 4 (reply to Comment 3)\n\n# Header in comment",
-            "updated_at": datetime.datetime(
-                2023, 2, 3, tzinfo=datetime.UTC
-            ).timestamp(),
+            "updated_at": datetime.datetime(2023, 2, 3, tzinfo=datetime.UTC).timestamp(),
         },
         {
             "id": "com5",
             "submission_id": "sub2",
             "author": "Commenter5",
-            "created_utc": datetime.datetime(
-                2023, 2, 4, tzinfo=datetime.UTC
-            ).timestamp(),
+            "created_utc": datetime.datetime(2023, 2, 4, tzinfo=datetime.UTC).timestamp(),
             "parent_id": "com4",
             "permalink": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_5/",
             "comment_body": "Comment 5 (reply to Comment 4)",
-            "updated_at": datetime.datetime(
-                2023, 2, 4, tzinfo=datetime.UTC
-            ).timestamp(),
+            "updated_at": datetime.datetime(2023, 2, 4, tzinfo=datetime.UTC).timestamp(),
         },
         {
             "id": "com7",
             "submission_id": "sub2",
             "author": "Commenter7",
-            "created_utc": datetime.datetime(
-                2023, 2, 4, tzinfo=datetime.UTC
-            ).timestamp(),
+            "created_utc": datetime.datetime(2023, 2, 4, tzinfo=datetime.UTC).timestamp(),
             "parent_id": "com6",
             "permalink": "https://www.reddit.com/r/subreddit2/comments/sub2/comment_7/",
             "comment_body": "Comment 7 (orphaned)",
-            "updated_at": datetime.datetime(
-                2023, 2, 4, tzinfo=datetime.UTC
-            ).timestamp(),
+            "updated_at": datetime.datetime(2023, 2, 4, tzinfo=datetime.UTC).timestamp(),
         },
     ]
 
@@ -228,7 +196,7 @@ def sample_db_data() -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
 
 @pytest.fixture
 def in_memory_db(
-    sample_db_data: tuple[list[dict[str, Any]], list[dict[str, Any]]]
+    sample_db_data: tuple[list[dict[str, Any]], list[dict[str, Any]]],
 ) -> sqlite3.Connection:
     submissions_data, comments_data = sample_db_data
     return setup_in_memory_db(submissions_data, comments_data)
@@ -509,18 +477,14 @@ def test_create_non_indented_md_from_thread():
     assert result == expected
 
 
-def test_save_comments_to_markdown(
-    in_memory_db: sqlite3.Connection, tmp_path: Path
-) -> None:
+def test_save_comments_to_markdown(in_memory_db: sqlite3.Connection, tmp_path: Path) -> None:
     # Use tmp_path fixture from pytest for temporary directories
     markdown_files_dir = tmp_path / "markdown"
     temp_files_dir = tmp_path / "temp"
     markdown_files_dir.mkdir()
     temp_files_dir.mkdir()
 
-    save_comments_to_markdown(
-        in_memory_db, str(markdown_files_dir), str(temp_files_dir)
-    )
+    save_comments_to_markdown(in_memory_db, str(markdown_files_dir), str(temp_files_dir))
 
     # Expected content for 2023 markdown file
     expected_2023_md = (

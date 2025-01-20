@@ -28,9 +28,7 @@ toc-depth: 2
 """
 
 
-def save_comments_to_markdown(
-    conn: sqlite3.Connection, markdown_files_dir, temp_files_dir
-) -> None:
+def save_comments_to_markdown(conn: sqlite3.Connection, markdown_files_dir, temp_files_dir) -> None:
     """
     Saves Reddit submissions and comments from a SQLite database to markdown files.
 
@@ -63,9 +61,7 @@ def save_comments_to_markdown(
     for submission in submissions:
         submission_dict = dict(zip(column_names, submission))
         # Get the year from created_at timestamp
-        submission_time = datetime.datetime.fromtimestamp(
-            submission_dict["created_at"], datetime.UTC
-        )
+        submission_time = datetime.datetime.fromtimestamp(submission_dict["created_at"], datetime.UTC)
         year = submission_time.year
         submissions_by_year.setdefault(year, []).append(submission_dict)
 
@@ -153,9 +149,7 @@ def create_thread_dicts(comments: list[list[Any]]) -> list[dict[str, Any]]:
     return top_level_comments + orphan_comments
 
 
-def create_intended_md_from_submission(
-    cursor: sqlite3.Cursor, submission_dict: dict[str, str | float]
-) -> str:
+def create_intended_md_from_submission(cursor: sqlite3.Cursor, submission_dict: dict[str, str | float]) -> str:
     """
     Generates indented markdown text for a given Reddit submission and its comments.
 
@@ -167,11 +161,13 @@ def create_intended_md_from_submission(
         A string containing the markdown representation of the submission and its comments,
         with comments indented according to their nesting level.
     """
-    submission_time_str = datetime.datetime.fromtimestamp(
-        submission_dict["created_at"], datetime.UTC
-    ).strftime("%Y-%m-%d %H:%M:%S")
+    submission_time_str = datetime.datetime.fromtimestamp(submission_dict["created_at"], datetime.UTC).strftime(
+        "%Y-%m-%d %H:%M:%S"
+    )
 
-    submission_md = f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time_str}_\n"
+    submission_md = (
+        f"**{submission_dict['subreddit']}** | Posted by {submission_dict['author']} _{submission_time_str}_\n"
+    )
     submission_md += f"### [{submission_dict['title']}]({submission_dict['link']})\n\n"
     submission_md += f"{submission_dict['body']}\n\n"
 
@@ -207,18 +203,13 @@ def create_intended_md_from_thread(comment: dict[str, Any], level=0) -> str:
         with each comment indented according to its nesting level.
     """
     indent = "    " * level
-    content = "\n".join(
-        f"{indent + '    ' + line if line else ''}"
-        for line in comment["comment_body"].splitlines()
-    )
+    content = "\n".join(f"{indent + '    ' + line if line else ''}" for line in comment["comment_body"].splitlines())
 
     parent_info = ""
     if comment["type"] == CommentType.ORPHAN:
         parent_info = " *(in reply to a comment not included)*"
 
-    comment_time = datetime.datetime.fromtimestamp(
-        comment["created_utc"], datetime.UTC
-    ).strftime("%Y-%m-%d %H:%M:%S")
+    comment_time = datetime.datetime.fromtimestamp(comment["created_utc"], datetime.UTC).strftime("%Y-%m-%d %H:%M:%S")
     comment_title = f"**[{comment['author']}]({comment['permalink']})** _{comment_time}_{parent_info}"
 
     markdown = f"{indent}- {comment_title}:\n\n{content}\n"
@@ -246,9 +237,7 @@ def sanitize_markdown_content(content: str) -> str:
     return sanitized_content
 
 
-def create_non_indented_md_from_submission(
-    cursor: sqlite3.Cursor, submission_dict: dict[str, str | float]
-) -> str:
+def create_non_indented_md_from_submission(cursor: sqlite3.Cursor, submission_dict: dict[str, str | float]) -> str:
     """
     Generates non-indented markdown text for a given Reddit submission and its comments, suitable for EPUB generation.
 
@@ -262,9 +251,9 @@ def create_non_indented_md_from_submission(
         A string containing the markdown representation of the submission and its comments,
         without indentation and using headings for structure.
     """
-    submission_time_str = datetime.datetime.fromtimestamp(
-        submission_dict["created_at"], datetime.UTC
-    ).strftime("%Y-%m-%d %H:%M:%S")
+    submission_time_str = datetime.datetime.fromtimestamp(submission_dict["created_at"], datetime.UTC).strftime(
+        "%Y-%m-%d %H:%M:%S"
+    )
 
     submission_md = f"## [{submission_dict['title']}]({submission_dict['link']})\n"
     submission_md += f"**Subreddit**: {submission_dict['subreddit']} | **Posted by**: {submission_dict['author']} _{submission_time_str}_\n\n"
@@ -305,18 +294,16 @@ def create_non_indented_md_from_thread(comment: dict[str, Any], level=0) -> str:
     """
     # Use level to determine heading level (e.g., ###, ####)
     heading_prefix = "#" * (level + 3)  # Start from ### for comments
-    comment_time = datetime.datetime.fromtimestamp(
-        comment["created_utc"], datetime.UTC
-    ).strftime("%Y-%m-%d %H:%M:%S")
+    comment_time = datetime.datetime.fromtimestamp(comment["created_utc"], datetime.UTC).strftime("%Y-%m-%d %H:%M:%S")
 
     parent_info = ""
     if comment["type"] == CommentType.ORPHAN:
         parent_info = " *(in reply to a comment not included)*"
-    comment_title = f"{heading_prefix} Comment by [{comment['author']}]({comment['permalink']}) on {comment_time}{parent_info}"
-
-    markdown = (
-        f"{comment_title}\n\n{sanitize_markdown_content(comment['comment_body'])}\n\n"
+    comment_title = (
+        f"{heading_prefix} Comment by [{comment['author']}]({comment['permalink']}) on {comment_time}{parent_info}"
     )
+
+    markdown = f"{comment_title}\n\n{sanitize_markdown_content(comment['comment_body'])}\n\n"
 
     # Sort children by 'created_at' ascending
     sorted_children = sorted(comment["children"], key=lambda x: x["created_utc"])

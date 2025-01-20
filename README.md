@@ -31,12 +31,13 @@ Installing fonts in other OS's should be very similar.
 ## Setup and run locally
 
 1. Install Python 3.13 or some other reasonable modern version of Python.
-2. Create venv `python -m .venv` and activate it for your OS, such as, `source .venv/Scripts/activate` for Windows.
-3. `pip install -e .[test,style]` to install all the test and style dependencies of the project.
+2. Install [`uv`](https://docs.astral.sh/uv/getting-started/installation/)
+3. Run `uv sync` to sync and install the project's dependencies.
 4. Setup `.secrets` file with proper values for Reddit and script adjustment.
-5. Run `python src/fetch_comments.py` to generate `reddit_comments.db` with the latest comments.
-6. Run `python src/generate_markdown.py` to generate the markdown, epub, and pdf files.
-7. Run `pytest --cov` to test all the code with coverage.
+5. Run `uv run src/fetch_comments.py` to generate `reddit_comments.db` with the latest comments.
+6. Run `uv run src/generate_markdown.py` to generate the markdown, epub, and pdf files.
+7. Run `uv run pytest --cov` to test all the code with coverage.
+8. Run `uvx ruff check --fix` and `uvx ruff format` to lint and format the code.
 
 ## Running github workflow locally.
 

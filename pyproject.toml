@@ -1,14 +1,9 @@
-[build-system]
-requires = ["setuptools>=43.0.0", "wheel"]
-build-backend = "setuptools.build_meta"
-
-[tool.setuptools.packages.find]
-where = ["src"]
-
 [project]
 name = "reddit-ven-anigha-archive"
-version = "0.0.1"
+requires-python = ">=3.13"
+version = "0.1.0"
 description = "Fetches and archives comments from /u/Bhikkhu_Anigha's comments on Reddit"
+readme = "README.md"
 authors = [
   { name = "f0lie", email = "9092074+f0lie@users.noreply.github.com" }
 ]
@@ -18,14 +13,14 @@ dependencies = [
     "tqdm",
 ]
 
-[project.optional-dependencies]
-test = [
+[dependency-groups]
+dev= [
     "pytest>=8.0",
     "coverage",
     "pytest-cov"
 ]
-style = [
-    "black"
+lint = [
+    "ruff"
 ]
 
 [tool.pytest.ini_options]
@@ -40,8 +35,8 @@ addopts = [
 ]
 pythonpath = ["."]
 
-[tool.black]
-line-length = 88
+[tool.ruff]
+line-length = 120
 
 [tool.coverage.run]
 branch = true
