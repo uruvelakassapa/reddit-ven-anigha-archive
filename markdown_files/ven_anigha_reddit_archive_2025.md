@@ -1,3 +1,114 @@
+**r/HillsideHermitage** | Posted by craveminerals _2025-01-24 17:52:01_
+### [Comfort zone of solitude](https://www.reddit.com/r/HillsideHermitage/comments/1i91ekj/comfort_zone_of_solitude/)
+
+Hello dhamma friends,
+
+The other day I read Sister Medhini’s interesting essay titled “Homelessness is Nibbana” where she talks about comfort zones, and how they reveal underlying attachments, and assumptions of safety. 
+
+In a footnote she states; “Company is a comfort zone for those who fear loneliness, but solitude can be a comfort zone for those who are insecure and anxious around others.” 
+
+What would be the right course of action for one who takes solitude as a ‘comfort zone’? I’m currently delighting more in solitude and non-activity than in company. 
+I’ve seen great benefit in learning to enjoy solitude and cutting down on distractions. 
+
+But honestly I’m afraid of people, and am uncomfortable and filled with shame in almost all social situations, whether I’m with friends, family, at work- and this has been the case for my whole life- with some exceptions here and there. Even now, when I’m living more virtuously, keeping 5 precepts (and 8 as much as I’m able) and am not burdened by any serious wrong deeds (that would explain the feeling of being at blame) 
+
+So I’m wondering, what would be good ways of breaking out of this “comfort zone” of solitude, while keeping in line with the dhamma?
+
+Is it simply a matter of actively confronting these fears- by putting oneself in social situations, while enduring unpleasant feelings whenever they arise, and not fuel further negative thoughts and actions? (Which I thought I had done “enough” of already, throughout my life) 
+
+A more indirect approach would be, I suppose, starving the root of these fears by severing the attachment to sensuality.. 
+
+Any advice or comments would be appreciated 🙏
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i91ekj/comfort_zone_of_solitude/m8yukqd/)** _2025-01-24 19:52:48_:
+
+    >Is it simply a matter of actively confronting these fears- by putting oneself in social situations, while enduring unpleasant feelings whenever they arise, and not fuel further negative thoughts and actions?
+
+    Definitely not. That would not solve the problem but only move it elsewhere.
+
+    Unless you're an anāgāmi, solitude would almost surely cease to be comfortable if you stopped making choices that you, through self-honesty, realize are rooted in simple desire for sense pleasure or distraction—temporarily taking your eyes off of the problem that your mind still is rather than "taming" it.
+
+    In order to truly abandon concern with what others think about you, you need to first give up not only physical acts but also thoughts of delight in sensuality. [Those are coarser impurities](https://suttas.hillsidehermitage.org/?q=an3.101#an3.101:2.3).
+
+---
+
+**r/HillsideHermitage** | Posted by DaNiEl880099 _2025-01-22 13:35:59_
+### [Brahmaviharas from the perspective of a lay person not seeking enlightenment.](https://www.reddit.com/r/HillsideHermitage/comments/1i7b8ob/brahmaviharas_from_the_perspective_of_a_lay/)
+
+What exactly are brahmaviharas(I have general views on this topic, but I'm curious about people's opinions here)? As someone who does not plan to pursue enlightenment and develop restraint, can I pursue brahmaviharas?
+
+You could say that I have developed a daily practice of contemplating what I have done throughout the day in the context of compliance with the brahmaviharas. I have noticed that this practice makes me less nervous about various things and I look for opportunities during the day to act on them.
+
+As for this practice. In short, at the end of the day I ask myself "What was the course of this day and what did I do?", "Were my actions in accordance with the brahmaviharas?", "If I did wrong, why did I do it?". I ask these questions and evaluate my behavior. I praise myself for good behavior or breaking the pattern and I reprimand for negative behavior.
+
+What do you think, is this a valuable practice for someone who simply wants to continue living a normal secular life, but also wants to partially introduce the dhamma into their life?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i7b8ob/brahmaviharas_from_the_perspective_of_a_lay/m8ollxu/)** _2025-01-23 06:19:01_:
+
+    >As for this practice. In short, at the end of the day I ask myself "What was the course of this day and what did I do?", "Were my actions in accordance with the brahmaviharas?", "If I did wrong, why did I do it?". I ask these questions and evaluate my behavior. I praise myself for good behavior or breaking the pattern and I reprimand for negative behavior.
+
+    That's good, but fundamentally you need to realize that you can't become established in Brahmaviharas unless you give up desires and attachments too. Attachment is what creates the basis for anger and discontent, since whatever you are attached too will eventually have to deteriorate or be destroyed, and that's precisely when anger will arise. You can might skilled at suppressing the arisen anger by fabricating nice thoughts and so on, and that can indeed help you manage your suffering just like anything your average psychologist without any Buddhist background would tell you. But it would be a disservice to call that "brahmavihāra," since that requires giving up desires too. Hence the word for celibate/ascetic life in Pāli is "brahmacariya," or "Brahma conduct," alluding to the idea that sense pleasures do not exist in the Brahma realm.
+
+    >but also wants to partially introduce the dhamma into their life?
+
+    This may not be altogether impossible, but "the Dhamma" proper exists to the extent that you give up *all* manifestations of a certain "layer" or "degree" of craving. If you try to go very far with giving up only one type of craving, letting other instances of craving go unchecked, then even though it may be helpful in a worldly sense, it's not the Dhamma anymore. The right view, the recognition that all craving is equally bad regardless of its type, has been put aside.
+
+    Think of someone so deeply engrossed in the "hustle" of their emerging business that they no longer even care about coarse sensual pleasures like food and sexual intercourse, but who shamelessly acts out of ill will when annoyed at their subordinates' mistakes. Or ascetics in the Buddha's time who were often even more austere and separated from agreeable things than the Buddha, but would often become bitter and spiteful as soon as their views were questioned. Someone who tries to develop Brahmaviharas without giving up sense desire is the same—just inverted.
+
+    In other words, it would be better to find a level of withdrawal from unwholesome things that is "even" all around, even if it's less than complete, than to try to go all the way with renouncing only one type of unwholesome state. The former carries at least an approximation of the right view, whereas the latter is necessarily rooted in a wrong one.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i7b8ob/brahmaviharas_from_the_perspective_of_a_lay/m8qk804/)** _2025-01-23 15:32:16_ *(in reply to a comment not included)*:
+
+    It certainly is possible, and I'm sure many people interpret the practice that way. But you wouldn't strive for the richness of something if you truly saw impermanence and what it actually entails. You would go the opposite direction, because you would realize that [involvement + impermanence = suffering](https://suttacentral.net/sn12.66/en/sujato?lang=en&layout=plain&reference=main&notes=none&highlight=false&script=latin#9.1). But it's a suffering that one readily justifies because it feels like the path of least resistance in the moment.
+
+    So it's not so much about whether such compromises are "possible" or not, but about whether what is being developed through them actually is the Dhamma. It's fine not to want to practice the Dhamma, i.e., the comprehensive cessation of craving. But it's dangerous to forget that that's the motivation for the compromise. The person then ends up in a gray area where they are neither pursuing their ambitions to the extent that they could, nor actually practicing the Dhamma (because they don't want to give up craving but only "manage" it in their own admission).
+
+    On the other hand, if you view the Dhamma as the literal abandonment of craving, internally and externally, as opposed to a clever strategy for somehow maneuvering around it, then however little you do in accordance with that accurate view will be a step or two mostly in the right direction. You won't have muddled the waters regarding what the right direction is even if you hardly went for it.
+
+    Insisting in calling one's practice of management "Dhamma" can only be rooted in dishonesty and wishful thinking. If the positive outcomes of the management practice were truly all that one cared about, one wouldn't mind whether it can rightly be reckoned as Dhamma or not because how one labels it won't change its results. There would be no issue with acknowledging that the Dhamma is much more than that. Just as a self-honest Kia owner wouldn't struggle to acknowledge that their Kia isn't a sportscar, and that they *could* buy a true sportscar if they saved enough money.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i7b8ob/brahmaviharas_from_the_perspective_of_a_lay/m8ymaff/)** _2025-01-24 19:13:54_ *(in reply to a comment not included)*:
+
+    >It seems to me that one could make a certain division here into two groups.
+
+    Yes, that division will inevitably exist. The point is that people who know they belong to the second group cannot develop the practices that require the lifestyle, mindset, and outlook of the first group, such as the brahmavihāras. Likewise, to the extent the first group attempts to fulfill worldly aspirations, they lose their original direction. It's like any other situation in life where you can't do two opposing things at once to the same extent. As long as one realizes that and acknowledges the inherent limitation, there is no problem with trying to go as far it allows.
+
+    Not acknowledging the limitation is a problem because then the refined aspects of the Dhamma, such as the jhānas, brahmavihāras, and meditation in general, get shoehorned into a space where they can't fit, inevitably deforming them and "dumbing them down" in the process. And out of that arise all sorts of delusions about achievements and attainments that don't measure up to the standard of true, unshakable freedom from suffering.
+
+---
+
+**r/HillsideHermitage** | Posted by GachiOnFire _2025-01-22 09:37:47_
+### [Homelessness is Nibbana (by Sister Medhini)](https://www.hillsidehermitage.org/homelessness-is-nibbana/)
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i77hm2/homelessness_is_nibbana_by_sister_medhini/m8w90zj/)** _2025-01-24 11:49:17_ *(in reply to a comment not included)*:
+
+    >I know myself enough to know that at short-mid term ordaining as a monk will lead to more proliferation, not less, to more socialization, not less... therefore it is likely that it will lead to more agitation, not less, and probably to accumulating more doubts.
+
+    It very well might, but those pitfalls can only manifest as a result of one's own choices. Monastic institutions are nowadays certainly far from the ideal, but you can still find a place that isn't too bad if you look further than the popular ones that are made to cater to the superficial needs of the majority. The views will almost inevitably revolve around wishful thinking, mysticism and magical experiences, and management techniques, but a good number of places would offer you an external environment that's still better than lay life in almost every way. In lay life you will for the most part be surrounded not just by wrong views but by wrong behaviors and values as well.
+
+    Going off to live in the wilderness as a layperson would probably be better than staying in the city, but it's still important to examine oneself as to why going to a monastery seems unpalatable provided one with reasonable seclusion and independence can be found. It may happen that it's because one still clings to the worldly type of freedom and safety of being able to do things according to one's desires. As long as they're not coercing you to break precepts, or to forsake your seclusion and sit in a room full of people for the whole day, then even the most inane expectations and tasks you might get from a senior monk cannot prevent you from developing your own mind.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2025-01-21 14:14:16_
+### [Rebirth](https://www.reddit.com/r/HillsideHermitage/comments/1i6jh6a/rebirth/)
+
+When do we get reborn? From my understanding when we go to sleep we leave the body(in sleep body is not there) and in the morning come back into the body for our next cycle of birth. This could create an infinite amount of lifetimes that create the separate experience in the present that we believe to be real. By this logic we are constantly getting reborn inside the body until clearly seeing the noble truths and putting an end to craving and attachment from which we narrate this story of coming from the past and going into the future. I think this is why seeing the dependent origination ends rebirth.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i6jh6a/rebirth/m8df53c/)** _2025-01-21 16:37:52_:
+
+    >From my understanding when we go to sleep we leave the body(in sleep body is not there)
+
+    This isn't really true. If you truly "left" your body, you wouldn't be woken up by loud noises, and things you're experiencing physically through any sense organ except the eyes wouldn't influence your dreams, as can happens sometimes.
+
+    >Studies have demonstrated that auditory stimuli presented during sleep can influence dream content. This technique, known as Targeted Memory Reactivation (TMR), involves delivering specific sounds during sleep to cue associated memories, thereby modifying dream content. For instance, research has shown that pairing neutral words with positive imagery, and then re-exposing individuals to these words during non-REM sleep, can lead to the incorporation of positive elements into dreams.
+
+    > putting an end to craving and attachment from which we narrate this story of coming from the past and going into the future
+
+    Whether there is a story or not, one will suffer for as long as there is craving. So the "stories" and the sense of continuity connecting past and future are quite irrelevant, neutral phenomena, and would not be abolished upon abandoning ignorance and craving. The Buddha himself would say things like "*I* was such and such a king at that time, and now *I* am the fully awakened Buddha" when referring to his past lives. The sense of self (*bhava*) is generated by *upādāna*, which is in turn bound up with craving, and not by a "story" or a sense of continuity.
+
+---
+
 **r/HillsideHermitage** | Posted by upasakatrainee _2025-01-19 08:29:11_
 ### ['Significance' of mother and father.](https://www.reddit.com/r/HillsideHermitage/comments/1i4u0xm/significance_of_mother_and_father/)
 
