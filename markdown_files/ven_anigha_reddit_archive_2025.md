@@ -1,3 +1,123 @@
+**r/HillsideHermitage** | Posted by GachiOnFire _2025-01-30 14:54:54_
+### [The extent of sense restraint](https://www.reddit.com/r/HillsideHermitage/comments/1idoq0p/the_extent_of_sense_restraint/)
+
+**EDIT**: Actually, after further reflecting on it this is probably Bhikkhu Bodhi's translation, which suggests that one doesn't grasp at any sign and feature, that made come to this conclusion, while the HH one rather suggests that this is only the signs and features connected to delight and upset.
+
+Until now I thought that sense restraint needed to be performed only towards things that I know by experience can result in delight or upset, or as soon as I notice the mind going in the direction of delight and upset, by enduring the pressure without letting the thoughts crystalize any more than they already did. (this is from the point of view of someone with a wild mind, that can still overlook citta and run with it without thinking twice, if not constantly careful)
+
+But reading the occurences in the suttas about sense restraint, I tend to understand that it is something much broader, needed to be performed in regard to anything. (and it kind of makes sense considering that if I restrain myself in regard to what I know by experience can result in delight or upset, craving can still manifest in regard to things that weren't causing delight or upset until now)
+
+Is this the case? And when well developped is it resulting in not grasping at any significance more than another one in regard to anything in my experience?
+
+---
+
+Along with these questions, I was wondering if sense restraint would have an effect in this MN18 passage:
+
+>Mental-faculty-consciousness arises dependent on the mental faculty and phenomena. The meeting of the three is pressure. With pressure as basis, feeling. What one feels, one perceives. What one perceives, one thinks about. What one thinks about, one proliferates. What one proliferates is the cause for perceptions and considerations born of proliferation besetting one in regard to sights cognizable by the eye pertaining to the past, present, and future. -- [MN 18](https://suttas.hillsidehermitage.org/?q=mn18#mn18:16.6)
+
+I tend to understand that being accomplished in sense restraint would **only** remove that last step of proliferation, would it be correct?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1idoq0p/the_extent_of_sense_restraint/ma5q7bi/)** _2025-01-31 07:10:41:
+
+    >Is this the case? And when well developped is it resulting in not grasping at any significance more than another one in regard to anything in my experience?
+
+    In a way yes, but you shouldn't be trying to perfect your sense restraint unless your precepts have been perfected. Getting used to never breaking the precepts no matter what *is* your sense restraint in the beginning (and your wakefulness, your mindfulness, your abandonment of hindrances, etc.). If you start trying to do more when that foundation is still shaky, you will only reap frustration because you will be trying to deal with impurities that are still to subtle to recognize reliably from where you currently stand. And that's when you inevitably fall from the middle way, and end up practicing either indulgence or a degree "absorption" (i.e., forceful denial of all objects in favor of a specific one). Sense restraint usually becomes the latter for people who are not sufficiently established in the precepts, and that's generally a very tiring and unpleasant endeavor.
+
+---
+
+**r/HillsideHermitage** | Posted by AlwaysOneLove _2025-01-30 00:01:54_
+### [Intense anxiety enduring while contemplating](https://www.reddit.com/r/HillsideHermitage/comments/1id8pi3/intense_anxiety_enduring_while_contemplating/)
+
+So when I'm contemplating in seclusion or when I'm listening to a dhamma talk there is an intense anxiety and restlesness of the body that endures in the peripheral of that contemplation/listening to dhamma talk. 
+
+My heart goes wild beating in my chest and initially I'll let this endure in the background for as long as it lasts, but when I have been contemplating/listening to a talk for an hour or longer and the anxiety/restlesness of the body and heavy heart pumping doesn't seem to stop, I'll have to bring this to the forefront of attention and try and manage it/ease into that unpleasant general feeling/restlesness and anxiety that endures in the background. But even while attempting to modify that anxiety and displeasure of that bodily state/general feeling, I can see that my attempts are not per se successful. 
+
+Maybe I need to improve my emotional regulation first or learn how to manage this anxiety with some technique before I delve deep into territory that will inevitably stir up a lot of anxiety?
+
+It has been said in the talks that this anxiety is very intense in the beginning and that it could be a good indicator of how well or deep the contemplation sinks in. To calm the aversion seems to be the best course of action. Is this the right way to go about this?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1id8pi3/intense_anxiety_enduring_while_contemplating/m9yrjd5/)** _2025-01-30 05:41:31:
+
+    >Maybe I need to improve my emotional regulation first or learn how to manage this anxiety with some technique before I delve deep into territory that will inevitably stir up a lot of anxiety?
+
+    That won't help. Employing a management technique would mean staying right where you are, if not altogether regressing (in your ability to be undisturbed by unpleasant feelings when they *do* arise, which is the only thing that counts as progress).
+
+    What you probably have to do is improve your virtue. The reason why contemplating the Dhamma would evoke anxiety is not because the contemplation itself is wrong or because one hasn't developed some other skill, but because the way one lives is still in opposition to the Dhamma and in line with craving, so there is an inherent discrepancy. While continuing to welcome craving, you contemplate the peril in craving, which will of course feel very unpleasant. If contemplating/practicing the Dhamma is pleasant for someone who still welcomes their defilements in their daily conduct, they can be sure that what they're practicing is not the Dhamma.
+
+    When you have been *living* renunciation and become fully established in it, then thinking about the dangers of sensuality and attachment, as well as the inevitable cessation of everything you once held dear, will be the most refined joy—the joy of seeing that you have freed yourself from endless amounts of pain that would have otherwise befallen you. That, in turn, motivates you to give up even more, and [this is precisely what jhāna is if you read the Suttas](https://suttas.hillsidehermitage.org/?q=mn39#mn39:14.29_mn39:14.30).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1id8pi3/intense_anxiety_enduring_while_contemplating/ma5869q/)** _2025-01-31 04:45:14 *(in reply to a comment not included)*:
+
+    [This](https://www.youtube.com/watch?v=VcQqUS4awDs) and [this](https://www.youtube.com/watch?v=wPr59OHLcrk) are good examples.
+
+    Virtue can only take place within the precepts, but someone who doesn't break the precepts isn't intrinsically virtuous. Think of a child, for example. It only counts as virtue when it's done with a willful commitment to giving up greed, aversion, or entertainment/distraction. And that means you would be actively looking for those faults and working to remove them regardless of what "allowances" the rules supposedly give you, because it's about purifying your own mind and not about meeting some external expectation.
+
+---
+
+**r/HillsideHermitage** | Posted by upasakatrainee _2025-01-28 05:45:26_
+### [Day in the life of Samanadipa / HH residents](https://www.reddit.com/r/HillsideHermitage/comments/1ibutiz/day_in_the_life_of_samanadipa_hh_residents/)
+
+Might there be a short video made, showing what a typical day looks like at Samanadipa and/or Hillside Hermitage looks like. It would be of benefit to me to try and incorporate a similar regimen in my practice. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ibutiz/day_in_the_life_of_samanadipa_hh_residents/m9muzss/)** _2025-01-28 13:47:39 *(in reply to a comment not included)*:
+
+    We wouldn't make such a video because it would only give the wrong impression. We don't have a daily routine, nor do we place any importance on having one. What matters is the permanent abstinence from acts rooted in greed, aversion, and delusion. No routine can fundamentally capture that principle because those qualities exist in each individual's mind and can only be known internally. Apart from the breaking of precepts, they aren't measured by outward activities.
+
+    Someone who spends a whole day in diligent "practice" might be completely consumed by hindrances while thinking they're practicing well (which is not uncommon). Meanwhile, someone who spends the same amount of time doing nothing but menial work—perhaps considered by the other person a "distraction"—may do so with an internally composed mind free of underlying defilements. In another case, the person who occupies themselves with external activities could be doing so for the wrong internal motivation, out of an "itch" of distraction, and they should actually restrain that. You can't tell when it's which just by looking at someone.
+
+---
+
+**r/HillsideHermitage** | Posted by Formal_Breath_2025 _2025-01-26 19:07:18_
+### [Thoughts on Unwelcoming Sexuality](https://www.reddit.com/r/HillsideHermitage/comments/1ian6vt/thoughts_on_unwelcoming_sexuality/)
+
+I’ve been practicing not welcoming thoughts of desire, not attending to their pleasant features, not giving them the centre stage etc., but I noticed that sometimes when too much lust arises, that becomes quite difficult (not necessarily impossible) to do with lustful thoughts that arise. So when that happened I moved to contemplating the body and feelings as well, and I noticed ‘pleasant’ feelings that are present in the body, not just in the thoughts. I thought “why is my mind relishing as pleasant those arisen bodily sensations which are, beyond the pleasant feeling, mostly just uncomfortable?” (bodily sensations that endure well before you *act* on them, just so we’re clear). I felt that it was a perversion of things to feel this situation as pleasant, so I kept attending to those pleasant feelings through-the-origin and unwelcoming them until my mind started to turn away from the lust. I found this useful because even though I wasn’t directly unwelcoming lustful thoughts or contemplating asubha, once I had practiced this, those thoughts started to have much less appeal, because you realise that people who wilfully engage in sexuality mostly just can’t exert restraint over their bodies in this way, and they take sexuality up as their ‘own’ choice as a kind of existential wilful ignorance towards this fact. From this perspective, lustful images actually start to become quite unappealing without any traditional asubha contemplation at all. I think this might be part of what the Buddha meant in the Samyogasutta (AN 7.51) when he mentions “A man focuses on his own masculinity… he’s stimulated by this and takes pleasure in this” *before* the man goes to seek ‘union’. It’s not just that he finds his own body, clothes, etc. attractive, but that he already must experience some level of pleasure with regard to his masculine body part *in order to seek union*, i.e. the pleasant feeling is enduring even before seeking union, and someone couldn’t possibly desire to seek union if they don’t take pleasure in that body part. Once you’ve uprooted the delight in that bodily sensation, lustful images naturally start to become unappealing. These are just suggestions so any feedback is welcome. I think it would be quite hard to practice this for anyone who hasn’t already been practicing sense restraint for a while, but I’m mainly suggesting it for those who have.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ian6vt/thoughts_on_unwelcoming_sexuality/m9mrc63/)** _2025-01-28 13:25:32:
+
+    Yes, sensuality is after all nothing but delight in one's own body. You can't purely experience the body of another. You can only experience your body experiencing the body of another, and that's where lust arises.
+
+    The "traditional" asubha contemplation is not just not necessary; it's misguided. It's a rote repetition of visualizations that's relies on another set of equally visceral reactions of your senses: using aversion of the senses to override lust of the senses. It's on the same level as someone w a pile of who keeps a pile of excrement ready so they can revisit it whenever they get hungry and thereby suppress their appetite. At some point you will get either so hungry  that it will make no difference, or you will just get desensitized over time.
+
+    But if having long since stopped engaging with sensual objects you come to discern the "framework" of your own body—through which not only other people's bodies but all sensory experiences are encountered—and the fact that it is composed of these disgusting organs, then any delight, not just in human bodies, will inevitably fade. You realize that there isn't a single nook or cranny in your experience that isn't enveloped by that repulsiveness.
+
+    Then it's no longer a volitional exercise of "pasting" asubha images over whatever is beautiful in a short-term management/antidoting fashion. You cease to be concerned with whether this or that is beautiful because you have seen that the sole "gateway" through which any extent of beauty can possibly come is utterly revolting, and there is nothing you can ever do about it. And that's good, because that dispassion will then be rooted in the way things are and always will be, and not in your volition.
+
+---
+
+**r/HillsideHermitage** | Posted by obobinde _2025-01-25 07:55:02_
+### [Questions about internal sense bases and citta.](https://www.reddit.com/r/HillsideHermitage/comments/1i9i5kv/questions_about_internal_sense_bases_and_citta/)
+
+If the internal sense bases are a negative space that can't be felt but only discerned, would it be right to say they are in the same domain as 'that body because of which' ?
+
+
+
+If yes : the sixth sense base being mano, can we say that the external part of it is composed, among other things, of the active thinking *and* of the felt sense of I since the I is a thought ?
+
+
+
+What about citta then, is it also pertaining to the inaccessible domain of 'that body because of which' ?
+
+
+
+In which case, can we say that all of the internal sense bases, even though being an empty negative space, are under the influences of the citta and that is the reason why our senses are pulling us in whichever direction without us having anything to say about it (since we have no control whatsoever on either the citta or the internal sense base) ?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i9i5kv/questions_about_internal_sense_bases_and_citta/m9f139v/)** _2025-01-27 07:25:06:
+
+    What's "internal" and what's "external" is not determined by a universally present "structure", but by one's individual mental situation. For the puthujjana for example,
+
+    >the felt sense of I since the I is a thought ?
+
+    this would not be correct. Their sense of self is always "internal," which is precisely why they're still a puthujjana. Hence whenever they contemplate self, it's inevitably an external thing that they're contemplating  "through" their still internal sense of self. That's what is meant with "seeing not self with self."
+
+    >What about citta then, is it also pertaining to the inaccessible domain of 'that body because of which' ?
+
+    For a puthujjana, yes. But seeing the signs of the mind means precisely that the citta is not "inaccessible" anymore. One is able to recognize it as a phenomenon, and it's not anymore "internal" (i.e., overlooked) as it used to be. But that of course doesn't mean that it becomes a quasi-sensory object as in the popular understanding of "nimitta." It's still just on the level of a recognition, similar to how you know you are human without that knowledge being represented by any particular sensory object.
+
+    >In which case, can we say that all of the internal sense bases, even though being an empty negative space, are under the influences of the citta and that is the reason why our senses are pulling us in whichever direction without us having anything to say about it
+
+    Yes, for someone who is not free from sensuality this would be the case. So the say that you *do* have, which would eventually take your senses out of the influence of the citta and establish the right order of things, is to not act on the pull of your senses even if it's there. And that's why virtue is indispensable.
+
+---
+
 **r/HillsideHermitage** | Posted by craveminerals _2025-01-24 17:52:01_
 ### [Comfort zone of solitude](https://www.reddit.com/r/HillsideHermitage/comments/1i91ekj/comfort_zone_of_solitude/)
 
@@ -29,6 +149,54 @@ Any advice or comments would be appreciated 🙏
     Unless you're an anāgāmi, solitude would almost surely cease to be comfortable if you stopped making choices that you, through self-honesty, realize are rooted in simple desire for sense pleasure or distraction—temporarily taking your eyes off of the problem that your mind still is rather than "taming" it.
 
     In order to truly abandon concern with what others think about you, you need to first give up not only physical acts but also thoughts of delight in sensuality. [Those are coarser impurities](https://suttas.hillsidehermitage.org/?q=an3.101#an3.101:2.3).
+
+---
+
+**r/HillsideHermitage** | Posted by upasakatrainee _2025-01-24 13:39:37_
+### [Clarification regarding Ven. Ñāṇavīrā's note on Paṭiccasamuppāda](https://www.reddit.com/r/HillsideHermitage/comments/1i8vleo/clarification_regarding_ven_ñāṇavīrās_note_on/)
+
+Dear [Bhante](https://www.reddit.com/user/Bhikkhu_Anigha/),  u/Bhikkhu_Anigha
+
+A question came up in my mind, in pondering over Ven. Ñāṇavīrā's note on Paṭiccasamuppāda, in particular [Para23](https://nanavira.org/notes-on-dhamma/paticcasamuppada#p23) and [Para24](https://nanavira.org/notes-on-dhamma/paticcasamuppada#p24)
+
+He tells us that :
+
+>“It should be borne in mind that *paticcasamuppāda anulomam* ('with the grain'—the *samudaya sacca*) always refers to the puthujjana, and *paṭilomam* ('against the grain'—the *nirodha sacca*) to the arahat.”
+
+This indeed seems an accurate conclusion to me, but the question then is: what about the *ariyasāvaka*? Is it somewhere in-between?  Is it *anulomam* most of the time, and *paṭilomam* some of the time (only when they are abiding in jhāna)?
+
+Furthermore: He says that the principle of conditionality (i.e. *hetuppabhavā*) is a general principle, that is 'exemplified' in the *paṭiccasamuppāda* formulation (of the 12 n*idānas*) of an individual's experience. I.e. *paṭiccasamuppāda anulomam*, is a formulation that also adheres, to this same general principle, and is an 'exemplification' of it.  
+
+That is to say, that as long as there are conditions (*hetū*, plural), there will be the ‘playing out’ of the *paticcasamuppāda* formulation in experience. 
+
+But the fact that conditions are (i.e. *hetū* are), is dependent (*paccaya*) on *Avijjā*. This is how we arrive at “*Avijjā paccaya sankhāra*” (*hetū* and *saṅkhāra* being synonymous in this usage)
+
+Which is just another way of saying “*Ye dhammam hetuppabhavā, tesaṁ hetuṁ avijja*” (Ven. Assaji's words to Ven. Sāriputta)
+
+He quotes:
+
+>"Avijjāpaccayā sankhārā" will thus mean 'paṭiccasamuppāda depends upon non-seeing of paṭiccasamuppāda'. Conversely, seeing of paticcasamuppāda is cessation of avijjā, and when paticcasamuppāda is seen it loses its condition ('non-seeing of paticcasamuppāda') and ceases. And this is cessation of all hetuppabhavā dhammā. Thus tesam yo nirodho is cessation of avijjā"
+
+Seeing the Dhamma, is synonymous with seeing *paṭiccasamuppāda*. And seeing *paṭiccasamuppāda*, is  *cessation* (*nirodha*) of *avijjā*.
+
+Therefore this also prompts the question of why Ven. Sāriputta, who upon hearing Ven. Assaji's words 'saw the Dhamma' (i.e. the general principle of *hetuppabhavā*, and consequently his particular exemplification of *paṭiccasamuppāda*), but was at that point a Sotapanna. 
+
+If as per Ven. Ñāṇavīrā, the seeing of the principle of *hetuppabhavā* marks *Avijja nirodha*, shouldn't that mean that Ven. Sariputta attainted to Arahantship? Why then did he need a couple weeks or so, *after that* realization?
+
+  
+
+
+I hope the question is sensible, and isn't worded too clumsily. 
+
+Thank you for your explanations !
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i8vleo/clarification_regarding_ven_ñāṇavīrās_note_on/m9mk965/)** _2025-01-28 12:38:15:
+
+    >Is it somewhere in-between?  Is it *anulomam* most of the time, and *paṭilomam* some of the time (only when they are abiding in jhāna)?
+
+    From the puthujjhana's perspective, it's not "anuloma" at all. The "grain" that you experience is the coarsest fetters that you still have. The higher ones are for all intents and purposes not present for as long as the coarser ones exist. So the puthujjana's ignorance and craving do not exist in a sotapanna anymore, and neither does a sotapanna's ignorance and craving exist in an Arahant.
+
+    [Curd is not a bit of milk and a bit of something else.](https://suttacentral.net/dn9/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#52.1) Accurately speaking, curd contains 0 milk. By processing *all* of the milk, you get curd.
 
 ---
 
@@ -72,6 +240,19 @@ What do you think, is this a valuable practice for someone who simply wants to c
     Yes, that division will inevitably exist. The point is that people who know they belong to the second group cannot develop the practices that require the lifestyle, mindset, and outlook of the first group, such as the brahmavihāras. Likewise, to the extent the first group attempts to fulfill worldly aspirations, they lose their original direction. It's like any other situation in life where you can't do two opposing things at once to the same extent. As long as one realizes that and acknowledges the inherent limitation, there is no problem with trying to go as far it allows.
 
     Not acknowledging the limitation is a problem because then the refined aspects of the Dhamma, such as the jhānas, brahmavihāras, and meditation in general, get shoehorned into a space where they can't fit, inevitably deforming them and "dumbing them down" in the process. And out of that arise all sorts of delusions about achievements and attainments that don't measure up to the standard of true, unshakable freedom from suffering.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1i7b8ob/brahmaviharas_from_the_perspective_of_a_lay/m9ezqdc/)** _2025-01-27 07:11:52 *(in reply to a comment not included)*:
+
+    >Is the only advice in such a situation to then keep the 5 precepts or are there reflections which are suitable to such a person in order to keep the mind inclined towards morals behaviour? (Making sure to be faithful, not developing jealousy etc).
+
+    Yes, reflection is always beneficial no matter what one's situation is. It's just that the benefits of those reflections will be limited to the basis of virtue that you have. Reflection cannot undo defilements that you still act out of by body and speech, just as a toothbrush would never be able to scrape off hardened cement. Reflection can only keep your mind in check so that you are able to *maintain* your current level of virtue, in this case 5 precepts.
+
+    >Also, how should one reflect on feelings of guilt for choosing this path rather than following the Dhamma?
+
+    If realizing the Dhamma is valued as a goal, then one should foster that guilt (*hiri-ottappa* as it's called in the Suttas), and not label it as bad. If you don't feel guilty about something that your mind craves for, there's little chance you'll ever give it up.
+
+    >Should such a lay person still seek out solitude on occasion?
+
+    Yes, but that time should be devoted mainly to increasing their baseline of virtue for that period, not to doing more advanced practices that they might think will "make up" for what they do the rest of the time, which is not how *kamma* works. Eventually, after periodically establishing higher virtue many times, they may come to see the benefits of it for themselves and end up making that their default. That's the point of the Uposatha observance. But for that to work, one needs to actively *want* that increase to happen (i.e., actually value the cessation of craving *over* the continuation of one's present lifestyle) and not feeling justified and content with keeping 5 precepts indefinitely, which is most laypeople's mindset.
 
 ---
 
@@ -327,6 +508,13 @@ Mark
     The same principle applies to aversion, just that the "itch" is of course different in its content (pushing back at a perceived threat).
 
     \[Edit: It's also important to remember that letting "the dog" get worked up over one thing means letting it get worked up over *everything*. So if a person struggles with a specific defilement, they should always consider not just that one, but all the other defilements they might be giving in to, not seeing them as a problem\].
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hza628/the_more_you_scratch_an_itch_further_explanation/m9exnqc/)** _2025-01-27 06:52:14 *(in reply to a comment not included)*:
+
+    >Seems like the "jump over" part, the separation of sense door pressures, is some kind of illusion, perhaps?
+
+    No, it's not an "illusion." The whole concept of "illusions" is something one should avoid, as it is almost always rooted in denying the factual state of affairs for the sake of managing one's feelings in regard to it. 
+
+    The pressure "jumps over" from one sense door to another simply because it's not the sense doors that are infected with craving themselves, but rather the mind (citta), which is tied to all the sense doors, including the sixth. And there's no "why" to this, it's just the way existence works.
 
 ---
 
@@ -659,6 +847,19 @@ If you don't have control, what is the basis for that "you" that chooses what to
     The second thing, which comes within the first, is that you have to recognize the liability to death *rightly* (which means concretely, in a way that doesn't leave out your point of view). Thinking about it as some sort of external fact will certainly not undo your passion for sensuality. Many people do already recognize that "we're all going do die one day" and so on, but because they're not relating to that possibility of death rightly, they can even use it as an excuse *for* sensuality, ironically.
 
     It should also be qualified that undoing passion for sensuality does not necessarily mean exterminating the *pressure* of sensuality on the spot. If you've been cultivating delight mentally, you can't instantaneously stop that train. But what recollecting death rightly *would* do is put things back into perspective so that you are unable to keep fueling the pressure that has been accumulated, at least for as long as the recollection remains properly established.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1hru147/what_is_the_you_that_chooses_what_to_allow_the/ma7uvxo/)** _2025-01-31 16:28:57 *(in reply to a comment not included)*:
+
+    It's not that the memories *need* to be absent. Complete forgetfulness is just how it would generally pan out, but whether you remember or not does not matter. 
+
+    Assuming this is the reasoning behind your question, the fact that someone may remember even everything from a previous live does not validate that person's wrong assumption of self and appropriation any more than remembering what happened 10 years or 10 seconds ago would. 
+
+    Rather than being some sort of universal law that we can "observe" objectively, *anattā* is something that needs to be *realized* by understanding *dukkha* and becoming fully disenchanted with all existence, and memories from previous lives would allow for exactly that. 
+
+    People are intoxicated and enamored with this life because they naively but genuinely believe that things will somehow be alright in the end. If they were able to look back at how they thought the same every single time and they *always* ended up being ultimately disappointed and remorseful of all the effort they put into pursuing impermanent things one way or another, with no consolation whatsoever in the end, they would abandon all passion for existence. And that's why in the Suttas, the knowledge of previous lives is a precursor to the final destruction of craving and termination of saṃsāra.
+
+    Even in this life, if you reflect carefully you will see that good memories are actually *painful*. It's just that if you have the means to experience the same sense objects again, the momentary pleasure can distract you from the pain of nostalgia, which can never be fully removed.
+
+    In other words, by understanding that both remembering and not remembering will inevitably be painful, and that both will make all the pleasures you acquire in this life either useless or direct sources of pain (nostalgia), you would realize that nothing is worth delighting in, and that is closer to *anattā* than any intellectual ideas about the self not remaining the same from life to life that one may have.
 
 ---
 
