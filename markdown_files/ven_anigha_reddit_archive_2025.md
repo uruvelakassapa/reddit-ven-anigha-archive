@@ -1,3 +1,124 @@
+**r/HillsideHermitage** | Posted by BakeFinancial4087 _2025-02-15 03:08:51_
+### [yoniso manasikara](https://www.reddit.com/r/HillsideHermitage/comments/1ips9nz/yoniso_manasikara/)
+
+How does having knowledge about the 'origin' prevent one from further acting out towards sensuality? Assuming thats what yoniso manasikara is. Or if i keep this knowledge long enough, will it automatically  prevent me from acting out? I just dont understand the relation between the two. As I have understand from ajahn nyanmolis teachings it will help me not act out, or as he says knowledge of yoniso mansikara will make you unable to make unwholsome choices, now of course i understnad i have to put in the work, but  i just wanted to clarify exactly what it means and how proper yoniso mansikara will help.
+
+I have been keeping the 8 precepts strictly, however there is still mental unwholsomness, which obviously i try not acting out of, but sometimes its hard to discern the middle way. I think I have the 'prerequistes' for discerning the origin.
+
+  
+thanks
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ips9nz/yoniso_manasikara/mcv8f14/)** _2025-02-15 07:05:03:
+
+    >Or if i keep this knowledge long enough, will it automatically prevent me from acting out?
+
+    No, it's the other way around. In order for the right knowledge to even be accessible, you need to have completely stopped acting out already. Developing knowledge only serves to make you dispassionate on top of merely being restrained, which basically means there's no need for restraint anymore. The mind simply does not want to go there because non-craving is *recognized* and seen as perfect safety, and craving as danger.
+
+    So yes, it will make you unable to make unwholesome choices. But you need to have completely stopped actually making those choices long beforehand.
+
+    When it comes to the mental unwholesomeness that can remain even within the 8 precepts, you just have to follow the same principle. You don't have to supress your every thought; just restrain any thoughts that partake *in the direction* of breaking precepts. Thoughts rooted in lust or longing, hatred or resentment, and so on. That doesn't mean you destroy the *pressure* to think those thoughts, which is not your responsibility. It just means you don't think those specific thoughts on account of it, and thus you won't be further feeding it as a result. 
+
+    Just as you wouldn't need to destroy a bottle of wine no matter how forcefully it's offered to you in order to keep the 5th precept. You just wouldn't go and drink it. Eventually whoever is offering it to you would forever stop trying. And then you'll be truly relieved from the problem at its root, instead of ignoring the fact that the bottle is still being offered to you and sending your mind elsewhere for a superficial and temporary relief, which is what meditation is most often about for people.
+
+    And this is all *yoniso manasikāra* as practically as one can describe it. It's not about trying to figure out various technicalities of your attention, the "peripheral," etc., but about [giving up greed, aversion, and delusion right here and now](https://suttas.hillsidehermitage.org/?q=mn2#mn2:3.1_mn2:3.5).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ips9nz/yoniso_manasikara/mcvlzuf/)** _2025-02-15 09:27:26 *(in reply to a comment not included)*:
+
+    >even if i dont specifically go along with it it keeps pressuring me and i dont know what needs to be done. Its like a recorder being played and im there just watching it.
+
+    "Not knowing what needs to be done" is something that is pressuring you too, and if you don't restrain yourself in regard to that pressure as well and feel justified in acting out of it, you will be feeding the same craving that makes you liable to sensuality to begin with. 
+
+    So don't indulge in the sensual pressures by body or by speech, no exceptions. Mentally, don't intentionally listen and tune in to the "recording" even if it's playing in the background—because that can't happen by accident. But *also*, don't indulge in the urge to get rid of those pressures, and see that too as a recording playing in the background. 
+
+    That's basically the middle way, and if you understand it and sustain it long enough, not just particular instances but the overall liability to any type of pressure will diminish and ultimately be destroyed.
+
+    > but other days its just a lot of pressure and longing and is hard to keep steady when this happens
+
+    You need to start recognizing why it is that this happens, because it's not an accident. [If the mind gets wild, it can only be because you've been giving attention to things you shouldn't have](https://suttas.hillsidehermitage.org/?q=mn2), often because in the moment it doesn't feel like a big deal, and the danger is not immediately obvious. Only afterward when you're already drowning in pressure you realize you made a mistake, but then it's too late.
+
+    > However I have only just come to the monastery in the last 10 days so I assume I should be a lot more patient....
+
+    Yes, that's for sure.
+
+---
+
+**r/HillsideHermitage** | Posted by senserestraint _2025-02-14 15:35:27_
+### [Being free from craving doesn’t make me feel relief or bliss](https://www.reddit.com/r/HillsideHermitage/comments/1ipd8pe/being_free_from_craving_doesnt_make_me_feel/)
+
+For example, I used to be addicted to facebook but deleted it three years ago. When I think about how I now have zero craving for facebook, its just an 'um, ok' neutral feeling. No relief or bliss from no longer being bound to something I was once bound too. Am I missing something?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ipd8pe/being_free_from_craving_doesnt_make_me_feel/mcv5q83/)** _2025-02-15 06:38:49:
+
+    You have most likely not freed yourself from many other cravings. Giving up craving as a whole is what leads to peace automatically. And that requires understanding the nature of craving (the right view); it can't just "happen" the way people naturally lose interest and get bored of this or that specific thing (nor the way things just stop coming up as a result of a focusing practice). Otherwise every 90 year old would be an anāgāmi at the very least.
+
+---
+
+**r/HillsideHermitage** | Posted by still_tracks _2025-02-14 14:34:30_
+### [Understanding Craving: Personal Reflections](https://www.reddit.com/r/HillsideHermitage/comments/1ipbw3u/understanding_craving_personal_reflections/)
+
+I would like to share my current understanding of craving in the hope that someone may relate or identify any issues and be generous enough to point them out. This will be a lengthy post with mainly personal reflections.
+
+For me, it seems that there are different "shades" of craving that manifest in experience in different ways. Firstly, there appears to be a type of craving that Ajahn Nyanamoli usually refers to as "wanting the wanting." For me, this means that there is something in the experience that actively wants to go along with the pressure of the senses, mainly via justifying it. It also seems that this wanting of the wanting has its own force and just waits for the moment when the wholesome context (e.g., the danger of sensuality, non-ill-will) becomes weaker (by actions I have taken contradicting it). For example, if I am irritated by a person, initially I can know that the person isn't the problem. However, there isn't just a pull to get back at the person but also a pull to justify going along with the pull — something that wants to override the context of "others are not the problem" into "others are the problem." If the context of "others are not the problem" is already weak, the justification of the pull easily succeeds and results in me being pulled into unwholesome engagement, especially on the mental level. The "me" that has tried to withstand that pull has transformed into a "me" that is now relishing thoughts of ill-will. This can happen within seconds, which is quite astounding. Once the relishing part has started, the craving isn't occupied with wanting the wanting anymore (because it has succeeded); instead, it is occupied with keeping the relishing going. Attempts to withdraw oneself from that mental absorption will be met with very high pressure to dive back in. This whole dynamic and how it "feels" is also the phenomenon that comes closest to what I understand as dukkha. Being absorbed in the unwholesome and fighting with the pull really "sucks", while being properly established in a wholesome context and not questioning this context feels quite peaceful, even amidst unpleasant pressures.
+
+There also seems to be craving in the sense of "never being satisfied with the current experience." Even when the mind is calm and not occupied with coarse hindrances, there seems to be some dissatisfaction with the current state of affairs. When I am feeling a pleasant feeling, there is subtle nervousness to "never lose it again." When there is displeasure, there is a subtle attitude of "when will this go away?" One can, of course, be theoretically aware that feelings come and go by themselves, but even these thoughts seem to be aimed at getting rid of the current not-sufficiently-pleasant feeling. For me, it seems most important to be aware of the non-ownability of feelings when pleasant feelings are present because, in the face of unpleasant feelings, it seems hard to contemplate it authentically. Hence, in general experience, there seems to be a continuous pressure "to do *something* about this situation." However, in contrast to a pull based on coarse hindrances, it doesn't really have a clear direction. The pull seems to be superfluous and blind, nonetheless, it seems quite unimaginable how there could be experience without it. In some moments, it seems that I can "see through" it and been free from it for a moment. But in the same moment, it seems to be there again (or still?).
+
+I am not saying that these examples represent what actual craving is for someone who truly understands craving (i.e., to be free from being overpowered by it). Still, this understanding gives me a direction for practice, which doesn't seem too far off. Foremost is to protect the proper context, i.e., to not forget the value of not wanting the wanting (i.e. seeing the danger in it, seeing the benefit of harmlessness) and to unabsorb oneself from being occupied with agreeable thoughts and images, without denying them. The agreeable doesn't have to be something "beautiful" (like women, success in career, having insights into dhamma, getting positive feedback for this post, etc.). It can also refer to the "perverse" agreeability of dwelling on the faults of others and imagining how one would get back at them (i.e., ill-will and cruelty).
+
+Any feedback is very appreciated.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ipbw3u/understanding_craving_personal_reflections/mcvnb5j/)** _2025-02-15 09:41:40:
+
+    Are you already established in unbroken precepts and withdrawal from sensual engagements? If not, you are probably overthinking things. Up until that point, craving is nothing more complicated than the fact that you break the precepts or give in to sensuality even occasionally, and trying to see anything more subtle than that will distract you from the actual and rather obvious problem—the actions you still engage in. Even if you were to then develop perfectly accurate ideas about the practice, all you will be doing with them is managing the byproducts of that root problem that is still welcomed and tolerated.
+
+---
+
+**r/HillsideHermitage** | Posted by GachiOnFire _2025-02-13 19:42:07_
+### [Can I deal with craving this way?](https://www.reddit.com/r/HillsideHermitage/comments/1iorlth/can_i_deal_with_craving_this_way/)
+
+For context I'm still actively tightening my virtue within the boundaries of the 8 precepts, and can still lapse on the level of body or speech on a weekly basis. But still I see that my mind already got tamed to a degree because of it since before the practice.
+
+Within this basis, and particularly in regard to upset, I get some insights of what is happening "behind the scene" of these actions, and I would appreciate opinions on whether I should continue in this way or not.
+
+It happens that I recognize that trouble arose because of a perception/feeling, I don't see citta-pressure as such but I'm aware that this specific perception is forced into the center stage of attention, and if I investigate what's happening there I find a mental activity of resistance towards a certain aspect of this perception; the term “proliferation” takes on its full meaning because it is as if it automatically started happening and would just continue on and on.
+
+I know that this mental action is of my doing as Bhante Anigha repeated many times, but I'm inclined to think it seems like it automatically started happening on its own because that's the natural way I've been inclining until now in dealing with these pressures. Mind goes one way, I follow wholeheartedly instantly.
+
+So there's this perception/feeling forced into the center stage of attention and this mental activity of resistance towards aspects of it; at this point, having recognized this mental activity I'm sometimes able to just stop it "Why am I resisting this, causing all this tension? Why don't I just not do that?" and so I do. (I cannot help but think about MN 20: [‘Why am I walking quickly? Why don’t I slow down? ...’](https://suttas.hillsidehermitage.org/?q=mn20#mn20:6.1_mn20:6.21))
+
+It's particularly easy with upset because calm comes back very quickly on account of the thoughts subsiding \[I may be wrong here, it doesnt always subside without remainder\]. With the other hindrances it can demand more might to abandon it without remainder, it's usually rather a state of "non-crystalized possibility" \[at best, sometimes\] that I should not give in, but doesn't subsides alltogether.
+
+All of this to ask:
+
+Is this a right form of renunciation, and should I continue do that whenever trouble arise? Or is this management?
+
+If this is right, does that mean I'm more developed towards irritation than the other hindrances, and the others will eventually come to subside as quickly?
+
+And please, let me know if something is off in what I'm describing, in regard to the Dhamma that is.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iorlth/can_i_deal_with_craving_this_way/mcv0m3w/)** _2025-02-15 05:51:52:
+
+    You only need to worry about never going beyond the "non-crystalized possibilities." Contemplate the danger if the mind starts to move in those directions again, just to get back to the possibilities and enduring them at that level. If you were to "stay" there long enough, a subtler engagement with the possibilities *as such*—prior to any particular giving in and proliferating—will become apparent, and with that you automatically realize that you can stop that engagement too. And only then can you truly go beyond the hindrances, not just keep them in check.
+
+    Don't fall into the trap of expecting the hindrances to disappear quickly even if they sometimes do. Your responsibility is only to stop engaging with them, not to destroy them. They are destroyed only when the fuel for them has completely drained away on account of your heedfulness in not crystallizing them regardless of their pressure. And that's important because when trying to "manually" destroy a hindrance, you will be acting upon another hindrance inevitably (thus maintaining craving as a whole).  As long as you maintain craving as a whole, you maintain the possibility for every hindrance, so even the one you want to get rid of the most will be ready to come back when you get tired of pushing it away. 
+
+    Also, ill will is the quickest one to fade and the easiest one to overcome. It's not a coincidence that almost all traditions unanimously praise the giving up of ill will (or rather the last-minute management of it), but it's much rarer to find someone who encourages, let alone attempts, to give up sensuality equally and *across the board*, even through superficial management. But you need to be just as apprehensive of it because it will keep you liable to ill will no matter how quickly you can get rid of the latter. The true safety from ill will is in destroying the liability permanently, not in a perfect management of particular instances. And for that sensuality needs to completely go as well.
+
+    Lastly, it's always worth emphasizing that one cannot even begin to give up the hindrances unless one is fully restrained on a physical and verbal level. Acting out by body and speech "crystallizes" the hindrances to the greatest possible degree. And it's not enough to abstain from unwholesome things most of the time: even the most undeveloped person already doesn't engage in sensuality and hatred most of the time. In order to be actually virtuous, you need to have knowingly rejected any *possibility* of acting unwholesomely from the very beginning. You might then still fail from time to time, but out of carelessness and being overwhelmed by pressure. Not because you had allowed yourself that possibility in advance, i.e., never actually took on the precepts.
+
+---
+
+**r/HillsideHermitage** | Posted by PrestigiousStreet930 _2025-02-10 22:48:18_
+### [mindfulness of external situations.](https://www.reddit.com/r/HillsideHermitage/comments/1imjjyv/mindfulness_of_external_situations/)
+
+I am friends with a monk who tends to include mindfulness as being related with situational awareness. For example if someone is clumsy that means they are not being mindful, if someone doesn't see something in there external environment like a stump on the ground or something and trips on it that means they are not being mindful. Are there any suttas that support this way of thinking about mindfulness, because for me mindfulness and things of that nature that i just listed are completely different.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1imjjyv/mindfulness_of_external_situations/mc58s29/)** _2025-02-11 06:53:59:
+
+    Not being aware of what's actually going on around you would be a symptom of unmindfulness, a sign that became overly preoccupied with somehthing specific and lost sight of your overall situation. So in a way yes, "situational awareness" would be an accurate description of mindfulness as long as we qualify that you don't develop that by trying to focus and become hyperaware of the stumps on the ground, the movements of your feet, sensations in your body, and so on, which is the direction people tend to go when trying to develop mindfulness. That's just becoming unmindful on the basis of a different sense door. You would thereby start ignoring a whole range of things, including your intention behind engaging in that practice in the first place.
+
+    So indeed, one should not be immersed in mental proliferation and daydreaming, but being immersed in physical sensations is not an improvement at all. Right mindfulness is when the mind is[ unfocused and unabsorbed in regard to everything, no exceptions.](https://suttas.hillsidehermitage.org/?q=an11.9) That's the only way to be aware of your entire situation instead of prioritizing some specific aspect of it gratuitously.
+
+---
+
 **r/HillsideHermitage** | Posted by still_tracks _2025-02-07 14:33:38_
 ### [Dhamma as Inspiration (or Management?)](https://www.reddit.com/r/HillsideHermitage/comments/1ijwbpm/dhamma_as_inspiration_or_management/)
 
@@ -18,6 +139,23 @@ Am I correct in thinking it might be better to read Dhamma material only when no
     Furthermore, it won't turn into a "ritual" or "management" if you ensure that you actually *use* that inspiration to give up and restrain things that you now see as unwholesome through newfound clarity—no matter how justified you feel they are or how integral to your life they have become. Even if it's not a fully fledged focusing technique or similar, virtually anything you practice will be a form of management and distraction when your fundamental intention is to try to have your cake and eat it too: when you want to sidestep the suffering bit, while at the same time being unwilling to evict all the habits and behaviors based on craving that you still have, and which create the fertile ground for suffering to arise in the first place.
 
     On the other hand, if you do have that kind of resolve, then even if something uplifts your mind, it's not necessarily a problem because you made sure to remove everything unwholesome beforehand, and you have nothing to deceive yourself about.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ijwbpm/dhamma_as_inspiration_or_management/mbtn8j4/)** _2025-02-09 11:50:59 *(in reply to a comment not included)*:
+
+    >Do you mean adopting an attitude where you only stick to the practice when feeling inspired and neglect it when inspiration runs out?
+
+    The intention to keep the precepts and not act upon sense desire or aversion has to be rooted deeper than the inspiration so that it stays even when inspiration goes. 
+
+    >Here, "understanding the meaning" would refer to relating the ideas one is reading about to one's own experience — not just liking the idea of impermanence, but actually trying to see the things one likes as impermanent? So a mind under full sway of the hindrances would only like the ideas on an intellectual level, while the hindrances can't be in full control if one is able to relate to the meaning on a personal level
+
+    Yes. A tangible recognition that the things that you personally take pleasure in and rely on are impermanent, and that this delight thus makes you *liable* to suffering at any moment—regardless of whether the things themselves are good or bad—will naturally inspire you to give them up. But you have to then actually go through with abandoning them and not just remain with the inspiration to do so. Inspiration also won't fully nor permanently remove the pain of withdrawal from the addictions, and at some point you will have to simply put up with it, with or without inspiration. Just like when giving up a physiological addiction.
+
+    >So would it be a genuine wish if the aim is to expose oneself to ideas that one already knows intellectually but covers up in day-to-day life? Is this what is meant in Ud 4.1:
+
+    You can tell if the wish is genuine by what you do after you get the clarification. Do you keep living as before, or do you align all your subsequent actions with the context that was rekindled? It's well and good if an addict is reminded of why he should stop taking his drug, but his search for such reminders is not genuine if he continues giving in as usual.
+
+    >I guess an attendant of the Buddha already knows about the benefits of ethics, seclusion, etc. but still needs talks and exposure to those ideas to not cover that information up again?
+
+    "Covering up" does not happen accidentally, but only when you go and act against your better judgment, and someone who's diligent wouldn't do that. So it's more like being exposed to those ideas would help them recognize more refined ways that they might still be giving in to craving, where it's not anymore due to heedlessness but due to a lack of clarity.
 
 ---
 
@@ -31,6 +169,15 @@ I've been noticing that I have a long standing attitude that sensuality is a rew
     You need to realize that it's not like the moment you get back from work your mind suddenly shifts into a sensual mode. It would have to have been in that state for a while prior, probably the whole day. It's just that this is when it becomes obvious to you. And at that point, you can only rely on mere willpower, which will inevitably fail you sooner or later. 
 
     So the only real solution, and what wisdom and mindfulness are really about, is that from the very beginning of the day you are careful to see the danger even in the *slightest* fault, i.e., not just in breaking the precepts outright, but even in the slightest action rooted in sensual craving or aversion, no matter how  weak the pressure is. When the pressure is still weak, it's easy to say no, so you don't need nearly as much willpower. On the other hand, it's also very easy to say "yes" because it feels like it's not a big deal. But every wildfire starts out small, so it's foolish to see a small fire and not put it out right away.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ijupmm/how_to_get_over_this_attitude_towards_sensuality/mbu36a4/)** _2025-02-09 13:49:41 *(in reply to a comment not included)*:
+
+    >I've been contemplating giving up my smart phone because it's the only device I have that can give me endless hours of internet use. The other option is to put a time limit on it and have someone else set the pin so I can't change the time. Do you think this is avoiding the problem or a skillful means to get myself out of this habit for a while?
+
+    Both of those are certainly viable options. Try them out and see what happens. 
+
+    It's impossible for the mind to  suddenly shift from a wholesome mode into a sensual and careless one on account of a single thought (and vice versa), so that's not the level where you need to deal with things. The mind inclines towards the general directions you've been cultivating (sensuality, aversion, and carelessness), even if the things you end up doing within said directions are not always the same. Hence what I wrote about needing to be equally diligent in avoiding the unwholesome at all times, not just at the last moment when the mind is out of control. 
+
+    In the afternoon it may not feel like a coarse feverish state of mind relative to your usual baseline, but if as you say you just can't help yourself, it's already in a frenzy, and that cannot happen by accident.
 
 ---
 
