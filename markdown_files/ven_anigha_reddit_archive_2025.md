@@ -1,3 +1,290 @@
+**r/HillsideHermitage** | Posted by tejveeer _2025-02-27 02:08:58_
+### [Looking for a practical model.](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/)
+
+I've been having some sobering reflections for the past few weeks asking myself the following repeatedly: what have I got to show for all my study of HH and the suttas for around 3 years?
+
+The answer is mostly complete silence with respect to what actually matters: uprooting the liability to suffering. I can justify it by stating that in the process of familiarizing myself with HH content, I've picked up subsidiary insights about the "structure" of experience, technicalities of various phenomena (desire, the peripheral body, namarupa-vinnana), etc. But that justification is ultimately redundant since what fundamentally matters is again, the uprooting of the liability, which has remained unaffected.
+
+So I asked myself: why is that? Is that in whom I am learning from, or myself?
+
+And the answer is almost entirely myself. When HH said 8 precepts and sense restraint are a prerequisite for understanding the Dhamma, the first thing that came to my mind was attempting to rationalize it: why is that, what is their grounds for claiming that?
+
+I've just now noticed, a few weeks ago, that I've had this idea that I must have a *perfectly clear m*odel of all the components related to the practice, how they relate to the other components, and why it is that those components must exist in the context of the practice: "What *precisely* is the citta? How does it operate? What is the relationship between yoniso manasikara and the citta's inclination towards this or that? How can I know *for sure* that this is the only way of taming it? What is my justification for this being the "only" way?" And it goes on.
+
+Noticing this, I came to the realization that that view that my intellectual model of the practice must *first* be perfect for me to begin the *actual* practice is itself completely unjustified.
+
+The only reason it has been justified thus far has been in part because of my like for complete systematization, as well as a need to justify to others, in case I'm asked about my practice, what I'm doing and why I'm doing that, and ensure that I have a perfectly defensible answer in which no fault can be found.
+
+I've also come to realize that on the one hand, there's an individual who puts no effort into a rational re-evaluation of their currently existing model, and the other, an individual who neurotically puts effort into rational re-evaluation of their currently existing model. I most certainly fall into the latter category.
+
+In one of the recent videos, Ajahn said along the following lines: the Dhamma is not irrational; you just need precepts and sense restraint because otherwise the field of phenomena that it is concerned with will not be present, and no amount of reason will be applicable (recalled from memory; very likely not verbatim).
+
+And so it seems the assumption that a perfectly existing model is possible *prior* to being well-established in the precepts and sense restraint is already a contradiction; an impossibility. Thus, I've given up that assumption.
+
+My concern now is in simply anchoring myself in a practical model that is able to provide a value for the precepts and sense restraint, which I can hold on to till I gain mastery in them. Then, once the "field of phenomena" that the Dhamma is concerned with becomes apparent, and reason is applicable, I can let go of that initial model in favor for a more accurate model, which can then be updated and refined, until eventually the most accurate model is obtained: that of a sotapanna.
+
+I would like to know what such a practical model would look like.
+
+The most practical model I'm able to come up with which justifies the precepts and sense restraint is the following:
+
+Incline the mind towards the enjoyment of only that which is worth enjoying; not what is not worth enjoying. What is not worth enjoying? The world. What is worth enjoying? That which is not based on the world.
+
+Why is the world not worth enjoying? Because it is subject to change, and the mind does not understand that; if it were to, *it* would not want to go there (proof via personal experience). Why should I want the mind to not enjoy the world? Because the mind which enjoys the world desires; and desire is not wanted; desire being not wanted, there is all my engagement with the world *which never solves the problem of the mind enjoying the world*. Teaching the mind *to not* enjoy what is *not* worth enjoying: this will actually solve the problem that giving into desire is meant to solve.
+
+How should I teach the mind to not enjoy what is not worth enjoying? I establish myself in the precepts first, which are coarse forms of enjoying the world. Then, when I've gained a "distance" from the senses as a result of establishing the mind within the precepts, I *see* directly thus: "these choices will lead to the mind enjoying this, whereas these choices will lead the mind to *not* enjoying this". Seeing this, I choose the choices which will *not* lead to it enjoying that.
+
+When I've dwelled sufficiently thus, and see the mind largely inclining towards keeping the precepts, I go further and see more subtler phenomena still pertaining to the world that it values and practice similarly.
+
+For an example of how I train my mind consider the following:
+
+I establish myself in the non-enjoying of women; the sight, sound, smell, taste, touch and thought of them. Why is that? Because all form is subject to change, and that which is subject to change is not worth enjoying; and the form that my mind enjoys the most is that of a woman. When I've "kept" up this motivation sufficiently enough, I start to *see* actions and their relation to the mind enjoying women; I *see* that at this moment, if I do this, the mind will incline here. So I don't do that. I then reflect continually and try to "review" the mind even further: is there any hints that the mind will still incline towards that? If so, on account of what actions is it that it still has the possibility of valuing that? Reflecting on this, those subtler actions become apparent, and I sufficiently *not* do those until any hints of it valuing that has been completely cleared, without a doubt.
+
+Reflecting on this current model I have gives me confidence. Is it decent?
+
+Perhaps me asking "is it decent" is itself a sign that there's still residue of that overtly rationalization-seeking behavior that I'd just initially pointed out. But in any case, I will leave it out in case anything of use can come out of it.
+
+**EDIT:**
+
+I've been seeing some misconceptions in the comments so I thought I'd clarify. It seems people do not understand what I mean by a model/system; by that, I simply mean something which is able to explain what I have to do (in this particular case, keep precepts and sense restraint), why I have to do it, and why it works (practically speaking).
+
+Reason I say this is because in some comments I see the mention that gradual training is a model; which, the manner in which I'm using the word here, it is not; it is rather a set of trainings as the compound implies. And there also seems to be the common perception that I'm trying to rationalize away "sexual attraction" and "dispel the discomfort of not making any progress"; I'm not trying to do that. The purpose of the example above regarding women was to show my current idea of how I should be practicing; I'm unsure how it's being seen as some manner of justification for anything.
+
+I also see the assertion that I'm currently trying to systematize knowledge again; however, I should mention, I do not see a problem in systematization, and that is precisely what I had come to look here for: a practical system/model. What I had an issue was with the kind of neurotic intellectual reconstruction of my present system/model of the Dhamma in hopes that I could get a perfect picture *prior* to being thoroughly sense restrained.
+
+Again, what I find a problem here with is the (now previous) **neurotic** intellectual reconstruction and re-evaluation of the system. I still greatly value a clear system, of which, I'm able to see the relevance of every component and relationship, and justify it rationally. Except, I'm not able to do that to the best degree possible unless I'm first thoroughly restrained.
+
+Now, I should perhaps also give further context for where I currently am in the gradual training. I keep the five precepts and am celibate; I do not listen to music (the inclination towards that has been largely dropped), I do not engage in coarse entertainment (shows, movies, shopping, etc.) and only have subtle entertainment left (getting derailed while on the internet trying to study). I do not eat for the sake of pleasure, however, I haven't put a maximum on how many times I can eat yet because I currently need to eat to gain more physical strength; I do not have adequate enough physical strength to do a lot of things. Once I've stabilized my weight to where I have enough energy to do the day-to-day things, I will start fasting on Saturday/Sundays by eating once a day and hopefully, from there, expand if the body allows. I do not sleep on the floor yet, but I intend on doing that once I have enough strength.
+
+I do not have a lot of friends now because I'm fairly content being by myself and don't need to look for others.
+
+I'm fairly well-established in what I've mentioned above.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mf7hkp3/)** _2025-02-28 05:47:18:
+
+    >My concern now is in simply anchoring myself in a practical model that is able to provide a value for the precepts and sense restraint, which I can hold on to till I gain mastery in them.
+
+    The problem here is the assumption that you have a say in what practical model will provide a value for the precepts and sense restraint. You don't. Different "models" will inspire the mind to do the work at different times and for different people. The Suttas are full of such "models," and you can take up whichever feels more relatable and clear at the time. 
+
+    If there's resistance towards that lack of control, that's a remnant of the same neuroticism you described and ultimately an expression of the view of self (assuming control over your experience from the outside). So you would need to include *that* as something to give up and not act out of within whichever model you're using at the time.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2025-02-26 21:16:00_
+### [Renouncing the renunciation, question for HH and a possible critique](https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/)
+
+Since I for long have conflicting views about the path and didn't realise that "stilling of all activities, relinquishment of acquisitions" is rather self-explanatory and I feel like at this moment in time I prefer to stay a layman and put value in certain things that a monk would not be able to value I wonder where will my path lead me if I practice a certain degree of incremental restraint, watchfulness of my intentions, trying to maintain the right perspective and so on, while clearly not giving up everything . What Ajahn Nyanamoli said in his recent talks makes sense to me, yet I am not exactly "not doing it" and waiting for results to happen. I am doing certain things and see certain results, but am very confused in regard to what my expectations should be as a layman. Some inserts from the suttas:
+
+1. **Anathapindika**: The Buddha’s chief male lay disciple and a stream-enterer, was a wealthy householder with a family. The texts mention his role as a father and a husband, suggesting he likely maintained a typical lay life.
+2. **Visakha**: One of the foremost female lay disciples and a stream-enterer, was married with many children and grandchildren. Her family life implies that sexual relations were part of her lay experience.
+3. **Citta the Householder**: He was a sotapanna who remained a layperson, continued his household duties, and engaged in business. There is no mention of him practicing celibacy.
+4. In the Anana Sutta (AN 4.62), the Buddha explains that a sotapanna may still enjoy sensual pleasures but will not break the five precepts, including avoiding sexual misconduct. However, this does not imply total abstinence from sex, only adherence to ethical behaviour regarding it.
+5. In the **Sigalovada Sutta** (*DN 31*), which addresses householders, the Buddha provides guidance on how to conduct relationships ethically, indicating that sexual conduct within a marriage is considered acceptable for laypeople.
+
+So this gives me a picture that "yes I can still be a sotapanna and it doesn't matter what anyone says", but if on the other hand I am wrong and don't see it I'd rather know
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mf2ddfx/)** _2025-02-27 13:22:47:
+
+    Thinking in terms of how many precepts to follow depending on what type of person you are externally means remaining bound to silabbataparamasa, rather than your actions being guided by direct insight of kusala and akusala, which is what defines a sotapanna.
+
+    The fact that the Suttas mention the five precepts for laypeople doesn't mean that they went about their lives doing whatever they wanted except those five things, while somehow practicing the Dhamma nevertheless. It means that was the lowest common denominator that they would not go below even in their most heedless moments. When they made efforts in the practice, they would have to have developed the exact same right intention (of renunciation, non-aversion, and non-cruelty) as monks. 
+
+    It's one thing to not be able to fulfill renunciation all at once, and entirely another to redefine what the goal is so that renunciation becomes optional. Even if you then call it "Dhamma" and "noble eightfold path," it's something else now.
+
+    >I’ve seen lay disciples who have learned the Dhamma.
+    Though saying, “Sensuality is impermanent”,
+    they’re infatuated with gems and jewelry,
+    concerned for their partners and children.
+
+    >They indeed don’t know the purpose of this Dhamma.
+    Even though they say “Sensuality is impermanent”,
+    They don’t have the power to cut passion,
+    so they’re bound to children, spouses, and wealth.
+
+    —Theragātha 2.34
+
+    Furthermore, what if, hypothetically, all those stories of householders attaining sotapatti were actually made up to make Buddhism more appealing to the common layperson? You can't know for sure. 
+
+    But you can see for yourself here and now (if you're authentic) that liberation and sensuality are two opposite directions. So if you want to take the safe route and not just conform to a pre-defined role in the Buddhist community that may or may not lead to what you hope it will, you need to put that discernment first. And most likely, that's exactly what those laypeople who did become sotapannas did. Their remaining household ties were not because they thought those things were "fine" in light of their lofty aim; they were seen as fetters they were still too weak to cut.
+
+    (Edit: Note also that the lay disciples the Buddha [established as role models](https://suttacentral.net/an4.176/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=true&script=latin) were anāgamis, i.e. had abandoned sensuality).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mf7ewrz/)** _2025-02-28 05:26:21 *(in reply to a comment not included)*:
+
+    >setting people up for failure because the only goal must be nibbana, even though its not the only goal a person can have, while some degree of awakening is good for everyone and benefits the world and reduces suffering
+
+    The true "failure" is to develop wrong views about the Dhamma, such as that renunciation is optional and the Dhamma can be practiced apart from it. Right intention in the eightfold path includes renunciation. It's far better to fail at the right thing than to succeed at the wrong thing.
+
+    >It means exactly that they went about their lives doing whatever they wanted within the 5 precepts
+
+    My point is, they *could* and may often have done so. But that does not mean that they were *making progress* on that account (towards non-return, which would be their aim). 
+
+    That's exactly why the Uposatha observance exists. It was a regular opportunity for a layperson to [re-align themselves with the behavior of an Arahant](https://suttacentral.net/an8.41/en/bodhi?lang=en&reference=none&highlight=false#5.1). And the more someone wanted to be an Arahant, the more they would try to maintain that all the time, not just slip back to five precepts mindlessly as soon as the Uposatha is finished. And the Uposatha used to be weekly, not bi-weekly as it often is today.
+
+    >Attachment and non-attachment are two opposite directions, but people define what is what differently and this is the crucial point. 
+
+    Yes, and some definitions will be adequate, others not.
+
+    It's like saying, "people define what is an addiction differently." Sure, but does the person still consume the drug at all? If the answer is yes, then compared to someone who is completely free from that, they are still addicted, no matter what mental gymnastics they engage in to convince themselves otherwise.
+
+    There's no shame in admitting that actually giving up craving is difficult and you don't feel like doing it. Almost nobody does. But twisting the Dhamma so that you can reconcile sensuality with it is not a good move, and there's no justification for it. Nobody's forcing you to practice the Dhamma.
+
+---
+
+**r/HillsideHermitage** | Posted by AlexCoventry _2025-02-26 02:57:51_
+### [How should we interpret AN 5:161, "The Subduing of Hatred", which recommends developing goodwill for someone if you've given birth to hatred for them?](https://www.reddit.com/r/HillsideHermitage/comments/1iydjbb/how_should_we_interpret_an_5161_the_subduing_of/)
+
+# [The Subduing of Hatred (1): Āghatāvinaya Sutta (AN 5:161)](https://www.dhammatalks.org/suttas/AN/AN5_161.html)
+
+“There are these five ways of subduing hatred by which, when hatred arises in a monk, he should wipe it out completely. Which five?
+
+“When you give birth to hatred for an individual, you should develop goodwill for that individual. Thus the hatred for that individual should be subdued.
+
+“When you give birth to hatred for an individual, you should develop compassion for that individual. Thus the hatred for that individual should be subdued.
+
+“When you give birth to hatred for an individual, you should develop equanimity toward that individual. Thus the hatred for that individual should be subdued.
+
+“When you give birth to hatred for an individual, you should pay him no mind & pay him no attention. Thus the hatred for that individual should be subdued.
+
+“When you give birth to hatred for an individual, you should direct your thoughts to the fact of his being the product of his actions: ‘This venerable one is the doer of his actions, heir of his actions, born of his actions, related by his actions, and has his actions as his arbitrator. Whatever action he does, for good or for evil, to that will he fall heir.’ Thus the hatred for that individual should be subdued.
+
+“These are five ways of subduing hatred by which, when hatred arises in a monk, he should wipe it out completely.”
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iydjbb/how_should_we_interpret_an_5161_the_subduing_of/mf1l32f/)** _2025-02-27 09:25:39:
+
+    There's no problem with the idea of "dispelling" or "wiping out" hatred or any other unwholesome state thorough these cultivations.
+
+    The problem is that for most people, because of not being developed in regard to the pressure of their their minds on account of lack of virtue and so on, their recognition of the mind state of hatred is limited to the superficial negative thoughts that are a byproduct of it, and thus they believe merely replacing those with good thoughts is enough.
+
+    But one has to recognize that the state of anger is something much more fundamental than those thoughts. It's more along the lines of the "mood" you're in, and you can't get rid of your mood instantaneously.  Thus, you need to *first* come to terms with that fact (AKA "endure" the arisen mood, which means not giving in to the thoughts it proposes, nor distracting yourself from it).
+
+    On the basis of that, without at any point getting impatient and trying to fight with the mind directly (thereby acting out of the same aversion), you can develop these five themes. As a result, you eventually  "wipe out" the actual liability to angry thoughts altogether (the angry mood) rather than merely managing it and sweeping it under the rug with contrived positive thoughts. And then the mind would incline towards good will and so on by itself, without you "doing" it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iydjbb/how_should_we_interpret_an_5161_the_subduing_of/mf7gcdt/)** _2025-02-28 05:37:29 *(in reply to a comment not included)*:
+
+    >cultivating metta in order to provoke the processes of clinging to that hostile mood, for the sake of better understanding those processes?
+
+    I'm not sure what you mean by "provoking the processes of clinging."
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iydjbb/how_should_we_interpret_an_5161_the_subduing_of/mf9lqrl/)** _2025-02-28 15:40:29 *(in reply to a comment not included)*:
+
+    Cultivating mettā cannot trigger resistance. This sounds like what I referred to above: an attempt to replace the bad thoughts arising from an angry mind with good thoughts, overlooking the angry mind or leaving it to somehow sort itself out. That attempt might trigger a secondary resistance whose disappearance can be confused with successful cultivation of mettā (especially when the root resistance already feels normal due to an insufficiently restrained lifestyle; *brahmavihāra* and *brahmacariya* go together).
+
+    That's the popular approach, but it's just a way of covering up the resistant mind, which still lingers to some extent. And that's why the full-blown resistance sooner or later returns, whereas proper cultivation of mettā would uproot any tendency to ill will, even without actively practicing mettā ever again.
+
+    To be able to cultivate mettā, you first need to familiarize yourself with what a hateful or resistant mind actually is: an ambiguous "cloud" that looms overhead despite whatever you might do. That's the third satipaṭṭhāna, and it's not the same as allowing hateful *thoughts* to persist (which should not be done, as the Buddha said). You'll only be able to see that hateful mind for what it is if you don’t jump into action in response to it, which includes what you seem to be describing as "cultivating mettā."
+
+    Mettā is about completely dispelling that cloud on the basis of seeing it clearly, not just maneuvering around it or compensating for it on a superficial level.
+
+---
+
+**r/HillsideHermitage** | Posted by upasakatrainee _2025-02-25 07:53:34_
+### [7 'Existences' vs. 7 'Lifetimes' - for a Sotāpanna](https://www.reddit.com/r/HillsideHermitage/comments/1ixps9m/7_existences_vs_7_lifetimes_for_a_sotāpanna/)
+
+Hello Bhante,
+
+In common usage, it is often said that a Sotāpanna will make and end to Saṁsāra within 7 lifetimes. This is usually taken to mean 7 more rebirths at most.
+
+However, is it to be understood differently as 7 'existences' (bhava) instead, which need not correspond specifically to 7 'rebirths'?
+
+In DN18, we see that King Bimbisāra appears to the Buddha as a Yakkha, and mentions that he is indeed Bimbisāra, who recollects his 14 rebirths to the Buddha.  And he mentions that he has for long known himself to be a Sotāpanna, and now aspires to become a Sakadāgāmi.
+
+Could you shed some light on how this is to be understood ?
+
+Thank you!
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ixps9m/7_existences_vs_7_lifetimes_for_a_sotāpanna/mf0xmii/)** _2025-02-27 05:40:31:
+
+    AN 3.80 says: 
+
+    >Udāyī, if Ānanda were to die without being free of lust, then because of his confidence he would exercise celestial kingship among the devas seven times and great kingship in this Jambudīpa seven times. However, in this very life Ānanda will attain final nibbāna.
+
+    ...which adds up to 14 births (note that the translation on SuttaCentral deviates from the Pāli in order to preserve he traditional view. The above is Bhikkhu Bodhi's rendering).
+
+    AN 9.12 has:
+
+    >*sattakkhattuparamaṃ deve ca manusse ca saṃdhāvitvā saṃsaritvā*
+    > moves between gods and humans seven times.
+
+    *sattakkhattuparamaṃ* has been traditionally (perhaps due to the Commentaries) interpreted as 7 births, but it is never actually specified as such in the Suttas.
+
+    And if the passage in DN 18 is accurate, it also means 7 existences is not automatically 14 births.
+
+---
+
+**r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2025-02-24 07:28:55_
+### [Introducing new rules to r/HillsideHermitage](https://www.reddit.com/r/HillsideHermitage/comments/1iwwi9l/introducing_new_rules_to_rhillsidehermitage/)
+
+So far, this subreddit has operated smoothly with no active moderation or rules. However, it is now approaching 1,000 subscribers—more than four times the number from a year and a half ago when I joined. In recent months, the quality and usefulness of posts have noticeably declined compared to a year ago, an inevitable consequence of increased traffic. While the situation could be much worse—reflecting the generally good character of users here compared to most subreddits—it will not improve or stabilize on its own.
+
+In response, I drafted a list of guidelines and reviewed them with the other mods to ensure this continues to be a reliable, high-quality resource for learning about and discussing HH teachings, which was and should remain its intended purpose.
+
+The guidelines should now be visible in the sidebar. I will leave this thread open for a week to make room for clarification and discussion of the new rules.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iwwi9l/introducing_new_rules_to_rhillsidehermitage/meht6o0/)** _2025-02-24 09:57:13 *(in reply to a comment not included)*:
+
+    Thanks for the feedback. I edited the rules, and now they should be visible on old Reddit as well.
+
+---
+
+**r/HillsideHermitage** | Posted by Global_Ad_7891 _2025-02-22 16:51:29_
+### [Seeking Guidance: Stay Close to Family or Embrace Solitude in a Monastery?](https://www.reddit.com/r/HillsideHermitage/comments/1ivn3oj/seeking_guidance_stay_close_to_family_or_embrace/)
+
+Hey everyone,
+
+I'm a 25-year-old currently grappling with lung problems, so the reality of my mortality is always on my mind. I've been practicing sense restraint for a few weeks now—my days mostly consist of going to work, reading suttas and browsing Reddit, and spending quiet hours in my room just staring at the wall. Surprisingly, doing nothing isn't too difficult for me.
+
+I have some financial flexibility and could move to a secluded place, but I'm torn. On one hand, living in solitude or even joining a monastery (like the Bhavana Society in West Virginia, which is the closest option) has its appeal for deepening my practice. On the other hand, given my health condition, staying close to family—specifically, living with my mom who can take care of me if things take a turn—seems like the safer bet.
+
+Here are my main questions:
+
+* Should I quit my job and continue living with my mom to be near support, focusing on achieving sotapanna while staying as secluded as possible? We have a pretty relaxed lifestyle with not much social interaction.
+* Would it be better to move and live alone in a secluded area despite the distance from my family?
+* Or is joining a monastery the right path, even though it might not be the ideal environment if my health worsens?
+
+I'm relatively new to the practice, so any advice or shared experiences would be incredibly valuable. Thanks for reading, and I look forward to your thoughts!
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ivn3oj/seeking_guidance_stay_close_to_family_or_embrace/meh9xwr/)** _2025-02-24 06:43:34:
+
+    I would advise making sure you are already fully committed to the practice (keeping the eight precepts, being withdrawn from and not delighting in sensuality and worldly pleasures) before you commit to ordaining. Being committed to that unconditionally is what matters; "staring at the wall" is not necessarily useful.
+
+    If you can't do that, it would show that you're not taking enough responsibility for your practice and are expecting the monastery environment to motivate you to do it. The monastery is not supposed to make you do what you otherwise wouldn't do; it's supposed to support you in doing what you would be doing anyway.
+
+---
+
+**r/HillsideHermitage** | Posted by SacredStomach _2025-02-22 03:53:33_
+### [Navigating the Balance Between Practice and Health Risks](https://www.reddit.com/r/HillsideHermitage/comments/1iv9wvj/navigating_the_balance_between_practice_and/)
+
+I’m about to visit Southeast Asia to ordain and I’ve been trying to figure out what my best move is. Here are the things I’m considering:
+
+1. Southeast Asia appears to have the best monasteries for practice and ordination (and visa stuff, as a foreigner)
+2. Soil Transmitted Helminths are really common in these places (hookworms, roundworms that can enter your bloodstream through your (bare) feet and wind up in your intestines
+3. I’m actually not grossed out by this, my main concern is that there can be serious health consequences, including premature death 
+4. **Basically, I’m trying to figure out how important it is to go to a place that I think is better for practice but where I may be more likely to die sooner (hard to really know), or whether I should go to a less ideal monastery that appears safer (but where I could still definitely die) and try to achieve right view there first?**
+5. Is there a chance that being in an environment that really reveals the unownability of the body in this way might expedite the process of getting right view?
+6. How much can I emotionally relinquish the body while still taking measures to protect it?
+
+If anyone has any thoughts on this, I would appreciate hearing them. Also, if anyone who has been in SEA (especially as a monastic) has any suggestions on **how to prevent or treat helminth infections that don’t break the precepts or monastic rules**, please let me know. 
+
+  
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iv9wvj/navigating_the_balance_between_practice_and/meh40h2/)** _2025-02-24 05:51:12:
+
+    It's common for people who take for granted their very safe urban environment to have such concerns, but it's not as big of a deal as it initially appears. The mind is just irrationally afraid of the unknown because it's so used to its current level of apparent safety.
+
+    You're close to 100 times more likely to die from a car accident, and yet you're probably not too worried about it. On top of this, living in a city makes you more likely to be in a bad mental state at the time of death when it comes.
+
+    It's also not like you'll never get proper medical care again after you ordain. You would have to either be very obtuse and ignore the symptoms, or refuse to be taken to the hospital in order to die or suffer any major complications from a worm infection even in Asia.
+
+    >Is there a chance that being in an environment that really reveals the unownability of the body in this way might expedite the process of getting right view?
+
+    It's only revealing of that unownability when compared to the rather exorbitant Western standard. You'd probably have to look hard to find a place that exposes that unownability to an extent that takes more just a few weeks to get used to even as a Westerner. And that's usually not the type of place that would ordain you. Even forest monks in Asia often live in better conditions and with more luxuries than people in the nearby villages, and probably most of the world as well. But yes, it would still be easier to contemplate and recognize those things compared to wherever you probably are now.
+
+    >How much can I emotionally relinquish the body while still taking measures to protect it?
+
+    By making sure that the measures you take are not rooted in emotional attachment but in buying yourself time to practice. If that's your context, it will automatically keep in check potential irrational obsessions with preventing as many threats to your health as you can, blowing the risks out of proporition. That still doesn't mean you will have emotionally relinquished the body, as that comes through wisdom. But at least you won't be actively strengthening your sense of ownership of it.
+
+    Haven't been in SEA myself, but in Sri Lanka I never had any issues with worms despite eating alms from poor village homes daily. I imagine monks there will have tried and true methods to deal with worms if they indeed tend to cause significant issues. You can be sure that they're not equanimously putting up with illness or death left and right.
+
+---
+
 **r/HillsideHermitage** | Posted by meshinthesky _2025-02-19 08:01:50_
 ### [Wakefulness, and the watches of the night](https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/)
 
@@ -143,6 +430,13 @@ Does this make sense?
     Dependent origination in particular is the very opposite of an impersonal process; it is *the* origination of personality. The destruction of the entire thing is the goal, rather than seeing it as an "impersonal process" in some sort of psychoanalysis. When one is no longer ignorant and actually understands paticcasamuppāda, i.e., avijjā is gone, none of the other "factors" come to be either, and there is no dependent origination to analyze anymore.
 
     Both of the notions you describe are popular, or at least follow the very same spirit as those that are. They conflate the Dhamma—which nobody starts out being able to see, and needs to be "realized by the wise for themselves" through practice and gradual training—with pleasing psychologizations that anyone who's learnt some Buddhist jargon can understand and "agree" with, and even formulate themselves.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iqsprw/rise_and_fall_of_the_five_aggregates/meazwut/)** _2025-02-23 07:05:13 *(in reply to a comment not included)*:
+
+    >Didn't the Buddha advise his disciples to view the aggregates as not me, myself, or my own?
+
+    Yes, but those were teachings for monks, who would've been established in the practice and lifestyle that makes all of those teachings not be abstract anymore. If you're someone who is properly "exposed" to the aggregates as they are by never acting out of greed, aversion, and delusion and living in solitude, you just can't fall into this type of elaborate theoretical explanation because it's clear that it just doesn't apply, and you're overlooking the actual aggregates by engaging in it.
+
+    And yes, the Buddha talked about viewing the aggregates as *anattā*, but there's a good reason why there's no mention of things like "impersonal process that works independent of an autonomous entity." When you see the aggregates for what they are, you realize that such elaborate notions inevitably distract you from the direct seeing of them as simply "not mine", because they're not in your direct control, that's it. And that's all the Buddha said in his second discourse; he didn't forget to mention elaborate details of some larger theoretical framework.
 
 ---
 
