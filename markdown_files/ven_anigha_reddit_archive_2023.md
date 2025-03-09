@@ -313,6 +313,73 @@ I can relate to the impermance aspect as: I have no say in their disappearance..
     >And again, why do we find the "kāyasamphassajaṁ"/"manosamphassajaṁ" distinction *aligned* with the distinction between "kāyikaṁ" and "cetasikaṁ"?
 
     Because *kāya* in itself means something different in this case, and so both *mano* and *citta* would be in opposition to the meaning of *kāya* used in SN 48.37. The *kāyika dukkha* referred to in SN 36.6 is something that will [never cease for as long as the six sense base is there](https://suttacentral.net/mn121/en/nyanamoli-thera?lang=en&reference=none&highlight=false) (i.e., until an Arahant's Parinibbāna), whereas the *kāyika dukkha* of SN 48.37 would cease completely with just the first jhāna (SN 48.40). The latter *is* more on the level of physical discomfort, unlike the Arrow Sutta.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/18ppxrp/undistorted_translation_of_the_arrow_sutta_sn_366/mfkwkop/)** _2025-03-02 09:28:58 *(in reply to a comment not included)*:
+
+    >So I am wondering if my understanding here is seriously at odds with what you’re saying,
+
+    Yes, it is quite at odds, and it dramatically lowers the bar  of what stream-entry is. A puthujjana can't ever actually be free from the second arrow, but because they also don't see the extent of it, they could easily and mistakenly infer that they reached stream entry just because it *feels* like they're able to remove it. They have no reference point to see what the full (and necessarily irreversible) absence of the second arrow is.
+
+    It also would not be correct to state that only an Arahant is completely free from the second arrow. The distinction between sekha and asekha is that the latter is free from the *first* arrow as well.
+
+    >In the same way, a learned noble disciple, when struck/touched (*phuṭṭho*) by unpleasant feeling, doesn’t sorrow, wail, lament, beat their breast, or fall into a muddle.
+
+    Due to the complete cessation of ignorance and appropriation, an Arahant is not "touched" by unpleasant feelings at all, not just that they don't lament on account of them. *Phassa* ceases altogether. The assumptions left for a trainee are what makes them still be touched/pressured to an extent, and the distinction with the puthujjana is that the latter, on top of being simply touched, experiences another layer of affectivity on top of that.
+
+    As for the reference to sensuality, it's not given in isolation, as if every noble disciple were an anāgāmi. The point is that they do not delight in sensuality *in response* to experiencing unpleasant feelings because they clearly understand that sensuality is no escape at all. But that doesn't mean that they are incapable of delighting in sensuality in and of itself. It would still appear as something alluring in its own right when the poison that's in it is not yet sufficiently recognized.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/18ppxrp/undistorted_translation_of_the_arrow_sutta_sn_366/mg3wjws/)** _2025-03-05 06:45:14 *(in reply to a comment not included)*:
+
+    >But with regard to this point in particular (about all 8 ariyas being 100% finished with the second arrow) is there any practical takeaway that goes beyond what I wrote above?
+
+    The practical takeway is that the aim for puthujjana who wants to become a sotāpanna needs to be for suffering not to be able to arise anymore. Even being able to remove suffering instantly means little and remains within the realm of management. And this is not an irreversible liberation because if one for whatever reason forgot the method of removal, one would be helpless.
+
+    A noble disciple doesn't maintain their knowledge of the path because they never forget specific things they learned, as the interpretation you proposed would imply. Their ability to see things clearly is permanently ensured because things that would obstruct clear seeing (the "muddledness" said to arise from the second arrow; see also [MN 48](https://suttas.hillsidehermitage.org/?q=mn48#mn48:8.1_mn48:8.15)) cannot arise again. That's why they're said to be "independent of the teacher" as well.
+
+    >I admit that raising the threshold to that height makes the situation seem more hopeless to me
+
+    It's not hopeless; it just means that it's all the more essential not to tolerate anything that is included in the five hindrances, most notably sensuality. One cannot afford to fall into the common trap of "a sotāpanna wouldn't be free from this defilement, so it's OK to let it be for now." Yes, a sotāpanna is not fully free when compared to an Arahant, but compared to a puthujjana, they are no longer to the five hindrances across the board.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/18ppxrp/undistorted_translation_of_the_arrow_sutta_sn_366/mg4umr4/)** _2025-03-05 12:14:08 *(in reply to a comment not included)*:
+
+    >If suffering doesn't arise at all for a sotapanna, why does he still need to practice?
+
+    Because he still experiences the first arrow, as I wrote above. 
+
+    Any comparison between the suffering of a putthujjhana and of a sotāpanna can only be made or interpreted from *your* point of view, in which only one of those is truly known *as suffering* (i.e., a feeling that is experienced), while the other is merely an abstract idea—depending on which one you are. 
+
+    When speaking to a puthujjana, it is therefore perfectly accurate to say that suffering—which can be nothing but what *they* experience as suffering—no longer arises for a sotāpanna. The only time this is not accurate is when coming an "objective" and logical rather than phenomenological perspective, which entails leaving the Dhamma aside. Confusion about this topic and many others often arises from doing just that.
+
+    >That being said, as the goal is to become an arahant, it makes little practical difference to the full practice.
+
+    It does matter a great deal if an inaccurate notion of sotāpatti gives you room to think you attained it when you didn't. At that point you would most likely stop questioning your views and notions about the Dhamma deeply enough, and that will make both actual stream entry and Arahantship impossible.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/18ppxrp/undistorted_translation_of_the_arrow_sutta_sn_366/mga9rvk/)** _2025-03-06 05:44:31 *(in reply to a comment not included)*:
+
+    >What I see is that views differ on the matter.
+
+    Right, but this sounds like you're comparing different interpretations of the Dhamma and practice as a whole, where the discrepancies in the definition of sotāpatti are merely a byproduct and not a fundamental distinction in comparison.
+
+    >Is it not better for me to practice the fundamentals of the training and leave these considerations for when I am more advanced?
+
+    It depends. If it's truly because this reasoning doesn't make sense to you intellectually, then yes, it might be best to put the whole thing aside. But I doubt that's the case.
+
+    I find it very unlikely that someone would struggle to accept this as the right outlook (at least on faith if it doesn't make sense) unless they actively resisted the prospect of sotāpatti being farther away than they would like it to be. That could be because it implies they must hold themselves to a higher standard than they currently do, which is unpleasant, or because they thought they already "got it" or were at least close, and this take casts doubt on that assessment (which automatically means the assessment is incorrect).
+
+    Taking for granted that the sotāpanna is free from suffering compared to the puthujjana can only be beneficial and has no downsides. The alternative brings nothing but risks to the table. Someone without any vested interest would realize that and would not even be tempted to entertain the alternative, even if they don't yet see for themselves that it's false.
+
+    Eventually, if they practiced rightly, they would come to see for themselves that the alternative was not only risky but also factually wrong, and that choosing it would've sent them down a completely different path.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/18ppxrp/undistorted_translation_of_the_arrow_sutta_sn_366/mgnf8p5/)** _2025-03-08 07:24:58 *(in reply to a comment not included)*:
+
+    >If the distinction is categorically referring to the 8 types, which includes arahants, wouldn't the contact being described here necessarily need to apply to arahants?
+
+    Not necessarily. The point of the Sutta, as it says at the very beginning, is to outline the difference between the unlearned ordinary person and the learned noble disciple. There can be ariyasāvakas who have gone even further and are not subject to contact at all (Arahants), but the *dividing line* between puthujjana and ariyasāvaka is the absence of suffering even if there were to be contact.
+
+    >but the sutta doesn't seem to move in that direction. 
+
+    Yes, because the focus is not on Arahantship nor on paṭiccasamuppāda. Still, it's the same principle. Understanding the Dhamma to some degree (partial cessation of ignorance) leads to partial freedom from contact.
+
+    >What I think you're saying is that when ignorance of not-self is gone, vedana can't make contact with an imputed self. Is that correct?
+
+    Yes, [contact happens due to appropriation](https://suttacentral.net/ud2.4/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin). And Nibbāna, which is the state of an Arahant, [is "where there is no feeling."](https://suttacentral.net/an9.34/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin). 
+
+    If there truly is no contact, one cannot rightly speak of a "vedanā" anymore. Hence some Suttas would say that for an Arahant, all the five aggregates are "cut off at the root, not liable to future arising."
 
 ---
 

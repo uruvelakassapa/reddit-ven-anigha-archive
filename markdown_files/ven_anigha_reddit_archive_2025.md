@@ -1,3 +1,99 @@
+**r/HillsideHermitage** | Posted by ActualBrazilian _2025-03-06 05:58:04_
+### [A question on the background of experience/peripheral awareness](https://www.reddit.com/r/HillsideHermitage/comments/1j4oudq/a_question_on_the_background_of/)
+
+I have kept the 5 precepts for about two months and have just started efforts in keeping the 8, I can sustain what I believe is remembrance of the body and of the breath as I attend to activities. For some activities it is harder to sustain both. The body and posture are too subtle for me to sustain while working as a programmer, but I can manage the breath, though even of the breath I'll still lose ocasionally (I'd say I can keep it about 60-70% of the day). I try to catch any pressure towards distraction (as someone with ADHD I'd say aversion to focusing on studying and working are my most severe hindrances) and analyze the justifications and reasons the mind comes up with for them, finding that they are just about every time ad hoc.
+
+From Bhikkhu Analayo's  *Satipatthana: The Direct Path to Realization*, I have taken the view that my goal should be to sustain remembrance of the breath and to exert myself to expanding it to the whole body and the other 3 foundations of mindfulness as I mantain analyzing pressures in that way (which is what I currently understand 'doing away with the unwholesome' to be).
+
+Is this a productive path of practice, how grossly am I missing the mark on these views and 'methods'?
+
+Edit: To add some context I have been using remembrance of the breath mostly as an aid to noticing arisen pressures before I act out of them and for enduring them. When I keep this remembrance and noticing-and-endurance well, I do also feel a cooling sensation in my head physically, mostly the top of the head and the forehead, which I did attend to sometimes but have started trying not to.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j4oudq/a_question_on_the_background_of/mggyuog/)** _2025-03-07 06:38:03:
+
+    It's not like one should never make any effort to think about how to practice satipaṭṭhāna, but it should not be one's main practice up until the Right View. The reason is that nothing you do can "do away with the unwholesome" by itself without you understanding exactly what the unwholesome actually is, because the unwholesome is in your very *intention* (e.g., with which you would be practicing satipaṭṭhāna the whole time) and not in the particular mental objects that you can replace by attending to something else.
+
+    Instead, apart from strengthening your virtue—there is almost always going to be plenty of room for improvement there as a layperson—the main practice should be discerning the intention behind *whatever* you do, not taking for granted that, for example, practicing satipaṭṭhāna is in and of itself a wholesome thing to do. Nothing is ever automatically wholesome; it depends on why you're doing it at the time.
+
+    That's how you would become skilled in recognizing your own mind, [which is necessary for satipaṭṭhāna to be done rightly](https://suttas.hillsidehermitage.org/?q=sn47.8). Unless you see that, you don't actually know what pressure is, so no amount of satipaṭṭhāna practice will allow you to "catch" it.
+
+    Lastly, discerning your intentions does not mean psychologizing the logical reasons why you do something; it means seeing whether there is greed, aversion, or delusion driving the action you want to do or are already doing. Nothing more elaborate than that. You need to learn to recognize a vague, ambiguous mind of greed *as such* without resorting to secondary explanations of any kind.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2025-03-06 04:16:13_
+### [jhana and jhana or jhana](https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/)
+
+I thought I should ask this question, even though it may seem provocative. I was wondering "how can I confirm this?" and realised it's impossible, but maybe someone has a clearer understanding and view and so on
+
+Basically the "lay jhana teacher" said that he experiences the eight jhanas while having a wife and he just "returns" to the world when needed. Naturally I started contemplating this for a while, because this contradicts what ajahn here said, why not have both jhana and a partner too without making it the goal of my life?  
+Ajahn Nyanamoli said that whoever teaches jhana different from Buddhist jhana just couldn't get the Buddhist one, which sounds a bit like an assumption to be fair considering we don't know all the people who didn't become monks and their motives, but what is that "buddhist jhana"? Are there different types of jhanas beyond the eight jhanas, like eight Buddhist jhanas and eight lay jhanas?  
+I realise there is some level of justifying staying in the world here, but the topic is valid anyway, I think
+
+**For people who just read, downvote and move on I want to say that every question is valid if approached correctly, it's not me who should to stay silent, its you who should keep your hands and judgements to yourself**
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgh3crn/)** _2025-03-07 07:18:53:
+
+    >but what is that "buddhist jhana"?
+
+    As defined in the Suttas (from which the term "jhāna" originates to begin with), it's the pleasure of renunciation, the ease of being free from any trace of sensual and unwholesome urges that comes from not engaging with those urges long enough, and [understanding them rightly as perilous](https://suttas.hillsidehermitage.org/?q=an6.73). To people who enjoy sensuality, [renouncing their sensual urges by definition won't be pleasurable at all](https://suttas.hillsidehermitage.org/?q=an9.41#an9.41:3.1_an9.41:3.4).
+
+    Hence, whatever "jhāna" people who still enjoy sensuality can obtain is not what was originally meant with the word "jhāna." Jhāna was not widely taught to householders in the Buddha's time precisely for that reason.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgjh9ds/)** _2025-03-07 17:16:38 *(in reply to a comment not included)*:
+
+    That's not a problem as long as you don't forget that that isn't what the Buddha taught as jhāna, nor does it lead to what jhāna is supposed to when made much of (not returning to sensual pleasures again, and disinterest in the world in general).
+
+    And even if it's difficult to fully follow, you can still see value in the *direction* of renunciation and try to gradually go towards it more. You would then partake in at least a bit of Buddhist peace, and maybe you would one day notice the difference for yourself and decide to pursue that direction further.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgjsmxs/)** _2025-03-07 18:10:21 *(in reply to a comment not included)*:
+
+    >the jhanas taught in contemporary Buddhism lead to unbinding and nibanna.
+
+    Same as with jhāna, these are just buzzwords that people nowadays ascribe their own meanings to, which usually are not what the Buddha meant.
+
+    For one thing, full Nibbāna in the Buddha's outlook would make you unable to seek or relish sensuality and even platonic relationships. All of that is ultimately dukkha, but is not seen as such when the mind is clouded by passion and ignorance, i.e., not in Nibbāna.
+
+    So if that's not the end result (on top of coming from a very different kind of practice), it's not the Buddhist Nibbāna. "Nibbāna" was not supposed to mean any peaceful state whatsoever, but specifically the extinguishment of craving, which has a very specific (and incomparable) kind of peace as its *byproduct*.
+
+    Now, people are totally free to regard the Buddhist unbinding as undesirable and not pursue it. But instead of doing that, they often instead redefine what the Buddhist unbinding is. Probably because it looks and feels much better when you can assimilate the weight and authority that Buddhism has accumulated, and also because few people read the early texts widely or with enough openness to reconsider their established beliefs about the practice and the goal.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgn9yn1/)** _2025-03-08 06:34:21 *(in reply to a comment not included)*:
+
+    >Stream-enteres glimpse nibanna
+
+    Yes, a stream-enter has an accurate glimpse of how craving is suffering and the destruction of craving is the ultimate and only worthwhile peace. Therefore, that's exactly what his practice would be aimed at, and that's how he eventually achieves full Nibbāna. "Glimpsing Nibbāna" and working towards it means something very different in their redefinition.
+
+    >What’s the difference between true nibanna and the redefinition of nibanna that you claim they’re making?
+
+    True Nibbāna comes if you work on severing your attachments and wearing away your liability to craving by first of all not acting out of it. It can't come from a meditative experience, which would be like an alcoholic who, instead of focusing on giving up alcohol to reach sobriety, looks for something so extraordinary that it captivates and enthralls him to the point where the urge to drink fades (if even that). While this might work for a time, the novelty will inevitably wear off, and the underlying addictions that were never truly addressed will resurface.
+
+    And that's why more often than not there is little to no talk about permanent and final Arahantship (unless it's been redefined not to signify complete renunciation and destruction of craving), since it's about perpetually chasing after greater and deeper experiences and insights, hoping for the ultimate thing that will fill the ever-lingering void perfectly instead of destroying the void itself once and for all.
+
+---
+
+**r/HillsideHermitage** | Posted by still_tracks _2025-03-01 17:49:24_
+### [Knowing Background Phenomena](https://www.reddit.com/r/HillsideHermitage/comments/1j158q4/knowing_background_phenomena/)
+
+I was wondering why we *feel* feelings but know/discern/see other peripheral phenomena and what these verbs even refer to. When I actively try to feel a feeling, all I find is that I want to make the feeling palpable by searching for sensations in my chest or head. However, even before such a search, I already know that I am feeling well or bad, and this knowledge clearly refers to something in my experience. Now, isn't the same true for the overall mood? I can't find the mood when I search for it, and I don't even have to do it because it is simply something I know. This knowing is not based on some fantasy, but a bad mood is easily recognizable in one's experience, even for the most unrestrained person in the world. The same goes for intentions. It isn't too hard to be aware of the most obvious pressures/pulls to do, say, or think about various things throughout the day, while withstanding a pull is, of course, a different matter. I also tend to associate these pulls with sensations in my chest, but these association attempts can only occur because the pull has already appeared as a background phenomenon.
+
+So, is this the basic principle for every kind of peripheral phenomenon? That there is knowledge of something which is clearly or even vaguely there in experience, and every attempt to catch it by sensing it in the body (another example would be weak legs when feeling anxious) or trying to find it as a mental image or thought is futile and unnecessary. When I am angry, I know it; I can only know it because it is present; I don't act out based on it and that's enough. 
+
+Hence, the reason we say that we are *feeling* feelings or even emotions is just because these are very obvious background phenomena, and we have a word for it in society, while phenomena like the internal body are on a more subtle layer in experience. However, as the same principles apply to all background phenomena, feeling a feeling and knowing/discerning/seeing the internal body is basically the same kind of "act," just pointing toward different things in experience.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j158q4/knowing_background_phenomena/mfm15cc/)** _2025-03-02 14:50:09:
+
+    >So, is this the basic principle for every kind of peripheral phenomenon?
+
+    Yes, that's how you discern all of the aggregates, in fact. They are all "peripheral." 
+
+    >there is knowledge of something which is clearly or even vaguely there in experience, and every attempt to catch it by sensing it in the body (another example would be weak legs when feeling anxious) or trying to find it as a mental image or thought is futile and unnecessary.
+
+    Indeed, and you get to recognize the aggregates clearer the more you contain those habitual attempts to make phenomena "more palpable" by pinning them down into specifics. That automatically distracts you from their actual manifestation, which is always general and non-specific by nature. 
+
+    You also start to see the very concrete and inseparable relationship between restraint and understanding. Lack of restraint, sensuality, etc., *is* that "coarsing up" of things that would've otherwise remained as non-specific phenomena (that are nevertheless *real as such*). That then makes it even harder to recognize and stay with the actual manifestation of things (which is always peripheral to any particular details). Then even when you try to practice and see the Dhamma, you end up watching sensations and things of that nature, to the point of imagining that you can "observe" your five aggregates coming and going like things popping in and out of a screen.
+
+    It's not at all an exaggeration to say that modern Buddhist tradition and practices move in the complete opposite of the right direction—towards *concealing* phenomena rather than revealing them—often invoking the buzzword "phenomenology" without understanding what it means. It's also not an accident that virtue has become an afterthought at best.
+
+---
+
 **r/HillsideHermitage** | Posted by tejveeer _2025-02-27 02:08:58_
 ### [Looking for a practical model.](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/)
 
@@ -126,6 +222,34 @@ So this gives me a picture that "yes I can still be a sotapanna and it doesn't m
     It's like saying, "people define what is an addiction differently." Sure, but does the person still consume the drug at all? If the answer is yes, then compared to someone who is completely free from that, they are still addicted, no matter what mental gymnastics they engage in to convince themselves otherwise.
 
     There's no shame in admitting that actually giving up craving is difficult and you don't feel like doing it. Almost nobody does. But twisting the Dhamma so that you can reconcile sensuality with it is not a good move, and there's no justification for it. Nobody's forcing you to practice the Dhamma.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mfx9niy/)** _2025-03-04 07:08:49 *(in reply to a comment not included)*:
+
+    Sure, it's not like every monastic was an Arahant or even an ariya. Even the Suttas don’t claim otherwise. And the reason would have been the same as for laypeople who failed to attain anything despite hearing the Dhamma many times: [a mind still obstructed by passion](https://suttas.hillsidehermitage.org/?q=mn36#mn36:18.11_mn36:18.12).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mfydrzp/)** _2025-03-04 13:12:48 *(in reply to a comment not included)*:
+
+    The point is everywhere in the Suttas, not just there. The stock description of people seeing the Dhamma always involves [their minds turning away from sensuality first](https://suttas.hillsidehermitage.org/?q=mn56#mn56:18.1_mn56:18.8), upon recognizing its peril.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mg3s483/)** _2025-03-05 06:06:50 *(in reply to a comment not included)*:
+
+    >would you please explain why you made this statement that appears, to me, to not be in accordance with the two characteristics of the buddha's dhamma that i've included below?
+
+    The two characteristics you mention apply to the Dhamma [as an experiential principle](https://suttas.hillsidehermitage.org/?q=sn35.70), not to historical knowledge—such as whether laypeople mentioned in the Suttas as having attained stream entry truly did so. And as I think I made clear, the statement was mainly rhetorical.
+
+    >if so, how do you reconcile that view with the following characteristic of the buddha's dhamma that i've included below?
+
+    The Dhamma itself is independent of time, but the *realization* of the Dhamma [is gradual and requires time](https://suttacentral.net/an8.19/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#10.6).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mg4g21b/)** _2025-03-05 10:00:20 *(in reply to a comment not included)*:
+
+    >Why make this rhetorical statement if that's indeed what you were doing? I really want to understand where you're coming from
+
+    The original post references Suttas that in an attempt to support the view that renunciation is not necessary for attaining stream entry. I presented a hypothetical to highlight that the safe bet is to prioritize one's own honest recognition that sensuality and liberation are two opposing directions (something that one can eventually know beyond all doubt) rather than conclusions reached from a liberal interpretation of stories whose accuracy will always be subject to doubt.
+
+    >I guess what I'm getting at is I fail to see where the six characteristics of Buddha-Dhamma aren't applicable...
+
+    *ehipassiko*, etc., doesn't mean one will know whether a certain account of something that took place 2500 years ago is fully accurate or not. What one "comes and sees", is presently evident, etc., is the four noble truths.
+
+    >Does this historical knowledge bring immediate results with regards to dissatisfaction and the end of dissatisfaction?
+
+    No, and I never claimed otherwise. I do agree that the end of dissatisfaction comes from a fundamentally different kind of knowledge, and that knowledge and the path to attaining it are the subject of many of the discussions on this forum. On the other hand, I strongly disagree that the "immediate result" produced by the practice you propose is the true ending of dissatisfaction. That said, you seem quite convinced—so to each their own.
 
 ---
 
@@ -171,6 +295,23 @@ So this gives me a picture that "yes I can still be a sotapanna and it doesn't m
     To be able to cultivate mettā, you first need to familiarize yourself with what a hateful or resistant mind actually is: an ambiguous "cloud" that looms overhead despite whatever you might do. That's the third satipaṭṭhāna, and it's not the same as allowing hateful *thoughts* to persist (which should not be done, as the Buddha said). You'll only be able to see that hateful mind for what it is if you don’t jump into action in response to it, which includes what you seem to be describing as "cultivating mettā."
 
     Mettā is about completely dispelling that cloud on the basis of seeing it clearly, not just maneuvering around it or compensating for it on a superficial level.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1iydjbb/how_should_we_interpret_an_5161_the_subduing_of/mflqnpz/)** _2025-03-02 13:47:53 *(in reply to a comment not included)*:
+
+    >And then you try to get rid of the mood, by replacing it with another mood, which requires thinking thoughts of goodwill?
+
+    No, that's the point. Thinking thoughts of goodwill won't lead you to a mind of mettā, because the mind (citta) and thoughts constitute two separate domains without a direct connection. The stock brahmavihāra description quite clearly says that one pervades the whole world with a *mind* (citta) of mettā, karuṇa, etc.
+
+    Practically, the distinction is that with a mind of mettā, you wouldn't wish harm on another even if they were to harm or kill you and everyone close to you, while being fully aware of what that person did. Someone whose practice consists of thinking thoughts of goodwill must cover up and ignore the negative while focusing on the positive. That only works up to a certain point and is doomed to fail long before it comes to such extreme scenarios.
+
+    >But also "seeing it clearly" what does that mean?
+
+    It means you've been keeping the precepts consistently, not engaging or delighting in sensuality, and not delighting in company, and the phenomenon of the mind has become apparent as a result. You're able to see pressure *as such*, and you see that you have a clear choice in following that pressure (including by thought) or not. Whereas before your only two options were acting out of the pressure or ignoring it through distraction.
+
+    You can't develop mettā or any other form of mental cultivation unless you go through that training that reveals the mind, since all you will see and be able to work with is your thoughts and the secondary feelings that they arouse, i.e., distractions that leave the underlying aversion unchanged.
+
+    > How do you ensure you arent just ignoring angry thoughts out of aversion? Is it possible to try to get rid of the angry mood for aversive reasons?
+
+    Such mistakes can only happen if you haven't fulfilled the necessary training and therefore don't see the mind clearly. Otherwise, you would be aware of the aversion as such.
 
 ---
 
