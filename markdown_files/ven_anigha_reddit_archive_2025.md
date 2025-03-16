@@ -1,3 +1,232 @@
+**r/HillsideHermitage** | Posted by fe_feron _2025-03-15 07:44:21_
+### [Consciousness = point of view?](https://www.reddit.com/r/HillsideHermitage/comments/1jbq11r/consciousness_point_of_view/)
+
+Practically, in general terms, would you say that consciousness means the presence of a point of view?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jbq11r/consciousness_point_of_view/mhy71jv/)** _2025-03-15 17:15:56:
+
+    No; for one thing, that would mean you have [6 points of view all at once](https://suttas.hillsidehermitage.org/?q=mn38#mn38:8.1_mn38:8.14).
+
+    Whichever such "point of view" you find, no matter how seemingly fundamental or "deep" in its content, will be something already cognized/manifested to the very extent you're aware of it, and thus there is no "inner side/point" behind the rest of experience that is not itself another cognized experience. Everything without exception is "on quicksand" (impermanent) for that very reason, and that's why Sāti's view in the above Sutta was so wrong.
+
+---
+
+**r/HillsideHermitage** | Posted by meshinthesky _2025-03-13 16:49:15_
+### [Discerning unwholesome intentions behind seemingly wholesome thoughts](https://www.reddit.com/r/HillsideHermitage/comments/1jagkak/discerning_unwholesome_intentions_behind/)
+
+The context of the post is within the stage of developing virtue and the specifics of sieving thoughts according to whether they spring from a mind with wholesome or unwholesome intention.
+
+There are thoughts which their contents are wholesome in themselves. Yet, they are clearly rooted in a mind wanting some change regarding the current experience. They are refined ways for the mind to complain: I want this, I do not want that - sometimes even dressed in dhamma language. When such apparent wholesome thoughts are rooted in a mind with greed or aversion, such unwholesome intentions seem discernible to me.
+
+On the other hand, it is not clear to me when some wholesome-content thoughts may be rooted in delusion or not: when the intention of the mind is wanting to distract itself for avoiding enduring the present situation. I am not referring to such thoughts that call for a coarse action to be started changing fully the context (i.e.: let's go and read some teachings), but those whose purpose seems to be avoiding or coping with boredom... merely for the sake of filling the void and chaining further thoughts.
+
+At the mentioned stage, are those delusional intentions coarser enough to be dealt with (specially when one's trying to abide in non activity) or are they subtle enough to be seen as a finer peg that removes a coarser one (i.e.: thoughts with unwholesome content, or born from greed and aversion)? If it is the former, how to approach and learn to tell apart delusional intentions from wholesome intentions of the mind.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jagkak/discerning_unwholesome_intentions_behind/mhvx34i/)** _2025-03-15 07:10:58:
+
+    >On the other hand, it is not clear to me when some wholesome-content thoughts may be rooted in delusion or not: when the intention of the mind is wanting to distract itself for avoiding enduring the present situation.
+
+    I would not even go as far as saying that there is such a thing as "wholesome-content thoughts." What there certainly is is content that is always unwholesome, such as content about the five cords of sensuality (i.e., [lustful things, not just things perceived through the five senses in general](https://suttas.hillsidehermitage.org/?q=an9.42#an9.42:3.2_an9.42:3.9)), and thoughts of ill will (not just aversion or resistance, which can be much subtler and is not an immediate concern). But no thought-content is automatically wholesome.
+
+    You need to start looking at the current state of mind behind a certain thought in order to see when it's rooted in delusion/distraction, and not assume that thoughts about the past or about the future, or about things that are elsewhere instead of "here," can be delusional in themselves. Those can never be anything but present thoughts in the present situation, and are to an extent inevitable.
+
+    So don't worry about the content of the thoughts, and instead worry about whether a thought about anything becomes so captivating and absorbing that you lose the peripheral awareness that "this is a present thought in the present situation." Such a thought is a delusional thought (because the state of mind is clearly one of obsession with it, i.e., one or another hindrance, and thus clarity is automatically obstructed and there is a loss of perspective).
+
+---
+
+**r/HillsideHermitage** | Posted by No_Squirrel4617 _2025-03-13 00:06:37_
+### [NIbbana Is The Ultimate Uncertainty](https://www.reddit.com/r/HillsideHermitage/comments/1j9ywt8/nibbana_is_the_ultimate_uncertainty/)
+
+I am a bit unclear about how exactly the practice progresses. For example, I am accomplished in virtue, and because of that, I have learned what it truly means to restrain the senses and what samadhi is about. Two questions arise for me now: Should I just continue pushing my sense restraint with the idea that its significance will somehow become more apparent, or should I also introduce practices like noticing and acknowledging that my life and everything I hold dear depend on the breath?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j9ywt8/nibbana_is_the_ultimate_uncertainty/mhvuv0x/)** _2025-03-15 06:47:29:
+
+    >should I also introduce practices like noticing and acknowledging that my life and everything I hold dear depend on the breath?
+
+    Such contemplations would only be fruitful to the extent that you've overcome the five hindrances. So if indeed your virtue and sense restraint are as cemented as you say, purifying the mind from hindrances ([for which you will need to learn to see the signs of the mind more clearly](https://suttas.hillsidehermitage.org/?q=sn47.8), for which you will in turn [need stricter seclusion](https://suttas.hillsidehermitage.org/?q=an6.68)) would be the next step.
+
+    [This talk](https://www.youtube.com/watch?v=9voIhZij5Io), and [this newer one too](https://www.youtube.com/watch?v=D7OZOGbghTY), might help.
+
+    When trying to spot the hindrances, don't just assume that specific thoughts are a problem (apart from the obvious unwholesome ones with lustful or hateful content). Instead, look in the direction of *why* (emotionally) you're thinking whatever it is that you're thinking, and you are more likely to find a hindrance there (i.e., the signs of the mind). If there's a compulsion behind that thinking, it's a hindrance. If not—if the mind is pursuing certain thoughts without being obsessive about them—everything is fine for now, but you still remain watchful.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2025-03-11 10:59:08_
+### [HH stand on meditation](https://www.reddit.com/r/HillsideHermitage/comments/1j8o2vw/hh_stand_on_meditation/)
+
+I have watched many talks on HH channel, many times but can only remember one about meditation and many about the misconceptions about meditation.
+
+The talk I mean is where Ajahn Nyanamoli describes how to recognize "am I breathing?" and that's it
+
+And all the countless videos about how intention behind it matters, how it will not make me enlightened, etc.
+
+So it makes me wonder how important is it to meditate?
+
+I personally don't like meditating and prefer upping the precepts and learning the dhamma. Being mindful of the body is the closest to meditation I ever get, so I wonder is it necessary? Is samadhi in "sila, samadhi, panna" meditation or is it composure?
+
+I imagine that in a monastery there isn't that much to do and monks generally are supposed to meditate countless hours, no?
+
+Adding to this, if the practice is simply "don't act on craving" why is there such a big emphasis on meditation?
+
+[https://youtu.be/GgoRGxbR6y8?si=X3DmnsT2n2x21LrP](https://youtu.be/GgoRGxbR6y8?si=X3DmnsT2n2x21LrP) \- this talk answers the question, I missed it among all others. Makes a lot of sense connecting it all together
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j8o2vw/hh_stand_on_meditation/mhecg0j/)** _2025-03-12 15:24:14:
+
+    Probably around half of the videos on the HH channel describe what you would do when you sit down to purify your mind from hindrances and unwholesome states and develop clarity—once you've accomplished the precepts, virtue, sense restraint, etc. It's not a different practice at all; it's [the same thing you were already supposed to be doing but in a more precise way](https://suttas.hillsidehermitage.org/?q=sn35.97).
+
+    We see "meditation" in the way taught in modern Buddhism as useless for the development of sīla, samādhi, or paññā. The kind of "samādhi" you get from that is of a kind that suppresses the domain where understanding takes place, leaving you only with visions and sense objects. The mind is not actually "unified" (ekaggatā); the senses are just mostly shut down in favor of a particular experience, and the two are not the same.
+
+    As for sīla, contemporary meditation rarely takes people beyond the five precepts they've been keeping from the very start, even after decades of practice. In our view, the only things such practices lead to are mundane calm and stress reduction (which you could also get without any practice by addressing the root of the mundane problem and changing your job, life situation, etc.), sensual euphoria without a need for people or external things, and transient revelations unrelated to the four noble truths.
+
+    Right samādhi and calming of the mind are developed by [abandoning the five hindrances](https://www.youtube.com/watch?v=YaexsS0MLas), which is impossible to achieve by focusing on physical sensations or visualizing things. [One does these things either for sensual reasons or out of other hindrances](https://suttacentral.net/mn108/en/bodhi?lang=en&reference=main&highlight=true#sc37), but that's overlooked because the contemporary, watered-down, widespread notion (illustrated[ quite well here](https://chatgpt.com/share/67d199ed-7fdc-8002-8a82-19c2ea5f6244)) is that a hindrance is simply a distracting thought that takes you away from the meditation object. That would lead to the conclusion that an Arahant [can never emerge from meditation again](https://suttacentral.net/sn54.12/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin#4.1).
+
+    >Adding to this, if the practice is simply "don't act on craving" why is there such a big emphasis on meditation?
+
+    Because it's a quick fix that reduces suffering and provides pleasure, which is plenty for most people. Contemporary Buddhism is mostly an echo chamber that caters to the majority, who often only want quick fixes (or at least fixes that don't require changing their habits too significantly). 
+
+    >I imagine that in a monastery there isn't that much to do and monks generally are supposed to meditate countless hours, no?
+
+    One is supposed to be alone in seclusion most of the day because that's where the five hindrances can be recognized clearly and abandoned, [whether while walking or sitting](https://suttas.hillsidehermitage.org/?q=mn107#mn107:6.2).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j8o2vw/hh_stand_on_meditation/mhijo3p/)** _2025-03-13 04:34:31 *(in reply to a comment not included)*:
+
+    >wouldn't focusing on something help to not give into habitual unwholesome thinking patters that would then have no choice but to die out?
+
+    Not by itself.
+
+    Unwholesome thoughts wear away for the long term only when the mind wants to go in a direction and you don't let it, but you also [make the effort to understand the harmfulness of that direction](https://suttacentral.net/sn12.57/en/bodhi?lang=en&reference=main&highlight=true#1.2) rather than blindfolding the mind so that it forgets about the whole thing. That's not training it at all.
+
+    People who meditate in the modern sense and whose unwholesome thinking patterns have truly been reduced didn’t achieve that result because of the time they spent successfully focusing—which they would usually consider a "good meditation" but which is no more beneficial for the training than sleep. The reduction came from adopting the value of restraint across the board, not just during their focusing sessions. Try restraining the unwholesome thinking patterns *only* during meditation, and you'll see that it won't work at all.
+
+    But that small benefit is overshadowed by a greater problem: they didn’t stop at recognizing thoughts of sensuality, ill will, etc., as unwholesome. They instead went to the other extreme and developed the view that focusing itself is wholesome and is the state free from hindrances. That's a seriously wrong view that their own past experiences would disprove if they took the time to consider them carefully. 
+
+    (And then, of course, there's the inevitable expectation that insight is something that will just pop up while you're focusing, which flies in the face of what insight really is.)
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j8o2vw/hh_stand_on_meditation/mhoz3c5/)** _2025-03-14 04:01:24 *(in reply to a comment not included)*:
+
+    The Therāgatha might contain later additions according to scholars. This is a good example.  
+
+    There are no Suttas in the four Nikāyas where fixating one's attention on an external object is presented as a viable way to develop samādhi. That absurd concept certainly came later and is taken seriously only in commentarial texts like the Visuddhimagga (which advises staring at clay disks, candle flames, etc.)
+
+---
+
+**r/HillsideHermitage** | Posted by Akalika_Username _2025-03-11 00:06:01_
+### [Advice on how to deal with a persistent trigger for unwholesome behavior](https://www.reddit.com/r/HillsideHermitage/comments/1j8dlva/advice_on_how_to_deal_with_a_persistent_trigger/)
+
+For more than a year, I have been trying to patiently endure the pressure to act out of a persistently triggering situation in my daily life. The hostile and cruel thoughts that arise when the trigger is present are intense. I try not to give them the center of my attention when they inevitably arise throughout the day.
+
+I have attempted to tailor my environment to reduce the frequency and intensity of my exposure, though there is only so much I can realistically do. There is also no reason to believe the situation will become less challenging in the foreseeable future.
+
+Until this last weekend, I have been pleased with my verbal and physical restraint regarding the situation, including with subtler, indirect actions. Now I have begun following the pressure to engage in things that could eventually lead to verbal and physical behavior of a hostile nature. I am also afraid that the presence of the trigger will become more prominent in the coming months, as it had this last weekend. My fears are likely to be accurate, if I’m being honest.
+
+It seems that I presently have three options for dealing with the increased likelihood that I might act verbally or physically in response to the situation: 1. more aggressively tailor my environment; 2. redouble my efforts at restraint when inevitably exposed; and, of course, 3. do both.
+
+My impression from what I’ve read from HH and in the Suttas is that the third option is the safest bet given that acting physically could be seriously detrimental for my welfare and the welfare of others. But the prominence of the trigger could easily become so significant that the effort to reduce exposure might ultimately exacerbate rather than reduce the pressure to act unskillfully. I wonder if there isn’t some justification for maintaining or even slightly increasing exposure in a situation like this, where avoidance is unrealistic and could make the problem a greater source of resentment.
+
+Does anyone have any advice on a scenario of this kind? [Edit: the type of hindrance doesn't matter, just the persistence of the pressure in relation to something unavoidable that is a potential obstacle to progressing in virtue and restraint.] I’m particularly interested to learn if anyone has had past success with similar difficulties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j8dlva/advice_on_how_to_deal_with_a_persistent_trigger/mhc4fdc/)** _2025-03-12 04:51:16 *(in reply to a comment not included)*:
+
+    I have locked this comment as it does not comply with rule #3. Without outlining the discrepancy, it casually gives advice based on widespread underlying assumptions about the practice of meditation that contradict fundamental HH teachings.
+
+---
+
+**r/HillsideHermitage** | Posted by Formal_Breath_2025 _2025-03-09 16:36:07_
+### [Upakkilesa Sutta MN 128](https://www.reddit.com/r/HillsideHermitage/comments/1j7bh6c/upakkilesa_sutta_mn_128/)
+
+I have a few questions about this sutta. The whole section on samādhi seems to be referring to the 1st, 2nd, 3rd, and 4th Jhānas, but the Buddha mentions *obhāsa* (light, shine, splendour, effulgence?) and *dassanam rūpām* (vision of forms), which I have not seen before in the usual Jhāna formula. Is this relevant to Jhāna in general or is the Buddha talking more specifically about something like developing the Divine Eye?   
+  
+The other thing in this sutta I haven’t seen before is that the Buddha mentions developing both samādhi with vitakka and vicāra but also *without* vitakka and *with* vicāra. Bhante Ñānamoli tends to talk about vitakka and vicāra in the context of 1st Jhāna as near-similes, so I’m not quite sure what this indicates. If vicāra is a more passive kind of thinking, I suppose it could suggest that he’s stopped active thought but there are still dhammas appearing?
+
+The Buddha also talks about “perception of diversity” and “excessive meditation on forms” as hindrances, but the formula makes it unclear if this is relevant to all the forms of samādhi the Buddha developed, or just some of them. It sounds more relevant to formless attainments but I could be wrong.
+
+Thanks.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j7bh6c/upakkilesa_sutta_mn_128/mh1bsn9/)** _2025-03-10 15:34:49:
+
+    MN 128 is about developing the divine eye. The Pāli is ambiguous, but the Chinese parallel [(pg. 20 here)](https://bdkamerica.org/download/1956) says that the light and vision of forms disappeared because "the eye ceased." Also supported by how Anuruddha eventually became foremost in the divine eye.
+
+    Jhāna is not about light and visions but about intentionally cultivating the pleasure that arises from renunciation, and it's a form of [recollectedness of the body specifically](https://suttacentral.net/mn119/en/sujato?lang=en). That shows how there are different directions of samādhi you can take, all of which depend on abandoning the five hindrances. Whereas the commentarial (and often contemporary) belief is that because jhāna is "absorption", samādhi and jhāna are basically synonymous except for the supposed "momentary" and "access" concentration.
+
+    As for vitakka and vicāra, etc., AN 8.63 shows that those permutations would occur within various forms of samādhi. The case of "without vitakka and with vicāra" occurs there too.
+
+    >If vicāra is a more passive kind of thinking, I suppose it could suggest that he’s stopped active thought but there are still dhammas appearing?
+
+    There can't be a state where dhammas do not appear except Parinibbāna. If there is consciousness, there *has* to be some form of activity or "movement" (*saṅkhāra*) underlying it. With samādhi, what you do is [shed coarser activities in favor of subtler ones](https://suttacentral.net/sn36.11/en/bodhi?lang=en), and at no point in the nine progressive stages does the mind become completely still and "frozen," as many might genuinely believe due to not seeing the signs of their minds and only objects instead.
+
+    Both vitakka and vicāra are activities (saṅkhāra) and are thus pacifiable, though vicāra is subtler, i.e., less active than vitakka, not quicker and harder to "catch" momentarily. But they are both simultaneous aspects of the same thing. They are structurally and not sequentially bound together. 
+
+    For example, you can have an overall Dhamma of "being seated in a cold room looking through the window feeling joyful," and vitakka would be the more active mental movements within that: "picking up" the specific things you are joyful about (the absence of sensual and unwholesome inclinations). If there is still vitakka, vicāra would be the overall "being seated in a cold room looking through the window feeling joyful" that endures as a background to the specific thoughts throughout. 
+
+    If vitakka has subsided, you would see that the dhamma of "being seated in a cold room looking through the window feeling joyful" can be made even less active, and by establishing the mind in that you would be left with *purely* "being seated in a cold room looking through the window feeling joyful," without the activity of vicāra, which was still a subtle movement on top of that (and this is second jhāna). 
+
+    But you can't even abstractly imagine how to calm vicāra or what the absence of it is like until vitakka is gone—until then the "passive" thing is vicāra. You can't turn milk straight into butter. And you certainly can't discern any of this until you have freed yourself from hindrances through the gradual training.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j7bh6c/upakkilesa_sutta_mn_128/mhdyhav/)** _2025-03-12 14:11:14 *(in reply to a comment not included)*:
+
+    Yes, I see what you're saying, but the thing is that when MN 44 says *vitakkavicāra* is *vacīsaṅkhāra* or "verbal activity," that doesn't mean *vitakkavicāra* can only ever be verbal. If it were, every person would often have instants without at least vitakka when they briefly do something like focus on a sight or physical sensation. This is how a lot of people truly believe they can "stop thinking" by attending to their breath and similar; they believe thinking begins and ends at the verbalization part. The contemporary "jhānas" are vitakkavicāra (mainly vitakka due to the emphasis on focus and observation), with hindrances (which have their root at the level of vicāra) and with pleasure/peace and some unusual perceptions within it. Sights, sounds, etc., and even physical actions all manifest through vitakka. Thus, even vitakka is [far broader](https://suttacentral.net/sn1.65/en/bodhi?lang=en&reference=main&highlight=true#sc2) than specific verbal formulations.
+
+    So you could say that once vitakkavicāra is purified from hindrances and understood rightly, it is no longer vacīsaṅkhāra, i.e., it no longer *implies* the possibility of speech. Whether it involves specific words is then totally secondary, since those are also just perceptions that are wrongly assumed to be more than that whenever they imply the possibility of speaking. In other words, even if you didn't have a mouth and couldn't even conceive of speaking yourself, you would still be able to play words in your mind, but they wouldn't imply *you* speaking and would thus not be vacīsaṅkhāra.
+
+    Practically, you need to approach the whole thing as a totality, i.e., being fully enclosed within vitakkavicāra from top to bottom. This means any phenomenon you can possibly experience will up until the second jhāna be at most a form of vicāra. 
+
+    People who are virtuous, well restrained, don't delight in company, etc., can start to rightly grasp the hints of vicāra; otherwise everything will be vitakka for them. Some vicāra is always inevitably there, but for the unrestrained person, vicāra (e.g. their underlying attitude for vitakka-of-something) can change completely and become sensual or averse, and they will not have a clue. This is one way of describing the [ignorance of the signs of the mind](https://suttas.hillsidehermitage.org/?q=sn47.8).
+
+    Edit: I remembered there's [this Sutta](https://suttacentral.net/sn41.8/en/sujato?lang=en&layout=sidebyside&reference=main&notes=asterisk&highlight=true&script=latin) where the *leader* of the Jains is absolutely convinced that the cessation of vitakkavicāra is impossible. That goes to show how the range of vitakkavicāra is a lot broader (and its genuine surmounting lot more subtle) than generally assumed.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j7bh6c/upakkilesa_sutta_mn_128/mhj2et0/)** _2025-03-13 07:31:41 *(in reply to a comment not included)*:
+
+    >i did not "do" questioning thinking it was vicara; but the function of questioning in the context of what i was doing seemed to be quite aligned with what i was understanding as the function of vitakka-vicara -- and i continued with the assumption that this questioning movement of the mind is vicara, and looked at the suttas. there is a lot of questioning there -- very similar to the questioning attitude i was cultivating, inspired, at that time, both by Toni Packer and by HH.
+
+    I would put it this way: in the experience of questioning yourself in this way (which can indeed be beneficial), there is a deliberate placement of attention in a certain thought/perception, with or without verbalization involved. *At the same time*, regardless of whether you realize it or not, there is a broader image there of "I am questioning myself" (never explicitly expressed in words though), and within that overall image or phenomenon, things like the way you're feeling, why you're questioning yourself, the state of your physical form, what you expect to come out of the questioning, etc., are *implicit.* That is the level of vicāra, and those are things you are invitably \*conscious of\* (i.e., they are \*manifest\* in experience) even if you're not aware of them (which would correspond to \*sampajaññā\*).
+
+    But the catch is that if you now try to *place the mind into* that overall image or phenomenon in the background, it becomes another vitakka, and there is now *another* background image of "I am trying to figure out what vicāra is" with its own implications, and all of that is now unseen. So one has to recognize the extent of vitakka clearly and, at the same time, without making another vitakka, *know* vicāra where it already is. This is all precisely what I was referring to [here](https://www.reddit.com/r/HillsideHermitage/comments/1j158q4/comment/mfm15cc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) recently, and it's the principle of "peripheral awareness", yoniso manasikāra, etc.
+
+    You can think of it as two identical sheets of glass stuck together perfectly. Vitakka inevitably carries vicāra, which you will be able to discern only by seeing *through* vitakka. And yes, you start by intentionally directing vitakka in certain ways, as described in MN 19, because if the content of vitakka is already unwholesome, there is no way vicāra can be discerned. Once vitakka was sufficiently pure and well directed (which indirectly purifies vicāra to some extent) the Buddha realized that [he could simply stay with the recognition that "these dhammas are there"](https://suttas.hillsidehermitage.org/?q=mn19#mn19:12.1_mn19:12.4) and not try to have any specific content in vitakka nor in vicāra.
+
+    The kind of questioning you describe could serve to *reveal* vicāra if one already knows where to look for it (e.g. questioning your motivation behind something but letting that question *point to* the background, already-arisen motivation in your present experience rather than jumping into vitakka-answers and vitakka-explanations). But the questioning in and of itself would still be vitakka (again, even if it's just a "movement" of looking at something within experience without any verbalization).
+
+    There are absolutely no constraints as to the *contents* of the thought/image that attention can be placed onto with vitakka (hence the Sutta I quoted saying that the entire world functions through vitakka). It can be the most ordinary thought about what you're going to do in 5 minutes or the most extraordinary spiritual experience. The fact that you *place the mind (mano) into it\*—or, even more coarsely, *focus* on it—with or without any mental chatter, is what makes it vitakka.
+
+    \*The translation of vitakka as "placing the mind" is in theory quite accurate, but in practice, with the way those translations are explained and interpreted, the range of vitakka is severely underestimated.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j7bh6c/upakkilesa_sutta_mn_128/mhlrnd3/)** _2025-03-13 17:57:18 *(in reply to a comment not included)*:
+
+    To be clear, I am fully certain that we don't merely disagree about terminology. In what I've been attempting to convey, there is at best some overlap between manasikāra and saññā, and vitakka and vicāra. They can by no means be equated, for the simple reason that vitakka and vicāra would be completely gone in the second jhāna, whereas saññā and manasikāra (and cittasaṅkhāra) would continue in all the further jhānas and even immaterial attainments. 
+
+    >if vitakka-vicara do not correspond to the verbal thinking and questioning described explicitly in the suttas, the presence of verbal thinking and questioning and their role in the training remains in the air / unaccounted for somehow 
+
+    I don't quite see why. I didn't deny the usefulness of such thinking and questioning; in fact, I made sure to point out its necessity when citing MN 19 above. But following the narrative of that same Sutta, there comes a point where one needs to realize that active thinking and questioning are no longer necessary. This is done by recognizing the full range of vitakkavicāra, which *contains but is not limited to* the questioning you describe. Without that shift of emphasis, it will be impossible to "compose the mind internally," and one will remain in active cultivation of skillful thoughts indefinitely, which still leaves one liable to subtle hindrances.
+
+    You brought up AN 8.30 a few times, and there's actually a big hint there about precisely what I'm describing. The Buddha told Anuruddha that he would be able to enter the jhānas at will if he cultivated the seven thoughts he came up with *plus* the eighth that he added and that Anuruddha did not initially consider. The eighth is about "non-proliferation," and there's a very good reason why, without that "final touch," Anuruddha wouldn't have entered the jhānas. It's the very same principle as MN 19: first you direct the mind towards wholesome themes, but there comes a point where you actually need to "step back" further and start looking at the whole picture more broadly ("these phenomena are there"), which is how *papañca* is overcome. In other words, one needs to shift the emphasis away from vitakka:
+
+    >Eye-consciousness arises dependent on the eye and forms. The meeting of the three is pressure. With pressure as basis, feeling. What one feels, one perceives. ***What one perceives, one thinks (vitakka) about. What one thinks about, one proliferates.*** What one proliferates is the cause for perceptions and considerations born of proliferation besetting one in regard to sights cognizable by the eye pertaining to the past, present, and future.
+
+    >—MN 18
+
+    This doesn't mean vitakka *disappears*; it of course remains a defining factor of the first jhāna. But because it no longer sits alone in the limelight, it is unable to proliferate as much [without any need whatsoever to actively hold it back](https://suttas.hillsidehermitage.org/?q=an3.101#an3.101:2.4_an3.101:2.8) by emphasizing wholesome vitakkas. That is the only way that one can be truly "separated" from *all* unwholesome states. There is a (effortlessly) limited "depth" of engagement that the mind can have with any given direction of vitakka because it has become established in the full picture of vitakka and vicāra occurring simultaneously, and it is because of this that speech (and [sensual perception](https://suttacentral.net/an9.31/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin#1.3), which is proliferation of what the Suttas call ["the sign of beauty"](https://suttacentral.net/sn46.51/en/bodhi?lang=en&reference=main&highlight=true#sn.v.103)) can no longer occur even if there is still mental chatter. Speech necessitates not seeing the (in itself non-verbal) choice to take up of the physical mouth as just another thought, i.e., overlooking the extent of vitakkavicāra.
+
+    Which brings me to your point about vacīsaṅkhāra: there is no contradiction between this and the MN 44 description of "having vitakka-ed and vicāra-ed, one breaks into speech." If this statement were asserting that vitakka or vicāra were intrinsically verbal, it would imply we must first play out in our minds the specific words we intend to say before physically uttering them, and that's quite clearly not the actual dynamic. As we speak, our minds internally "move about" various non-verbal thoughts and images, and that "moving about" is vitakka (with vicāra as the broader background as I've described). 
+
+    And, again, vicāra is also *active* and pacifiable very early on, *long* before saññā, but its activeness is not discernible until the coarser and more active vitakka subsides.
+
+    > and words with an obvious everyday meaning become increasingly technical / divorced from their direct meaning.
+
+    All this is why I disagree with the conclusion that "verbal thinking and questioning" can be fully equated with vitakkavicāra. It doesn't automatically follow from anything in the Suttas.
+
+    Furthermore, given that anyone can simply stop speaking at any moment, how would the interpretation you propose account for the fact that [speech is what ceases in the first jhāna](https://suttacentral.net/sn36.11/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin#2.16)? It does seem to leave that crucial point unaccounted for.
+
+---
+
 **r/HillsideHermitage** | Posted by ActualBrazilian _2025-03-06 05:58:04_
 ### [A question on the background of experience/peripheral awareness](https://www.reddit.com/r/HillsideHermitage/comments/1j4oudq/a_question_on_the_background_of/)
 
@@ -66,6 +295,22 @@ I realise there is some level of justifying staying in the world here, but the t
     True Nibbāna comes if you work on severing your attachments and wearing away your liability to craving by first of all not acting out of it. It can't come from a meditative experience, which would be like an alcoholic who, instead of focusing on giving up alcohol to reach sobriety, looks for something so extraordinary that it captivates and enthralls him to the point where the urge to drink fades (if even that). While this might work for a time, the novelty will inevitably wear off, and the underlying addictions that were never truly addressed will resurface.
 
     And that's why more often than not there is little to no talk about permanent and final Arahantship (unless it's been redefined not to signify complete renunciation and destruction of craving), since it's about perpetually chasing after greater and deeper experiences and insights, hoping for the ultimate thing that will fill the ever-lingering void perfectly instead of destroying the void itself once and for all.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgsolm0/)** _2025-03-09 03:36:57 *(in reply to a comment not included)*:
+
+    Not quite. According to the the Suttas, [insight arose because he reflected on the four noble truths on the basis of the fourth jhāna](https://suttas.hillsidehermitage.org/?q=mn36#mn36:42.1_mn36:43.3). That description is extremely common and is agreed to be the "standard" path to awakening in the early texts. 
+
+    That's not a "meditative experience," but something that you could contemplate at any time, and that indeed many people managed to do to a degree just from talking to the Buddha and without jhāna, [which is how they entered the stream](https://suttas.hillsidehermitage.org/?q=mn56#mn56:18.1_mn56:18.8). Doing it with the mind of the fourth jhāna—[which arises from giving up sensuality and then taking the same principle further, not from a meditation technique](https://suttas.hillsidehermitage.org/?q=an9.41)—simply makes the contemplation much more powerful and penetrative.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgwsmy5/)** _2025-03-09 20:34:31 *(in reply to a comment not included)*:
+
+    Well, when we talk about "bad kamma," it's important to remember that it's not some sort of judgment cast upon you by an external force. It's about what you're doing to your own mind, in this case through something that's very harmful to others too.
+
+    If someone knowingly misrepresents the Dhamma with fully conscious, malicious intention for the sake of gain, renown, and the like, then that's on another level where one is breaking the fourth precept in the worst possible way. But I'm optimistic that this  is very uncommon, and misrepresentation is generally not deliberate.
+
+    Still, unintentional misrepresentation it's still quite bad because both in oneself and others, one reinforces wrong views and makes them even harder to remove later on. It's worse if a teacher confidently tries to give the impression that what they teach is the same as what's in the Suttas without having sincerely investigated whether that's the case (most would start noticing glaring discrepancies if they did). The only reason one would do such a thing is valuing gain and renown over the truth.
+
+    Even worse than the misguided emphases you listed is actively discouraging students from [taking on faith anything they don't yet see for themselves, feeling ashamed and regretful (hiriottappā) of their unwholesome actions, studying the Suttas, and tenaciously going against the grain of their defilements even if it's unpleasant](https://suttacentral.net/an4.202/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=true&script=latin) (not to mention forms of sati and paññā that would be much closer to the right ones). The rejection of at least some of these basic wholesome qualities is very common in Western Buddhism.
+
+    It's an unwholesome principle already to baselessly display certainty about anything, and the fact that it's about Dhamma and one is profoundly influencing people's lives and choices, sometimes actively taking them away from what's actually the Buddhist path while making them believe the opposite, makes it a lot worse.
 
 ---
 
