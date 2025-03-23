@@ -1,3 +1,18 @@
+**r/HillsideHermitage** | Posted by obobinde _2025-03-19 18:50:51_
+### [If we're trying to remove the ownership of the sense of self, who or what is doing the removing ? What or who is owning the sense of self ? Is it the puggala/individual ?](https://www.reddit.com/r/HillsideHermitage/comments/1jf4ion/if_were_trying_to_remove_the_ownership_of_the/)
+
+I'm a bit unclear on those... As I understand it the puggala is what remains when sakkaya ditthi has been removed. But it feels a bit circular since I feel **I'm** doing the decisions to practice sense restraint to remove **my**  ownership of sense of self...   So the sense of self is doing the undermining of the clinging to the sense of self ??
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jf4ion/if_were_trying_to_remove_the_ownership_of_the/mir3v4f/)** _2025-03-20 05:53:20:
+
+    >So the sense of self is doing the undermining of the clinging to the sense of self ??
+
+    In a way yes. The Buddha even said that "conceit is to be abandoned through conceit." A puthujjana can't step outside of the self-view even for an instant, nor abstractly imagine what it would be like to not have it. All they can do is make the right choices that will weaken that assumption *from within* (such as sense restraint). Thus, it's not a matter of "choosing the right term." Only by actually not having self-view anymore can you begin to make sense of the distinction between "individual" and "self."
+
+    For a puthujjana, any term or description whatsoever that they might use to refer to "this here" will for them still tacitly imply the same assumption of self that they haven't understood and abandoned. For a sekha or Arahant, that assumption cannot arise even with the word "attā," hence the Buddha saw no issue with telling monks that they should hold "themselves" as island and refuge (*attadīpa attasaraṇa*), and he and other Arahants would often say "I" and "mine," even when referring to past lives.
+
+---
+
 **r/HillsideHermitage** | Posted by fe_feron _2025-03-15 07:44:21_
 ### [Consciousness = point of view?](https://www.reddit.com/r/HillsideHermitage/comments/1jbq11r/consciousness_point_of_view/)
 
@@ -8,6 +23,17 @@ Practically, in general terms, would you say that consciousness means the presen
     No; for one thing, that would mean you have [6 points of view all at once](https://suttas.hillsidehermitage.org/?q=mn38#mn38:8.1_mn38:8.14).
 
     Whichever such "point of view" you find, no matter how seemingly fundamental or "deep" in its content, will be something already cognized/manifested to the very extent you're aware of it, and thus there is no "inner side/point" behind the rest of experience that is not itself another cognized experience. Everything without exception is "on quicksand" (impermanent) for that very reason, and that's why Sāti's view in the above Sutta was so wrong.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jbq11r/consciousness_point_of_view/mi7qrxo/)** _2025-03-17 05:25:14 *(in reply to a comment not included)*:
+
+    > I think I understand that you're saying that there isn't a point of view behind manifested experience which would be the center to which things arise. Basically there isn't an independent consciousness to which things manifest. Is that correct?
+
+    Yes, there is nothing that can rightly be regarded as being outside the domain of ordinary appearances. And it's important to know that this assumption has essentially infinite ways of manifesting; it doesn't have to explicitly sound like an assertion of "my self is X" in order to be a form of self-view.
+
+    For example, thinking you're developing views in line with the Dhamma, you could easily start to have ideas about the "structure" of experience that underlies the rest of experience (the physical matter of the body that itself is not a perception, the point of view that is not itself viewed, the nature of things which is not itself a thing, etc.), not realizing that you're thereby falling into [one of the 20 forms of attavāda (form as self, self as possessing form, etc.)](https://suttacentral.net/sn22.85/en/bodhi?lang=en&reference=main&highlight=true#sc20).
+
+    And whenever someone asserts the existence of something outside the aggregates, they are also asserting a view of self through that. By believing that something *could* be outside, you automatically maintain the view that the self is outside. Just by holding the view, for example, that there is a more fundamental "purpose" to life that lies outside of our individual experiences and must guide them (or also that there is a more fundamental *lack* of purpose and meaninglessness) means holding the view that self is within, say, intention or perception. Not seeing purpose or lack of it as an arisen intention or perception within this experience, one gives it gratuitous primacy over all other intentions or perceptions.
+
+    And these views are undone not by intensive philosophizing, but by abandoning the five hindrances. They are what cause one, out of passion, to put certain phenomena on a pedestal.
 
 ---
 
@@ -31,6 +57,22 @@ At the mentioned stage, are those delusional intentions coarser enough to be dea
     You need to start looking at the current state of mind behind a certain thought in order to see when it's rooted in delusion/distraction, and not assume that thoughts about the past or about the future, or about things that are elsewhere instead of "here," can be delusional in themselves. Those can never be anything but present thoughts in the present situation, and are to an extent inevitable.
 
     So don't worry about the content of the thoughts, and instead worry about whether a thought about anything becomes so captivating and absorbing that you lose the peripheral awareness that "this is a present thought in the present situation." Such a thought is a delusional thought (because the state of mind is clearly one of obsession with it, i.e., one or another hindrance, and thus clarity is automatically obstructed and there is a loss of perspective).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jagkak/discerning_unwholesome_intentions_behind/mi81en5/)** _2025-03-17 07:12:43 *(in reply to a comment not included)*:
+
+    It seems like you're overthinking it and trying to systematize different teachings that use different paradigms (to explain the same thing).
+
+    The first thing to do would be not to take for granted the pressure to figure out what you need to do, since what you need to do is not act out of pressure. Remind yourself of the danger and suffering in acting out of a hindrance (in this case doubt), and don't continue attending to the thoughts that it pressures you towards.
+
+    Then you let the mind off the hook while still staying watchful. You have to let it go because, for now, there is no problem. It doesn't make sense to forcefully pin down an animal when it's not misbehaving at the moment.
+
+    At some unknown point in time later—it doesn't matter how long; it could be a few minutes, or more, or less—you will realize that you fell under the grip of a hindrance again. Maybe the same one, maybe another; what matters is that the same background pressure is back, not the content of the thoughts. Then you remind yourself of the danger and suffering in acting out of a hindrance again, and put aside those thoughts (even though their content was not the problem, they were rooted in the pressure).
+
+    As you keep doing that, that pressure will begin to return less and less, until eventually there is not even a possibility for pressure or suffering underlying your thinking, regardless of what you think about. Not because you're being careful. And that's when the hindrances are gone for the time being. And then "peripheral awareness" will be effortless, and whatever context or phenomenon you try to discern will be seen rightly without distortion or abstract theorizing.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jagkak/discerning_unwholesome_intentions_behind/miqqjqt/)** _2025-03-20 03:58:32 *(in reply to a comment not included)*:
+
+    >Twice a month, I review my practice, reexamine the teachings, and question myself trying to be honest. Then, I actively engage with the underlying doubts about the practice, including "to figure out what you need to do". 
+
+    That sounds like a good strategy.
 
 ---
 
@@ -48,6 +90,15 @@ I am a bit unclear about how exactly the practice progresses. For example, I am 
     [This talk](https://www.youtube.com/watch?v=9voIhZij5Io), and [this newer one too](https://www.youtube.com/watch?v=D7OZOGbghTY), might help.
 
     When trying to spot the hindrances, don't just assume that specific thoughts are a problem (apart from the obvious unwholesome ones with lustful or hateful content). Instead, look in the direction of *why* (emotionally) you're thinking whatever it is that you're thinking, and you are more likely to find a hindrance there (i.e., the signs of the mind). If there's a compulsion behind that thinking, it's a hindrance. If not—if the mind is pursuing certain thoughts without being obsessive about them—everything is fine for now, but you still remain watchful.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j9ywt8/nibbana_is_the_ultimate_uncertainty/mi7shko/)** _2025-03-17 05:41:22 *(in reply to a comment not included)*:
+
+    >I think this is the right direction.
+
+    It might be. The catch is that you will have to remain watchful of whether your attempt not to let things take center stage is not the thing that you've put in the center stage, which would mean still acting out of a hindrance. That can easily end up happening if you develop a "rinse and repeat" sort of attitude towards the practice, as you'd begin to overlook your own intentions.
+
+    There needs to be a [balanced degree of effort](https://suttacentral.net/an6.55/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin#4.1). If you let your mind think freely without any prodding, it's too loose. If you're prodding it constantly, it's very likely too tight unless you were about to physically do something unwholesome.
+
+    The way to achieve that balance is to keep an eye on why you're engaging in a certain line of thinking/effort, never assuming that it's admissible in and of itself. And that would also prevent things from taking center stage; they can do so only if you become oblivious of your motivation for paying attention to them.
 
 ---
 
@@ -224,6 +275,9 @@ Thanks.
     All this is why I disagree with the conclusion that "verbal thinking and questioning" can be fully equated with vitakkavicāra. It doesn't automatically follow from anything in the Suttas.
 
     Furthermore, given that anyone can simply stop speaking at any moment, how would the interpretation you propose account for the fact that [speech is what ceases in the first jhāna](https://suttacentral.net/sn36.11/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin#2.16)? It does seem to leave that crucial point unaccounted for.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j7bh6c/upakkilesa_sutta_mn_128/miyidje/)** _2025-03-21 11:47:36 *(in reply to a comment not included)*:
+
+    No, because consciousness has also ceased for an Arahant in this very life.
 
 ---
 
@@ -336,6 +390,53 @@ Hence, the reason we say that we are *feeling* feelings or even emotions is just
     You also start to see the very concrete and inseparable relationship between restraint and understanding. Lack of restraint, sensuality, etc., *is* that "coarsing up" of things that would've otherwise remained as non-specific phenomena (that are nevertheless *real as such*). That then makes it even harder to recognize and stay with the actual manifestation of things (which is always peripheral to any particular details). Then even when you try to practice and see the Dhamma, you end up watching sensations and things of that nature, to the point of imagining that you can "observe" your five aggregates coming and going like things popping in and out of a screen.
 
     It's not at all an exaggeration to say that modern Buddhist tradition and practices move in the complete opposite of the right direction—towards *concealing* phenomena rather than revealing them—often invoking the buzzword "phenomenology" without understanding what it means. It's also not an accident that virtue has become an afterthought at best.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j158q4/knowing_background_phenomena/mir1jfl/)** _2025-03-20 05:30:56 *(in reply to a comment not included)*:
+
+    > It seems there are always countless perceptions in the background—for instance, the sound of chirping birds as I write this or the sensations of my body touching various surfaces.
+
+    Such things are not in "the background" at all; at least not the one we refer to when we use that term. You could say they're just an inconspicuous part of the foreground.
+
+    >For me, it seems like the foreground cannot be anything other than a perception—whether it’s one of sight, sound, smell, taste, touch, or imagination. Whenever I try to make one of the other aggregates the focus of my attention, I inevitably end up with a perception, usually in the form of a thought like, "there is pleasant feeling." This perception then acts as a stand-in for something that is elusive and enables me to think about it in meaningful ways.
+
+    This is accurate in a sense. But the fact that anything in the foreground tends to be a perception does not mean that all perception is in the foreground. 
+
+    >I would say that, while my thought about a current feeling isn't the feeling itself, that the "real" feeling is nevertheless experienced—there is no doubt that I am feeling fine at this moment.
+
+    For example, here the overall recognition of there being no doubt that you are feeling fine at this moment is also a perception. What you refer to as "my thought about a current feeling" is just an extremely coarse kind of perception (i.e., very much at the foreground) that's unnecessary to know how you're feeling.
+
+    >On the other hand, since rupa cannot be intended, felt, or perceived, I can never be as certain about it as I am about a perception, feeling, or intention. The necessary existence of rupa seems to be something I only can infer; for me it isn't an undoubtable phenomenon like a feeling and the perception which stands for it (which in turn comes with its own feeling and determinations) is everything I am able to know.
+
+    This is a common misunderstanding that leaves room for personality-view, as I explained [here](https://www.reddit.com/r/HillsideHermitage/comments/1jbq11r/comment/mi7qrxo/?context=3&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). 
+
+    Rūpa is not any more "concealed" or fundamental than feelings or perceptions. If anything, rūpa is *less* fundamental (hence the formless states). 
+
+    The right way to see it is that whatever you *refer to* or *designate* as rūpa is necessarily a perception-of-rūpa. But that's in no way different from any of the other four aggregates, including perception itself. 
+
+    If we only regard perception as foreground sense input that we can "observe" and "focus on" (e.g., sensations of touch), then yes, rūpa is certainly "behind" that kind of perception (the kind most people emphasize but is quite irrelevant). But perception seen on the right level—as [the knowing of] the characteristics of a thing of any subtlety at all—is more fundamental than rūpa, which is why it ceases much later in the series of samādhi attainments.
+
+    Self-view is gone when you've become unable to doubt whether there can be things apart from the perception of those things. Any notion of a "more real" rūpa (or any other phenomenon, including a soul or self) supposedly beyond your perception of it is itself just another perception. The alleged "more real" phenomenon is knowable to the very extent that its characteristics (such as its ambiguity and inaccesibility) are perceived, just as, on a coarse level, a blue towel is perceived as a blue towel. But one starts with a way too narrow preconceived notion of what "perceiving" is.
+
+    And this doesn't mean everything we experience is some sort of secondary fabricated reality, and the ultimate reality beyond perception is hidden from us. "The reality beyond perception (or other aggregates)," which many might think is Nibbāna, is perceived. *Structurally*, it cannot be otherwise, and not seeing that means not knowing Nibbāna, because there is ignorance and misconceiving of the aggregates.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j158q4/knowing_background_phenomena/miyan8x/)** _2025-03-21 10:45:33 *(in reply to a comment not included)*:
+
+    Certainly not.  Rather, whatever is *described* and *recognized* as the aggregate of rūpa is a perception of the aggregate of rūpa.
+
+    It may sound the same, but it very much isn't. Stating "rūpa is *perceived by* perception" involves a phenomenological  contradiction: experientially, you thereby tacitly and vaguely imagine (*perceive*) a "pure" aggregate of rūpa that is supposedly not yet perceived.
+
+    Of course, you wouldn't have perceptions without rūpa (e.g., your physical eyes there in the world structurally preceding the visual perceptions on account of them). But any recognition, image, description, characterization, concept, notion, idea, belief, impression, etc., of that rūpa because of which there is perception will be a perception.
+
+    The result of recognizing this is full dispassion towards form *and* perception. Not recognizing the extent of perception means leaving an unoccupied space outside of both form and perception (or perception and any other aggregate), and that space is where the self is.
+
+    >“Beings perceive the describable   
+    and are established upon the describable.  
+    Not comprehending the describable,   
+    they fall under the yoke of Death.
+
+    >But having comprehended the describable,   
+    he does not conceive one who describes,   
+    for he has nothing by which one could define him."  
+    >
+    >—[SN 1.20](https://suttas.hillsidehermitage.org/?q=sn1.20)
 
 ---
 
