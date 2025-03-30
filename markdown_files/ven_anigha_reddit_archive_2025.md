@@ -1,3 +1,588 @@
+**r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2025-03-28 16:37:04_
+### [New Wiki Page: Virtue and the Seven Precepts](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/)
+
+https://www.reddit.com/r/HillsideHermitage/wiki/index/
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/mkapbmp/)** _2025-03-29 02:38:36:
+
+    For some reason, the Sutta quotes had been cut short. References (searchable on the page): T 54, MĀ 133, AN 10.62, SN 3.25, MN 78, AN 7.67, AN 9.41, MN 61, MN 9.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/mkb4xfr/)** _2025-03-29 04:29:55 *(in reply to a comment not included)*:
+
+    > For incelibacy precept you say "Thinking sexual thoughts", as I understand here it should be "delighting in..."
+
+    That was deliberate. Unlike the others, sexual thoughts in particular cannot be had without automatic delight.
+
+    >- For some of the precepts you add "Deliberate" in front and others don't have this, maybe good to add this in front of all of them for consistency.
+
+    It was also deliberate for the ones that don't have it.
+
+    I've implemented the other suggestions. Thanks.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/mkbkt2v/)** _2025-03-29 07:01:21 *(in reply to a comment not included)*:
+
+    Surely you have practical things to take care of in daily life?
+
+    The point is not that you should try to keep yourself occupied. You should resolve to be without engaging activities some of the time (basically anything apart from walking and sitting) because that's when your internal states can become clearer. But unless you're pretty close to Arahantship, it will be hard to do nothing at all for more than a couple of hours a day without losing perspective and falling into wrong views/attitudes. It means you'll be forcing yourself to avoid neutral activities, thinking they must be rooted in craving somehow. By assuming you already see where craving is and that you just need to stick to that denial mechanically, you won't be looking for where it actually is.
+
+    Instead, look at the inclinations of mind enduring behind whatever you're doing and make that your guide. If an activity is unwholesome, you'll see that it's directly inclining the mind towards sensual desire, ill will, and eventually breaking precepts. It's pretty obvious when that's happening, but you look the other way and allow those pressures to gain momentum.
+
+    As I wrote, you will make mistakes and misjudge your intentions sometimes, but that's fine. That's the only way you will concretely learn the distinction between wholesome and unwholesome. It's not fine when the mistake entails breaking a precept, since that's full-blown carelessness that doesn't come out of a simple lack of clarity about your intentions.
+
+---
+
+**r/HillsideHermitage** | Posted by No-Spirit5082 _2025-03-28 14:04:23_
+### [Is this a correct way of practicing?](https://www.reddit.com/r/HillsideHermitage/comments/1jlvu6d/is_this_a_correct_way_of_practicing/)
+
+Ever since i started living by the 8 precepts (not to the letter but mostly) and practicing abandoning the attitude of sensuality, i find that i very naturally, or with little effort can be mindful in this sort of way - when im walking in the forest, im aware of my body moving, aware of sounds around me, wind blowing on my face, i feel present and my mind is naturaly quiet with little thought. 
+
+Should i intentionally cultivate this way of practice?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlvu6d/is_this_a_correct_way_of_practicing/mkaw8y0/)** _2025-03-29 03:25:19:
+
+    Sounds like precisely the wrong direction to go in. That quietude is probably based on the novelty of living a simpler life externally and will not last long. The pressure of the hindrances will become apparent again at some point (more likely than not, it's already there; it's just overlooked), and that's where the work lies.
+
+---
+
+**r/HillsideHermitage** | Posted by 4NTN8FP _2025-03-27 00:28:15_
+### [I'm trying to reach the point of keeping 8 precepts all the time.](https://www.reddit.com/r/HillsideHermitage/comments/1jkraix/im_trying_to_reach_the_point_of_keeping_8/)
+
+The precepts which I currently do not adhere to every day are the 6th and 7th. I've taken the approach of making small steps towards an eventual 100% adherence to these particular precepts. For example, I am intermittent fasting, but still eating after noon because I can't / don't eat breakfast. I am working on cutting out snacking and only eating at two meal times/day.  
+
+As for the 7th precept, it's the entertainment part that I'm still not 100% untangled from. I've gotten to where I will not engage with entertainment during the work week, and I don't ever listen to music. Watching shows is now almost always something I do with family but not on my own. 
+
+Not to overthink or be too impatient, but part of me is wondering if this approach might lead to a perpetual state of making small allowances here and there to break some of the precepts. Am I better off just going all in and not working gradually at it?
+
+Another thing, seeing that I am not a monastic, have a young child who enjoys watching movies and shows with me occasionally, and we eat dinner together... should I be more realistic and wait until her dependency on me is over and she is living out on her own before taking some of these renunciation precepts on more full time?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jkraix/im_trying_to_reach_the_point_of_keeping_8/mk4umyb/)** _2025-03-28 04:34:33:
+
+    My advice would be to first of all cease to watch shows out of your own interest. In such cases it's worse, and there isn't even an excuse for it. 
+
+    More broadly, it's important to have the right context towards the precepts. It's not about fulfilling an imposed duty but about abstaining from things that run counter to what you hope to develop. Thus, when it comes to the core of the training—not acting out of lust, ill will, or desire for distraction—your aspirations should not be guided by whether you're a monastic or not but by how high liberation is on your priority list. It's not about who you are now but about what you want to achieve.
+
+    So, work on developing a perception of danger in regard to breaking the precepts so that your reasons for keeping them become more accurate and solid. Aim to see for yourself *why* the very performance of those actions is *inescapably* unbeneficial\* for your own mind until that recognition is so concrete that it overshadows anything others might say or do. That's when you're established in the precepts (and that clarity can only be developed on the basis of already keeping them).
+
+    \* As discussed [here](https://www.reddit.com/r/HillsideHermitage/comments/1jhjnyg/comment/mj9zvr5/?context=3&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), the food and sleep precepts are not on the same level as the others, but if all the others are in place then it's well worth adding them.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jkraix/im_trying_to_reach_the_point_of_keeping_8/mk4w188/)** _2025-03-28 04:45:31 *(in reply to a comment not included)*:
+
+    True, but the often overlooked caveat is that both in the [male](https://suttacentral.net/sn17.23/en/sujato?lang=en) and [female](https://suttacentral.net/sn17.24/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin)\* cases, the lay disciples to emulate were anāgāmis.
+
+    So, in an attempt to emulate the conduct of those exemplary disciples, one would at the very least be celibate and abstinent from sensual pursuits in general.
+
+    \* There are no details on Khujjuttarā in the early texts, but since the other three disciples were all anāgāmis, she likely was too.
+
+---
+
+**r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2025-03-25 16:43:55_
+### [Seven Grains of Sand (The Suffering of a Sotāpanna)](https://www.reddit.com/r/HillsideHermitage/comments/1jjnv1u/seven_grains_of_sand_the_suffering_of_a_sotāpanna/)
+
+
+This is a translation of **[SĀ 1178](https://suttacentral.net/sa1178/lzh/taisho?lang=en&reference=main&highlight=false)** and **[SĀ-2:92](https://suttacentral.net/sa-2.92/lzh/taisho?lang=en&reference=main&highlight=false)**, two parallel discourses from the *Saṃyukta Āgama*—a collection of early Buddhist scriptures closely related to the Pali *Saṃyutta Nikāya*. Today, the *Saṃyukta Āgama* survives in three distinct Classical Chinese translations made by different groups at different times based on lost Indian originals. One (SĀ) is complete, while the other two (SĀ-2 and SĀ-3) are partial translations.
+
+Their content serves to illustrate a point often made in our teachings that I've attempted to clarify a number of times here. Namely, that the suffering a *sotāpanna* is liable to is minuscule compared to the *puthujjana*.
+
+In the same vein, further below I added a translation of [SĀ 891](https://suttacentral.net/sa891/lzh/taisho?lang=en), which unlike the Pali version [SN 13.10](https://www.suttacentral.net/sn13.10/en/sujato), makes no mention of "at most seven \[lives\]," nor depicts the Buddha with "seven grains" on his hand, instead using a different comparison altogether. As we shall see below, this appears to be an addition to the Pali rather than an omission from the Chinese.
+
+[SN 15.10](https://suttacentral.net/sn15.10/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin) is a Pali text that discusses stream-entry undeniably in the context of *saṃsāra*, and we can see that though the message might appear the same as SN 13.10 at first glance, there are subtle and important differences. Firstly, SN 15.10 (and its Chinese parallels) does not say anything about *suffering* proper; it focuses on the fact that, for a puthujjana, there is no end in sight to birth and death, while for a sotāpanna there is.
+
+On the other hand, both SN 13.10 and SĀ 891 agree in explicitly speaking not only in terms of  *dukkha* but also quantitatively, with SN 13.10 referring to "the mass of suffering that was exhausted and worn away", and SĀ 891 mentioning "various vast and immeasurable sufferings cut off at their root, unable to arise again" (adding the simile of a palm tree with its head severed that appears in several Pali Suttas, emphasizing that it's not merely an ability to overcome arisen suffering). Both compare this large quantity with a miniscule amount representing the suffering that remains for a sotāpanna.
+
+We can thus see that the distinction between ordinary person and stream-enterer is being presented from two angles that are not strictly equivalent: although the amount of births explicitly mentioned in SN 15.10 will in practice likely correlate with more net suffering, in theory one being could suffer the same "amount" over very many lifetimes in a higher realm than another being over a single lifetime in a lower realm. If a sotāpanna continued to suffer as much—or sometimes even more than—a puthujjana but had only seven existences remaining, this would of course still be an extremely significant achievement worth striving for. But through the lens of SĀ 891, the sotāpanna is no longer liable to anywhere near the same amount of suffering *at any given time,* even when encountering unfortunate circumstances (and this aligns with the [Arrow Sutta](https://suttas.hillsidehermitage.org/?q=sn36.6)). This also would by itself—without any fixed limit on future rebirths—be an extremely significant achievement worth striving for. In both cases, the deal presented in [SN 56.35](https://suttacentral.net/sn56.35/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#1.1) seems perfectly sensible. In reality of course, *both* of these are defining characteristics of a stream-enterer, and they both originate from one and the same cause: having understood the four noble truths. 
+
+Given that the language in SN 13.10 more closely reflects the latter aspect of stream-entry than the former, it seems that its original focus was on liability to suffering—similar to its closest equivalent, SĀ 891. However, at some point, there appears to have been an effort to shoehorn in the theme of rebirth found in SN 15.10 and other canonical texts that emphasize the seven lives aspect. This likely occurred because, as later interpretations—chiefly those of the Pali commentaries, whose spirit and underlying assumptions shape virtually all modern Theravādin traditions—became the norm, it may have even been sincerely viewed as a textual error for the original SN 13.10 to suggest that a stream-enterer's suffering had been reduced to _one_ sesame seed compared to the Himalayas.
+
+After all, the only reasons for thinking that SN 13.10 is about rebirth are **(1)** the phrase "that is to say, the fact of having seven lives at most (_yadidaṃ sattakkhattuparamatā_)," which appears at the very end of a passage that in itself does not refer to or hint at rebirth, meaning the phrase could easily be an insertion, and **(2)** the mention of specifically _seven_ mustard-sized pebbles (_satta sāsapamattiyo pāsāṇasakkharā_) rather than _one_—like the _one_ drop of water on the tip of a hair depicted in SĀ 891—which could also have been inserted later to align with the other mention of the number seven. If we remove these two arguably unnatural references to the number seven, the text becomes identical in essence to SĀ 891.
+
+What's more, since the comparison with the Himalayas was never substituted,  SN 13.10 ends up containing a technical flaw uncharacteristic of the Pali canon: equating suffering with time in saṃsāṛa and then comparing the puthujjana's suffering to the Himalāyas implies their time in saṃsāra, although very large, *has an eventual end.* But this is precisely not the case. In early Buddhism, [for as long as beings are ignorant and fettered by craving, there will not be an end of suffering for them](https://suttacentral.net/sn22.99/en/bodhi?lang=en&reference=none&highlight=true). The idea that all beings are inevitably destined for Nibbāna is a later development, made possible by very different notions of what Nibbāna and the path to it are. 
+
+This is one of a sizeable number of  instances where the Chinese version of a text appears to be more authentic than the Pali version, and this might be because the Āgamas, translated into Chinese around the time of Buddhaghosa (4th-5th century), were never as widely engaged with—and thus modified, intentionally or otherwise—as the Pali texts, which have been used by a living tradition for two millenia. This is because Mahāyāna dominated China for most of its history, apparently already since the 5th century, and thus these texts were likely scorned and labeled "Hīnayāna," yet they were still preserved. 
+
+It is also noteworthy that the bulk of the manuscripts used to compile the modern Pali canon apparently date back to no earlier than the 17th century. The congruency between the Chinese and Pali collections suggests that any changes made to the latter by the Theravāda tradition over the last millenium and a half were not so drastic so as to be glaringly obvious. However, as this example illustrates, there can be subtle yet impactful differences in meaning between the two versions of a discourse created by the presence or absence of just a couple of words.
+# Saṃyukta Āgama 1178
+
+Thus have I heard:
+
+At one time, the Buddha was residing in the Ambara Garden in the country of Mithilā.
+
+There was a Brahmin woman named Vasitthi, who had lost six sons in succession. Grieving for her children, she lost her mind, wandering naked with disheveled hair along the roads, until she arrived at the Ambara Garden in Mithilā.
+
+The World-Honored One was surrounded by a great assembly, delivering a discourse. When Vasitthi saw the Buddha from afar, she regained her senses, felt shame and embarrassment, and sat down modestly with her body drawn in.
+
+The World-Honored One said to Venerable Ānanda, “Take your outer robe and give it to the Brahmin woman Vasitthi so she may wear it and listen to the Dharma.” Venerable Ānanda, following the Buddha’s instruction, took the robe and gave it to her to wear.
+
+After the Brahmin woman put on the robe, she approached the Buddha, paid homage with her head at his feet, and sat to one side.
+
+The World-Honored One taught her, showing, instructing, illuminating, and gladdening her. Following the Buddha’s usual method of teaching—progressing step by step—she developed pure faith, took the Three Refuges, and, hearing the Buddha’s words, rejoiced and expressed delight. She then paid homage and departed.
+
+Later, when her seventh son suddenly passed away, the laywoman Vasitthi did not weep, grieve, or suffer in anguish. Her husband, the Brahmin, spoke a verse to her:
+
+*When your earlier sons died,*
+
+*Grief for them brought you suffering;*
+
+*Day and night without food or drink,*
+
+*Even to the point of madness.*
+
+*Now, with the seventh son’s death,*
+
+*Why do you feel no sorrow?*
+
+Vasitthi, the laywoman, replied with a verse to her husband:
+
+*Children and grandchildren number in the thousands,*
+
+*Born from the union of causes and conditions;*
+
+*Through the long night of time, they pass away,*
+
+*And so it is with you and me.*
+
+*Descendants and kin are countless,*
+
+*Born in various places,*
+
+*Where they devour one another in turn.*
+
+*Knowing the nature of birth,*
+
+*Why should one grieve?*
+
+*I have understood liberation,*
+
+*The nature of birth and death,*
+
+*And no longer feel sorrow,*
+
+*Thanks to entering the Buddha’s true teaching.*
+
+Her husband, the Brahmin, praised her with a verse:
+
+*Never before have I heard such a teaching,*
+
+*Yet now I hear it from you.*
+
+*Where did you hear the Dharma,*
+
+*That you no longer grieve for your son?*
+
+*Vasitthi replied with a verse:*
+
+*Today, the Perfectly Enlightened One*
+
+*Resides in the country of Mithilā,*
+
+*In the Ambara Garden,*
+
+*Forever free from all suffering.*
+
+*He expounds all suffering,*
+
+*The cause of suffering, its cessation,*
+
+*And the Noble Eightfold Path,*
+
+*Leading peacefully to Nirvana!*
+
+*He is my great teacher,*
+
+*And I deeply rejoice in his true teaching.*
+
+*Having understood the true Dharma,*
+
+*which can dispel your sorrows.*
+
+Her husband, the Brahmin, responded with a verse:
+
+*I too shall go*
+
+*To the Ambara Garden in Mithilā,*
+
+*Where the World-Honored One*
+
+*Will dispel my grief for my son.*
+
+The laywoman replied with a verse:
+
+*Behold the Perfectly Enlightened One,*
+
+*His body radiant like soft gold;*
+
+*He tames the untamed,*
+
+*Guiding countless beings across the sea of existence.*
+
+The Brahmin prepared a horse-drawn chariot and set out for the Ambara Garden in Mithilā. Seeing the World-Honored One from afar, his faith and joy increased, and he approached the Great Teacher.
+
+The Great Teacher spoke verses, opening his Dharma eye, revealing the Four Noble Truths—suffering, its cause, its cessation, and the path—directing him toward Nirvana. He immediately saw the Dharma and attained the non-return state. Having understood the Dharma, he requested ordination.
+
+The Brahmin was then ordained. He dwelt alone in seclusion, contemplating diligently, and eventually attained Arhantship. The World-Honored One declared: “On the third night, he attained the Three Knowledges.” 
+
+After attaining the Three Knowledges, the Buddha instructed him: “Send the charioteer back with the chariot to inform Vasitthi, the laywoman, to rejoice. Say to her: ‘The Brahmin went to see the World-Honored One, gained pure faith, and devoted himself to the Great Teacher. The Buddha taught him, opened his Dharma eye, revealed the Noble Truths of suffering, its cause, its cessation, and the Noble Eightfold Path, leading to Nirvana, and he attained the non-return state. Having understood the Dharma, he sought ordination. The World-Honored One declared: “On the third night, he fully attained the Three Knowledges.”’”
+
+The charioteer, following the instruction, returned swiftly. When Vasitthi, the laywoman, saw the charioteer returning with an empty chariot from afar, she called out and asked: “Did the Brahmin see the Buddha? Did the Buddha teach the Dharma, open his Dharma eye, and reveal the Noble Truths?”
+
+The charioteer replied: “The Brahmin saw the World-Honored One, gained pure faith, and devoted himself to the Great Teacher. The Buddha opened his Dharma eye, taught the Four Noble Truths, and he attained the non-return state. Having understood the Dharma, he sought ordination and now contemplates diligently. The World-Honored One declared: ‘On the third night, he fully attained the Three Knowledges.’”
+
+The laywoman rejoiced in her heart and said to the charioteer: “The chariot and horses are yours, and I grant you an additional thousand coins for delivering this good news: ‘The Brahmin has become a monk and attained the Three Knowledges,’ which brings me great joy.”
+
+The charioteer replied: “What use do I have for chariots, horses, or money? Return the chariot, horses, and money to the laywoman. I will now return to the Brahmin and follow him in ordination.”
+
+The laywoman said: “If that is your intention, go quickly. Soon you too will attain what he has—the Three Knowledges—and follow him in ordination.”
+
+The charioteer said: “So it shall be, laywoman! Just as he ordained, so shall I.”
+
+The laywoman said: “Your father has ordained, and you will follow him. Soon I too will go after you. Like a great dragon soaring freely in the open sky, with other dragons, dragon sons, and dragon daughters following, so too will I, taking up the robe and bowl, living simply and easily satisfied.” The charioteer responded: “Laywoman! If it is so, your aspiration will surely be fulfilled. Soon I will see you with few desires, content, carrying robe and bowl, eating almsfood discarded by others, with shaven head and dyed robes, having cut off attachment to form, feeling, perception, and consciousness, free from greed and bondage, and extinguished all outflows.”
+
+The Brahmin, his charioteer, Vasitthi the laywoman, and her granddaughter Sundarī, all ordained and reached the end of suffering.
+
+# SĀ-2.92
+
+Thus have I heard:  
+
+At one time, the Buddha was staying in the Amrapālī Grove in the kingdom of Mithilā.  
+
+At that time, a Brahmin woman named Vāsitthī had recently lost her sixth child. Overwhelmed by grief for her lost child, her mind became disordered, and she ran about naked and frantic, eventually arriving at the Amrapālī Grove in Mithilā.  
+
+At that moment, the Blessed One was surrounded by a vast assembly, teaching the Dharma.  
+Then, Vāsitthī, the Brahmin woman, saw the Blessed One from a distance and regained her composure, squatting on the ground in shame.  
+
+The Buddha said to Ānanda:  
+
+“Give her a nun’s robe, and bring it here; I will teach her the Dharma.”  
+
+Ānanda received the command and provided the nun’s robe.  
+
+Vāsitthī, the Brahmin woman, quickly put on the robe and approached the Buddha, bowing her head to his feet.  
+
+At that time, the Blessed One taught her various aspects of the Dharma, showing, instructing, and delighting her, as the Buddhas of old had done—speaking of generosity, morality, and the heavens, explaining that desire is the root of impurity, suffering, and affliction, while liberation is true joy.  
+
+Then, the Blessed One expounded the Dharma broadly, knowing her sincere wish to free herself from the fetters of hindrance, and taught her the Four Noble Truths: suffering, its origin, its cessation, and the path.  
+
+This Vāsitthī was intelligent and insightful, able to grasp the teachings upon hearing them, like a clean white cloth easily taking dye.  
+
+In that very moment, seated there, she perceived the Four Noble Truths, saw the Dharma, attained the Dharma, understood it, and crossed beyond doubt to the other shore. She realized the Dharma herself, no longer relying on others’ teachings, her faith unshaken, fearless in the Buddha’s doctrine. Rising from her seat, she joined her palms, bowed to the Buddha, and said: 
+
+“Blessed One! I have now crossed beyond the three evil realms. For the rest of my life, I take refuge in the Three Jewels as a lay follower, vowing never to kill, maintaining pure faith, refraining from theft, sexual misconduct, false speech, and intoxicants—such is my commitment.”  
+
+Then, having heard the Dharma, the woman rejoiced, bowed to the Buddha, and departed.  
+
+At a later time, Vāsitthī lost her seventh child, yet she felt neither sorrow nor distress, nor did she dwell on it or run about naked and frantic as before.  
+
+At that time, her husband, the Brahmin Bharadvāja, spoke in verse, asking: 
+
+*“When you lost your children before,*  
+*You mourned with unbearable anguish,*  
+*Your heart entangled in sorrowful memories,*  
+*For a long time you neither ate nor drank.*  
+*Now, with your seventh child fallen ill and passed away,*  
+*You, a devoted mother,*  
+*Why do you not grieve or dwell on it?”*  
+
+Then Vāsitthī replied to her husband in verse:  
+
+*“Through countless eons,*  
+*I have taken bodies without end,*  
+*Due to attachment and love,*  
+*My children and descendants are beyond count.*  
+*In every place I took birth,*  
+*Losses were never few,*  
+*In the vast wilderness of birth and death,*  
+*I have endured endless suffering.*  
+*I have understood birth and death,*  
+*The destinations of coming and going,*  
+*Thus, today,*  
+*I harbor no grief or attachment.”*  
+
+Her Brahmin husband responded in verse:  
+
+*“What you have said,*  
+*I have never heard before.*  
+*From whom did you gain this insight,*  
+*that you are able to cast aside your sorrows?”*  
+
+Then Vāsitthī answered in verse:  
+
+*“Brahmin, know this:*  
+*In days past, the three Buddhas,*  
+*In Mithilā, in the Amrapālī Grove,*  
+*Taught the cessation of all suffering,*  
+*And the path to end it,*  
+*Cultivating the Eightfold Noble Path,*  
+*Leading to peace and Nirvana.”*  
+
+The Brahmin then spoke in verse:  
+
+*“I, too, now wish to go*  
+*To the Amrapālī Grove,*  
+*To ask the Blessed One*  
+*To relieve my pain of longing for my child.”*  
+
+Vāsitthī replied in verse:  
+
+*“The Buddha’s body shines like pure gold,*  
+*His halo radiates a fathom around,*  
+*He has forever severed all afflictions,*  
+*Ferrying beings across the stream of birth and death.*  
+*Such a great guide,*  
+*Able to tame all,*  
+*Transforms all sentient beings,*  
+*Thus he is called the True Deliverer.*  
+*You should hasten now*  
+*To the presence of that Blessed One.”*  
+
+Hearing his wife’s words, the Brahmin rejoiced and leapt with joy. He immediately prepared his chariot and went to the grove. Seeing the Blessed One’s majestic radiance from afar, his reverence doubled.  Upon arriving, he bowed and sat to one side.  
+
+
+At that time, the Blessed One, with his mind-reading ability, observed the man’s earnest heart and immediately taught him the Four Noble Truths—suffering, its origin, its cessation, and the path—along with the Eightfold Path and other teachings leading to Nirvana.  
+
+Hearing this Dharma, the Brahmin awakened to the Four Noble Truths, attained insight into the Dharma, and sought to become a monk. The Buddha permitted it.  
+
+After becoming a monk, he practiced diligently without negligence, and within three nights, he attained the three higher knowledges.  The Buddha declared him an Arhat, thus renaming him “Well-Born.”  
+
+Having attained the three knowledges, he instructed his charioteer, Bharati, saying:  
+
+“Take the jeweled chariot you drove and return home. Tell Vāsitthī:  
+‘You should rejoice for me.  Why? Because the Buddha has taught me the Four Truths, allowed me to become a monk, and I have gained the three knowledges. Therefore, you should have pure faith in me.’”  
+
+The charioteer, Bharati, returned home with the chariot. Seeing it return, Vāsitthī asked the charioteer:  
+
+“Did the Brahmin meet the Buddha?”  
+
+The charioteer replied:  
+
+“The Brahmin, while seated, perceived the Four Noble Truths. Having seen them, he sought to become a monk, and the Buddha allowed it. After becoming a monk, within three nights, he attained Arhatship.”  
+
+Then the woman said to the charioteer:  
+
+“You have brought this good news. I shall reward you with a horse and a thousand gold coins.” 
+
+The charioteer replied:  
+
+“I do not need a horse or gold coins. I wish to go to the Buddha and hear the wondrous Dharma.”
+
+Vāsitthī said:  
+
+“If that is so, it is truly excellent.  If you become a monk, you will quickly attain the path to Arhatship.”  
+
+Vāsitthī then spoke to her daughter:  
+
+“You should manage the household well and enjoy the five sense pleasures. I wish to become a nun.”  
+
+Her daughter, Sundarī, replied to her mother:  
+
+“My father has abandoned the five sense pleasures to seek the path as a monk. I, too, shall follow and become a nun, letting go of attachment to my brothers and kin. Just as a great elephant departs and the young elephant follows, so I will follow, becoming a nun, holding an alms bowl and begging for food.  I can practice the easy-to-sustain way, not the difficult one.”
+
+Vāsitthī said:  
+
+“What you desire is truly good and auspicious. Your wish will surely be fulfilled.  
+I see that soon you will exhaust all desires and be free from all fetters.”  
+
+Thus, the Brahmin Bharadvāja, Vāsitthī, and Sundarī all followed one another, becoming monks and nuns together, each attaining the end of all suffering.
+
+# SĀ 891
+
+Thus have I heard:  
+
+At one time, the Buddha was staying in Śrāvastī, in the Jeta Grove, in Anāthapiṇḍada’s park.  
+
+At that time, the Blessed One said to the monks:  
+
+“Suppose there is a lake, vast and long, fifty yojanas wide and equally deep.  
+If a man were to dip the tip of a single hair into that lake water,  
+what do you think, monks? Is the water in the lake greater,  
+or is the drop of water on the tip of the man’s hair greater?”  
+
+The monks said to the Buddha:  
+
+“Blessed One! The drop on the tip of the man’s hair is exceedingly small, while the lake water is immeasurable, thousands, millions, billions of times greater—there is no comparison.”  
+
+The Buddha said to the monks:  
+
+“For one who fully sees the truth, with perfect right view,  the disciples of the Blessed One who realize the fruit of truth, with unwavering certainty, have at that moment already severed and understood, cutting off the root—like chopping off the head of a palm tree—so it will not grow again. The manifold sufferings they have severed are vast and immeasurable, like the water of that great lake, while the suffering that remains is like the drop of water on the tip of a hair.”  
+
+Having spoken this sutra, the monks, hearing what the Buddha taught, rejoiced and put it into practice.  
+
+Just as with the drop of water on the tip of a hair, so it is with the drop on the tip of a blade of grass or a twig.  
+
+Just as with the water of the lake, so it is with the Sarodattagā, the Ganges, the Yamunā, the Sarabhū, the Irāvati, the Mahī, and the great ocean—likewise it is said.  
+
+Having spoken this sutra, the monks, hearing what the Buddha taught, rejoiced and put it into practice.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jjnv1u/seven_grains_of_sand_the_suffering_of_a_sotāpanna/mjsdeu2/)** _2025-03-26 05:20:40 *(in reply to a comment not included)*:
+
+    >Does this perhaps imply that number of 7 is more of an approximation, similar in the sense to how we say people in our current era are expected to live between 70-80 years (with of course some people dying prior or longer to this estimate)?
+
+    That's not unlikely. The number seven is everywhere in the Suttas, often in oddly specific ways. So in this context too, it could just be a way of saying "several." And of course, it's not that a sotāpanna *will* have seven existences. That's just if they are maximally negligent and probably of slow understanding too. 
+
+    >But if that perception of seeing the conditions for practice doesn't change, then wouldn't it be possible for a sotapanna to be stuck at their stage of ignorance through indefinite lifetimes until they finally make the decision to pursue the path?
+
+    No, because they would at times have to get weary of the little suffering they're still subject to (which compared to an Arahant or even anāgāmi is not insignificant). Especially in the human realm that weariness would arise rather frequently, and so they would do the work at least intermittently. So even if they're very heedless, it's not like it would be possible to put the Dhamma aside indefinitely. Otherwise, there would indeed be no reason for a guaranteed end.
+
+    > On the other hand, with the mind inclining towards renunciation (the stream), it is said that they will be carried by it even if they want to resist at certain points. So I suppose this culminates into my other question: what would prevent the sotapanna from swimming indefinitely against the stream? Evidently they are not directionless (samsara), but at the same time, it seems possible that they could resist the idea of pursuing renunciation indefinitely. What would eventually make them "tire out" and stop trying to swim against the stream?
+
+    Only a puthujjana can deliberately reject Nibbāna, [since that requires holding a wrong view](https://suttacentral.net/mn115/en/nyanamoli-thera?lang=en&reference=main&highlight=false#nya12). 
+
+    If a sotāpanna is knowingly negligent, they simply lack the motivation to make further effort—they don't ever actually *want* to postpone Arahantship. You can lack the motivation to stop eating junk food even though you categorically don't want to be overweight and would shed all the fat immediately if you could. 
+
+    And that's what would, even in the most negligent of all cases, prevent an indefinite stalling—right view. Being unable to hold the view that being overweight is fine (that craving and existence are worth maintaining), which the average puthujjana still has. A learned puthujjana can abandon that view, but without understanding for themselves what craving and existence are ([which comes from seeing the signs of the mind](https://suttas.hillsidehermitage.org/?q=an6.68)), they won't be carried by the stream and are liable to ruin still—even to going back to the old view at some point.
+
+---
+
+**r/HillsideHermitage** | Posted by SevereJury8 _2025-03-25 03:04:45_
+### [Question about the 8 Precepts & Hunger from Asthma Medication](https://www.reddit.com/r/HillsideHermitage/comments/1jj9t7f/question_about_the_8_precepts_hunger_from_asthma/)
+
+
+Hello,
+
+I’ve recently started practicing the 8 precepts, and I’ve run into a bit of a dilemma I was hoping to get some guidance on.
+
+I have asthma and need to take a steroid medication regularly. One of the side effects is a noticeable amplification of hunger — it’s not constant, but when it comes on, it feels quite sharp and intense. I’ve been doing my best to stick to the one-meal-a-day rule, but this side effect sometimes makes that challenging.
+
+My question is: how should I work with this in a way that stays in line with the spirit of the precepts and sense restraint?
+
+On one hand, it feels like I’m genuinely hungry at times, and eating a second small meal (late morning or early afternoon) seems like it would relieve a physical need rather than indulge a craving. On the other hand, I don’t want to start bending the rules and convincing myself of exceptions every time something gets uncomfortable — especially if that discomfort is workable with patient endurance.
+
+Is there a way to distinguish between eating to relieve a medication-induced hunger and eating out of desire? Can one eat twice a day without falling into craving, or is that considered a violation of the precept in formal practice regardless of the reason?
+
+Appreciate any guidance or reflections on how to skillfully navigate this.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jj9t7f/question_about_the_8_precepts_hunger_from_asthma/mjlrzq6/)** _2025-03-25 04:26:35:
+
+    If the hunger is medication-induced, then it doesn't signify that your body actually requires calories, so you could just see it as harmless discomfort to learn how not to resist. 
+
+    But I wouldn't try to be perfectly strict with this precept yet, especially if you don't see yourself being fully established in all the other, much more essential ones. There's also nothing about dawn and noon that directly relates to virtue; the time in between was most likely just the most easily recognizable, reasonably-sized period back when there were no clocks. And even for monastics, any amount of meals is technically allowable within that period.
+
+    On top of that, monks initially ate all throughout the day, and a higher percentage of them were Arahants compared to later times (which is precisely why rules had to be introduced). That doesn't mean you shouldn't strive to keep the food precept, but it just goes to show that there's nothing inherently unwholesome about eating at any time of the day. It's just more likely to lead to wholesome states to not do so.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok-Addition-7759 _2025-03-24 16:20:59_
+### [Why ever eat sweets?](https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/)
+
+One ought to be eating for the sake of this body, not for pleasure, just to keep this lump of matter healthy and comfortable. The pleasant contacts only last so long. 
+
+Wouldn't choosing to eat sweets, desserts, unhealthy stuff while healthier options are present categorically be acting out of sensual desire? Do all the Hillside monks eat in this manner? Probably not.  I wouldn't fault them for however they eat, though, because I'm probably just missing something.  I cannot imagine one who is properly eating in moderation according to my understanding of the way the Buddha spelled it out and the way Hillside teaches it reaching for an unhealthy option over a healthy one.  And moderation(in the usual sense) isn't the middle way, so that's not the answer here, right? 
+
+But then again, I've heard Ven. Nyanamoli disparage the practice of not eating sugar. Probably because it's done for the wrong reasons and means you don't have to think about your intentions.  The good intentions to reach for the sugar seem very limited. 
+
+For all my issues with food I've come to the conclusion that one meal a day is best and I can get all the calories I need for my lifestyle.  That being the case nothing more is needed, and to eat more than that one meal would almost always be craving.  I want sweets more than anything else, and will restrain myself even with fruit if I think the mind is craving them too much.  This craving towards sweetness is probably stronger in me than most people. I might just have to give up sweets altogether and maybe even fruit for some time to help things normalize.  I know abstaining from certain foods for periods of time can permanently alter your cravings and relationship with them.  As things stand, my mind is untrustworthy regarding eating sweet things and that needs to be fixed, and at this point I don't want to eat the stuff if there's any doubt at all.  It's certainly not always acting out of craving to eat fruit, and the tonics, while unnecessary for most individuals, do have their place if you're sick or truly famished or do hard work.
+
+I've struggled with the triad of caffeine, chocolate, and sugar for a long time. I could go without two at a time, but always needed one.  When I tried to abstain from all three I always fell back.  I'm beyond caffeine and chocolate cravings now, but sugar remains and is more complicated. This really does seem the point for me where if I abstain from all three I suffer properly, without it being adulterated by management.  
+No topping up the body with what the 21st century thinks is normal to consume, or in amounts it thinks is normal.
+
+Edit: Eating them as part of the one meal is definitely the optimal way to go. Eating sweets as part of a meal is always better for your teeth too. Venerable Subhara brings up some legitimate points about the food situation in monasteries in Asia(although I don't think curd being available justifies adding jaggery to it).  And having been able to previously fully give up sugar, I can say that there is a huge difference with the way "the animal" behaves if you're eating even a little sugar and your mind is able to expect it each day(and get "topped up") and not eating any.  The mind expecting something sweet at the end of it all is the main problem with Samsara after all, but it's just suffering arising and ceasing. I will say that this has been a point of pride for me, not eating sugar--until I fell from that one day a few months ago and over-indulged and have been struggling with it like an addiction since then.  It was a good point of learning at least, seeing that I basically didn't train the mind at all in regard to it before, I just kept it pinned down until it gave up.  As a former drug addict, I can see that the mindset of looking or hoping for a high has remained and its just shifted its object.  A few times now when I've had shifts in my attitudes towards food and its purpose, those nights I would dream about drugs.
+
+Edit 2: My thoughts about healthy and unhealthy could use some recalibration. All these veggies are so unnecessary spiced anyway and I often genuinely go for sweeter things because they're generally easier to digest. It needs to be approached with discernment each time.  I can also trust my gut when it doesn't want something. If my stomach is telling me a bad feeling when I look at and consider certain foods I shouldn't eat them because my stomach is always right and I will feel uncomfortable or get sick from them. It doesn't necessarily follow everything it says "yes" to is good for me to eat, though.
+
+A temporary break is also probably a good idea. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjlp3fd/)** _2025-03-25 04:03:41:
+
+    If you feel that for you personally the mind cannot remain stable when eating sugary foods (or engage in any particular action that isn't against the precepts), then sure, avoid that *for the time being*. But that's not a justification to develop the view that those things have to be rooted in craving. By holding such views, you obstruct yourself from concretely understanding what craving is and realizing that, for example, craving for sweets can come and go and is not a fixed phenomenon. Seeing craving as something that will always be there in regard to certain things implies thinking about it in near complete abstraction, a common mistake that is the main underpinning of self-mortification, i.e., the same problen in a new costume.
+
+    Apart from the precepts, progress is not measured by how many things you never do but by how little your mind cares about doing anything in particular. That doesn't mean you will never do anything, but that whatever you do will never be rooted in obsession internally and *thus* always be moderate and dispassionate.
+
+    So consumption of sweets (or of anything) would be fine if and only if your mind is internally uninvested and not by externally having a "justification" like being sick or famished (obsession can still be there regardless of that justification, and one would then feel absolved from restraining it). And people make mistakes on both accounts: they assume their mind can remain internally uninvested *always* and thus stop actually inspecting whether that's the case on every occasion, or they assume that the external reasons are the measure, and equally stop inspecting their minds internally.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjs0xs1/)** _2025-03-26 03:39:16 *(in reply to a comment not included)*:
+
+    >I've also heard the instruction from HH to avoid unsuitable food.
+
+    Never literally, as far as I recall. Surely it was in some figurative sense.
+
+    >These aren't the signs of the mind, right?
+
+    Certainly not.
+
+    >Is there a way to purify these images?
+
+    Yes, these two recent talks go into it ([1](https://www.youtube.com/watch?v=D7OZOGbghTY)) ([2](https://www.youtube.com/watch?v=D7OZOGbghTY)). In general, make sure you're not trying to forcefully make them go away, as they're clearly not your direct doing. All you have to do is let your attention rest everywhere else but *there* for as long as such images are forcing themselves on you. And it doesn't matter how much they're forcing themselves on you; what matters is that *you* don't welcome them (and thereby implicitly ask them to stay).
+
+    >Would results like sexual or wet dreams from consuming those foods be grounds to consider them unsuitable, as I have in the past? 
+
+    No, because food cannot ultimately be the issue. Whatever sexual desire those foods can "trigger" wouldn't be there if you sufficiently and comprehensively practice restraint in regard to unwholesome images. It's like a fire that needs to be kept alive in some way; otherwise it would already have gone out.
+
+    > It's hard enough as it is trying not to interpret them, or to not think of them as relating to some sort underlying mental structure, like being the appearance of a "real and existing but outside of experience" subconscious thing. 
+
+    Such directions would also count as "opening the door" for the images and thus need to be restrained as well.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjy8ttc/)** _2025-03-27 02:54:40 *(in reply to a comment not included)*:
+
+    At some point you have to upgrade your notion of unwholesome images to anything that is coming from the pressure of a hindrance, not just things rooted in blatant lust or ill will. And in order to be right, the non-engagement would have to be directed towards the hindrance aspect and not just be a blanket preference for less activity, since that preference itself could well be rooted in a hindrance.
+
+    When you take it far enough, that's basically how you end up practicing absorption rather than overcoming the hindrances: valuing less activity in and of itself with little to no discernment of what the unwholesome activities are.
+
+---
+
+**r/HillsideHermitage** | Posted by Silatigi1 _2025-03-23 15:20:50_
+### [Different levels of understanding of the aggregates. Evolution of your understanding through time.](https://www.reddit.com/r/HillsideHermitage/comments/1ji1nal/different_levels_of_understanding_of_the/)
+
+Hello everyone,
+
+I found this comments on another forum and would be interested to get your reaction to it, and your first person understanding of your own aggregates too, how this understanding has evolved throughout your years of practice, and how the teaching of Hillside Hermitage has changed your view on these and continue to do so. I'm especially interested in what happens to your first person phenomenological experience once sense restraint has been established for years and years compared to before it was so established.
+
+"Re: A Review of Ven. Ñānavīra's "Notes on Dhamma"
+
+Post by chownah » Wed Jun 10, 2015 3:19 am
+
+The totally uninstructed one just assumes a self....does not see aggregates etc. The suttas address this ignorance.
+
+The barely instructed one knows of the aggregates and so denies the self....but fabricates an "ongoing being" by assembling the aggregates into a cohesive uber-aggregate which persists through time and calls it a "being". Basically the barely instructed fabricates another kind of self with the main constituent being the aggregates....still it is a "self". The suttas address this ignorance.
+
+The bit more than barely instructed one denies the self called "ongoing being" (and the "self" without recourse to the aggregates) and fabricates ideas of a bunch of "ongoing aggregates" which each persist individually and act together over time....basically a bunch of little selves working together. The suttas address this ignorance.......
+
+And the bit more than a bit more than barely instructed one sees the fabricated and lacking of self quality of the foregoing things but fabricates the six sense bases and their objects as persisting through time and basically thinks of them as persisting through time and each being even smaller selves than aggregates and fabricates them as objects and thus as selves....and here it is often the intellect which is latched onto and when this happens it is not uncommon for the bit of more than a bit of barely instructed one to slip on that slippery slope and come to rest right where they started with the deluded "discovery" that the intellect is "me".....(note: when at the aggregate stage they often grasp onto consciousness and slide down the same slippery slope to arrive at "me".)
+
+As I see it these are some of the perils of our fabricated existences and the suttas address all of them because there are different people at various places and they all need instruction so there is instruction there which will better fit those various people. The suttas we are discussing address the second delusion of my list."
+
+Chownah"
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ji1nal/different_levels_of_understanding_of_the/mjll671/)** _2025-03-25 03:34:38 *(in reply to a comment not included)*:
+
+    >yes yes and yes. This is a great motivation to keep them. In a way my curiosity will be helpful to make me keep the precepts (seeing the danger in the slightest fault),
+
+    That's not quite how it works. Maybe reflecting on things like sickness, aging, and death would "help" you keep the precepts better by giving you a sense of urgency, but reflecting on concepts that will at this stage inevitably remain abstract like the five aggregates and dependent origination will not. Hence the Buddha recommended everyone regardless of their status to practice the former kind of contemplation, while the latter he generally only taught to monastics.
+
+---
+
+**r/HillsideHermitage** | Posted by No-Spirit5082 _2025-03-22 21:51:37_
+### [Can someone please explain the purpose of sleeping on the floor and the purpose of eating one meal a day?](https://www.reddit.com/r/HillsideHermitage/comments/1jhjnyg/can_someone_please_explain_the_purpose_of/)
+
+I have taken up eating once a day (in the afternoon/evening) and sleeping on a yoga mat on the floor, but i dont yet understand the purpose of this. Can someone please explain? Or refer to a video where this is explained?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jhjnyg/can_someone_please_explain_the_purpose_of/mj9zvr5/)** _2025-03-23 07:40:10:
+
+    The purpose of eating one meal a day is that it will concretely highlight the difference between eating for pleasure, which goes almost unnoticed when you allow yourself to eat whenever you want, and [eating for the sake of staying alive and able to practice.](https://suttacentral.net/sn12.63/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=true&script=latin#2.1). 
+
+    You can think about it abstractly as much as you wish, but as long as you're eating at leisure, it's much harder to see that difference. Also, more pragmatically, someone striving for the cessation of craving should have no problem with the very mild discomfort of not eating for a measly 24 hours; otherwise the effects of their practice are highly questionable to say the least. Many people would see they're not nearly as advanced as they think if they realized that progress in the practice entails *actually* not being affected by unpleasant feelings. 
+
+    It also won't inherently lead to weight loss. It's only hard to eat enough the very first few days. Most monks are overweight.
+
+    As for sleeping on the floor, a comfortable mattress generally induces you to sleep more than is actually necessary, and takes the experience of sleeping more in a sensual direction than it needs to be.
+
+    None of this means you should avoid all comfort; that attitude quickly becomes self-mortification. But these two ways of relinquishing comfort are too mild to take one in that direction by themselves. They are thus generally in line with the middle way. Still, the other six precepts are vastly more important; eating one meal a day and sleeping on the floor while not keeping the others (including celibacy) would be like giving up vaping but not cigarettes.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2025-03-20 14:36:56_
+### [Question about attachment](https://www.reddit.com/r/HillsideHermitage/comments/1jfqd3v/question_about_attachment/)
+
+In one of the talks Ajah mentions "can you suffer if you don't want anything and don't have anything?" naturally I imagine anyone would answer "no", that sounds like freedom. So I thought "can I not want anything and not be attached to what I have?" since that's what's causing me pain. Acquire only what is necessary as means for something else that is necessary. Like working, buying food or transport to be able to survive and not to delight in acquisition.
+
+I assume monks also have plenty of things in a monastery, but they don't delight in those things, don't think about acquiring more even if the level of engagement could be the same as a layman has in the world. Like for example a person could acquire books for the pleasure of acquisition or someone else could have what is strictly necessary to support their goal. The level of engagement is the same.
+
+I feel like my post partially answers the question then it becomes why do anything?, why try to change anything? So far it worked without changing anything and just doing things and experiencing the results.
+
+Why change anything externally if that is not where the freedom is?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jfqd3v/question_about_attachment/mja5vuv/)** _2025-03-23 08:43:32:
+
+    >Why change anything externally if that is not where the freedom is?
+
+    Because certain external conditions are not as conducive to achieving internal freedom, and at a certain point (anāgāmi) they would become a categorical obstacle.
+
+    Nevertheless, working and having possessions is not too big of an issue, and ordination is not strictly necessary to make significant progress on the path. What is necessary is not to engage in actions of lust, aversion, and distraction—*that* is now one's internal non-freedom that they keep cultivating, and, indeed, the external circumstances do not intrinsically force you to not be free (i.e., do such things).
+
+---
+
 **r/HillsideHermitage** | Posted by obobinde _2025-03-19 18:50:51_
 ### [If we're trying to remove the ownership of the sense of self, who or what is doing the removing ? What or who is owning the sense of self ? Is it the puggala/individual ?](https://www.reddit.com/r/HillsideHermitage/comments/1jf4ion/if_were_trying_to_remove_the_ownership_of_the/)
 
@@ -278,6 +863,9 @@ Thanks.
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j7bh6c/upakkilesa_sutta_mn_128/miyidje/)** _2025-03-21 11:47:36 *(in reply to a comment not included)*:
 
     No, because consciousness has also ceased for an Arahant in this very life.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j7bh6c/upakkilesa_sutta_mn_128/mj9y0sm/)** _2025-03-23 07:20:25 *(in reply to a comment not included)*:
+
+    Does [this](https://www.reddit.com/r/HillsideHermitage/comments/1j158q4/comment/mj9xjbh/?context=3&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) answer the question?
 
 ---
 
@@ -437,6 +1025,22 @@ Hence, the reason we say that we are *feeling* feelings or even emotions is just
     for he has nothing by which one could define him."  
     >
     >—[SN 1.20](https://suttas.hillsidehermitage.org/?q=sn1.20)
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j158q4/knowing_background_phenomena/mj9xjbh/)** _2025-03-23 07:15:18 *(in reply to a comment not included)*:
+
+    The thing is that the aggregates that you have now are *in themselves* the opposite of Nibbāna (the five aggregates of assumption or *pañcupādānakkhanda*), so any effort to figure out how Nibbāna might "fit" within the aggregates you have now would be based on a wrong premise. 
+
+    As you said, the whole world is within the aggregates (of upādāna for puthujjana), so even the most careful and precise thoughts about anything, including Nibbāna and Arahantship, are also within them. So it is by purifying thoughts and mental images regardless of their content (past, present, or future, coarse or subtle, mundane or about Dhamma, etc.), from craving and assumption that you would achieve Nibbāna. Hence it all boils down to freeing this very mind from the five hindrances through the gradual training, not to figuring things out in abstraction. That's genuinely the only way that these things can be grasped *even intellectually*. 
+
+    Only if you abandoned the five hindrances to a good extent would you have a basis to see for yourself what the difference is between the presence and absence of upādāna, and thus what the way to fully abandoning it is. That's why it's a prerequisite for any noble attainment.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j158q4/knowing_background_phenomena/mjrwwor/)** _2025-03-26 03:11:41 *(in reply to a comment not included)*:
+
+    >What if hindrances are abandoned only for short periods? Return back because the mind have strong habit to seek the satisfaction or safety outwardly. Distraction is more interesting than calmness for an animal - how to train it, what to show it?
+
+    To the extent you abandoned the hindrances, the mind should be more pliable and obedient. So even though desire for distraction arises, you would be able to easily direct the mind away from it. But it might take time until you can reach such a degree of pliability, so for the time being, what you're describing is natural. The initial sense of urgency and diligence is driven by the amount of suffering there is, so when the hindrances diminish, that diminishes too.
+
+    What you want to ensure for now is that the "returning back" never gets to the point of unwholesome activities, i.e., things that are blatantly rooted in greed, ill will, or sensual distraction. Then you'll never stray too far into the hindrances and will be able to continue more or less where you left off.
+
+    Without the necessary training in seeing the signs of your mind, if you tried to force it to stay put in seclusion then practically speaking you would likely end up acting out of a hindrance of restlessness and falling away from the calm you reached anyway.
 
 ---
 
