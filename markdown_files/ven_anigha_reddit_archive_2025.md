@@ -1,3 +1,185 @@
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2025-04-04 17:36:37_
+### [Getting fed up](https://www.reddit.com/r/HillsideHermitage/comments/1jrhr5j/getting_fed_up/)
+
+I am not very proud of it, but I indulged heavily in lots and lots of sugar and fast food, also pornography and a ton of videogames and so at some point I got fed up somehow and now I want to keep the precepts. I deleted videogames, but not to avoid playing them but because I cannot handle playing videogames, it's painful. Also porn just seems disgusting and there is less and less pleasure in it, sugar makes me feel sick and so my conclusion is that this method is valid and it works.
+
+The only downside to getting fed up is if person uses heroin, because then they might die. Otherwise it works
+
+So it is an easy path of less resistance, because I'm so fed up I can't even do it anymore. I woke up and started doing something "hard" with interest, because as soon as I think "maybe play videogame?" I feel "agh, please don't do it"
+
+Also I feel the need to do something, but the options are suddenly much more limited, feels very dull and boring.
+
+"I TOLD YOU SO!" yes
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jrhr5j/getting_fed_up/mlhlagh/)** _2025-04-05 03:42:38:
+
+    >Otherwise it works
+
+    Not for long.
+
+---
+
+**r/HillsideHermitage** | Posted by tejveeer _2025-04-04 00:23:04_
+### [Practical implications of the fifth recollection](https://www.reddit.com/r/HillsideHermitage/comments/1jqyrll/practical_implications_of_the_fifth_recollection/)
+
+Of the five daily recollections, the fifth is the following:
+
+>I am the owner of my kamma, the heir of my kamma; I have kamma as my origin, kamma as my relative, kamma as my resort; I will be the heir of whatever kamma, good or bad, that I do.  
+[Bhikkhu Bodhi](https://suttacentral.net/an5.57/en/bodhi?lang=en&reference=main&highlight=false)
+
+But I find it to be fairly abstract now; at least for me. In the past, my daily reflection of this would involve contemplating what "owner of kamma" meant and so for rest of the phrases, never really attending to the day-to-day implications of it.
+
+What are the practical implications of the above recollection? What attitude should it induce?
+
+My current "translation" of that in practical and tangible terms would be as follows:
+
+>My mind learns from my actions. I and I alone teach it what it values; whether it is good (not valuing what is unstable) or bad (valuing what is unstable) for it. I experience the results of what I have taught it, whether good or bad. If I have taught it to value what is unstable, then when that unstability presents itself to the mind and infuriates it, I am subject to it. At any point in the day, my actions can be either good or bad and there is no one besides me preventing me from acting in what is good for it apart from myself.
+
+The above almost instantly induces a sense of responsibility and vigilance for whatever I will be doing throughout the day. Could such a reflection be regarded as being along the right lines of what the Buddha expects us to reflect on for this recollection? If not, how can I improve it?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jqyrll/practical_implications_of_the_fifth_recollection/mlc0pdi/)** _2025-04-04 06:27:20:
+
+    The implication is that nothing you do is inherently justified. Even if someone puts a gun to your head, coercing you to do something, the choice to comply can never be made for you. That doesn't mean that compliance is automatically wrong, but rather that you cannot escape the fruits of the choice to comply (whether good or bad) just because a gun was pointed at your head.
+
+    In practice, this attitude is crucial because only with it will you be able to develop virtue. The natural tendency is that, when there is enough pressure towards doing something—i.e., when the gun is pointed at your head—you find some sort of justification or excuse for the action rather than taking responsibility and saying, "I did it because I acted out of the pressure, and I could have not done so." 
+
+    And the same goes for wholesome choices. If you don't take responsibility for them and do them only when there is inspiration towards them or other people are doing them with you, then you will not see that you can continue to make them indefinitely and nothing can force you to stop.
+
+---
+
+**r/HillsideHermitage** | Posted by senserestraint _2025-04-02 02:55:48_
+### [What defilement(s) are causing me to feel awkward in the staff break room at work?](https://www.reddit.com/r/HillsideHermitage/comments/1jpem4y/what_defilements_are_causing_me_to_feel_awkward/)
+
+Whenever I try to sit distraction-free during my breaks at work, it feels so awkward sitting there while everyone else is either on their phones or chatting idly. It is particularly difficult not to pull out my phone when someone sits in my line of sight. Would love to get to the point in my practice where I am completely at ease in these situations.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jpem4y/what_defilements_are_causing_me_to_feel_awkward/ml51j2e/)** _2025-04-03 03:00:29:
+
+    Pulling out your phone is not necessarily a distraction in that particular context. There is nothing you can do in such a setting that would bring the same level of clarity and composure that you could have while alone (that's why seclusion is always a prerequisite for actual satipaṭṭhāna). It's arguably better to pull out your phone and even get some headphones in that setting, since that decreases the possibility of being spoken to, and with that, the capacity for self-awareness naturally increases.
+
+    In that situation I would just focus on avoiding unsuitable content (breaking the entertainment precept) and listen to a Dhamma talk, read Suttas, do some practical task on the phone, etc.
+
+---
+
+**r/HillsideHermitage** | Posted by Solip123 _2025-03-31 23:29:54_
+### [What environment is actually necessary for liberation?](https://www.reddit.com/r/HillsideHermitage/comments/1johhc3/what_environment_is_actually_necessary_for/)
+
+At this point I am not certain what is actually needed in terms of the environment and mindset one must have. I am reading Polak's book, "Nikaya Buddhism and Early Chan: a New Meditative Paradigm" - he suggests that radical renunciation (of even self-preservation instincts) may be necessary for liberation. The problem is, I am not sure how to integrate this into my own life. I live with my family and renouncing everything is not really tenable or even possible in this day and age. The conditions in 5th century BCE India differed considerably.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1johhc3/what_environment_is_actually_necessary_for/mkykkw9/)** _2025-04-02 02:09:42:
+
+    It's not about "renouncing everything." That's the view the Buddha initially had and which he overcame when he found the middle way. It's about renouncing passion, aversion, distraction.
+
+    Giving up one's family is very helpful for that goal (and is the only way to achieve it completely), but if keeping the seven precepts, it can be done to a great degree even at home (non-return) as seen in the Suttas.
+
+    It's actually much easier to adopt a view that external austerity is automatically beneficial and keep pushing it on that external level instead of developing understanding of what craving actually is. [External comfort isn't automatically rooted in craving](https://suttacentral.net/mn77/en/bodhi?lang=en&reference=main&highlight=false#sc13)—it is definitely so only when it violates a precept, especially celibacy.
+
+    Self-preservation mechanisms cannot be overcome through willpower and observances, and the Buddha [even encouraged maintaining some of them](https://suttas.hillsidehermitage.org/?q=mn2#mn2:19.1_mn2:19.3) for a trainee. What needs to be abandoned is specifically the prospect of breaking a precept, even if it means not being able to save your life. That's an example of the middle way, which *does* lean a lot more on the direction of asceticism than people often like to think. But not all the way to what you're describing, and with the right context (right view) behind it rather than sheer white-knuckling.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1johhc3/what_environment_is_actually_necessary_for/mkz9zx9/)** _2025-04-02 05:20:36 *(in reply to a comment not included)*:
+
+    Yes, the former is optimal. But it still doesn't mean "renouncing everything" the way you seemed to be implying (by saying that it's not possible in this day and age). Even the lifestyle of the most austere monks was still quite comfortable and easy compared to what [other ascetics with wrong views were doing](https://suttacentral.net/an3.156-162/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#an3.156_2.1), and not hard to follow today. They sometimes accused even the most austere monks of being "indulgent" because they didn't renounce enough in their eyes (still going on alms round daily and eating good food if offered instead of eating only a mouthful of leaves every few days).
+
+    When asked to make them compulsory, the Buddha declined and insisted in making even those comparatively very moderate austere practices optional, knowing that they are not automatically beneficial.
+
+---
+
+**r/HillsideHermitage** | Posted by craveminerals _2025-03-29 19:10:24_
+### [Confessing breaches of virtue- why and when?](https://www.reddit.com/r/HillsideHermitage/comments/1jmtqf4/confessing_breaches_of_virtue_why_and_when/)
+
+Hi Dhamma friends, 
+
+In the pursuit of Dhamma, what would be the purpose of confession of bad deeds to another vs. admitting them to oneself, and resolving not to act unwholesomely again? 
+
+Considering that in the latter case, one does still take virtue and the training seriously, it doesn’t seem like confessing every mistake is essential- except if it’s a grave offense- am I wrong? Is this more important for an monastic environment perhaps?
+
+My reasoning is that if it’s a minor mistake, I’d be fueling excessive guilt by obsessing and making a big deal out of it. But if it’s a big mistake, a breach of precepts for example, there may be a legitimate need and benefit to confessing it to somebody, and thereby helping you ‘process’ it- because if you don’t it could dominate your mind and warp your perspective, and in turn endanger your spiritual practice. 
+
+-
+
+Speaking for myself, lately I’ve occasionally been indulging in wrong speech fueled by ill will, in regards to talking about politics— worldly things, bad idea I know— as well as in a strange and difficult coworker situation a little while ago. Out of fear, weakness and defensiveness. 
+
+Nothing too extreme lately, although some past memories of especially shameful immoral behaviors have resurfaced. I’m currently letting them “weigh down on me” and basically just acknowledging, and enduring, the guilt. But since I’m not obsessing about them 24/7, and they don’t seem to be warping my perspective, I’m thinking of sparing my local priest a visit by me. 
+
+I’d be interested to hear if you have any thoughts! Thank you!
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jmtqf4/confessing_breaches_of_virtue_why_and_when/mkhupnl/)** _2025-03-30 09:56:18:
+
+    >Considering that in the latter case, one does still take virtue and the training seriously, it doesn’t seem like confessing every mistake is essential- except if it’s a grave offense- am I wrong?
+
+    Confessing *everything* that you sense was a transgression, no matter how small, means that you won't be able to cover things up precisely in those scenarios where you are inclined to downplay the significance of them ([which is usually a sign that it *is* very much a problem;](https://suttacentral.net/mn66/en/nyanamoli-thera?lang=en&reference=main&highlight=false#nya7) denial is the primary recourse of an addict). The natural sense of shame that one would have for anything that was factually unwholesome will come to the surface, simply on account of having to reveal it to someone else. If the action truly didn't come out of any defilements, then there would be no reason to feel ashamed of revealing it.
+
+    >Is this more important for an monastic environment perhaps?
+
+    As I wrote in the recent post, apart from arbitrary things like looking a certain way, the things the Vinaya enjoins a monastic to do are not accidental; they are meant to prevent them from straying from the path as much as possible. Confession might be somewhat more difficult for laypeople because many may not know people who share the value of restraint and would encourage them in their efforts towards pure conduct instead of trying to dissuade them. But it's still a net loss to one's practice if one doesn't find a way to do it. Years, even a whole lifetime, of progress can be lost simply because one never fully acknowledged something as a mistake, continued to do it, and repeatedly found excuses to cover up regret and doubt whenever they arose. All the while continuing to believe that one is "taking the training seriously."
+
+    >My reasoning is that if it’s a minor mistake, I’d be fueling excessive guilt by obsessing and making a big deal out of it. But if it’s a big mistake, a breach of precepts for example, there may be a legitimate need and benefit to confessing it to somebody, and thereby helping you ‘process’ it- because if you don’t it could dominate your mind and warp your perspective, and in turn endanger your spiritual practice.
+
+    When the mind really wants you to continue a certain bad habit, it will try to gaslight you into believing that seeing it as a fault constitutes "excessive guilt." Guilt is an issue only when it gets to the point of self-hatred and self-contempt, since that won't help you to prevent the mistake. It might even convince you to make it again because "who cares, I'm worthless anyway."
+
+    The right sense of shame comes out of a sense of dignity and having high aspirations, and it's not concerned with revolving around the past but with doing better starting right now. If there is a compulsion to turn the acknowledgement of a fault into self-hatred, that's a time to practice the same not giving in to unbeneficial pressures as usual, without covering up that which is true and factual (that you made a mistake and better not repeat it). That would be an example of the middle way.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jmtqf4/confessing_breaches_of_virtue_why_and_when/mkuf4aq/)** _2025-04-01 12:22:42 *(in reply to a comment not included)*:
+
+    >But I suppose it’s preferable if it’s in person and maybe even someone who can hold you accountable?
+
+    Yes, but something is definitely better than nothing. Merely revealing things to someone with whom you'd feel a sense of shame regarding the transgression will show you the extent to which it's possible to cover things up *from yourself*. Keeping it to yourself, you will likely not realize it, regardless of how sincere and heedful you think you are. Even though you might still acknowledge it as a fault, it can still be a rather abstract, arms-length recognition (and you can be sure of that if the fault happens again).
+
+    >And how about on the days when I keep the 8 precepts, like on Uposatha day, if I for example eat more than needed and indulge in some form of entertainment, should I confess that to somebody as well? 
+
+    If you're clear that you ate past a certain point out of indulgence in tastes and not hunger, then yes. But in itself, there's no fixed amount of food you should have on an Uposatha day as long as its within the allowable time. You stop as soon as you're no longer physically hungry, enduring and seeing through whatever doubts might come up (in either direction: tempting you to eat more or to irrationally find fault with eating a perfectly reasonable amount just for dispelling hunger).
+
+    As for entertainment, yes, that's worth confessing because it's categorically breaking a precept you've undertaken even if only that one day (and, as I wrote, that heightened restraint should naturally bleed into your whole week if you did it rightly).
+
+---
+
+**r/HillsideHermitage** | Posted by tejveeer _2025-03-29 15:13:49_
+### [Private vs public precepts](https://www.reddit.com/r/HillsideHermitage/comments/1jmogaw/private_vs_public_precepts/)
+
+I've been trying to keep the precepts in private for all this time, and never really declaring to others that I'm keeping what I'm keeping. I realized a few months ago, that my justification for not announcing them publicly was fear and disapproval of others.
+
+It was only a few weeks ago that I realized that my compulsive search for the 'perfect proof' for the validity of the Dhamma was a symptom of this fear of disapproval of others. In my mind, if I'd found a justification for the teachings which was as indubitable as mathematical proofs, then I could confront others about what I'm doing without having to fear any criticism. Or even if I were in fact criticized, the idea was that if I had a proof of such degree of indubitability regarding the efficacy of the path, then the criticism wouldn't make a difference to me either way since they would be undoubtedly wrong in it. It was a sort of protective measure that I could fall back on to, that I hadn't been explicitly realizing as such until just now.
+
+Now that I've been restraining the compulsive tendency to seek justification for everything, the fact that I fear and shy away from disclosing my intentions is becoming more and more apparent.
+
+I'm celibate and intend to remain celibate for the rest of my entire life, and have no issue in that. But, I haven't disclosed this to my family even though we're Indian and the idea of celibacy isn't something they aren't familiar with. In announcing my celibacy publicly to my family, I would implicitly be distancing myself from the religion I'm born into (Sikhism) because it's doctrinally the opposite from everything taught in it. This isn't too much of an issue for my closest relationships (mom, sister) since they've assimilated well into Western society where none of the religious doctrines are really relevant (but there are of course other concerns like my mom expecting me to have kids in the future). I'd personally abandoned the religion doctrinally many years ago, but it acts as a kind of social glue between my family and relatives. Announcing celibacy, and for example, not eating and socializing for the sake of pleasure, would most certainly boot me out of that cohesive social structure held together by the religious doctrines I'd be implicitly rejecting.
+
+I don't fear being booted out of the social group, but rather the disapproval that precedes it.
+
+The same is the case for jobs. When I last had a job, during lunch times when I wouldn't be able to go out for a walk alone, I would have to sit with others and they would inquire into my interests. At that time, I was still not keeping the entertainment precepts in the manner I am now, so I would talk to them about the music I liked and so on. But there were other subjects they would talk about like clothing, resturants, relationships, etc., that I had no concern with, and I would get weird looks and jokes made of me since I was so 'inexperienced' in that area.
+
+It's very odd because in my entire life I've never really cared significantly about doing what the group did, or what was 'trendy', and was always, from others' perspective, the oddball doing my own things. Nonetheless, in nearly all the social situations I've been in, I had quite a great reputation and a lot of friends, and I made sure it would stay that way.
+
+But acting in line with the Dhamma is destroying any possible basis that could exist for maintaining such a reputation. I'm now at a point where I can officially say I have no friends, and I'm content with that. Previously, I would still have people I'd ocassionally talk to, but now as I've given up even music and the last bits of entertainment like youtube and so on, there's no basis for any relation with any people. The only thing I can imagine left connecting me to the world is my mind's enjoyment of my family's safety and comfort, but that too is something that I intend on reversing.
+
+But now I imagine in social situations, my reputation will dampen even more as any social currency (other highly reputed friends, hobbies others would like, being inquisitive of others, etc.) I previously had is in the process of destruction. And it is very scary.
+
+My question is, how do I train myself in regards to overcoming this fear of losing reputation? The fear of having to disclose my private intentions?
+
+Currently, I don't go to university since the lecturers are subpar, so I'm home alone most of the time just studying or contemplating. Should I try to join social groups to expose myself to potential disapproval? I can stay alone like this all the time, but then I won't really be able to discern the mind's inclination towards reputation, and as such, not really have any opportunity to train amidst that.
+
+I could also just 'expose' myself to my family by mentioning the fact that I'm keeping the precepts, but that would be such an immense pressure all of a sudden that I don't think I will be able to handle it. Is there an equivalent 'gradual' manner of working towards that point?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jmogaw/private_vs_public_precepts/mkh3bsv/)** _2025-03-30 05:06:58:
+
+    >My question is, how do I train myself in regards to overcoming this fear of losing reputation? The fear of having to disclose my private intentions?
+
+    By first of all [not acting out of the fear if and when it comes up](https://suttas.hillsidehermitage.org/?q=mn4#mn4:20.1_mn4:20.21).
+
+    
+    >Should I try to join social groups to expose myself to potential disapproval? I can stay alone like this all the time, but then I won't really be able to discern the mind's inclination towards reputation, and as such, not really have any opportunity to train amidst that.
+
+    This sounds precisely like your mind trying to bait you into acting out of the fear. Even if going out leads to learning how to successfully defend yourself against criticisms for the rest of your life, since that was an action rooted in the fear, you will remain emotionally invested in what people think about you, and the *liability* to the fear will remain unchanged.
+
+    You "prove" that you can handle it by seeing that fear and concern about reputation have already arisen *here and now*, before you've even met anyone, and not allowing them to be your motivation for doing anything. If that means that you will not be able to prepare yourself for people's future criticisms, so be it. That would not be a problem at all if not for the fear, which would eventually disappear if you stopped giving in to it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jmogaw/private_vs_public_precepts/mku99dd/)** _2025-04-01 11:40:18 *(in reply to a comment not included)*:
+
+    This is a good example of why it's necessary to question one's intentions.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jmogaw/private_vs_public_precepts/mkyobec/)** _2025-04-02 02:33:35 *(in reply to a comment not included)*:
+
+    The character of the action is not determined by a combination of the intentions lying behind it but by which of those intentions you emphasize at the end of the day. So if you bought the books truly just because you wanted to access their contents, that would be fine, but it would mean relinquishing the possibility of deliberately revealing them—unless a different reason for making them known arrives that is unrelated to getting recognition. 
+
+    Often times, the elation towards an action dissipates when you actually do it with a right intention and put aside all wrong ones. Just as a child might not be enthusiastic about the very same trip anymore after learning that there won't be a treat at any point.
+
+---
+
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2025-03-28 16:37:04_
 ### [New Wiki Page: Virtue and the Seven Precepts](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/)
 
@@ -26,6 +208,16 @@ https://www.reddit.com/r/HillsideHermitage/wiki/index/
     Instead, look at the inclinations of mind enduring behind whatever you're doing and make that your guide. If an activity is unwholesome, you'll see that it's directly inclining the mind towards sensual desire, ill will, and eventually breaking precepts. It's pretty obvious when that's happening, but you look the other way and allow those pressures to gain momentum.
 
     As I wrote, you will make mistakes and misjudge your intentions sometimes, but that's fine. That's the only way you will concretely learn the distinction between wholesome and unwholesome. It's not fine when the mistake entails breaking a precept, since that's full-blown carelessness that doesn't come out of a simple lack of clarity about your intentions.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/mki90r2/)** _2025-03-30 12:12:04 *(in reply to a comment not included)*:
+
+    >Would occasionally delivering those products as a truck driver or working in a restaurant or supermarket that sells those products qualify?
+
+    It depends. When it comes to intoxicants, live animals, poisons, and weapons, being responsible for personally handing them to customers or directly or indirectly encouraging them to buy them (marketing) would in itself be an issue. Delivering or promoting the purchase of meat from animals slaughtered by the company you work for would also be problematic. If the meat comes from elsewhere and is not commissioned specifically for your employer, then it's fine.
+
+    Such livelihood would hinder your Dhamma practice—not because of external ethical considerations but because it implicates your intention. The Dhamma is concerned solely with the state of your own mind. You would be implicitly condoning the harmful actions of others, and that is bound to be rooted in delusion (not acknowledging what's factual) at the very least.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/mkw84te/)** _2025-04-01 18:15:36 *(in reply to a comment not included)*:
+
+    I wouldn't see it as an issue. You do want to be careful about what books you personally read id you want to tame your mind, but working at a library is on a different level than being a musician, actor, or someone in "showbiz" in general (as promoter, producer, director, etc.)
 
 ---
 
@@ -39,6 +231,9 @@ Should i intentionally cultivate this way of practice?
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlvu6d/is_this_a_correct_way_of_practicing/mkaw8y0/)** _2025-03-29 03:25:19:
 
     Sounds like precisely the wrong direction to go in. That quietude is probably based on the novelty of living a simpler life externally and will not last long. The pressure of the hindrances will become apparent again at some point (more likely than not, it's already there; it's just overlooked), and that's where the work lies.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlvu6d/is_this_a_correct_way_of_practicing/mkgqvdt/)** _2025-03-30 03:27:07 *(in reply to a comment not included)*:
+
+    Because it's not like you have a choice. The hindrances never go into limbo. If you just practice something because you find it calming or enjoyable, not examining what the attitude behind it is, you will be under the thumb of one hindrance or the other. That means nothing of fundamental value will be developed and right understanding will not arise (since the hindrances are what block it).
 
 ---
 
