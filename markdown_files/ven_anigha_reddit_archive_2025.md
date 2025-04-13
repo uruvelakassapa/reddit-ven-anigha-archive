@@ -1,3 +1,193 @@
+**r/HillsideHermitage** | Posted by adivader _2025-04-12 15:51:14_
+### [Anigha why deleting my posts ... bro!!?? :)](https://www.reddit.com/r/HillsideHermitage/comments/1jxkczn/anigha_why_deleting_my_posts_bro/)
+
+[removed]
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jxkczn/anigha_why_deleting_my_posts_bro/mmr29f0/)** _2025-04-12 16:02:57 *(in reply to a comment not included)*:
+
+    Save yourself the time. Both of us know that this won't get us anywhere.
+
+---
+
+**r/HillsideHermitage** | Posted by ComprehensiveCamp486 _2025-04-07 02:58:35_
+### [Hey everyone, I’ve recently started meditating using Ajahn Nyanamoli’s instructions and wanted to check if I’m on the right track.](https://www.reddit.com/r/HillsideHermitage/comments/1jtbfhj/hey_everyone_ive_recently_started_meditating/)
+
+From what I understand, the practice is about observing the intentions behind actions and recognizing whether they’re wholesome or unwholesome. But when I sit in seclusion—even for hours—nothing really arises. No craving, no ill will, no strong emotions. I just sit in silence, fully attentive, often in a neutral but subtly blissful state.
+
+I live completely celibate, eat once a day (usually just ground beef), and rarely engage in entertainment—and when I do, I stay mindful of the intention behind it. I work a simple, mostly solitary job (cleaning, driving, shopping), rarely speak to anyone, and don’t have friends. I’ve followed the five precepts for most of my life (about 80%), and I recently FORMALLY took up the Eight Precepts, except for the one about avoiding a high or luxurious bed—though I don’t oversleep or take pleasure in it per se.
+
+Sometimes I reflect on past instances of anger or reflect on life in general, but I never feel the urge to distract myself. No desire to check my phone or laptop, no urge to socialize, no sexual thoughts—just stillness.
+
+I’ve tried adding some Mahasi-style noting, but it tends to disturb the peaceful state I’m in. I mostly learn from Dhamma talks—channels like *Hillside Hermitage* and *The Dhamma Hub*—and forums like this one. I’m not deeply read in the suttas, though I’m familiar with many concepts from hearing them referenced.
+
+Would it be helpful to start reading the suttas more deeply at this point? Or should I just keep going as I am?
+
+Any feedback or guidance would be appreciated.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jtbfhj/hey_everyone_ive_recently_started_meditating/mlv9ve3/)** _2025-04-07 14:29:58:
+
+    > From what I understand, the practice is about observing the intentions behind actions and recognizing whether they’re wholesome or unwholesome.
+
+    Correct, and it's also crucial to remember that one's notion of what constitutes an action is initially limited, and that too needs to evolve and become more refined (and this happens on its own as a result of the gradual training; not volitionally as a result of "figuring it out").
+
+    > But when I sit in seclusion—even for hours—nothing really arises. No craving, no ill will, no strong emotions. I just sit in silence, fully attentive, often in a neutral but subtly blissful state.
+
+    This doesn't sound right. Plenty of things are supposed to arise in right samādhi. What gets "calmed" is the unwholesome states of mind that ordinarily underlie things. And that is why right samādhi cannot simply "occur" as a matter of luck; one needs to be very familiar with the unwholesome tendencies of the mind (which are sly and slippery by nature) and know how to tame them in the right way.
+
+    So I would warn against taking this as a sign of progress and instead see it as a subtly muddled state even though it may feel peaceful.
+
+    >Would it be helpful to start reading the suttas more deeply at this point? Or should I just keep going as I am?
+
+    I would advise focusing on developing more correct views about what the practice and the goal are, and moving away from the notion that stillness is intrinsically good and that it means "nothing coming up" (which is precisely one of the main misconceptions of modern views about meditation).
+
+---
+
+**r/HillsideHermitage** | Posted by No-Nature8928 _2025-04-06 20:18:41_
+### [Question about right livelihood. (Talaputta sutta).](https://www.reddit.com/r/HillsideHermitage/comments/1jt3fz8/question_about_right_livelihood_talaputta_sutta/)
+
+
+'
+And for a third time Tālapuṭa said to the Buddha:
+
+“Sir, I have heard that the dancers of the past who were tutors of tutors said: ‘Suppose a dancer entertains and amuses people on a stage or at a festival with truth and lies. When their body breaks up, after death, they’re reborn in the company of laughing gods.’ What does the Buddha say about this?”
+
+“Clearly, chief, I’m not getting through to you when I say: ‘Enough, chief, let it be. Don’t ask me that.’ Nevertheless, I will answer you.
+
+When sentient beings are still not free of greed, and are still bound by greed, a dancer in a stage or festival presents them with even more arousing things. When sentient beings are still not free of hate, and are still bound by hate, a dancer in a stage or festival presents them with even more hateful things. When sentient beings are still not free of delusion, and are still bound by delusion, a dancer in a stage or festival presents them with even more delusory things. And so, being heedless and negligent themselves, they’ve encouraged others to be heedless and negligent. When their body breaks up, after death, they’re reborn in the hell called ‘Laughter’.
+
+But if you have such a view: ‘Suppose a dancer entertains and amuses people on a stage or at a festival with truth and lies. When their body breaks up, after death, they’re reborn in the company of laughing gods.’ This is your wrong view. An individual with wrong view is reborn in one of two places, I say: hell or the animal realm.”
+
+'
+
+
+
+
+
+
+Naturally,I was surprised at such a perspective, given that the only other guaranteescome attached with heinous actions such as killing one's parents or injuring a Buddha.
+
+Additionally, the standard admonitions against wrong livelyhood make no mention of acting or entertainment, unless one were to apply a more expansive lens to the admonition against trading in human beings.
+
+It seems that this sutta can be interpreted to encompass a vast majority of the livelyhoods and idle actions of people today. For instance,creating appealing products, or engaging in iddle chatter, and so on.
+
+I've thought about this for a day, and I've come across varying interpretations from other people online.
+
+1: there is a matter of translation, where the English version doesn't adequately emphasize the "false" or "misleading" aspects of the actors performance.
+
+2: The word "actor" comes with negative connotations, as it perhaps does in the modern day.
+
+Given this, I wanted to ask how this sutta is to be best interpreted.
+
+Are all arts categorically wrong livelyhood, or can things such as fantasy stories, written with good intentions and conveying posive messages about the five precepts admissable?
+
+Granted, I'm tempted to say the question is trivial, considering the Buddha made use of parables, but it could perhaps be the case that only someone with the right view ought to attempt such things, which itself leads to rather constraining conclusions about the use of parables in everyday speech.
+
+
+
+
+Link: 
+
+https://suttacentral.net/sn42.2/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jt3fz8/question_about_right_livelihood_talaputta_sutta/mlve6uc/)** _2025-04-07 14:52:23:
+
+    >Additionally, the standard admonitions against wrong livelyhood make no mention of acting or entertainment, unless one were to apply a more expansive lens to the admonition against trading in human beings.
+
+    Probably because the word used there is "[vāṇijja](https://suttacentral.net/an5.177/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)," which refers specifically to mercantile activity and not livelihood in general.
+
+    >It seems that this sutta can be interpreted to encompass a vast majority of the livelyhoods and idle actions of people today. For instance,creating appealing products, or engaging in iddle chatter, and so on.
+
+    No, that would be quite a stretch. Yes, such other things would be against the Dhamma to various degrees, but there is still a wide gap between being a performer and simply engaging in distracting and unwholesome actions in a normal context. In the former, among many other things, you actively induce unwholesome mindstates in yourself in order to perform well and entertain others (i.e., induce similarly unwholesome mindstates in them). Without such mindstates in yourself at least, one cannot perform.
+
+    >Are all arts categorically wrong livelyhood, or can things such as fantasy stories, written with good intentions and conveying posive messages about the five precepts admissable?
+
+    Not all arts would be on the same level. It would depend on the type of art and the mindstate with which it is done. I can imagine sculpting, painting, or writing about non-sensual and non-fantastical topics (say, making sculptures of real animals) not necessarily being an obstruction since the mind can remain in a relatively sober state even while doing it. But once you get into the realm of creating fantasy, it will inevitably tend to involve loss of clarity and self-awareness and intoxication with imaginary scenarios. 
+
+    On a smaller scale than a performer, one's success in creating fantastical art would hinge on one's ability to suspend right mindfulness of the present, factual context of one's situation (the state of one's body, feelings, mind, and mental phenomena). What responses one's work might induce in others is secondary, and [there is no situation where helping others is more important than maintaining the right frame of mind](https://suttacentral.net/sn47.19/en/bodhi?lang=en&reference=none&highlight=false). In fact it is only through the right frame of mind that things you do could actually be beneficial (instead of merely making people feel good and superficially inspired).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jt3fz8/question_about_right_livelihood_talaputta_sutta/mm5xmgj/)** _2025-04-09 05:15:35 *(in reply to a comment not included)*:
+
+    >For someone trying to develop a context of living a good wordly life and perhaps aim for a heavenly rebirth, is learning an instrument consistent with such a life? My main fear and goal is to do my best to avoid a low rebirth.
+
+    No, there would be no problem with it if that's the goal.
+
+    >Surely there is a big difference between someone (such as myself) who learns an instrument for, say, an hour a day after work for enjoyment vs someone who relies on such a skill for their vocation?
+
+    Yes.
+
+    >2) Can it be skilfull to learn an instrument as a means to get over more coarse vices? For example, pornography.
+
+    Yes—if one's goal is not liberation. If it is, then the replacement will most likely not make much of a difference and will not make actual renunciation any easier. The extent of *dependence as such* remains the same, even if the object of dependence becomes less harmful in a mundane sense.
+
+    >3) Is steam entry impossible whilst learning to play an instrument?
+
+    It is impossible while holding a view that sensuality is compatible with the Dhamma. Since a person who aims for stream entry and at the same time learns an instrument will almost certainly be holding and reinforcing that view, yes, realistically speaking, it's impossible.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jt3fz8/question_about_right_livelihood_talaputta_sutta/mmbqjte/)** _2025-04-10 02:42:44 *(in reply to a comment not included)*:
+
+    Not quite, because that would imply that a sotāpanna somehow feels trapped within their remaining sensuality. The recognition that it's impossible to be helplessly subjected to defilements—that one is *entirely* responsible for their maintenance or cessation—is a core aspect of right view. That doesn't mean they understand the way to cessation fully (for then they would be an Arahant), but that they cannot forget that there *is* a way and that nothing stops them from following it.
+
+    As for the external profession, it would be the same principle. Their authenticity would make it apparent that it's impossible to actually "need" to do something. There is always an alternative. [The fact that it may be undesirable or even dangerous is a different matter](https://www.reddit.com/r/HillsideHermitage/comments/1jqyrll/comment/mlc0pdi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). They may not always choose the alternative, but they can never deceive themselves into thinking that they *can't.*
+
+    It is because they are no longer able to cover up their responsibility for whatever they engage in, internally or externally, that they sooner or later will give up everything unwholesome. For the puthujjana, remaining defilements are not just much stronger; they are also doubtful as to how to overcome them and sometimes might even feel like it's impossible. That is by far the most acutely aggravating factor.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jt3fz8/question_about_right_livelihood_talaputta_sutta/mmi5rli/)** _2025-04-11 03:13:51 *(in reply to a comment not included)*:
+
+    > Is it simply that this is a necessary but not sufficient condition? And/or is it that a puthujjanna can only adopt such an attitude mentally (repeating or committing it to themselves, but sometimes inevitably forgetting), while the sotapanna automatically cannot be caught up in any other attitude even when maximally afflicted by remaining kleshas, since self-view itself has totally dissolved?
+
+    The puthujjana can take responsibility and should do so if they want to become a sotāpanna, but the sotāpanna has gotten to the point where they are unable to *not* take responsibility. And yes, that's because they are free from self-view. Pure resolve won't free one from ignorant tendencies permanently.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jt3fz8/question_about_right_livelihood_talaputta_sutta/mmonwza/)** _2025-04-12 04:40:15 *(in reply to a comment not included)*:
+
+    > do you then say that a Sotapanna would always make a choice to get shot, rather than the kammically suboptimal choice presented? I think you might not mean that?
+
+    Right, that's not what I meant.
+
+    >So if the Sotapanna does choose to then save themselves from the gunshot, by way of breaking a core precept - would they not experience the suffering of those options (the ones presented) and the choice they made - in the here and now (not to say of the ensuing kammic consequences) ?
+
+    The problem is that such hypotheticals assume that the number of options is limited, which is an impossibility (similar to how there is always the middle way as an alternative). When actually faced with such a situation, it would be obvious even as a puthujjana that there *are* other options apart from breaking a precept or getting shot. Hence there is no right answer to such questions; the premise as a whole must be rejected. One would get closer to the right view by understanding the inherent impossibility of those black-and-white hypothetical scenarios rather than arriving at a satisfactory answer to questions about them.
+
+    
+    >but also acknowledging their mental inability to commit to that choice, on account of incomplete development of their mind ?
+
+    There's a contradiction here. The person is supposedly "authentically knowing their responsibility" yet simultaneously thinks that there is an intrinsic mental inability (as opposed to what, a physical inability?) to commit to a choice. This is a denial of responsibility at the fundamental level while pretending to acknowledge it. And self-view is what would make one ultimately *liable* to that even when one does take responsibility. For as long as there is implicit conceiving of a chooser distinct from the aggregate of saṅkhāras, one will be able to think that this chooser is "unable" to commit to a choice, whatever the rationalization might be.
+
+    Just as liability to suffering is present all the time, freedom from it is not limited to when extreme scenarios are encountered. So a sotāpanna's freedom would not begin the moment they make the final choice; even when merely being presented with the choice (and throughout the whole expanse of time preceding that scenario as well), they would not be liable to suffering to anywhere near the same extent.* Hence it's misleading to boil down the difference to any specific scenario. 
+
+    \* And precisely because of that, they would be able to see and accurately assess options that a puthujjana wouldn't.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jt3fz8/question_about_right_livelihood_talaputta_sutta/mmqv0r2/)** _2025-04-12 15:25:15 *(in reply to a comment not included)*:
+
+    > the state of development of mind has not yet reached the point where sensuality has been abandoned, to the extent necessary for going forth at least (if not an Anāgāmi).
+
+    This still would not imply a mental inability to commit to the choice to go forth. The lack of development of mind simply means that that commitment will be more unpleasant.
+
+    It may sound like a purely semantic distinction, but it's not. If there are any "buts" whatsoever, one is not actually taking responsibility even if one says one is. And the assumption of *something* outside of the manifested experience where choice and responsibility apply (whether one calls it "self," "state of development of mind," or "inability to commit to a choice") still lurks there. The assumption of such a "something" is *attavāda*, even if on paper one soundly rejects the term "self" (and similar variations like "chooser") due to one's learning.
+
+    If the mind’s inclination toward greed, aversion, and delusion—*however strong*—had any bearing on one’s freedom to choose otherwise, then these inclinations would either be impossible to fully abandon, or they would have to be resolved through some tangential practice while nevertheless continuing to indulge in them at the end of the day—which is, in fact, the usual expectation.
+
+    In this case, Mahānāma did not choose to fully go against the grain of his mind's unwholesome inclinations. But unlike a puthujjana, at no point could he have believed that there is a "reason" for that. He would know that that failure is completely gratuitous (inasmuch as no amount of feeling can inherently obstruct the making of a choice; those are two separate aggregates). 
+
+    This correct outlook is what guarantees a noble disciple will have a sense of shame in regard to any remaining unwholesome qualities and thus eventually subdue them all, whereas a puthujjana will tend to cover up the sense of shame by coming up with justifications (even if those sound right from a Dhamma point of view).
+
+---
+
+**r/HillsideHermitage** | Posted by still_tracks _2025-04-06 10:44:00_
+### [Uneasiness as Indicator for Right Ideas](https://www.reddit.com/r/HillsideHermitage/comments/1jsrc3i/uneasiness_as_indicator_for_right_ideas/)
+
+I was wondering if arisen uneasiness is actually a valid indicator for a contemplation hitting the right spot. For example, if I contemplate the inaccessibility and impermanence of the senses (or the impermanence of my dear ones, possessions, etc.), would a level of anxiety be a sign that the contemplation is earnest, or can Mara trick one by "inducing" that unpleasantness, while one's assumption of ownership hides untouched in an obscured spot? If so, how would one be able to discern if one is tricked? Can this even be done while contemplating, or only inferred by honestly questioning oneself in day-to-day life if the overall level of pressure due to attachments is decreasing?
+
+I would also like to expand that question to the broader scope of the practice as a whole. I am currently under the assumption that a subtle level of uneasiness is the natural emotional state for a puthujjana finding out about his situation and even useful for being more alert and authentic. So the same question applies here: are such emotions a valid measure for being on the right path? Or would it be better to refrain from any idea of "measuring" one's practice and instead acknowledge the uncertainty regarding ones notions about practice—which in turn would give rise to new uneasiness and, of course, could thus again be taken for granted as being a correct idea.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jsrc3i/uneasiness_as_indicator_for_right_ideas/mlv7c28/)** _2025-04-07 14:16:50:
+
+    >Or would it be better to refrain from any idea of "measuring" one's practice and instead acknowledge the uncertainty regarding ones notions about practice—which in turn would give rise to new uneasiness and, of course, could thus again be taken for granted as being a correct idea.
+
+    In this case, this would be the way to go. 
+
+    For the vast majority of people—because of their lack of restraint and tendencies built up on account of that—the right contemplations will often be unpleasant, and it's important to come to terms with that because there is a tendency to think that the Dhamma is supposed to free you from suffering very quickly (and *on your own terms* to boot). That gives rise to all the management-oriented practices that abound today.
+
+    But even when it arises, you don't want to be finding safety in that unpleasantness, telling yourself that it "means" you are practicing correctly. Unpleasantness that is bound with certainty and safety is unpleasantness that is on your own terms, and that means it's still affected with craving. And, ironically enough, the uneasiness of the right kind would return when the uneasiness you expect and find safety in is not there, which shows that you would've just moved the same problem elsewhere. You would've covered up the uneasiness on the level that matters and turned what's on the surface "right practice" into self-mortification—which is gratifying in its own way and wrong precisely for that reason.
+
+    Instead, recognize the uneasiness of not knowing whether you are practicing correctly or not, and train yourself to remain unmoved in regard to it while it is there. If the mind expects uneasiness and it's not there, see the uneasiness of *that.* That would be much closer to the right practice.
+
+---
+
 **r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2025-04-04 17:36:37_
 ### [Getting fed up](https://www.reddit.com/r/HillsideHermitage/comments/1jrhr5j/getting_fed_up/)
 
@@ -16,6 +206,49 @@ Also I feel the need to do something, but the options are suddenly much more lim
     >Otherwise it works
 
     Not for long.
+
+---
+
+**r/HillsideHermitage** | Posted by Pallantinus _2025-04-04 17:20:08_
+### [Question about Right Livelihood and investments](https://www.reddit.com/r/HillsideHermitage/comments/1jrhcuk/question_about_right_livelihood_and_investments/)
+
+Hello,
+
+I would greatly appreciate any help in better understanding the idea of Right Livelihood, especially this part of the wiki on virtue:  
+[https://www.reddit.com/r/HillsideHermitage/wiki/virtue/#wiki\_right\_livelihood](https://www.reddit.com/r/HillsideHermitage/wiki/virtue/#wiki_right_livelihood)
+
+>Laypeople should not obtain their income from [certain avenues,](https://suttacentral.net/an5.177/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin) and this extends to any form of financial profit directly derived from these avenues even without physical participation (e.g., investing in stocks of weapons or alcohol producers, or animal farming companies).
+
+It seems clear that if I buy shares in a company that sells weapons or alcohol, that would go against the precept.
+
+Also, if I invest in an index fund that includes such companies, even if it’s not direct, it would probably still go against it.
+
+But what if I invest in a fund that only buys shares of banks, and those banks then support or finance weapons companies? I’m not sure, but it’s very likely. Would that also break the precept?
+
+In short, does Right Livelihood mean that I must avoid any form of financial support for those industries, even if it’s very indirect? Or is it only about direct investment?
+
+Thanks in advance.
+
+edit: another example that I have thought of and about which I have doubts is that of investing in a textile company, which does not slaughter animals, but buys leather to make clothes.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jrhcuk/question_about_right_livelihood_and_investments/mlnta7h/)** _2025-04-06 06:20:24:
+
+    >But what if I invest in a fund that only buys shares of banks, and those banks then support or finance weapons companies? I’m not sure, but it’s very likely. Would that also break the precept?
+
+    If the banks are making their own decisions, which sometimes happen to include financing weapons manufacturers, then no.
+
+    > another example that I have thought of and about which I have doubts is that of investing in a textile company, which does not slaughter animals, but buys leather to make clothes.
+
+    It's not an issue if the animals are not slaughtered for that particular company and they simply buy existing leather (which apparently is usually the case).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jrhcuk/question_about_right_livelihood_and_investments/mlof7hk/)** _2025-04-06 10:08:17 *(in reply to a comment not included)*:
+
+    The problem is specifically when your choices, regardless of how many intermediaries there are in between, are *predictably* supporting or financing the operations of improper industries.
+
+    For contrast, the Buddha didn't forbid laypeople to buy meat even directly from a butcher (unless the animal was killed on their personal request, in which case it would break the first precept quite obviously through speech). For the same reason, it would not be an issue if you bought a weapon directly from the manufacturer without intending to use it for killing or harming—even in self-defense—but for some completely unrelated purpose (assuming one arose).
+
+    But say you regularly buy a whole fish from a very small-scale fishmonger who, with only a handful of regular clients, slaughters one fish for each order they expect in advance. Then you would certainly be complicit, though not as directly as when you go and order a fish knowing that it's still alive and will be killed for you.
+
+    The bottom line being: purchasing an existing product that would still be supplied to the same extent regardless of your individual purchases is not the same as financing a company that produces the product, asking them to make it for you in particular, or making the product yourself.
 
 ---
 
@@ -218,6 +451,17 @@ https://www.reddit.com/r/HillsideHermitage/wiki/index/
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/mkw84te/)** _2025-04-01 18:15:36 *(in reply to a comment not included)*:
 
     I wouldn't see it as an issue. You do want to be careful about what books you personally read id you want to tame your mind, but working at a library is on a different level than being a musician, actor, or someone in "showbiz" in general (as promoter, producer, director, etc.)
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/mloye6z/)** _2025-04-06 12:59:44 *(in reply to a comment not included)*:
+
+    > this sound right? 
+
+    It does. 
+
+    With the sort of activities in bucket 3, apart from ensuring that they don't constitute entertainment in their content, you’ll want to regularly inspect your intention to see whether you're doing them as a way of running away from pressure and unwholesome mental states (where "running away" really just means letting them fester somewhere in the background, since you can never truly escape them through distraction). 
+
+    Instead, you need to have the attitude that you can never "take a break" from the four right strivings and make that your unwavering priority. That means that regardless of what you do, you're always maintaining perspective over your mind-state and motivations and trying to keep them on the wholesome side, and are ready to drop whatever you're doing if you realize that the motive behind it has become corrupted even though it initially wasn't. 
+
+    With that attitude, such activities will not be a problem: you will be mindful (in the right sense) while doing them, and thus you will start to get a sense for when you should stop. And that will absolutely train you in discerning wholesome and unwholesome internally, whereas maintaining a fixed routine would keep you outwardly very restrained for however long it lasts—but once it ends (as sooner or later it will), you'll be walking through the same old minefield of actions without any idea where the mines are, because all you did was avoid the field entirely.
 
 ---
 
@@ -234,6 +478,30 @@ Should i intentionally cultivate this way of practice?
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlvu6d/is_this_a_correct_way_of_practicing/mkgqvdt/)** _2025-03-30 03:27:07 *(in reply to a comment not included)*:
 
     Because it's not like you have a choice. The hindrances never go into limbo. If you just practice something because you find it calming or enjoyable, not examining what the attitude behind it is, you will be under the thumb of one hindrance or the other. That means nothing of fundamental value will be developed and right understanding will not arise (since the hindrances are what block it).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlvu6d/is_this_a_correct_way_of_practicing/mmbwcyo/)** _2025-04-10 03:22:03 *(in reply to a comment not included)*:
+
+    > whenever anyone experiences any kind of relief or otherwise productive feeling as a result of keeping the precepts and renouncing bad habits, they're told that's proof they're doing everything all wrong. 
+
+    The feeling described here does not actually come from keeping the precepts and renouncing bad habits. Anyone could, without renouncing anything, go for a walk in a quiet forest and have a moment of peace and release from being extra "present." It's a contrived kind of joy still underlain by passion, which, sure, is less harmful than rabid sensual pleasure but is far from the actual joy of renunciation that the Buddha praised. It's still well within sensuality, clearly still relying on the five senses.
+
+    > How would anyone know they're on a productive trajectory 
+
+    When joy arises *purely* because they have abandoned unwholesome states, whether they attend to their sensations or do anything else. Even when they try to become lustful or angry, those states simply cannot ignite as strongly as before, and *that's* pleasant. 
+
+    That's very different from such states (seemingly) not arising because the pleasant sensations are keeping one occupied for the time being.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlvu6d/is_this_a_correct_way_of_practicing/mmdcclg/)** _2025-04-10 11:25:31 *(in reply to a comment not included)*:
+
+    When pleasure truly arises from renunciation and freedom from unwholesome states, you cannot fail to recognize its source because you've been consciously doing the right work. Once you succeed, it simply wouldn't occur to you to attribute it to anything else—unlike any other type of pleasure of an unbeneficial kind, which can arise spontaneously.
+
+    >But isn't that a characteristic of someone who experienced enlightenment? 
+
+    It's a characteristic of someone who has lessened the five hindrances by unbroken persistence in not acting out of them (rather than merely finding an enjoyable spot within them by attending to pleasant experiences). It's not a permanent state though, and one can and will fall back eventually if one becomes heedless.
+
+    > What does a raw beginner have to go on to know they're on the path?
+
+    A beginner, i.e., someone without right view, [is strictly speaking never on the path](https://suttas.hillsidehermitage.org/?q=sn55.5#sn55.5:3.3). Their task is first and foremost to understand what the path is. But everyone inevitably starts with *some* understanding; the question is only whether it's right or wrong (i.e., leads to freedom from liability to suffering, or not). 
+
+    One can know their view is getting closer to the right view when they are less moved by pleasure and pain purely because of their understanding, not on account of a practice or activity they engage in.
 
 ---
 
