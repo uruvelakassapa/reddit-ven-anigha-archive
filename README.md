@@ -1,4 +1,4 @@
-Archiving all comments by [Venerable Anīgha on reddit](https://www.reddit.com/user/Bhikkhu_Anigha/comments/).
+Archiving all comments by [Venerable Anīgha on reddit](https://www.reddit.com/user/Bhikkhu_Anigha/comment/) and [Sister Medhini](https://www.reddit.com/user/Sister_Medhini/comments/).
 
 For a more consumer friendly fork of this repo where the comments can be downloaded as PDFs and EPUBs see: https://github.com/f0lie/reddit-ven-anigha-archive
 
