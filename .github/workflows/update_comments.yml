@@ -74,6 +74,7 @@ jobs:
     - name: Run the markdown generation script
       run: |
         python generate_markdown.py
+        python generate_markdown_full.py
     
     - name: Commit and push changes if markdown files were created
       run: |
