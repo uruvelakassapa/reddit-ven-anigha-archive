@@ -20,12 +20,12 @@ conn = sqlite3.connect('reddit_comments.db')
 
 LIMIT = int(os.getenv('LIMIT')) if os.getenv('LIMIT') else None
 
-def fetch_user_comments(username, till_comment_id=None):  # None will get entire history
-    # TODO make this list of users
+def fetch_user_comments(username, till_comment_id=None):  # Fetches comments for a single user
+    print(f"Fetching comments for user: {username}")
     user = reddit.redditor(username)
     comments_by_submission = {}
 
-    for comment in tqdm(user.comments.new(limit=LIMIT)):
+    for comment in tqdm(user.comments.new(limit=LIMIT), desc=f"User {username}"):
         if comment.id == till_comment_id:
             break
         submission_id = comment.submission.id
@@ -177,34 +177,63 @@ def save_comments_to_db(comments):
     # Commit the changes to the database
     conn.commit()
 
-def get_latest_comment_id():
+def get_latest_comment_id_for_user(username):
+    """Fetches the ID of the latest comment stored in the DB for a specific user."""
     try:
         c = conn.cursor()
-        c.execute('SELECT id FROM comments ORDER BY created_utc DESC LIMIT 1')
+        # Query for the latest comment ID specifically for the given author
+        c.execute('SELECT id FROM comments WHERE author = ? ORDER BY created_utc DESC LIMIT 1', (username,))
         latest_comment = c.fetchone()
         return latest_comment[0] if latest_comment else None
     except sqlite3.OperationalError:
-        # This will catch errors like 'no such table: comments'
+        # This handles cases where the table might not exist yet
+        print("Warning: Comments table not found or query failed. Fetching all comments for user.")
         return None
 
 def main():
-    username = os.getenv('TARGET_USERNAME')  # Load target username from environment variable
+    usernames_str = os.getenv('TARGET_USERNAMES')  # Load target usernames from environment variable
+    if not usernames_str:
+        print("Error: TARGET_USERNAMES environment variable not set or empty.")
+        return
+    usernames = [name.strip() for name in usernames_str.split(',')] # Split into list
+
     till_last_comment = json.loads(os.getenv('TILL_LAST_COMMENT', 'true').lower())
 
-    if till_last_comment:
-        last_comment_id = get_latest_comment_id()  # Get the latest comment id from the database
-        comments_by_submission = fetch_user_comments(username, till_comment_id=last_comment_id)
-    else:
-        comments_by_submission = fetch_user_comments(username)
+    all_comments_by_submission = {}
+    print(f"Processing users: {', '.join(usernames)}")
+    for username in usernames:
+        last_comment_id_for_user = None
+        if till_last_comment:
+            last_comment_id_for_user = get_latest_comment_id_for_user(username) # Get latest comment ID for *this* user
+            if last_comment_id_for_user:
+                print(f"Fetching comments for {username} newer than comment ID: {last_comment_id_for_user}")
+            else:
+                print(f"No previous comments found for {username} in DB. Fetching all available comments.")
+        else:
+            print(f"Fetching all available comments for {username} (TILL_LAST_COMMENT is false).")
 
-    if comments_by_submission:
-        # Save the fetched comments as a JSON file
-        with open(f"{username}_comments.json", 'w') as f:
-            json.dump(comments_by_submission, f, indent=4)
-        save_comments_to_db(comments_by_submission)
-        print(f"Database updated with comments organized by submission.")
+        try:
+            user_comments = fetch_user_comments(username, till_comment_id=last_comment_id_for_user)
+            # Merge results - simple update works if submission IDs are unique across users' comments lists
+            # If a submission could theoretically contain comments from multiple target users being fetched,
+            # you might need a more sophisticated merge (e.g., merging the 'comments' lists within each submission)
+            # For now, a simple update assumes submission context is tied to the user being fetched.
+            all_comments_by_submission.update(user_comments)
+        except Exception as e:
+            print(f"Error fetching comments for user {username}: {e}")
+            # Decide if you want to stop or continue with other users
+            # continue
+
+    if all_comments_by_submission:
+        # Save the combined fetched comments as a JSON file
+        output_filename = "fetched_reddit_comments.json" # Generic name for combined results
+        with open(output_filename, 'w') as f:
+            json.dump(all_comments_by_submission, f, indent=4)
+        print(f"Combined comments saved to {output_filename}")
+        save_comments_to_db(all_comments_by_submission)
+        print(f"Database updated with comments for users: {', '.join(usernames)}.")
     else:
-        print(f"No new comments found for {username}.")
+        print(f"No new comments found for users: {', '.join(usernames)}.")
 
 if __name__ == "__main__":
     main()

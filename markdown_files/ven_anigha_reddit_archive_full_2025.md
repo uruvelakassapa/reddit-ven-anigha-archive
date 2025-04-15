@@ -1167,6 +1167,18 @@ A temporary break is also probably a good idea.
     Apart from the precepts, progress is not measured by how many things you never do but by how little your mind cares about doing anything in particular. That doesn't mean you will never do anything, but that whatever you do will never be rooted in obsession internally and *thus* always be moderate and dispassionate.
 
     So consumption of sweets (or of anything) would be fine if and only if your mind is internally uninvested and not by externally having a "justification" like being sick or famished (obsession can still be there regardless of that justification, and one would then feel absolved from restraining it). And people make mistakes on both accounts: they assume their mind can remain internally uninvested *always* and thus stop actually inspecting whether that's the case on every occasion, or they assume that the external reasons are the measure, and equally stop inspecting their minds internally.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjn5bfi/)** _2025-03-25 12:22:37_:
+    To add a point that gets often overlooked, the mental and emotional preoccupation around such issues as craving for specific foods can easily become a bigger hindrance than those issues in themselves. 
+
+    Someone could theoretically be overweight, eating chocolate and drinking coffee every day out of habit, but by not developing or holding dogmatic ideas about it, or hating themselves or others on account of it, they could still quite conceivably become accomplished in virtue on the level that matters in terms of understanding the four noble truths. 
+
+    Meanwhile examples abound of people who eat only unprocessed whole foods and vegetables, intermittant fast or eat one meal a day, have a perfect body composition, have completely overcome sugar cravings and are utterly without either wisdom or virtue. Obsession with health is just another way to be identified with the body. 
+
+    Personally I'd suggest not cutting out any specific food group, even as a temporary measure, unless you are very clear that the reason for doing it is nothing to do with dhamma. Otherwise it will be just fuelling a misconception about what craving is. Yes, there can be craving involved, but it's almost never where the 'big problem' is at this point. 
+
+    Suffering on account of absence of specific stimulants is not even comparable with enduring the pressure of the mind trying to wind you up with doubt and worry that you breaking virtue for things that are really quite irrelevant - you ate a piece of cake, it tasted good, now thoughts are coming up about whether  there will be cake tomorrow... 'therefore I should never eat cake again!' Never eating cake again is much easier to endure, and feel like you are progressing, and the more you go down that route the harder it is to come back from it. 
+
+    You should be more concerned about not seeing 'the animal' clearly enough, than addressing what you think of as the animal's misbehaviour, because it bothers you.
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjs0xs1/)** _2025-03-26 03:39:16_:
 
     *(In reply to Ok-Addition-7759):*
@@ -1317,6 +1329,138 @@ Why change anything externally if that is not where the freedom is?
     Because certain external conditions are not as conducive to achieving internal freedom, and at a certain point (anāgāmi) they would become a categorical obstacle.
 
     Nevertheless, working and having possessions is not too big of an issue, and ordination is not strictly necessary to make significant progress on the path. What is necessary is not to engage in actions of lust, aversion, and distraction—*that* is now one's internal non-freedom that they keep cultivating, and, indeed, the external circumstances do not intrinsically force you to not be free (i.e., do such things).
+
+---
+
+**r/HillsideHermitage** | Posted by Agreeable_Range_8732 _2025-03-20 06:00:44_
+### [On the 8 precepts](https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/)
+
+How exactly do I keep the 8 precepts? Through sheer willpower?
+
+In his book 'The Only Way to Jhana', Ajahn Nyanamoli mentions this:
+
+"The common misconception, even with people who keep the
+
+precepts and value them, is that they keep the precepts out of faith,
+
+cultural pressure, authority, tradition or instruction from whatever
+
+meditation group they are a part of, but do not see how the precepts
+
+are helping them to tame themselves."
+
+So, what I understand from this is that there is no use keeping the precepts as external rules; keeping them out of faith will yield no results. You have to see how the precepts are helping you to tame yourselves and have to find value in them.
+
+Right now, I see no value in keeping the precepts, simply because I don't understand how they can help me in seeing impurities, hindrances, delusions, wrong views, bad habits and so on. Since I can find no logic in keeping them, I cannot help but see them as external rules. For example, I don't understand how sleeping on the floor leads to me seeing all these things in my mind. Same with killing. How does me refraining from killing a mosquito, even when I know it can cause life threatening diseases like dengue and malaria lead to purification? (by the way, I live in a country where these diseases are rampant, and I get dengue or malaria every other year. THAT'S how many mosquitoes there are here, so we have no choice but to kill them. I don't know if there's even a way for me to follow the first precept. This is off topic, however.)
+
+So what am I supposed to do?
+
+Also, there lies one more problem. u/Bhikkhu_Anigha mentions this in his reply to a post:
+
+"This is why it's a training that [builds up in progressively](https://suttas.hillsidehermitage.org/?q=mn107). In this case, your only concern should be to begin keeping the precepts and get used to that. Don't worry about anything else for now. Once you get used to the precepts and more "space" starts to open up as a result, you will naturally start to see [subtler impurities](https://suttas.hillsidehermitage.org/?q=an3.121) in your own mind, and only with that first-hand discernment will you be able to abandon them rightly.
+
+(If one has a severely wrong view of what practice and purification are, a view that places the emphasis on something completely unrelated to the precepts and one's behavior, then it's of course very unlikely that any further impurities at the level of conduct will be noticed—even after keeping the precepts perfectly for decades—simply because one won't be looking to find them. The precepts become simply boxes to tick mindlessly before moving on to the main act ASAP.)"
+
+What is a 'severely wrong view' of practice and purification? As far as I understand it (please correct me if I'm wrong), one takes up the 8 precepts and then the rest of the gradual training with the intention to be aware of the hindrances, delusions, the Wrong View, impurities, bad habits, basically all harmful things in your mind, and after realizing their danger, he naturally lets go of them. (I use the analogy of putting your hand on a hot stove and burning your hand. When you realize that this burns your hand and hurts you, your mind will never allow you to do that again purposefully. Even if you get dementia or something, you will know not to put your hand on the stove, because this is not theoretical knowledge, it's knowledge that you will never forget.)
+
+So basically, through the 8 precepts, one aims and intends to discern which actions (including speech and thoughts) moves him in the direction of freedom from dukkha, so that he can practice those very actions. And he also intends to discern which actions (including speech and thoughts) that lead him **to** dukkha, so that he can curb these actions, realizing their danger.
+
+Now, that is how I understand it. This is my view of practice and purification. Is this wrong?
+
+**How do I keep the precepts, while also inherently seeing value in them, not seeing them as external rules, not blindly following them, and also keeping the correct view about the practice and purification? How exactly do I practice the precepts? (Also, small question: what is the difference between virtue and the precepts? I always thought they were the same thing.)**
+
+**Also, after I've established the precepts, what is the next step? And all the steps after that? Please point me towards a step by step guide: an organized, structured, ordered guide of what exactly is to be done, because the suttas are honestly kind of vague and really hard to understand.**
+
+**Also, please guide me on where I'm supposed to start with the HH material. Which video, text or essay I should start with. Honestly, there's so much, that I'm overwhelmed.**
+
+So finally, addressing all these questions, I request you all to guide me in properly practicing the 8 precepts. I apologize for any ignorance or any stupidity, I am new to HH material.
+
+If you wish to not give a long answer and waste your time on me, then please point me towards a video , a text, an essay by HH, or any other source that can answer my question.
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/mirqxnr/)** _2025-03-20 09:59:23_:
+    I wrote [this essay](https://www.hillsidehermitage.org/straightening-of-crookendness/) a while ago that was intended to address pretty much this exact question. [This](https://www.hillsidehermitage.org/stepwise-training/) by Ven. Anīgha also explains the same principle. In essence, the purpose of the precepts is to give you a reference point for actions motivated by greed, aversion and delusion/carelessness. 
+
+    >what is the difference between virtue and the precepts?
+
+    The difference between virtue and precepts is that virtue is refraining from actions that are motivated by unwholesome intentions, taking the precepts as a reference point for what is always unwholesome (as opposed to, for example, your own idea of what is unwholesome, or what you find convenient to regard as unwholesome.) Precepts without virtue would be simply keeping the rules as rules, and failing to see them as markers of unwholesome motivation (so feeling justified in doing anything as long as it's not specifically prohibited by the precepts. Allowing 'loopholes.')
+
+    >How does me refraining from killing a mosquito, even when I know it can cause life threatening diseases like dengue and malaria lead to purification? (by the way, I live in a country where these diseases are rampant, and I get dengue or malaria every other year. THAT'S how many mosquitoes there are here, so we have no choice but to kill them. I don't know if there's even a way for me to follow the first precept. This is off topic, however.) So what am I supposed to do?
+
+    It is impossible to intentionally kill without being motivated by greed or aversion, regardless of circumstances. And it is impossible to purify the mind from greed and aversion while doing acts rooted in and giving further fuel to greed and aversion. This is something that needs to be taken with a degree of faith, but if the thought of keeping a precept is fearful and uneasy, that is already outlining your own mind's resistance and aversion, which in itself shows that by justifying not keeping it, you are turning away from even recognising that aversion, let alone uprooting it.  
+
+    There are multiple ways of preventing mosquito bites without killing. The five precepts are the base without which nothing else can be done. You can choose to not keep them if you want (they are not 'commandments') but you must acknowledge that in doing so, you are closing off the possibility of purification for yourself. 
+
+    >For example, I don't understand how sleeping on the floor leads to me seeing all these things in my mind.
+
+    The five precepts plus celibacy are the essential basis for anyone who genuinely wants to practice. The others can be put aside initially. Their relevance becomes more apparent once one is sufficiently established in that basis. 
+
+    >What is a 'severely wrong view' of practice and purification? As far as I understand it (please correct me if I'm wrong), one takes up the 8 precepts and then the rest of the gradual training with the intention to be aware of the hindrances, delusions, the Wrong View, impurities, bad habits, basically all harmful things in your mind, and after realizing their danger, he naturally lets go of them...Is this wrong?
+
+    No it's not wrong, it's quite accurate. A 'severely wrong view of practice' would be along the lines of expecting a mechanical technique that can in principle be practiced without requiring a basis of virtue, to do the main work of purificaton. Essentially anything that sees 'practice/purification/meditation' as being about 'keeping the mind busy' **in order to avoid** wrong thoughts and actions, as opposed to directly discerning and refraining from wrong thoughts and actions oneself. 
+
+    >Also, please guide me on where I'm supposed to start with the HH material. Which video, text or essay I should start with.
+
+    Start with those that are relevant and that you can relate to directly, even if (or even especially if) you disagree with some of it. Depth is much more important than quantity. Listen/read one talk/essay that is relevant a few times, think about it and tty to apply it, rather than listening to or reading a great number of them.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/mitmwe6/)** _2025-03-20 16:50:35_:
+
+    *(In reply to Agreeable_Range_8732):*
+    > Thank you Sister, for responding. I realize I put in too many questions in one post, I apologize for that. 
+    >
+    > You mentioned precepts without virtue would be simply keeping the rules as rules, and failing to see them as markers of unwholesome motivation. I understand this in theory, but how do I put 'NOT failing to see them as markers of unwholesome motivation' into practice? 
+    >
+    > The only way I can think of is this: Every time I am about to break a precept, I stop myself and think why I wanted to break it. What my motivation was to break it. To see if my motivation was rooted in craving, aversion, or distraction. But what after that? What after I see that it was rooted in these things? I theoretically know that every motivation to break the precepts is rooted in these things, and that this causes dukkha, but my mind inherently doesn't see anything wrong with it, so it won't abandon them.
+    >
+    > Is this even a correct practice?
+    >
+    >   
+    > Also, you seem to have missed a question. Please answer this as well: 
+    >
+    >  "**Also, after I've established the precepts, what is the next step? And all the steps after that? Please point me towards a step by step guide: an organized, structured, ordered guide of what exactly is to be done, because the suttas are honestly kind of vague and really hard to understand."**
+    >
+    >   
+    > I ask this because even the HH videos are not structured. I have no idea where to start. There is no step by step guide. You tell me to start with a video that I can relate directly. I have no idea which video I relate to. I liked the peripheral awareness, the anapanasati, and the kasina videos. But these are way too advanced for me, so I can't even begin to practice that. I'm wandering in the dark here.
+
+    >how do I put 'NOT failing to see them as markers of unwholesome motivation' into practice? 
+
+    By not breaking them, first and foremost. 
+
+    If and when not-breaking-them brings up discomfort and suffering, that discomfort and suffering is the unwholesome motivation that they are showing you, and that you need to not cover up, nor act out of. 
+
+    You'd be failing to see them as markers of unwholesome motivation only if you then try to avoid that kind of discomfort or do things to cover it up. 
+
+    > I theoretically know that every motivation to break the precepts is rooted in these things, and that this causes dukkha, but my mind inherently doesn't see anything wrong with it, so it won't abandon them.Is this even a correct practice?
+
+    You could start to question and think about those motivations but only on the basis of actually keeping the precepts **first**, (or at the very least aiming to do so and having that as a standard.) That's the whole point - you won't be able to concretely see a problem in those things as long as you are acting out of them. So there has to be some faith (and common sense) involved. 
+
+    >"**Also, after I've established the precepts, what is the next step? And all the steps after that?
+
+    I didn't answer it because there is no 'next step'. Perfecting **this** step (learning what is unwholesome motivation, seeing that as suffering, and un-doing all things that involve such motivation) - is the fulfillment of the entire goal. When you have fully developed it, where there is no aversion, greed or carelessness to act out of, there is no more suffering that can arise. Every single sutta and dhamma talk is all about only this. 
+
+    (Also, it's partly intentional that the suttas are 'vague', because the problem that they are addressing is not something that is made any clearer by giving overly-specific definitions. The motivation behind your actions is, by nature, not this specific thing in front of you that can be 'pinpointed', and overthinking it is one of the main ways to hide it from yourself.) 
+
+    >I have no idea which video I relate to
+
+    You could start with the [Essential Talks](https://youtube.com/playlist?list=PLUPMn2PfEqIw9w6zCsn6l0jtG2Ww2prRD&si=r3ga72THAN_kOqE8) playlist, and the book [Dhamma Within Reach](https://www.hillsidehermitage.org/dwr/), that would already be probably more than enough to be going on with. Many of the shorter most recent talks should also be pretty relateable and straightforward.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/mkn7ue0/)** _2025-03-31 06:13:36_:
+
+    *(In reply to StrikingRegular1150):*
+    > Sister Medhini, I love your insights! I find such consistent value in your comments that I've bookmarked your Reddit profile and come to it on occasion to see what you've written lately.
+    >
+    > I'm curious if you could please elaborate further on these seemingly very important ideas to understand:
+    >
+    >  "..The motivation behind your actions is, by nature, not this specific thing in front of you that can be 'pinpointed', and overthinking it is one of the main ways to hide it from yourself."
+
+    >seemingly very important ideas to understand:
+
+    It is indeed important, that is why you will find so much emphasis in the talks, essays and here generally on developing 'background knowledge' of what is already there, as opposed to directly focusing on things. 
+
+    >elaborate further
+
+    It depends on what the specific question about it is, but the main thing is that developing clarity about what constitutes greed or aversion, for example, is not the result of actively doing something in particular. It's through admitting to yourself what you already know is wrong, and not acting out of it. 
+
+    This has to start with the precepts because one's reference point for what is wrong can't be perfect from the beginning, as I explained above, but that's not because that reference point is completely absent and has to be created from scratch, but because it's in a certain sense 'already there' being obscured by unwholesome actions, and one's habitual excuses and justifications for them. 
+
+    There will be some confusion, doubt and discomfort involved in developing this, and there is no getting around it or avoiding it.
 
 ---
 
@@ -1570,6 +1714,16 @@ Does anyone have any advice on a scenario of this kind? [Edit: the type of hindr
 
 
 
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1j8dlva/advice_on_how_to_deal_with_a_persistent_trigger/mhdjvth/)** _2025-03-12 12:47:53_:
+    The problem you need to be aiming towards is being triggered in the first place. As long as you are taking that part for granted as unavoidable, and all your energy is directed towards trying to deal with it and manage a form of 'perfect restraint', then it is guaranteed that the most you will be able to achieve is imperfect restraint; regardless of which way you go about it. It's like trying to stop a bramble bush from overgrowing your garden, but without digging up the root- no matter what you do and how much you cut it back, it is bound to grow back and find its way in. 
+
+    So the first thing is to think about and ask yourself to what degree you feel like being moved by the trigger is justified or inevitable. If you make it very clear to yourself that no matter the height of the pressure, the mind should not be moved by it, and make that a genuine goal - that is what would make all the difference. That's what brings the effort at restraint you are already doing 'into alignment', so that it is communicating to and training the mind to be untriggered, rather than just a response to its triggering.
+
+    For example you could then, and would certainly need to, continue to tailor your environment to not be constantly in the direct presence of pressure, but the purpose of that should not be to avoid the triggering situation just for the sake of not acting out, but to give yourself space to gain perspective on it. Rather than feeling justified in being relieved when it's not there, contemplate it and try to gain understanding of what the real element of suffering in it is and what makes you liable to act out. Equally when it is there, certainly you need to be restrained, but don't see that as a goal in itself, but as the necessary basis of not making it worse. If you do act out, accept the sense of shame that arises on account of it and never accept an 'excuse' for it.
+
+    One other rather important point is that you probably need to also check if there are ways you are in the meanwhile allowing your behaviour to spill out, especially seeking relief from discomfort via sensual comforts and pleasures. This is feeding the same root of the problem that you are trying to overcome. Also, training the mind in this way is not easy and the mind naturally rebels against it, so if you are allowing it any other way out, you won't be able to do it. If, on the other hand, you don't allow it any other way out, the same trigger could, rather than impeding progress, actually become something that would force you to progress more efficiently. 
+
+    It can feel unpleasant to fully accept the responsibility for being bothered to any degree in the first place. But doing so is the only way to begin to deal once and for all with the burden of ANY trigger.
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1j8dlva/advice_on_how_to_deal_with_a_persistent_trigger/mhc4fdc/)** _2025-03-12 04:51:16_:
 
     *(In reply to [deleted]):*
@@ -1997,6 +2151,341 @@ I'm fairly well-established in what I've mentioned above.
     The problem here is the assumption that you have a say in what practical model will provide a value for the precepts and sense restraint. You don't. Different "models" will inspire the mind to do the work at different times and for different people. The Suttas are full of such "models," and you can take up whichever feels more relatable and clear at the time. 
 
     If there's resistance towards that lack of control, that's a remnant of the same neuroticism you described and ultimately an expression of the view of self (assuming control over your experience from the outside). So you would need to include *that* as something to give up and not act out of within whichever model you're using at the time.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mf93dpm/)** _2025-02-28 14:03:24_:
+
+    *(In reply to kellerdellinger):*
+    > Coming from an amateur background in computer science, mathematics, and philosophy, contemplating a personal conversation with Ven. Anīgha wherein he emphasized the fact that the Dhamma is **timeless** yielded the following fruit.
+    >
+    > That the Dhamma does "not involve time" and is "beyond mere reasoning" are two qualities listed in the Suttas that are highly related.
+    >
+    > There is a common Platonic assumption present among mathematicians that the process of doing mathematics grants access to timeless truths that are independent of the thinking process used to uncover them. Kant called knowledge of this kind the analytic *a priori*, and (to extend Kant's vocabulary further) we might call the "objects" of this knowledge the noumena of mathematical intuition. The "noumen-icity" assumed to exist "behind" or "underneath" mathematics would correspond to that knowledge's supposed *a priori* character, the *apriori*'s metaphysical correlate: "true by definition even before anyone ever thought about it." Kant contrasted analytic *a priori* knowledge with his famous interest in synthetic *a priori* knowledge, knowledge that is not true by definition *per se*, but is nonetheless permanently, universally true without qualification and without any particular need for verification.
+    >
+    > Quine later called this synthetic-analytic distinction into question, arguing that there is, in fact, no real difference between the two. I'll summarize the gist of Quine by drawing attention to the "true by definition" definition of analytic knowledge. As 20th century philosophers came to lament, rigorous and clear definitions are quite difficult to manufacture. Moreover, to define something is an **activity**, an **activity** that is inevitably on-going. After philosophers like Nietzsche and (more rigorously) Heidegger called the Platonic noumena into question, a forever-on-going definitional Wittgenstein-ian language-game was all that remained of the analytic, a negotiation **activity** that no longer seems much different in character from the time-bound empirical investigations that were supposed to be the sole domain of the synthetic.
+    >
+    > For another angle on this we can look at a corollary of Quine's elimination of the synthetic-analytic distinction: the crumbling of the divide between deductive and inductive reasoning. Because of its appeal to the infinite, induction at first glance appears less reliable than deduction. Past experience is not an absolute guarantee of future results. But in the same way that Kant's glossing over the crucial difficulty involved in definitions prevented him from recognizing the fatal flaw in his philosophy, there is also a subtle, often unnoticed appeal to the infinite present in deduction as well. This subtle flaw is the implicit, inadvertent appeal to the stability of the deductive intuition itself. Hume wrote that "Reason is, and ought be, the slave of the passions," and passions are notoriously fickle. A reality offensive to the Platonic mathematician's sensibilities is that, at the end of the day, after all other arguments have been exhausted, the basic reason that we say that 2+2=4 is because it feels right. The Platonic mathematician asserts "And it will never feel wrong!" in vain, bellowing from their hubris into an existential abyss. They can provide no guarantee that it will never feel wrong except that at this moment it feels right to say so. Intuition is irreducible, and intuitions are liable to change. 
+    >
+    > For yet a third angle I'll bring in some theoretical computer science and proof theory. Theoretical computer science met the study of the foundations of mathematics in what is called the Curry–Howard correspondence. Massaging all the technical details to help support the narrative of this comment, the Curry-Howard correspondence basically states that all of logic and mathematics is intrinsically computational. All mathematical theorems should be capable of being expressed in formal symbolic language, given as input into a computer whose operations are defined by the axioms of the formal system in question, with an output of true or false being returned if the theorem is valid or not. So here we again have another demonstration that mathematics, logic, and the causal **modeling** that those things support are not static monoliths standing pure and firm "like a pillar" as an ancient Indian philosopher might have put it, but are rather **activities** with arbitrary rules made up to serve human whims, the evanescent bubbling of a binary foment. The concept of mathematics as Indra's Pillar is a big, fat assumption, an assumption that, like most assumptions, only exists in order to help the mathematician sleep at night, to help them feel like their life is less out of control and futile than it actually is. And for those that are familiar with the famous Halting Problem, Alan Turing proved that whether or not any particular binary bubbling will ever come to a satisfying conclusion is, in the general case, indeterminable. Another (even more general) way of expressing Turing's negative solution to the Halting Problem is *sabbe saṇkhārā aniccā*.
+    >
+    > Conceiving *sotāpatti* to grant the Ultimate Model is thus conceiving the Dhamma to be the opposite of *akalika*. Models and the algebra by which they function are intrinsically bound to the unfolding of intellectual **activity** within space and time. Yearning for a model that will be adequately convincing in order to get you to actually start practicing the Gradual Training or, as Ven. Anīgha emphasized to me in the aforementioned conversation, yearning for the future enlightenment that will save you from the present pressure of restraint is still playing directly into Māra's hands, still playing into the game of craving for "something new"---(a direct quote from Ven. Anīgha, expanded in the following).
+    >
+    > >Anīgha: You have to move in the timeless direction, which is seeing that it doesn't matter what doubts are there, any conception of a solution to these doubts is within the container of this experience. Immediately undermine the implication that something new needs to come, as I said before. 
+    >
+    > >Subhara: So, I guess the concern that I have is that doing that is a coping mechanism. Like, "Oh, now I've got this new solution, I just do that every time" and, like...
+    >
+    > >Anīgha: Well, it might happen. But see, the thing is that if you do it rightly it cannot be a solution in that wrong sense. It will become a management method when you're not actually seeing peripheral as peripheral, you're just thinking about it. And when it is seen correctly there's no room for doubt, so that's how you truly go beyond doubt. **You don't find a final confirmation that you're not making a mistake. You will never find that.** All you will find is that the thoughts of doubt arise, but because this context is so much more fundamental than them you don't get poked by them. That is the cessation of doubt.
+    >
+    > >...
+    >
+    > >It's going to be management if it's gratifying
+    >
+    > I bolded the two sentences I did because they were particularly devastating to me after contemplating them for a long time. In my own experience, those words directly undermine the general direction of craving and gratification, the direction of a projected, idealized intellectual safety and satisfaction **in the future**. It is not coincidentally also the same direction of the traditional causal interpretation of *paṭiccasamuppāda*, as well as the general pattern of what I have recently started calling "Mary Poppins Buddhism" (see below). As far as I can tell, the difference between the Gradual Training and Mary Poppins Buddhism is that the Gradual Training is not an activity, but rather the radical, unqualified, and resolutely permanent abstention from a whole universe of unwholesome activities, a renunciation without any substitution. *A lá* Ñaṇavīra, the Gradual Training is a pure negative that absolutely frustrates any tendencies towards the positive still latent within us, indirectly developing that which is *asaṅkhātā*. As per [AN 10.62](https://suttas.hillsidehermitage.org/?q=an10.62), the *satipaṭṭhānā* and *yoniso-manasikāra* (seeing peripheral as peripheral) are not activities that can be done, but are rather the downstream **result** of virtue, sense restraint, and first and foremost, faith.
+    >
+    > Radicalizing oneself in the direction of the undermining, uninspiring, impalpable, unpalatable, timeless negative; attempting to completely abandon the false assurances, insecurity, and endless *sotāpatti*-bargaining of the logical, activity-bound positive requires faith. (Faith was, as it happens, the crucial topic of my first conversation with Ven. Anīgha in August.) And on that front I might simply cite [Sister Medhini's recent comment](https://reddit.com/comments/1is8sko/comment/mdetacb), [my own most recent post](https://www.reddit.com/r/HillsideHermitage/comments/1ip19j0/the_situation_summarized/), and the following Sutta quote, a sentence that is, in my opinion, among the most compassionate the Buddha ever uttered.
+    >
+    > 
+    > >The proximate cause of faith is suffering. (SN 12.23)
+    >
+    > 
+    >     def mary_poppins_buddhism():
+    >         #when the dog bites, when the bee stings, when I'm feeling sad
+    >         if my.feeling in (feeling.unpleasant, feeling.neutral):
+    >             #I just think of a few of my favorite things and then I don't feel so bad
+    >             buddhism.coping_mechanism()
+    >         else:
+    >             sensuality.sensuality()
+
+    A lot of this is going in the right direction and the points about the fallacy of relying on rational models are quite correct, but some of it sounds like it could be going a bit too far to the other extreme (if I understand you correctly.) I will offer a few comments in case they are of use:
+
+    The main gist of what you're saying appears to be that truths of 'reason' are all ultimately relative, time-bound and unstable, there is no intuition or logical principle that cannot be doubted. The dhamma is timeless and beyond mere reason and thus requires Faith. 
+
+    >Radicalizing oneself in the direction of the undermining, uninspiring, impalpable, unpalatable, timeless negative; attempting to completely abandon the false assurances, insecurity, and endless *sotāpatti*-bargaining of the logical activity-bound positive requires faith.
+
+    It's not easy to see exactly what you mean here, but sounds like it could be a fancy way of saying 'one must abandon oneself entirely to (the god of) Uncertainty'. But faith is a bit more nuanced than that. (See below). 
+
+    >another demonstration that mathematics, logic, and the causal **modeling** that those things support are not static monoliths standing pure and firm "like a pillar" as an ancient Indian philosopher might have put it, but are rather **activities** with arbitrary rules made up to serve human whims,
+
+    And isn't such a 'demonstration' also a product of the same systems (theoretical computer science + foundations of mathematics), and thus subject to the same arbitrary and uncertain nature? Why should you trust THAT conclusion above all the others? 
+
+     “This view of yours, Aggivessana, ‘I have no liking for any’, have you no liking for that too?” (MN 74)
+
+    Indeed, the basic principles of mathematics and logic (say 'AB implies A') are not static monoliths standing pure and firm like pillars across time and space. But this does not mean that they are therefore entirely activities with arbitrary rules made up to serve human whims. 
+
+    If the former were true, 'whatever is of the nature to arise is of the nature to cease,' would be a conclusion arrived at via some sort of process of reasoning (A and B are impermanent, and C depends on A and B, THEREFORE... which is how some of Ñānavira's statements are sometimes misunderstood.) 
+
+    But if the latter were true, that knowledge could only be a mystical one that transcends doubt in some ineffable way that goes beyond the merely relative and 'made up' human truths like 'AB implies A.' 
+     
+    Avoiding these two extremes, there is the possibility of making a description of the NATURE of what is unavoidably already there, like it or not, underneath all the reasonings about it and explanations of it. Such as 'AB imples A', or 'phassapaccaya vedana.' (Of course either of these can be taken as a static 'fact' to reason with, build a model out of and find safety in as such. But the fact that they are liable to be misused does not make them useless in and of themselves.)  
+
+    That is where you find the 'context' that is, as Ven. Anīgha wrote in your quote, infinitely more fundamental than any particular thought of doubt you might have. Such a context cannot possibly 'pop up' out of the blue one day: if it is possible at all to become established in it, it is because it is already accessible immediately, universally, to everyone, while they look past it or ignore it or deny its reality. 
+
+    So there is such a thing as certainty, there is such a thing as truth and such a thing as knowledge, already, and if you're not clear about it, or only able to see it when it's on your terms (in satisfying 'models' and intellectual reasonings) it's because your actions and attitudes are obfuscating it, not because it's not there. Seeing peripheral AS peripheral is only possible because peripheral IS peripheral. (I.e. A is A, **on its own**, not because you decided it was or somebody said it was.) 
+
+    As for how this relates to faith. In a recent conversation, I mentioned that it seems to me that very few people are as faithful to the truth and careful of it as they need to be in their thinking and speaking. 
+
+    I don't mean abstaining from coarse lying only, but refusing to say anything (to yourself or others) without being clear about exactly what you are referring to in terms of your own experience. 'Knowing' all the answers to all the questions does not give you the right to give those as answers (as truth) - if you are aware that such 'knowledge' is based on memory or theory, means it is not true *for you* there and then.  
+
+    Proper faith can only start to apply where it should on the basis of that kind of commitment to truthfulness. There will be times when you genuinely discern something that is a certain way in your experience, and yet at the same time have a perfectly clear memory of the suttas, (or Ajahn Nyanamoli, Ñānavira, etc) saying the exact opposite. And then the former, *not* the latter, has to actually be the primary reference point for truth. The faith there is not what makes you DENY what you can discern for yourself and REPLACE it with the other, but rather what makes you question the accuracy of your discernment and/or understanding of the meaning of what was said.
+
+     The doubt that arises based on the discrepancy that is revealed in this way, cannot possibly be 'resolved' by resorting to another authority, text, or line of reasoning, and refusing to fall into doing so is what forces you to endure *that* uncertainty on the right level. That's how, practically, you upgrade your own understanding and arrive at the more accurate discernment which is measured by being untouchable by doubt - *through* that very experience of doubt, not at the expense of it. That is what faith is. 
+
+     But you'll never arrive at it unless you first require yourself to be rigorously truthful in regard to what you already know here and now, and do not allow yourself to plug the gaps or unresolved nagging aspects of it with words from others - or deny the possibility of clarity about it to begin with.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mfmqhsx/)** _2025-03-02 16:58:18_:
+
+    *(In reply to kellerdellinger):*
+    > >but some of it sounds like it could be going a bit too far to the other extreme
+    >
+    > >denying the possibility of clarity about it to begin with.
+    >
+    > That I might be interpreted that way did occur to me after commenting, but I didn't think it worth further clarification at the time given how niche my comment was to begin with.
+    >
+    > >the fact that they are liable to be misused does not make them useless in and of themselves
+    >
+    > nicely summarizes the qualification I agree with and would add to my comment myself in order to avoid misunderstanding. To the extent that I intended to undermine
+    >
+    > >commitment to truthfulness
+    >
+    > in my comment, it was only the common, presumptuous, metaphysical conceptions of truth that were my target.
+    >
+    > The kind of truthfulness and clarity that you accurately and carefully described is something I hold more sacred than anything else.
+
+    I'm glad we seem to not disagree on the main issue, although I am still not quite sure whether we mean the same by this: 
+
+    >the qualification I agree with and would add to my comment myself
+
+    It's just not very clear to me what you would apply this to, because you did seem to be saying that intuition is in its nature a faulty instrument, and that the rules of logic and language are in themselves inherently arbitrary and relative, and that is why anything that has these as its starting point is equally so. What I wrote was intending to say the opposite. 
+
+    Just to mention also, the reason I thought it worth commenting and clarifying these points was because, although via topics that are 'niche', the overall impliations are about what *yoniso manasikara* and faith actually are, which is obviously a core issue. In brief, if one takes seriously what you wrote about 'ordinary' intuition, (putting aside the secondary metaphysical views and speculations about it) one conclusion would be that *yoniso manasikara* must be a completely different thing, which is somehow  trustworthy where the former isn't. And it is not clear how, or what you see the difference to be. 
+
+    >something I hold more sacred than anything else.
+
+    Good, and just in case it doesn't go without saying, none of that last part was directed personally at you or something, just a general observation on a relevant point thst seems to get overlooked surprisingly often.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mfxrkh3/)** _2025-03-04 10:13:20_:
+
+    *(In reply to kellerdellinger):*
+    > This is my understanding at present, which (I have faith) will be improved with time.
+    >
+    > The difference I see between the ordinary intuition and *yoniso-manasikāra* is that ordinary intuition carries with it the assumption that the power granted by ordinary intuition to act in the world is stable, and that the results of those actions are of primary importance (emphasizing the content over the context). Ordinary intuition has to engineer computational processes, oversee all the symbolic manipulation while it is underway, and then tap its feet while it waits for a result that it can rip hot off of the press just to turn around and feed into yet another Turing Machine. I would say that intuition is thus **made** ordinary by its implementation. Ordinary intuition is when the clarity of vision granted by previously developed *yoniso-manasikāra* is weaponized. This weaponization inadvertently requires the limitation and dilution of *yoniso-manasikāra*; it would not be possible for a person to think it worthwhile to use their powers of dexterity and perception to shoot guns while retaining in mind the memory of the fragility of their gun-metal, their hands and eyes, and the military-industrial complex as a whole. 
+    >
+    > *Yoniso-manasikāra* in its purity makes no such demands on the future, a quality it gains by virtue of already "seeing the future" within the present. Ordinary intuition yearns to bring that future into the present, whereas *yoniso-manasikāra* recognizes the futility of such yearning: "it's already here." *Yoniso-manasikāra* does not assume itself to be stable (even if it is so stable) because it carries within itself the recognition that stability is irrelevant; regardless of whether or not something will continue to be, it **is**, which is the only guarantee that reality grants. "AB implies A" can be recognized as an intuition that is true in the sense that it is factually operative in the present, regardless of whether it remains operative in the future. The only problem with ordinary intuition is that it anxiously **requires** that AB imply A in the future so that it may continue to interpret the results of its computations in the way that it likes rather than seeing all of its hard work turn to meaningless mush, rendered uninterpretable by a change of the intuitive guard.
+    >
+    > So in the case of
+    >
+    > >the rules of logic and language
+    >
+    > I would say that these things are indeed arbitrary in the sense that their form, function, and results could always be otherwise. But in any given present, while they are what they are and not otherwise, they are of course the exact opposite of arbitrary. In their own present they are as meaningful as they can be, but the mistake as I see it is conflating meaningfulness with reliability. *Sabbe saṇkhārā aniccā* is in my mind another way of saying that "all that is meaningful is unreliable" **simply by virtue of being meaningful**. Meaningfulness is an implication, and all implications involve time (or at least they dangle time in front of our eyes), and time is not my friend.
+    >
+    > My faith (I don't know about others) is that if I keep indefinitely refraining from weaponizing my intuition and thereby assuming it to harbor even the slightest trace of noumenal reliability, eventually I will become incapable of holding a weapon ever again, that all power-seeking and power-using intuitions will permanently cease. To the extent that a weapon (faith) is involved in the disarmament process, it is the gun that I hold to my head every time I sense myself reaching for the cold steel of power. For me currently, faith (I have faith) involves assuming some bonus reliability to the words of Dhamma I have heard, which I accept only to the extent that I simply can't help it. I cannot help injecting a noumena into the Dhamma, so I tolerate it as long as that noumena is helping to keep me restrained.
+    >
+    > In summary, my perspective is that intuition is reliable only to the extent that it includes its future within its own present. "AB implies A" includes its own future when it (and its future) are recognized as a phenomena valid and reliable as such, but no more valid and reliable than that. Assuming intuition to have a reliability in the future "beyond the present" as opposed to the future "within the present" is the Platonic mistake. But undoing that mistake requires time, which as a matter of expediency requires an assumption of the reliability of the Dhamma: faith. Faith that the "beyond the present" can be completely eradicated, faith (in the god of) Uncertainty is indeed an idolatry that is contrary to the Dhamma in the ultimate sense, but all puthujjanas are idolatrous to the core so they better just worship an idol that will at least eventually lead them to the abandonment of idolatry rather than remain slave-worshippers forever. That is my model, a model that continually prompts me to refrain from harboring any expectation that this model will eventually Halt and spit out a Cookie---renunciation for its own sake and for no other.
+
+    This makes it a good bit clearer. Aside from incidental differences in definition, the only point where I would disagree (which is fairly subtle and may or may not be important depending on a person) is essentially the same as in the original comment, but I can put it more precisely now:
+
+    There's a difference between an experience being unstable and a principle being unstable in the sense that it might not apply to other (future) experiences.* When you say that an intuition (such as AB implies A) is
+
+    >factually operative in the present, regardless of whether it remains operative in the future. The only problem with ordinary intuition is that it anxiously **requires** that AB imply A in the future
+
+    I take this to mean that you are saying the principle in unstable, i.e. that although AB now implies A, in the future at some point AB might not imply A. (And this is also how I read the points in the first comment about intuitions, definitions, Wittgenstein, etc).
+
+    The thing is that if any valid rule of logic is unstable in this sense, there's no reason at all why a statement of the Buddha should be any different. *Sabbe saṇkhārā aniccā* is a meaningful statement made of words operating and defined within a system of thought, as much as any statement of logic or language. The implications of Gödel's theorem and Wittgenstein's paradox, assuming they are valid and correct, would carry over to everything in the Dhamma as well and everything in your original comment that applies to the rules of logic would apply to those principles. Basically, if *sabbe saṇkhārā aniccā* were to mean that a principle is unreliable in virtue of being meaningful, then we are doomed. But in fact, this is not the case: every arising-of-a-phenomenon (which is meaningful) is unreliable in virtue of its **arising**, not in virtue of its meaning, which is always secondary to its arising.
+
+    A practical example that might be helpful to illustrate: a very common and ordinary intuition that exemplifies a rule of logic, (and is also one of the most practical examples of seeing peripheral as peripheral) is what is expressed by the saying 'you can't have your cake and eat it.'
+
+    This saying is an arisen thing: a thought/image within this experience-as-a-whole, and the entirety of that arisen experience is unstable and subject to change. The saying and the meaning one currently associates with it can be forgotten completely; the words become perceived as an injunction to feed the cat, etc. But what that complete changeability does not and cannot imply is that "at present you can't have your cake and eat it, but perhaps at some point in the future we will be able to have our cake and eat it." To the extent that it applies to this experience, it applies to every experience - whenever anyone - past, future or present - sits down with a piece of cake, as much as they eat their cake they will find that they don't have it (and vice versa.)
+
+    In this sense, mundane as it is, it's already an example of a 'timeless' truth: and this not because it is true in the present and does not demand to be true in the future, but because it is not even bound by being 'in the present.' Any question of time is irrelevant to it. And the same is true of *sabbe saṇkhārā aniccā* - not, again, as a series of words and associated ideas existing here and now, but of the nature that is described by them, which includes those very words and ideas, but is not limited to them. So in this sense, both are equally 'stable'. (There are a few suttas that mention this stability explicitly, e.g. SN 22.32 and SN 12.65.)
+
+    But that kind of 'stability' can never become something to rely on as something to derive pleasure and gratification from, either in the form of 'weaponising' it or idolizing it. That's because, in the case of either of these examples, recognising the extent of such stability correctly without misconceiving it is only possible if it is seen on the territory of the actual lived experience here and now, including your own possibilities, the choices you are making and about to make. And, as you also alluded to, that's really what matters in terms of developing yoniso manasikara: whether you actually are living by those 'laws' or not. The ordinary intuition mentioned above would already force a person in the direction of dispassion if they were to take it very seriously and live in accordance with it, never allowing themselves to forget that every time they make a choice (e.g. accepting a desire to act out of) they are choosing to close off certain possibilities (freedom from desire).
+
+    For this reason, grasping these points 'correctly' may not matter very much - the point is that if someone is living by and adhering to the logic of non-contradiction and refusing to tolerate contradictory actions and choices, then even if on an intellectual or theoretical level he goes further than you are in totally dismissing all rules of logic as utterly arbitrary and meaningless, it's not a big deal. The main problem is really when such views are used (which they very often are, usually not deliberately) to justify tolerating contradictions and discrepancies in one's life and thought.
+
+    This is already rather long, but just a couple of brief thoughts about some of the reasons why it can be important: one of the reasons is that there is no need to regard yoniso manasilara or a statement like *sabbe saṇkhārā aniccā* as in any sense an 'exceptional case' that somehow stands alone and apart from every other principle or statement, i.e. as something that, to at least that extent would be 'new' or 'special'. There is nothing remotely radical about the statement 'whatever is of a nature to arise is of a nature to cease' - as lots of people like to point out by way of dismissing it, it's too obvious. The problem, without the word of another, is not really that there's some very subtle and deep hidden meaning behind it that one isn't grasping: it's that it never occurs to us to see it as important, and for that reason we do not develop the recognition of *the extent of what it applies to*, for the same reason that people end up living in complete contradiction with themselves, just because of not thinking about or giving weight to intuitions as ordinary as 'you can't have your cake and eat it.'
+
+    Lastly, the only point I would add to what you said about faith is that the only potential danger with assuming bonus reliability to the words of Dhamma is if that bonus reliability puts a cap on your ability to question the truth of those words. Faith is often confused with abstaining from doing so: in fact it’s the exact opposite. Without enough faith, you will never be able to question and doubt the reliability of that which you have faith in to the same extent that you can question and doubt everything else, in the face of the real possibility that it might cause you to abandon it or it to abandon you. Without that, you’ll never be truly independent of those words and the need for faith in them.
+
+    
+    *Edited the phrasing here slightly ('thing as an arisen phenomenon/experience' => 'experience') to avoid potential ambiguity between 'thing' and 'experience'
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mg7wger/)** _2025-03-05 21:27:23_:
+
+    *(In reply to kellerdellinger):*
+    > >This is already rather long
+    >
+    > Thank you for taking the time to write it, Ayye. This exchange has been quite stimulating and, especially after this most recent comment of yours, I am very grateful for it.
+    >
+    > Much like the OP, I have always wanted to Know For Sure. I took Ven. Anīgha's quoted words to mean that I will **never** know for sure and began practicing accordingly, resolving to allow Uncertainty to permanently have its way with me without (ideally, as a training) entertaining any hope for relief. I am terrified of getting this wrong again, and without explicitly thinking to do so it seems I latched onto the idea that I need to practice the *anupubbasikkha* without even expecting the Dhamma to be confirm-ably true, or lasting, or to ever give me any of the security or safety that I want out of it...which is what I now see to be what I took to be true, lasting, and a source of security and safety. A contradiction...Of. Course. Exchanges like this with Ven. Anīgha and now yourself continue to frustrate me, though at least through them I continue to receive confirmations that I don't understand what I don't understand.
+    >
+    > I'm not even quite sure where to go from here, honestly. I am convinced that you are right and that I am wrong, and I am glad this has even remained on-topic, discussing models and the reliability thereof.
+    >
+    > In your comment you already pointed towards how to avoid turning the yoni domain of reliable truths into Brahman, by **living** them as opposed to whatever else might done with them in order to conceive them to be something that they are not. You seemed to create a contrast between **things** which are unreliable by virtue of their arising and **principles**which are independent of arising. Fearing making timeless principles into Brahman was my first reaction, though you already preemptively neutralized that fear in a way that was satisfying.
+    >
+    > My next concern is that the words "thing" and "principle" can both be reverse-translated to *dhamma*. If you are familiar with Heidegger's terminology, *dhamma* thus seems to encompass both the ontic and the ontological. I do believe (I live it) that there are stable ontological truths, though I cannot intellectually justify that stability to myself beyond my lifestyle. The yoni does factually change, and for my great benefit---I have been "pushing my yoni back" like my life depends on it, because the more I push it back the more I can see that **it does** depend on it. So if the Dhamma *qua* fundamental ontology as opposed to the ontic manifestation of thought "resides" within the yoni, it doesn't seem to follow that it is stable by virtue of that "lived" yoni-ness, especially given that bringing about changes in that yoni domain is the sole purpose of my entire existence at this point.
+    >
+    > Again, this is frustrating because everything you wrote inspires trust. It feels right. I believe it is. But I cannot justify the stability of the Dhamma to myself theoretically. I imagine that that is because the only stability I have any understanding of is the noumenal, metaphysical variety. Though I remain true to my Nietzschean heritage by railing against it and (ostensibly, in public) refraining from conceiving the Dhamma in any such terms, clearly I am still bound (as Nietzsche also was) by the metaphysical because when I turn down the haughty denigration of it, metaphysics is still all I know how to do. I fall right back in for lack of understanding how to fall anywhere else, and so I don't even know where to take the conversation from here. I'm just lost, though you seem to have confirmed that being lost or not lost **in that way** is mostly irrelevant so long as I continue to live properly.
+    >
+    > At least the more frustrated I become the more I gain faith that what I am being led towards, that I want to understand but do not, is nothing other than the True Dhamma. If you have any more clarity to add in response to address my concerns and confusion I would be even more grateful than I already am. You will need to completely take the reins from here if you choose to do so; I am out of my depth.
+
+    Practical points first, technical theoretical points afterwards :)  
+                                                                        
+    >I took Ven. Anīgha's quoted words to mean that I will never know for sure and began practicing accordingly... 
+
+    Just to briefly clarify this so it’s understood I’m not contradicting what he said there: what you most certainly will never find, and can safely give up any expectation of, is anything even remotely corresponding to a flashing sign in neon lights popping up before you saying ‘This Is It. You Have Arrived.’ Whether you can have or should expect ‘confirmation’, clarity, or knowledge of what you know to *any* degree, and of what kind, is another question. But, practically speaking, you can only really find the answer to this question by understanding the dhamma for yourself and developing that clarity and knowledge on the correct level, which is the level of liability to suffering and escape from it.                                                     
+                        
+    >It seems I latched onto the idea that I need to practice the *anupubbasikkha* without even expecting the Dhamma to be confirm-ably true, or lasting, or to ever give me any of the security or safety that I want out of it...which is what I now see to be what I took to be true, lasting, and a source of security and safety.                                                                       
+
+    This is a very accurate description of the main problem. The mistake is that, when you have been genuinely way out of balance in one extreme (in this case rationalising and seeking some ‘confirmation that will make you know for sure’); you hear an instruction that makes you realise your mistake and stop maintaining that wrong direction, and this results in a factual ‘balance’. But because of not recognising that balance as such, you then naturally fix on the direction of the instruction that lead you to it *at the time* as ‘Aha, so *that’s* the Way To Go’ and of course then topple over into the other extreme.
+
+    >I am terrified of getting this wrong again
+
+    That’s very good, and not losing sight of that is what will make sure that you do not get it wrong again as long as you understand what it was you were ‘getting wrong’.
+
+    The answer to that is embedded in what you wrote there: *finding safety in things* is the heart of the unbalance. And that is what it is because of the ATTITUDE of finding safety, not by WHAT you are finding safety in (e.g. answers vs non-answers, knowing vs never knowing, etc). There is NO behaviour, instruction, direction, principle, absence of principle, or, literally, anything that can be thought or designated, that can justifiably be taken as a refuge even for a fingersnap. And that is never because WHAT you are latching onto as a refuge is a problem, but only because latching onto something as a refuge is universally rooted in suffering. 
+
+    (This should also address your concern about ‘fearing making timeless principles into Brahman’ – there is no problem with timeless principles (I will explain more about timelessness below); it’s finding safety in them that makes them into Brahman. Practically speaking, whatever you are finding safety in is thereby made into Brahman.)                                                                                       
+
+    If you don’t suffer in the first place, you don’t need to look for any safety or refuge: not even the gradual training; not even ‘not finding safety in anything.’ (And then you’d truly be practicing the gradual training without needing to ‘practice’ it, and truly not finding safety in anything.) 
+
+    So then how do you not suffer in the first place: by seeing as it is that ‘resting on’ things or ‘latching on’ things greedily, aversely or carelessly is the root of suffering in each and every case, past, present and future. And the only way to understand that is by learning to discern that attitude of ‘fixing on’ in regard to whatever the mind is ‘resting on’ or ‘latching onto’ NOW - whether by way of wanting it, shrinking from it or carelessly disregarding it.  
+                                                         
+     Which, in turn, is only possible in virtue of refraining from any action by body, speech, or mind that is stemming from and coming out of suffering, of any kind and in any degree. That’s the only way to make it possible to see the nature of that suffering, liability to it and freedom from it.
+
+     In practice this will indeed sometimes (how often depends on a person) translate to ‘giving up trying to be free from suffering’ because at some points, all the restraint you’re doing and effort you’re making is under the umbrella of a mental action of ‘trying desperately to be free from suffering’ which is stemming from and coming out of suffering already (and whatever is already rooted in suffering can NEVER result in freedom from it.)
+
+     But the point is to then learn to not-do **only that action**, and **only because of what it is rooted in**. In other words you give up *that* ‘trying to be free from suffering’ there and then, but without making ‘giving up trying to be free from suffering’ into a universal policy. (And certainly without abandoning the restraint that you were practicing within that overall mental action, because non-restraint would equally be necessarily coming out of suffering.)
+
+    A semi-theoretical point that might nonetheless be helpful in terms of understanding timelessness practically: is because of that kind of ‘stability’ (= timelessness) that it is possible to be free from **liability** to suffering (and to know this beyond doubt).  Where there is liability to suffering, that liability is not IN the present such that it may or may not be IN the future. That would not be  'liability', but simply an experience of pain. But it would equally not be accurate to say ‘it will definitely be IN the future as it is IN the present. As a liability, it is not measured by time at all, (which is also why it is possible for this to be the only failsafe reference point for what is dhamma and not dhamma and whether you are understanding it or not). To the *extent* that you are liable to suffering now, to that *extent* you have been in the past, and will be in the future. The exact same applies to the freedom from that liability, which is the same thing without ignorance.                            
+                                                                                                                            
+    >being lost or not lost in that way is mostly irrelevant so long as I continue to live properly. 
+                                               
+    Yes, just as long as this is not taken to mean (though I don’t think you are, I’ll mention it anyway): ‘I’ll just keep the precepts and do what I’m supposed to do and everything will work out.’ ‘Living properly’ strictly speaking means living without contradictions, and the only one who lives totally without contradictions is an arahant 🙃.
+    - **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mg805cl/)** _2025-03-05 21:44:20_:
+
+        *(In reply to Sister_Medhini):*
+        > Practical points first, technical theoretical points afterwards :)  
+        >                                                                     
+        > >I took Ven. Anīgha's quoted words to mean that I will never know for sure and began practicing accordingly... 
+        >
+        > Just to briefly clarify this so it’s understood I’m not contradicting what he said there: what you most certainly will never find, and can safely give up any expectation of, is anything even remotely corresponding to a flashing sign in neon lights popping up before you saying ‘This Is It. You Have Arrived.’ Whether you can have or should expect ‘confirmation’, clarity, or knowledge of what you know to *any* degree, and of what kind, is another question. But, practically speaking, you can only really find the answer to this question by understanding the dhamma for yourself and developing that clarity and knowledge on the correct level, which is the level of liability to suffering and escape from it.                                                     
+        >                     
+        > >It seems I latched onto the idea that I need to practice the *anupubbasikkha* without even expecting the Dhamma to be confirm-ably true, or lasting, or to ever give me any of the security or safety that I want out of it...which is what I now see to be what I took to be true, lasting, and a source of security and safety.                                                                       
+        >
+        > This is a very accurate description of the main problem. The mistake is that, when you have been genuinely way out of balance in one extreme (in this case rationalising and seeking some ‘confirmation that will make you know for sure’); you hear an instruction that makes you realise your mistake and stop maintaining that wrong direction, and this results in a factual ‘balance’. But because of not recognising that balance as such, you then naturally fix on the direction of the instruction that lead you to it *at the time* as ‘Aha, so *that’s* the Way To Go’ and of course then topple over into the other extreme.
+        >
+        > >I am terrified of getting this wrong again
+        >
+        > That’s very good, and not losing sight of that is what will make sure that you do not get it wrong again as long as you understand what it was you were ‘getting wrong’.
+        >
+        > The answer to that is embedded in what you wrote there: *finding safety in things* is the heart of the unbalance. And that is what it is because of the ATTITUDE of finding safety, not by WHAT you are finding safety in (e.g. answers vs non-answers, knowing vs never knowing, etc). There is NO behaviour, instruction, direction, principle, absence of principle, or, literally, anything that can be thought or designated, that can justifiably be taken as a refuge even for a fingersnap. And that is never because WHAT you are latching onto as a refuge is a problem, but only because latching onto something as a refuge is universally rooted in suffering. 
+        >
+        > (This should also address your concern about ‘fearing making timeless principles into Brahman’ – there is no problem with timeless principles (I will explain more about timelessness below); it’s finding safety in them that makes them into Brahman. Practically speaking, whatever you are finding safety in is thereby made into Brahman.)                                                                                       
+        >
+        > If you don’t suffer in the first place, you don’t need to look for any safety or refuge: not even the gradual training; not even ‘not finding safety in anything.’ (And then you’d truly be practicing the gradual training without needing to ‘practice’ it, and truly not finding safety in anything.) 
+        >
+        > So then how do you not suffer in the first place: by seeing as it is that ‘resting on’ things or ‘latching on’ things greedily, aversely or carelessly is the root of suffering in each and every case, past, present and future. And the only way to understand that is by learning to discern that attitude of ‘fixing on’ in regard to whatever the mind is ‘resting on’ or ‘latching onto’ NOW - whether by way of wanting it, shrinking from it or carelessly disregarding it.  
+        >                                                      
+        >  Which, in turn, is only possible in virtue of refraining from any action by body, speech, or mind that is stemming from and coming out of suffering, of any kind and in any degree. That’s the only way to make it possible to see the nature of that suffering, liability to it and freedom from it.
+        >
+        >  In practice this will indeed sometimes (how often depends on a person) translate to ‘giving up trying to be free from suffering’ because at some points, all the restraint you’re doing and effort you’re making is under the umbrella of a mental action of ‘trying desperately to be free from suffering’ which is stemming from and coming out of suffering already (and whatever is already rooted in suffering can NEVER result in freedom from it.)
+        >
+        >  But the point is to then learn to not-do **only that action**, and **only because of what it is rooted in**. In other words you give up *that* ‘trying to be free from suffering’ there and then, but without making ‘giving up trying to be free from suffering’ into a universal policy. (And certainly without abandoning the restraint that you were practicing within that overall mental action, because non-restraint would equally be necessarily coming out of suffering.)
+        >
+        > A semi-theoretical point that might nonetheless be helpful in terms of understanding timelessness practically: is because of that kind of ‘stability’ (= timelessness) that it is possible to be free from **liability** to suffering (and to know this beyond doubt).  Where there is liability to suffering, that liability is not IN the present such that it may or may not be IN the future. That would not be  'liability', but simply an experience of pain. But it would equally not be accurate to say ‘it will definitely be IN the future as it is IN the present. As a liability, it is not measured by time at all, (which is also why it is possible for this to be the only failsafe reference point for what is dhamma and not dhamma and whether you are understanding it or not). To the *extent* that you are liable to suffering now, to that *extent* you have been in the past, and will be in the future. The exact same applies to the freedom from that liability, which is the same thing without ignorance.                            
+        >                                                                                                                         
+        > >being lost or not lost in that way is mostly irrelevant so long as I continue to live properly. 
+        >                                            
+        > Yes, just as long as this is not taken to mean (though I don’t think you are, I’ll mention it anyway): ‘I’ll just keep the precepts and do what I’m supposed to do and everything will work out.’ ‘Living properly’ strictly speaking means living without contradictions, and the only one who lives totally without contradictions is an arahant 🙃.
+
+        Adding the theoretical bit here separately for the sake of clarity:
+
+        First a brief side note about theory generally:
+
+        >I cannot justify the stability of the Dhamma to myself theoretically.
+
+        **No one** can, and the whole mistake is thinking that one could or should be able to. That was why I put so much emphasis in my first comment above about being clear and truthful **in regard to what you know you are referring to**. If someone is really sticking to this, it would be impossible for them to ever think they ‘understand’ a dhamma that is purely abstract.
+
+        Abstraction MEANS non-understanding, and so where the only way you can relate to something is on a totally theoretical, non-applied level, confusion is the only right and proper way for things to be. There’s a possibility and necessity of clarifying things through theoretical information only insofar as there is a ground in one's lived experience for the information to communicate to (which in your case my impression is that there is to at least some degree), and then it has to be understood ‘from the ground up’, so to speak, not from the theory down.
+
+        >You seemed to create a contrast between things which are unreliable by virtue of their arising and principleswhich are independent of arising.
+
+        >My next concern is that the words "thing" and "principle" can both be reverse-translated to *dhamma*.
+
+        I am unfamiliar with Heidegger’s terminology (though I think I infer the sense of the ontic/ontological from what you wrote and basically I’d say the distinction between them is invalid) and also generally prefer to avoid too much navigating between philosophical terminology/Pali terminology/my own understanding because it creates a lot of places for translation errors. So I’ll just reply to the two points above and it should answer the rest.
+
+        So there are a few points of confusion:
+        - ‘Timelessness’ or what I called ‘stability’ in the previous comment is not the same as permanence. (I used the word ‘stability’ before because I got the sense you were thinking of timelessness in a different way and wanted to avoid creating confusion, but I would prefer generally the word timelessness (akalika), because ‘stability’ has more of a connotation of permanence. But any word you use – one could also say ‘infinity,’ or even ‘eternal’ in the strict sense, can and will still be confused with permanence, so what can you do).
+
+        - ‘Independent of time’ does not mean ‘independent of arising.’ The mistake is to think of things arising IN time, whereas in fact it’s the other way round: any notion of time is already something that has ARISEN.
+
+        - ‘Thing’ and ‘principle’ can indeed both be reverse-translated to *dhamma*. That’s why when just wanting to make the distinction which was the main point I used the word ‘experience’ as a practical designation of what is unstable*, and when speaking more strictly I said it was, now slightly paraphrasing, the ‘arising-of-a-thing that is unreliable in virtue of its arising’ – not that the *thing* was unreliable.
+
+        Strictly speaking, there’s no difference between ‘thing’ and ‘principle’: EVERY *dhamma* is timeless and infinite *to the extent that it has arisen*, but that does not mean it is independent of arising.
+        That’s why it doesn’t say ‘sabbe dhamma anicca’ but ‘sabbe **sankhara** anicca, sabbe **dhamma** anatta.’ The arising of all things/principles/dhammas is impermanent (all an ‘arising’ can do is cease), thus all things/principles/dhammas are not-self (i.e. no thing is independent of arising.)
+
+        So anything – say a cat, for example, *to the extent that it has arisen*, is stable in its principle - in its ‘catness’. To the extent that it is a cat now, it has always been a cat, and will always be a cat. A cat cannot ever become a non-cat. But the cat has *arisen* and the entire ‘stability’ of that cat is contained in its arising, and all an arising-of-a-thing can do is cease.
+
+        The same applies to any general truth such as ‘you cannot have your cake and eat it’. The issue is that logical statements and statements of The Dhamma are what real arisen things are in their general nature; but as soon as you think them abstractly (by overly attending them) then it’s not the nature of that truth you are discerning, it’s become another ‘thing’ that you are now fixed on and not understanding. This is another way of saying that if you end up thinking of a timeless truth as independent of the yoni, then it’s not the truth you’re thinking of, it’s just an abstract idea.
+
+        So the thought ‘you cannot have your cake and eat it’ is *true* only insofar as that *principle* of having-cake-in-virtue-of-not-eating-it has ARISEN in the form of a concrete intention, and is recognised as true (timelessly) **on the level of that arisen intention.** As such, it and its truth depend totally on that very arising of intention in the same way as the catness of a cat depends on its arising.
+
+        (That’s why I was putting emphasis on needing to prioritise **living** according to such truths, because if you are, you would not be able to misconceive them as independent of arising, even if all this just sounds like gobbledegook.)
+
+        One last point that might be useful in terms of what I wrote above about arising preceding time (and space for that matter): on a practical level, it is acting out of and failing to understand hindrances that maintains this whole upside-down-ness. Whenever you are under a hindrance, say worrying about a problem that you might encounter on pindapat tomorrow, as far as that thought is pressuring and hindering you, means feeling like (not explicitely thinking) that problem is somehow there waiting for you tomorrow on pindapat beyond your thought of it. Time (‘tomorrow’) and space (‘on pindapat’) are characteristics of that thought, so they too end up there waiting for us to do things in and deal with problems in; and because our whole lives are passed under hindrances, we feel like we are living our entire lives IN time and IN space, and do not get to see the arisen thought (dhamma) as containing both. I make this point so as to emphasise that the only way to genuinely establish ‘the right order’ in these things is to overcome hindrances, which goes back to the first part I wrote above.
+
+        I guess this is a lot of information so obviously feel free to just pay attention to whichever bits are mosr relevant. And to let me know if anything isn’t clear.
+
+        
+        **EDIT: I realised that I did in fact at one point in the other comment use the phrase 'thing as phenomenon' together with 'experience', which could indeed be confusing. I will correct that now. 
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mgb9s4i/)** _2025-03-06 11:31:39_:
+
+    *(In reply to Additional_Fix8417):*
+    > Dear Sister, I’d just like to point out that Heidegger’s distinction between the ontic and the ontological is valid (as clarified in my [reply](https://www.reddit.com/r/HillsideHermitage/s/H2rAxDnKzJ) to him), insofar as it is interpreted rightly, that is, as a study of being (ontology) rather than ‘(noumenal) reality’ (metaphysics)—the latter of which seems to be the interpretation that Ven. Subhara leans towards.
+
+    Yes, that was how I understood it and that was the distinction I was saying was invalid - fundamentally speaking. 
+
+     Of course, from Heideggar's point of view and anyone's point of view to the extent that they still have conceit, it is indeed very valid in the sense that this is how things will genuinely appear to us, and it's a very accurate description of that, which is what you have to start with. The only problem is to then think 'that's how it seems to me and Heideggar therefore that's How It Is' and read that view into all the suttas as a result, meaning that all the suttas teach you is a more refined version of your own point of view; you never go beyond Heideggar.
+
+    Again as I said I haven't read Heideggar myself so this is just on the basis of what you and Ven. Subhara said, but my point above was that if 'ontic vs ontological' corresponds to any degree to a distinction between 'things' vs 'principles', fundamentally the distinction is invalid. The 'being' of things is not different from a 'thing'. You could say a 'principle' is just a more general 'thing'. 
+
+    >[The essence is] the manifest law which **presides over the succession of its appearances**, it is the principle of the series. (My emphasis)
+
+    To put it in terms of what I wrote above using example of intention and the principle or 'law' of 'you cannot have your cake and eat it' - in strict terms, an intention is not *governed by* the law 'you cannot have your cake and eat it;' - the law 'you cannot have your cake and eat it' IS what an intention is; thus to see any intention *as such* is to see the principle or law 'you cannot have your cake and eat it.' 
+
+     Again, all this has to be qualified heavily by what I wrote above about the danger in understanding things abstractly, it's a very problematic trap. 
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mggsxz0/)** _2025-03-07 05:48:45_:
+
+    *(In reply to [deleted]):*
+    > [deleted]
+
+    What I meant there was closer to the second way you phrased it. The practical difference is that questioning and doubting things you do not have faith in does not require courage. Questioning and doubting that which you have faith in requires a lot of courage, which can only be supplied by the sufficient degree and quality of faith. 
+
+    It is an extension of the other things I wrote about faith that you quoted above: whether faith is blind or not blind.  
+    Someone who has faith in God, for example, will always know 'deep down' that if they question and doubt the basis of that faith enough, it will cause them to lose their faith in God. (Because God is a contradiction and faith in it is equally so, and therefore can only be a blind faith.) Faith in God can thus never give you the courage to go beyond faith. 
+
+    Faith in the dhamma can give you the courage to go beyond that faith, but only if the faith is not blind. Otherwise, though you might say you have faith in the dhamma, for you it's just another God.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mghgy9t/)** _2025-03-07 09:36:10_:
+
+    *(In reply to kellerdellinger):*
+    > After reading and re-reading and contemplating and re-contemplating your comment I began to have difficulty discerning what our actual disagreement was. It seemed to me that much of what you wrote in this comment was something I had previously written or at least alluded to in this thread in different words. But I think I may have reached the heart of the matter and will summarize below what I think it is you've been trying to communicate to me for confirmation.
+    >
+    > Where it seems I went wrong is inadvertently equating dependence on **arising** (and therefore also dependence on ceasing, i.e. *anicca*) with dependence on **time**, when the truth is the exact opposite. Saying that things are dependent on arising is in fact the same as saying that they are **independent** of time, and that situation applies not just to "principles" that might be magically conceived to be above and beyond time in the metaphysical sense (which is conceiving that they are independent of **arising** in the more proper sense) but to all things in general.
+    >
+    > What you called the stability or timelessness of things is what I was alluding to in my comment about the fullness of the meaning and truth of things "in their own time," but that verbage was chosen based on my mistake: I was still equating arising with temporality. I should have written "in their own **arising**," because things do not, as you wrote, arise **in** time. They do not have "their own time," they do not "carry" time with themselves. To the contrary, total independence from time is intrinsic to the thing-ness of things.
+    >
+    > And in a sense that mistake was something I was authentically trying to get away from by repetitively "including within" as we are all often instructed. I was including things (especially that thing which now holds the most emotional energy for me, the Dhamma and my attempt to understand it) "within their own time" in order to try to avoid conceiving them to be permanent sources of satisfaction to latch onto as you discussed. I thought to escape Māra by giving him even the whole of my future and the hypothetical enlightenment that might occur within it, forsaking all hope of future understanding or safety in the hope that that might be what does eventually grant me the understanding and safety I do desire. But by "radically" allowing for the possibility that the truth value of the Dhamma might forever bounce back and forth between 0 and 1; true, then false, then true again, false again; yet still "humbly" submitting myself to living as if it were true no matter what so as to somehow make? it permanently true and thereby Arrive at Ultimate Dispassion and independence of time, triumphing over Māra by just handing him over the whole deck of cards---all of that was still conceiving the truth of things to be "out there", within and dependent on time, amendable to permanence. After pulling back from yearning for The Dhamma Out There In The Future I still landed in a place where I was placing the Dhamma out there in the future in a more subtle way, out there in the future "but only maybe." "I'll live it even if it isn't truly out there in the future" still allowed for the possibility that it was truly out there in the future. I was trying to include everything within the yoni, trying to make sure I didn't think of the Dhamma as a permanent truth independent of the yoni so as to make it into something to latch onto, but I was still thinking of that yoni as the time and space that things exist within, which ensured that I was still inadvertently thinking of the Dhamma as independent of the actual yoni. I was thinking of impermanence as dependence on time rather than seeing impermanence proper, the eternal impermanence of eternal things eternally independent of space and time. 
+    >
+    > Which is something I have faith that I still don't see by virtue of not being free from suffering, but hopefully via this conversation I have moved a bit closer to it. I hope at least that I have understood you in a superficial, theoretical way. Please let me know if I still have not yet arrived even at that.
+
+    Yes, that sounds right. It was pretty much what I was getting when I wrote that it's not necessary to think of The Dhamma as in any sense different, separate, above, special or apart from *any* dhamma (thing). (Which was obviously not what you were saying or explicitly thinking, but it was what was implied in it. \[i.e. on the level of 'intention behind the action'.\])  
+
+    In a sense the theoretical 'disagreement' as I said before at a couple of points, is not necessarily a very important one; depending on how much weight you give to the views vs the non-acting-out of craving. Rather than, say, 'trying to put this new understanding into practice,' you could, (and would probably be safest to) basically put all of it aside, keep it at the back of the mind leaving a kind of 'potential gap' for it to be upgraded, and just see (allow to be what it is) the intention that is **behind** whatever you are doing whether on a broad or particular level. And not act out of craving. That's the most relevant 'yoni'. 
+
+    Otherwise, the one significant point you didn't mention here which is probably worth mentioning:   
+      
+    \- That question of distinction between 'thing' vs 'principle' is quite crucial. The main impression I got from your comments was that out of fear of 'ultimate principles' you were in effect practicing to regard every principle as 'just a thing' - 'there is ultimately no such thing as an ultimate principle, whatever principle is here now is only so on the basis of this particular thing; thus it is not REALLY a principle. Every principle is just a thing.'   
+
+    What I want to mention is that it's very important that what I said about the distinction between 'principle' and 'thing' being **fundamentally speaking** invalid, should NOT be taken as a validation or confirmation or saying the same as the above way of regarding the matter.   
+      
+    From your point of view, there IS factually a distinction between them, and there IS such thing as general laws or principles, which **are being viewed and lived** as 'above and beyond' all the changing of things on a particular level, all the while you try to think about them  in the 'correct' way as being within the yoni, and including them there and so on. Trying to PUT them 'within the arising of things,' will actually just make them into more 'things'; while those factual principles are still left outside and remain invisible to you as such. 
+
+    So, really, it would be more accurate from your point of view to think of general natures/principles of things *as actually independent of arising*, and **allow them to be there** as such, because for you that IS how they are. Only by sufficiently allowing that 'outsideness' of them to be what it is, can that factual 'outsideness' be UNDERSTOOD on its own terms, such that all the above theory actually 'lands' in the way that makes you unable to suffer even if you want to.
 
 ---
 
@@ -2540,6 +3029,66 @@ Is this what a perfect lion's posture looks like? [https://scdd.sfo2.cdn.digital
     Not necessarily. The senses being "pacified" (i.e., still perfectly functional and aware of the same objects but free from defiled intentions towards them) [means being in samādhi](https://suttas.hillsidehermitage.org/?q=sn35.246). Practicing sense restraint properly simply means not attending to things out of greed, aversion, and delusion, even if those pressures are still there. 
 
     But it's important to remember the presence of defilements or craving is determined by the mental state at the time, *not* by the specific objects. So at one point, *because* you're in an angry mood, thinking about someone's faults or about something you dislike can be unwholesome because it will make that state worse. On another occasion, if the mind is more neutral or even content, and you're able to keep it so, those same thoughts would not be a problem at all. Hence what matters is the the state of mind, as you quoted. And if you adhered to that principle, you would be unable to break any of the fundamental precepts, since that would have to come out of a defiled mind. That's how the early Saṅgha lived without any rules for a good while.
+
+---
+
+**r/HillsideHermitage** | Posted by Old-Snow84 _2025-02-18 09:22:38_
+### [Conflicted feelings about ordination](https://www.reddit.com/r/HillsideHermitage/comments/1is8sko/conflicted_feelings_about_ordination/)
+
+It has been a year since I started considering the idea of becoming a monk. I am scheduled to meet with bhikkhus to discuss it, and I plan to leave in a few months for a long-term stay in a monastery in preparation for my ordination.
+
+I have spoken about it with my wife and my mother, the two people closest to me, and although it deeply saddens them, they support me in this endeavor.
+
+Now that everything is becoming more and more concrete, I feel deep sadness at the thought of committing to this path. It seems that by making this choice, all that awaits me is the sadness of solitude and the regret of having made a decision that not only brings me sorrow but also saddens my loved ones. Yet, at the same time, lay life no longer holds any real meaning for me. I no longer see any reason to do everything required to build this life. It all seems so futile. I no longer feel like I am doing all this for myself but merely because it "has" to be done. These activities no longer hold any meaning—I no longer perceive them as pleasures we have the freedom to indulge in, but rather as obligations we must fulfill to temporarily distract ourselves from the existential suffering we would inevitably face if we ceased these tasks, even for a moment.
+
+I feel almost "compelled" to become a monk because if I do not, I fear that while I may enjoy the comfort of my wife's and mother's presence and the joy those moments bring, there would always be, lingering in the background, the feeling that I failed to do what should have been done.
+
+I am also afraid of not being brave enough, of not having what it takes to endure the renunciations that monastic life demands. But I suppose it is impossible to know that in advance.
+
+I realize that these conflicting emotions are probably quite normal when faced with such a life-changing decision, but I think I would have liked to feel more enthusiasm about making this choice (even though, at the same time, the prospect of finally being able to do what truly matters motivates me). I wonder if these feelings might be a sign that monastic life is not actually the right path for me.
+
+I know that, in the end, the decision is mine to make, but I cannot talk about this with anyone in my personal circle, and I think I would appreciate hearing the thoughts or reflections of people who can understand what I am going through.
+
+Thank you very much for reading.
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1is8sko/conflicted_feelings_about_ordination/mdetacb/)** _2025-02-18 11:05:34_:
+    >I think I would have liked to feel more enthusiasm about making this choice (even though, at the same time, the prospect of finally being able to do what truly matters motivates me)
+
+    It is because of relying on such enthusiasm that people would end up losing sight of the less pleasant and less 'inspiring', but actually far more accurate reasons that they had for going forth. The result is that they see no reason to continue when that enthusiasm runs out of momentum - as it always will, sooner or later. 
+
+    Enthusiasm and inspiration of that kind is the motivation for sensual pursuits, which is why they feel 'effortless.' Pretty much anyone can easily give up their current pursuits of pleasure for the sake of running after a Greater beautiful and shiny thing. Trying to practice the Dhamma on such terms is still practicing through the perspective of sensuality, even if one is outwardly as restrained and virtuous as can be. When you get tired and start to doubt that there is any 'reward' of that kind to be expected, (which there isn't) it's then the easiest thing in the world to turn back to what you left behind, because it was never truly forsaken, just replaced.   
+      
+    This doesn't mean enthusiasm is bad in itself (it will come and go), but it is risky to depend on it. 
+
+    >I feel almost "compelled" to become a monk because if I do not, I fear that while I may enjoy the comfort of my wife's and mother's presence and the joy those moments bring, there would always be, lingering in the background, the feeling that I failed to do what should have been done.
+
+    Not forgetting about this, then, is what would keep you from completely turning away from what truly matters in spite of all the pressure and doubt in the world. Your mind is not your friend and will inevitably at some point or another present all sorts of excellent reasons for giving up the training. You cannot prevent this from happening, but you can use the sense of shame and fear of future regret to at least put a degree of distance between you, and the thoughts that would try to convince you that you are going against what you truly want. (Which is how it will be bound to feel for anyone who is still to some degree identified with that perspective and value of sensuality.) 
+
+    It's worth noting that people who go forth in the suttas are more often than not described as doing so *against* their own wishes and inclinations, not because of them. (If one's own wishes and inclinations were to lead to freedom from suffering, everyone would be an arahant already.)   
+    See [Udayīsutta ](https://suttacentral.net/sn46.30)for example:  
+
+    >It is incredible, Bhante, it's amazing, how much it has done for me: respect and esteem for the Blessed One, and a sense of shame and fear of wrongdoing. For formerly, Bhante, when was living as a householder, the dhamma and the sangha were not very effective for me, but on considering that respect and esteem for the Blessed One, and the sense of shame and fear of wrongdoing, I went forth from home into homelessness.     
+
+     Udāyī only developed the right view after going forth, as the sutta explicitly describes. He did not have even the kind of intellectual grasp of the Dhamma which would have been effective enough to make him leave the household life. The point is that without the right view, that 'sense of shame and fear of wrongdoing', (i.e. that fear of having to live with yourself after failing to do what should have been done) - mundane and uninspiring as it might appear, is actually one of the most iron-clad motivations a person can have. Far more so than an intellectually complete but ultimately abstract notion, or a feeling. 
+
+    >I am also afraid of not being brave enough, of not having what it takes to endure the renunciations that monastic life demands. 
+
+    That's good, and will keep you from being complacent and expecting the monastic life to automatically force you to renounce. Even in the most supportive environment in the world, there is really nothing preventing you from avoiding the training in renunciation or abandoning it at any moment. It's on you.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1is8sko/conflicted_feelings_about_ordination/mdkuim3/)** _2025-02-19 07:32:10_:
+
+    *(In reply to Capdindass):*
+    > Sister Medhini,
+    >
+    > Can you please talk about how to hold the contemplation
+    >
+    > >you can use the sense of shame and fear of future regret to at least put a degree of distance between you
+    >
+    > without using it to 'run away' from the pressure? How do we use this contemplation to lessen the pressure without doing it out of some pressure to change what we currently have?
+
+    Keeping in mind that the purpose and the main concern is to not act out of the pressure. Particularly towards breaking the precepts or giving up on the training. Yes, whatever you do within that might be based on wanting to lessen that pressure to some extent. That's inevitable, because you can only remove defilements one layer at a time, and [the coarse ones have to be prioritised before the finer ones can be dealt with. ](https://suttas.hillsidehermitage.org/?q=an3.101)
+
+    Once physical and verbal behaviour is being thoroughly contained, you can see how to apply the exact same training on the mental level of wanting to lessen the pressure to any degree - but not before. 
+     [Don't Open Mara's Doors](https://youtu.be/xeCixCYoxaY?si=9bok-0qVu_qftrBn)
 
 ---
 
