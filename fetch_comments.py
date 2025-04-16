@@ -225,11 +225,6 @@ def main():
             # continue
 
     if all_comments_by_submission:
-        # Save the combined fetched comments as a JSON file
-        output_filename = "fetched_reddit_comments.json" # Generic name for combined results
-        with open(output_filename, 'w') as f:
-            json.dump(all_comments_by_submission, f, indent=4)
-        print(f"Combined comments saved to {output_filename}")
         save_comments_to_db(all_comments_by_submission)
         print(f"Database updated with comments for users: {', '.join(usernames)}.")
     else:

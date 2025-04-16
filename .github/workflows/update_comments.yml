@@ -50,31 +50,12 @@ jobs:
         source .venv/bin/activate
         python fetch_comments.py
     
-    - name: Set up Pandoc
+
+    - name: Run the archive generation script
       run: |
-        sudo apt-get update
-        sudo apt-get install -y pandoc texlive-xetex
-    
-    - name: Install Source Serif
-      run: |
-        cd $(mktemp -d /tmp/source_serif_4.XXXXXX)
-        TEMP_DIR=$(pwd)
-
-        sudo mkdir -p /usr/share/fonts/opentype/source_serif_4/
-
-        wget https://github.com/adobe-fonts/source-serif/releases/download/4.005R/source-serif-4.005_Desktop.zip
-        unzip source-serif-4.005_Desktop.zip
-        sudo cp source-serif-4.005_Desktop/OTF/*.otf /usr/share/fonts/opentype/source_serif_4/
-
-        sudo fc-cache -f -v
-
-        cd $GITHUB_WORKSPACE
-        rm -rf $TEMP_DIR
-
-    - name: Run the markdown generation script
-      run: |
-        python generate_markdown.py
-        python generate_markdown_full.py
+        source .venv/bin/activate
+        python generate_archive.py --type standard
+        python generate_archive.py --type full
     
     - name: Commit and push changes if markdown files were created
       run: |
