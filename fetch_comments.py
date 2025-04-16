@@ -191,12 +191,8 @@ def get_latest_comment_id_for_user(username):
         return None
 
 def main():
-    usernames_str = os.getenv('TARGET_USERNAMES')  # Load target usernames from environment variable
-    if not usernames_str:
-        print("Error: TARGET_USERNAMES environment variable not set or empty.")
-        return
-    usernames = [name.strip() for name in usernames_str.split(',')] # Split into list
-
+    usernames = ["Bhikkhu_Anigha", "Sister_Medhini"]
+    # fetch from the api until the latest comment in the db
     till_last_comment = json.loads(os.getenv('TILL_LAST_COMMENT', 'true').lower())
 
     all_comments_by_submission = {}
