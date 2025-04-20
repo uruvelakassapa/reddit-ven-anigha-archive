@@ -14,6 +14,106 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by ActualBrazilian _2025-04-18 09:41:32_
+### [Is there a difference between Yoniso Manasikara and Sati? If it quacks like a duck and walks like a duck, it must be a duck, right?](https://www.reddit.com/r/HillsideHermitage/comments/1k20z7c/is_there_a_difference_between_yoniso_manasikara/)
+
+Am I missing something or is Yoniso Manasikara essentially the same as attending while established in recollectedness, without making the base of one's recollectedness the object of attention?
+
+Suppose I have kept the eight precepts close to perfection for a little over a month including actions by mind, and even before that imperfectly for a couple of months beforehand, and that I have been practicing in the way described, established mainly in recollectedness of the body to the extent that allows me to discern my posture and of the breath to the extent that allows me to discern its length and depth, and suppose that I have this peculiar mental sensation which, not without bias, I would describe as a brightness, a gladness, an ease, and that it is localized mainly at the fore, that is with me throughout the day, even as I walk, and that breaking out into speech causes it to cease at that instant... 
+
+I suppose that is what I should 'suffuse, fill, and pervade' my body with, is it not? Except its not entirely clear how. Should I now go to the root of a tree and practice absorption with this as the object? Do I just ignore it and keep going about my days in just this way, protecting this context, and it'll just happen naturally eventually? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k20z7c/is_there_a_difference_between_yoniso_manasikara/mnvuy92/)** _2025-04-19 05:42:38_:
+    > I suppose that is what I should 'suffuse, fill, and pervade' my body with, is it not?
+
+    No. Even though it happens to have arisen after you started keeping the precepts, the pleasure you're describing clearly comes from something other than renunciation (which automatically means that it's still within the sensual domain).
+
+    > and that breaking out into speech causes it to cease at that instant...
+
+    That's a telltale sign that it's not worth cultivating. When the mind on its own is disinterested in sensuality and inclines towards renunciation, and the pleasure of relief from the burden of desire is felt as a result, that pleasure is essentially indestructible for as long as the inclination towards renunciation remains. And that inclination cannot be undone in an instant; it takes a long period of carelessness (just like the inclination towards sensuality cannot be erased in an instant).
+
+---
+
+**r/HillsideHermitage** | Posted by adriyansavaka _2025-04-18 03:37:53_
+### [Spanish translations](https://www.reddit.com/r/HillsideHermitage/comments/1k1vkbe/spanish_translations/)
+
+Please have these spanish translations as an offering out of my deepest gratitude. Feel free to share them with anyone who may benefit from them. Thank you.
+
+[https://drive.google.com/drive/folders/102EfNMeSMWsbhbsDSrUa2jmysrztrHk4?usp=sharing](https://drive.google.com/drive/folders/102EfNMeSMWsbhbsDSrUa2jmysrztrHk4?usp=sharing)
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k1vkbe/spanish_translations/mnrzgdj/)** _2025-04-18 15:51:20_:
+    Aún no he leído todo, pero lo que he visto parece estar muy bien. Tenía planeado algún día traducir Dhamma Within Reach, pero parece que me has ahorrado el trabajo :)
+
+    Trataré de leerlo todo y hacer sugerencias si surgen.
+
+---
+
+**r/HillsideHermitage** | Posted by baubleballs _2025-04-17 16:36:16_
+### [Asking advice for going forth](https://www.reddit.com/r/HillsideHermitage/comments/1k1h9db/asking_advice_for_going_forth/)
+
+Hi all, I realize these are personal details. If this sort of question is better asked privately, please let me know. I'll take down my post.
+
+I'm planning on moving to a monastery and going forth in July/August, but I don't know where.
+
+**Ordaining.** After reading u/kellerdellinger's monasticism thread, I was planning to ordain at SBS in Malaysia. I've followed climate science closely since then, however, and I'm afraid that if I lived anywhere in Southeast Asia I would die a lot sooner than I would if I lived in the United States. I just don't know how long it's going to take me to break the first 3 fetters, and I'd like to have the best chance possible.
+
+I'm both an EU and American citizen. I was wondering what my criteria should be as I research my options. I've been to and like the conditions at Forest Dhamma in Virginia (Dhammayut, Thai Forest), but monks there aren't allowed Wi-Fi. I've considered downloading all of the HH info I can onto my phone, but I don't know if that's enough. People say friendship with noble ones is important. There's no way of knowing that I'll have that, and my best shot, as I currently understand, is by talking to members of the HH community. To be honest, I vaguely consider communication with HH practicioners as a lifeline—so I think not having Wi-Fi would be problematic.
+
+I have another relatively minor question: how does travel work? Forest Dhamma is in rural Virginia. Would I just stay there my whole life I ordained there? I assume plane tickets would have to be donated, and I obviously want to limit my use of charity. I'm asking because I can't really just get up and leave when I want to, which is fine, I guess, but my understanding of the monastic ideal is that travel is a permissible and even desirable pleasure—not staying in one place for *too* long—and I wonder what it'll be like to stay in one place for decades. 
+
+**Before Ordaining.** I currently live with my partner. They're aware of my decisions. My plan is to separate and go back to my parents' home this June, (our lease will be up). Last week, though, my parents told me that, push comes to shove, I can live there, but they don't like the idea of it—i.e, I'd be burdensome—due to already having a full, chaotic house and my taking the 8 precepts being stressful to others. They suggests I stay where I am.
+
+Given I take the 8 precepts in either circumstance, I assume that the common advice would be that the comfort of a romantic relationship would be worse than the difficulties of living with family. I think I'd be less pressured in my relationship that with my family, because my partner is understanding of my practice. However, if I'm being honest, the ambient feeling of false security would probably be stronger there. Is there a clearly better decision, or is it up to me to decide?
+
+**TL;DR**.
+- Internet access seems important. Should I consider it a dealbreaker?
+- How does travel work? Will I go stir crazy, or no big deal?
+- Please recommend me (either here or privately) any good locations in the US, Canada, or in Europe.
+- Does it matter where I live if I take the 8 precepts?
+
+Thank you
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k1h9db/asking_advice_for_going_forth/mnpxqoz/)** _2025-04-18 06:49:20_:
+    > Would I just stay there my whole life I ordained there? 
+
+    No. There is a traditional expectation to stay at the place one ordains at least for the first five years after Upasampadā (the nissaya period), but it's not like leaving breaks a rule (some places would want to scare new monks into thinking that though). Still, it's good practice to stay put for the first five years, and some places might ask you to promise that you will before ordaining you.
+
+    > Internet access seems important. Should I consider it a dealbreaker?
+
+    Constant, daily internet access is certainly not essential. I reckon in all monasteries except the most heavy-handed, there would be at least a communal computer with internet access that you can use occasionally. That should be good enough.
+
+    > Does it matter where I live if I take the 8 precepts?
+
+    You should live wherever you anticipate the likelihood (and severity) of breaking the precepts sooner or later to be the lowest on average. I find it unlikely that would be with your partner, but it's up to you to assess the situation honestly.
+
+    There's also the fact that you don't know for sure if you will ordain as soon as you think you will, or at all. You may aspire to do so, but it's very common for people to postpone it longer than they anticipated or give up on the prospect altogether, for various reasons. So you should choose the option that has the most long-term potential of being a suitable environment or that at least opens up the most suitable possibilities.
+
+    If you can't find anything suitable in North America or Europe (which might be unlikely), I would strongly recommend reconsidering Asia. From what I know, it's uncommon for Western places to provide the space one needs for actual practice.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k1h9db/asking_advice_for_going_forth/mnvvpkq/)** _2025-04-19 05:49:41_:
+
+    *(In reply to baubleballs):*
+    > Thank you, Bhante. Prioritizing long-term sustainability seems like a very good idea.
+    >
+    > Like u/StatusUnquo said, there's no access to the internet where I'm currently considering, although I think the space for actual practice—which I've heard you previously refer to as just seclusion and not too many chores—*is* there. Which might make it my best option if I can't find it anywhere else in the west that would offer that.
+    >
+    > I'll continue to research.
+
+    >which I've heard you previously refer to as just seclusion and not too many chores
+
+    Just for the record, it also means not having particular views (or worse, techniques) being actively pushed on you.
+
+---
+
+**r/HillsideHermitage** | Posted by None _2025-04-16 23:59:04_
+### [Question about Right Livelihood]()
+
+[deleted]
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k0zabw/question_about_right_livelihood/mnlmv00/)** _2025-04-17 15:32:57_:
+    u/Realistic_Caramel768's answer is correct. Serving alcohol is what would be an issue.
+
+---
+
 **r/HillsideHermitage** | Posted by adivader _2025-04-12 15:51:14_
 ### [Anigha why deleting my posts ... bro!!?? :)](https://www.reddit.com/r/HillsideHermitage/comments/1jxkczn/anigha_why_deleting_my_posts_bro/)
 
@@ -25,6 +125,45 @@ toc-depth: 2
     > what you got to hide?
 
     Save yourself the time. Both of us know that this won't get us anywhere.
+
+---
+
+**r/HillsideHermitage** | Posted by LotusOfUpekkha _2025-04-12 14:31:53_
+### [Wrong speech, regret, the weight of consequences and Right endurance](https://www.reddit.com/r/HillsideHermitage/comments/1jximal/wrong_speech_regret_the_weight_of_consequences/)
+
+I recently spoke harshly to my father. The content of what I said touched on the practice - on sensual desire, on the danger of indulgence and distractions, precepts, on how it can be beneficial to practice - but it came from a place of ill-will: resentment, irritation, and the desire to assert myself. It was entirely misguided and I shouldn't even have talked about the practice, let alone Buddhist concepts in the first place. I wanted to prove myself right and his perception of me wrong. I didn't take the possible harm of my speech into account.
+
+This all happened because I couldn’t bear the pressure of hearing my father repeatedly insinuate that I spend my days hiding in my room scrolling social media and distracting myself - which, for months now, hasn’t been the case. I wanted him to *see* that I’ve changed, that I’ve been trying to live differently. But instead of patiently enduring the discomfort, I reacted. I forced the issue, and started oversharing about dhamma practice - not in clarity, but in ill-will.
+
+Now, in retrospect, I see that even though I may have sounded calm, composed and sincere on the surface, the intention behind my speech was tainted. There was no wisdom, no restraint - just the need to be seen a certain way, to avoid the painful feeling of being misjudged or disrespected. That’s what makes it all the more painful now: I’ve not only failed in speech, but I’ve likely made Buddhism appear hypocritical or alien to my father. All pointing to a lack of mindfulness on my part.
+
+And the consequences feel... heavy. This might be the most intense regret I’ve felt in my life. It’s hard not to see this as a permanent fracture in our relationship. I’ve likely turned him against the very path that I value most. I've likely turned him against me as well since my words must have felt like a personal attack on his way of life and existence. He likely sees me, and this path I’m trying to follow as a rejection of *him*. It feels like I’ve betrayed him, betrayed myself, and brought disrepute to the Dhamma. I worry that I’ve also taken away any slight chance my father might have had in someday developing interest in the Dhamma himself in this life.
+
+So my question is this:  
+**What does** ***Right endurance*** **look like in a situation like this? How does one live with the consequences of a wrong act, especially when those consequences affect how the Dhamma itself is perceived by others?**
+
+Not restraining the tongue, not guarding the mind - this leads to one's own detriment. My foolish behavior has caused a lot of doubt and somewhat irrational thoughts to arise, like: *Have I now compromised my Dhamma practice entirely?*
+
+I’m still young and living at home, which makes the situation even more difficult to endure. It now feels as if my father watches my every move - silently judging, silently rejecting - interpreting each of my choices through the lens of that one outburst of ill-will. For example, my decision not to join in watching TV with the family (something I had already quietly stepped away from) is now likely seen as part of that same “rant” I gave him. Everything I do may now be framed in his eyes as a rejection of *him* and my parents upbringing, not a pursuit of clarity and restraint. That perception, too, is painful.
+
+I don’t want to act out of guilt or try to patch things up just to feel better. But I also don’t want to fall into despair or self-pity and call that “practice.” So how can I endure this rightly?
+
+At some point, my parents may bring up my practice again for some reason (I won't do it myself anymore after this foolish act). When that happens, I hope I’ll be in a better position to speak with at least some wisdom guided by Right Speech, rather than by emotion or the need to defend myself or to make a big deal out of it.
+
+Any reflections from the HH perspective would be deeply appreciated.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jximal/wrong_speech_regret_the_weight_of_consequences/mnlm7ht/)** _2025-04-17 15:29:48_:
+    >**What does** ***Right endurance*** **look like in a situation like this? How does one live with the consequences of a wrong act, especially when those consequences affect how the Dhamma itself is perceived by others?**
+
+    You first of all need to restrain any impulse to get rid of the displeasure of the situation. It is precisely due to justifying resistance to displeasure in light of some mundane goal that you gave in, and so even if it seems like acting out of craving once again will resolve the situation, doing so will only maintain the same underlying tendencies and suffering (i.e., the actual problematic situation) for the future.
+
+    > My foolish behavior has caused a lot of doubt and somewhat irrational thoughts to arise, like: *Have I now compromised my Dhamma practice entirely?*
+
+    Yes, and now that too is included within the overall displeasure that you need to train in regard to. There will be a pressure to put the blame on those unsettling thoughts, but the truth is that they are a problem only because they move you, not in themselves. 
+
+    > At some point, my parents may bring up my practice again for some reason (I won't do it myself anymore after this foolish act). When that happens, I hope I’ll be in a better position to speak with at least some wisdom guided by Right Speech, rather than by emotion or the need to defend myself or to make a big deal out of it.
+
+    The only way to genuinely be in a better position is training yourself *now* to not be moved by mental displeasure, regardless of whether it arose due to your past actions or something else. Then even if in the future you end up having a similar conversation with your parents, you will be less likely to lose your composure. The gateway that you need to guard is at the same spot regardless of what the current feeling has arisen on account of (purely internal turmoils like doubt and regret, or a difficult conversation).
 
 ---
 
