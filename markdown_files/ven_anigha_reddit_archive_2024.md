@@ -8855,6 +8855,13 @@ Many thanks to Bhikkhu Anigha for writing this essay, I feel like it will be a m
     >In case of doubt, since most of us don't have available a proper teacher to ask to, it is better to "over do it" than to fall short (specially in the beginning)?
 
     It's certainly critical to dedicate time to straightening out one's views in the beginning, since almost all of us today start out extremely amiss. But it should not be done at the expense of the actual training in restraint, and there will come a point where one has all the "ideas" down well enough, after which the lack of practical application will become the true limiting factor.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1amu2uw/how_to_understand_mn20_in_relation_to_sīla_is/morvpzj/)** _2025-04-24 11:59:50_:
+
+    >definitely feels like Im craving for the itching to go away.
+
+    Sure, that's going to happen. But that's not the type of craving you need to be concerned with for now. If you start fighting on that level, you will necessarily overlook way more dangerous enemies that you have far from defeated and are most likely about to jump on you.
+
+    That's how many people and teachers can sit like a rock through such physical discomfort, but can't even begin to withstand the pressure that would arise if they were to be celibate and withdrawn from sexuality as a whole for a prolonged period, let alone permanently.
 
 ---
 

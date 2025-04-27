@@ -9,6 +9,182 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Future_Plastic_9910 _2025-04-24 18:17:01_
+### [Subject Object](https://www.reddit.com/r/HillsideHermitage/comments/1k6za42/subject_object/)
+
+Is the distinction between subject and object or subjective and objective something that has an analog in the suttas or early Buddhist Sangha? It seems to be based on attavada but I'm not sure. Some people, like Ippen (time school of Pure Land) say that enlightenment is about overcoming the subject object distinction. That doesn't sound like it has anything to do with the early texts. I don't think that the subject object distinction has anything tp do with Yoniso mansasikara either. In fact the idea of simultaneous co dependence seems to be the opposite. The background is not a subject but its not an object to that you look at, while the foreground is not an object exactly. It isn't seen by a subject. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k6za42/subject_object/moxg86b/)** _2025-04-25 06:36:46_:
+
+    > Is the distinction between subject and object or subjective and objective something that has an analog in the suttas or early Buddhist Sangha?
+
+    In a way yes, but not how one would initially think. You never actually "dissolve" the subject in the sense of becoming unaware of the gap between you and other people. That's impossible, and it can only ever be make-believe.
+
+    Rather, you fully understand that that which appears as subject—which doesn't need to be denied or changed—is a phenomenon too. It is not a non-phenomenon that experiences phenomena and makes choices in regard to them, which is how the puthujjhana implicitly regards their sense of self. 
+
+    When the subject is seen as a phenomenon instead of denied, its impermanence is revealed, and from that it becomes clear that that phenomenon cannot be owned, i.e., is anattā. Then, whether you still choose to call that phenomenon "subject" or not is a matter of semantics. Like how the Buddha often used the word "I" and "mine," yet at the same time often spoke of giving up "I-making" and "mine-making." Fundamentally, the problem is the implication of ownership and control.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k6za42/subject_object/mp487o3/)** _2025-04-26 08:51:35_:
+
+    > In this case, how is it possible to see impermanence of something which exists for so long?
+
+    Seeing impermanence doesn't mean seeing the moment things come to an end. Otherwise you wouldn't be able to fully understand the impermanence of life and become an Arahant without first dying.
+
+    It means seeing that they are *able* to come to an end.
+
+---
+
+**r/HillsideHermitage** | Posted by None _2025-04-24 13:16:47_
+### [How does meditation fit into the path?]()
+
+[deleted]
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1k6ryil/how_does_meditation_fit_into_the_path/mp04hmc/)** _2025-04-25 17:20:58_:
+
+    >how should one who is willing to renounce at least enough to try and uphold the 8 precepts be meditating?
+
+    When there is immediate pressure to act out of sensuality, ill will or careless distraction, the mediation is simply to not act out. That is what most acutely develops correct 'awareness': not doing things that turn away from the nature of that pressure, either by going along with it or trying to remove/replace it, etc. 
+
+    Acting out of it is how you become blind to that whole domain, no matter how much you practice "awareness" of bodily or breathing sensations in the meantime. 
+
+    >What should the objective of meditation be for one who is committed to renunciation?
+
+    When there is no immediate pressure to act out, and it would not be done as a response to try to cope with the pain of renunciation - good old-fashioned thinking is useful. The aim is to clarify the purpose of that renunciation, to understand for oneself the dangers of being attached to sensuality; to learn to see renunciation as genuinely more peaceful, without diminishing the significance of what has been relinquished. 
+
+    All this requires thinking about, the meaning of these things needs to be understood. So by all means, when the mind is relatively calm and not kicking and screaming against the walls you set up for it, 'meditate' in this sense: reflect, contemplate, think about the nature of things that are relevant and pertain to what is uncovered through renunciation. But for as long as the mind is kicking and screaming, the work is solely to protect the walls.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1k6ryil/how_does_meditation_fit_into_the_path/mp0sr6a/)** _2025-04-25 19:19:26_:
+
+    >What about the Buddha's instructions in the anapanasati sutta? 
+
+    I am not sure I understand what you mean by this question. What do you think the purpose of anapanasati in this context would be? Why would it be necessary?  
+
+    >And, when would contemplation of the body be a good thing to take up?
+
+    When it can be done for the purpose of relinquishing the body internally, in the same way as the above reflections are done for the purpose of relinquishing coarser forms of bodily pleasures and comforts. 
+
+    So, it would become properly applicable only when the latter is established. Otherwise, when you contemplate "the body," you won't be contemplating the actual personal body to which you are identified, because it is obscured by engaging with sensuality.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1k6ryil/how_does_meditation_fit_into_the_path/mp117ft/)** _2025-04-25 20:02:29_:
+
+    It seems to me that the main question is what you are aiming to achieve. If it is
+
+    >states of immense bliss and overwhelming ecstasy during meditation practice
+
+    These are indeed factual, and very common not only in various schools of Buddhism, but also in Hinduism, Sufism, etc. Reading the various descriptions of the methods, you see the same essential practice being described: intense concentration and focus that leads to absorption. The particular mantras, sounds or objects are interchangeable, but the principle is the same. There is nothing magical about the combination of letters 'Bud-dho', one could repeat 'Pepsi-cola' and achieve the same absorption and state of blissful ecstasy if one is committed enough. 
+
+    Whether this is what the Buddha was describing and teaching is a different question. You should not simply take the word of any teacher on it, but read the suttas for yourself and use your own reasoning and honest reflection to see whether that is likely or not. 
+
+    >are these states really to be cultivated through mere thinking and reflection on virtue?
+
+    No, this will not lead the above forms of 'overwhelming ecstasy'. So, if a sort of blind overwhelming ecstasy is your aim, virtue and renunciation is not even intrinsically necessary. ('Meditation' in that sense does what it says on the tin, i.e. leads to absorption, even without strictly following the 8 precepts). 
+
+    There is joy and happiness that comes from developing virtue and reflecting on it, but it is a completely different order. The suttas describe it as being like [the joy of having paid off a huge, burdening debt](https://suttacentral.net/dn2/en/bodhi#:~:text=Great%20king%2C%20suppose%20a%20man%20were%20to%20take%20a%20loan%20and%20apply%20it%20to%20his%20business%2C%20and%20his%20business%20were%20to%20succeed%2C%20so%20that%20he%20could%20pay%20back%20his%20old%20debts%20and%20would%20have%20enough%20money%20left%20over%20to%20maintain%20a%20wife.%20He%20would%20reflect%20on%20this%2C%20and%20as%20a%20result%20he%20would%20become%20glad%20and%20experience%20joy). 
+
+    The only way to cultivate such joy is to actually go through the work of paying it back, coin by coin. When it is paid back, nobody can steal that relief, because it is not something you ACQUIRED. That's why it is literally called [the joy of renunciation](https://suttacentral.net/mn139/en/sujato#:~:text=This%20is%20called%20the%20pleasure%20of%20renunciation%2C%20the%20pleasure%20of%20seclusion) But there are no workarounds or shortcuts to arrive at it.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1k6ryil/how_does_meditation_fit_into_the_path/mp3da4g/)** _2025-04-26 04:09:56_:
+
+    >Do you think that one can experience the joy of renunciation *and* have a meditation practice that develops concentration and leads to bliss, ecstasy, and those other highly pleasant states?
+
+    I'm afraid the answer is no, definitively not.   
+
+    >Will the latter somehow block one from fully practicing renunciation as the Buddha instructed? 
+
+    Yes it will. The reason being that both the states and the practice to achieve them would be fully based on desire for pleasure. (That's the only reason you would be doing it.) 
+
+    >Like in the sutta how it says, "I will breathe in and out experiencing rapture." The Buddha did not seem to be warning against this state.
+
+    He wasn't warning against it because such 'rapture' is only to be found already WAY down the line and 
+     within the same aforementioned joy *of renunciation*. See for example the [Ariṭṭha sutta](https://suttacentral.net/sn54.6), where Ven. Ariṭṭha describes how he practices: 
+
+    > “I have abandoned desire for past sensual pleasures, venerable sir, I have gotten rid of desire for future sensual pleasures, and I have thoroughly dispelled perceptions of aversion towards things internally and externally. Just mindful I breathe in, mindful I breathe out. It is in this way, venerable sir, that I develop mindfulness of breathing. 
+
+    The Buddha agrees with his description and goes on to add the detailed instructions on anapanasati afterwards, including the line you mentioned. This is obviously not a DIFFERENT direction from what Ariṭṭha was already practicing, but the further  development of it.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1k6ryil/how_does_meditation_fit_into_the_path/mp478yq/)** _2025-04-26 08:42:00_:
+
+    >Would it be possible to interpret what Arittha was describing about his practice as a temporary abandonment of these desires and aversions? If not, where does it describe or layout a time line or criteria to how long one must have abandoned these desires and aversions before going on to practice mindfulness of breathing?
+
+    Again, it is hard to give a precise answer because I am not sure I see where you are coming from with these questions - unless based on some pressuposed absolute necessity of anapanasati that would somehow override everything that has already been said. Why is the whole practice of virtue and renunciation seen as just a box to be ticked so that you can practice mindfulness of breathing?  
+
+    The only basis I can think of for such an idea is simply the fact that most Buddhist teachers tend to emphasise anapanasati as the core of the practice. (Which is quite irrelevant to the question of its actual place in the practice.) This leads to your other question: 
+
+    > Also, some other teachers say that the pleasant states in meditation are not the same as the pleasure that the Buddha warns against. 
+
+     Just because some people say something doesn't make it true. 
+
+    > They're more like a safe or harmless pleasure that helps one to not get overwhelmed by the difficulty of renunciation.
+
+     In fact, this very statement actually confirms the fact that such pleasures still fall well within the domain of desires and sensuality: if they can be used as a direct 'replacement' for things like sexuality and entertainment, it means they must satisfy the same desire in the same manner. As you said and can see for yourself, meditating for the sake of such states HAS to be an implicit pursuit of gratification, rooted in desire. 
+
+    My impression is that this seems quite clear to you (your last paragraphs are very accurate), and the real issue is simply the fact that the possibility that some highly respected Buddhist teachers might be wrong about the Buddha's message, is uncomfortable to think about. 
+
+    So again it boils down to your priorities: if the aim is to feel comfortable and have the safety of majority and tradition, then you are completely free to ignore all of this and continue following that. 
+
+    But if your priority is wisdom and freedom from taints, then you can't be led by such criteria. Even if theoretically the majority were right, you would never understand how, why and to what extent, if you were following it just out of comfort and safety.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2025-04-24 13:13:40_
+### [A small reflection on sexual desire](https://www.reddit.com/r/HillsideHermitage/comments/1k6rw1j/a_small_reflection_on_sexual_desire/)
+
+I started noticing this a while ago, but right now especially.
+
+When sexual desire comes and rises to a big extent I feel "I must do something about it", but even in the past when I wasn't restraining it sometimes I would notice that when I get to do something about it the desire already faded and I don't feel it nearly as much. This is the obvious "revelation" about it, I don't have to do anything about it, just let it rise and go away without intervention. **My intervention is actually redundant**
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k6rw1j/a_small_reflection_on_sexual_desire/moxh32p/)** _2025-04-25 06:45:05_:
+
+    The more acute point is that even if it doesn't go away, your intervention is still redundant. The same amount of suffering, in fact worse, will be there if you give in. The suffering just gets overlooked because it doesn't fit your preconceived idea of suffering. 
+
+    At best the pain of desire gets replaced by sloth and laziness, which are also suffering.
+
+    On the other hand, if you don't give in, there is at least a chance of ending up in an objectively better state.
+
+---
+
+**r/HillsideHermitage** | Posted by craveminerals _2025-04-21 10:55:18_
+### [Why is this sub tending towards intellectual proliferation?](https://www.reddit.com/r/HillsideHermitage/comments/1k4anm9/why_is_this_sub_tending_towards_intellectual/)
+
+Hi Dhamma friends,
+
+My question in the title may sound a bit redundant in itself but I have some reasons why I'm asking about it, which I will describe below. And then I'll ironically share my proliferated thoughts about it.
+
+A couple days ago I came across another sub in which a user commented that ''it's like they are (this sub) trying to think themselves to enlightenment''. It's missing the point obviously, but I can see how it looks like that from the outside, considering that there are quite a bit of labyrinthine discussions going on.  
+I've myself benefited a great deal from the talks from HH, Samanadipa Hermitage, and the discussions on this sub. At the same time a couple of questions sprung up in my mind lately, about the abundant intellectual proliferation that takes place, in varying degrees, especially in the discussions on this forum (discussions which often fly over my head).  
+Questions such as- Why? Is it necessary?
+
+***My thoughts on why this is so;***  
+The language of the suttas themselves are quite compact, complex and deep and takes a lot of 'unpacking' and contextualization in order to begin to understand them. So the proliferation is partly an attempt to make them a bit more digestible. It's better to have a wide knowledge of the suttas and their intricacies, in order to transmit the Buddha's true message to others, for example.  
+Though it seems to me that bordering towards over-intellectualization also is a cultural tendency, a quite ''head-oriented'' one, one which historically valued systems of thought, and philosophy. We may also just, simply, enjoy proliferating and clarifying things.
+
+It also seems to be the result of (especially the Venerables) countering, in many various ways, the massive tidal wave of Wrong Views- which we inevitably carry with us, maybe especially in this age. 
+
+This expansive proliferation based on the suttas may serve as 'guardrails' against one's strong tendency to get off of the road of Dhamma- if one day you start being curious about exploring other ''side roads''. We have plenty of desires pulling us in all possible directions these days, so more 'guardrails' against them can be helpful. There are many examples of such guardrails, the most obvious being the precepts. Subtler ones guard against finer errors, such as some taken-for-granted-assumptions like- ''this is consciousness.'', or ''this is body in the body''. HH may then come and say- ''Don't be so sure''.
+
+(Another example. If I understand correctly, in short, some Zen traditions moved away from doctrinal study and traditional practices, in favor of *direct understanding* instead- believing that the former is superfluous. This may sound attractive, surely more attractive and sensible than the Abhidhamma, but it's more often than not bound to go off-track from the subtle path which the Buddha described.)
+
+***Is a lot of intellectual proliferation necessary though? ;***  
+At the same time, all of this isn't really a necessity for gaining stream entry, or even full enlightenment. After all, did the accomplished people in Buddha's time need to discuss and proliferate in these ways in order to gain the 'Dhamma Eye', 2500 years ago?  
+Maybe they met at parks, or at the well, and discussed super intrictate details of dhamma together for hours, what do I know?
+
+But that didn't really seem to be the case - somehow even a humble farmer or a householder could understand it back then, immediately, from hearing a single discourse by the Buddha. Supposedly thanks to the fact that[ they had less 'dust in their eyes'](https://www.youtube.com/watch?v=W12XNZU-tMg), less desire and hindrances overwhelming their minds, as well as more awareness of the basic truths of life- particularly of suffering, danger, and death. All of which enabled them to be granted a seemingly simple but groundbreaking insight; ''Whatever has the nature of arising, has the nature of ceasing.'' &  ''If this exists, that exists; if this ceases to exist, that also ceases to exist.''
+
+So it seems to me one doesn't necessarily need to proliferate much at all, just do the work, live simply, keep the precepts, study a few suttas, investigate your experience, and you'll get to where you want to go. And while it can be helpful in certain ways, it's easy to see how too much talking and thinking about these things can lead one to become like a spider caught in its own web of ideas and intricate systems of thought.
+
+What do you think? Do you have any thoughts on this matter?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k4anm9/why_is_this_sub_tending_towards_intellectual/moks9an/)** _2025-04-23 08:42:27_:
+
+    >Is a lot of intellectual proliferation necessary though? 
+
+    It depends. For someone who doesn't understand what's being discussed, the most accurate and pointed discussions of the practice, even when relatively brief, can seem like "intellectual proliferation." That's because the expressions being used don't point to anything in their own experience and therefore appear like empty words, and that's usually due to a lack of development in the basics (virtue, sense restraint). 
+
+    There's also of course the possibility that there is no practical value behind the complex net of ideas someone puts forth, and that is probably more often than not the case. But then the problem is not the complexity of the ideas; it's the fact that they have nothing relevant to say regardless of how many words they use. Someone could proclaim the most rudimentary ideas still with an emphasis on poetic rather than liberative value. Another person could be using more complex concepts to actually and accurately convey the escape from suffering that they have themselves realized. And more often than not, due to the sheer prevalence of wrong views nowadays, it's necessary to go into more detail. 
+
+    >So it seems to me one doesn't necessarily need to proliferate much at all, just do the work, live simply, keep the precepts, study a few suttas, investigate your experience, and you'll get to where you want to go.
+
+    The problem with this attitude is that "just do the work" can mean essentially anything for anyone, and if you're not a sotāpanna, that expression will not mean for you what it should. And if you have pretty much any past experience with modern Buddhism, you will on average be even farther off the mark, since the mainstream views are what you will default to when there is confusion (they are not mainstream by accident). So it's always necessary to re-clarify what the work even is, because remembering information is not at all the same as recalling the right *meaning* of that information.
+
+    The middle way is to seek intellectual clarity when the practice is unclear or when you've been doing it and it's not working out. That means you won't be seeking clarification past the point where it's actually necessary, but at the same time you won't dismiss the need for it altogether.
+
+---
+
 **r/HillsideHermitage** | Posted by ActualBrazilian _2025-04-18 09:41:32_
 ### [Is there a difference between Yoniso Manasikara and Sati? If it quacks like a duck and walks like a duck, it must be a duck, right?](https://www.reddit.com/r/HillsideHermitage/comments/1k20z7c/is_there_a_difference_between_yoniso_manasikara/)
 
@@ -27,6 +203,15 @@ I suppose that is what I should 'suffuse, fill, and pervade' my body with, is it
     > and that breaking out into speech causes it to cease at that instant...
 
     That's a telltale sign that it's not worth cultivating. When the mind on its own is disinterested in sensuality and inclines towards renunciation, and the pleasure of relief from the burden of desire is felt as a result, that pleasure is essentially indestructible for as long as the inclination towards renunciation remains. And that inclination cannot be undone in an instant; it takes a long period of carelessness (just like the inclination towards sensuality cannot be erased in an instant).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k20z7c/is_there_a_difference_between_yoniso_manasikara/morsk8p/)** _2025-04-24 11:38:05_:
+
+    It's not just renunciation in the sense of externally doing away with as many things as possible (which would result in self-mortification), but rather training the citta to prefer and enjoy being withdrawn from sensuality specifically. [And that is done by reflecting on its peril.](https://suttas.hillsidehermitage.org/?q=an9.41).
+
+    When the peril is clearly seen by the citta on the right level, your choice of not engaging with sensuality that has been enduring for a long time—by keeping the precepts and guarding the sense doors—now brings satisfaction and relief in and of itself, and any effort apart from continuing to be restrained and mindful of the danger is completely redundant. Just as the Suttas put it, you are joyful *simply* because you know that the hindrances are a debt, illness, imprisonment, etc., and you are not under their power anymore.
+
+    You also know that those tribulations cannot possibly return accidentally, so unlike sensual pleasure (which includes the pleasure of contemporary meditation), it's a pleasure that cannot be threatened by anything outside of your control, which is why it's not to be feared.
+
+    Thus, it actually is the pleasure *of* renunciation and not something else that you do on the side of keeping the precepts (if even that).
 
 ---
 
