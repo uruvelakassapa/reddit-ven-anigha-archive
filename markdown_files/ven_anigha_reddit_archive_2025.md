@@ -9,6 +9,190 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Fickle_Singer_9877 _2025-05-03 05:09:59_
+### [Danger in sensuality](https://www.reddit.com/r/HillsideHermitage/comments/1kdl92g/danger_in_sensuality/)
+
+How can I start seeing the dangers in sensuality? I want to rennunciate but sometimes I don't know why I'm doing it or moreso the full benefit of giving up sensual pleasures.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1kdl92g/danger_in_sensuality/mqe0ur2/)** _2025-05-03 15:59:15_:
+
+    The danger can only really be seen on the basis of practicing renunciation first. Anything you might understand before that is necessarily just a theoretical idea and will not hold up when significant pressure arises. That's why a degree of faith is necessary, and that faith is made possible by feeling sufficiently dissatisfied with your current situation.
+
+    You won't know for yourself in the beginning that the doctor's diagnosis is correct and that your illness is that serious, but because you are sufficiently fed up with the painful symptoms and the doctor's prescriptions make a lot of sense, you start diligently applying his advice
+
+    Eventually, you see for yourself that, indeed, you do have that illness, it is *that* bad, and it *is* being caused by precisely what he says it is. And then you will not have to theoreize about what the benefit of not fostering the cause of the illness is. You would have the same apprehension as you would for drinking poison.
+
+---
+
+**r/HillsideHermitage** | Posted by Little_Carrot6967 _2025-05-02 09:36:00_
+### [Mindstream kleshas question](https://www.reddit.com/r/HillsideHermitage/comments/1kcwuk7/mindstream_kleshas_question/)
+
+Can the defilements of the mindstream be distinguished in any way from the defilements of the mind? Or observed as part of the internal relationship? 
+
+If not, is there any conceptualization of what does come from it available that can be reliably pointed to as an example?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1kcwuk7/mindstream_kleshas_question/mqdquev/)** _2025-05-03 15:07:01_:
+
+    Thinking in terms of a "mindstream"—a wrong view that arose with later non-canonical texts and contradicts basic principles of phenomenology—will destroy any chances of seeing that relationship.
+
+---
+
+**r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2025-04-28 11:04:10_
+### [HH Confession Server on Discord](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/)
+
+I've created a [Discord server](https://discord.gg/y3eRXuXK) for people who want to commit to the very valuable practice of confessing whenever they break a precept. It is inspired by the core principles of the regular, compulsory confession that the Buddha established for all monastics.
+
+***Upon joining, please read the rules.***
+
+In brief, the way it works is that each new member must declare their precepts in the "precept-undertaking" channel. It is possible to undertake either the standard five precepts or five or more of the standard [ten precepts](https://www.accesstoinsight.org/ptf/dhamma/sila/dasasila.html) (meaning that, at minimum, the third precept becomes full celibacy).* Something within the second option is highly encouraged but is not compulsory. Only members who have undertaken precepts themselves and are thereby obliged to confess their offenses will be able to see the confession channels. They will be hidden for everybody else.
+
+Every Sunday, users who have undertaken precepts must confirm that they have kept them all in the "purity-confirmation" channel. Otherwise, they must confess their transgressions in the "confession" channel. If by Sunday midnight in their time zone a user has not done one of these two, they will lose access to both of the special channels, and they will have to undertake their precepts once more in the "precept-declaration" channel to regain access, like someone who newly joined the server. This is to ensure consistency. 
+
+To create some degree of identifiability, every member must also provide their Reddit username, thereby agreeing to use no other accounts to engage on this subreddit. Doing so with other accounts would be considered a violation of the fourth precept. A completely anonymous confession carries no weight. 
+
+The central rule that cannot be externally enforced and must rely on each user's authenticity and conscience is that undertaking a precept binds one to confess any and all transgressions of it, without exception. Even if one confesses some transgressions while omitting others, it is still a deliberate lie.
+
+* Monastics who wish to join should instead write "I am a X" (bhikkhu, bhikkhunī, etc.) in the "precept-undertaking" channel to be assigned to separate channels.
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/mpni7lb/)** _2025-04-29 13:02:45_:
+
+    Just an additional point to what Ven. Anīgha already wrote on this  - 
+
+    >you engage in it because you feel obliged to your partner and you are afraid to disappoint your partner and risk to loose your relationship ?
+
+    I'd say this is the main problem. If you were regularly killing or lying out of fear of losing someone, would that make those actions justifiable and good? Desire to maintain an emotional and physical bond is very much a sensual desire. 
+
+    Being ashamed of doing something does not purify the action. Feeling 'obliged' to do something you are ashamed of, just because other people become unhappy if you don't, just means that not feeling other people's displeasure is still more important to you than not compromising your own virtue and sense of shame. 
+
+    Of course, you can't just force your mind to give up the attachment to your partner and suddenly feel different about it; that is not the issue. The problem is in taking that attachment for granted as a necessity that 'forces you' into non-celibacy: not recognising that you are fully responsible for maintaining it as well as the things you do on account of it. 
+
+    If you see that whole set-up you are upholding and living every day as contrary to the dhamma, you can either work towards being strong enough to overcome it; or if you aren't willing to work in that direction, accept that progress in dhamma will not be possible beyond living a good life, being virtuous and generous, and aiming for a good rebirth. Even if you were to choose the latter, that's still better than deceiving yourself about where the practice is.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/mppjzxh/)** _2025-04-29 19:06:48_:
+
+    I was not intending to comment on the question of to the extent to which all sexual activity necessarily implies arousal. My reply was in response to [this first comment you made](https://www.reddit.com/r/HillsideHermitage/s/g3nefbAbKT). 
+
+    Perhaps I misunderstood you, but in that I did not see the specific disagreement about sexuality and arousal etc. The original context was simply whether one can be considered to be keeping the precept of celibacy while choosing to engage in sexuality only on rare occasions (to which the answer was no) and you asked further
+
+    >What if...you engage in it because you feel obliged to your partner?
+
+    What I wrote was intended to clarify the fact that whether someone breaks a precept to fulfill a physical sexual urge, or out of fear of losing a relationship, it is still breaking the precept to absolutely the same extent, with the same weight of implications behind it. The intention is sensual regardless. 
+
+    It is in fact also sexual craving specifically, because that is the action one is pressured to engage in as a means to the end of getting the pleasure they want (e.g. their partner being happy and a comfortable relationship, or a random physical sensation - that is irrelevant.)   
+
+    If you do not see sensual craving in general in this sense as a problem, and do not want to become free from it, then this might not seem important to you, but it is important in terms of the original question as to what the precept is for and its extent.  
+
+    > I am glad that my desire, need and addiction to sexuality has basically disappeared from my mind.
+
+    This point might be worth briefly clarifying also.
+
+    > All of that happened gradually and naturally without me trying to impose restrictions, rules, sense restraint or the precept of celibacy
+     
+    I am not sure if you are necessarily implying this, but it's impotant to emphasise that the circumstantial absence of sexual desire (which can occur for many different reasons) is not the same as freedom from it. 
+
+    The absence or presence of one specific type of 'itch' does not say anything about freedom from sensuality. Freedom would be when the exact same itch cannot imply or associate to a 'scratch,' and for that reason can't truly be an 'itch'. (This is one of the reasons it is hard to practice the dhamma when one is becoming old and sexuality has 'lost its appeal', because it just got worn out and went underground - not because it has been overcome.)
+
+    So the relevant example in this case would be that if you were to at some point decide to train your mind in FREEDOM from sexual desire, the starting point would be to say 'no' to your partner pressuring you, and not act out of the pressure, discomfort, anxiety, mind kicking and screaming on account of THAT 'itch', no matter how intense. With enough patience in regard to that, your mind would calm down. When calm, it could understand the danger, the perversion and so on where it really applies - (making you liable to suffering) - and would become incapable of being affected by the exact same pressure on account of which you would previously be so affected that you felt obliged to act out. That's where the actual freedom from sensuality/sexuality would be.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/mpu6pdq/)** _2025-04-30 13:38:04_:
+
+    The main point is very simple. It is just that the 'arousal' of sensuality is defined by the STATE OF MIND. [Not the bodily 'itch'.](https://youtu.be/D1DcXTYmbeA?si=UPbR0KhnKWTalPtD&t=9m49s)  The kamaraga there is MENTALLY accepting and taking that pressure of itch for granted. 
+
+    The word 'arousal' I prefer to avoid because it blurs the lines between these two. Of course it can happen that people, mostly women, can engage in sexual intercourse apart from the physical bodily itch being present.
+
+     But that in and of itself is never what constitutes sexual desire or arousal to begin with, nor is it what makes those actions unwholesome kamma. It is the mental delight and craving towards sense pleasures that is unwholesome in every case: that is where the 'perversion of perception' is, and it is THIS that is necessarily present in some shape or form for anyone who willingly consents to sexual intercourse.
+
+    Action is intention - intentionally engageing in sexual activity is kamma of that kind, to the extent that it is done volitionally.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/mpzqi9s/)** _2025-05-01 09:49:19_:
+
+    >Sexual craving is treated in the Suttas as something that falls into the same category of sense desire but, for whatever reasons, with no separate meaning, not even worthy of having its own distinct term.
+
+    There's a good reason for that, which is exactly what I wrote above: sensuality (kāmaraga, kāmatanha, kāmachanda) is determined by the internal state of mind. Not the particular objects or pursuits it is associated with. That's equally why there's no need for the suttas to talk about a particular 'killing-craving,' for example: both equally necessarily involve craving, that's all.
+
+    The reason this is puzzling to you, is that you are measuring craving and intention in terms of the external 'purpose' or 'reason' someone might cite for doing something. "In order to support my family"; "In order to be left alone".  But whatever such 'reason' one might give is completely irrelevant and secondary to the internal pressure and emotional pull that drives someone towards certain behaviours. It is this, and this alone, that makes those actions done on account of it necessarily unwholesome. That is why the 'reasons' one gives are never able to fully justify the action:
+
+    > a male or female prostitute who consents to sexual intercourse for no other reason but to pay her bills or to buy her food, support her family, etc.
+
+    This is, to put it bluntly, slightly ridiculous. If such a person truly had NO emotional engagement and NO other purpose but paying bills and supporting a family, they would not choose to maintain such a profession just for that. Equally:
+
+    >myself who consent to it just so i can be peaceful ,left alone, unbothered by that martial duty
+
+    If just this were the aim, there are plenty of much simpler and less hassling ways to accomplish it, which would not have to prevent  being on friendly terms with a person, or even things like "sitting admiring a sunset together".
+
+    There has to be in either case an emotional pull behind it which has nothing to do with the external reasons, and that is where the kāmaraga is.
+
+    >i do not have enough faith to take that framework at face value
+
+    And this is why there is no communication taking place here: the above is simply not something that can be 'figured out' on the level of reasoning alone. You have to be able to recognise that internal pressure directly in yourself, and for that you need at least the degree of faith  that allows you to take the precepts as the reference point for what MUST be motivated by unwholesome intention, over and above your own ideas about it.
+
+    For as long as a person insists on justifying an action that is against the precepts, whatever the 'reasons' for it, they will not be able to recognise the craving that is inherent in that very need to justify it.
+
+    >out of faith or out of understanding.
+
+    It is not either/or. None of this means you need to just accept things blindly at face value: anyone with a degree of reason can see easily enough that there is no risk or danger in simply keeping the precepts and being celibate that can be argued for rationally. But there has to be some faith involved first, in order to develop 'understanding and clear insight' which indeed, as you say,
+
+    >is to see, as far as i am concerned the core of kama, the core of sensuality and simultaneously one would then also see the way that leads to freedom from sensuality
+
+    \- but only when developed on the basis of *both* faith and genuine attempts to understand the 'framework' given through the words of another - both of which need to be grounded in a way of life and behaviour that is aligned with what one has faith in and is attempting to understand.
+
+    Edit -  P.S. just a tip, if you want to make sure your replies are clearly visible in the thread and the person in question sees them, go to the comment you want to reply to in your 'notifications' section and click 'reply', rather than writing a new comment to the main post.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/mq5jasy/)** _2025-05-02 06:13:07_:
+
+    I have specifically said above that I would not use the word 'arousal' in this context because it conflates things that should not be conflated. So when you persist in asking questions that continue to deliberately conflate these things, I just go back to the same point and explain why those questions are misguided. 
+
+    >You can't engage in a sexual act unless the body is aroused
+
+    I would not agree with this specific statement, which is why I chose to put it differently, which I have already explained. 
+
+    As I've repeatedly said, the point is that you can't engage in the sexual act unless the mind is motivated by sensual desire and sensual craving, which indeed, in the case you propose, would be the craving for a drug, or greed for money, or romantic desire to maintain possession of another person's body. 
+
+    All of these are examples of kāmaraga and all of these imply perversion of perception, (but the perversion is on a slightly subtler level, and would be properly discernable where it applies only where there is right view, so I don't think it is worthwhile discussing further here.) 
+
+    >What you say gives me the impression like i somehow want to justify my sexual activity and that's why i come up with some excuses why i need to do it. But that's just a gratuitous assumption
+
+    That's good to hear, it sounded otherwise. 
+
+    >There can be no communication between someone who has taken decisive measures and major adjustments in his life on behalf of his faith in the path and someone who is not committed to practice for the freedom from sensuality.
+
+    With this I 100% agree, and genuinely wish you the best in whatever you are aiming towards.
+
+---
+
+**r/HillsideHermitage** | Posted by hopefullys00n _2025-04-28 04:14:59_
+### [Questions about Lying, Confessing, and Fixing Mistakes](https://www.reddit.com/r/HillsideHermitage/comments/1k9mx60/questions_about_lying_confessing_and_fixing/)
+
+Several years ago I told an awful lie about someone to some other people. Some of the people I lied to know the person I lied about, others that I lied to have never met the person and are no longer in my life. Years ago, I told some people that what I said wasn't true, but I lied again by suggesting that my lie was a result of me misinterpreting events rather than that I just told this awful lie in full awareness. I now plan to tell the full truth to the group of people that I still talk to and that know the person I lied about. The questions in this post are mainly about what to do about the other group of people- random people from my past that I don't talk to anymore and that either never met the person I lied about or met them only a few times many years ago. 
+
+I want to emphasize that the main thing I'm trying to leave behind here is not the behavior of saying awful, false things about people (this has been abandoned for years) but the internal (and external) coverup of my full responsibility for these actions (which could eventually lead to me lying again in future lifetimes). 
+
+I'm wondering if I should just endure the guilt and shame I feel over this without trying to rectify the situation, or if I should try to rectify the situation (by telling the truth to everyone I lied to) and endure the guilt and shame of that. I feel internally prepared to do either thing, I just don't know what would be best for my practice/most in line with what the Buddha taught. I don't know if I’m seeing this situation clearly and I don't want to be “missing the mark” with my efforts/emphasizing the wrong things by trying to tell everyone.  
+
+Could it be said that even if I think I'm totally prepared and open to telling everyone the truth, until/unless I actually do it, there's no way to know if the full weight of this action has been completely uncovered internally? 
+
+Is there some added benefit for my virtue (in the sense of reduced risk of doing this again) in coming clean to everyone I lied to vs just confessing the specifics of this situation to someone with whom I would feel a sense of shame?
+
+Even though I haven't told these awful lies in a long time, would it be correct to consider them to still be “active” or current because I have never cleared them up? I'm trying to understand how to see my current virtue in light of this situation. 
+
+Is this situation better viewed as two separate issues - Confession/Dhamma practice and trying to do what I can to fix a mistake? Is doing something to “right a wrong” automatically in line with the Dhamma, or does it depend what this effort is motivated by? It seems like there are some cases where something may be motivated by pressure but is still the right thing to do.
+
+One of my friends suggested that perhaps confessing these lies to the people I currently know/have some reputation with (the other female practitioners I talk to) might be more beneficial than trying to find/come clean to all the people I lied to that I don't even talk to anymore. Would this be true, or would this be something I should just add on to my efforts to clear things up with the people I lied to?
+
+Is confession necessary for actions you did years ago or before you were even practicing the Dhamma? Does it depend on whether you're still doing those things (or slighter faults along the same lines) or not?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k9mx60/questions_about_lying_confessing_and_fixing/mpit8iv/)** _2025-04-28 18:07:29_:
+
+    > Is confession necessary for actions you did years ago or before you were even practicing the Dhamma?
+
+    No. Confession is not for cleansing oneself of all accumulated evil, let alone rectify it externally, but for making sure that *now* that you've taken on the training, you won't be able to cover up or downplay your own deviations from it (which would make it quite likely that they will repeat themselves). 
+
+    With lying specifically, it's not even necessary to inform the specific people you lied to, though that's certainly better than totally keeping the lie to yourself. On top of that, since this happened before you started practicing, at least as far as the training is concerned, it's not necessary to confess it to anyone at all. If there are worldly motivations to inform the people you lied to—e.g., you have to discuss the topic you lied about anew for some practical reason, or the lie is still having an effect to this day—then by all means. 
+
+    But don't do it out of a hope that it will somehow resolve any mental pressure that you might be experiencing. That's impossible, and acting out of that hope would be the unwholesome kind of caving in to pressure that will only perpetuate itself (and wrong views about what the escape from suffering is as well). 
+
+    Pressure/suffering can only be truly resolved through right understanding (which requires a firm basis of restraint), not through further actions.
+
+    Either way, you should certainly be mentally prepared that if the topic ever comes up on its own, you won't go along with people's wrong impression of the facts that you deliberately created however long ago. If you do go along even tacitly, then you know that you have still not accepted the weight and blameworthiness of the action, and this tacit affirmation of the old lie would be a new lie that you *would* have to confess.
+
+---
+
 **r/HillsideHermitage** | Posted by Future_Plastic_9910 _2025-04-24 18:17:01_
 ### [Subject Object](https://www.reddit.com/r/HillsideHermitage/comments/1k6za42/subject_object/)
 
