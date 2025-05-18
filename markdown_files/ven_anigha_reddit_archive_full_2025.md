@@ -14,6 +14,270 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by tejveeer _2025-05-16 20:59:17_
+### ["True" Sotapatti vs. "False" Sotapatti: How to Distinguish Between Them?](https://www.reddit.com/r/HillsideHermitage/comments/1kobp2e/true_sotapatti_vs_false_sotapatti_how_to/)
+
+I'm still a puthujjana; this is not a question regarding me. But, this week, my views have changed quite significantly as a result of seeing with complete clarity, for the first time, the distinction between pressure in direct conjunction with the *option* to engage with that pressure. I remained vigilant to not enter the range of that pressure by *not* picking up that option (to approve, deny, distract myself from the pressure) and as a result, remained thoroughly untouched regardless of how pressuring the (particular) pressure was. I also saw many peripherally enduring pressures "convincing" me to engage with that option (or the arisen pressure), but they were instantly realized as such and thus "contained" within that "original" pressure that I had the option to engage with. As a result, even the peripheral pressures were not pressuring me.
+
+This happened specifically in regards to sexuality as a result of taking up the determination to not approve of "inclinations" towards sexual sights (I put inclinations in quotes because, as a result of the above mentioned insight, my whole previous framework of the dhamma has collapsed including the usage of "inclinations" which I regard to now be completely inaccurate).
+
+As a result of my framework collapsing - and now, being in the process of reconstructing it (and contemplating on what a rigorous construction of a framework even *entails*; I will specify the details in my reflection on Sunday in Discord) - I'm seeing that those who I previously regarded as ariyas may in fact not be ariyas. But, it appears they're very confident they're ariyas.
+
+I went through their writings (or videos), and realized that all of them, on one level or another, regard *craving* as synonymous with *pressure* (details may vary about what *kind* of pressure they regard as craving). I'm very confident that this is precisely *not* the case as a result of my seeing. My idea of craving prior to this Tuesday still involved implicitly regarding pressure as the issue even though I'd explicitly determined a few months ago that it was not simply on account of reasoning (unlike now, through the direct seeing that occurred this week).
+
+Now, I see craving as being in relationship with pressure in one way or another. Which means, I cannot just "measure" the craving and "feel" its increase or decrease (the property of measurability pertains to my idea of pressure). My current understanding is that it's a binary: it's either there, or not there; one's either in a relationship with pressure (of sights, sounds, smells, tastes, touches and thoughts) or not. I now also see the absolute necessity of thorough and complete withdrawl from picking up of any sensual intentions (indefinitely; not just for a few days, a few months, a few years, a few lifetimes) as a necessary condition for sotapatti. This is because picking those intentions up is *precisely* the craving (for me, right now), and if a sotapanna is one who sees craving as a dart, then entertaining that sensual intention (which is a mere subset of craving - but the largest part of it - as I understand it) has to also be seen as equally a dart.
+
+A lot of those who I listened to and regarded as ariyas somehow allowed leeway for sensuality in their idea of the path leading to sotapatti, which in my view is a complete impossibility now. But they are very confident in being ariyas since that is implied in their tone.
+
+Of course, I could be wrong in the above insight (though it would be hard to convince me otherwise right now). I don't have that big of an issue in changing my views. My current views are not exactly the subject of this post, I was just mentioning them to provide context regarding how I arrived at the main questions for this post:
+
+How does one ensure that one *is* indeed an ariya, and not a "fake" one? What are the chief characteristics of a "true" sotapanna as opposed to a "fake" sotapanna? What qualities can I develop - as a puthujjana - such that I can ensure that I do not deceive myself in regards to my actual status?
+
+Edit: changed a few sentences to be more precise.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1kobp2e/true_sotapatti_vs_false_sotapatti_how_to/msu8i4h/)** _2025-05-17 19:21:37_:
+    > all of them, on one level or another, regard *craving* as synonymous with *pressure* (details may vary about what *kind* of pressure they regard as craving).
+
+    That is indeed the quintessential mistake that everyone is bound to make. All Buddhists "agree" with the four noble truths on paper, but the reason the vast majority are not sotāpannas is that what they *personally, in their own reflection* regard as the problem is ultimately the pressure/feeling (and fixing that is not a matter of just "agreeing" that the feeling is not the problem, because it's much more deeply rooted than that). 
+
+    If you're practicing to overcome wrong view yourself, the conflation of feeling with craving will over time become clearer whenever someone who hasn't understood those truths gives practical instructions—provided you try to read between the lines and are not swayed by buzzwords and the right phrasing like a lot of people are. The *implied purpose* of whatever they would prescribe, even if it came straight from the Suttas, would be to somehow wriggle out of the arisen feeling (e.g., "enduring it" or "reflecting on impermanence," with the implied aim that what they think is the issue goes away).
+
+    > Now, I see craving as being in relationship with pressure in one way or another. Which means, I cannot just "measure" the craving and "feel" its increase or decrease (the property of measurability pertains to my idea of pressure). My current understanding is that it's a binary: it's either there, or not there; one's either in a relationship with pressure (of sights, sounds, smells, tastes, touches and thoughts) or not.
+
+    Exactly.
+
+    > A lot of those who I listened to and regarded as ariyas somehow allowed leeway for sensuality in their idea of the path leading to sotapatti, which in my view is a complete impossibility now. 
+
+    It is indeed impossible. As MN 2 says, someone who still gives attention to sensual things and continues feeding that defilement will give rise to wrong view one way the other. Wrong view is not due to lack of information or of "powers of reflection," but mainly due to the lingering assumption that the cause of your suffering is the circumstances, including internal ones. And, regardless of all that they may intellectually know and make a lot of sense of, that assumption is taken at face value and thus maintained each time a puthujjana acts in a sensual manner.
+
+    > How does one ensure that one *is* indeed an ariya, and not a "fake" one?
+
+    Nothing except faith in the right external standard will totally prevent that mistake, as no universal criterion exists that couldn't be bypassed. 
+
+    Initially you won't even know for certain which of the many available external standards is correct, nor who among those who claim to have adhered to it and fulfilled it actually did so. But, putting aside everything that blatantly contradicts the Suttas, you can take the safe route of choosing the highest and uncompromising standard, a choice that aligns with [the immense gravity, difficulty, and significance that the Buddha ascribed to stream entry](https://suttacentral.net/sn56.45/en/bodhi). Those similes aren't just for dramatic effect. At the same time, there is nothing categorically stopping anyone from getting there except their own lack of diligence (or misapplied diligence that they don't question).
+
+    > What qualities can I develop - as a puthujjana - such that I can ensure that I do not deceive myself in regards to my actual status?
+
+    One thing is making a habit of inspecting whether there is anything at all that you are afraid of giving up or any loss that you foresee yourself not being able to handle if it were to happen unexpectedly. If there is, it's a sign of still being liable to the second arrow, and your assumed freedom from it is being enabled by fortunate circumstances.
+
+    Only if you were already a sotāpanna yourself would you be able to understand how it's possible to be in such a seemingly consummate state while still having plenty of work left until Arahantship. Someone who is still poor won't be able to understand how a billion dollars can feel inadequate.
+
+---
+
+**r/HillsideHermitage** | Posted by craveminerals _2025-05-16 16:44:02_
+### [Looking for reading tips regarding ancient India](https://www.reddit.com/r/HillsideHermitage/comments/1ko5k5n/looking_for_reading_tips_regarding_ancient_india/)
+
+Hello dhamma friends, 
+
+I hope this type of post is okay here. 
+
+Some of this we can glean from the suttas. But I was thinking it’d be valuable to read about ancient India ~500 BC to get a more detailed picture of the context that the Buddha and his Sangha existed within, as well as the daily lives of the common people back then. It may for example give a picture of the obstacles/advantages they had then in attaining the Dhamma, compared to the ones we have now.
+
+And so I was wondering if any of you have any good reading suggestions? 
+
+Thank you! 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ko5k5n/looking_for_reading_tips_regarding_ancient_india/mssi5ka/)** _2025-05-17 13:37:41_:
+
+    *(In reply to jareb):*
+    > Surprisingly, I would recommend reading both the monks' and nuns' Vinaya. The Buddha introduced specific Vinaya rules in response to certain events, and these cases are described in detail in the Vinaya's suttas. I would especially recommend it to anyone who believes that people were much more virtuous in those days than they are now. It's a wild read.
+
+    > who believes that people were much more virtuous in those days than they are now
+
+    A text that deals with monastic offenses and their origin stories will naturally be full of “wild” accounts. Drawing conclusions from that would be like assuming the average person in a country is violent just because that’s what the news channels naturally revolve around. Nobody will report on a person who has never broken the law (or only to an insignificant extent) when that's the norm.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ko5k5n/looking_for_reading_tips_regarding_ancient_india/mssw148/)** _2025-05-17 14:58:33_:
+
+    *(In reply to jareb):*
+    > The key here is not so much what the monks themselves did, but how things would play out if such incidents were to occur today. The difference in culture and general level of morality is obvious when reading the Vinaya from the perspective of 'What would happen if such-and-such an incident were to occur to a modern monk or nun?' Monks were only reprimanded by the Buddha for actions that would be considered outrageous by modern general standards, and which neither the monks nor laypeople of that time saw as problematic.
+
+    > Monks were only reprimanded by the Buddha for actions that would be considered outrageous by modern general standards, and which neither the monks nor laypeople of that time saw as problematic.
+
+    Could you give an example? Also, I recall the statement that those who were good monks criticized the deed after every such story, except perhaps in cases where as many permutations are being expounded as briefly as possible.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ko5k5n/looking_for_reading_tips_regarding_ancient_india/mstvzor/)** _2025-05-17 18:11:13_:
+
+    *(In reply to jareb):*
+    > > At one time a monk who was an alms-collector saw a little girl lying on a bench. Being lustful, he inserted his thumb into her vagina. She died. He became anxious, thinking, “The Buddha has laid down a training rule. Could it be that I’ve committed an offense entailing expulsion?” 
+    > >
+    > > “There’s no offense entailing expulsion, but there’s an offense entailing suspension.”
+    >
+    > -
+    > > On one occasion a monk gave poison to a second monk with the purpose of investigating it. That monk died. The first monk became anxious, thinking, “The Buddha has laid down a training rule. Could it be that I’ve committed an offense entailing expulsion?”
+    > >
+    > > “What were you thinking, monk?”
+    > >
+    > > “My purpose was to investigate it, sir.”
+    > >
+    > > “There’s no offense entailing expulsion, but there’s a serious offense.”
+    >
+    > -
+    >
+    > There are dozens of cases like this involving monks killing or attempting to kill each other. And these are just the first cases of their kind — not all of the cases that have happened.
+    > > On one occasion a monk got meat stuck in his throat while eating. Another monk hit him on the neck, aiming to kill him. The meat was expelled together with blood, but the monk did not die. He became anxious, thinking, “The Buddha has laid down a training rule. Could it be that I’ve committed an offense entailing expulsion?”
+    > >
+    > > “There’s no offense entailing expulsion, but there’s a serious offense.”
+    >
+    > -
+    > > On one occasion the monks of Āḷavī were preparing a site for a dwelling when a monk lifted up a stone to another monk above him. The second monk dropped the stone on his head, aiming to kill him. He did not die. The second monk became anxious, thinking, “The Buddha has laid down a training rule. Could it be that I’ve committed an offense entailing expulsion?”
+    > >
+    > > “There’s no offense entailing expulsion, but there’s a serious offense.”
+    >
+    > -
+    > ...and so on. 
+    >
+    > These things aren't even taught to adults nowadays. If even a small fraction of what happened amongst monks and nuns happened today, the locals wouldn't allow them anywhere near settlements, and governments would have disbanded and prohibited them by force.
+    >
+    > ---
+    >
+    > Edit: Expanded shortened "became anxious ..." into original "became anxious thinking, “The Buddha has laid down a training rule. Could it be that I’ve committed an offense entailing expulsion?”"
+
+    *Studies in Āgama & Vinaya Literature* by Bhikkhu Anālayo, p. 19-20:
+
+    > Vinaya narrative, however much taken as factual by tradition, does not function in a way comparable to a record of case-law precedents in modern judicial proceedings. Instead, Vinaya tales need to be understood in terms of their teaching function and as an integral part of the monastic project of inculcating moral values, such as celibacy. This explains why tales of the jātaka and avadāna type can be found in the different Vinayas, simply because these serve a similar purpose of edification in a teaching situation.¹⁸ This, in turn, circumscribes the uses to which such Vinaya narrative can be put by the modern scholar, in the sense that, although this material can certainly serve as a source of information about monastic ideas, attitudes, and fantasies,¹⁹ the chances that it offers an accurate reporting of actual events occurring on the ground in ancient India are limited. Confirmation of this impression can be found in the variations of sexual intercourse described in the part of the Pāli Vinaya that offers a commentary on the pārājika rule concerning a breach of celibacy. As part of its general mission to clarify the exact legal meaning of the terms involved in the rule, this section of the Pāli Vinaya moves through a range of different possible scenarios for sexual intercourse. One of these describes a case of self-sodomy, making it clear that such descriptions cannot be records of actual events.²⁰ Instead, this “case” story must be a product of fantasy, inspired by the attempt to cover all possible cases monastic lawyers could possibly conceive of.²¹ Although Vinaya narrative can certainly yield significant information on material culture and local customs as well as usages, a reading that takes Vinaya texts to be factual accounts of actual events would reflect a misunderstanding of their nature.
+
+    > […] the evident impact of imagination on Vinaya narratives also makes it clear that caution is required with particularly dramatic stories, often found only in one or a few Vinayas.
+
+    These stories appear to not only be absent from the Chinese versions. Even in Sanskrit, the bhikkhuni pārājika rules contain no such stories (there seem to be no Sanskrit bhikkhu pārājikas available on SuttaCentral). I wasn't explicitly aware of this until now, but I was always suspicious of those accounts.
+
+    Apart from these questionable stories, even the interpretations of rules in the Theravāda Pātimokkha are sometimes absurd, and need to be rejected in order for the Vinaya to fulfill its intended purpose (of guarding against defilements and unsuitable situations). 
+
+    For example, the Theravāda Vibhaṅga [sees it as not an offense at all](https://suttacentral.net/pli-tv-bu-vb-pc23/en/brahmali?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#3.3.9) if a bhikkhu goes to a nuns' dwelling place to teach them Dhamma as long as they're not fully ordained bhikkhunis, regardless of there not being a suitable reason. As if that makes any difference to the obvious purpose of the rule.
+
+    It is also supposedly not an offense if a bhikkhu is alone in a private dwelling with a woman for [as long as he's standing up](https://suttacentral.net/pli-tv-bu-vb-pc45/en/brahmali?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#2.3.1), not sitting or lying down (which is of course ridiculous). These rulings can differ among parallel Vinayas, so they are clearly not canonical.
+
+    The Vinaya (especially the Pātimokkha section) was much more extensively modified and expanded than the Suttas, so some things within it should be taken with a pinch of salt. However, aside from the Sekhiyas, the basic rules—with their sometimes myopic, loophole-oriented Vibhaṅga commentary filtered out—are undebatable.
+
+    Edited:  typos and clarification
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ko5k5n/looking_for_reading_tips_regarding_ancient_india/msu9u51/)** _2025-05-17 19:29:12_:
+
+    *(In reply to jareb):*
+    > >> One of these describes a case of self-sodomy, making it clear that such descriptions cannot be records of actual events.
+    >
+    > I don't think it's impossible, but I neither want to make the search request nor, even more so, look through its results. ))
+
+    It is impossible according to ChatGPT.
+
+---
+
+**r/HillsideHermitage** | Posted by Print-Remarkable _2025-05-13 20:53:12_
+### [The hermit of Bundala](https://www.reddit.com/r/HillsideHermitage/comments/1klx3qw/the_hermit_of_bundala/)
+
+Reading through the Hermit of Bundala and I didn’t realize it mentions Venerable Katukurunde Nanananda of Concept and reality fame. Just now on that part so I may be wrong but I’m thinking they were close They meaning him and Ven Nanavira. I was wondering why I never hear him or his writings mentioned on the videos bc the book does mention his views were similar to Nanavira in some aspects 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1klx3qw/the_hermit_of_bundala/ms7lt1m/)** _2025-05-14 03:27:09_:
+    They shared a common ground of rejecting the Abhidhamma/commentary-based Theravāda views. The similarities pretty much end there.
+
+---
+
+**r/HillsideHermitage** | Posted by Kuznecoff _2025-05-13 19:41:43_
+### [What is "discernment"?](https://www.reddit.com/r/HillsideHermitage/comments/1klvb2w/what_is_discernment/)
+
+A very large staple of the Hillside Hermitage nomenclature is the term "discernment." When I first started out, I didn't have a clear understanding of what this meant. However, as time has passed, I believe I have a better grasp of how this word is used. 
+
+My impression is that discernment is not necessarily about identifying something that is immediately obvious and can be pointed to like an object in the world, but rather about using the principle of simultaneous presence (the structural interpretation of Dependent Origination) to infer the presence of other aspects of one's experience (the 5 Aggregates and necessary conditions for the experience to take place). 
+
+For instance, if an object appears in my experience, I can infer that I am conscious of a perception of it, based on the existence of my sense organs. And to have a perception, there must be some sort of configuration of matter that would create those perceptions. At the same time, the fact that I can understand what an object "is" implies that there is a layer of meaning that describes the significance of that object, and that there is the potential to act on any one of those significances (for instance, choosing to halt at a stop sign). Along with the presence of the object is a feeling which concurrently arises that is pleasant, unpleasant, or neutral. And of course, neither the feeling nor significance of the object would exist without the object, nor would an object be intelligible without those two characteristics. 
+
+Of course, none of these are things that can really be pointed at in a way where I could say "there is a stop sign", yet are no less features of the present experience. It seems like like the process of discernment is a means of breaking down and refining the understanding of one's present experience to reduce ambiguity, thereby seeing things clearly to develop dispassion.
+
+I'd like to hear more about how you, as a practitioner, understand the term "discernment". And if possible, perhaps an addition to the HH glossary may be useful to help newcomers understand better what is being communicated in speech and writing.
+
+Also, congrats on 1k members! It's cool to see this community grow, yet still maintain its small niche. And thank you, venerables, for providing insightful interaction in the community.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1klvb2w/what_is_discernment/msffyl9/)** _2025-05-15 11:03:49_:
+    >My impression is that discernment is not necessarily about identifying something that is immediately obvious and can be pointed to like an object in the world
+
+    Certainly; it would never be about objects in the world (e.g, clearly outlining various sensations or other "sensory data," as some call it). But whether what is discerned is immediately obvious or not (what is "obvious" is in the end relative, as previously vague things will over time become obvious if one practices rightly), what matters is that it must directly free you from craving. If discernment is correct, its presence automatically makes the presence of craving impossible. 
+
+    Therefore, if you think you've discerned something but you still crave (and suffer), that is not the right type of discernment even if ticks all the boxes in terms of depending origination, concurrency five aggregates, etc. Dispassion is not something developed separately on the basis of discernment; rather, if discernment is genuine, it *is* dispassion already.
+
+    > Of course, none of these are things that can really be pointed at in a way where I could say "there is a stop sign", yet are no less features of the present experience. I
+
+    Could you clarify what you mean by this? Do you mean to say that there *isn't* a stop sign?
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1klvb2w/what_is_discernment/msqtgwu/)** _2025-05-17 04:26:57_:
+
+    *(In reply to Kuznecoff):*
+    > Hello Bhante, thanks for the clarification!  
+    >
+    > Regarding this:
+    > > Could you clarify what you mean by this? Do you mean to say that there isn't a stop sign?  
+    >
+    > I was attempting to describe the tendency of discernment to "reveal" the presence of features of experience that cannot be directly attended to (in the same way one might become absorbed in an object in the world). 
+    >
+    > As I understand it, while it is very tempting to say that "there exists a stop sign", at best there is only consciousness of the presence of perceptions linked with significances that would indicate a stop sign is present, but which does not imply certainty of the actual nature of the matter that would constitute what I understand as a "stop sign".
+
+    > As I understand it, while it is very tempting to say that "there exists a stop sign", at best there is only consciousness of the presence of perceptions linked with significances that would indicate a stop sign is present, but which does not imply certainty of the actual nature of the matter that would constitute what I understand as a "stop sign".
+
+    This sounds like falling into the trap of mystifying rūpa. 
+
+    The statement implies that there *is* a rūpa that you cannot cognize, yet somehow you can still talk about. It is a contradictory view that overlooks the extent of the five aggregates, thus enabling *sakkāyadiṭṭhi* (the view of being an entity with access to things outside of the phenomenal, cognized experience).
+
+    Rūpa is something you are conscious of, and to that extent, its presence is not subject to doubt. What you will not find is a sense object that actually represents rūpa, but that is not at all the same as saying that you can't know its existence. It exists *as* something that is definitionally "underneath" the foreground of sights, sounds, etc., and it can be directly known by *not* looking for it in the realm of sights, sounds, etc. Hence the Buddha compared the sense organs to "empty villages." (SN 35.248). But being empty does not mean the village cannot be known as such.
+
+    > “And how, bhikkhus, are there four phases? **I directly knew form, its origin, its cessation, and the way leading to its cessation.** I directly knew feeling … perception … activities … consciousness, its origin, its cessation, and the way leading to its cessation.
+
+    —SN 22.56
+
+---
+
+**r/HillsideHermitage** | Posted by RunningForRotini _2025-05-11 19:28:41_
+### [Question Regarding the Fourth Precept](https://www.reddit.com/r/HillsideHermitage/comments/1kk957v/question_regarding_the_fourth_precept/)
+
+Greetings,
+
+Would the following scenario serve as a violation of the Fourth Precept?
+
+Last week, while talking to my mom, I misunderstood something she said, and I followed up by stating that “I’m tired.”
+This conversation *did* take place about two hours before I went to bed, and I had been feeling depleted from the previous week's work. 
+However, I noticed the intention behind the utterance was to protect my image, i.e., to not be perceived as a dullard. I still had enough mental energy to function. Similarly, I could have listened more carefully to what my mom was saying.
+
+I don't know whether or not to regard this as a transgression due to the unwholesome intention which happened to have a convenient, partially-true excuse, based in external circumstances, no less. 
+
+Am I overanalyzing this? If so, how do I see the danger in the slightest fault without falling into recursive spirals of [obsessive uncertainty (AN 7.11)](https://suttacentral.net/an7.11/en/thanissaro?lang=en&reference=none&highlight=false)?
+
+Any feedback is appreciated.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1kk957v/question_regarding_the_fourth_precept/mrvcd6k/)** _2025-05-12 05:55:50_:
+    > I don't know whether or not to regard this as a transgression due to the unwholesome intention which happened to have a convenient, partially-true excuse, based in external circumstances, no less.
+
+    It's not a transgression of the fourth precept. The fourth precept is to state something that is untrue, not something that can under some metric be regarded as an insufficient excuse for (not) doing something.
+
+    It is certain that when you take up the precepts, you will be swinging between the extremes of anxious concern with every little action and lax carelessness (where you might only keep the very strict letter of a precept but ignore the spirit). And you should regard falling for either of those extremes as a symptom of still not recognizing your own intentions clearly. Keeping the precepts externally without any compromises creates the necessary basis for you to train that discernment. When it's trained, there will come a point where "not acting out of defilements" will for you automatically mean perfect precepts, without any room for doubts. And that's what "accomplishment in virtue" means.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1kk957v/question_regarding_the_fourth_precept/ms7rmii/)** _2025-05-14 04:07:28_:
+
+    *(In reply to craveminerals):*
+    > Bhante, may I ask, what about certain jokes? 
+    >
+    > For example I made a little joke when we found a spider at work and the others said we should kill it. I said “it’ll start raining if we do that” (it’s a common ‘folk myth’ in my country that almost nobody believes) 
+    > Saying things like that is untrue, but it’s not like one would have any intent of deception or expecting that anybody will believe it.
+
+    > but it’s not like one would have any intent of deception or expecting that anybody will believe it.
+
+    Exactly, so it doesn't break the fourth precept then.
+
+---
+
+**r/HillsideHermitage** | Posted by Global_Ad_7891 _2025-05-10 03:14:49_
+### [Is chronic illness a rare opportunity to develop Right View?](https://www.reddit.com/r/HillsideHermitage/comments/1kj0n4j/is_chronic_illness_a_rare_opportunity_to_develop/)
+
+I’ve been reflecting a lot on the relationship between chronic illness and Dhamma practice. Specifically, I’m wondering if having a long-term health condition—one that doesn’t immediately kill you, but gradually weighs you down and confronts you with mortality—is actually a powerful vehicle for cultivating Right View.
+
+Of course, illness can give rise to urgency. But beyond that, I think the daily presence of sickness—especially the kind that lingers and shadows your life—can help keep your internal “context” aligned with reality: that life is fragile, impermanent, and headed inevitably toward death. For me, I have persistent lung issues. Nothing officially diagnosed as terminal, but it looms large in my mind. The thought of death is with me every day.
+
+And honestly, if I never got sick, I don’t think I would have ever started practicing seriously. I’m 25, and I probably would have just kept chasing jhanas or pleasant states, thinking I was doing something spiritual, when in reality I would have died one day having never truly understood anything. But this illness—because it hasn’t yet incapacitated me—feels like a rare and oddly precious window. I can still think, walk, read, meditate. I can engage with the Dhamma deeply. Yet I’m constantly aware that this window won’t be open forever.
+
+Isn’t that a gift, in a way? Not a pleasant one, but a gift nonetheless?
+
+Would love to hear from anyone else who’s experienced something similar or has thoughts on illness as a context for practice.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1kj0n4j/is_chronic_illness_a_rare_opportunity_to_develop/mrpf7jn/)** _2025-05-11 05:30:09_:
+    > Isn’t that a gift, in a way? Not a pleasant one, but a gift nonetheless?
+
+    Yes. The context of "I could lose my life/my health could suddenly deteriorate sharply at any moment" would be a recognition of actual *anicca* that would be a lot less abstract than it is for most. One of the many reasons why anicca (and insight in general) is interpreted in such myopic ways (e.g., observing the "flux" of experience, often of random sensations) is likely that people are on average a lot more disconnected—and in denial about—the unreliability of youth, health, and life due to the increase in safety nets that allow for covering it up almost totally for most of one's life. Therefore, *anicca* gets interpreted as anything but that personal, jarring (for the undeveloped mind) recognition.
+
+    By the time a person who's been intentionally ignoring their own mortality with the aid of modern comforts reaches a certain age, the assumptions of ownership are well cemented and are unlikely to be dislodged even if the divine messengers begin to make much more obvious physical appearances.
+
+---
+
 **r/HillsideHermitage** | Posted by Friendly_Distance119 _2025-05-09 09:28:02_
 ### [Wandering mind and non-activity](https://www.reddit.com/r/HillsideHermitage/comments/1kieav0/wandering_mind_and_nonactivity/)
 
@@ -91,6 +355,30 @@ Thank you.
     After getting the Right View and a bit further (sakadāgāmi), Isidatta chose to be content with that attainment and wasn't celibate anymore—therefore not practicing anymore, or only on occasion—while Pūraṇa continued to make further effort even after he got to that point.
 
     If Isidatta had remained celibate, his higher wisdom would've led him to non-return, while if Pūraṇa had practiced for longer and reached the same level of wisdom as Isidatta, he would've been a non-returner. But neither of them would've reached sotāpatti without cultivating the perception of sensuality as a charcoal pit (which *must* lead to not engaging in it with any degree of frequency; otherwise it's obviously not truly seen as a charcoal pit).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrplx5p/)** _2025-05-11 06:34:03_:
+    > What are the five shackles of mind he has not severed? Firstly, a bhikkhu is not without passion, desire, fondness, thirst, burning, and craving for sensuality. This being so, his mind does not incline to diligence, dedication, persistence, and striving. This is the first shackle of mind he has not severed.
+
+    > Furthermore, a bhikkhu is not without passion for the body … This is the second shackle of mind.
+
+    > Furthermore, a bhikkhu is not without passion for form … This is the third shackle of mind.
+
+    > He eats as much as he likes until his stomach is full, then indulges in the pleasure of sleeping, lying down, and drowsing … This is the fourth shackle of mind.
+
+    > He leads the renunciate life for the sake of a certain heavenly existence, thinking: ‘By this precept or observance or fervent austerity or renunciate life, may I become one of the gods!’ This being so, his mind does not incline to diligence, dedication, persistence, and striving. This is the fifth shackle of mind, he has not cut off. These are the five shackles of mind, he has not cut off.
+
+    > When a bhikkhu has not abandoned these five obstinacies and cut off these five shackles of mind, it is not possible for him to achieve **growth, improvement, or maturity in this teaching-and-discipline.** 
+
+    > —MN 16
+
+    If one wishes to argue that this only applies to monks, MN 53, directed explicitly at a group of Sakyan laypeople, talks about the "practicing trainee":
+
+    > When a noble disciple is accomplished in virtue, guards the sense doors, is moderate in eating, and is dedicated to vigilance, has seven good qualities, and gets the four jhānas—easeful abidings in the present experience that involve an elevated mind—when they want, without trouble or difficulty, they are called a noble disciple who is a practicing trainee. Their eggs are unspoiled, and they are capable of breaking out of their shell, becoming awakened, and achieving the supreme safety from the yoke. Suppose there was a chicken with eight or ten or twelve eggs. And she properly sat on them to keep them warm and incubated. Even if that chicken doesn’t wish, ‘If only my chicks could break out of the eggshell with their claws and beak and hatch safely!’ Still they can break out and hatch safely.
+
+    > In the same way, when a noble disciple is endowed with all these factors, **they are called a noble disciple who is a practicing trainee.** Their eggs are unspoiled, and they are capable of breaking out of their shell, becoming awakened, and achieving the supreme safety from the yoke.
+
+    The simile of the hen is the exact same one as in MN 16, and the meaning is the same: without these factors, the eggs will not hatch, i.e., one will not gain supramundane insight. Thus, this Sutta is saying the same thing but applied to an audience of laypeople: without complete withdrawal from sensuality—celibacy being included in "accomplishment in virtue" already, as Isidatta is called "lacking in virtue" in AN 10.75 due to not being celibate—they cannot consider themselves to be *practicing* even if they are already *sekhas*, i.e., are at least sotāpannas. Thus, as per MN 16, they are not capable of further growth in the Dhamma.
+
+    The same requirement for progress in the Dhamma would apply to a puthujjana aiming for sotāpatti—even more so today, without the Buddha's direct instruction, and with more proximity to sensuality than people back then could even imagine.
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mran1uz/)** _2025-05-08 19:10:19_:
 
     *(In reply to RaajuuTedd):*
@@ -265,6 +553,301 @@ Thank you.
     Just a bridge that has never undergone significant load testing would collapse the first time it is fully loaded, if one hasn't been avoiding the two extremes and thereby exposed oneself to the fundamental dukkha, one's understanding of the Dhamma—even if pointing somewhere in the right direction—will remain abstract and become powerless when real suffering arises: suffering of confinement within indefinite and uncompromising celibacy and withdrawal from sense pleasures, and sickness, aging, death, and heavy loss. 
 
     So rather than waiting for the latter type of suffering to start building the bridge, at which point it will very likely be too late, uncompromising virtue and renunciation (of the right things) create a much safer basis for the same training.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrrngyd/)** _2025-05-11 16:06:39_:
+
+    *(In reply to jareb):*
+    > Venerable, I am sorry, but in my opinion, with how strong and categorical your statements on the subject are, your supporting arguments from the suttas need to be even stronger and more categorical, but what has been presented here is not only not strong, it is non-existent, vague and highly questionable in the line of reasoning. All this, spiced with the non-answers to the direct and simple questions about your arguments - let's put it this way - with all due respect, it doesn't look good, it doesn't look right, and it doesn't look correct. 
+    >
+    > I'll stop here.
+
+    That's fine. I am not trying to change your or OP's mind in particular; that didn't seem like a realistic scenario from the outset.
+
+    >  All this, spiced with the non-answers to the direct and simple questions about your arguments
+
+    I don't see how you could regard any of my replies as "non-answers," but alas.
+
+    OP's question was about the possibility of stream-entry without celibacy according to the HH view, and that is what I've expressed in categorical terms. Speaking solely from that angle, there is zero chance that someone will attain what *we* regard as stream-entry without being celibate. If someone allegedly does so, they do not meet our standard for what constitutes stream entry, and I am confident that any such person's lingering wrong view will be obvious even without knowing that they haven't been celibate.
+
+    Nevertheless, I did not stop there and provided evidence that there is plenty of room for our interpretation in the Suttas. Meanwhile, it seems all others here have been able to do is lean on the assumption that absence of evidence means evidence of absence.
+
+    I could have done the same and stopped at citing the fact that there isn't a single Sutta where a householder meets the Buddha, takes on the five precepts, and through some practice or other based on that meager level of restraint attains the Right View later on. That is a possibility on which you (and the majority of practitioners today) seem to be willing to wager, despite no recorded instances of that happening in any early Buddhist text. 
+
+    I am confident that any reasonably unbiased person reading this will be able to see that the latter conclusion rests on much feebler ground, and that's all I've been aiming for. And that's also as far as one can often go with "proving" things with Sutta quotes; a degree of interpretation is always required, and a person will have room to reject one's premises if they really want to. That's how even leading Pāli experts are sometimes able to wriggle out of the obvious meaning of explicit statements made in the Suttas to accommodate their existing worldview.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mruxtfq/)** _2025-05-12 03:49:22_:
+
+    *(In reply to Organic_Category7646):*
+    > >Speaking solely from that angle, there is zero chance that someone will attain what *we* regard as stream-entry without being celibate.
+    >
+    > Bhante, to what extent should this be seen as a genuine *categorical* statement?
+    >
+    > From my understanding, it seems totally technically possible that someone may attain the Right View while not being physically celibate and while still engaging in sensual pleasures if they have particularly strong faculties and have been personally guided to see the peril of sensual pleasures, while taking refuge in the Triple Gem.
+    >
+    > By being temporarily secluded during the duration of that discussion and being pointed to the nature of their experience with great accuracy, it seems possible that they may genuinely see all sensuality as akin to a charcoal pit at least for that time, giving rise to the Right View right there and then. They then may decide to still go back to their worldly life.
+    >
+    > Of course, this does not change your general point that for a person today who has access to all the suttas yet does not understand the Four Noble Truths, they must seriously take on the task of abandoning all traces of sensuality while contemplating their harm in order to attain stream-entry.
+
+    There is **no difference** between "genuinely seeing all sensuality as akin to a charcoal pit" and permanently resolving upon a celibate and aloof lifestyle. If a person thinks withdrawing the mind from sensuality entails anything less than the latter, then the peril in sensuality is for them a partly abstract idea that has not sunk in on the right level, and therefore, that understanding of the peril will not be a sufficient basis for the Right View to arise. 
+
+    So, it is a categorical statement: what somebody who currently indulges in sensual pleasures to any extent has to do in order to get the Right View (or further noble attainments up to anāgāmi) is get their citta to genuinely resolve upon permanent celibacy, without the slightest prospect of ever returning. There is no other way. And this is something that monastics of several decades' standing have not necessarily achieved yet and generally never do, even if they in the end pass away without ever disrobing. So, [living physically disengaged for one's whole lifetime—even not thinking about sensuality much at all—is, in and of itself, *below* the level of withdrawal from sensuality that is required](https://suttas.hillsidehermitage.org/?q=mn36#mn36:18.11_mn36:18.12).
+
+    Now, whether that resolve for celibacy will actually last forever post sotāpatti is another matter—and one that indeed cannot be stated categorically. From the Suttas we can see that for many people, it didn't, because the *fetter* of sensuality had not been overcome yet, and they were satisfied with their current attainment.
+
+    Edit: Added link to MN 36.
+
+---
+
+**r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2025-05-08 05:22:11_
+### [Laypeople Who Don't Give Up Sensuality](https://www.reddit.com/r/HillsideHermitage/comments/1khiejs/laypeople_who_dont_give_up_sensuality/)
+
+I recently discovered two (so far unrecognized) Chinese parallels to the poem in Theragātha 2.34. They both provide a backstory that strongly bolsters the message present in the verses, conveying the central point that we frequently emphasize even more effectively: monastic or layperson, practicing the Dhamma entails giving up sensuality. Failure in the latter is failure in the former.
+
+# [Thag 2.34](https://suttacentral.net/thag2.34/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin)
+
+>*I’ve seen lay disciples who have learned the Dhamma, who,*  
+*Though saying, “Sense pleasures are impermanent,”*  
+*are infatuated with gems and jewelry,*  
+*concerned for their partners and children.*
+
+>*They indeed don’t know the purpose of this Dhamma.*  
+*Even though they say “Sense pleasures are impermanent”,*  
+*They don’t have the power to cut passion,*  
+*so they’re bound to children, spouses, and wealth.*
+
+# [SĀ 591](https://suttacentral.net/sa591/lzh/taisho?lang=en)
+
+Thus I have heard:
+
+At one time, the Buddha was dwelling at Jetavana, Anāthapiṇḍika’s Park in Śrāvastī.
+
+Then the Blessed One addressed the bhikṣus:
+
+"In the past, on an island, an upāsaka went to the home of another upāsaka to attend a gathering. There, he harshly denounced sensuality, saying:
+
+‘These sense pleasures are worthless, insubstantial, and false—deceptive things, like illusions that deceive a child.’
+
+Yet upon returning to his own home, he indulged freely in the five cords of sensuality.
+
+Now, in that upāsaka’s dwelling, there resided a deva.
+
+The deva thought to himself:
+
+‘This upāsaka is mediocre and inconsistent. At the gathering in another upāsaka’s home, he vehemently denounced sensuality, saying: “These sense pleasures are worthless, insubstantial, and false—deceptive things, like illusions that deceive a child.” Yet back in his own home, he abandons himself to the five cords of sensuality.  I shall now startle him into awareness.’
+
+And he spoke this verse:
+
+>*‘In the great assembly, you denounced sensuality as impermanent,*  
+*Yet you yourself drown in craving—like an ox sunk in deep mud.*  
+*I observe this gathering of upāsakas:*  
+*Learned, wise in the Dharma, upholders of pure precepts.*  
+*You see those who delight in the Dharma, and call sensuality impermanent—*  
+*How then do you indulge in lust, never severing greed?*  
+*Why delight in the world, keeping wives and family?’*
+
+When that deva had awakened the upāsaka in this way, that upāsaka, thus stirred, shaved his hair and beard, donned the robes, and with sincere faith, left the household life to pursue the path.  Striving diligently, he exhausted all defilements and attained Arahantship.’
+
+The Buddha finished speaking this sūtra. The bhikṣus, having heard the Buddha’s words, rejoiced and respectfully practiced accordingly.
+
+# [SĀ-2.185](https://suttacentral.net/sa-2.185/lzh/taisho?lang=en&reference=main&highlight=false)
+
+Thus I have heard:
+
+At one time, the Buddha was staying in the Jetavana Grove of Anāthapiṇḍika’s Park in Śrāvastī. At that time, the Buddha addressed the bhikṣus:
+
+"In ancient times, in the city of Śūrpāraka, there was a gathering place for upāsakas (devoted laymen). The upāsakas assembled in their hall and spoke of the faults of sensuality:
+
+Sensuality appears outwardly [like exposed bones or like chunks of meat fought over by birds. Sensuality is like poisonous dung—both stinging and defiling. It is like a pit of fire or like a leper warming himself by flames, only to have his itching and pain worsen. It is like running against the wind while holding a torch—if one does not let go, they will surely be burned. Sensuality is like a dream, an illusion, a borrowed thing, or like fruit on a tree. It is like a spear or a halberd. Sensuality is impure, filled with filth. It is like undigested food—foul and repulsive.](https://suttas.hillsidehermitage.org/?q=mn22#mn22:6.1_mn22:6.15)
+
+Though they gathered and spoke extensively of the perils of sensuality, when they returned home, they each indulged in heedlessness.
+
+At that time, the deity of the assembly hall thought to himself:
+
+‘These upāsakas gather in this hall to speak of the perils of sensuality, yet when they return home, their craving only grows. They are not pure, nor do they act in accordance with the Dharma. Now I shall disturb them to rouse them up.’
+
+Having resolved thus, the deity, while the upāsakas were assembled, spoke this verse:
+
+>*‘You upāsakas gather and discuss,*  
+*Declaring sensuality to be impermanent,*  
+*Yet when you return, you yourselves*  
+*Are drowned in the torrent of sensuality.*
+
+>*Like an old ox stuck in deep mire,*  
+*Now I observe the many upāsakas—*  
+*Learned and disciplined,*  
+*They speak only of sensuality’s faults,*  
+*Calling it impermanent.*  
+*Yet their words are empty,*  
+*For they have no true intention to abandon sensuality,*  
+*still greedy for and attached to the forms of men and women.*
+
+>*Craving and attachment are said to be non-Dharma—*  
+*You ought to forsake them!*  
+*In the Buddha’s teaching,*  
+*you ought to conduct yourself righteously.’*
+
+When the deity had spoken this verse, the upāsakas, upon hearing it, were roused up. Disgusted with sensuality, they shaved their heads and beards, left their households, and took up the monastic life. Diligently practicing, cultivating virtue, composure, and understanding, they all attained the fruit of Arahantship."
+
+The Buddha finished speaking, and the bhikṣus, having heard his words, rejoiced and faithfully practiced accordingly.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1khiejs/laypeople_who_dont_give_up_sensuality/mrv6etc/)** _2025-05-12 05:01:04_:
+
+    *(In reply to Empty_Dig_2950):*
+    > Clarification on Sensuality and Stream-Entry
+    >
+    > Bhante, your reminder of the danger of hypocrisy in Dhamma practice is welcome. However, your core assertion — that Dhamma practice, whether by laypeople or monastics, entails giving up sensuality, and failure to do so is failure to practice — does not align with the structure of the path as laid out by the Buddha in the Nikāyas.
+    >
+    > To be direct: a Sotāpanna has not yet abandoned sensual desire. This is not a matter of opinion but a matter of canonical clarity.
+    >
+    > According to the Dīgha Nikāya 33 (DN 33, Saṅgīti Sutta), the first three fetters (sakkāya-diṭṭhi, vicikicchā, sīlabbata-parāmāsa) are eradicated at stream-entry. Sensual desire (kāma-rāga) and ill will (vyāpāda) remain and are only abandoned at the level of the Non-Returner (Anāgāmī).
+    >
+    > This is reaffirmed in:
+    > 	•	Majjhima Nikāya 107 (MN 107, Gaṇakamoggallāna Sutta), where the Buddha describes the gradual training culminating in final liberation, not beginning with total sensual renunciation.
+    > 	•	Aṅguttara Nikāya 6.97 (AN 6.97, Anāgāmī Sutta), where the Buddha explicitly states that the Non-Returner has overcome sensual desire and ill will — implying that the Sotāpanna has not.
+    >
+    > Moreover, in Saṃyutta Nikāya 55.26 (SN 55.26, Anāthapiṇḍikovāda Sutta), the Buddha declares the householder Anāthapiṇḍika a stream-enterer — a man who remained fully engaged in lay life, with wife, wealth, and sensory contact.
+    >
+    > Also, Citta the Householder, one of the most praised lay disciples, is called a niyatāsammattiyo (one assured of enlightenment) and clearly lived amid sensual conditions (SN 41.8, Cittasutta).
+    >
+    > Therefore, to claim that any indulgence in sensuality invalidates Dhamma practice is not only doctrinally inaccurate — it undermines the Buddha’s own recognition of householders on the path of realization, and confuses the distinction between path and goal.
+    >
+    > One must not confuse the requirement for Arahantship with the reality of stream-entry.
+    >
+    > Precision matters — especially when the audience includes sincere lay followers earnestly walking the path. To raise the bar beyond what the Buddha himself required is not a call to integrity — it is a misrepresentation.
+    >
+    > With metta and commitment to the truth of the early teachings.
+
+    As is very common, your comment rests on a critical confusion between abandoning the fetter of sensual desire and purifying the mind from sensual desire.
+
+    >Moreover, in Saṃyutta Nikāya 55.26 (SN 55.26, Anāthapiṇḍikovāda Sutta), the Buddha declares the householder Anāthapiṇḍika a stream-enterer — a man who remained fully engaged in lay life, with wife, wealth, and sensory contact.
+
+    Nobody is denying that some stream-enterers could continue to engage in sensual pleasures *after* their attainment. That position is untenable in light of the Suttas. What we insist on is that one cannot *attain* stream-entry (or any noble attainment) without abandoning passion for sensuality beforehand, and this is not only stated prior to every recorded attainment of sotāpatti in the early texts but also in more generalized fashion in Suttas like MN 16 and MN 36, which I've cited in another thread.
+
+    AN 8.53:
+
+    >“Gotamī, the things that you would know lead to passion, not dispassion; to attachment, not to detachment; to accumulation, not diminution; to abundance of desires, not fewness of desires; to discontent, not contentment; to socializing, not seclusion; to laziness, not effort; to being burdensome, not being unburdensome: **Categorically, you should remember them as not the teaching, not the training, and not the Teacher’s instructions.**
+
+    SN 45.24, a Sutta which I hadn't cited yet, is even more direct:
+
+    > At Savatthī. “Bhikkhus, whether for a layperson or one gone forth, I do not praise the wrong course. Whether it is a layperson or one gone forth who is practising wrongly, because of undertaking the wrong course, **he does not attain the way, the Dhamma that is wholesome.** And what, bhikkhus, is the wrong course? It is: wrong view … wrong composure. This is called the wrong course. Whether it is a layperson or one gone forth who is practising wrongly, because of undertaking the wrong course he does not attain the way, the Dhamma that is wholesome.
+
+    > “Bhikkhus, whether for a layperson or one gone forth, I praise the right course. Whether it is a layperson or one gone forth who is practising rightly, because of undertaking the right course, he attains the way, the Dhamma that is wholesome. And what, bhikkhus, is the right course? It is: right view … right composure. This is called the right course. Whether it is a layperson or one gone forth who is practising rightly, because of undertaking the right course of practice he attains the way, the Dhamma that is wholesome.”
+
+    The second factor of the "wrong course" is wrong intention (micchāsaṅkappa), i.e., intention of sensuality.
+
+    So, yes, plenty of laypeople in the Suttas remained within sensuality after their stream entry. But they were *ipso facto* not practicing the Dhamma anymore, even though they had understood it. They were engaging in wrong intention and in that which is against the teaching and the training.
+
+    This is why a group of laypeople who were probably already all noble ones—our point is highlighted even more if one takes it otherwise—had to be reminded in MN 53 that, in order to be considered "a practicing trainee" (*sekho pāṭipado*) they must follow the exact same training that is prescribed to monastics. That training *starts* with "seeing the danger in the slightest fault" and "sense restraint," both of which automatically rule out any sensual (and especially sexual) activity. Never did the Buddha prescribe a "milder" course of training based on five precepts; rather, the consensus in the texts is that such a person is simply *not training* towards the cessation of existence but towards a good rebirth at best.
+
+    People tend to severely underestimate what the essential requirement for stream entry—purifying the mind from sensual desire—entails, thinking that it's enough to simply not desire any particular sense pleasures for the moment while internally being in a mind state that *would* delight and lean towards a very compelling sensual prospect if it were to suddenly become available. This is in line with the contemporary (mis)understanding of the five hindrances, where the momentary absence of very specific sensual thoughts on account of focusing one's attention on something else is regarded as the absence of the hindrance of sensuality.
+
+    This ignores the fact that, under such an interpretation, even a very indulgent person's mind can be "purified from sensuality" at many points during the day, and yet they would certainly not enter the stream if they were to reflect on the four noble truths during such times. 
+
+    If you wish, you can read [this comment](https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/comment/mruxtfq/?context=3&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) for more on the topic.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1khiejs/laypeople_who_dont_give_up_sensuality/msksxwt/)** _2025-05-16 05:18:23_:
+
+    *(In reply to Empty_Dig_2950):*
+    > Bhante, thank you for the thoughtful clarification. I would, however, like to raise two considerations that might deepen the conversation rather than oppose it.
+    >  
+    >
+    > First, the Buddha’s Middle Way was defined precisely by the refusal to fall into extremes - neither indulgence nor ascetic suppression. While the suttas clearly emphasize the dangers of sensuality, they also describe a path that unfolds gradually. To require the full purification from sensual desire prior to stream-entry seems to shift the focus from this gradual disentanglement to a kind of purity test that could easily blur into spiritual perfectionism.
+    >
+    >  
+    > Second, perhaps we need to distinguish more carefully between “living” the Dhamma and “practicing” it. Lay followers like Anāthapiṇḍika or Citta were praised not because they had already renounced all sensuality, but because they practiced with sincerity within their conditions. If we say that anyone who has not yet uprooted sensuality is “not practicing the Dhamma,” we risk erasing the very terrain the Buddha walked with people - meeting them where they were, not where they “should” already be.
+    >
+    >  
+    > My intention is not to dilute the path, but to uphold the very precision and clarity we both value. Stream-entry is not the end of passion - it is the end of confusion about where the path leads.
+    >
+    >  
+    > With respect and gratitude for your sharpness of view.
+
+    >First, the Buddha’s Middle Way was defined precisely by the refusal to fall into extremes - neither indulgence nor ascetic suppression.
+
+    The Middle Way is defined as the abandonment of sensual pleasure without going as far as seeking extra pain (which is unnecessary). If by "ascetic suppression" you mean an uncompromising effort to not tolerate and abandon wrong intention (intention of sensuality), then that's precisely the Middle Way you find in the Suttas.
+
+    >While the suttas clearly emphasize the dangers of sensuality, they also describe a path that unfolds gradually.
+
+    Not "gradually" in the sense that you seem to be implying. Nowhere in the Suttas do we find the common modern view that a person ought to "take their time," as if they were sure to have many years left to live, indefinitely procrastinating the relinquishment of that which goes against the Dhamma (i.e., everything connected with passion, attachment, etc., as per AN 8.53). Far from it, the emphasis was on the transient nature of life and of suitable conditions for making the right effort, and thus the need to be maximally diligent (e.g., [SN 3.25](https://suttacentral.net/sn3.25/en/sujato?lang=en&layout=linebyline&reference=main&notes=asterisk&highlight=false&script=latin), [MN 82](https://suttacentral.net/mn82/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#36.1), AN 5.57).
+
+    The word often translated as "gradual" is *anupubba*, and it means "step-by-step." Either way, the very first step of the "gradual" training is establishment in virtue, seeing the danger in the slightest fault, which in itself already encompasses celibacy.
+
+    >  to a kind of purity test that could easily blur into spiritual perfectionism.
+
+    Arguably, "spiritual perfection"—a state of complete mental purity—was precisely the necessary condition for even householders to understand the noble truths:
+
+    > And when he knew that Upāli’s mind was ready, pliable, rid of hindrances, elated, and confident, he explained the special teaching of the Buddhas: suffering, its origin, its cessation, and the path. **Just as a clean cloth rid of stains would properly absorb dye,** in that very seat the stainless, immaculate eye of the Dhamma arose in Upāli...
+
+    .
+
+    > Lay followers like Anāthapiṇḍika or Citta were praised not because they had already renounced all sensuality, but because they practiced with sincerity within their conditions. 
+
+    From memory, Anāthapiṇḍika and other sensually-engaged householders were never personally praised in the Suttas on account of any supramundane qualities. They were praised due to things like generosity. The householders the Buddha selected as models for the laity were all anāgāmis, including Citta (SN 17.23-24). Hatthaka and Nandamāta were also non-returners, and thus it is reasonable to assume that Khujjuttarā was too, although there are no canonical stories about her.
+
+    The Buddha would not have praised disciples like Anāthapiṇḍika and established them as exemplary due to a crucial point implicitly made in AN 10.75: someone who is not celibate is deficient in virtue (dussīla). The internal liberation that would separate somebody like Anāthapiṇḍika from an ordinary person would be, [to an ordinary person, quite intangible](https://suttacentral.net/dn1/en/bodhi?lang=en&reference=main&highlight=false#bps7).
+
+    > “Householders, if wanderers of other sects ask you: ‘Householders, what sort of monks and divines should not be honoured, respected, revered and venerated?’ you, being asked thus, can answer those wanderers of other sects thus: ‘Those monks and divines who are not rid of lust, hate and delusion regarding forms cognizable by the eye, whose minds are unquiet in themselves, whose bodily, verbal and mental behaviour is now righteous and now unrighteous—such monks and divines as these need not be honoured, respected, revered and venerated. Why is that? Because we too are not rid of lust, hate and delusion regarding forms cognizable by the eye, our minds are unquiet in ourselves, our bodily, verbal and mental behaviour is now righteous and now unrighteous. **So since we see no greater righteous behaviour in these good monks and divines, they need not therefore be honoured, respected, revered, and venerated.’**
+
+    —MN 150
+
+    > but because they practiced with sincerity within their conditions.
+
+    Again, one cannot say that they were "practicing with sincerity" if they were engaging in wrong intention and ["going with the stream"](https://suttacentral.net/an4.5/en/bodhi?lang=en&reference=main&highlight=false#sc2). [For one with wrong intention, the other factors of the eightfold path cannot be present.](https://suttas.hillsidehermitage.org/?q=an10.105#an10.105:1.1_an10.105:1.2) The disciples who were praised on account of things directly related to practice were those who were established in renunciation, since the Dhamma is at its core the relinquishment of passion. Just as in a weightlifting context, only people who lift heavy weights receive praise.
+
+    > If we say that anyone who has not yet uprooted sensuality is “not practicing the Dhamma,” we risk erasing the very terrain the Buddha walked with people - meeting them where they were, not where they “should” already be.
+
+    I never said nobody who "has not yet *uprooted* sensuality." That would indeed be confusing the path with the goal. Nobody who is not trying to uproot sensuality, i.e., the coarsest form of craving, and continues to give in to it, is practicing the way to the cessation of craving. They might aspire to, but they are not doing so at that time.
+
+    Of course, it is true that most people will not be able to take large steps towards renunciation all at once. But it is seriously misguided (and unfortunately quite common) to conflate that with an allowance for contentment with their current lifestyle.
+
+    Someone gradually giving up smoking must also be relentlessly aware of the habit's harmful nature. The moment they lose that visceral sense of its harm, the addiction wins. On a concrete level, they will remain bound to the habit. At best they will have only a remote, theoretical recognition that a smoke-free existence is supposedly better but will lack the gut-level motivation required to break free.
+
+    > Stream-entry is not the end of passion - it is the end of confusion about where the path leads.
+
+    It is also the end of confusion about what the path *is*, which means that a stream enterer would know full well that any sensual resolves they might still carry are incompatible with the path.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1khiejs/laypeople_who_dont_give_up_sensuality/msku1gz/)** _2025-05-16 05:28:04_:
+
+    *(In reply to Empty_Dig_2950):*
+    > Addendum: Ajahn Nyanamoli on Sotāpatti and Sense Restraint
+    >
+    > In the YouTube Video “The Unconditional Virtue” (Hillside Hermitage, at 42:30), Ajahn Nyanamoli responds to the question:
+    >
+    > 
+    > “Is it possible for Sotāpatti to occur before full      sense restraint, as outlined in the gradual training?”
+    >
+    > 
+    > He answers:
+    >
+    > 
+    > “Yeah, yeah, definitely. You let the precepts – the aggregate of virtue, of knowing things you won’t do – you let that sink deep enough into that animal for it to sort of come to realize: ‘Oh yeah, actually this is better for me as well.’ That is the Sotāpatti. Then that animal can’t turn against you, can’t crave against things that are already understood as inaccessible – inaccessible to ownership, inaccessible to craving.”
+    >
+    > 
+    > This reinforces the distinction between full sensual renunciation and the irreversible insight of stream-entry. Restraint may deepen after the turn of the mind. But the mind has already turned.
+
+    > This reinforces the distinction between full sensual renunciation and the irreversible insight of stream-entry. 
+
+    It does not. The precepts include celibacy. Sense restraint is an even further layer of development where one would avoid *anything* that becomes tainted with greed or aversion, even if it's not against a precept.
+
+    You overlooked the part right before the one you quoted (starting 40:40), where he talks about the need to not only keep the precepts but also give up sensuality unconditionally, saying also that the bare minimum of virtue is "five precepts with celibacy."
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1khiejs/laypeople_who_dont_give_up_sensuality/msnm428/)** _2025-05-16 17:04:54_:
+
+    *(In reply to General-Property-398):*
+    > Bhante, I am not against what you have written.
+    >
+    > But, I have just read a sutta that seems to allow the possibility that laypeople who are restrained in the five precepts may become a stream-enterer. the translation of MA 128 and its parallel [AN 5.179](https://suttacentral.net/an5.179).
+
+    > seems to allow the possibility that laypeople who are restrained in the five precepts may become a stream-enterer. 
+
+    That is not what the Sutta says. It says one can *identify* someone who is *already a stream-enterer* by the fact that they are (at the very least) restrained in the five precepts and possess all those other qualities. But they would have never acquired profound and unshakable confidence in the Triple Gem [if they had not plunged into the abyss and found the escape *there*](https://suttas.hillsidehermitage.org/?q=an9.41#an9.41:3.1_an9.41:3.4).
+
+    The reason for celibacy being a prerequisite is quite simple. [For as long as someone still has the door to sensuality "open," they will not be forced to find the actual escape from dukkha](https://suttas.hillsidehermitage.org/?q=sn36.6#sn36.6:1.16_sn36.6:1.19). Whatever escape they may discover will be superficial and of the nature of management, not even reaching the level of jhāna, precisely because they still allow themselves to go with [the path of least resistance when their mind pressures them](https://suttacentral.net/an4.5/en/bodhi?lang=en&reference=main&highlight=false#5.4).
+
+    Furthermore, a monastic is said to have to [perfect their conduct](https://suttacentral.net/an5.21/en/bodhi?lang=en&reference=main&highlight=false), purify their mind from delight not just [in sensuality, their own body, form, and future lives,](https://suttas.hillsidehermitage.org/?q=mn16#mn16:13.1) but also [in company and association with others](https://suttas.hillsidehermitage.org/?q=an6.68#an6.68:1.1_an6.68:1.6) in order to get the Right View. So, purely in terms of textual analysis, there are three options: 
+
+    (1) The stories about lay sotāpannas keeping only five precepts are a fabrication.
+
+    (2) Monastics obtain a different kind of sotāpatti than laypeople do, with a higher threshold for entry.
+
+    (3) Those laypeople who at the time kept only five precepts also had to cultivate the same level of disenchantment and withdrawal from sensuality at least until they understood the Dhamma.
+
+    Option #2 is obviously absurd (going forth would be a burden rather than an aid), while option #1 would require considerable evidence to back it up. And I'm quite sure there isn't any.
 
 ---
 
@@ -536,6 +1119,110 @@ Sexual relationships are an altogether different thing, however. I can see quite
     So doubling down and dogmatically defending an idea that things against the precepts could be fine or justified, is already more than enough to lead to birth in lower realms even if one were to never actually do such things. (Hence it's said that holding such a wrong view is the most blameworthy thing.) And it's because of that overarching VIEW that the actions taken on account of it, and coming out of it, further confirm and cement it, and really shape one's mind into the mind of an animal or even a hell-being.
 
     So if you abandon the whole foundation of that type of view, though it could still be possible to become careless, act out and break the precepts, what is absolutely impossible is to feel to any degree justified in doing so; or to fail to feel the full weight of shame and remorse for it. And that is what means one's mind can't be shaped by it to the point of becoming an animal-mind or mind of a hell-being.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1kec20v/on_the_precept_against_beautification/ms8qbjm/)** _2025-05-14 09:35:36_:
+
+    *(In reply to GachiOnFire):*
+    > Inspiring and clarifying message indeed.
+    >
+    > ---
+    >
+    > Ayye, I read that working on keeping the 5 precepts unconditionally is way more important than abstaining from entertainment (or beautification). The caveat I have with this is that most of the time there are no real struggles to keep the 5 precepts, appart maybe for the one about "no sexuality", which would be more a once every X weeks affair. 
+    >
+    > Of course, as Ajahn Nyanamoli recently expounded, that doesn't mean my citta is free from valuing these actions, but rather that the circumstances I'm living within allow me to not have to face the choice to kill or lose someone; kill or get killed; lie and lose something valuable; etc—as I often clearly see that the first reactions I have when facing less favorable circumstances or imagining less favorable scenarios are clearly of breaking the precepts by justifying them ("I would have no choice but to do that as losing this or that and the consequences of losing it are unthinkable").
+    >
+    > 
+    >
+    > For more context: I was recently undertaking the 7 precepts including the one against entertainment but fell off the practice (for the second time) after a few weeks and I am currently building my virtue back up again, trying to go more slowly so as to make sure that I don't ever get overwhelmed again to the point of accepting to break the 5 precepts.
+    >
+    > So, not following the precept against entertainment right now, I'm even less struggling because I can just numb the mind with distraction, mindlessly distract myself or partially satisfy my hunger for sensual pleasures by looking for the form of entertainment that feels like it could be really pleasant at the time.
+    >
+    > 
+    >
+    > On the other hand, from experience I can see that I struggle a lot with the precept against entertainment, since this is something I'm used to do on a daily basis, that I take pleasure to indulge in, that I use as my main crutch to not have to deal with the mind's tantrums, and that my mind pushes me towards most of the day. This is really the one precept that feels like [an abyss](https://suttas.hillsidehermitage.org/?q=an9.41#an9.41:3.1_an9.41:3.2) because it really is an abyss, a void remaining unfilled in my day-to-day.
+    >
+    > 
+    >
+    > I'm really wondering if I shouldn't undertake it again, as I feel that this is the one that could be the most beneficial for me, provided my attachment to it, as well as the frequency and the difficulty it brings.
+    >
+    > 
+    >
+    > I wanted to ask if from your point of view and in regard to what I say, it seems that it could indeed be best for me to undertake it, or if I should instead only take the time to focus only on the 5, in my day-to-day but also by frequently taking the time to present different challenging scenarios to the mind, see if it would choose to break the precepts, and work on that level so as to understand that it would be most beneficial to never ever come up with the intention to break the 5, even against the worst outcomes.
+    >
+    > 
+    >
+    > In other words, I'm wondering if my ignorance is making me focus on things that are negligeable for sotapatti (daily struggles with the pressure of boredom and the habit/addiction to consume entertainment) and neglect things that are most crucial (constantly keeping in mind the work towards unconditionnal keeping of the 5 precepts), or if working on the former would be most beneficial when I'm not struggling to not break the 5 precepts.
+    >
+    > ---
+    >
+    > I wish I knew how to be concise while giving enough context.
+
+    > I read that working on keeping the 5 precepts unconditionally is way more important than abstaining from entertainment (or beautification).
+
+    It is. But in practice, it's extremely unlikely that a person would be able to accomplish the former without training in the latter at the same time, especially in the contemporary world where most of us become used to relying very heavily on entertainment. So: 
+
+    >I wanted to ask if from your point of view and in regard to what I say, it seems that it could indeed be best for me to undertake it, or if I should instead only take the time to focus only on the 5, in my day-to-day but also by frequently taking the time to present different challenging scenarios to the mind, see if it would choose to break the precepts, and work on that level so as to understand that it would be most beneficial to never ever come up with the intention to break the 5, even against the worst outcomes.
+
+    You need to do both (working towards it as needs be). If absence of entertainment feels like an abyss, it's the same abyss (only even steeper and deeper) the fear of which causes the five precepts to remain conditional; the alternative being something that the mind finds unbearable and therefore unthinkable.  
+
+    If on a daily basis you're allowing your mind to physically turn away from the abyss into sights and sounds, it will be impossible to train to not mentally shy away from the thought of circumstances that would cause you to break the precepts. Those contemplations would then almost inevitably end up becoming mechanical or abstract, which is not only futile but even dangerous because it can end up making you feel like you dealt with it, when in fact you just added a further layer of ignoring it. And then if the extreme circumstances were to arise,  (- and they will have to, sooner or later, in this life or a future life) it would be too late.
+
+    The aim is not to need entertainment to avoid 'the abyss', not to have to hope that extreme circumstances won't arise. Neither the abyss nor the circumstances is ever the problem; it's only the mental resistance that turns them into something 'unthinkable.'
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1kec20v/on_the_precept_against_beautification/mstajaw/)** _2025-05-17 16:16:49_:
+
+    *(In reply to Ok_Lemon_3675):*
+    > Thank you ayye, I really needed to hear this:
+    >
+    > >the value of non-breaking of precepts needs to be seen as absolutely and categorically more important than becoming a sotapanna.
+    >
+    > It seems like I was still assuming (or wanting?) them to be more separate than they are. But that makes a lot more sense now. But that still leaves my trying to get really clear on what exactly the precepts really are, or where that line that should not be crossed is.
+    >
+    > I've been thinking about the rest of your comment and also the last HH talk on YT.
+    >
+    > If the precepts are about greed/aversion/delusion rather than yet another system of ethics, then why is it that specifically killing, or Ajahn in the last HH talk mentioned 'killing and harming' together, lying, etc. that those actions break the precepts, but taking other actions to prolong life such as eating (in general), avoiding a wild elephant (as in MN2), etc. do not?
+    >
+    > Am I not always saying that I have a right for things to go my way when I take basically any physical action at all, especially when it directly affects my survival? Any decision to take a physical action is to say that I want some particular outcome as opposed to some other.
+    >
+    > Of course it seems like on the one end of the spectrum, for example killing to defend myself, there would more obvious emotional involvement of some kind. But then again if I think about the example of a wild elephant running at me I would also be afraid for my life. It's just that the physical action to try to save myself would be different. It's not really obvious why one would be right and another wrong if they share the same motivating principle. Or even just deciding to eat instead of just doing nothing, I am affirming the assumption that this body is mine and that it would be a problem if it would starve to death right now.
+    >
+    > It seems like there is more of a kind of resistance that would need to be overridden in order to kill, lie or steal something of significant value than to simply run away (if possible). Is that 'resistance' what makes the difference? And if so, that would raise the question of what *is* that 'resistance' if not just something mundane like fear or social conditioning or evolutionary programming?
+    >
+    > Or perhaps it doesn't even matter what that 'resistance' consists of, it's just that the intensity of the intention of aversion required to overcome it would be so much higher that it makes it significant while in other cases such as taking a walk in the forest that inevitably results in killing small animals it's 'technically wrong' but the intention is insignificant enough that it's not enough to obstruct the possibility of right view or seeing things in the right order?
+
+    >why is it that specifically killing, or Ajahn in the last HH talk mentioned 'killing and harming' together, lying, etc. that those actions break the precepts, but taking other actions to prolong life such as eating (in general), avoiding a wild elephant (as in MN2), etc. do not?
+
+    Because the actions that break the precepts (particularly the five precepts with celibacy) HAVE to be motivated by greed/aversion/delusion, and the others do not. 
+
+    It is true that any action *can* be rooted in unwholesome intention, but when it comes to things that are not against the precepts, it's important to NOT make a rule of always abstaining from them, precisely in order to be allow the possibility of learning the difference and seeing that there can be intention without craving. 
+
+    That doesn't mean that it's fine to act out of fear when it comes to a wild elephant, just as it doesn't mean that it's fine to act out of sensuality when it comes to eating. But it's the fear and the sensuality that is the problem, and that's the only part that has to be abandoned; not the eating or the avoidance of wild elephants. 
+
+    >Am I not always saying that I have a right for things to go my way when I take basically any physical action at all,
+
+    You might be, but that's not the action's fault. 
+
+    >especially when it directly affects my survival? 
+
+    For one thing, it does not. The problem is exactly assuming that it does, and that your survival (or any particular outcome) is in the hands of your intentions. Even every time you intend to breathe, it is not absolutely given that it will actually translate to intake of oxygen - one day, it won't. Any intention is alienated from the domain of the results it aims at. 
+
+    >Any decision to take a physical action is to say that I want some particular outcome as opposed to some other. 
+
+    I made that point above because it relates to how it is possible to make a choice to do one thing as opposed to another, in the direction of one's outcome as opposed to another, without the  *implication* that this choice WILL AND MUST cause that particular outcome.
+
+    It can be useful to think of actions rooted in craving as a kind of gratuitous constraint of truly free choice: "I CAN'T starve, they CAN'T know the truth,  I MUST prevent these things." Or to put it another way, you cannot act out of craving and at the same time fully recognise and be unafraid of the possibility that the outcome might NOT be what you had intended. 
+
+    So acting out of craving always feels like a compulsion, which is bound up with the inability to accept any alternative possibility, so that you simply don't even see other options. "I had no choice but to kill him". (That's what I meant by feeling 'justified' in it.) The intentions of an arahant are completely unlimited and unconstrained, and that is precisely why they cannot break the precepts.
+
+    (It is, on the other hand, entirely possible to, say, eat, avoid a wild elephant, or take a painkiller, without this sense of absolutely requiring the outcome to be one way rather than another.)
+
+    >It seems like there is more of a kind of resistance that would need to be overridden in order to kill, lie or steal something of significant value than to simply run away (if possible). Is that 'resistance' what makes the difference? 
+
+    That's basically what sense of shame is. It is a good but not always failsafe reference for what should not be done, because it's possible to develop a sense of shame in regard to things that aren't necessarily unwholesome, and also possible to numb or override it with enough time and repetition of unwholesome (e.g. people who kill for a living and become completely numb to it.) 
+
+    >taking a walk in the forest that inevitably results in killing small animals it's 'technically wrong' but the intention is insignificant enough 
+
+    That's not even 'technically wrong.' Again, the harmfulness of an action is not measured by what it results in circumstantially, e.g. death of animals. Everyone, simply by being alive, is inevitably 'causing harm' by this metric. 
+
+    (That's also incidentally why views that associate vegetarianism with the precept of killing are extremely misguided: they entirely misplace the 'wrongness' of the action of killing. "Me buying this meat might encourage somebody to kill more animals, thus I am 'causing' an animal's death, thus it's wrong". There is a gigantic gulf between the action of buying a package of meat in a supermarket, and deliberately killing an animal even if you're on a desert island and would starve otherwise. There is simply no relevant comparison between the two, just as there's no comparison between taking a walk in a forest and  deliberately setting traps for mosquitos. By putting such things even on a comparable 'scale' of the same 'wrongness', one makes it impossible to understand the point of the precept of killing, or *akusala* as *akusala.*)
 
 ---
 
@@ -723,7 +1410,9 @@ If not, is there any conceptualization of what does come from it available that 
 **r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2025-04-28 11:04:10_
 ### [HH Confession Server on Discord](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/)
 
-I've created a [Discord server](https://discord.gg/PAWgGfDD) for people who want to commit to the very valuable practice of confessing whenever they break a precept. It is inspired by the core principles of the regular, compulsory confession that the Buddha established for all monastics.
+(Invite link updated on 15/05/2025)
+
+I've created a [Discord server](https://discord.gg/xCRfqASXKb) for people who want to commit to the very valuable practice of confessing whenever they break a precept. It is inspired by the core principles of the regular, compulsory confession that the Buddha established for all monastics.
 
 ***Upon joining, please read the rules.***
 
@@ -991,6 +1680,32 @@ The central rule that cannot be externally enforced and must rely on each user's
     > u/Bhikkhu_Anigha Bhante, I was wondering why on the discord it says that one can only take precepts falling under the usual 10. Wouldn't it be beneficial to take broader precepts like, for example, undertaking the precept to "never act out of delight, aversion or carelessness" or "never speak out of delight, aversion" for those who are steady in the 7/8 and can confidently see these intentions?
 
     Taking on such precepts is very likely to perpetuate a person's misunderstandings of what those defilements are ([which will be there if they're not sotāpannas](https://suttacentral.net/sn55.24/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#9.9)).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/mrpja91/)** _2025-05-11 06:07:59_:
+
+    *(In reply to craveminerals):*
+    > Bhante, If I may ask, I have a question about ‘potential killing of insects’. 
+    > Last year I had a thrips infestation in my potted plants. I let the plants die and didn’t do anything about the thrips, I just put the pots out on the balcony. 
+    >
+    > Today I felt annoyed by having a bunch of pots with dirt standing around on my balcony so I began cleaning some of them out. 
+    > Then I noticed my mind getting worried that I might be hurting the residual thrips, or their eggs, by cleaning out the pots. My mind was saying “you may be hurting some invisible creatures!”. Later it said “you have probably killed some! And you broke the precept about killing through your carelessness!”
+    >
+    > I later realized that this is the sort of thinking that could eventually lead one to put a net over one’s mouth like a Jain, and lead one towards looking past one’s actual intentions- (‘ayoniso manasikara’) and fuel more craving- so I endured these pressuring thoughts and let them pass by, and reassured myself that I hadn’t actually done anything wrong. 
+    >
+    > Still haven’t cleaned out all the pots but I suppose I’ll dispose of them in a way that would be least likely to hurt any little creatures, while enduring whatever objections my mind has about it.. 
+    >
+    > Is my thinking along the right lines?
+    >
+    > Edit: to be clear, sometimes when I try to ‘get rid of’ insects (through brushing them off my body, or disposing of these pots for example) I feel like I’m committing an offense. While I don’t want to hurt them it’s inevitable in a way. Do you have any advice regarding this?
+
+    > I later realized that this is the sort of thinking that could eventually lead one to put a net over one’s mouth like a Jain, and lead one towards looking past one’s actual intentions- (‘ayoniso manasikara’) and fuel more craving- so I endured these pressuring thoughts and let them pass by, and reassured myself that I hadn’t actually done anything wrong.
+
+    Exactly. The offense is to deliberately kill a living being.
+
+    What can happen though is that one does something without the express intention of killing, but out of over-investment in the desired outcome of the task, one intentionally ignores signs that one is unintentionally killing and proceeds anyway. But that is then not an offense of intentional killing. It's mental pressure that one should not be giving in to and allowing to overtake one's perspective.
+
+    For some context, see [Udāna 6.9](https://suttacentral.net/ud6.9/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) where the Buddha was watching moths falling into oil lamps and dying without immediately jumping to save them.
+
+    Therefore, as always, "the line" is in the intention, and not much can be said in the way of fixed external guidelines.
 
 ---
 
