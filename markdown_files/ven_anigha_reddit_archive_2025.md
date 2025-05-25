@@ -9,6 +9,118 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by ToLazyToPickName _2025-05-21 08:29:02_
+### [Do I need to be careful when walking to not kill bugs? (& other questions on the 1st precept in practice)](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/)
+
+1. Do I need to be constantly mindful and look at the ground my feet will go on before each step to avoid potentially killing a bug? Why (not)?
+
+It seems like willful ignorance to intentionally not pay attention to where I walk to get away with not having to be mindful of killing bugs when I walk because it's not practical. If you're outside, the potential of killing bugs from walking increases.
+
+How should one walk given the potential of killing bugs? There's many bugs outside, so do I need to pay great attention to the ground?
+
+2. Is buying meat against the precept of encouraging killing? Why (not)?
+
+I know a video on Hillside Hermitage said it's too far removed or small in terms of one's influence, but choosing to not buy meat can allow a greater potential of the supply of dead animals (killing animals) to decrease as one is contributing to the decrease in demand for meat / killing animals.
+
+3. How do we get rid of termite, ant, &/or cockroach infestations in one's house? What do monks do at their buildings?
+
+Besides moving houses, which can also have an infestation at some point, it seems impossible to keep the 1st precept of no encouraging killing and get rid of them because one would have to pay someone else to kill (through poison) the termites, ants, or cockroaches as they're in the walls of the house. There's no way to lure the bugs out the house. And doing so would cause damage to health for oneself and everyone else if their population grew.
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/mtlva1b/)** _2025-05-22 05:22:42_:
+
+    I recently talked about this topic in [this comment](https://www.reddit.com/r/HillsideHermitage/s/2FCMEbnJ2a). 
+
+    To elaborate slightly on what I said there in regards to your specific questions: the main point is that the precept is only about intentional killing, not about anything that happens to result in the death of a living being. So: 
+
+    1. It would be killing if you were watching the ground in order to make sure you DO step on all the insects you can, just because you don't like them. It would also be wrong if you happen to see an insect and don't bother to avoid it. 'Not killing' in this situation means not doing either of those things, that's all. 
+
+    So you don't need to constantly examine the ground everywhere you walk in case you accidentally step on insects. You could take that further and carry a broom to sweep everywhere in front of you just to be sure, (as the Jains did.) And that kind of 'carefulness' has no limit - there's always some way you 'could' exercise even more caution and be even more careful to avoid incidental harm. All of which takes you away from seeing the greed,, aversion and delusion at the root of all actual killing, which constitute its harmfulness. 
+
+    2. For a similar reason, eating or buying meat in a supermarket is nothing to do with the precept. Killing an animal yourself to eat would certainly be. If you were to make an arrangement with a farmer where you order an animal to be killed for you in advance, that would also be participating in killing. (The latter arrangement is exceedingly rare in modern life, however.)   
+
+    3. In this case, deliberately destroying insects in your house would definitely be killing, since the whole action is aimed at causing their death. For most insects, there are simple things one can do to deter them without harming them (e.g. painting tar on wood is very effective for ants, this might work for other insects too.) You should aim to prevent massive infestations that would be unmanageable, which is generally quite doable just by keeping your place clean and in good repair.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/mtt17ge/)** _2025-05-23 09:29:12_:
+
+    I've had to deal with mice a few times in different places I've lived. It's very much possible to do so without killing them. It involves
+
+    - Finding cracks or holes where they are coming in and blocking them 
+
+    - Catching them using non-killing traps (which are readily available), being vigilent about checking the traps regularly, then bringing them away to a nearby field or somewhere in nature (not just outside, as they'll just come straight back in)
+
+    - Making sure foodstuffs are behind doors and not just left lying around for them. 
+
+    And above all keeping an eye on your state of mind in case aversion or disgust is inclined to arise, not giving in to them or letting your actions be driven by them.
+
+    >Should it happen, I would be like "well tough luck, can't do anything about it that involves killing"
+
+     It is true that training in the precepts involves being willing to accept that situations can arise in which the precepts have to be put first even at the expense of potentially losing things that are dear to you. But this is *not* a reason to just become lazy or negligent, throw one's hands in the air and say 'what can I do about it'  when difficulties present themselves regarding things that you are responsible for caring for. 
+
+    Just because you don't take the default and easy way out of a problem, does not mean you should also not think further or use the resourcefulness and intelligence at your disposal to try to find a better solution, or better, prevent the problem from arising to begin with to the extent that either of these is possible. 
+
+    By taking the 'path of least resistance' and just refusing to deal with such things at all, you would actually be making it impossible to develop  imperturbability when it comes to things that are truly and fundamentally out of your hands.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/mtta1mo/)** _2025-05-23 10:49:52_:
+
+    >I meant that killing would be the easy way out but, "what can you do", it's not an option for me.
+
+    I see, I was not sure. But sometimes people do take the precepts as an excuse to not deal with things at all, and don't see anything in between, so it is good to make that point. 
+
+    About the flies, just as a practical tip: what I have found very useful is a modified butterly net to catch them and put them outside. 'Modified' means I basically just use the frame and replace the net with one that is long enough to fold over the opening as soon as they are caught, so they can't escape, then you can carry them outside.
+
+     It requires some dexterity but is still much easier than a cup, and even easier for catching mosquitos (I lived in an area of Canada where there were loads of flies and mosquitos, even with mosquito nets on the doors, I had to catch a great many of them every day in summer.)
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/mtypcqt/)** _2025-05-24 05:26:55_:
+
+    >For an insect with a few hundred or thousand neurons to experience dukkha would, for me, fall into the category of magic.
+
+    If the measure of killing's harm were the degree of suffering we imagine to be experienced by the entity being killed, you could say murdering an arahant would be completely harmless. But there are quite a few passages in the suttas which indicate that murdering an arahant is rather unbeneficial, to put it mildly.
+
+    And if neurons were the determining factor, performing surgery on a person's gut would apparently be worse than killing a mouse. If an action is harmful, say deliberately smashing an insect out of irritation, it cannot suddenly become harmless on account of finding out how many neurons the living thing you were smashing had, and then draw a conclusion about its supposed level of consciousness.
+
+    In the same sense, most everyone who has ever kept slaves or committed genocide has had genuine beliefs and views that those they were killing, beating, trafficking etc were 'not really human', and such views always find plenty of their own scientific evidence to back them up. It is obviously not the case that the actions of those people were fine for as long as the science appeared to support them, and only became cruel and reprehensible on account of the science changing at some point.
+
+    Obviously that's a much more extreme example, but it is just to illustrate the principle that no secondary consideration about the 'object' of one's action can excuse it - precisely because the very act of finding an external justification for something is already based on the desire of offloading at least some responsibility, which in and of itself constitutes a wrong basis for that action, (even if it is not 'technically' wrong and no one else gets hurt by it). By the same token, speech that doesn't come from any irritation or desire to hurt, can't become 'harsh' just because somebody ends up getting upset by it for whatever reason (and vice versa.)
+
+    The bottom line is that if one sees it as a problem to be affected by aversion or carelessness or greed, then it is wise to be careful and aim to avoid anything that is a pathway for those states of mind, (e.g. swatting flies, killing mice.) Even if afterwards all the flies you were abstaining from swatting turn out to be robot replicas of flies, it changes nothing from your point of view about what was right or wrong to do.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/mtytzut/)** _2025-05-24 06:10:31_:
+
+    >wouldn't the butterfly net kill the mosquito? Do you have any tips on how to not squash the mosquito with the butterfly net? 
+
+    No, it doesn't squash them at all, they have plenty of room in the net. Mosquitos in my experience are much easier to catch this way than flies, they fly more slowly and you basically just place the net around them while they are flying, same way you'd catch a butterfly, fold it over and carry them outside. 
+
+    >Around what diameter opening & depth of the modified butterfly net would you recommend?
+
+    Any standard butterfly net should be good enough, but I'd say the diameter of the net needs to be at least 20cm to make things easy for yourself, and the depth around 25-30cm, (the main thing is that it should be long enough to cover the opening easily.)  
+
+    > How did you get rid of or manage mosquitos when in one's house's yard outside? 
+
+    The main way was to use [body mosquito nets](https://amzn.eu/d/8P6M1MS) while working outside.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/mtzb2xr/)** _2025-05-24 09:01:12_:
+
+    I don't follow the question - in what sense would blaming yourself for someone's death possibly have the same result as killing them? Can you give an example of what you mean?
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/mtzg88h/)** _2025-05-24 09:55:19_:
+
+     It does not amount to you killing, if that is what you are asking.  
+
+    That said, what *is* your responsibility is any degree of ill will, resentment or cruelty that you have been acting out of in relations with others.
+
+    The reason that people feel guilt and remorse even in regard to things happening that were completely out of their control, is because they know that they have been doing things they shouldn't, careless of consequences. If you are never careless or cruel, then you will never have any regret or reason to blame yourself, regardless of what anyone else chooses to do.
+
+---
+
+**r/HillsideHermitage** | Posted by No-Spirit5082 _2025-05-18 11:52:09_
+### [pornography](https://www.reddit.com/r/HillsideHermitage/comments/1kpi6g9/pornography/)
+
+for years i keep trying and trying to practice celibacy yet i keep failing and going back to pornography and masturbation. usually i make it to few days or sometimes few weeks before going back. the craving that arises in me is insane, i begin to want it so badly and my mind gets drowned in that, or it starts lying to me and tricking me to just peek or whatever, its like i become intoxicated and i have no control over my mind and behaviour. then afterwards i feel horrible and either baselesly promise to myself somehow the next time will be different and i wont do it again or spiral into self hate and despair. im sick of it, i do not know what to do. i also used to be celibate from ages 13-15 but then i messed up and haven't been celibate since (im 19 now) and its so annoying because i remember howuch better i used to feel back then and it wasn't nearly as hard as it is now, it makes me so frustrated what do i do
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1kpi6g9/pornography/mt90ccu/)** _2025-05-20 05:33:05_:
+
+    > what do i do
+
+    First of all, give up porn altogether, no exceptions. It falls within the spirit of "misconduct with regard to sensuality." If needed, install an app on your phone or computer that will block any websites with sexual content permanently.
+
+    Once you're used to that, work on giving up porn-free masturbation.
+
+---
+
 **r/HillsideHermitage** | Posted by tejveeer _2025-05-16 20:59:17_
 ### ["True" Sotapatti vs. "False" Sotapatti: How to Distinguish Between Them?](https://www.reddit.com/r/HillsideHermitage/comments/1kobp2e/true_sotapatti_vs_false_sotapatti_how_to/)
 
@@ -57,6 +169,13 @@ Edit: changed a few sentences to be more precise.
     One thing is making a habit of inspecting whether there is anything at all that you are afraid of giving up or any loss that you foresee yourself not being able to handle if it were to happen unexpectedly. If there is, it's a sign of still being liable to the second arrow, and your assumed freedom from it is being enabled by fortunate circumstances.
 
     Only if you were already a sotāpanna yourself would you be able to understand how it's possible to be in such a seemingly consummate state while still having plenty of work left until Arahantship. Someone who is still poor won't be able to understand how a billion dollars can feel inadequate.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1kobp2e/true_sotapatti_vs_false_sotapatti_how_to/mt2symw/)** _2025-05-19 05:44:43_:
+
+    >What qualities can I develop - as a puthujjana - such that I can ensure that I do not deceive myself in regards to my actual status?
+
+    I'd say it mostly just comes down to very rigorous honesty with yourself and others. In particular, in this case, being wary of falling into letting the 'truth' of the sort of insight that you're describing here, accurate as it might be, become something that you rest in and feel like you can rely on just by thinking or talking about it, which absolves you from the practical knowledge of what you are referring to, and the application of it here and now.
+
+    It can be tempting to kind of 'solidify' it into an idea and clarify and re-clarify mentally all the whys and wherefores of it, as though that makes it more secure; in practice that will take you away from it and is looking for security in entirely the wrong place. (See[ this verse](https://suttas.hillsidehermitage.org/?q=snp4.4).)
 
 ---
 
@@ -105,6 +224,13 @@ Thank you!
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ko5k5n/looking_for_reading_tips_regarding_ancient_india/msu9u51/)** _2025-05-17 19:29:12_:
 
     It is impossible according to ChatGPT.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ko5k5n/looking_for_reading_tips_regarding_ancient_india/mt2hznh/)** _2025-05-19 04:09:10_:
+
+    > using the same logic, venerable Analayo should also conclude that any description of events that goes beyond what is generally accepted should be treated in the same way and rejected as 'a product of fantasy' and the later editions. This is essentially how he sends virtually the entire Kanon, including Buddha himself, into the category of fantasy.
+
+    There are descriptions of events that go beyond what is generally accepted *and* are universally present in the texts of all the early Buddhist sects, whereas these Vinaya stories are not. That is the main thrust of the argument that you shouldn't take them at face value. I was not necessarily advocating for anything else he might have written in that book, and I quite disagree with most of his views and his general outlook.
+
+    (Edit: Typo)
 
 ---
 
@@ -158,6 +284,22 @@ Also, congrats on 1k members! It's cool to see this community grow, yet still ma
     > “And how, bhikkhus, are there four phases? **I directly knew form, its origin, its cessation, and the way leading to its cessation.** I directly knew feeling … perception … activities … consciousness, its origin, its cessation, and the way leading to its cessation.
 
     —SN 22.56
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1klvb2w/what_is_discernment/mt2h031/)** _2025-05-19 04:01:19_:
+
+    > Instead, it would be that my perceptions are the only way that I can understand the existence of rupa, which must necessarily exist in order for there to be a perception of something to be present. At the same time, the idea of a "true essence" would imply that there is rupa that exists outside of this experience, which would be a contradiction based on the fact that something would have already had to have entered my experience in order for me to even consider the idea of there being rupa outside of my experience.
+
+    So where is that rūpa, and how come we even know that it exists? Just as we don't bother positing the existence of a hypothetical matrix we are all enclosed within, why even bother positing the existence of rūpa instead of just saying that everything is a perception and stopping there?
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1klvb2w/what_is_discernment/mthbigt/)** _2025-05-21 14:40:07_:
+
+    > If a sense organ becomes damaged, our perceptions would change, which confirms that we have those organs in the first place, and that they have some sort of relation to perception. 
+
+    True, but then it still sounds like that basis for our perceptions is a hidden entity that we have no immediate reason to call a "sense organ" except for the fact that that's how the Suttas call it. Hence there would be no intrinsic reason for that basis to be assumed as rūpa and not a matrix, or god, or whatever. It remains equally mystified and not any more discerned.
+
+    > When experience is broken down into the 5-aggregate model, dispassion can be extended to every aspect of the experience more accurately, rather than the more common subject-object view which leaves room for craving to exist.
+
+    Yes, in theory. But it will not be dispassion of the right kind for as long as the aggregates remain theoretical ideas.
+
+    The sense organs, hollow as they are, *can* and *must* be discerned as arisen phenomena to actually develop dispassion towards them. But phenomena—which are neither on the level of sensory objects nor of analytical ideas—will only become apparent if there is no lust towards sense objects, i.e., one's conduct has been purified.
 
 ---
 
@@ -1251,6 +1393,9 @@ The central rule that cannot be externally enforced and must rely on each user's
     For some context, see [Udāna 6.9](https://suttacentral.net/ud6.9/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) where the Buddha was watching moths falling into oil lamps and dying without immediately jumping to save them.
 
     Therefore, as always, "the line" is in the intention, and not much can be said in the way of fixed external guidelines.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/mtufpck/)** _2025-05-23 14:54:15_:
+
+    No; the link somehow expired even though I had set it not to. The current link is still working as of now.
 
 ---
 
@@ -1877,6 +2022,31 @@ edit: another example that I have thought of and about which I have doubts is th
     But say you regularly buy a whole fish from a very small-scale fishmonger who, with only a handful of regular clients, slaughters one fish for each order they expect in advance. Then you would certainly be complicit, though not as directly as when you go and order a fish knowing that it's still alive and will be killed for you.
 
     The bottom line being: purchasing an existing product that would still be supplied to the same extent regardless of your individual purchases is not the same as financing a company that produces the product, asking them to make it for you in particular, or making the product yourself.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jrhcuk/question_about_right_livelihood_and_investments/mt6agvi/)** _2025-05-19 19:31:26_:
+
+    > after having also looked at a part of the resources linked by Ven. Subhara below.
+
+    Even if the conclusions there are sound, whether you buy meat from a supermarket or not is still too intangible from the point of view of your present mental state and intentions to fall within the precepts. Of course, you could be seeking meat out of lust for tastes, but that has now nothing to do with the first precept.
+
+    Regarding the first precept, all that matters is whether you are intentionally aiming at the death of other beings, no matter how indirectly the result comes and what the excuse for it is. Getting somebody to kill an animal for you would certainly fulfill that factor, and you should not do that even if it means starving to death. But that is not what your intention is when you buy meat from a store simply for the sake of nourishment, even if theoretically that decision did lead to more animals dying.
+
+    For the record, the relationship between buying meat and indirectly causing animals to be slaughtered was no doubt a lot more direct in the Buddha's time. [There is a story in the Khandhakas](https://tipitaka.theravada.su/node/table/519) where somebody was looking for meat and there was none available, because no killing has taken place that day. 
+
+    That this was even possible suggests that if the Buddha had at least forbidden monks from accepting any meat, let alone laypeople from buying it, it would realistically have had a huge and very direct impact on meat production in those days. And yet he did not. He even made meat and fish two of the five ["staple foods" in the Vinaya](https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour), and nowhere in the Suttas did he encourage laypeople to abstain from meat. 
+
+    Someone could argue that, by failing to make veganism a rule for Buddhists when he easily could have, the Buddha is "responsible" for the deaths of hundreds of billions of animals over the last 2500 years. He was surely not unaware that he could've prevented that, and in others areas he didn't have a problem with nudging people against the grain for the sake of the Dhamma.
+
+    > would this monk - who, say, suspects that the layperson killed the cow for him - be at fault for accepting the meal because it might induce the layperson to kill another cow for him in the future?
+
+    Yes, that's a bit of a gray area, and thus the Buddha said it should be avoided. But it's not that the layperson killing another cow automatically follows from accepting the offering. Hypothetically, the monk could just as well reprimand the layperson for killing, and if they chose to do the same thing again it no longer be on him. 
+
+    It's because it's an impure offering, similar to something that was obtained  through stealing or cheating.
+
+    > am I right in thinking "approving of killing living creatures" means having a view that killing is at least sometimes permissible?
+
+    Correct. It is on the basis of that view that you would approve of somebody else's killing. Most people would entertain the idea of killing (and approve of others doing so) past a certain level of duress, but what that Sutta is saying is that there should not be such a point. 
+
+    Training yourself to become *unable* to entertain the prospect of killing even to save what's dearest to you is immeasurably more fruitful than a blanket abstinence from meat.
 
 ---
 
