@@ -14,6 +14,90 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Formal_Breath_2026 _2025-05-29 12:49:38_
+### [Pīti and Sukha in Modern Meditation Methods](https://www.reddit.com/r/HillsideHermitage/comments/1ky9yfa/pīti_and_sukha_in_modern_meditation_methods/)
+
+I’m not sure if this has already been discussed before, but I’ve recently been thinking about why modern meditation instructors tend to describe pīti as bodily pleasure and sukha as mental pleasure. E.g.
+> Pīti is a quality of distinctly joyous and rapturous interest in your meditation object. It can manifest in several forms: (1) as a feeling of shivers or goose bumps on the skin, (2) as a feeling like lightning streaking through the body, (3) as a surging wavelike sensation, (4) as an uplifting, buoyant experience reminiscent of floating, or (5) as an all-pervading rapture that suffuses consciousness.
+> Sukha is a feeling of deep contentment, joy, peace, or ease that occurs as a consequence of the simple observation of the meditation object.
+— Shaila Catherine, Wisdom Wide and Deep, p. 38
+
+I do not have tonnes of other examples to hand but I’m fairly confident that this is quite a common description. ‘Pīti’ is often translated as rapture to support this description, despite the fact that a more straightforward translation of the word seems to be ‘joy’, but maybe there’s another reason for this that I’m not aware of. This interpretation seems to contradict the Jhāna formulas in the Suttas quite plainly. For example, in the formula for the 3rd Jhāna it is said: ‘with the fading away of *pīti* (joy) … I experienced pleasure (*sukha*) with the body,’ clearly listing *sukha* as a bodily attribute contrary to *pīti*. The reason why I find this interesting is because I have prior experience with the modern forms of ānāpānasati so I know the feelings of ‘rapture’ that are being described, and it seems to me that with this practice the bodily feelings of rapture come first, with the mind being gladdened on account of them after the fact, or that the mental pleasure experienced via the meditation is quite separate to the bodily pleasure. This contrasts with the Jhānas in the Suttas, where it is typically described that one’s mind is gladdened on account of renunciation and freedom from sensuality beforehand, and the body is experienced pleasantly as a result of that. To me this seems to be a potential example of a completely distinct modern meditation method being pasted over the language of the Suttas in a way that doesn’t quite fit.
+
+It’s possible that I could be splitting hairs with the interpretations of pīti and sukha, but the difference between these two kinds of experiences seems quite significant, since in the modern form bodily pleasure appears to come as some kind of physiological (or psychological) reaction, and the mind becomes elated on account of that, whereas in the Suttas the mind is already joyful on account of being dispassionate towards the body, and since the body is within the whole domain of this joyful mind (citta), anything that is experienced by the body becomes pleasant. It seems quite obvious that the former is chaotic, stressful, and particularly subject to craving, whereas the latter more resembles what one would expect true freedom from the domain of the body to look like.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ky9yfa/pīti_and_sukha_in_modern_meditation_methods/mv79uvo/)** _2025-05-31 05:54:03_:
+    > This contrasts with the Jhānas in the Suttas, where it is typically described that one’s mind is gladdened on account of renunciation and freedom from sensuality beforehand, and the body is experienced pleasantly as a result of that. To me this seems to be a potential example of a completely distinct modern meditation method being pasted over the language of the Suttas in a way that doesn’t quite fit.
+
+    Yes, that's exactly right. It's all upside down in the contemporary view. Bodily pleasure in the form of sensations are fabricated by whichever means , and then that pleasure simply overtakes the mind, making it "peaceful" to the extent that it is no longer interested in anything else because "this is just so good."
+
+    The process the Suttas describe is the exact opposite: the mind itself is calmed by turning it away from sensuality and the unwholesome in general, which is done by contemplating the peril once it has all been renounced well beforehand externally. 
+
+    The body calms down and becomes lighter and more pleasant *as a byproduct* of the degree of mental renunciation, since it is the delight in the pleasures of the senses that the mind still carries which makes the body heavy and agitated.    
+
+    > in the modern form bodily pleasure appears to come as some kind of physiological (or psychological) reaction, and the mind becomes elated on account of that
+
+    Yes, it's sensuality 101. Mental elation due to pleasant physical sensations, the fifth cord of sensual pleasure.
+
+    > It seems quite obvious that the former is chaotic, stressful, and particularly subject to craving, whereas the latter more resembles what one would expect true freedom from the domain of the body to look like.
+
+    In the former, you are still very much hungering after something. That something simply happens to be less far outside than before. But [there is already no hunger in the actual first jhana](https://suttacentral.net/an9.33/en/thanissaro?lang=en&reference=none&highlight=true), which is why it's actually peaceful, and why someone who develops that will not return to sensual pleasures (whereas the majoriy of those who practice the modern "jhanas" are not even celibate).
+
+---
+
+**r/HillsideHermitage** | Posted by BoringAroMonkish _2025-05-29 05:43:17_
+### [I am not sure if Ajahn Nyanamoli is correct when he says that mind gets used to pleasure or pain.](https://www.reddit.com/r/HillsideHermitage/comments/1ky3366/i_am_not_sure_if_ajahn_nyanamoli_is_correct_when/)
+
+He said that desires are bad because our minds get used to it which is true but I think it has limits and you cannot just get rid of all desires and comforts to get rid of all pains.
+
+If that is true then cancer patients should not feel bothered by their pains if they suffer long enough. Someone in prison should have improved mental health if they stay there longer. They surely don't get used to it enough to an extent that it doesn't bother them. 
+
+Are we sure that getting into discomfort gets used to it and all suffering vanish? Someone I saw a comment rejected the idea that in Christian hellfire one will be used to the pain. Because "getting used to" has certain limits.
+What do you think? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ky3366/i_am_not_sure_if_ajahn_nyanamoli_is_correct_when/muv8c1l/)** _2025-05-29 11:48:23_:
+    > If that is true then cancer patients should not feel bothered by their pains if they suffer long enough.
+
+    Virtually no cancer patient has actually given up desire. Same for prisoners. Such people would go back to their ordinary indulgent lifestyle the very next second if they were able to. 
+
+    Because their intoxication with life, health, and sense pleasures remains the same internally regardless of what's happening to them on the outside, those painful situations make them suffer.
+
+---
+
+**r/HillsideHermitage** | Posted by BoringAroMonkish _2025-05-28 07:35:38_
+### [Confused of this book of Ajahn Nyanamoli. I am not well versed about his teachings.](https://www.reddit.com/r/HillsideHermitage/comments/1kxb4ig/confused_of_this_book_of_ajahn_nyanamoli_i_am_not/)
+
+So Ajahn Nyanamoli teaches that conventional meditation is not important and avoiding sensuality and enduring boredom is real meditation?
+
+So I have to follow the 5 precepts, restrain from sensuality and avoid distractions and just sit doing nothing in free time?
+
+If I don't get bored and overcome boredom I will become Anagami?
+
+Is that enough or am I missing something?
+
+And when enduring boredom is scratching an itch or moving body a little bit allowed or not? Do I have to sit like a stone?
+
+I was reading "Only Way to Jhana" after someone recommended to me. Again I haven't read it fully. And know nothing about HH.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1kxb4ig/confused_of_this_book_of_ajahn_nyanamoli_i_am_not/mut9hxg/)** _2025-05-29 02:10:26_:
+    > So Ajahn Nyanamoli teaches that conventional meditation is not important 
+
+    Yes. The way it's usually practiced—with the view that it's part of the Buddhist path and not merely a psychotherapeutic technique with potential mundane benefits (and drawbacks too)—it's not just unimportant but actively harmful.
+
+    > avoiding sensuality and enduring boredom is real meditation?
+
+    In a way, yes. But you don't simply go and do that like any other mechanical technique. It starts with overhauling your entire lifestyle by first of all committing to the precepts unconditionally. Then the right kind of boredom is revealed, which doesn't have anything inherently to do with sitting motionless for X amount of time, but with *never* giving in to sensual desire, ill will, or unwholesome distractions (movies, music, videogames, etc.).
+
+     > So I have to follow the 5 precepts, restrain from sensuality and avoid distractions and just sit doing nothing in free time?
+
+    You have to keep [7 precepts](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/) ideally. 5 with celibacy is the bare minimum basis for any significant development.
+
+    > Do I have to sit like a stone?
+
+    Absolutely not. Aiming at that could only ever be rooted in a wrong view since neutral bodily movements are not where the problem comes from.
+
+---
+
 **r/HillsideHermitage** | Posted by ToLazyToPickName _2025-05-21 08:29:02_
 ### [Do I need to be careful when walking to not kill bugs? (& other questions on the 1st precept in practice)](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/)
 
@@ -156,6 +240,69 @@ Besides moving houses, which can also have an infestation at some point, it seem
     That said, what *is* your responsibility is any degree of ill will, resentment or cruelty that you have been acting out of in relations with others.
 
     The reason that people feel guilt and remorse even in regard to things happening that were completely out of their control, is because they know that they have been doing things they shouldn't, careless of consequences. If you are never careless or cruel, then you will never have any regret or reason to blame yourself, regardless of what anyone else chooses to do.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/muc7d8v/)** _2025-05-26 13:26:38_:
+
+    *(In reply to None2357):*
+    > The same man who said (and I believe he was Arya and he meant it):
+    >
+    > > I rather die that lose my Sila (not literal quote just as I remember it)
+    >
+    > 
+    > Did that:
+    >
+    > >Thus, in recent years, when the monastery of the Thai meditation master Ajahn Chah was overrun by a swarm of red ants, causing misery to all, he finally allowed the army in to spray insecticides. When the other monks questioned him on the acceptability of this, he simply said I take full responsibility – don’t you worry about it!’.
+    > >
+    > >https://khmersharingdocuments.files.wor ... ethics.pdf page 134.
+    >
+    > No so tight IMO.
+    >
+    > You've said it yourself: if a human brain is damaged—for example, the part that feels fear—they can no longer feel fear. An insect doesn't even have those parts. It's not just science; it's pure common sense.
+    >
+    > A developed mind can't fit in so few neurons.
+    >
+    > By their behavior, we know they don’t think or reflect. If you light a fire, fireflies go into the fire and die—it’s their programming, they can’t avoid it. If it’s an incandescent bulb, they go, they get burned, and if they can still fly, they go back again...
+    >
+    > From human testimonies, we know that if the brain is damaged, that part of the mind stops working.
+    >
+    > But hey, do as you see fit. If I have intestinal worms, I take medicine and they die. If I had a wooden house with termites, I’d call an exterminator. (What do you think Ajahn Chah would do if his temple were infested with termites?)
+    >
+    > And by the way no one is talking about killing on purpose with a mind of hatred, just walking normal in the street or forest known that for any steep you kill maybe hundreds of insects (in nature, for example a park).
+
+    The scientific and anecdotal points seem to me to be coming from a point of view (materialist, objective externalist) that is so very different that I don't see any common ground for communication there, and anyway are irrelevant to the question of what the first precept entails. The only point I would make, though, is when you say 
+
+    >no one is talking about killing on purpose with a mind of hatred, just walking normal in the street or forest
+
+    Although it is true walking in the street is not killing, as I said in my first reply above, (although this is nothing to do with the biology of insects, and simply because 'killing' and 'walking down the street' are two very different intentions), one thing that might be worth pointing out is that the most dangerous mental state involved in killing is not hatred, but delusion. 
+
+    Much of what are considered the worst kinds of cruelties and atrocities aren't done from obvious, active anger or ill-will, but are rooted in sheer careless disregard; neglect and willfully blinding oneself to the significance of what one is doing. It's not for nothing that delusion is said to be the stickiest form of ignorant craving ([very blameworthy, and slow to fade](https://suttacentral.net/an3.68) precisely because it is so easy to overlook.) So that would be one to watch out for as well.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/mud4lr0/)** _2025-05-26 16:20:50_:
+
+    *(In reply to [deleted]):*
+    > Dear Sister Medhini,
+    >
+    > what would be your recommendation for parasites and fleas/head lice? My child has had head lice before, and I felt there was no other option than to apply the pesticide to kill them. My dog had gotten infested with fleas (which then infested my carpeted home), I could not find any non-kill methods to deal with this so I ended up using pesticide and killing the fleas.
+
+    When I was young and I had headlice a couple of times, my mother used a fine tooth comb on wet hair with conditioner (which doesn't kill them) to remove them manually, as we didn't have pesticide (I imagine this would also be healthier for the child.) For dogs and fleas, I'd say preventative measures are best. I believe for there are flea collars and other treatments that work preventatively, and regular combing would probably also help.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/mux3rk4/)** _2025-05-29 17:30:01_:
+
+    *(In reply to iurileao):*
+    > Dear Sister, your insightful comment on the gravity of delusion as a basis for killing brings to mind a similar situation, to which I would like to hear your understanding of:
+    > When driving, I am frequently mindful that I’m killing small animals in the process. Most of them can’t be seen, but some can, and in some cases, I can avoid to run through them. I’m quite positive that I’m not intentionally killing them and that I have the intention to avoid it, if possible. Nevertheless, in some cases, I can see that a flying insect is going to be killed by me but it is not possible to avoid it, unless I give up driving at that occasion. That happens most often when traveling in a highway, in the countryside. I guess I could stop the car and wait for the insects to clear the road, but that isn’t practical and would not definitely solve the issue. 
+    > My current understanding is that this kind of situation isn’t a breech of the precept, as the intention of killing them isn’t present at all, but I am not as sure regarding the presence of delusion in this situations and wonder how could I train further in this matter.
+    > Please advise!
+
+    Killing based on delusion doesn't mean 'killing accidentally'. If there's no intention to kill, it's not killing. Full stop. (It's the same answer to the OP's question about walking down the street.)
+    Training further in this matter would probably be on the level of refraining from acting out of doubt and trying to go to even greater lengths to avoid something that feels like it *could potentialy* be wrong, even while deep down you know that it is not. 
+
+    Delusion is a basis for cruelty when people willingly blind themselves to the knowledge and weight of what they are doing fully intentionally, simply because they don't want to see it or be bothered with it. Scientists experimenting on animals; people working in meat factories; extreme neglect of animals or people who are in one's care (the sort of thing that is notorious in nursing homes); soldiers who are 'just following orders' - one could go on. Consciously choosing not to regard something as a living being just so you don't have to feel concerned about deliberately killing it, would be an act of delusion. It is just as intentional as anger or greed.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1krsqui/do_i_need_to_be_careful_when_walking_to_not_kill/mux5x8w/)** _2025-05-29 17:39:49_:
+
+    *(In reply to WassaMattaMe):*
+    > Sister, how could one deal with termites in the house? Practically, it is impossible to take them out safely. By leaving them be, the whole house could be compromised to the extent of becoming uninhabitable (and generally such events would not be covered by insurance.)
+
+    The honest answer is that termites are something I have never had experience dealing with, so I don't know exactly how you would go about it. It is a question for people who have. 
+
+    It's worth bearing in mind that the solution to the root of this problem is not going to be by having a plan of action for every possible scenario that could arise. It is recognising the mental states that would be a basis for intentional killing and training THAT, (as @hopefullys00n wrote below), BEFORE the extreme scenario arises. Even if you find the perfect non-killing method of dealing with termites, you should see the real problem is that your mind is affectes by it either way.
 
 ---
 
