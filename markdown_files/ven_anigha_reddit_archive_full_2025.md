@@ -14,6 +14,115 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by obobinde _2025-06-06 07:45:00_
+### [A really nice agama sutta.](https://www.reddit.com/r/HillsideHermitage/comments/1l4motc/a_really_nice_agama_sutta/)
+
+Somebody pointed me toward this beautiful sutta which is partly based on pali suttas. I thought some of you might enjoy it.
+
+[https://canon.dharmapearls.net/01\_agama/madhyama/MA\_080.html](https://canon.dharmapearls.net/01_agama/madhyama/MA_080.html)
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1l4motc/a_really_nice_agama_sutta/mwcbyy0/)** _2025-06-06 16:33:51_:
+    I came across that one recently and was planning to share it at some point, especially because of this part where it very explicitly makes the same point we so often emphasize (that the precepts are not optional). 
+
+    > 57. “Good men, suppose there’s a monk who violates the precepts, breaks the precepts, is lacking in precepts, pierces the precepts, defiles the precepts, and blackens the precepts. Wanting to base himself on the precepts and establish them, he considers the precepts to be stair steps, but there will never be a way for him to ascend to the unsurpassed wisdom hall of the right Dharma temple.
+
+    > 58. “Good men, it’s like going to a village not far away that has a lofty multi-story temple, and stairs are placed there that have ten or twelve steps. Suppose someone comes wanting to go up to that temple. If he doesn’t climb the stairs by going up the first step, then there’s no way for him to climb to the second step. If he doesn’t climb up to the second step, then there’s no way for him to climb to the third and fourth steps or on up to the temple.
+
+    > 59. “Good men, so it is if there’s a monk who violates the precepts, breaks the precepts, is lacking in the precepts, pierces the precepts, defiles the precepts, and blackens the precepts. Wanting to base himself on the precepts and establish them, he considers the precepts to be stair steps, but there will never be a way for him to ascend to the unsurpassed wisdom hall of the right Dharma temple.
+
+    > 60. “Good men, suppose there’s a monk who doesn’t violate the precepts, doesn’t break the precepts, isn’t lacking in precepts, doesn’t pierce the precepts, doesn’t defile the precepts, and doesn’t blacken the precepts. Wanting to base himself on the precepts and establish them, he considers the precepts to be stair steps. He’ll surely have a way to ascend to the unsurpassed wisdom hall of the right Dharma temple.
+
+    > 61. “Good men, it’s like going to a village not far away that has a lofty multi-story temple, and stairs are placed there that have ten or twelve steps. Suppose someone comes wanting to go up to that temple. If he climbs the stairs by going up to the first step, then he surely has a way to climb to the second step. If he climbs up to the second step, then there’s surely a way for him to climb to the third and fourth steps or on up to the temple.
+
+    > 62. “Good men, so it is if there’s a monk who doesn’t violate the precepts, doesn’t break the precepts, isn’t lacking in precepts, doesn’t pierce the precepts, doesn’t defile the precepts, and doesn’t blacken the precepts. Wanting to base himself on the precepts and establish them, he considers the precepts to be stair steps. He’ll surely have a way to ascend to the unsurpassed wisdom hall of the right Dharma temple.
+
+    If monks—whose very vocation is to realize the Dhamma and who can devote themselves wholly to that goal—cannot succeed with faulty conduct, what then can be said of laypeople practicing in the midst of other concerns? If going forth made liberation less instead of more accessible, the Buddha would not have established the Saṅgha to begin with (an institution that indirectly caused great sorrow to countless families).
+
+---
+
+**r/HillsideHermitage** | Posted by StriderLF _2025-06-05 16:15:03_
+### [Why kamacchanda feels like the worst hindrance to deal with?](https://www.reddit.com/r/HillsideHermitage/comments/1l43ag2/why_kamacchanda_feels_like_the_worst_hindrance_to/)
+
+ I've been trying to practice for almost one year now, but something I noticed is that kamacchanda seems to be the strongest hindrance to restrain. 
+
+ I heard from other Theravada Ajahns that certain people have a dominant defilement. Certain are more inclined towards hatred, some towards greed and other towards delusion. However, I have never found anything about that in the Suttas themselves. 
+
+ Seeing this tendency towards greed and sensorial pleasures in myself, I wonder what's the reason behind it. Perhaps my Christian upbringing made the dangers of ill will and sloth more clear than those of sensuality? Or maybe I just became skilled in managing the results of engaging in sensuality rather than making any real progress in restraining the hindrances properly? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1l43ag2/why_kamacchanda_feels_like_the_worst_hindrance_to/mwc72yw/)** _2025-06-06 16:10:08_:
+    > Perhaps my Christian upbringing made the dangers of ill will and sloth more clear than those of sensuality? Or maybe I just became skilled in managing the results of engaging in sensuality rather than making any real progress in restraining the hindrances properly?
+
+    It's something much deeper than that. It's the reason why most Buddhist (and spiritual in general) practices these days focus mainly on addressing things that are on the side of anger and aversion, and greed often only to the extent that it leans on the side of cruelty and harming others. Those who regard sensual desire as inherently harmful *even if it doesn't harm anyone* and strive to uproot it with the same urgency as hatred seem to be a fringe minority (without even considering whether their approach is ultimately effective or not).
+
+    Almost everybody can viscerally perceive the harm of getting angry, and they would love to be able to handle every unpleasant situation calmly if they could. But the harm and suffering of desire and wanting are much harder to see because there *is* a degree of gratification that comes from sense pleasures. And that's all that most people see.
+
+    A person who still allows themselves to seek sensual pleasures is someone who *trains themselves* in ignoring the [large suffering and seeing only the minimal and in fact worthless gratification](https://suttas.hillsidehermitage.org/?q=mn54#mn54:15.1_mn54:15.8), so for as long as they continue living that way, the danger in sensuality will seem intangible. The only way to un-train that habit of overlooking the (very real) pain of sensuality is to start saying no to it.
+
+---
+
+**r/HillsideHermitage** | Posted by Little_Carrot6967 _2025-05-31 16:04:59_
+### [Levels of Yoniso Manasikara](https://www.reddit.com/r/HillsideHermitage/comments/1l00n05/levels_of_yoniso_manasikara/)
+
+I was kind of struggling to keep things ordered, so I thought I'd try to make a kind of map of what I see in terms of the levels. Anyway I thought it might be helpful to talk about it.
+
+1) Conscious thought- Purification impossible, already arisen. Only containment or providing context is possible.
+
+2) Awareness of mind at the handoff stage of thought to "self". Purification still possible but only if the mind (not "self") decides to on its own.
+
+3) Awareness of mind acting out of suffering (Generation of thought before it's handed off to mind from subconscious domain (Processing.)(Squirming/agitation/movement) (Purification at this level is still possible.)
+
+4) Awareness of intention towards experience (Purification possible by withdrawing intention toward experience.)
+
+5) Awareness of the presence of craving/aversion (Purification possible) (Awareness of intent and awareness of craving/aversion is generally simultaneous.)
+
+6) Awareness of subconscious suffering (Forms when pressure is ignored. Does not form when pressure is not ignored.) (Attending to this level means never acting out of it even in thought. However, you do experience the suffering unless constantly established at this level.)
+
+7) Awareness of Pressure. (Attending to this level means the basis for suffering cannot form.)
+
+8) ???
+
+Note 1) At less developed levels of Yoniso, what appears to be pressure is actually the mind acting out of suffering at the early stage before unwholesome thought. If you follow that down, underneath it is suffering and underneath that is the actual pressures which caused the subconscious suffering.)
+
+Note 2) Some people may see "Awareness of subconscious suffering" as discomfort, or process it this way, but honestly to me this seems to be what suffering actually is. All these other processes appear to just come from and/or feed back to this. The true dhukka. Accessing any specific suffering on this level though seems to require a line from higher processes. 
+
+Note 3) Even though the level of awareness of suffering is above the awareness of pressure, by attending to it all pressure disappears for some reason, even though it's not seen or attended to. Not sure why that is.
+
+So, the furthest my Yoniso manasikara extends down is the awareness of subconscious suffering level. (Well, so far.) I'm aware there's stuff below that but I can't see it at all. It's mainly inference. I'm pretty much always ignoring it unless I feel something happening at a higher level. 
+
+That's how I experience it so far but it doesn't seem very precise. Sometimes I feel like I can see the exact part of the mind where something is happening but that's kind of rare. 
+
+Anyway, what do you guys think? I'm probably missing or bypassing layers of it.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1l00n05/levels_of_yoniso_manasikara/mvkvdpe/)** _2025-06-02 12:45:25_:
+    There are no such "levels" to *yoniso manasikāra*. At any given time, it's either *yoniso* or *ayoniso*.
+
+    Conceiving of such levels implies *ayoniso* in and of itself (imagining that you can analyze the way you're regarding your own experience as if you were an observer separate to your own observing).
+
+    What does happen is that your understanding of what *yoniso manasikāra* is becomes increasingly accurate and more impenetrable to any pressures that may be trying to get you off track, and that means you can establish it more firmly and reliably.
+
+---
+
+**r/HillsideHermitage** | Posted by zdrsindvom _2025-05-31 05:21:59_
+### [MN 13: Facing threatening environments on account of earning a living - a peril of sensuality](https://www.reddit.com/r/HillsideHermitage/comments/1kzpdf3/mn_13_facing_threatening_environments_on_account/)
+
+I’ve been wondering about the following lines from MN 13 about one of the perils of sensuality:
+
+>And what is the peril of sensuality? 
+It is when a son of a good family earns a living by means such as arithmetic, accounting, calculating, farming, trade, raising cattle, archery, government service, or some other profession.
+But he must face cold and heat, being hurt by the touch of flies, mosquitoes, wind, sun, and reptiles, and risking death from hunger and thirst.
+This, too, is a peril of sensuality that is presently evident, a mass of suffering with sensuality as its reason, source, and basis, purely caused by sensuality.
+
+What exactly does it mean that this situation is ‘purely caused by sensuality’? An anāgāmi is free from sensual desire but is not incapable of working to earn money. So, ‘purely caused by sensuality’ here cannot mean that, if not for sensuality, one would simply not be motivated to earn a living (and end up encountering uncomfortable and threatening environmental conditions in the process). Is it then rather the case that sensuality existing is the condition for the activity of working in exchange for money existing at all? But that once working in exchange for money already exists in the world, one can engage in it for non-sensual reasons? 
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1kzpdf3/mn_13_facing_threatening_environments_on_account/mvkwyzs/)** _2025-06-02 12:55:08_:
+    The purpose of the Sutta is to convey the danger in sensuality. So the message is that *because* somebody needs pleasure, they are also compelled to expose themselves to such displeasure. Someone who's given up sensuality could still end up facing cold, heat, insects, etc., but that's besides the point.
+
+    If someone weren't seeking pleasures, they would have no obligation to endure such things, and they could stop working their unpleasant job whenever they wanted. Either way, they would not suffer due to getting what they don't want simply because they don't crave what they don't have.
+
+---
+
 **r/HillsideHermitage** | Posted by Formal_Breath_2026 _2025-05-29 12:49:38_
 ### [Pīti and Sukha in Modern Meditation Methods](https://www.reddit.com/r/HillsideHermitage/comments/1ky9yfa/pīti_and_sukha_in_modern_meditation_methods/)
 
