@@ -9,6 +9,241 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Formal_Breath_2026 _2025-06-17 13:42:26_
+### [Progress with the 5 hindrances: checking my understanding](https://www.reddit.com/r/HillsideHermitage/comments/1ldngq6/progress_with_the_5_hindrances_checking_my/)
+
+I am writing this in the hopes of clarifying that my practice is going in the right direction. 
+
+My understanding is that the 5 hindrances are all bodily, and they often coincide with bodily feelings that can be discerned more and more easily the more you withdraw from them. For example, ill-will might be felt as a hot sensation, or anxiety might be felt as a tightness or shortness of breath, or desire for taste might be accompanied by salivation. I am not sure if these bodily reactions are always there but they become more and more obvious. It also makes it clear that the body is basically just a biological machine that operates quite independently of ‘you’. So it seems to me that progress with abandoning the 5 hindrances shouldn’t, as I once thought, be measured by how often the bodily feelings and thoughts come up, as this will mostly depend on your body’s own predispositions and your environment (I/my body seem particularly prone to anxiety, for example). The progress in withdrawing from the 5 hindrances should be measured by how much the citta is pressuring you to act out of the unpleasant bodily feeling via thoughts in the mano. For example, it seems that there are some things I can engage with now where I feel only the bodily feeling, but none of the accompanying pressure at all. Despite the fact that all of the 5 hindrances come together as one general phenomenon, by far the most primary one is sensuality, as it is fundamentally using your body for pleasure which makes your citta want to act out of all the other bodily hindrances as well. So your progress with the hindrances is primarily to do with how much you have abandoned the most coarse, which is sensuality (ill-will seeming to be a close second). Being more content to endure the pressure of the body without sensuality seems to do most of the work for the other hindrances on its own (not that you don’t need to be careful about them as well, though).
+
+So my understanding is essentially that the 1st Jhāna is the quantitative increase in this general principle of thoughts having less pressure, but with the qualitative difference being that sensual-perception has ceased completely, so there is not even a chance that the citta could pressure you no matter what comes up. This is how it can lead to total liberation, as your mind won’t want to go back to the pressure after it’s been in a state without it. I may be extrapolating too much here so consider this a bonus thought but my guess is that part of why the 2nd Jhāna is more refined than the 1st is because the thoughts that come up in the mano in 1st Jhāna, while having no pressure, are still accompanied by some of the minor disturbances in the body, and also that the sensual thoughts themselves are still slightly besetting even without any pressure.
+
+I’ve made the same mistake a few times now which is that because the thoughts have less pressure, I watch over my mano less carefully, then end up dwelling on some sensual theme which brings the mind back towards pressure again.  I think Bhante Anīgha mentioned in some talk that it’s a common mistake to take a certain level of mindfulness for granted, be less careful as a result, and then lose that mindfulness. So my understanding is basically to be careful to not to keep making that mistake, maintain the mind in a state of relative mindfulness and pressure-less-ness, and (…eventually…) the citta will realise it’s more pleasant to not have the pressure and that will be when kāma-sañña fully goes away?
+
+Additional note: since so many contemporary Buddhist groups focus on managing the hindrances, they are completely missing the relationship between body, mano, and citta, and that is why you can never have full liberation with those techniques. They are presuming a certain level of control over the three which isn’t fully there. But if you abandon control then it doesn’t matter at all what comes up, because there’s no pressure and so it’s not your problem.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ldngq6/progress_with_the_5_hindrances_checking_my/myhxabm/)** _2025-06-18 18:49:45_:
+
+    > My understanding is that the 5 hindrances are all bodily, and they often coincide with bodily feelings that can be discerned more and more easily the more you withdraw from them.
+
+    They are completely inseparable from the body, yes. But the hindrances themselves are defilements of the citta (*cetaso upakkilesā,* as they’re often called in the Suttas).
+
+    > The progress in withdrawing from the 5 hindrances should be measured by how much the citta is pressuring you to act out of the unpleasant bodily feeling via thoughts in the mano. 
+
+    Withstanding unpleasant bodily feelings by not allowing unbeneficial thoughts in mano is what the right striving is, but you’ve only overcome the five hindrances [when there is no unpleasant bodily feeling in the first place](https://suttacentral.net/sn48.40/en/sujato?lang=en&layout=sidebyside&reference=main&notes=asterisk&highlight=false&script=latin#1.9) (SN 48.38 defines the "faculty of pain" as bodily). The unpleasant bodily feelings are a symptom of the hindrances, which is why there’s that ubiquitous passage describing that when the citta becomes unhindered, the body calms down and even becomes pleasant (as a burdenlessness rather than the orgasmic, lust-infected pleasure that people are usually after in modern meditative practices).
+
+    > So my understanding is essentially that the 1st Jhāna is the quantitative increase in this general principle of thoughts having less pressure, but with the qualitative difference being that sensual-perception has ceased completely, so there is not even a chance that the citta could pressure you no matter what comes up. 
+
+    Correct. 
+
+    > So my understanding is basically to be careful to not to keep making that mistake, maintain the mind in a state of relative mindfulness and pressure-less-ness, and (…eventually…) the citta will realise it’s more pleasant to not have the pressure and that will be when kāma-sañña fully goes away?
+
+    Precisely. But within that state of pressurelessness, you should also make an effort to reflect on the suffering inherent in sensuality and craving in general. The possibility of returning to that domain will not completely fade until that clarity fully sinks in. And that clarity is something you can cultivate only to the degree that the mind is beyond the pressure of sensuality—when the mind is "pliable." Understanding is what the hindrances obstruct, as is so often said in the Suttas. So you need to protect that pliable state as much as possible and not start taking it for granted so that the permanent, liberative understanding has as much time to work its way in as possible.
+
+---
+
+**r/HillsideHermitage** | Posted by Gcizzle _2025-06-15 15:11:27_
+### [Double-clicking on delight](https://www.reddit.com/r/HillsideHermitage/comments/1lc2m42/doubleclicking_on_delight/)
+
+An attempt to clarify patient endurance - I would appreciate if anyone can check my understanding. 
+
+We begin with acknowledging two levels of feeling/intention: one coming from the body/six senses, and one from the citta as a reaction to the former. 
+
+In both cases, these have arisen in my experience on their own - I am subject to them and do not create any arisings. 
+
+The citta level includes inclinations that might be defined here as mental delight or resistance towards sense objects, or a push/pull. In this case, I am indirectly responsible for their arising based on choices made in the past. 
+
+All “I” am able to do in the present, and where the work of endurance is entirely found, is direct attention to highlight (or “double-click”) on certain arisen intentions over others.
+
+Patient endurance is making sure that I never double-click on intentions, of either body, speech or mind, that are rooted in passion (that already-arisen peripheral delight) or aversion. This includes mental movements of resistance to that mental delight, or resistance to that resistance, and so on. 
+
+I fail if I take up, appropriate, go along with, succumb to, the mental delight/aversion. Otherwise, their existence is not a problem if I maintain context.
+
+The point is not to remove currently arisen suffering, as this would imply double-clicking on intentions/views of subtle aversion. Instead, it is to reduce the frequency and intensity of future pressure from the citta. In other words, to tame it to be immovable when facing sense objects (aka samadhi).
+
+This in itself does not directly lead to right view, but vastly increases the surface area for insight to land. 
+
+Is this correct? Missing anything important?
+
+as an aside: something that still feels off is that this implies almost a chain of bait-taking. The citta is fooled by the pressure of the senses, and “I” am fooled by the pressure of the citta. Which means that understanding is at two levels: I need to fully understand the citta, and the citta needs to fully understand the harm in taking the bait of the senses - but is this overly personifying the citta? Is there just one understanding, at one level, that takes place? Is it possible to not suffer in the face of pressure from the citta, or does freedom from suffering only come from a purified immovable citta? 
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lc2m42/doubleclicking_on_delight/myhgh1d/)** _2025-06-18 17:31:33_:
+
+    > We begin with acknowledging two levels of feeling/intention: one coming from the body/six senses, and one from the citta as a reaction to the former.
+
+    Even if that’s theoretically correct, it’s not a practically useful way to see it from the starting point. To the degree that there is ignorance, body-pressure implies citta-pressure, and vice versa. If they weren’t united, you wouldn’t be suffering.
+
+    So the work of endurance is to not do, say, or think unbeneficial things out of that unified pressure that you feel. That endurance being sufficiently developed is in turn what "settles the dust" and allows the domains of body and citta to be delineated as they actually are and to free the latter from its wrong assumptions and attitudes regarding the six senses. No amount of pondering can on its own result in an accurate delineation of the two domains.
+
+    > Is it possible to not suffer in the face of pressure from the citta, or does freedom from suffering only come from a purified immovable citta?
+
+    Pressure from the citta is already suffering. Understanding the citta does immeasurably reduce the intensity of one’s suffering even if that citta is not pure (which is essentially what sotāpatti is), but fully purifying it from defilements is the only way to be completely free from dukkha (which is what Arahantship is).
+
+---
+
+**r/HillsideHermitage** | Posted by Global_Ad_7891 _2025-06-14 23:32:42_
+### [Struggling with the precept of non-killing while doing yard work](https://www.reddit.com/r/HillsideHermitage/comments/1lbm94l/struggling_with_the_precept_of_nonkilling_while/)
+
+I work in real estate and take care of several properties, which means a lot of yard maintenance. When it comes to weeding, I always try to hand-pull as much as possible. But realistically, there are just too many tiny weeds over large areas—it would take 10+ hours per property to do it manually. So, I sometimes use a weed spray that’s marketed as safe for pets and wildlife (squirrels, birds, chipmunks, dogs, etc.).
+
+But I’ve noticed that it definitely kills insects on contact. That’s not my intention at all—I try to avoid spraying if I see bugs, but they often dart out from under the weeds right as I’m spraying and get hit. It leaves me feeling uneasy, especially in light of the first precept.
+
+I’m wondering how others here relate to situations like this. Is the unintentional (or is it intentional in my case) killing of insects in cases like this still considered a breach of the precept? Or is it more about intention and heedfulness? I’d really appreciate any reflections or advice from others walking this path.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lbm94l/struggling_with_the_precept_of_nonkilling_while/my17aaf/)** _2025-06-16 05:24:44_:
+
+    > But I’ve noticed that it definitely kills insects on contact. **That’s not my intention at all**
+
+    For as long as that remains the case, it’s not a full-blown breach of the first precept.
+
+    Nevertheless, the intent behind the action is still unwholesome to a lesser extent, because you are clearly aware of the insects dying despite that not being your intention, and yet you continue doing it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lbm94l/struggling_with_the_precept_of_nonkilling_while/mybjfoo/)** _2025-06-17 19:38:47_:
+
+    > In both cases, if we follow your line of thinking, we're aware that our actions—however ordinary—still result in harm to insects (and we continue doing it).
+
+    No, you’re not "aware" of it to the same extent. You might *infer* that harm is being caused in such cases, but it’s not a directly visible and undeniable fact (which is when continuing to do it cannot but be unwholesome).
+
+    You could of course decide to inspect every single patch of earth before setting your foot on it, but that would then be another choice born out of its own intention, which would almost always be unwholesome (obsessive compulsion). The goal for which you would be avoiding intentional killing—not acting out of craving so as to break free from it—would thus be obstructed as well.
+
+---
+
+**r/HillsideHermitage** | Posted by Seekfinderin _2025-06-14 22:44:18_
+### [Early Buddhist Teachings, other traditions and Sensuality.](https://www.reddit.com/r/HillsideHermitage/comments/1lbl8ij/early_buddhist_teachings_other_traditions_and/)
+
+Hello. I am new here and just registered because of this place since I want to understand the early buddhist teachings better and there are several questions arising for me. English is not my first language, you may forgive me any suboptimal formulations or mistakes. 
+
+(1) Firstly, I wonder in which sense really the buddhist teaching and way of life is different from e.g. the way of life of another sannyasin or brahmachari in other traditions. In order to show why that confuses me I will below describe how I live based off on other teachings. 
+(2) Why exactly sensuality is necessarily suffering? In order to overcome sensuality, I feel that I must understand deeply why it is not good, if it is not. And I cannot understand it yet.
+
+Regarding my first question, as to how I approached life so far: I am a "householder". Which in my case means not being the owner of any house, but renting a small apartment, one room. In order to pay for this room and for some food, I have to do some job and it is basically the only reason I am doing that particular job (something in education). I have and use some money but since I can think of it I would prefer not having anything to do with it. I do not drive a car either, but walk or use trains etc. 
+
+I am sleeping on the floor on a thin and hard mat since I was about 17. It may have started as a sort of appreciation of asceticism since that has been advised to do by christians as well as by vedantins. But in course of the years I also became very interested in training, exercise, physiology, movement in general and performance art. I know that sleeping like that, for example, is not simply "less comfortable", in fact you can be very comfortable on the floor if the body is prepared and it has actual advantages for the health of your joints and so on, but I do not want to dive into that now.
+
+Now, I do not think that I am training the particular artistic discipline to entertain anyone. I am training it because I consider this particular discipline and art that I train as something like my Sadhana. By training my body I am also training my mind. The physical training is very humbling, and it provides me with lots of opportunities to work on my own issues of impatience for instance. It is a very good teacher in not seeking immediate gratification and so on. 
+
+The precept regarding killing or not harming etc., that I am working on since 16, since I first came into contact with the idea of Ahimsa. I surely had a lot of times where I clearly broke this precept in course of the years. As a teenager I was very depressed and angry at the world and some people for the suffering they seemed to cause me. And due to that I was very critical and rebelled against the world (mostly intellectually). Then after that I was only really angry at myself, but that still broke out sometimes as anger towards others verbally. I am still perceiving some anger sometimes when being confronted with lots of violence, for example when I see a boy insulting a girl in a way that most people would describe as sadistic, I feel some ill-will against him, but here too it becomes easier to me to see behind it as his behaviour has its roots.
+
+As for intoxicants. I have never been drunk, and swore as a child already that I will not smoke nor drink. So I don't do that and its not hard for me. As for "company". I have company because I do that training with others, but I would not say that I really have friends. I never do any kind of "partying" and do not have any desire to do so. I do not meet with others just for the sake of enjoying company as I actually do not really enjoy such events where there is just spoken on political or economical or other such themes without substance. 
+
+But what has a meaning to me is when someone tells me about his deepest fears, sufferings or dreams, when a conversation seems to have true substance and moves something in myself or the other. When someone truly trusts me, seeks help or anything. But that happens very rarely. 
+
+As for possessions. Obviously I have a phone and a computer. I use them mostly to read stuff. Pure fiction/novels I don't read, but that is more in lack of interest than based on a conscious promise not to do so.
+
+As for possessions. I may not have as little as a monk with his three robes. I have a bit more, about three pair of pants to cover my lower body (thicker cloth for the winter), about five wide shirts to cover my upper body, about three thicker upper garments, like hoodies for the upper body when it's colder. Several pairs of socks, and a few underpants. All these clothes have one colour, no prints, non-bright, not skinny but wide, so not particularly showing off the body, are faded, often very torn and therefore regularly patched by me. A few blankets/rectangular clothes to sit on or use them as coats and that's it. Since I do not live of alms, I have to prepare food for myself, so I have some utensils for that too. Other than that I eat from a bowl too.
+
+As for beautification of the body. I do not use any perfumes, I do not use any kind of adornments, have no tattoos, no piercings, no rings or whatever. So no beautification of the body, as far as I understand it. As for hair. I keep a beard. In Europe, for example the ancient cynics decided to let their beard grow for similar reasons for which buddhist monks shave. While a beard may have been like a sign of kings, a sign of culture and of majesty and pride, when we are looking at our current western civilisation we see that almost all the kings and wealthy of the world are shaved and that a beard is associated more with someone who does not care as much for his appearance. So to keep a beard can be done with very similar intentions. 
+
+I also would argue that letting a beard grow and just keeping it half-way decent, which can be done like once a week or all two weeks in less than a minute, is much less care invested in ones face than the time it takes to cleanly shave completely. Therefore I personally see this particular custom as more of a cultural rule and as not really essential, but maybe I am missing the point.
+
+As for entertainment. I listen to music sometimes. And move to music in context of my training discipline. I wouldn't describe it as dancing in this context, as it has nothing to do with what the Buddha might have known as dancing from his time, of beautiful woman moving their bodies in alluring ways and so on or of people drinking and enjoying themselves and dancing to music on the street like on a party. No, it is training, like walking meditation just with different kinds of motions. 
+
+But all of this is not meant to justify any kind of "breaks". As I said, I am not a monk, but I am inspired by monks (in general, not only of the buddhist tradition) as long as I can think of it. 
+
+What I wanted to address with all of this, is that if the early buddhist teaching is primarily about keeping the precepts and that this is something very essential to the Dhamma, then I cannot really understand why other "spiritual" traditions or however we may want to describe them, seem here often to be critisised so much and seen in some kind of contrast (this is just what I perceiced so far). I do not see this contrast? Many Hindu brahmacharis and Jainas, if practicing strictly, are doing all of that too. Ahimsa, Aparigraha, Asteya, sleeping on the floor, controlling their diet/eating, no intoxicants, celibacy, begging for food can also be found. The precepts in their content, as far as I understand it from my research, are not a unique buddhist contribution. So it seems to me that what actually and truly is in contrast to other teachings are not the rules of conduct, but rather some other metaphysical, nore principal differences of the middle way. Now it cannot be about the middle path between some kind of extreme annihilationism on one hand and the opposite extreme on the other hand, since both Jainism and Advaita Vedanta finds a path between of that too, when really grasping their teachings. 
+
+Now, as far as sensuality is concerned and awakening. The complete overcoming of the sensuality is not uniquely buddhist either. The Bhagavad Gita for instance puts lots of emphasis on it and what it teaches is, just as what the buddhist teaching seems to teach, not a Samadhi of Meditation that comes and goes, but it describes the man of eternal wisdom in very similar terms to how an arahant is described here. Here I often hear something like: As he has uprooted the roots of suffering, reached that particular point, he is now no longer bound or even able to suffer, but always content no matter what may happen whatsoever. The Gita describes this very goal just like that too and the commentators interpret it accordingly. It is not something that comes and goes, but that always stays if attained. It puts the utmost importance on getting rid of any desire whatsoever as the most important step on this path. I see no conflict to the buddhist teaching here, really. I would like to know why do you think that there is a difference between these two? Especially since Buddha, as far as I can say, never refused Advaita-Vedanta as that was not around as such at the time. He just refused specific teachings prevalent at his area at his time and as interpreted by him according to his understanding and his understanding of the doctrines of some of those other teachers may not necessarily have been always completely accurate either, isn't it?
+
+But this, again, is not meant as a critique of buddhism or your particular teachings, in which I am very interested. I am here because I think that you are practicing the Buddhas teachings rather accurately and know what you're talking about and I want to learn and understand. 
+
+And so I come to my second question. What I personally struggle the most with is sexuality. I am not involved in sexual acts anymore, but thoughts keep appearing. I do not indulge in them anymore and I do not despise of them either. They are not causing aversion in me. But short moments of arousal and of very short moments of very deep desire for sure. 
+
+Now, both Buddha and the Gita advise that I have to overcome or uproot this desire. First by withdrawing the sense objects and so on. Now, my problem is, as I think I am honest to myself, that it is not really that I want this one particular sensual desire and the potential of some kind of sexuality to be away. I understood from your expositions that one would certainly stop longing for sensual objects if one would realise that even those desires or acts out of desire which are not even harmful to others or oneself in any visible way, are still full of pain. And the Buddha makes examples and uses metaphors and says things like: If sensual desire is like this or like that, then for sure you would like to overcome it and then it probably wouldn't be so hard either, due to the understanding. I am sure that if I would see clearly and understand fully that even such acts, that are apparently done just out of love for another with no obvious harm involved are still truly harmful, then I would have an actual motivation to get rid of them. But I do not see that. The Buddha says that this is the case and examples are made by metaphors, but I do not see any concrete explanation as for WHY this is the case, e.g. in the example of a deliberate and non-violent sexual act with another person. 
+
+Yes the urge is not going away for long, just for a short time, and then it is coming back. But so is hunger and thirst and the monk does not stop eating and drinking, he keeps eating and drinking to sustain the body and to get rid of the hunger every now and then. Where is the difference to getting rid of the ever-returning sexual urge every now and then?
+
+Maybe one can explain to me why exactly this must be avoided necessarily? 
+
+Thank you and forgive me for the many words. I have great appreciation for your work. I apparently have been influenced more by other traditions but that does not mean that I have any hidden agenda and want to push my own ideas. On the contrary do I hope that the teachings and the experience of the monks here can deepen my understanding and may help me to overcome some misunderstandings. 
+
+
+
+ 
+
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lbl8ij/early_buddhist_teachings_other_traditions_and/mxy3q6f/)** _2025-06-15 18:12:06_:
+
+    > Firstly, I wonder in which sense really the buddhist teaching and way of life is different from e.g. the way of life of another sannyasin or brahmachari in other traditions. In order to show why that confuses me I will below describe how I live based off on other teachings.
+
+    In terms of external way of life, assuming celibacy as a common ground, followers of traditions would tend to allow themselves things that within (orthodox) Buddhism are considered unwholesome regardless of any supposed greater purpose behind them (e.g., any kind of music). At the same time, they may adopt prohibitions that, in the (orthodox) Buddhist view, are based on a mistaken understanding of moral purity (e.g., vegetarianism/veganism), as well as observances that would be considered wrong effort (e.g., fixed postures, prolonged fasting, sense denial instead of sense restraint, etc.).
+
+    > What I wanted to address with all of this, is that if the early buddhist teaching is primarily about keeping the precepts and that this is something very essential to the Dhamma, then I cannot really understand why other "spiritual" traditions or however we may want to describe them, seem here often to be critisised so much and seen in some kind of contrast (this is just what I perceiced so far). I do not see this contrast? **Many Hindu brahmacharis and Jainas, if practicing strictly, are doing all of that too.** Ahimsa, Aparigraha, Asteya, sleeping on the floor, controlling their diet/eating, no intoxicants, celibacy, begging for food can also be found.
+
+    Correct, and that is why our criticisms here are very rarely aimed at other spiritual traditions outside Buddhism. When it comes to restraint in conduct, which is the most foundational and least negotiable part of (orthodox) Buddhism, such practitioners can in important ways be closer to the Buddha's teaching than a majority of self-proclaimed Buddhists today, who have twisted the Buddha’s teaching to mean exactly the opposite of what he actually taught. For example, taking the teaching of *anattā* to mean that one’s behavior and lifestyle choices are not ultimately important and that sensuality isn’t an inherent obstruction to insight (ignoring how you have far more Suttas talking about virtue and sense restraint than about *anattā*, and discourses on such higher teachings were usually only given to celibate renunciates).
+
+    Those who we mainly criticize are self-proclaimed Buddhists who, despite claiming to be following the Noble Eightfold Path, do not see celibacy and withdrawal from sensuality as necessary, let alone strive towards it (i.e., [regularly act with wrong intention and do not see any problem with it](https://suttacentral.net/mn117/en/bodhi?lang=en&reference=main&highlight=false#sc11)). That also extends to those who proclaim that [harmful view](https://suttas.hillsidehermitage.org/?q=mn22#mn22:5.9_mn22:6.15) even if they are themselves celibate by circumstance, which includes the majority of Buddhist monastics that are known in the West today. The second point we often challenge is the notion that the mental exercises promoted today as Buddhist meditation/satipaṭṭhāna have any connection with the Buddha’s teaching (incidentally, those exercises seem to have seeped into contemporary Buddhism from yogic traditions).
+
+    > The Buddha says that this is the case and examples are made by metaphors, but I do not see any concrete explanation as for WHY this is the case, e.g. in the example of a deliberate and non-violent sexual act with another person.
+
+    Yes. And here is no such concrete explanation that will in itself seal one’s determination to give up sensuality, because [purification of virtue](https://suttas.hillsidehermitage.org/?q=mn24#mn24:15.1_mn24:15.2) is what comes first, not purification of understanding. Seeing it the other way around is another widespread misconception embedded in much of modern Buddhist thought—even among those who identify as “early Buddhists.”
+
+    In order to concretely understand all those metaphors the Buddha gave and actually *feel* the peril in sensuality, you first need to, out of a degree of faith and a degree of accurate reasoning, fully withdraw from it in your actions by body, speech, and mind (i.e., not welcome even thoughts rooted in sensual desire, no matter how “automatic” they seem to be). Similar to how an addict would only be in the position to accurately recognize the full extent of the pain that his addiction inflicts on him when he’s stopped taking the drug.
+
+    > Where is the difference to getting rid of the ever-returning sexual urge every now and then?
+
+    The difference is that giving in to the sexual urge cannot but be based on and further maintain an intense degree of craving and thus suffering (and there is no logical reason behind this; it's just the way the human experience happens to function). It will course of not feel intense to the person who regularly engages in sexual activity. Only one whose mind now on its own delights in and prefers celibacy and non-sensuality is in the position to see for themselves the extent of the torment of sexual desire, [just as described in this simile](https://suttacentral.net/mn75/en/bodhi?lang=en&reference=main&highlight=true#sc31). Exactly like how 30°C feels unpleasant when you've gotten used to much lower temperatures, even though in the past, you may have tolerated it well.
+
+    Because of the craving that is always involved—craving automatically implies ownership—it is impossible to have sexual intercourse without taking ownership of one’s body, which is not the case with eating and drinking. Thus, it necessarily and very directly maintains the core problem that the Buddha's teaching is meant to uproot (ownership of the aggregates).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lbl8ij/early_buddhist_teachings_other_traditions_and/mybccna/)** _2025-06-17 19:04:52_:
+
+    > Can we say, in simplified terms as I said, that the doctrine implies, that you will not be free from suffering, if you will not overcome sensuality fully
+
+    You will not be free from suffering to the degree that you’re not free from craving, and sensual craving is the coarsest and most tangible of all the three. And without being free from that one, there is no possibility to be free from the other two (craving for being and for non-being).
+
+    > which is also not, according to the Buddha, a mere internal practice of freedom of desire whereas you can still have sex, e.g. in the sense of some tantric practices, but it includes actual external abstinence from any sexual behaviour too as well as a complete absence of any even slightest wish to become intimate with another person. Is that correct? And the same we can say about all the other aspects of sensuality.
+
+    Correct. When it comes to sexuality, external engagement means internal desire. No exceptions.
+
+    > If so, is then buddhism an anti-natalistic doctrine?
+
+    Certainly. The Buddha saw it as [blameworthy to generate one’s own existence](https://suttacentral.net/mn144/en/sujato?lang=en&layout=sidebyside&reference=main&notes=asterisk&highlight=false&script=latin#13.9), let alone to generate another’s. Mind you, that’s not the attitude that modern Buddhists would generally hold, but that is what the outlook that the Suttas [unambiguously portray](https://suttacentral.net/an1.316-332/en/sujato?lang=en&layout=sidebyside&reference=main&notes=asterisk&highlight=false&script=latin#an1.328_1.1). 
+
+    This doesn’t mean that one should leave already-born children to die, of course. It just means that producing a child in the first place is a mistake from the Buddhist point of view.
+
+    > If everyone would follow this path, humanity would be extinct in a very short amount of time.
+
+    There is no chance whatsoever that a sizeable portion of humanity, let alone the whole of it, would follow this path, and the Buddha had no hopes of that ever happening. In fact, he was convinced at first that *no one* would be able to follow in his footsteps. He then realized that a handful of beings had little dust in their eyes and then decided to teach what he discovered for their sake.
+
+    >“Enough now with trying to teach
+    What I found with so much hardship;
+    This Dhamma is not easily understood
+    By those oppressed by lust and hate.
+
+    >“Those fired by lust, obscured by darkness,
+    Will never see this abstruse Dhamma,
+    Deep, hard to see, subtle,
+    Going against the stream.”
+
+    — SN 6.1.
+
+    > As far as music is concerned, this is hard to grasp for me too. I wonder what the reasoning is. Sure hearing/listening to music is sensuality, but is it necessarily adding any craving? 
+
+    Well, the answer is quite easy to find out. To whatever extent you still listen to music, stop doing it, and see if your mind rebels against that decision. If it does, that shows how it’s rooted in craving. 
+
+    > Why is it much worse when I am instead listening to someone playing a drum in some contemplative way, that helps me to relax, for example? 
+
+    Because the sounds of music are *made* to captivate the ear. Otherwise, the drumbeats would not have to follow any particular rhythm, and notes would not have to form a melody, just as the arrangement of the chirping of the birds is irrelevant to one’s appreciation of it. 
+
+    The enjoyment of music necessarily leads to intoxication and loss of perspective (regarding what is actually painful as pleasant and what is not yours—your own sense organs—as yours), while the sound of birds and similar doesn’t necessarily do so. 
+
+    > but isn't it a logical reason that it is a form of bonding between people and giving birth to humans and mutual trust and so on, from which after all we all were born?
+
+    What I meant is that there is no rational explanation as to *why* sexual intercourse can never occur without a very intense degree of craving and—unrecognized by the participants, [whose perception is completely distorted](https://suttacentral.net/mn75/en/bodhi?lang=en&reference=main&highlight=false#sc30)—suffering.
+
+    As for bonding between people, the purpose of the Buddha’s teaching is precisely the wearing away of *all* bonds, let alone the very coarse physical ones.
+
+    > You say not "welcome" any sensual thoughts, but what does it mean? 
+
+    It means you don’t intentionally engage and wallow in the sensual mental images for as long as they stay, even if it’s for days. 
+
+    > But sometimes I cannot think of anything why a specific act of intimacy is wrong.
+
+    Intimacy and bonds are “wrong” (i.e., against your own welfare) because whatever and whoever you might bond with will be taken away completely without your consent sooner or later, and that’s going to hurt precisely to the degree that there was a bond.
+
+---
+
 **r/HillsideHermitage** | Posted by obobinde _2025-06-06 07:45:00_
 ### [A really nice agama sutta.](https://www.reddit.com/r/HillsideHermitage/comments/1l4motc/a_really_nice_agama_sutta/)
 
