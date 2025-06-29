@@ -9,6 +9,103 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Ok_Lemon_3675 _2025-06-26 11:06:27_
+### [The tick protection dilemma: Is effective protection killing or not?](https://www.reddit.com/r/HillsideHermitage/comments/1lkxbwu/the_tick_protection_dilemma_is_effective/)
+
+I found an attached tick on me again today which again brought up the topic of what should be done to prevent that.
+
+Now I know how I would see this, but in case I am still wrong about this and since this is likely also still a question for others, I am posting this to bring up the topic again.
+
+  
+The normal repellent option (Icaridin, here sold by Autan) is unfortunately completely useless, at least for me. I also tested spraying the pants with Icaridin/Autan and found it just as likely to see ticks crawling on me later. It makes no difference whatsoever. First time I went out in shorts I immediately had a tick sting on my leg already.
+
+So I already switched to only wearing long pants (running tights) and stuffing them in my socks, which means they will still get on me but usually I find them afterwards crawling around on my arms before they sting. Usually.
+
+Now today I noticed a tick got attached on my upper back anyways, which is therefore the second one this year. So my tick prevention could still be improved. Since it was on my back it was difficult to remove. I tried the plastic hook things but as usual they didn't work to catch it. So I had to use forceps to remove it, which of course resulted in it being squished and killed and it's sting/mouthparts being left in the wound. I expected that to happen but I would say that since my intention was to remove it, not kill it, it didn't break the precept despite removing it... killing it? Is that correct? Otherwise realistically you could never remove ticks and would have to accept all of the (sometimes very serious) diseases.
+
+So on this occasion I am once again thinking if I should treat my clothing (or at least pants) with permethrin (sold as 'no-bite for clothing'). This is the only thing, apart from trying to spot them quickly, that actually works reliably. It's also used by military who find it to be >99% effective if all clothing is treated. But the way it works that when the tick crawls on the clothes, depending on how long it stays, it will either be temporarily paralyzed or, probably more often, killed.
+
+So this would be effective, but it would result in ticks dying. I don't want to kill them, I just want to protect myself and that happens to be the only reliable tool. So can I then say it's not intention of killing and doesn't break the precept, or it does?
+
+Some context why I am taking that topic seriously: I already have enough health problems to deal with and getting lyme disease or worse would be even worse considering that I am a self-employed sotware developer and if I catch something and can't work (impaired cognition, fatigue or similar would be enough for that) for an extended period of time it could be a serious problem financially because I currently have neither unemployment protection nor particularly much in terms of savings. That is a risk in addition to the serious health risks themselves.
+
+So the question is if permethrin can be used, because otherwise it basically boils down to being forced to choose one of multiple bad outcomes:
+
+1. Keeping the precepts and being confined to living in a city without ticks only and never going in the forest etc. that would give more seclusion than my apartment
+2. Keeping the precepts and not using permethrin and just taking a fatalistic gamble on whether or maybe rather when I will get tick born diseases that depending on my luck could leave me neurologically disabled etc. for life
+3. Not keeping the precepts at least to that extent
+
+  
+If I think about this myself and tell you my honest thoughts, the only logically consistent approach seems to be that even if I use some kind of method (usually poison for the parasite even if you call it something else) to cure or prevent a disease caused by a parasite that reliably results in the parasite's death would still not break the first precept.  
+Also if it would be considered killing, then that would mean that removing attached ticks would also be killing. Because in both cases (unless you unintentionally don't know or intentionally ignore this fact) the intention is to remove it from my body to minimize health risk but you know that it will often but not always result in the tick's death. And then we would come back to being left with the 3 options I just mentioned.
+
+The first reasoning (regarding intention) being that I have no ill will regarding the parasite itself, I don't 'want' to kill it. I would much prefer to remove it without any harm to it. But I also want to protect my health at least to the extent that this is even possible. And it can simply be the case that the only way of accomplishing that results in the parasite's death.
+
+The second (the issue of logical consistency) is that if removing attached ticks is allowable, permethrin should also be allowable. Because in both cases the intention is simply to remove the tick from the body or to protect health, and in both cases it often but not always results in the tick's (immediate or delayed, it does not matter) death. And of course it seems to be common practice to remove attached ticks.
+
+Is my view above right or wrong? Thank you for reading and any feedback.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lkxbwu/the_tick_protection_dilemma_is_effective/n07ga09/)** _2025-06-28 07:43:24_:
+
+    >  So I had to use forceps to remove it, which of course resulted in it being squished and killed and it's sting/mouthparts being left in the wound. I expected that to happen but I would say that since my intention was to remove it, not kill it, it didn't break the precept despite removing it... killing it? Is that correct? 
+
+    Yes, it doesn’t break the precept in and of itself. The external outcome is not the determining factor; it’s your intention. Therefore, if you were to do something with the intention of killing the tick (or any other being) and yet it *didn’t* die, you would be equally blameworthy regardless.
+
+    > So this would be effective, but it would result in ticks dying. I don't want to kill them, I just want to protect myself and that happens to be the only reliable tool. So can I then say it's not intention of killing and doesn't break the precept, or it does?
+
+    It doesn’t break the precept either, provided your aim is genuinely not to get them to die but only to stop them from biting you.
+
+    It’s functionally the same as walking on earth or driving a car—you know full well that insects will very likely die as a result, but it’s not unwholesome because that’s not your aim.
+
+    By the way, it *is* perfectly possible (and ideal for health reasons too) to remove a tick alive if you’re using proper tweezers. The trick is to grip it as far in front of the head as possible. Don’t yank it because that will very likely split the body from the head. Instead, start very gently and apply steady, increasing pressure over several seconds. Be sure not to squeeze the tick with the tweezers because that can also kill it even if it comes out whole. If you do it right, the tick will let go, and you should see it start to move immediately afterwards.
+
+    You’ll also want to do a full-body check after passing through a forested area, or at least twice a day. A large handheld mirror that you can also hang from a wall to check your back works well (plus a headlamp for better visibility).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lkxbwu/the_tick_protection_dilemma_is_effective/n081pg6/)** _2025-06-28 11:09:40_:
+
+    My point is that what OP described is not an external action of killing either. Burning a tick or squashing it to make sure that it won't bite you would be killing because you are consciously aiming at that outcome.
+
+    When we talk about the things that can never be done, it's to make clear that whenever those things occur *deliberately*, they will always involve an unwholesome intention. That's just to close the loophole where somebody might think they can "kill compassionately" or "engage in intercourse without lust." One could only believe that by misjudging the underlying intention.
+
+---
+
+**r/HillsideHermitage** | Posted by mentalw0rk _2025-06-26 03:02:22_
+### [Scratching Without the Itch](https://www.reddit.com/r/HillsideHermitage/comments/1lkpdak/scratching_without_the_itch/)
+
+Sensuality is fundamentally a project that is doomed to fail, as scratching the itch only appears to make the itch go away on the surface. While on a deeper level, it is making the problem worse, and it makes you more and more emotionally dependent on scratching, meaning it's actually tightening the noose around your neck, rather than freeing you. And it is **especially dangerous because of that deceptiveness,** it really does seem like it's giving you freedom from the itch, rather than binding you harder to it.
+
+Now, my question is with the other part of the analogy. **If someone were to be cured from the itch, they would see that scratching was always painful.** It only appeared as pleasant in comparison to the greater pain of the itch. If someone had healthy skin, scratching that healthy skin would correctly be seen as pain.
+
+In that case, for an arahant or anagami, would engaging with sights/sounds/etc. be felt as painful? Since they have cured their itch of desire. Would they feel more like "harassed" by sights/sounds/etc. even if they have an agreeable nature?
+
+For example, even for someone who is not free from desire, there are times when a certain food (lets say french fries) is desired, and other times when it is not desired. With the presence of the pain of desire, eating the fries is felt as pleasant, as a relief. However, in the absence of the desire (maybe you've had french fries too many days in a row), that very same food seems unappealing. And if you were forced to eat it, it would be kind of "meh", like a chore, or even slightly unpleasant. They would feel harassed or overstimulated by a stimulus of taste that they do not want. Is that how anagamis and arahants see sense objects and sense engagement? As more of a chore or bother than anything?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lkpdak/scratching_without_the_itch/n00z4vn/)** _2025-06-27 07:32:36_:
+
+    The metaphor of "scratching" only makes sense on the mental level when there is craving. If one is free from craving, even the *possibility* of "scratching" is completely gone. Scratching is specifically the *seeking* of pleasing sense objects with passionate intent, which means that scratching itself is impossible if passionate intent is impossible. Encountering pleasing sense objects is not scratching in and of itself, so it’s not like one would become "sensitive" and actively hide away from pleasing things.
+     
+    That being said, certain things are harassing for one who’s given up passion in the sense that [they obstruct the pleasure of renunciation](https://suttacentral.net/sn17.30/en/sujato?lang=en&layout=sidebyside&reference=main&notes=asterisk&highlight=false&script=latin). That’s not because those things are pleasing, but because they’re noisy, messy, and too demanding of attention, such as [crowds](https://suttacentral.net/an5.30/en/bodhi?lang=en&reference=main&highlight=false#sc4).
+
+    > However, in the absence of the desire (maybe you've had french fries too many days in a row), that very same food seems unappealing. And if you were forced to eat it, it would be kind of "meh", like a chore, or even slightly unpleasant. They would feel harassed or overstimulated by a stimulus of taste that they do not want. Is that how anagamis and arahants see sense objects and sense engagement? As more of a chore or bother than anything?
+
+    No; that apathy and aversion are just the other side of the same coin where passion is. If you had truly uprooted passion, then you simply wouldn’t care about sense objects, which is why you’d be incapable of any sensual acts. Feeling harassed or overstimulated is still a form of involvement.
+
+---
+
+**r/HillsideHermitage** | Posted by Seekfinderin _2025-06-23 19:01:54_
+### [Pride in Asceticism](https://www.reddit.com/r/HillsideHermitage/comments/1lip8l6/pride_in_asceticism/)
+
+Simple question. How do you deal with some sort of pride in asceticism? Usually you would assume that giving up things is hard. And that it is a sort of sacrifice to not possess things, to only clad in the robe of a monk and all that. But what if almost the opposite is the case: Possessing things is a burden and you want to get rid of it. Having a comfortable bed feels like a burden and you are eager to get it out of the house. The buddhist robe seems beautiful to you and wearing it instead of other clothes is not hard for you but you rather find it much better and maybe even feel cool being a monk and so on. Stuff like that. Obviously there can be just as much pride involved in the few things one possesses as in a huge amount of things. What to do then? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lip8l6/pride_in_asceticism/mzu0gef/)** _2025-06-26 05:22:43_:
+
+    > Obviously there can be just as much pride involved in the few things one possesses as in a huge amount of things.
+
+    Well, then that pride isn’t pride in asceticism but rather pride in a specific kind of possession.
+
+    If someone is truly proud of their renunciation as such, their pride isn’t going to pertain to anything that they still have but to everything they’ve given up. And that pride in actual renunciation isn’t something to address directly, nor is it necessarily an obstacle as long as it doesn’t lead one to become complacent and ignore that there are heaps of work still undone. It will fade quite significantly as a result of attaining Right View and disappear entirely only with the attainment of Arahantship.
+
+---
+
 **r/HillsideHermitage** | Posted by Formal_Breath_2026 _2025-06-17 13:42:26_
 ### [Progress with the 5 hindrances: checking my understanding](https://www.reddit.com/r/HillsideHermitage/comments/1ldngq6/progress_with_the_5_hindrances_checking_my/)
 
@@ -39,6 +136,38 @@ Additional note: since so many contemporary Buddhist groups focus on managing th
     > So my understanding is basically to be careful to not to keep making that mistake, maintain the mind in a state of relative mindfulness and pressure-less-ness, and (…eventually…) the citta will realise it’s more pleasant to not have the pressure and that will be when kāma-sañña fully goes away?
 
     Precisely. But within that state of pressurelessness, you should also make an effort to reflect on the suffering inherent in sensuality and craving in general. The possibility of returning to that domain will not completely fade until that clarity fully sinks in. And that clarity is something you can cultivate only to the degree that the mind is beyond the pressure of sensuality—when the mind is "pliable." Understanding is what the hindrances obstruct, as is so often said in the Suttas. So you need to protect that pliable state as much as possible and not start taking it for granted so that the permanent, liberative understanding has as much time to work its way in as possible.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ldngq6/progress_with_the_5_hindrances_checking_my/mzfympt/)** _2025-06-24 02:19:48_:
+
+    > So in this case, "not allowing" correctly, would mean to sit quietly and stop resisting the physically felt discomfort of mental inactivity?
+
+    No; the "not allowing" you’re describing is on the side of self-mortification. 
+
+    > But now, it seems like actually I am responsible for it, because I don't want the pressure of "mental silence", so I subtly give in to the pressure of mano to think or remember random things to "fill the silence".
+
+    The pressure is not to "fill the silence"; it’s to engage with a pleasing sensual object (in the case of the song). So your responsibility is to not engage in that way, even by thought.
+
+    The unbeneficial thoughts that must not be allowed are those involving sensuality, aversion, and cruelty (or more broadly, those where the pressure of the five hindrances is involved), and you should certainly be thinking quite a lot about the danger in welcoming such thoughts and the benefit of their cessation. Otherwise their absence will just come from suppression, not because your citta has actually lost interest in them, and that suppression inevitably involves actual aversion/restlessness (in the citta’s attitude).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ldngq6/progress_with_the_5_hindrances_checking_my/mzu4uek/)** _2025-06-26 05:59:36_:
+
+    > If things remain at this state, there are "no enemies on the horizon" aka the hindrances. But I still need to remain vigilant, and keep my eye on those thoughts in case they start showing inclinations of sensuality, ill will, or I am starting to get too absorbed in their content (even if its mundane content, the loss of awareness due to getting too absorbed is a problem right?).
+
+    Correct. Even if there is no overt sensuality or ill will, if there is a tendency to become absorbed in a thought, then one hindrance or another is involved. But if you try to stop *all* thoughts like you were describing, then you will overlook how that attempt is itself a thought that you are getting absorbed in. So the problem is not the presence of thoughts; it’s when those thoughts take hold of the mind and it becomes constricted.
+
+    > The most productive work to do when the mind is clear like this, is to contemplate the danger of losing this (relatively) unburdened mind? As in, the danger of lust (or other hindrances) making me lose perspective, pressuring me painfully, and burdening me to do its bidding?
+
+    Yes. Thoughts laced with pressure will repeatedly try to bait you into letting them take center stage. You don’t try to stop them from trying; you just don’t accept the bait however many times it comes.
+
+    > As in, the song will seemingly start playing automatically/effortlessly...and then it's up to me whether to keep it going to get some pleasure from it. So I can't really stop that initial engagement (mano offering up a memory) but I can reject further engagement with it? Even if it's offered a million times, it seems like I can't stop that initial spark, I can only refrain from letting the fire spread.
+
+    What happens there is that because the hindrances are still strong and perspective weak, you end up fully absorbed in certain thoughts without immediately realizing it. That’s natural and inevitable in that scenario. So yes, your responsibility is to stop the intentional part as soon as you become self-aware. 
+
+    The pressure from the animal to return to the memory or whatever will still be there, but that fades only as a result of persisting in this same task of un-welcoming what you caught yourself welcoming. You can’t abruptly undo the mind’s current slant, which is why you should always think twice before breaking your restraint and thereby worsening unwholesome slants in the first place.
+
+    > What if the song/memory that mano is presenting you with is actually something that annoys you? Like the common example of an annoying pop song that is stuck in your head. In that scenario, its not a pleasing sense object. Should you simply allow the displeasing mental object to remain without paying too much attention to it, until you learn to stop resisting the displeasure of it?
+
+    If it’s a song, then it’s almost certainly not annoying to the mind, so you should not allow it to continue whenever you catch it. *You* might want the song to stop during the brief moments that you’re self-aware, but that’s a separate matter. 
+
+    If it’s an actual aversion, like repeatedly picking on the faults of another person or similar, then yes, you should teach your mind to continue facing the displeasure of those faults without resisting it.
 
 ---
 
@@ -241,6 +370,57 @@ Thank you and forgive me for the many words. I have great appreciation for your 
     > But sometimes I cannot think of anything why a specific act of intimacy is wrong.
 
     Intimacy and bonds are “wrong” (i.e., against your own welfare) because whatever and whoever you might bond with will be taken away completely without your consent sooner or later, and that’s going to hurt precisely to the degree that there was a bond.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lbl8ij/early_buddhist_teachings_other_traditions_and/mz3pw7l/)** _2025-06-22 04:38:20_:
+
+    > If someone is externally engaged because someone else is forcing himself on him and he does not actually want that but may not be able to stop the other, you would not say that there is internal desire involved, or would you? 
+
+    There is internal desire to whatever degree there is consent. Consent isn’t a binary even when there is force involved.
+
+    > But what if in another case the person does not really gain any pleasure from it, what if he has no wish to be touched or to reach climax etc., but only does it for the other person which he enjoys seeing experiencing the pleasure in a sort of a selfless way of engaging in sexual behaviour?
+
+    This is just (convenient) poetry that doesn’t reflect how the mind actually works. You cannot truly be selfless if you’re emotionally invested in something or someone, because investment necessarily comes with bias and thus potential conflict. So it’s not selflessness; at best it’s just a tiny expansion to the range of things that gratify your sense of self.
+
+    Also, the person involved would always have certain minimum requirements regarding their physical characteristics, which proves that it’s not a purely emotional interaction and actually does involve plain carnal desire. The act itself and the "enjoyment of witnessing the other’s pleasure" would swiftly come to a halt if their body suddenly shapeshifted into something one finds very repelling—even if their mind remained intact and they were still the same individual internally.
+
+    > "If you wish me not to be reborn, that is good. If you wish me to be reborn, this is equally good. If I fulfilled my purpose on this earth, I can go, but if I should be reborn a thousand more times to serve you on this earth in form of the poor or the sick or whoever, I accept it as well."
+
+    > I wonder what Buddha would say to that and why.
+
+    That view involves the same mistake found in Mahāyāna of believing that rebirth can be a matter of choice. It can’t. You can only exist if you crave, and you can only crave if you’re ignorant. So you cannot possibly welcome another existence unless you are ignorant (especially of all existence’s fundamentally unsatisfactory nature), just as you couldn’t welcome being showered with one more bucket of feces unless your perception were severely distorted. Hence the Buddha said he did not praise existence even for a fingersnap, let alone a whole new lifespan.
+
+    > Maybe it is on behalf of desire again, a sort of intellectual desire for meaning, or an emotional desire for purpose, that I am kinda attached to such ideas. But it seems reasonable to me. A teaching that has no purpose for any kinds of ACTING in the world seems to me to deny any kind of purpose. 
+
+    Well, the Buddha’s teaching does posit a very explicit purpose—to free oneself from all liability to suffering by purifying one’s own conduct and mind from craving. So it’s not saying that one should drop all action immediately; there are right actions that need to be cultivated and wrong actions that need to be abandoned until that purpose is achieved. 
+
+    The reason why one would take on any other purpose than that is also that one wants to avoid suffering, so any purpose anyone might have is squarely within the purpose of the Buddha’s teaching. But his is the only path that rightly achieves that purpose, by digging up the very root of all suffering.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lbl8ij/early_buddhist_teachings_other_traditions_and/mz3rg00/)** _2025-06-22 04:50:39_:
+
+    > But if you do not need a person, if you are fully fine on your own and your own alone, if you can let any person go whenever they wish or "God wishes", and this not inspite of your love for them but exactly because of your love for them, because true love wants their well-being and not yours, then I see no problem in company or a relationship. 
+
+    It’s a contradiction in terms to not need a person and yet strive for their company or be in a relationship with them. At the very least, you want to see *that person* benefitting from whatever it is that you give them, and that is in itself an emotional involvement and a selfish desire. 
+
+    When there are billions of beings in the world, many of them who probably could use your support a lot more than this one person, why would you devote your time to that one specifically and thereby neglect all others? And the only possible answer is that you’re biased towards them, i.e., *are* attached despite whatever poetic notions you might use to cover that up.
+
+    And that is why, if you cultivate an actual mind of mettā as the Buddha taught—which is not even part of his unique teaching yet—you become incapable of relationships. In order to maintain an equally friendly disposition towards everyone, you need to be friends with no one and have no investments in anything.
+
+    > But may it not for the majority of people within the world be a more realistic goal than to leave everyone behind?
+
+    Certainly, which is why the Buddha’s teaching is far from intended for the majority, as I already made clear.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lbl8ij/early_buddhist_teachings_other_traditions_and/mzfwk84/)** _2025-06-24 02:07:44_:
+
+    > Could you say that the correct practice of metta would result in an attitude towards others that more closely resembles the monastic rather than the layperson? In the sense that monastics can be friendly, still give advice, and help others with physical tasks when practical (including family and people that may externally be considered "friends"). For example, if someone in your family or former friends from your lay life were to visit you at the monastery, you could help them with advice or even help them physically if their car is stuck in the mud.
+
+    > But you would not help them at the expense of others, nor would you go out of your way to travel somewhere else to help them with some mundane task. Because you would have to ask yourself, why am I going out of my way to help this particular family member or friend to this extent, instead of starving children who definitely need the help more? Not saying that you should go travel to those children either, but the question would reveal that you are doing so out of a bias for one particular person over another (due to emotional ties, past memories together, etc.).
+
+    > Also, if metta is practiced correctly, it wouldn't matter to you who it was that showed up at the monastery needing advice or help. Whether it was a complete stranger or someone you've known your whole life, your attitude would be the same in both cases.
+
+    Yes, that is exactly how it works. You wouldn’t even need to think of the starving children, as being moved by that thought would imply a new bias. You would just need to un-constrict the mind from the particular person with whom a bond has arisen, and you’re left with a mind that is boundless in every direction.
+
+    > When you say incapable of relationships, do you mean that internally there is no bias or preference for their presence/lack, and that your mind would remain completely unmoved if you never see them/talk to them ever again? But externally it might still appear as a relationship, as in, your talk with them, are friendly to them, help them with mundane tasks if they are in your immediate vicinity. For example if laypeople regularly went to your monastery, externally it might appear that you have an ongoing friendship with them, even lasting years. But internally, there is no desire for their presence and your mind would remain unmoved if something were to happen to them?
+
+    > In other words, true metta is completely incompatible with desire AND ill will, because desire breeds preference for one person over the other, which will lead to ill will when things don't go according to that preference, etc.
+
+    Precisely.
 
 ---
 
