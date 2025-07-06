@@ -9,6 +9,92 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Little_Carrot6967 _2025-06-29 23:01:31_
+### [The Hillside Hermitage Arahant Challenge](https://www.reddit.com/r/HillsideHermitage/comments/1lns7uc/the_hillside_hermitage_arahant_challenge/)
+
+The Hillside Hermitage Arahant Challenge.  
+
+Based on several of Ajahn Nyanamoli's dhamma talks, I've pieced together a challenge. He says that anyone who can sit in a quiet room with nothing but jhana and their thoughts for an entire day without getting bored is close to Arahant. The idea is that an Arahant can sit indefinitely this way and never be discontented.  
+
+The rules that he defined were 4 but I'm adding a couple extra and going further with some of the others. (*Different videos and his book “The only way to Jhana”. One of those videos can be found* [Here](https://www.youtube.com/watch?v=Fs7Mj2Ig3Hw)\)  
+
+1. You fail if you become bored at any time.
+
+2. You must sit peacefully. (You may not pace, though you may get up to go to the bathroom, grab water or change positions.)
+
+3. You’re not allowed to **intentionally** practice mindfulness 
+techniques and you must try to avoid altered mental states. (All forms of hypnosis including rest, keeping your eyes closed, daydreaming and any form of object exclusion.)
+
+4. You’re not allowed to **intentionally** distract yourself with anything. (That includes picking your clothing, flicking a string, singing, humming etc.)
+
+5. You must fast for the duration.
+
+6. Have taken some precepts and have been practicing seclusion.  
+
+######This challenge can be undertaken for several durations.  
+
+- Tutorial- 1h
+
+- Normal- 3h
+
+- Hard- 6h
+
+- Going forth- 7h-15h
+
+- Very hard- 16h
+
+######This challenge is meant to test.  
+
+1. Your resistance to the direct experience of the nature of your condition. 
+
+2. Right view in regards to various aspects of your practice.
+
+3. How well acclimated you are to being withdrawn. (Dependent on engagement.) 
+
+4. Your relationship with your mind. How far you've come and how well you've tamed it. (or not)  
+
+The key to this seems to be accepting the reality of the base experience by removing internal resistance to it. Also this isn't a masochism challenge. If you aren't enjoying every minute of this, you're missing the point. Additionally, I recommend that even if you fail the challenge on the first 3 difficulties, you still finish the full time allotted. The benefits of doing so are also part of the purpose of this.  
+
+If you decide to participate and manage to finish any of these difficulties, comment here and I’ll add your name to the original post listed under the highest difficulty you’ve completed. If you decide to undertake and complete the challenge multiple times, make sure to double post so I can see it.  
+
+Additional Information.
+
+>!Explanation- This exercise will push you into a kind of involuntary Dhammānupassanā meditation which is a form of Samatha. Because there’s no stimuli whatsoever you’ll experience all kinds of mental resistance to the base experience. In theory, if you could make it to 16 hours you’d be close to Arahant or Anagami. (Tip- Resistance is born of resistance.)!< 
+
+>!Excerpt from the Ajahn’s book (*“The only way to Jhana”*)- “That reality of the body will first present itself as unpleasant and confining, because you will experience the fundamental patigha that you have towards it. So, you are going to experience this physical resistance, this sickness, the self-loathing, because you’re withdrawing from the entire domain of “sensual being” (kāmabhava). What you have to abandon is that patigha, that aversion towards your own senses which are no longer engaging with sensual distractions. That’s why sensual desire is so powerful, because the aversion towards being confined within the body underneath it is even more so and the only means of escape that an ordinary person knows is sensual pleasure, which is no escape at all.” (For more details, the entirety of chapter 8 “The pleasure of boredom” covers it.)!<
+
+######Completists  
+
+-Tutorial-
+
+-Normal-
+
+-Hard-
+
+-Going forth (7-15h)-
+
+-Very hard- Little_Carrot6967
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lns7uc/the_hillside_hermitage_arahant_challenge/n0j09v1/)** _2025-06-30 04:56:20_:
+
+    > The rules that he **defined** were 4 but I'm adding a couple extra and going further with some of the others.
+
+    I’m very certain that he has never defined or even hinted at anything along these lines. In the video you linked, he does say that if you never get bored, you could be an anāgāmi or even an Arahant, but that means *for the rest of your life*, not for X amount of hours. Succeeding in such a test for whatever amount of time is not even a sign of right view, and thinking that it might be is a very clear sign of *wrong* view (misunderstanding what practice and progress in it are).
+
+    To boot, the test itself is an activity that will be keeping you engaged and covering up your true liability to boredom, so it by nature obstructs the very thing it sets out to achieve.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lns7uc/the_hillside_hermitage_arahant_challenge/n0pyv7i/)** _2025-07-01 07:31:34_:
+
+    If you think that you’re actually "sitting with nothing," then that’s because you’re not seeing what is still there, lurking in the background. Even in the most refined states of samādhi, there is always something, some activity. 
+
+    During these periods of contrived non-activity, there is going to be some background pressure and mental movement that’s less blatant and defined than what you’re used to but still well within the five hindrances. And you will not see that because of the view that you’re not doing anything.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lns7uc/the_hillside_hermitage_arahant_challenge/n19acxz/)** _2025-07-04 05:20:29_:
+
+    My point is that the space that should be for remaining aware of your motivation for engaging in *anything* gets occupied by trying to do the challenge. It’s not a passive thing; you’re actively imposing a list of prohibitions (which I still don’t see where they even came from). That’s a mental activity that is taken for granted throughout, i.e., a gaping blind spot. It’s a kind of "Hillside Hermitage technique," which means it ironically falls within exactly what we criticize.
+
+    Anything you might get to recognize within a structured exercise is just a distraction from where you should really be looking, i.e., the "why am I doing all this in the first place?" bit. That level is where the base resistance/craving would be, and remaining aware of *that* is what’s truly challenging. There can be no fixed structure there apart from never breaking the eight precepts, which means you’re left with the weight of responsibility for every single activity—which includes rejection of activity—that you take up, big or small, mental or bodily. That’s the "right level" we often refer to.
+
+---
+
 **r/HillsideHermitage** | Posted by Ok_Lemon_3675 _2025-06-26 11:06:27_
 ### [The tick protection dilemma: Is effective protection killing or not?](https://www.reddit.com/r/HillsideHermitage/comments/1lkxbwu/the_tick_protection_dilemma_is_effective/)
 
@@ -88,6 +174,25 @@ For example, even for someone who is not free from desire, there are times when 
     > However, in the absence of the desire (maybe you've had french fries too many days in a row), that very same food seems unappealing. And if you were forced to eat it, it would be kind of "meh", like a chore, or even slightly unpleasant. They would feel harassed or overstimulated by a stimulus of taste that they do not want. Is that how anagamis and arahants see sense objects and sense engagement? As more of a chore or bother than anything?
 
     No; that apathy and aversion are just the other side of the same coin where passion is. If you had truly uprooted passion, then you simply wouldn’t care about sense objects, which is why you’d be incapable of any sensual acts. Feeling harassed or overstimulated is still a form of involvement.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lkpdak/scratching_without_the_itch/n0k7hi9/)** _2025-06-30 11:40:18_:
+
+    > Bhante, so this means that both the "itch" and the "scratch" are on the mental level right?
+
+    Not entirely. The hindrances originate purely from the mind, but they’re inseparable from their bodily manifestation. In other words, the "itch" will be felt in the body even though the root disease is mental.
+
+    > Initially it seemed to me that the "itch" was just the pressure from the senses.
+
+    No; the "itch" is how the senses manifest with ignorance.
+
+    > But now it seems like there is a "second layer of pressure" on top of the first one.
+
+    You could say that in theory, but you have to keep in mind that it remains completely abstract for as long as the second layer is still there. When that second layer is gone, you can’t even call what’s left "pressure" because there is no compulsion or force whatsoever behind it. From the point of view of the second layer, what is left is not even annoying. It’s irrelevant.
+
+    > because even if you "scratch successfully", the real "itch", the second layer of pressure has been left completely intact. Because although the superficial sense of pressure has been temporarily reduced, the habit of compulsion to do something about the pressure whenever it presents itself has actually been increased. You have just ingrained that compulsive habit, that sense of obligation, even deeper. And whenever there is "obligation", that is the opposite of freedom.
+
+    Yes, that’s quite correct. That’s why sensuality *always* makes things worse in the final analysis, even if it "seems" to work for the time being. It’s exactly as [the Suttas](https://suttacentral.net/sn12.66/en/bodhi?lang=en&reference=main&highlight=false) describe it: a drink that factually satisfies a thirsty traveller in the moment but ends up causing him death or death-like suffering because it contains undetectable poison. Or the leper getting momentary relief from cauterizing his wounds but making the whole thing worse in the long term.
+
+    Whenever you give in to the offered scratch, the pain of not being able to scratch future itches—which will have to come sooner or later, since even infinite access to sensuality cannot guarantee satisfaction—skyrockets. That pain of abstaining in the face of intense desire is the closest to the pain of death you can get without actually dying.
 
 ---
 
@@ -168,6 +273,15 @@ Additional note: since so many contemporary Buddhist groups focus on managing th
     If it’s a song, then it’s almost certainly not annoying to the mind, so you should not allow it to continue whenever you catch it. *You* might want the song to stop during the brief moments that you’re self-aware, but that’s a separate matter. 
 
     If it’s an actual aversion, like repeatedly picking on the faults of another person or similar, then yes, you should teach your mind to continue facing the displeasure of those faults without resisting it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ldngq6/progress_with_the_5_hindrances_checking_my/n0j1vl7/)** _2025-06-30 05:09:49_:
+
+    > but I cannot see how I would ever possibly, if following the 8 precepts, not be constantly suppressing thoughts to the point of insanity.
+
+    Following the 8 precepts, at least to begin with, doesn’t entail suppressing anything more than acts by body and speech. Once those have ceased for a while, it becomes possible to stop the unwholesome mental activities too. Initially those activities will still be there and feel almost "automatic" to the degree that the addiction took root. You just do your best to stop the mental singing whenever you notice it without expecting it to go away overnight.
+
+    > I understand the thoughts to be concerned about are those "involving sensuality, aversion, and cruelty", but it seems to me I would always be questioning every thought and wondering if they might fall under one of those categories some how
+
+    Correct, there will be an unavoidable paranoia in the beginning. When you first go live in the jungle and are told to beware of snakes, it will feel like snakes are everywhere. But you can’t just dismiss that as irrational anxiety and go around as if there were no snakes because *there are*, and you factually still don’t know where they tend to be.
 
 ---
 
