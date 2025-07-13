@@ -14,6 +14,417 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Bhava_bhavana156 _2025-07-10 16:28:27_
+### [Simple Paticcasamuppada questions (principle of simultaneous presence) outside of the Visudhimagga interpretation](https://www.reddit.com/r/HillsideHermitage/comments/1lwh5ma/simple_paticcasamuppada_questions_principle_of/)
+
+1. Avijjapacaya sankhara
+
+How does ignorance, lead to sankharas being simultaneously present? Would an Arahant stop breathing, thinking, moving, eating, after attaining Nibbana?
+
+2. Sankharapaccaya vinnana
+
+Would this mean that sankharas (the body being there, breathing, thinking, speaking), are more fundamental than conciousness? Would an Arahant stop being concious after attaining Nibbana
+
+3. Vinnanapaccaya namarupa, namarupaccaya vinnana (namarupa = name and matter)
+
+If experience is already all mental (ie, it is experienced), then how can it also be dependent on matter (if it is only experienced within PoV of experience?). How does the buddhist 2-stacks-of-hay-leaning-on-eachother formulation, differ from idealism? How is the mind-as-forerunner doctrine, also different from idealism?
+
+3.1 How is namarupa different from the 5 aggregates, or are they the same thing?
+
+4. salayatanapaccaya phassa, why not namarupapaccaya phassa?
+
+If salayatana are the 6 physical basis for the senses (brain, body, musculature of eyes, optic nerves), and salayatana the 6 internal basis, then what is phassa? Sure, all these 3 are the same (no sensory information can occur without one of them being present), so what differentiates each of them?
+
+5. Bhavapaccaya jati
+
+Wouldn't it make sense for "birth" to come first, then "existence"? Why does "existence" preceed birth, if for something to exist, it must have arised first? Wouldn't it mean that something's arising would it be it's condition then?
+
+6. Tanhapaccaya upadana, upadanapaccaya bhava
+
+How does craving, lead to "holding"/assuming, and assuming, to "existence"?
+
+7. Is paticcasamuppada a "hierarchy of awareness"?
+
+8. If Paticasamuppada isn't about cause-and-effect, but rather, it's timeless, then how it is, that tanhapaccaya ahara (craving conditions physical food)? Wouldn't this be cause-and-effect then? (the cause for eating food, is craving)
+
+9. How does ignorance cease?
+
+10. If Paticasamuppada isn't about cause-and-effect, then how does an Arahant stop future lives?
+
+11. Which chain within the Paticasamuppada explains the cessation and arising of self-view?
+
+12. Does jatimarana affect avijja, or not? Is it a linear set of dependences, or is it also linear
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lwh5ma/simple_paticcasamuppada_questions_principle_of/n2pbcff/)** _2025-07-12 09:47:47_:
+    1 & 2. Ignorance doesn’t *lead* to saṅkhāras, nor does any factor in paṭiccasamuppāda *lead* to the next. It’s not about causality.  
+    What paṭiccasamuppāda is describing is that whenever one thing is present in a puthujjana’s experience (e.g., saṅkhāras), the preceding thing will be present in the background as its foundation or support. That means that, colloquially speaking, [you have to start by "finding" the second thing so that you can then discern the preceding one where it actually is, as the "womb" of it.](https://suttacentral.net/dn14/en/sujato?lang=en&layout=sidebyside&reference=main&notes=asterisk&highlight=false&script=latin#2.18.5) 
+
+    If you start with the first thing, you will always end up with an abstract explanation, which will be wrong for that very reason even if correct in theory.  
+    So *avijjāpaccayā saṅkhārā* means that whenever the puthujjana finds himself engaging in an activity (most broadly, breathing, thinking, feeling-and-perceiving) that activity will always have ignorance in the background, and so the work is to undo that ignorance (rather than trying to stop the activities directly, which will never work) by fully understanding the nature of saṅkhāras.  
+
+    You can’t imagine what remains after ignorance is gone because that imagining itself—that activity—sits on top of the very ignorance you're supposed to transcend. So yes, from the external point of view, the Arahant’s lungs are obviously still functional and so on, but it would be a grave mistake to think that you can therefore imagine (let alone engage in) breathing without ignorance as a puthujjana. That would defeat the whole purpose behind *paṭiccasamuppāda,* which is to subvert the entirety of your present experience affected with avijjā without first stepping outside of it (which is impossible).
+
+    
+    3. Matter can only be perceived on account of the mind, but it can nevertheless be discerned as the necessary basis for mind to be there. Similar to how the perception of your mother or father is just a perception of a person just like any other, and nevertheless it’s the perception of the person owing to which you exist.  
+    Idealism is wrong insofar as it misconceives the mind as somehow more real than all other perceptions. In the Buddhist view, one sees the phenomenon of the mind on account of which everything is experienced (or any other supposed "ground of being") as being itself a perception. Thus, it includes the entire picture and allows no room for a stable and immovable "first point" from which everything else comes—for less-than-complete dispassion and abandonment of any perception, no matter how fundamental it is in a secondary sense.
+
+    3.1. The dyad of nāmarūpa + viññāṇa is practically speaking the same as the five aggregates.
+
+    4. The Buddha did put it the latter way in DN 15.
+
+    5. "With existence, birth" means that the details of your manifestation in the world—as a human being with a particular body, life history, proclivities, etc.—are possible only because you exist first and foremost. It thus becomes apparent that none of those particulars are somehow "sacred," e.g., the particular family or country you were born into, or anything else that might have become a part of your life in the course of time. All of it is secondary and could’ve been otherwise.
+
+    6. Again, it doesn’t "lead to" it. You find yourself already assuming things (e.g. gratification being possible from sensual pleasures), and you must then see that assumption can only be there because craving has arisen as its foundation.
+
+    7. No. It’s the fact that there is something simultaneously "below" your attending to such ideas or any others.
+
+    8. The puthujjana finds himself already "feeding" on things. He must then recognize that the background of that feeding is his simultaneously arisen craving. He is then able to stop taking his feeding for granted, which he wouldn’t be able to in any other way, even if he never ate again.
+
+    9. By sufficiently understanding paṭicasamuppāda, which requires great proficiency in seeing the signs of the mind, which requires unwavering virtue and sense restraint.
+
+    10. He doesn’t stop future lives as such. He stops *craving*, which means that he does not give rise to *bhava* even in the present. It is on account of craving in the present that one is reborn once death becomes the present.
+
+    11. All of them. A puthujjana’s self-view is the non-seeing of any instance of paṭiccasamuppāda.
+
+    12. Not sure if I understand this one, but practically speaking, you could say it does. Experiencing suffering makes it even more difficult for a puthujjana to go "against the grain," which is what paṭiccasamuppāda is about.
+
+---
+
+**r/HillsideHermitage** | Posted by Remarkable_Guard_674 _2025-07-09 17:34:55_
+### [The 5 precepts](https://www.reddit.com/r/HillsideHermitage/comments/1lvoym0/the_5_precepts/)
+
+I would like to know if Hillside Hermitage approves of this: As long as one is under the influence of sensuality or the 10 saṁyojanas, observing the five precepts completely without any flaw is impossible. Only an arahant has a pure and perfect sīla without the slightest trace of defilement. In this case, even a sotāpanna can still break the 5 precepts. 
+
+
+Note: This opinion is shared by the monks of the monasteries I follow. I also think that a sotāpanna does not have a perfect sīla.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lvoym0/the_5_precepts/n2bc5v8/)** _2025-07-10 05:36:11_:
+    >  As long as one is under the influence of sensuality or the 10 saṁyojanas, observing the five precepts completely without any flaw is impossible.
+
+    No, we would strongly disagree with this. A person breaks a precept because they choose to do so, not because they are not free from X fetter. 
+
+    > And what is the undertaking that is painful now but results in future pleasure? It is when someone is by nature acutely passionate, averse, and muddled. He often feels the pain and sorrow born of passion, aversion, and muddledness. **He leads the complete and pure celibate life** in pain and sorrow, weeping, with a tearful face. When his body breaks up, after death, he reappears in a good place, a heavenly realm. This is called the undertaking that is painful now but results in future pleasure.
+
+    > —MN 45
+
+    Of course, a sotāpanna has the *potential* to break all the precepts because mentally they are not free from the fetters and are still liable to unwholesome thoughts internally. But that doesn’t mean they would *necessarily* break any precept before becoming Arahants. They would only do so if they became heedless.
+
+    In fact, AN 3.87 makes clear that unless one is steadfast in the essential brahmacariya precepts (which are the five with celibacy), one will not attain stream entry, and one who is already a stream-enterer will not be able to fulfill the training in the higher mind.
+
+---
+
+**r/HillsideHermitage** | Posted by Many_Relation_2784 _2025-07-09 17:26:43_
+### [Lay Arahat](https://www.reddit.com/r/HillsideHermitage/comments/1lvoqxc/lay_arahat/)
+
+This question is for Bhante Aniga. Wouldn’t a layman who understands, with perfect clarity, that restraint of bodily, verbal, and mental action is for the purpose of containing the pressure of feeling until citta understands the four noble truths directly, be able to attain Nibbana regardless of external circumstances? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lvoqxc/lay_arahat/n2ba7yt/)** _2025-07-10 05:19:59_:
+    If by "layman" we simply mean somebody who hasn’t received formal sāmaṇera/bhikkhu ordination but nevertheless lives a homeless life, then yes. If we mean someone who holds a job and/or participates in the duties of a household, then no, that’s impossible even if he has rightly understood the four noble truths and keeps the eight precepts perfectly. 
+
+    Living in such external circumstances is a continual choice, and that choice cannot be made without a degree of passion involved (not necessarily *sensual* passion, though, which is why a layman can certainly attain non-return).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lvoqxc/lay_arahat/n2be0ww/)** _2025-07-10 05:51:52_:
+
+    *(In reply to [deleted]):*
+    > [deleted]
+
+    I would tell them that if they truly were a stream enterer, then they would have no difficulty recognizing that they have to abandon their family in order to become an Arahant, as they would directly see the craving that is inescapably bound up with any involvement in such affairs. They would be unable to hold the quintessential wrong view that they could free themselves from craving while acting out of it.
+
+    Nevertheless, they could still strive for a higher attainment whether or not they give up their family, but that requires complete celibacy as the very first step.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lvoqxc/lay_arahat/n2l0wmj/)** _2025-07-11 17:20:14_:
+
+    *(In reply to No_Squirrel4617):*
+    > What are your thoughts on Dhamma Hub and their teachings?
+    >
+    > https://youtu.be/XtxlCizZ4J8?si=PcsXFOCT8qU0dNrr
+
+    I've explored that channel before.
+
+    While I think the broad strokes of their teachings might be helpful for complete newcomers, especially compared to much of what's out there these days, I see them ultimately conveying a different understanding of the practice and the goal. 
+
+    The overlap in jargon, concepts, and motifs with HH is a superficial similarity. Looking deeper, it's often quite clear that what is actually meant isn't quite the same. Other times, it's just too vague and diluted to point in the right direction practically (except again for a total beginner).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lvoqxc/lay_arahat/n2olrn4/)** _2025-07-12 05:41:05_:
+
+    *(In reply to DullAnswer):*
+    > Bhante 🙏, what about the channel [Hermitage Meditation](https://www.youtube.com/@hermitagemeditation8304)?
+
+    Those are recordings by Sister Medhini before she discovered HH, after which she eventually concluded that her views at that time were severely missing the mark.
+
+    I haven’t listened to the recordings myself, but from her accounts in hindsight, it was ultimately still about managing the symptoms while the root issue remained overlooked—despite often using all the right terms and following mostly the same standard of virtue at the external level.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lvoqxc/lay_arahat/n2om92b/)** _2025-07-12 05:45:17_:
+
+    *(In reply to No_Squirrel4617):*
+    > I appreciate the reply. If you don't mind, I'd like to ask a follow-up question: does a sotāpanna see their mind with absolute clarity at all times, or is it still possible for them to mistake it for themselves?
+
+    > does a sotāpanna see their mind with absolute clarity at all times, or is it still possible for them to mistake it for themselves?
+
+    Compared to a puthujjana, they do see it with absolute clarity at all times (the same as how they are free from suffering at all times in comparison). Only when one is already a sotāpanna oneself can one accurately see to what extent ignorance is still possible at that stage (which, compared to an Arahant, is quite a lot). 
+
+    A puthujjana will remain a puthujjana if they allow themselves any room for ignorance (or suffering).
+
+    Edit: added clarification
+
+---
+
+**r/HillsideHermitage** | Posted by Many_Relation_2784 _2025-07-09 09:05:09_
+### [What about cultivation (bhavana)](https://www.reddit.com/r/HillsideHermitage/comments/1lve0v7/what_about_cultivation_bhavana/)
+
+It’s evident that the Buddha taught cultivation that culminates in liberation. After liberation, freedom is unconditional. If we look at the suttas, it could be said that the gradual training is restraint (from unwholesome behavior), cultivation (of wholesome qualities), liberation.
+
+But HH teachings seem to suggest that cultivating wholesome qualities is a form of management, and therefore samudaya, the origin of dukkha. How should we understand this discrepancy?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lve0v7/what_about_cultivation_bhavana/n2bf0t5/)** _2025-07-10 06:00:19_:
+    > But HH teachings seem to suggest that cultivating wholesome qualities is a form of management, and therefore samudaya, the origin of dukkha. How should we understand this discrepancy?
+
+    It’s more like what is generally regarded as a wholesome quality in modern Buddhism is not wholesome to begin with *because* it is management (or more accurately, a cover-up of symptoms rather than an actual resolution of the underlying illness). 
+
+    The things that do cure the underlying illness should certainly be developed, such as the recollections taught in the Suttas—when done at  the right level that is made available by unwavering virtue and sense restraint.
+
+---
+
+**r/HillsideHermitage** | Posted by Lumpy-Compote-1744 _2025-07-08 12:37:50_
+### [Does becoming a sotapanna require removing the five hindrances first? If so, how far apart is this even from Jhana? Or is it just weakening the hindrances?](https://www.reddit.com/r/HillsideHermitage/comments/1lungsj/does_becoming_a_sotapanna_require_removing_the/)
+
+It is clear that becoming a sotapanna (stream enterer, to get Noble Right View) requires a present dispassion towards sensuality (not necessarily permanent) and other unwholesome states to be able to understand the actual 4 Noble Truths. It also requires not delighting in company and seeing the signs of your mind. A sotapanna still has the fetter of sensuality so thats cant be what is meant by dispassion to sensuality in that context  [https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/comment/mraliwz/?utm\_source=share&utm\_medium=web3x&utm\_name=web3xcss&utm\_term=1&utm\_content=share\_button](https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/comment/mraliwz/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+  
+[https://www.reddit.com/r/HillsideHermitage/comments/1khiejs/comment/msksxwt/?utm\_source=share&utm\_medium=web3x&utm\_name=web3xcss&utm\_term=1&utm\_content=share\_button](https://www.reddit.com/r/HillsideHermitage/comments/1khiejs/comment/msksxwt/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+  
+"And when he knew that Upāli’s mind was ready, pliable, rid of hindrances, elated, and confident, he explained the special teaching of the Buddhas: suffering, its origin, its cessation, and the path. **Just as a clean cloth rid of stains would properly absorb dye,** in that very seat the stainless, immaculate eye of the Dhamma arose in Upāli..."
+
+  
+If this is the case it seems like a stream enterer should already be close to jhana or brahmavihara. So why wouldnt they quickly just get that? They already have the 4 noble truths, it seems a short step away. They could just go into seclusion that day and get jhana very soon.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lungsj/does_becoming_a_sotapanna_require_removing_the/n2b99js/)** _2025-07-10 05:12:17_:
+    > If this is the case it seems like a stream enterer should already be close to jhana or brahmavihara. So why wouldnt they quickly just get that?
+
+    Because jhāna isn’t something that you just "get," as if it falls on you by itself. You need to be well versed in abandoning the hindrances, which requires a subtle type of effort that is [neither too tight nor too loose](https://suttacentral.net/an6.55/en/sujato). And you will only be able to fathom what that effort is if you have developed the entirety of the gradual training that precedes jhāna, which most of the people who attained stream entry in the Suttas had not done (and did not do afterwards either).
+
+---
+
+**r/HillsideHermitage** | Posted by anicca142 _2025-07-07 18:36:05_
+### [ESSAY - Jhana & "non-assumption of the hindrances = non-existence of the hindrances"](https://www.reddit.com/r/HillsideHermitage/comments/1lu24wo/essay_jhana_nonassumption_of_the_hindrances/)
+
+> Upādānā paccayā bhavo (with assumption, being is simultaneously present
+
+There are two ways of attending to a phenomena:
+
+a) the situation: that there is a lustful mind
+
+b) this particular phenomenon which is the thought: “There is a lustful mind”
+
+ 
+
+The puthujjana, is used to attending to things in the situation he already is (ignoring the fact that the phenomena which exists is more fundamental than the situation). By perverting the order of things, and assuming that the situation of the hindrances/feelings, to be more fundamental than the phenomena of the hindrances/feelings (putting second whats first and first whats second), he assumes the "existence" of the situation of the hindrances
+
+ 
+
+>upadānirodhā bhavanirodho hoti (with the cessation of assuming, there is the cessation of being)
+
+ 
+
+By stopping to assume that the situation of the hindrances that he is in, is more fundamental than the "phenomena" of there being a hindrance present (he can only discover the situation on top of the thing already existing there), he stops assuming the existence of a center of experience centered around the situation of the hindrances. Thus, when he stops assuming the wrong order of things, he isn't "hindered" on account of it anymore (without assuming something to exist, it ceases existing)
+
+ 
+
+If yoniso manasikara meant wise consideration/appropriate attention, then whatever the puthujjana would have done to be abandoning the hindraces, would only be done on top of the assumption that fuels them. Thus, he includes everything in his "wise consisderation" but his assumption that his "wise consideration" is superimposed on (that is, on top of an already pre-existing sense of self which assumes itself at the centre of experience; nothing you think through the sense of self being able to directly override it)  
+  
+
+
+Through the principle of yoniso manasikara, the bhikkhu experiences the 8 jhanas: **By assuming that what one experiences, is more fundamental than the experience, the existence (of a new centre of experience) is simultaneously present (because its assumed); by ceasing to assume that what one experiences is more fundamental than the experience, the existence ceases (because there's no "self" for that "experience" to "fall on").**
+
+>"There is the case where a monk — quite withdrawn from sensuality, withdrawn from unskillful qualities — enters and remains in the first jhana: rapture and pleasure born from withdrawal, accompanied by applied and sustained thought
+
+Applied and sustained thought --> speech  
+ By ceasing to assume that the speech one breaks into, is more fundamental than the applied and sustained thought preceeding it; by stopping to assume the speech as the centre of the experience and all else as secondary to it, he enters in the first Jhana
+
+>"Furthermore, with the stilling of directed thoughts & evaluations, he enters and remains in the second jhana: rapture and pleasure born of composure, unification of awareness free from directed thought and evaluation — internal assurance.
+
+Intention --> applied and sustained thought   
+By ceasing to assume that one's applied thought and sustained thought is more fundamental than the intention preceeding it, he enters in the second Jhana
+
+>"And furthermore, with the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhana, of which the Noble Ones declare, 'Equanimous & mindful, he has a pleasant abiding.'
+
+(the meditator abandons intention?) 
+
+>"And furthermore, with the abandoning of pleasure and stress — as with the earlier disappearance of elation and distress — he enters and remains in the fourth jhana: purity of equanimity and mindfulness, neither-pleasure-nor-pain.
+
+By ceasing to assume that the breath is more fundamental than the experience of the breath, by stopping to assume breath as external, he enters into the 4th Jhana Arupa Jhanas
+
+>"With the complete transcending of bodily sensations, with the disappearance of all sense of resistance, and not heeding perceptions of diversity, thinking, 'space is infinite,' one enters and remains in the Sphere of Infinite Space. "With the complete transcending of the Sphere of Infinite Space, thinking, 'consciousness is infinite,' one enters and remains in the Sphere of Infinite Consciousness. "With the complete transcending of the Sphere of Infinite Consciousness, thinking, 'There is no-thing,' one enters and remains in the Sphere of No-thingness. "With the complete transcending of the Sphere of No-thingness, one enters and remains in the Sphere of Neither Perception nor Non-perception."
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lu24wo/essay_jhana_nonassumption_of_the_hindrances/n2b7mmd/)** _2025-07-10 04:59:23_:
+    Though not wrong in theory, it sounds like seeing the right order would at once undo the hindrances. But that’s not how it works. The more hindered the mind is, the more momentum there is towards the assumption of the wrong order, and the less it will feel like recollecting the right order does anything at all (which is one way that doubt would still be able to creep in). Only when that momentum has fully drained away have the hindrances been overcome. That’s why it’s like tying a wild animal to a strong post until it stops thrashing and flailing.
+
+---
+
+**r/HillsideHermitage** | Posted by mentalw0rk _2025-07-06 23:02:07_
+### [Context = The Significance of the content?](https://www.reddit.com/r/HillsideHermitage/comments/1ltepnu/context_the_significance_of_the_content/)
+
+I've struggled to get a consistent, clear sense of what is meant by "background", "peripheral" or "context" in the past. So this is an attempt to clarify what my current understanding is and hopefully get some helpful pointers if it's off.
+
+To use a practical example: maintaining mindfulness while eating.
+
+The content in two different instances may be identical: the same food, the same pleasure, even the same thoughts about the food. Even if both times you're having the right "dhamma thoughts" while you're eating, that's still foreground/content.
+
+However, the **significance** of all that content can vary in both instances. The **significance of that experience/content** **is what the context is.** That's why the context is always in "the background". The significance of the experience as a whole is not something that can ever be pointed at, it can never be narrowed down or made more concrete. It's not even a particular thought or theme of contemplation. It's more like the "light in which everything in the room is seen", the "filter applied to the picture". It can change everything, even if the content is identical. I believe Ajahn Nyanamoli once used the example of a watch, the significance/meaning of it can change completely if you find out the watch is very expensive, or it belonged to your grandfather. And also the context is always **personal. It's about what that experience means for you at that time. The intentions in regard to the content, and those background significances/intentions is what your citta is.**
+
+It doesn't necessarily mean the same context has been established in both instances of eating, even if both times you're thinking "I should not eat for pleasure, the purpose of this food is sustenance of these organs, this food will be digested by organs and become something repulsive", etc .etc. Even if you're thinking dhamma thoughts, the **significance of that whole experience could be "me trying to contemplate the dhamma",** rather than the context you unsuccessfully tried to establish, **"the repulsiveness of eating"**. But in a different instance, if the context has been successfully established, you wouldn't even have to actively think about the repulsiveness of eating. Everything would be seen through that context of repulsiveness, effortlessly, for as long as the context remains there.
+
+**That's why the context is directly related to mindfulness.** If the right context is established, there is **effortless mindfulness** (recollection)because it's not something you actively do or think about. Yes, you may have to think about it at first, but if it's been properly established, it's what remains on its own.  Almost like if you hit a gong hard enough, you only have to hit it once for the sound to reverberate effortlessly for a certain period of time. The sound permeates and affects the entire experience, no matter what other particular things you do. while the sound is there. You don't have to do anything until the sound has fully disappeared. In the same way, you only need to actively do something to re-establish the context if it has been fully lost.
+
+**Additionally, that's why the correctly established context of death (mindfulness of death fully established) is so powerful and all-encompassing.** Whatever you do, even if you're not actively thinking about death, is seen "in light of death". The significance of every experience, no matter the content, would be the significance of death. The significance that all of this can be snatched away without warning. And the sense of urgency would **have to arise, if done correctly.** On the other hand, if done incorrectly, even if you do nothing but think about death 24/7, you may not necessarily develop the sense of urgency. Because although the foreground thoughts are "thoughts of death", the context/singnificance of those thoughts for you might be "me calmly philosophizing about death" if you're not careful and sensitive to that background/significance.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ltepnu/context_the_significance_of_the_content/n24i3xk/)** _2025-07-09 05:30:34_:
+    You can simply say that the context is where the citta is. The citta is what "holds" the context, not you. That is why, in your example, mechanically thinking thoughts about "not eating for pleasure" will not necessarily make any difference to an arisen context/citta of eating for pleasure. The wild animal can be lustful, and you can be completely ignoring that lust where it actually is and instead focusing on reciting the right words or conjuring up various ideas while eating.
+
+    That’s why it’s essential to learn how to "communicate" with your own mind—learn to actually have an influence on the arisen context—and that becomes possible only when it has been contained by virtue. Otherwise, your very lifestyle is already feeding the wrong context constantly.
+
+---
+
+**r/HillsideHermitage** | Posted by obobinde _2025-07-06 15:21:46_
+### [Reflexive awareness/self awareness](https://www.reddit.com/r/HillsideHermitage/comments/1lt3stf/reflexive_awarenessself_awareness/)
+
+I have a question concerning self awareness. Usually when I'm commuting or just walking, self awareness has a tendency to naturally be there and almost effortlessly continuous. Since hindrances are absent (or undetectable) and the mind is mostly quiet, with even elation sometimes, in which satipatthana category should self awareness fit ? Does knowing those characteristics entails putting it in cittanupassana ?
+
+Also, each time I'm mindful of my breath in daily life I'm always surprised that it is already there. If I keep this breath in mind as something enduring without my having me having a say about it yet being the condition for my whole existence, it does trigger a slight feeling of unease and sometimes anxiety (feeling a bit trapped). I understand this to be quite useful as a strong reminder of the urgency to keep striving on the gradual training. But I wonder which of the two, plain self-awareness or contemplation of the breath as I mentioned, should be more developed ?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lt3stf/reflexive_awarenessself_awareness/n21akfn/)** _2025-07-08 18:54:50_:
+    Taking for granted the foundation of unbroken seven precepts and sense restraint, what needs to be developed is awareness of underlying motivations within that already contained behavior. Without that awareness, let alone the even more basic foundation of restraint, no satipaṭṭhāna is possible, as any effort to discern and contemplate will be coming out of unnoticed and already-welcomed hindrances. But if that awareness and the aforementioned level of restraint are there, then it doesn’t really matter as long as the motivation is correct and you’re not trying to contemplate out of an unwholesome pressure.
+
+---
+
+**r/HillsideHermitage** | Posted by Remarkable_Guard_674 _2025-07-06 00:35:14_
+### [Did I understand correctly?](https://www.reddit.com/r/HillsideHermitage/comments/1lsofjn/did_i_understand_correctly/)
+
+From what I understand from Hillside Hermitage,
+
+1. It is impossible to create a schism (Sangha Beda) in today's community because modern Theravada is not exactly what Lord Buddha taught. The bhikkhus' noble Sangha doesn't exist anymore in the majority of monasteries because of the division that occurred in the past.
+
+
+ 2. The teaching has been corrupted and the practice of breath meditation is not the true meaning of Anapanasati. 
+
+3. Understanding Annica is not just repeating to oneself that everything is impermanent to become an arahant. 
+
+4. The Jhanas that people practice are not stable Jhanas since they are not born from the complete abandonment of sensual pleasures and those who practice them continue to enjoy sensual pleasures.
+
+
+5. To become a Sotāpanna, one needs to associate the right view, not associate with a meditation cushion. Real meditation is born from right view.
+
+
+
+Please correct me if I made a mistake. 🙏🏿
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lsofjn/did_i_understand_correctly/n1rfjjx/)** _2025-07-07 05:41:34_:
+    > Understanding Annica is not just repeating to oneself that everything is impermanent to become an arahant.
+
+    Not just that. Impermanence can only be rightly understood, i.e., at the level that actually frees, by a tamed mind, for which virtue and sense restraint are not negotiable. That’s the only thing that can make the Dhamma concrete and directly visible.
+
+    > The Jhanas that people practice are not stable Jhanas since they are not born from the complete abandonment of sensual pleasures and those who practice them continue to enjoy sensual pleasures.
+
+    It’s not that they’re "not stable"; they simply aren’t jhānas—*because* they continue to enjoy sensual pleasures, having at no point [truly internalized the danger in them](https://suttas.hillsidehermitage.org/?q=an6.73#an6.73:1.1_an6.73:1.5). 
+
+    [One who achieved the pleasure that is apart from sensuality would not return to it](https://suttas.hillsidehermitage.org/?q=mn14#mn14:4.4_mn14:4.5). That pleasure comes precisely from understanding the danger in sensuality, and you wouldn’t return to something if you truly perceived it as dangerous.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lsofjn/did_i_understand_correctly/n24ga09/)** _2025-07-09 05:15:50_:
+
+    *(In reply to Remarkable_Guard_674):*
+    > >It’s not that they’re "not stable"; they simply aren’t jhānas—*because* they continue to enjoy sensual pleasures, having at no point [truly internalized the danger in them](https://suttas.hillsidehermitage.org/?q=an6.73#an6.73:1.1_an6.73:1.5). 
+    >
+    > >[One who achieved the pleasure that is apart from sensuality would not return to it](https://suttas.hillsidehermitage.org/?q=mn14#mn14:4.4_mn14:4.5). That pleasure comes precisely from understanding the danger in sensuality, and you wouldn’t return to something if you truly perceived it as dangerous.
+    >
+    > Thank you for your reply Venerable Bhante🙏🏿. According to the master I follow there are two types of Jhanas: those of the anariyas and those of the ariyas. The anariya Jhanas bring to the Brahma Rupa or Arupa world, but in the end, one returns to this world and to the 4 apayas. The anariya Jhanas temporarily neutralize Kama Raga but do not lead to its eradication. The Ariya Jhanas are those which lead to the complete eradication of Kama Raga and are developed at the Anagami stage. This is what Lord Buddha is talking about. They can never be lost because they are born from the complete eradication of attachment to sensuality. They are not developed by focusing on breathing but by focusing on the dangers of sensuality and the right understanding of reality.
+    >
+    > The [Paṭhamanānākaraṇasutta](https://suttacentral.net/an4.123/en/sujato?lang=fr&layout=sidebyside&reference=main&notes=asterisk&highlight=false&script=latin#31.2) can explain this difference if we look deeply in that. Is that correct Bhante?
+    >
+    > 
+    >
+    > 
+    > Take a person who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected.
+    >
+    > 
+    > Idha, bhikkhave, ekacco puggalo vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.
+    >
+    > 
+    > They enjoy it and like it and find it satisfying.
+    >
+    > 
+    > So tadassādeti, taṁ nikāmeti, tena ca vittiṁ āpajjati.
+    >
+    > 
+    > If they abide in that, are committed to it, and meditate on it often without losing it, when they die they’re reborn in the company of the gods of the Divinity’s host.
+    >
+    > 
+    > Tattha ṭhito tadadhimutto tabbahulavihārī aparihīno kālaṁ kurumāno brahmakāyikānaṁ devānaṁ sahabyataṁ upapajjati.
+    >
+    > 
+    > The lifespan of the gods of the Divinity’s host is one eon.
+    >
+    > 
+    > Brahmakāyikānaṁ, bhikkhave, devānaṁ kappo āyuppamāṇaṁ.
+    >
+    > 
+    > An ordinary person stays there until the lifespan of those gods is spent, then they go to hell or the animal realm or the ghost realm.
+    >
+    > 
+    > Tattha puthujjano yāvatāyukaṁ ṭhatvā yāvatakaṁ tesaṁ devānaṁ āyuppamāṇaṁ taṁ sabbaṁ khepetvā nirayampi gacchati tiracchānayonimpi gacchati pettivisayampi gacchati.
+    >
+    > 
+    >
+    > But a disciple of the Buddha stays there until the lifespan of those gods is spent, then they’re extinguished in that very life.
+    >
+    > 
+    > Bhagavato pana sāvako tattha yāvatāyukaṁ ṭhatvā yāvatakaṁ tesaṁ devānaṁ āyuppamāṇaṁ taṁ sabbaṁ khepetvā tasmiṁyeva bhave parinibbāyati.
+
+    > The Paṭhamanānākaraṇasutta can explain this difference if we look deeply in that. Is that correct Bhante?
+
+    The modern jhānas are below what that Sutta (and any other) describes. Delighting in the first jhāna, even if "anariya," would mean delighting in renunciation, and to that extent there can be no delight in sensual pursuits. The modern jhānas do not achieve even that, so they cannot lead to the Brahmā realms. If they did, they would be well worth developing even without right view.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lsofjn/did_i_understand_correctly/n27eftj/)** _2025-07-09 16:50:24_:
+
+    *(In reply to Remarkable_Guard_674):*
+    > >even if "anariya," would mean delighting in renunciation
+    >
+    > Bhante,  anariya is another term to describe puthujana. Is the contrary of Ariya(Noble). Bhante, I think it is possible to develop Jhānas without right view. Alara Kalama and Uddaka Rāmaputta are examples of Puthujanas who have achieved that. They did not have the right view, Bhante, they were not even sotāpanna. It is possible to have jhānas without right view. [Ālāra Kālāma and Uddaka Rāmaputta: Ascetic Gautama’s two meditation teachers](https://drarisworld.wordpress.com/2024/10/30/alara-kalama-and-uddaka-ramaputta-ascetic-gautamas-two-meditation-teachers/).
+    >
+    > 
+    > “In this way did Ālāra Kālāma, my teacher, place me, his pupil, on the same level with himself and pay me great honour. But the thought occurred to me, ‘This Dhamma leads not to disenchantment, to dispassion, to cessation, to stilling, to direct knowledge, to Awakening, nor to Unbinding, but only to reappearance in the dimension of nothingness’. So, dissatisfied with that Dhamma, I left.”
+    >
+    > 
+    >
+    > 
+    > [Tapussasutta](https://suttacentral.net/an9.41/en/sujato?lang=fr&layout=sidebyside&reference=main&notes=asterisk&highlight=false&script=latin).
+    >
+    > 
+    > And so, quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected.
+    >
+    > 
+    > So kho ahaṁ, ānanda, vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharāmi.
+    >
+    > 
+    > While I was in that meditation, perception and focus accompanied by sensual pleasures beset me, and that was an affliction for me.
+    >
+    > 
+    > Tassa mayhaṁ, ānanda, iminā vihārena viharato kāmasahagatā saññāmanasikārā samudācaranti. Svassa me hoti ābādho.
+    >
+    > 
+    > Suppose a happy person were to experience pain; that would be an affliction for them.
+    > Seyyathāpi, ānanda, sukhino dukkhaṁ uppajjeyya yāvadeva ābādhāya;
+    >
+    > 
+    > In the same way, when perception and focus accompanied by sensual pleasures beset me, that was an affliction for me.
+    >
+    > 
+    > evamevassa me kāmasahagatā saññāmanasikārā samudācaranti. Svassa me hoti ābādho.
+
+    > Bhante, I think it is possible to develop Jhānas without right view. Alara Kalama and Uddaka Rāmaputta are examples of Puthujanas who have achieved that. They did not have the right view, Bhante, they were not even sotāpanna. It is possible to have jhānas without right view.
+
+    I'm not disputing that. I'm saying that it *is* possible and that "anariya jhāna" would actually have great benefit in contrast to what modern meditation practices lead to.
+
+    What those practices lead to is not jhāna because sensuality has not been overcome even temporarily. What happens is that the person becomes too immersed in the pleasure and novelty of a yogic state—and in their wrong views that severely inflate its significance—to recognize that the mind's passion for sense pleasures has not diminished and that it is still operating within the five hindrances.
+
+    In order to arrive at the Brahmā realms, one needs to actually give up passion for sense pleasures, [like the teacher Sunetta](https://suttacentral.net/an7.66/en/sujato?lang=en&layout=sidebyside&reference=main&notes=asterisk&highlight=false&script=latin#11.1). If somebody has even  "anariya jhāna," it can only be because of a permanently celibate and de-sensualized lifestyle—something far from universal among so-called "jhāna" practitioners today.
+
+---
+
 **r/HillsideHermitage** | Posted by Little_Carrot6967 _2025-06-29 23:01:31_
 ### [The Hillside Hermitage Arahant Challenge](https://www.reddit.com/r/HillsideHermitage/comments/1lns7uc/the_hillside_hermitage_arahant_challenge/)
 
@@ -225,6 +636,74 @@ For example, even for someone who is not free from desire, there are times when 
     Yes, that’s quite correct. That’s why sensuality *always* makes things worse in the final analysis, even if it "seems" to work for the time being. It’s exactly as [the Suttas](https://suttacentral.net/sn12.66/en/bodhi?lang=en&reference=main&highlight=false) describe it: a drink that factually satisfies a thirsty traveller in the moment but ends up causing him death or death-like suffering because it contains undetectable poison. Or the leper getting momentary relief from cauterizing his wounds but making the whole thing worse in the long term.
 
     Whenever you give in to the offered scratch, the pain of not being able to scratch future itches—which will have to come sooner or later, since even infinite access to sensuality cannot guarantee satisfaction—skyrockets. That pain of abstaining in the face of intense desire is the closest to the pain of death you can get without actually dying.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lkpdak/scratching_without_the_itch/n1rkxnz/)** _2025-07-07 06:30:49_:
+
+    *(In reply to mentalw0rk):*
+    > Part 1:
+    >
+    > Hello Bhante. I hope I am not overcomplicating the analogy/beating a dead horse here, but these clarifications seem quite important.
+    >
+    > \>Not entirely. The hindrances originate purely from the mind, but they’re inseparable from their bodily manifestation. In other words, the "itch" will be felt in the body even though the root disease is mental.
+    >
+    > Right, I did not mean to imply that the compulsion manifests solely on the mental level, but rather that the mental attitude of "itching" and "scratching" is where the problem lies. The problem is not the fact of encountering sense objects, as you said before. The physical manifestation of the compulsion in the body is just the unpleasant symptom that always shows up when the problem is already there on a mental level. When the mind has abandoned the hindrances, the mental burden of pressure is dropped. And because of this, the bodily manifestation of pressure is also dropped, so the body is experienced as unburdening and pleasant in jhana, correct?
+    >
+    > \>No; the "itch" is how the senses manifest with ignorance.
+    >
+    > I interpret this as:  With ignorance (a non-arahant) , the senses and their pressure will manifest as "mine" or "for me", to some extent, depending on the development of the mind. A once-returner has a weaker assumption of ownership over senses and feelings than a stream-enterer. A non-returner has no ownership over feelings (no more sensuality or ill will) but subtler ownership. To the extent that there is ignorance, there is ownership. When there is ownership over something which is currently unpleasant, you will crave for it to be otherwise,  because it's yours, it's your problem, and to that extent there is suffering. 
+    >
+    > Because those senses and feelings are assumed as mine, they are "my problem" when things don't go well in terms of those senses and feelings. Because it's "my problem", there is an "itch", compulsion, or obligation (second layer of pressure) to do something about the unpleasant pressure of the senses and feelings. Without ignorance, the senses and feelings are not assumed to be "mine" or "for me" whatsoever, therefore there is no compulsion to do something about them, even when they meet things they find are extremely disagreeable. I believe you once gave the analogy of a barking dog: the dog's unpleasant barking is only felt as suffering, it's only "your problem", if it's your dog. Did I understand you correctly?
+    >
+    > The stream-enterer has abandoned the grossest level of ownership. They no longer assume themselves to be the " the subject independent of the experiences, for whom experiences come and go while the subject remains the same", aka the "owner of the experience" or "the experiencer of the experience". However, there are still traces of ownership/ignorance there in regard to feelings, which is why they are not non-returners. To some extent, they still assume ownership of feelings, so they feel a compulsion to do something when they meet pleasant feeling and unpleasant feeling. And even if ownership of feelings is abandoned by a non-returner, they still have subtler traces of ownership, such as "my duty", "my family", etc. which is what stops them from going forth and going all the way to arahantship. If the non-returner abandons even that internally, it is impossible for them to remain in the household life.
+
+    > ... And because of this, the bodily manifestation of pressure is also dropped, so the body is experienced as unburdening and pleasant in jhana, correct?
+
+    Yes. The body becomes unburdened, and *that* is pleasant: the fact that you *lost* what is burdensome and oppressive, not *gained* some special state or sensation that gratifies you. The latter is just sensual pleasure.
+
+    > Did I understand you correctly?
+
+    Although the explanations might be correct in theory, you have to keep in mind that being able to provide them is not the point at all. The true problem is not in how well your explanations match somebody else’s, but in what you are personally designating in your own experience (if anything) when you say "senses," "pressure," "mine," or "for me," and what you think somebody else is referring to when they use those words. The inaccuracies on that level are where the true ignorance is, and those can only be undone through the training. 
+
+    Explanations can only take the existing internal inaccuracies for granted, even if they sound perfectly correct. That is why the Dhamma cannot be accessed through mere reasoning, and why it’s a mistake to think that you’re on the same page as somebody else just because you can produce words and phrases that closely match theirs. An AI can easily do that, yet it cannot possibly have an experiential perspective of what it writes about, and thus it can never have a *view*, right or wrong.
+
+    > They no longer assume themselves to be the " the subject independent of the experiences, for whom experiences come and go while the subject remains the same", aka the "owner of the experience" or "the experiencer of the experience". 
+
+    Same here. I can neither agree nor disagree, because the crux of the matter is how you personally interpret “subject independent of the experiences.” If that interpretation is off, the whole statement is wrong (and if it were right, you would already be a sotāpanna).
+
+    >  And even if ownership of feelings is abandoned by a non-returner,
+
+    Ownership of feelings is only gone in an Arahant. But yes, the intensity of ownership decreases the closer one comes to it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lkpdak/scratching_without_the_itch/n216t64/)** _2025-07-08 18:37:52_:
+
+    *(In reply to mentalw0rk):*
+    > Part 2: 
+    >
+    > \>You could say that in theory, but you have to keep in mind that it remains completely abstract for as long as the second layer is still there. When that second layer is gone, you can’t even call what’s left "pressure" because there is no compulsion or force whatsoever behind it.
+    >
+    > So practically, for any non-arahant, whenever the first layer of pressure is there, the second layer of pressure (compulsion to do something about the pressure)  is simultaneously there to some degree. So to a non-arahant they appear as one inseparable thing; only an arahant has truly experienced the first layer without the second. But because compulsion is no longer there, the arahant's first layer ceases to be pressure, which is the meaning of "contact has ceased for an arahant"?
+    >
+    > Let me try to bring this back to the practical level. I need to first stop feeding the compulsion to a sufficient degree. Different people have different faculties and a different amount of built up compulsion, so for some, that degree of necessary restraint will be more, for others less. But it's better to be on the safe side (we can die at any time), and assume that more work will be necessary. And also, whenever you act out of the compulsion, you are unintentionally strengthening the wrong view of ownership that fuels compulsion, which will then strengthen your compulsion...etc. A vicious cycle. 
+    >
+    > The only way to escape the burden is indirectly, by  "un-owning" the things that seem to be mine right now. Specifically, the things that seem to be "closest to me" aka "my desires and inclinations". If I try any other way (trying to manipulate the feeling directly in any way), I am actually reinforcing the view that the feeling is mine, as I stated above, which makes the problem worse. I would be undermining any contemplation I do. 
+    >
+    > So how do I discern correctly? By contemplating, not once, but as many times as it takes, unfailingly, that whatever desire/inclination is present, I did not ask for this. I do not get to choose what I experience as pleasant or unpleasant, what my mind will incline towards, how long the pressure will last, if it will change to something else, what  I will be pressured towards next, if I will get satisfaction even if I get this thing, etc. I didn't even notice when it arrived, so to speak, I only know that it got here at some point. The problem seems to be that we don't do this thoroughly and consistently enough. We might see it with the obvious intense pressures, but we don't include the full extent of "my inclinations", therefore smaller inclinations/pressures are left out and implicitly taken as "mine". 
+    >
+    > This way, it becomes more and more clear that even "my own desires" are not mine. They are completely external to me, just dropped on me like a burden. And it's painful, trying to extort me into doing its bidding even if I'm just minding my own business. Even if it's not that intense, it's influencing me and it won't leave me alone.
+    >
+    > If this is recollected sufficiently, without acting out, you can't ever go back to seeing it otherwise. You can't ever go back to seeing it as yours. So at that point, there is no ownership, no compulsion to do anything about it?
+
+    > So practically, for any non-arahant, whenever the first layer of pressure is there, the second layer of pressure (compulsion to do something about the pressure) is simultaneously there to some degree. So to a non-arahant they appear as one inseparable thing; only an arahant has truly experienced the first layer without the second. But because compulsion is no longer there, the arahant's first layer ceases to be pressure, which is the meaning of "contact has ceased for an arahant"?
+
+    Practically, you will find the mind *already* wanting to do something, even just revolving around certain thoughts/images. Only once you have endured the discomfort of not welcoming those impulses sufficiently does the pressure as such become discernible. Before that, you can’t see it for what it is even if you try.
+
+    That root of the pressure is assuming the sense bases, which you will at that point be able to discern concretely (but indirectly/peripherally) and contemplate rightly only because you’ve been guarding them well, not spilling out into sense objects (which includes mental ideas and intellectualizations) when there is a compulsion to do so. And that undoing of assumption and full understanding of the sense bases (as a dart, as a disease, as foreign, etc.) is how you eradicate even the possibility of pressure rather than just restraining certain responses *within* arisen pressures as before.
+
+    > Different people have different faculties and a different amount of built up compulsion, so for some, that degree of necessary restraint will be more, for others less.
+
+    The amount of built-up compulsion is essentially the same for everyone. It's just that it can manifest in different ways, some of those potentially being easier to overlook because they don't fit the classical notions of what a wild mind is like.
+
+    > The problem seems to be that we don't do this thoroughly and consistently enough. We might see it with the obvious intense pressures, but we don't include the full extent of "my inclinations", therefore smaller inclinations/pressures are left out and implicitly taken as "mine". 
+
+    Very true. And those smaller inclinations are not brought out by just looking for them harder. They only way to have a chance to see them is to be well established in restraint regarding everything coarser than them.
 
 ---
 
