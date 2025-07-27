@@ -23,6 +23,13 @@ So even at the beginning of training one will be *outwardly* appearing as a medi
     There’s a big difference between restraining unwholesome mental activities while your focus is somewhere else (your bodily and verbal conduct) and having your focus mainly on restraining unwholesome mental activities, which assumes that everything "below" that is firm and secure. Needless to say, for the vast majority of people, it isn’t.
 
     Edit: Also, not all unwholesome mental activities are on the same level. It would be rather pointless for someone who isn’t well established in the precepts to focus on perfectly restraining restlessness, for example, which is something that you *would* do in later stages, when you are able to clearly see what restlessness even is without conflating it with movement per se. But they certainly should do their best when it comes to obvious sensual or hateful thoughts. It would be very hard to succeed in physical celibacy if you were constantly indulging sexual fantasies.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1m1v051/meditation_at_the_beginning_of_the_path/n4dw7dy/)** _2025-07-21 18:26:16_:
+
+    > This is the time where I'm not clear what I should be doing
+
+    The reason for the confusion might be the very assumption that you must have something specific to "do." Anything taken on with that mindset will become a "technique" and will be unbeneficial for that reason alone. The entire training is simply about what you *don’t* do. So on such occasions, all that matters is that you remain mindful of what you’re not going back to—without turning that into an overly defined activity. 
+
+    If done right, being aware that whatever you are doing right now is *not* that which you shouldn’t be doing is effortless, and you become properly established in the precepts when you understand that—when it ceases to be about you actively performing the abstinence from things and instead about simply not doing those things. That doesn’t require active effort at all because those things you are supposed to avoid are always fully deliberate and cannot occur accidentally.
 
 ---
 

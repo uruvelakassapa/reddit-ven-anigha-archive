@@ -27,6 +27,20 @@ So even at the beginning of training one will be *outwardly* appearing as a medi
     There’s a big difference between restraining unwholesome mental activities while your focus is somewhere else (your bodily and verbal conduct) and having your focus mainly on restraining unwholesome mental activities, which assumes that everything "below" that is firm and secure. Needless to say, for the vast majority of people, it isn’t.
 
     Edit: Also, not all unwholesome mental activities are on the same level. It would be rather pointless for someone who isn’t well established in the precepts to focus on perfectly restraining restlessness, for example, which is something that you *would* do in later stages, when you are able to clearly see what restlessness even is without conflating it with movement per se. But they certainly should do their best when it comes to obvious sensual or hateful thoughts. It would be very hard to succeed in physical celibacy if you were constantly indulging sexual fantasies.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1m1v051/meditation_at_the_beginning_of_the_path/n4dw7dy/)** _2025-07-21 18:26:16_:
+
+    *(In reply to MonumentUnfound):*
+    > So for example, I am someone who is still working on the first stage of the training, but when I sit down after finishing with my obligations for the day, there will of course be times when my focus is on not acting out of the unwholesome impulses which arise with my body or my speech - for instance, not giving in to lust, not reverting back to entertainment. However, there is quite a lot of that time which is free of such gross impulses - I'm not really feeling pressured by lust at the time, not in the mood for entertainment. I might even feel quite happy and peaceful just sitting there. This is the time where I'm not clear what I should be doing as far as the Gradual Training is concerned, because to work at a more subtle level would seem to moving too far ahead, as I am still prone to unwholesome bodily/verbal activity. And it seems like uprooting the liability to such activity is precisely where things become more advanced.
+    >
+    > Another example would be a friend of mine who tried to commit to the Gradual Training, and when he would run out of things to do, he would just sit around, not wanting to do anything more refined on the mental level (again, believing this would be skipping ahead in the training). He told me that he felt rather dull and checked out during this time, sensing little benefit from the practice, and eventually gave up on this approach. What would your advice be to someone in such a situation?
+    >
+    > Edit: corrected a detail
+
+    > This is the time where I'm not clear what I should be doing
+
+    The reason for the confusion might be the very assumption that you must have something specific to "do." Anything taken on with that mindset will become a "technique" and will be unbeneficial for that reason alone. The entire training is simply about what you *don’t* do. So on such occasions, all that matters is that you remain mindful of what you’re not going back to—without turning that into an overly defined activity. 
+
+    If done right, being aware that whatever you are doing right now is *not* that which you shouldn’t be doing is effortless, and you become properly established in the precepts when you understand that—when it ceases to be about you actively performing the abstinence from things and instead about simply not doing those things. That doesn’t require active effort at all because those things you are supposed to avoid are always fully deliberate and cannot occur accidentally.
 
 ---
 
