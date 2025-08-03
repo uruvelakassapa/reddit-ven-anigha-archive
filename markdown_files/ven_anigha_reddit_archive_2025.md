@@ -9,6 +9,73 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by 2footie _2025-07-31 08:19:13_
+### [Where and when does Right View exactly begin?](https://www.reddit.com/r/HillsideHermitage/comments/1mdvwsb/where_and_when_does_right_view_exactly_begin/)
+
+Suppose someone's been following the precepts, and they have a general idea of dhamma theory, and HH theory as well.
+
+At what exact point does right view begin according to both dhamma and HH theory, but mainly HH?
+
+- When Idappaccayatā is understood, seen, and applied?
+- When Paticcasamuppada is seen?  (With reflexion)
+- When craving is truly discerned and not confused for feeling?
+- When craving is briefly *intentionally* ceased, due to applying  Idappaccayatā (i.e. having awareness on the right thing) and seeing Paticcasamuppada?
+
+.
+
+
+ I realize one does not have full control over the situation as they're going in blinded with ignorance, so could it be a matter of letting pressure build up  without releasing it to sensual desire, to a point that right view must happen if one has sati, even wrong sati, set up? For example the pressure is like gunpowder/natural gas and the miccah sati is the spark, together they result in samma ditthi and samma sati?
+
+
+Or can this question not be answered and instead one must look back after a long time, as per the simile of the finger grooves in the Adze handle? (SN 22.101)
+
+Thank you
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mdvwsb/where_and_when_does_right_view_exactly_begin/n6eg03g/)** _2025-08-01 19:06:30_:
+
+    All of the things you listed (except the last one; true insight can never come from a "brief moment" of anything) are theoretically landmarks of the right view according to the Suttas. But without external guidance from the Buddha or an actual noble disciple, many people falsely conclude that they understood any and all of those things and are thus sotāpannas. The Dunning-Kruger effect is even more pronounced in the Dhamma than elsewhere because of the fully internal nature of insight and because of the easy-to-overlook difference between making perfect sense of the teachings and actual wisdom.
+
+    Rather than trying in vain to gauge the sufficiency of your understanding directly, you instead look for the symptoms that the right view necessarily comes with. The most important one is the inability to be touched by arisen suffering, which you know beyond doubt cannot diminish or be threatened regardless of circumstances—including anything you yourself may or may not do.
+
+    > “Here, Ānanda, a bhikkhu understands: ‘It is impossible, it never happens, that a person whose view is perfected should treat any formation as permanent—no such possibility is found’, and he understands: ‘It is possible that an ordinary man should treat any formation as permanent—such a possibility is found.’
+
+    >“He understands: ‘It is impossible, it never happens, that a person whose view is perfected should treat any formation as pleasurable—no such possibility is found’, and he understands: ‘It is possible that an ordinary man should treat any formation as pleasurable—such a possibility is found.’
+
+    > “He understands: ‘It is impossible, it never happens; that a person whose view is perfected should treat any dhamma as self—no such possibility is found’, and he understands: ‘It is possible that an ordinary man should treat any dhamma as self—such a possibility is found.’
+
+    — MN 115
+
+    If someone who has fulfilled the actual prerequisites for right understanding (i.e., the precepts, celibacy, sense restraint... and not all the other entirely tangential things so often emphasized these days) believes they have “got it” through those means and nothing else, what they should do is train themselves to see *that very realization* as impermanent, suffering, not-self—a disease, a boil, a dart, and so forth, so as to completely "vomit out" any trace of a view that there might be real safety there. And that would be the actual perfection of view that cannot deteriorate no matter what—i.e., *saddhānusāri*-hood at the very least (see [SN 25](https://suttacentral.net/sn25-cakkhuvagga?view=normal&lang=en)).
+
+---
+
+**r/HillsideHermitage** | Posted by obobinde _2025-07-30 16:58:01_
+### [Is the assumption of sensuality fractal ?](https://www.reddit.com/r/HillsideHermitage/comments/1mdbz4i/is_the_assumption_of_sensuality_fractal/)
+
+So, let's say I have a sudden desire for going to a music festival. Delight in the thought of it already provides pleasure on account of alleviating the pain of being pressured by this desire which is felt unpleasantly.
+
+The question is, where does the more general unpleasant/neutral feeling fits ?
+
+Is the pleasure felt **ONLY** a by-product of relieving the pressure related to this particular phenomena ? or is there another layer where a more general pressure, one born of a more general unpleasant/neutral feeling, one usually unnoticed but the actual source of the desire to listen to music as a way to alleviate/distract from the pain, getting relieved too ?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mdbz4i/is_the_assumption_of_sensuality_fractal/n6dq3tc/)** _2025-08-01 17:02:36_:
+
+    > Is the pleasure felt ONLY a by-product of relieving the pressure related to this particular phenomena ? 
+
+    The pressure isn't related to the particular phenomenon; that's why if getting that specific thing that was initially wanted begins to seem impossible (or the thing ceases to be appealing for whatever reason), the same pressure of desire simply shifts to something else. 
+
+    That pressure arises because the mind is currently susceptible to lust for the attractive, and that's simply because of previous careless, unrestrained attention (and of course actions) in regard to anything attractive.
+
+    The pleasure felt is a by-product of an assumption. When the full picture is taken into account, getting the desired thing doesn't actually "relieve" anything. That's the whole point. The objects of the pressure might change if you act out enough, but that's actually irrelevant to the pressure itself—which will have gotten worse. But that's enough to give a sense of relief to people who can't clearly see their own citta and only see that they no longer want *this* particular thing.
+
+    It's like feeling relieved because you got a free meal at a high-end restaurant after your car was stolen or your family was kidnapped. 
+
+    >  or is there another layer where a more general pressure, one born of a more general unpleasant/neutral feeling, one usually unnoticed but the actual source of the desire to listen to music as a way to alleviate/distract from the pain, getting relieved too ?
+
+    I'm not sure what you mean by this, but it sounds a bit like an over-rationalization.
+
+---
+
 **r/HillsideHermitage** | Posted by MonumentUnfound _2025-07-17 01:47:35_
 ### [Meditation at the beginning of the path](https://www.reddit.com/r/HillsideHermitage/comments/1m1v051/meditation_at_the_beginning_of_the_path/)
 
