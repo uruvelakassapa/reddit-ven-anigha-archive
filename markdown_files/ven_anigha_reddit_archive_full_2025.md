@@ -14,6 +14,60 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by spiffyhandle _2025-08-08 10:44:53_
+### [What do you make of this contemplation that reduces sensual desire?](https://www.reddit.com/r/HillsideHermitage/comments/1mkruwv/what_do_you_make_of_this_contemplation_that/)
+
+A technique I learned outside of HH is to practice seeing all experience as mental. In one of Ajahn Nyanamoli's videos, he's mentioned something similar. Ultimately, an attractive person or a tasty cake are mental experiences. They are simply sights, sounds, smells, tastes, and touches. When I eat a cake, I am experiencing a pleasant taste, not a "cake". The idea of "cake" is a mental construction based on past experiences, desires, and cognition.
+
+When I recall that all experiences are mental, the desires for sensuality decreases and a sense of peace and happiness arises. After all, what is the big deal about a sight of a person? It's just a sight, it's not a "real existing thing out there" for me to pursue.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mkruwv/what_do_you_make_of_this_contemplation_that/n7qfdf8/)** _2025-08-09 05:49:51_:
+    > When I eat a cake, I am experiencing a pleasant taste, not a "cake". The idea of "cake" is a mental construction based on past experiences, desires, and cognition.
+
+    This seems to be based on the idea that things are "not ultimately real (or somehow not substantial) because they're just labels/concepts," and would be one form of the commonly but falsely conceived dichotomy between appearance and reality, which is one of the quintessential wrong views. There is no higher reference point for what is real apart from labels/concepts, and there *cannot be* (except in one's assumption).
+
+    For the same reason, such a contemplation would not truly reduce sensual desire but rather obscure the *trigger* for it (the original attractive significance of the experience), and that's basically what management is. It's the same as focusing on the good aspects of a person and ignoring the bad ones so that the ill will towards them subsides, overlooking that the actual ill will is the resistance against the negative aspects *when they are there.* In other words, ill will is the *resistance against the unpleasant feeling*, not the absence of a pleasant/neutral feeling in regard to the person.
+
+---
+
+**r/HillsideHermitage** | Posted by Global_Ad_7891 _2025-08-05 20:25:33_
+### [Can I attain stream entry with chronic illness and daytime sleepiness?](https://www.reddit.com/r/HillsideHermitage/comments/1mikbxa/can_i_attain_stream_entry_with_chronic_illness/)
+
+Can I attain stream entry / become a faith or dhamma follower with a chronic lung condition and meds that cause relatively poor sleep, leaving me drowsy for a large portion of the day? I keep the precepts, but I know wakefulness is to be cultivated — not sure how much that matters for simply right view. Curious about my chances.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mikbxa/can_i_attain_stream_entry_with_chronic_illness/n76s2hc/)** _2025-08-06 06:39:10_:
+    By the time wakefulness should become the focus, you will have already covered the bases for stream entry. Proper establishment in the precepts and sense restraint will take years realistically. During that time, it's not that you're free to indulge in sleep all the time and it doesn't matter, but it's not the end of the world if it's less than perfect.
+
+---
+
+**r/HillsideHermitage** | Posted by Little_Carrot6967 _2025-08-04 15:35:22_
+### [So I think I understand what I need to do now.](https://www.reddit.com/r/HillsideHermitage/comments/1mhgqz6/so_i_think_i_understand_what_i_need_to_do_now/)
+
+In order to achieve enlightenment, I need to dwell within the citta and watch mind. Every time cetasika of dosa or cetasika of lobha arises, I need to recollect the same thing that I just thought but without those cetasikas. I need to do this over and over, hundreds of times, thousands of times until my citta flips.
+
+Doing this will require heightened mindfulness so I'll have to do nothing but sit there watching mind for as long as it takes which may be days. 
+
+To be honest I actually started doing it last week for a couple hours. I didn't go all the way because I wanted to wait till after my family visits. I thought at the end of the year I would make the big push. Now however I think I'm out of time. That first stroke probably won't be the last. Although, NGL it would be hilarious if it didn't happen and I just showed up next week being like "hey guys!"
+
+Anyway, I wanted people to know what I did just in case I don't survive it.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mhgqz6/so_i_think_i_understand_what_i_need_to_do_now/n700qyy/)** _2025-08-05 04:45:42_:
+    > Every time cetasika of dosa or cetasika of lobha arises, I need to recollect the same thing that I just thought but without those cetasikas. 
+
+    In case that's what you understood from our teachings, no, that's not what you need to do (and the concept of a "cetasika" is Abhidhammic nonsense that is better thrown out the window).
+
+---
+
+**r/HillsideHermitage** | Posted by place_of_coolness _2025-08-02 11:14:39_
+### [Skills for going forth](https://www.reddit.com/r/HillsideHermitage/comments/1mfo04g/skills_for_going_forth/)
+
+As someone who intends to go forth once I can pay off my debt, what kind of secondary skills would be wise to develop in the meantime? It seems like some facility with carpentry is commonly in demand at monasteries, and of course it would be helpful to learn relevant Asian languages, maybe some survivalism. Any other ideas? I'm frankly not a very "handy" person. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mfo04g/skills_for_going_forth/n76o2km/)** _2025-08-06 06:03:31_:
+    I wouldn't say that having (or making known) "useful" skills like carpentry is a good thing in most monasteries, since it will tend to drag you more than baseline into projects that are neither necessary nor useful, i.e., a large portion of the "work" that goes on at monasteries past the initial setting-up phase. The extra involvement that will come from it will also make it harder to keep to yourself, which is ideal in most places given that you'll be surrounded not only by wrong views but also quite often by idle chatter.
+
+---
+
 **r/HillsideHermitage** | Posted by 2footie _2025-07-31 08:19:13_
 ### [Where and when does Right View exactly begin?](https://www.reddit.com/r/HillsideHermitage/comments/1mdvwsb/where_and_when_does_right_view_exactly_begin/)
 
@@ -50,6 +104,22 @@ Thank you
     — MN 115
 
     If someone who has fulfilled the actual prerequisites for right understanding (i.e., the precepts, celibacy, sense restraint... and not all the other entirely tangential things so often emphasized these days) believes they have “got it” through those means and nothing else, what they should do is train themselves to see *that very realization* as impermanent, suffering, not-self—a disease, a boil, a dart, and so forth, so as to completely "vomit out" any trace of a view that there might be real safety there. And that would be the actual perfection of view that cannot deteriorate no matter what—i.e., *saddhānusāri*-hood at the very least (see [SN 25](https://suttacentral.net/sn25-cakkhuvagga?view=normal&lang=en)).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mdvwsb/where_and_when_does_right_view_exactly_begin/n6ok6if/)** _2025-08-03 12:07:47_:
+
+    *(In reply to xpingu69):*
+    > It's worth mentioning here that the sutta you reference talks about the arahant (perfected view)  and the OP asked about the beginning
+
+    No. _diṭṭhisampanna_ is a term used unambiguously throughout the Suttas to refer to a noble disciple, i.e., anyone who has attained Right View. The translator of the text I quoted happens to translate *diṭṭhisampanna* as "perfected in view" rather than "accomplished in view" or similar, which isn't necessarily wrong either. An Arahant is more than perfected in view; he is perfected in knowledge and liberation as well (the "tenfold" path that some Suttas describe).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mdvwsb/where_and_when_does_right_view_exactly_begin/n6q9m04/)** _2025-08-03 17:42:22_:
+
+    *(In reply to xpingu69):*
+    > You got it right, the "perfected" confused me. I checked on suttacentral and there is a comment I think deserves attention: "A stream-enterer (or above) might unthinkingly act as if something were permanent (etc.), but on reflection they would know right away that this is not the case. "
+
+    > "A stream-enterer (or above) might unthinkingly act as if something were permanent (etc.), but on reflection they would know right away that this is not the case. "
+
+    That's not quite what it means for there to be "*no place, no opening* for someone accomplished in view to regard any saṅkhāra as permanent." The reading in that comment reflects the common impulse to lower the bar for right view, even at the cost of flatly ignoring the text (a tendency also seen with the Arrow Sutta).
+
+    It's because of that same incapability to regard things anything wrongly at the most fundamental level that a noble disciple cannot be struck by the second arrow *ever*; they're not just free from it "on reflection."
 
 ---
 
