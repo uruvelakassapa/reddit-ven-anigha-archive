@@ -9,6 +9,80 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by place_of_coolness _2025-08-16 10:17:19_
+### [The skillfulness of being open about your understanding](https://www.reddit.com/r/HillsideHermitage/comments/1mrr653/the_skillfulness_of_being_open_about_your/)
+
+Something I've struggled with a lot is the question of how to share your understanding of the Buddha's teaching with other people. It seems like it would be quite unwholesome to spread an incorrect or faulty explanation of the Buddha's message to others, but without the willingness to do so, the message can't be shared at all. Sure, you could quote what other people have said about it, but there's no guarantee that they had a correct understanding of it either. You could quote suttas, but those are prone to misinterpretation in a world where misinterpretation of them abounds, not to mention the problems in the various translations. 
+
+Furthermore, Ajahn Nyanamoli says that it's important to speak from your own understanding and to not just repeat what others say, and not to be afraid of looking like a fool in doing so. I resonate strongly with that encouragement, but at the same time I wonder about the kammic consequences of doing so. Even if you're not formally adopting the role of a teacher, you're still responsible for the views you're putting out into the world with your speech. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mrr653/the_skillfulness_of_being_open_about_your/n91ew6v/)** _2025-08-16 17:18:57_:
+
+    Sharing your views with the world is only truly perilous in a specific context: when someone treats you as an authority and lacks sufficient ability to judge whether what you say is right or wrong.
+
+    In that case, you should as a rule refrain from giving anything but the most rudimentary, impossible-to-be-wrong advice like "keep the precepts, read the Suttas, and reflect on the sufferings that you're still liable to," when you know you don't see the Dhamma for yourself yet. But other than that, it's worth trying to put your understanding into words, as that in itself can show you that there isn't as much of it as you thought there was. You just have to keep discussion within limits when the other person isn't significantly more advanced than you, as things can then quite quickly drift into aimless chatter that in the end fails to get either party any closer to the goal.
+
+---
+
+**r/HillsideHermitage** | Posted by craveminerals _2025-08-14 17:51:49_
+### [Making use of a monotonous job- how to tell apart beneficial training & self mortification?](https://www.reddit.com/r/HillsideHermitage/comments/1mq7uwh/making_use_of_a_monotonous_job_how_to_tell_apart/)
+
+Friends, 
+
+Us laypeople have no choice but to make use of ordinary daily life for developing the mind. Even though it’s a compromised and non-ideal environment, you have to make use of what you got. 
+
+Currently I have a monotonous job at a factory where I basically do the same sets of tasks every week, in which I have plenty of time to reflect about Dhamma while doing this, or to simply train in enduring the monotony. (It’s also not a very social job, unless you make it so. I’m lucky in that way) 
+
+
+A little over half a year ago, I listened to audiobooks, music, and dhamma talks etc. to distract myself from the monotony. Then I begun listening to pretty much only dhamma talks. 
+Then I thought, maybe I could stop distracting myself from these tasks and just do them in silence all day (though interspersed with some dhamma talks some days / now and then)
+
+So this is what I’ve mostly done the last few months, especially now since I took the precept on entertainment, but I want to be careful not to slip into self mortification. Question is, how do I notice when I do? 
+
+My mind is mainly either simply bored, or constantly groaning and complaining, longing for the next break. I’ve been trying to watch and learn from the mind as it moves around under this pressure, as I endure its moods, while also trying to calm it within this context. But it’s almost always stressful and frustrating, and at times I’ve wondered if it’s overly so. 
+
+Most days, except some few and far between, I feel like I’m in stress, with unpleasant physical symptoms like tight ribcage, unconsciously tensing muscles, etc. (though this has been the case more or less for years) Even my sleep is stressful. Previously I’ve chalked it up to past kamma, and it being a necessary phase to go through while training in the 7 precepts, as I have only been training in all of them a short while, but I’m wondering if I’m also making this worse because of inadvertently mortifying myself or something. 
+
+Self mortification is, as I’ve understood it, when you think that pain or suffering is always good for practice (and all delight or pleasure is always bad). But that’s not how the problem of suffering is solved, because you’re overlooking the craving behind this mortification and inadvertently feeding it. You’re punishing or tormenting the mind even when it’s not doing anything wrong. This is why trying to “do nothing” and enduring that no matter what isn’t helpful, because you’re not teaching the mind anything nor learning from it. 
+
+From what I’ve gathered from some of Bhante Anīgha’s comments and HH’s main messages is that in this context I can still allow myself to do things like listen to dhamma talks, or other “neutral” themes, as long as my mind doesn’t throw a tantrum if I stop in the middle of it. So I’m thinking of doing that from time to time, but mainly enduring boredom, or whatever emotional states, most of the time. And just keep on trying to calm it within this pressure. 
+
+Lately I’ve also thought it to be important to let it roam freely within this context, and let it ponder this or that, and also to bring up wholesome themes now and then to try and gladden it, etc. 
+
+
+What do you think, does this sound like something beneficial? Or is there something I should be aware of, that I’m probably missing? 
+
+Again I realize this isn’t an ideal environment in any case but I wanted to see if you have any feedback or suggestions. 
+
+
+Thank you! 
+
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mq7uwh/making_use_of_a_monotonous_job_how_to_tell_apart/n8vecvo/)** _2025-08-15 17:58:33_:
+
+    You should question either of the two decisions (just doing the work vs. adding something on top) every single time. That is the only way to not fall into indulgence or self-mortification, which are just two superficially different ways of assuming an action to be fine by not seeing the underlying motivation.
+
+    That means that you will have to accept the uneasiness of not knowing what to do in advance, and that's pretty much the whole point. That's how you train yourself away from *sīlabataparāmāsa* and make the recognition of your own presently enduring citta the sole reference point for what's beneficial or unbeneficial.
+
+---
+
+**r/HillsideHermitage** | Posted by spiffyhandle _2025-08-11 13:38:05_
+### [Can an action be rooted in both a wholesome and unwholesome intention?](https://www.reddit.com/r/HillsideHermitage/comments/1mnd7va/can_an_action_be_rooted_in_both_a_wholesome_and/)
+
+Here's an example. I was considering having coffee, which is something I normally abstain from. I was tired and thought that if I had some coffee I'd be more alert and could study the dhamma better. However, I also noticed a desire for the taste and for the caffeine buzz. 
+
+Is this an example of having wholesome and unwholesome intentions? Or, do I need to reflect more clearly and see which is the true intention?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mnd7va/can_an_action_be_rooted_in_both_a_wholesome_and/n8f4ep4/)** _2025-08-13 05:27:01_:
+
+    The "true intention" is not something you reason out; it's where the affective compulsion is. So you don't need to sit down and try to figure out what the intention is; you just need to admit to yourself what's already there and not act out of it if it's clearly unwholesome (desire for a specific taste being such an instance).
+     
+    On that front, intentions can only be either wholesome or unwholesome (i.e., they will either feed the already arisen craving or starve it).
+
+---
+
 **r/HillsideHermitage** | Posted by spiffyhandle _2025-08-08 10:44:53_
 ### [What do you make of this contemplation that reduces sensual desire?](https://www.reddit.com/r/HillsideHermitage/comments/1mkruwv/what_do_you_make_of_this_contemplation_that/)
 
@@ -23,6 +97,91 @@ When I recall that all experiences are mental, the desires for sensuality decrea
     This seems to be based on the idea that things are "not ultimately real (or somehow not substantial) because they're just labels/concepts," and would be one form of the commonly but falsely conceived dichotomy between appearance and reality, which is one of the quintessential wrong views. There is no higher reference point for what is real apart from labels/concepts, and there *cannot be* (except in one's assumption).
 
     For the same reason, such a contemplation would not truly reduce sensual desire but rather obscure the *trigger* for it (the original attractive significance of the experience), and that's basically what management is. It's the same as focusing on the good aspects of a person and ignoring the bad ones so that the ill will towards them subsides, overlooking that the actual ill will is the resistance against the negative aspects *when they are there.* In other words, ill will is the *resistance against the unpleasant feeling*, not the absence of a pleasant/neutral feeling in regard to the person.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mkruwv/what_do_you_make_of_this_contemplation_that/n7waf2s/)** _2025-08-10 05:40:30_:
+
+    > What if this is done only as a perception and ontology is put aside?
+
+    Still, the most acute problem is that it's only managing the trigger rather than training the mind out of the response. Wrong "ontology" is also not purely an intellectual mistake and doesn't happen by accident; regarding things in a certain way can provide a premature sense of relief while simultaneously covering up the lack of true safety that remains.
+
+    > What is the difference between doing metta in neutral mindset to prevent ill will vs doing this perception in a neutral mindset to reduce sensual craving?
+
+    Since you haven't specified how you understand the practice mettā, it wouldn't be a fair comparison.
+
+    As a general principle, anything can be done as management, and it almost certainly will be when someone isn't sufficiently established in restrained conduct. They won't be able to face the pleasure/displeasure and tame their lust/aversion in regard to *that* because for them, facing the actual trigger rather than their tampered version of it will be too overwhelming and put them in the vicinity of acting out.
+
+    [The only type of samādhi that is beneficial requires enduring the arisen pressure of things, however it arises](https://suttas.hillsidehermitage.org/?q=an5.113). Only on that basis can one cultivate actual mettā.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mkruwv/what_do_you_make_of_this_contemplation_that/n8ew9uf/)** _2025-08-13 04:20:28_:
+
+    > Could you please help clarify the difference between what you are criticizing and what Ven. Sāriputta is suggesting here? 
+
+    The difference is in where one perceives the problem to be. 
+
+    What that Sutta points at is that if you see your citta—which anyone who sees benefit in contemporary mettā practices does not—you can highlight the factual positive aspects of a person as a way of balancing the picture. The irritated citta will want to fixate on the negative things and actively ignore the rest, and if you let it do that, its irritation will only be maintained.
+
+    Crucially, that effort would come with the tacit recognition that attending to what's positive in someone is not what mettā is, and conversely, attending to what's negative is not what ill will is (and that recognition is automatically absent to the degree that the citta is not seen). And that is why one could overcome ill will completely without ever making an effort to think a single positive thought about anyone, instead taking other approaches that identically result in not giving center stage to thoughts of annoyance whenever they try to pressure you and thereby indirectly taming the citta.
+
+    If you were to practice what that Sutta describes rightly even once, you would be capable of freely and fearlessly dwelling on the negative aspects—the "trigger"—without the previous ill will coming back, because the actual citta would've been purified at least momentarily (rather than the objects managed).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mkruwv/what_do_you_make_of_this_contemplation_that/n8gorf3/)** _2025-08-13 13:17:19_:
+
+    > It seems to me that they will go wrong by blowing whatever positive qualities they can find way out of realistic proportion, creating a caricature 
+
+    Yes, that's how it quite commonly plays out. But the core problem is much broader, i.e., not seeing one's citta. You just can't take any significant steps towards putting out a fire that you don't even see—not with any reasonable degree of reliability, at least. All you will realistically be able to do is not be reminded of the smoke through some secondary management or other (a mask, plain and simple avoidance, etc.).
+
+    The least wrong thing that someone who doesn't see their citta (a puthujjana) can do is not try to resolve the discomfort of the irritation but instead leave it there without acting out of it even mentally, until gradually the place where the fire actually is becomes clear, which it will provided everything else is in place (precepts, celibacy, sense restraint, right instructions). Trying to *do* anything in response to what they perceive to be the ill will, even if not a coarse "thinking caricaturized positive thoughts," is almost guaranteed to take them in the direction of management still. It will be aimed at the sense objects and how they feel about them, and all of that will ironically be going along with the citta's resistance and its inability to endure things without interference.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mkruwv/what_do_you_make_of_this_contemplation_that/n8lvl8m/)** _2025-08-14 06:26:34_:
+
+    > Would you translate it the same way, or more like "attend" and "not attend"?
+
+    Certainly the latter. 
+
+    > But if it's simply "not attend", it's not that I should actively ignore anything (which is always a distortion of reality to eliminate the unpleasantness of the actual situation), but rather that you can only attend one thing at a time, so naturally if you attend to the positive aspects you will by default not be attending the negative aspects.
+
+    Exactly. And it's not like the word "ignore" is in itself wrong; it's the views and connotations that it normally carries for people: that they can intentionally "delete" something from their consciousness, overlooking that in order to not give attention to something, they have to be peripherally conscious of it. 
+
+    You could also say it's about not letting the negative aspects take center stage—not because that is wrong in and of itself, but because such attention *at that time* will automatically be polluted by the arisen irritation and feed it further. And not letting them take center stage means that you still know full well that they exist; you're just not intentionally "picking them up," so to speak.
+
+    > Because our starting point is that citta is effortlessly "magnetized" to the negative aspects of others. Even if I am not putting any effort to see the negative aspects of the other person, they simply "pop out" more than any other aspect, like they are obvious, and the citta will be revolving around them when it is overcome by ill will. 
+
+    Correct. The starting point is that the citta revolves around the negative aspects (or even the positive ones) *because* it doesn't want to endure the displeasure and is scrambling for a resolution to it. Everything, whether positive or negative, is being approached through the citta's unseen wrong attitude of "how do I get rid of this," i.e., craving. 
+
+    So that's why whether you blatantly proliferate the negativity or you try to focus on positivity as a solution in itself, you will still be giving in to the same thing. If you see your citta though, then you could give attention to the positive aspects as a way of *not letting it* try to get rid of the displeasure by focusing on the negative like it wants to do. Incidentally, discernment of the citta was likely taken for granted in the Sutta in question given that it was directed to bhikkhus.
+
+    > So with this perspective established, I can actually start to practice not resisting the unpleasantness of the person. That way, I am taming citta so that, it learns that it's better to be unmoved even in the presence of factual displeasure. So in the future, even if a situation or person factually has nothing but very negative aspects, it makes no difference to the citta (as it has now been trained to be unmoved by the pain), so it will not be triggered into ill will.
+
+    Yes, that's right.
+
+    > So, the picture is skewed, it's not an accurate representation of the person, it's overemphasizing the negative aspects.
+
+    You will never have a perfectly accurate representation of anybody. The picture will always be skewed simply because it comes through your point of view. And that's fine; the sole problem is when the picture is skewed even further by greed, aversion, or delusion.
+
+---
+
+**r/HillsideHermitage** | Posted by aravindp84 _2025-08-08 06:12:46_
+### [Is suffering always simultaneously present when there is craving?](https://www.reddit.com/r/HillsideHermitage/comments/1mknkic/is_suffering_always_simultaneously_present_when/)
+
+@Bhikku Anigha
+Kindly help me see this
+
+I’m not always able to see suffering present simultaneously in my present experience when there is a craving present, as explained by patticasammupada.
+
+For example, when there is a sweet (or any sensory indulgence) near me and I have a want to eat that sweet, I cannot see in what way or form suffering is also present simultaneously during that time, in my experience. I can think about the various ways that this craving can lead to suffering by
+- leading to a craving for more sweets
+- forming a habit of addiction
+- not leading to a lasting satisfaction or pleasure
+- leading to discontent with lesser and lesser pleasure when repeated multiple times
+- I may end up with a situation where I cannot fulfill my craving by getting the sweet due to some change 
+..and so on
+
+But practically for me, at that moment of craving for the sweet, these forms of suffering are only possible 
+(or even definite) experiencences in the future and not present now.  So, these recollections don’t completely undermine the value of the sensory experience of the sweet at that moment and hence don’t work all the times. (If there is no sweet with me but I’m craving for it then I see the suffering simultaneously present there. But, even in some situations like this, there is a doubt sometimes, that whether this is suffering if the wanting is not bothering me immediately and is something I can fulfill at a later time ).
+
+Since I can’t see the suffering present simultaneously with the wanting (as in Paticasammupada), I’m valuing the sensory experience at that time. ( I think at that moment that this is the pressure of both sensuality and doubt, present at that moment, but even that doesn’t make me undermine its value at times). I understand that precepts need to be followed, but I feel that seeing the suffering simultaneously present in the experience at that time, will help me even more.
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mknkic/is_suffering_always_simultaneously_present_when/n7wc773/)** _2025-08-10 05:56:44_:
+
+    You see the danger as simultaneously present with your craving by recognizing your *liability* to unpleasant outcomes instead of focusing on any one of those outcomes. None of the unpleasant outcomes would necessarily manifest right away, but by welcoming craving, you absolutely are putting yourself *here and now* in a vulnerable position where those things would affect you. And that is in and of itself fearsome—like being in the middle of a warzone even if no bullets have landed on you yet.
 
 ---
 
