@@ -14,6 +14,137 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by 2footie _2025-08-22 04:49:36_
+### [Is enjoying being with my son a barrier?](https://www.reddit.com/r/HillsideHermitage/comments/1mwxc0k/is_enjoying_being_with_my_son_a_barrier/)
+
+>Bhikkhus, without having abandoned six things, one is incapable of [practicing the four 
+satipaṭṭhānas]. What six? Delight in work, delight in talk, delight in sleep, **delight in 
+company**, not guarding the doors of the sense faculties, and being immoderate in eating.
+Without having abandoned these six things, one is incapable of practicing the four satipaṭṭhānas.
+
+— AN 6.117
+
+Is it considered delight in company? How does a parent who loves their child practice? Is it possible? What about practising when the child is at school?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mwxc0k/is_enjoying_being_with_my_son_a_barrier/na17muq/)** _2025-08-22 07:00:11_:
+    > Is it considered delight in company?
+
+    Yes, if the pleasure you get from it is the motivation for being with your son. It may not always be.
+
+    > How does a parent who loves their child practice?
+
+    By de-emphasizing the love aspect and not letting it take center stage, and instead emphasizing the more neutral parental responsibility aspect, thereby wearing away the intoxication and coming closer to the attitude you would have towards taking care of somebody else's child . And this change of outlook is only possible if you're already practicing the precepts, celibacy, and sense restraint; otherwise there will be no basis for you to practice on the level of a purely mental outlook. The intended change of attitude will just be an abstract idea.
+
+    You would then engage with your child just to the extent of fulfilling your duty, not seeking any emotional satisfaction from it. This would also ironically make you a better parent, since love only serves to narrow down your perspective and incline you towards choices that prioritize your own desires over objectively helping the child.
+
+---
+
+**r/HillsideHermitage** | Posted by robkhaw _2025-08-21 04:36:52_
+### [How does distraction work?](https://www.reddit.com/r/HillsideHermitage/comments/1mw1dsu/how_does_distraction_work/)
+
+Why does distraction (e.g various forms of entertainment) seem to "work", if only temporarily, to relieve present unpleasantness?
+
+For example, if I am sick, I can distract myself for a while by engaging with some entertainment or having a conversation. The unpleasantness of the sickness is not felt as sharply while I do this. Why exactly is that? 
+
+Is it just that it's a natural property of attention? Or maybe that the distraction acts to remove the resistance toward the unpleasantness temporarily?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mw1dsu/how_does_distraction_work/na16536/)** _2025-08-22 06:46:11_:
+    > Why does distraction (e.g various forms of entertainment) seem to "work", if only temporarily, to relieve present unpleasantness?
+
+    It doesn't if you look hard enough. 
+
+    > The unpleasantness of the sickness is not felt as sharply while I do this. 
+
+    Indeed, but the critical point is that that unpleasantness was never what was making you suffer to begin with. It was the resistance against it, and so by trying to turn away and distract yourself from it with something more pleasant, you are doubling down on the root of the problem and making it worse even though it doesn't feel like it.
+
+    How come it doesn't feel like it? Because the less you have trained yourself to see the signs of your mind, the more you will be overlooking the truly relevant but more subtle dukkha that is still equally present and *growing*, and you will only see the also present but very superficial pleasantness of the distraction. But if you were to abruptly stop the distraction, you would immediately recognize the dukkha that had been there all along and that has now only intensified.
+
+    As the Buddha put it, it's like a hungry dog gnawing on a bone with nothing but blood on it. The bloody bone "feels" better than a fully clean one because it provides a pleasant taste, but absence of a pleasant taste was never the issue to begin with. It was the hunger, which is only being worsened and highlighted even more.
+
+---
+
+**r/HillsideHermitage** | Posted by spiffyhandle _2025-08-18 22:09:34_
+### [How soon should someone begin training yoniso manasikara?](https://www.reddit.com/r/HillsideHermitage/comments/1mu07xi/how_soon_should_someone_begin_training_yoniso/)
+
+In the gradual training, training yoniso manasikara isn't an explicit step. Is this something one should do from the beginning or is there a better point to start?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mu07xi/how_soon_should_someone_begin_training_yoniso/n9jxq2b/)** _2025-08-19 16:22:21_:
+    Apart from keeping the precepts—which strictly speaking isn't even virtue but the outward approximation of it—there is no training happening at all without yoniso manasikāra (hence it is mentioned in every single section of MN 2). 
+
+    You cannot even restrain your actions of body and speech rightly unless you are discerning the state of your citta, and that is already the cornerstone of yoniso manasikāra.
+
+---
+
+**r/HillsideHermitage** | Posted by xpingu69 _2025-08-18 10:58:25_
+### [Difference between vyāpāda, paṭigha, and dosa (ill-will, aversion, hatred)](https://www.reddit.com/r/HillsideHermitage/comments/1mtiryz/difference_between_vyāpāda_paṭigha_and_dosa/)
+
+I often see the terms *vyāpāda* (ill will), *paṭigha* (aversion), and *dosa* (hatred/anger, one of the three roots). But I’m not clear how they differ in practice.
+
+Here’s my example: There’s a person I “hate.” When I come into contact with this person (the idea rather), my mind starts narrating : *“Here they are again, behaving badly, doing wrong, etc.”* Angry commentary, judgments. The inner voice saying those words. I don't mean an angry feeling. There is a feeling, but it comes before the thoughts. I mean the actual speech in the skull.
+
+My questions are:
+
+* Are these thoughts themselves *vyāpāda* (ill will) or *dosa* (hatred), just because of their content?
+* Is *paṭigha* the deeper movement of resisting or pushing away what arises — e.g. when I think “I’m a Buddhist, I shouldn’t be angry,” and then try to suppress, avoid, or not acknowledge those thoughts? In other words, is the real ill will not in the thought content, but in resisting and fighting with it?
+* How should I orient myself? Should I practice **not resisting whatever arises** (even ugly thoughts of lust, anger, greed) and subsequently not delighting in beautiful thoughts, or should I aim to **change the content** of the thoughts directly? Try to somehow prevent them from arising in the first place?
+
+In short: what exactly is the difference between *vyāpāda*, *paṭigha*, and *dosa*, and how do these map onto this lived example?
+
+In my own experience I suffer more if I try to resist and deny the "bad" thoughts, whereas when I just let it be I feel fine. But letting it be doesn't always work, if I am not mindful enough or don't properly attend to it, then the resisting happens, I sort of get lost in the story and try to change the story (by resisting). It's a slippery slope.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mtiryz/difference_between_vyāpāda_paṭigha_and_dosa/n9js155/)** _2025-08-19 15:55:16_:
+    > Are these thoughts themselves vyāpāda (ill will) or dosa (hatred), just because of their content?
+
+    No. The attitude behind them is. Try thinking those same thoughts in regard to someone who you rationally know is doing something wrong but that doesn't emotionally affect you at all, and you'll see that the thoughts are not the problem.
+
+    > Is paṭigha the deeper movement of resisting or pushing away what arises — e.g. when I think “I’m a Buddhist, I shouldn’t be angry,” and then try to suppress, avoid, or not acknowledge those thoughts? In other words, is the real ill will not in the thought content, but in resisting and fighting with it?
+
+    *Paṭigha* or resistance is the "background" leaning away from the feeling that is unpleasant. And that background is where your *citta is,* i.e., the attitudinal background to the thoughts that you have no direct say in but is rather fed or starved by your intentional actions (e.g., of welcoming the fault-finding thoughts that offer themselves as a defense mechanism against the unpleasant feeling, or refraining from doing so).
+
+    > How should I orient myself? Should I practice not resisting whatever arises (even ugly thoughts of lust, anger, greed) and subsequently not delighting in beautiful thoughts, or should I aim to change the content of the thoughts directly? Try to somehow prevent them from arising in the first place?
+
+    You should practice distinguishing the thoughts and their content from the attitude of the "wild elephant" (citta) behind them, as well as recognizing that accepting such thoughts is a problem only when/because it reinforces the citta's existing resistance to the unpleasant feeling. You will never find that resistance by looking at the content of the thoughts themselves because it's not there. That is why one needs to learn to see the (necessarily indirect) signs of the citta in order to understand what actually is wholesome or unwholesome.
+
+    To use an analogy I often give, the fact that you shouldn't let a child who's throwing a tantrum go to the park is not because *going to the park* is bad, but because of the tantrum that is inevitably being taken at face value and caved into when you take the child to the park *at that time*.
+
+---
+
+**r/HillsideHermitage** | Posted by FenixCoan _2025-08-17 07:58:08_
+### [Unable to ordain and a hut](https://www.reddit.com/r/HillsideHermitage/comments/1msl1el/unable_to_ordain_and_a_hut/)
+
+Hello, I would like to go through the main thoughts I have been having regarding my present situation and see if anyone feels like sharing how they see it.
+
+I am transgender. Many consider that to be a paṇḍaka and that therefore I cannot ordain. Others don't and would ordain me under the condition that the fact that I am transgender remains between the abbot, the preceptor and I, or the small resident community and I. I feel uncomfortable about this. To me it seems a bit deceitful to visiting monks, creates uncomfortable situations if ever moving, could "force" me to lie, and worries me regarding Pāṭimokkha recitations with unknowing monks. There was another option, which never formalized, about ordaining openly. I then came to the conclusion that I should not ordain. Being open would expose the Sangha to criticism, discussions, and even conflicts, and although different, this has already happened with female ordination. I am not saying it is wrong or should not be done, but my goal is Nibbana. Ordaining surrounded by controversy, Sangha disagreements, and Vinaya ambiguities does not feel like a pure, carefree, blameless life. It seems I would be discussing "mundane issues" (transgender people, Vinaya technicalities) quite often, and not only that but I would be supported by them. So I decided against ordaining. I have remained a lay person, wandering around, visiting monasteries, and working seasonal jobs. I have also remained with not many possessions, in celibacy, and attempting (and failing) to live under the eight precepts. This is the seventh year I live like this.
+
+The circumstances are such that I can now move permanently into a secluded place (there are two options, actually), and not worry about working and money. I need about 50€ a month to live there, which can be covered initially by some savings and afterwards by two people who have told me (without my asking) they are willing to support me financially (in general). The conditions, for not being a bhikkhu, seem quite lucky and pure. I could dedicate all to Dhamma without interruptions, distractions, or lay livelihood concerns. As of now, the plan is to move to one of these places in one or two months. However, I have concerns, and this is generally how I have been thinking about them:
+
+Especially in one of the places, I would have (likely) no human contact for as long as I stay there. The other place does have two farmers nearby, but when I was there I barely saw them twice a week, and we didn't talk much. Of course, I have the Suttas and other books, so I would be in good company.  I would also visit a monastery when I feel I may need it (Samaṇadīpa is not extermely far from one of the places). But it concerns me not having personal checks; I feel I am bound to fall ino deep delusions again and again and struggle to come out of them, maybe fail completely to do so. I worry that I am bound to go astray without frequent interactions with wise people (friendship is not half the path, but the whole path...). Of course, I don't have frequent interactions now either, and live in environments that are generally less supporting. But I feel as a bhikkhu you are directly supported by the Sangha and the Vinaya. Without that, as a putthujjana, could I ever find the way in solitude? I truly feel I need a more suitable life. I have previously benefited from solitude, so why not do it full time? It seems to me the best of lives available to me right now.
+
+Will appreciate any thoughts. Does it seem like a good idea? Is such isolation not recommended in some way under these circumstances? Are there better ways to go about my situation? I know I can only answer myself, but still others may point to things I had not considered. Thank you!
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1msl1el/unable_to_ordain_and_a_hut/n97qsgc/)** _2025-08-17 18:00:57_:
+    > But it concerns me not having personal checks; I feel I am bound to fall ino deep delusions again and again and struggle to come out of them, maybe fail completely to do so. I worry that I am bound to go astray without frequent interactions with wise people (friendship is not half the path, but the whole path...). 
+
+    That is a valid concern. And it's not only about interactions with wise people; that's certainly helpful, but lack of it is by no means a dealbreaker for one who is really earnest if at least the true teachings are available.
+
+    Living around other people to a degree* is important even if they are completely misguided. It keeps you from falling into the false sense of comfort that can easily come from having your environment and daily activities too much in your own control. Settling into that circumstantial safety to the degree that you start overlooking the direction of actual practice and acquiring further wrong views is not unlikely for most, and you wouldn't know for sure whether you're a rare exception to the rule until much later. If it turns out that you're *not*, you might not definitively know precisely because you would lose the perspective that would reveal that to you.
+
+    Have you considered ordaining as a novice indefinitely? That might be more likely to get a pass, avoid all the complications you described, and also gives you the truly essential bits of the monastic life (the 10 precepts and the heightened accountability).
+
+    \* Not to the point of building emotional bonds though, and ideally still being alone for a large chunk of the day.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1msl1el/unable_to_ordain_and_a_hut/n9jj53n/)** _2025-08-19 15:13:45_:
+
+    *(In reply to FenixCoan):*
+    > Hello, thank you for the answer. Yes, when I have been in solitude before (in short periods, less than three months), it already happened that I started to feel really joyful and at peace, and then later, when going back to live around other people, I realized that I had simply become comfortable, taken up some wrong views, and that in general not much progress had been made. So that is definitely a concern. 
+    >
+    > To be honest I have never been in a place that would offer me the possibility to indefinitely be a novice while still having a chance at being centred in practice. It has always been the case that being a novice comes with daily kitchen work (or other kind of works), and that the option would never come to retreat a bit more. That is why I had not considered that. But I may consider it, and it might be that even with doing jobs it is a better place to be. I will think on it. Thank you again.
+
+    > It has always been the case that being a novice comes with daily kitchen work (or other kind of works), and that the option would never come to retreat a bit more.
+
+    That is a non-issue. As long as you get to spend a chunk of your day in seclusion and the work you have to do isn't overly social (it likely won't be in most reasonable monasteries), you will have more "retreat" time than you can even realistically put to good use—certainly for the first several years at least.
+
+---
+
 **r/HillsideHermitage** | Posted by place_of_coolness _2025-08-16 10:17:19_
 ### [The skillfulness of being open about your understanding](https://www.reddit.com/r/HillsideHermitage/comments/1mrr653/the_skillfulness_of_being_open_about_your/)
 
@@ -25,6 +156,46 @@ Furthermore, Ajahn Nyanamoli says that it's important to speak from your own und
     Sharing your views with the world is only truly perilous in a specific context: when someone treats you as an authority and lacks sufficient ability to judge whether what you say is right or wrong.
 
     In that case, you should as a rule refrain from giving anything but the most rudimentary, impossible-to-be-wrong advice like "keep the precepts, read the Suttas, and reflect on the sufferings that you're still liable to," when you know you don't see the Dhamma for yourself yet. But other than that, it's worth trying to put your understanding into words, as that in itself can show you that there isn't as much of it as you thought there was. You just have to keep discussion within limits when the other person isn't significantly more advanced than you, as things can then quite quickly drift into aimless chatter that in the end fails to get either party any closer to the goal.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok_Lemon_3675 _2025-08-15 18:57:59_
+### [Revenge of the hindrances, restraint and not acting out vs active contemplations / asubha](https://www.reddit.com/r/HillsideHermitage/comments/1mr6x9l/revenge_of_the_hindrances_restraint_and_not/)
+
+I'm now at 8 months of keeping (externally) unbroken celibacy, which is far beyond my previous attempts. For some time now it has been relatively effortless, but surprisingly sexual desire and thoughts suddenly came back stronger again in the past 2-3 weeks. I still don't feel like there is a real risk of acting out externally, but it has happened in dreams and I noticed more frequent intrusive sexual thoughts / daydreams. (For the sake of completeness of context: I am also keeping the rest of the 7 precepts to the best of my ability with the occasional minor slip up, usually in the direction of distraction/entertainment/idle chatter)
+
+Is it normal for hindrances to come back in waves or is it necessarily something I did to cause that? Because I can't remember doing anything out of the ordinary. On the contrary, on average I would say I've improved my restraint and for a month now I've made it a daily habit to try to usually spend at least 1-2h in the forest in seclusion. And I say on average because for example this week I've been more tired and then I am more likely to click on youtube video suggestions out of distraction/entertainment when I otherwise wouldn't.
+
+This also strongly highlights to what extent I'm still liable to be bothered by the hindrance of sensuality when in the past at other times it seemed like I'm relatively more safe and more of a peripheral phenomenon. Lately it has been more in my face and my mind is clearly still delighting in the prospect of pleasure and that's clearly a problem.
+
+So now the question arises of whether I should simply continue trying to endure it without acting out so that I can then see it as anatta, or if/when it is the right time to try to actively discern the danger or asubha.
+
+I noticed that in the HH talks the way the instructions are presented shifted from more focus on talk of "doing the work", to more emphasis on what you "don't do". Or at least that's the impression I got.
+
+That certainly seems to be a safer way to frame it because of the risk of trying to do something to \*get rid\* of the pressure, but that leaves the question of the right time and place for asubha or other active contemplations.
+
+If I would try to answer this myself, I would think that the endurance has to be established first. I have to be able to see the pressure, the suffering \*there\* in the indefinite/unconditional sense. Then \*within\* that I could simply leave it as is and try to maintain mindfulness of the pressure that implies that craving is there without acting out of it, or I could try to set up the context of the disgusting aspects of that which the mind desires while the desire/pressure/dukkha remains and leave it like that. Or I could think about the danger in sensuality.
+
+The question is, does it matter what I choose at that point? (If my thinking so far is correct of course).
+
+In any case, it's clear that I can't \*get rid\* of \*that\* in the immediate sense, it's something I am subjected to. Still and again. In some way it seems like it's the same pressure that continues, that I am under, that I am enclosed by. Day after day. Even if superficially it's alleged objects that pretend that they would relieve me of it, it seems like the "same" pressure.
+
+And I suppose this is also where (again?) faith comes in, because it seems like whatever way of mindfulness/contemplation I choose, I could only apply it over and over again without any immediately visible results. And that raises the question of how (if?) I can be sure beyond doubt that I am doing it correctly.
+
+Thank you for reading, I would appreciate any advice.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mr6x9l/revenge_of_the_hindrances_restraint_and_not/n94o4o9/)** _2025-08-17 05:07:29_:
+    > Is it normal for hindrances to come back in waves or is it necessarily something I did to cause that?
+
+    It's normal.
+
+    > So now the question arises of whether I should simply continue trying to endure it without acting out so that I can then see it as anatta, or if/when it is the right time to try to actively discern the danger or asubha.
+
+    Although you technically could "do the right reflections" regardless of the underlying state, the problem is that they will almost automatically be done with the wrong motivation of wanting to get rid of the pressure if the underlying state isn't somewhat stable. An unstable mind is nothing other than a mind that craves to get rid of pressure harder, so everything done within that naturally gets infected with the same goal. Even "enduring the pressure" will often be done to get rid of it, but even then it won't be as inaccurate as doing asubha as a way of management (as would easily happen when the pressure is too strong).
+
+    Asubha, etc., is done properly when it highlights the nature of the pressure that you are already capable of enduring so that the mind becomes even less likely to falter in the face of it—[more like a battle elephant](https://suttacentral.net/mn125/en/nyanamoli-thera?lang=en&reference=main&highlight=false#nya12). 
+
+    (Incidentally, this is quite contrary to the spirit behind most people's practice, which is softening the threats experienced by the elephant as much as possible. That tendency is a natural result of insufficient virtue and sense restraint—with little endurance developed, the one possible direction to go will be further management).
 
 ---
 
@@ -194,6 +365,22 @@ When I recall that all experiences are mental, the desires for sensuality decrea
     > So, the picture is skewed, it's not an accurate representation of the person, it's overemphasizing the negative aspects.
 
     You will never have a perfectly accurate representation of anybody. The picture will always be skewed simply because it comes through your point of view. And that's fine; the sole problem is when the picture is skewed even further by greed, aversion, or delusion.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1mkruwv/what_do_you_make_of_this_contemplation_that/n9jmjly/)** _2025-08-19 15:29:38_:
+
+    *(In reply to mentalw0rk):*
+    > Thank you for the clarification Bhante, this is very helpful.
+    >
+    > \>Correct. The starting point is that the citta revolves around the negative aspects (or even the positive ones) *because* it doesn't want to endure the displeasure and is scrambling for a resolution to it. Everything, whether positive or negative, is being approached through the citta's unseen wrong attitude of "how do I get rid of this," i.e., craving.
+    >
+    > I want to make sure I understand what you're pointing at. Lets say someone is being quite loud in an enclosed public area and not having regard for other's peace, blasting music. Because of the presence of unpleasant feeling, the citta will instantly magnetize to the unpleasant negative aspects of that person and revolve around those aspects. Even if you try to pay them no mind, the citta continually keeps pulling towards the negative aspects of that person. Revolving around thoughts like, "Wow how annoying, they are being so rude" "When will this guy stop?" or even blatant ill-will like "I hope someone breaks his speaker".
+    >
+    > Although citta is agitated and revolving around these negative aspects is actually agitating it even more, having these thoughts also gives it a kind of relief. It's like the mind is "venting" to itself or feeling "righteously indignant" (which is pleasant), because it has not been trained to withstand the weight of unpleasant feeling head-on. t's quite similar to the analogy of scratching the itch. While it is making the problem worse (instilling the habit of resistance to unpleasant feeling), it also provides a kind of relief on a surface level. This is the "negative aspect strategy" for the resolution of unpleasant feeling.
+    >
+    > The "positive aspect strategy" to resolve unpleasant feeling is what often gets recommended even in Buddhist circles. Focusing only on the positive aspects of a person or shifting your perspective to a more positive one so that you stop being angry. However, this is fundamentally the same mistake; instilling the habit of "getting rid of the unpleasant feeling" on a superficial level, rather than practicing non resistance of unpleasant feeling in order to train the citta to be unmoved in the presence of unpleasant feeling.
+    >
+    > Instead of these two strategies, one should endure the factual unpleasant feeling head-on in order to train the citta to not resist it. And if the citta is pulling towards focusing on the negative aspects in an attempt to vent or feel indignant, one can resist this tendency of citta, and instead attend to the positive aspects to broaden perspective. In this way, one is still aware of the negative aspects and they continue to be unpleasant, but you are not letting citta "get its way" and skew perspective in an attempt to escape unpleasant feeling.
+
+    Yes, that’s exactly what I was trying to convey.
 
 ---
 
