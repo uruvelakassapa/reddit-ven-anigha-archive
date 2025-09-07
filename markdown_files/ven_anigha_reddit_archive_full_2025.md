@@ -14,6 +14,16 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by xpingu69 _2025-09-05 13:20:16_
+### [Desire to buy bicycle](https://www.reddit.com/r/HillsideHermitage/comments/1n953j2/desire_to_buy_bicycle/)
+
+I have this desire to buy a new bicycle. It's like pressuring to buy it. I really want it, even though I don't strictly need it, I could buy a very cheap one too. I have enough money for it though. I just think it's greed so I won't do it. But I feel this desire as a pressure to buy it, like almost like I need it on an emotional level, not a practical one. I think it would be wrong to buy the bycicle. Only because I think it's affected with greed, even if it's subtle. But for how long do I have to endure this desire? And does it mean I can never get it? Or can I buy it in a moment when it's not affected by greed? I really want to have it, but I think it's unwholesome. Also when the desire goes away and I reflect on it, the bicycle appears as nothing special. But even then I would buy it. But with the desire it appears as something special. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1n953j2/desire_to_buy_bicycle/ncokvsg/)** _2025-09-06 04:39:43_:
+    If there was no pressure behind it—in which case there would be no grief at the prospect of not getting the bicycle—then it would be fine. But it sounds like there is obviously pressure.
+
+---
+
 **r/HillsideHermitage** | Posted by baubleballs _2025-08-27 21:22:39_
 ### [Idle talk](https://www.reddit.com/r/HillsideHermitage/comments/1n1tkux/idle_talk/)
 
@@ -77,6 +87,18 @@ Thank you in advance.
     > Also from what I understand one shouldn't attempt to purify the mind unless one is accomplished in the precepts, which I'm not sure what that would constitute because ***only Arahants and Anagamis? are completely accomplished in them*** from what I understand. 
 
     No, far from it. Being accomplished in the precepts means that keeping them has become your natural, constant state and no longer requires active effort. It doesn't mean that you will never break them under any *unforeseen* circumstance.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1n1r8ir/seclusion/nc1k30q/)** _2025-09-02 16:57:42_:
+
+    *(In reply to Naxglazar):*
+    > I have a hard time remembering precisely but I think what happened was that aversion started coming up while I was walking back and forth and then at some point I contemplated that I wanted to keep the precepts and practice which made it increase "to a boil". Today I tried doing that, contemplating keeping the precepts and practicing and there was some resistance I believe, and also in the past I've thought about keeping the precepts for life and I did feel some apprehension come up. But right now there is no problem contemplating the same I think, and as a baseline I have the intention of keeping them. 
+    >
+    > 
+    >
+    > Thank you Bhante 🙏
+
+    >  But right now there is no problem contemplating the same I think, and as a baseline I have the intention of keeping them.
+
+    Then you need to guard that better state of mind by noticing what are the things that make it liable to "boiling" (anything based on sensual desire or annoyance/irritation) and not engaging with those. If it ends up boiling, it's because you've already been raising the temperature for a while somehow. It can't get to that point suddenly.
 
 ---
 
@@ -98,6 +120,26 @@ Should I just "stop thinking" then?
 
     
     Anything you might intellectually land on while the passion underneath remains will have no bearing on your actual sense of self, which you can indirectly gauge by seeing how much fear and resistance there is towards losing things you hold as dear and essential.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1n0fmdu/describing_the_experience_of_reality_without_the/ncomgu0/)** _2025-09-06 04:52:15_:
+
+    *(In reply to Pretty_Struggle_2777):*
+    > Thanks for your answer, Bhante.
+    >
+    > I understand that our citta is considered almost like an external entity, there's *me* and *my citta*, and *I* am trying to tame *my citta*, like we are two separate subjects in a constant fight.
+    >
+    > As I understand (correct me if I'm wrong), the *passion* itself is in the *citta,* therefore I can't control it, at least not directly, while my only responsability is to make a choice by saying "yes" or "no" to the options offered by the citta, like a sort of switch that stands between the citta and the sense objects.
+    >
+    > By doing this, isn't one reinforcing the idea of a hyper-controlling self which constantly watches and controls everything from above? Or is it a wrong way to see it?
+
+    > As I understand (correct me if I'm wrong), the passion itself is in the citta, therefore I can't control it, at least not directly, while my only responsability is to make a choice by saying "yes" or "no" to the options offered by the citta, like a sort of switch that stands between the citta and the sense objects.
+
+    Correct. You can't "do" passion yourself (and many people know that from experience; they want to be passionate about or "love" something but can't if their citta doesn't go along).
+
+    > By doing this, isn't one reinforcing the idea of a hyper-controlling self which constantly watches and controls everything from above? Or is it a wrong way to see it?
+
+    No. The sense of self is not due to an intellectual conceiving of a certain entity but due to passion. Passion and the assumption of control are one and the same thing. Passion covers up the fact that all control, no matter its extent, is unreliable. 
+
+    In other words, the assumption of control is due to the untamed citta, not due to some wrong intellectual notion.
 
 ---
 
@@ -3847,6 +3889,76 @@ Sexual relationships are an altogether different thing, however. I can see quite
     That's not even 'technically wrong.' Again, the harmfulness of an action is not measured by what it results in circumstantially, e.g. death of animals. Everyone, simply by being alive, is inevitably 'causing harm' by this metric. 
 
     (That's also incidentally why views that associate vegetarianism with the precept of killing are extremely misguided: they entirely misplace the 'wrongness' of the action of killing. "Me buying this meat might encourage somebody to kill more animals, thus I am 'causing' an animal's death, thus it's wrong". There is a gigantic gulf between the action of buying a package of meat in a supermarket, and deliberately killing an animal even if you're on a desert island and would starve otherwise. There is simply no relevant comparison between the two, just as there's no comparison between taking a walk in a forest and  deliberately setting traps for mosquitos. By putting such things even on a comparable 'scale' of the same 'wrongness', one makes it impossible to understand the point of the precept of killing, or *akusala* as *akusala.*)
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1kec20v/on_the_precept_against_beautification/nbsicwf/)** _2025-09-01 05:52:46_:
+
+    *(In reply to 2footie):*
+    > >is already more than enough to lead to birth in lower realms even if one were to never actually do such things
+    >
+    > How do you know this?
+
+    The suttas talk about it. You can have a look at MN 136: 
+
+    >Now there is the person who has abstained from killing living beings here… has had right view. And on the dissolution of the body, after death, he reappears in the states of deprivation, in an unhappy destination, in perdition, in hell. Butt he evil action producing his suffering was done by him earlier, or the evil action producing his suffering was done by him later, **or wrong view was undertaken and completed by him at the time of his death.** And that was why, on the dissolution of the body, after death, he reappeared in the states of deprivation, in an unhappy destination, in perdition, in hell. 
+
+    Also SN 42.8: 
+
+    >Take some teacher who has this doctrine and view: ‘Everyone who kills a living creature, steals, commits sexual misconduct, or lies goes to a place of loss, to hell.’ And there’s a disciple who is devoted to that teacher. They think: ‘My teacher has this doctrine and view: “Everyone who kills a living creature, steals, commits sexual misconduct, or lies goes to a place of loss, to hell.” But I’ve killed living creatures … stolen … committed sexual misconduct … or lied.’ **They get the view: ‘I too am going to a place of loss, to hell.’ Unless they give up that speech and that thought, and let go of that view, they will be cast down to hell.**
+
+    Here it's clear that the VIEW behind the wrong actions is the main problem, and not, as the Jains were arguing, the frequency of such wrong actions in and of themselves. The commonality with all wrong views is that they implicitely allow a person to feel justified in wrong actions, even while on the surface they might be condemning them: "Everyone who does this goes to hell.") MN 38 makes a similar point, although it doesn't explicitely refer to lower realms: the main point is that it's the view that leads to long lasting harm and suffering: 
+
+    >I have stated that sensual pleasures provide little gratification, much suffering and despair, and that the danger in them is still more. But you, misguided man, by your wrong grasp have misrepresented us, injured yourself, and stored up much demerit; for this will lead to your harm and suffering for a long time.”
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1kec20v/on_the_precept_against_beautification/nbt7cv1/)** _2025-09-01 09:46:37_:
+
+    *(In reply to Ok_Lemon_3675):*
+    > >has had right view. And on the dissolution of the body, after death, he reappears in the states of deprivation, in an unhappy destination, in perdition, in hell.
+    >
+    > I always thought that someone with right view (sotapanna) can't be reborn  lower than human and that's what I heard many times. Or is there a difference between "someone with right view" and sotapanna? How can this be understood?
+
+    >is there a difference between "someone with right view" and sotapanna?
+
+    In general, no; but in a few places it's clear that something more mundane is meant. In this particular context it's obvious that the 'right view' mentioned there can't be the right view of a noble disciple: for one thing it would be impossible for a noble disciple to 'undertake wrong view' at the time of death, as the sutta suggests. 
+
+    So it seems more like in this case a 'right opinion' that is in line with wholesome as unwholesome but obviously not seeing it for oneself to the full extent. A few other suttas also describe how one can arrive at that kind of 'mundane' right view through straightforward clear reasoning involving an authentic recognition of one's own lack of discernment, see [MN 60 ](https://suttas.hillsidehermitage.org/?q=mn60)for example. But that in and of itself would not make one a sotapanna, and if a person does not make an effort to maintain that kind of authenticity, they would inevitably fall back into cover-ups and intoxications (because unless you have a very good reason to do so, such as faith, it is simply too uncomfortable.)
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1kec20v/on_the_precept_against_beautification/nbta4tr/)** _2025-09-01 10:12:22_:
+
+    *(In reply to 2footie):*
+    > Thank you for the sutta reference and explanation. What if a father wants to protect his family from a midnight home intruder. He doesn't have the intention to kill but only to protect his family, would this view lead to hell?
+
+    Neither this question nor the reasoning behind it is clear to me. 
+
+    >What if a father wants to protect his family from a midnight home intruder. 
+
+    Does he want to protect them badly enough to be willing to kill for the sake of defending them? It would seem not, since you say 
+
+    >He doesn't have the intention to kill 
+
+    But if he has NO intention to kill and will put his non-intention to kill first and desire to defend his family second (should he have to make a choice between these two), there is no reason for this question to be brought up in this discussion.
+
+     If, on the other hand, his desire to defend his family comes first and overtakes his non-intention to kill, then he does then in fact have an intention to kill. If so, what exactly are you asking? 
+
+    >would this view lead to hell?
+
+    Firstly, it's one thing to ask whether X action or view is unwholesome, harmful and productive of unpleasant results, or that it *could* result in leading to a lower rebirth; it's quite another thing to ask 'Will X action inevitably result in going to hell?' The latter question is bound to bring one into the realm of pure speculation and "would bring madness & vexation to anyone who conjectured about it" (see AN 4.77). In regard to the former question, the suttas are quite clear: killing is unwholesome, full stop. 
+
+    (But also, there is not really any 'view' mentioned here, but a specific action in a specific extreme context. So which view are you then referring to? The view that it could be not-unwholesome for a father to kill out of a desire to protect his family from a midnight intruder?)
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1kec20v/on_the_precept_against_beautification/nbttioj/)** _2025-09-01 12:41:03_:
+
+    *(In reply to 2footie):*
+    > Sorry, maybe I wasn't specific enough. 
+    >
+    > I'm not talking at all about killing but protecting family, the intention is to get the attacker to stop or leave, even if using some force is necessary, like pepper spray.. 
+    >
+    > And as for the lower realms/hell portion I was referring to what you earlier wrote
+    >
+    > >is already more than enough to lead to birth in lower realms even if one were to never actually do such things
+    >
+    > In summary, is the view of self/family defense more than enough to lead to birth in lower realms even if one were to never actually do such things.
+
+    I see - then the question is really 'is taking some precaution or action of self-protection that does not involve any intention to kill or harm against the precepts?' To which the answer is no. What is against the precepts is deliberate killing or harming, and speech that supports and encourages it.   
+     
+    Regarding the part that you quoted from what I wrote above, I'm realising now that it is worded rather too strongly, as though saying that any such view will definitely result in a lower rebirth. What was intended in the context was that holding and adhering to that type of view is 'as bad or potentially even worse' in terms of its consequences than doing the actions in and of themselves, and thus *could* be 'more than enough to lead to lower rebirths'. But as in the previous reply, this is different from saying 'if you have this opinion you will definitely end up in hell'. That was not what I meant to imply. 
+
+    Also, there is quite a difference between a sort of honest recognition that one does not see the full danger in unwholesome the way it is defined in the suttas, or admitting that for example, 'if pushed to extremes, I know I would want to kill to defend myself even though I know in theory it's wrong'; and stubbornly  *insisting* on this or refusing to even think about it on the level that pushes you beyond what you've deemed acceptable or comfortable. It's the latter that is most problematic, and that's what I was referring to. Does this make it clearer?
 
 ---
 
@@ -5414,6 +5526,66 @@ https://www.reddit.com/r/HillsideHermitage/wiki/index/
     Since it's just a fact that one's practice will usually be directed by a miscalibrated understanding, there will be less wasted effort if one does not overcommit to what appears to be right on any given day (which realistically goes hand in hand with spending more than a couple of hours doing it) and makes sure to not let oneself backslide into the hindrances even more during neutral activities. That also counts as practice, since activities within the precepts cannot induce further wildness in the citta without the help of one's own careless attention.
 
     The section on purifying the mind from obstructions day and night takes for granted that one clearly sees what the mind and the obstructions are, and that's already beyond sotāpatti.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/nbury4c/)** _2025-09-01 15:44:14_:
+
+    *(In reply to Ok_Lemon_3675):*
+    > "Unfortunately" for me this raises many questions.
+    >
+    > First of all, that phrasing "less wasted effort if one does not overcommit" would mean that we are talking about the case where one has a choice in the first place of whether to spend more hours trying to "practice" or "neutral activities". Otherwise in a situation like my current one, only allowed typically let's say avg 1.5h per day in seclusion and not having to do anything because of work, except for a week of vacation every 2 months, it wouldn't even be a question.
+    >
+    > So does that mean that if after a couple more years of full time work I can reduce my work and increase that available time to let's say a solid 3h per day and but keep working and doing chores for 5-6h per day, it would be equally good **or even better** than if I can figure out a way to make it 7-8h in seclusion and not work anymore except chores etc.?
+    >
+    > >one's practice will usually be directed by a miscalibrated understanding
+    >
+    > But what makes it eventually not miscalibrated if not spending time in seclusion trying to get the right understanding? If more time in seclusion would be wasted effort, doesn't that imply that the time doing "neutral activities" but "merely" trying be careful not to backslide / (fuel?) the hindrances would actually be **the** productive effort?
+    >
+    > And then what I have now with 1.5h per day and the occasional weekend or vacation where I can do more would already be pretty much optimal?
+    >
+    > >The section on purifying the mind from obstructions day and night takes for granted that one clearly sees what the mind and the obstructions are, and that's already beyond sotāpatti.
+    >
+    > If that's already beyond sotapatti then the last section before that is [the one on moderation in eating](https://suttacentral.net/mn107/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#5.4). And until then there is no mention of seclusion (or meditation) \*at all\*. That (Come, mendicant, frequent a secluded lodging), only starts way later.
+    >
+    > So just to be clear, that would mean seclusion is not even required at all to become sotapanna, who is already incapable of feeling or suffering the second arrow, clearly knows what is wholesome and would be unable to doubt that he is a sotapanna. And all that without requiring "seclusion" or "meditation".
+    >
+    > And yet to (seemingly) completely contradict that, for example [here from 37:45](https://youtu.be/CrHOWXlOlyo?t=2265) Ajahn Nyanamoli says (as also somewhere in the suttas) you need to be \*dwelling\* in seclusion to see the signs of the mind. I'm not sure what he means by "dwelling", but to me "dwelling" sounds like actually where my home is, where I spend \*most\* of my time, not just a couple of hours. And when I look it up, that is the definition: "live in or at a specified place."
+    >
+    > And [here](https://youtu.be/ai2G16Bbwo8?t=1827) he uses the words "living in seclusion" (\*after\* moderation in eating) and \*then\* you notice the mind for what it is and get the right view.
+    >
+    > So what he is saying doesn't quite seem to match what you are saying. What am I misunderstanding or how can I make sense of this?
+
+    > So does that mean that if after a couple more years of full time work I can reduce my work and increase that available time to let's say a solid 3h per day and but keep working and doing chores for 5-6h per day, it would be equally good or even better than if I can figure out a way to make it 7-8h in seclusion and not work anymore except chores etc.?
+
+    No, it wouldn't be better.
+
+    There is a big difference between being by yourself with nothing that you necessarily "have" to do for the rest of the day and then doing things within that and, on the other hand, having externally enforced duties that you can't avoid. It’s helpful to try to have less of the latter as long as it doesn't reach the point of aversion towards tasks in themselves.
+
+    > But what makes it eventually not miscalibrated if not spending time in seclusion trying to get the right understanding? If more time in seclusion would be wasted effort, doesn't that imply that the time doing "neutral activities" but "merely" trying be careful not to backslide / (fuel?) the hindrances would actually be the productive effort?
+
+    Well, both should ideally happen in seclusion; I don't think I ever said otherwise. But what you need to understand is how and to what extent craving underlies your actions and how action without that craving is possible, and you don't get that solely by thinking about it until it all clicks on the intellectual level. 
+
+    Quite often, a person's incessant "thinking about it" will be the thing stopping them from seeing that they're acting out of craving and overlooking their citta right at that moment. So by allowing some room for doing something other than just "think about Dhamma" or "cultivate this or that," you will at least be putting the brakes on that momentum of wrong effort from time to time and creating an opening to return to the "right level." But both of them very much count towards understanding the Dhamma, because even when you, say, go for a walk (ideally alone where there are no people), you're still trying to keep an eye on your mind and making sure that it's not pushing you in unwholesome directions. Likewise, sometimes you *should* keep actively pondering and reflecting because you're in fact clarifying things at the right level at that time.
+
+    Since you can't reliably know when it's which, the best policy is just to keep the door open for either. Overly fixating on either course of action would waste more time.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/nc15w8d/)** _2025-09-02 15:46:49_:
+
+    *(In reply to like_a_raft):*
+    > I had similar questions to Ok_Lemon for quite a while and recently I was trying to organize my thoughts around the subject (seclusion and non-activity) in order to ask accurate questions about it. 
+    >
+    > 
+    > I find this answer very insightful and I have the impression that this sort of clarification might be useful for many. The main reason why I say this is because it seems to me a topic that, while being mentioned very often in general terms, had been rarely discussed in depth, afaik. Also there seems to be some differences (that I assume to be just apparent, not substantial, or limited to different emphases) in the way you and Ajahn Nyanamoli present it, leading to further difficulties in understanding. Similar thing could be said when reflecting on some Suttas, for example the one where newly ordained monks are encouraged to frequent remote lodgings. In those lodgings I suppose not many activities could be done. Where these monks encouraged in terms of spending there just a few hours and then remain with the Sangha doing some neutral activities the rest of the time? Or to be in less remote places but still in seclusion? 
+    >
+    > 
+    >
+    > All of this to say: if you happen to have some further indications on Suttas or essays/videos/comments on the subject, or some further thoughts on it or on where the confusion might originate, I would find them interesting.
+    >
+    > 
+    > Meanwhile I'll contemplate the topic with this new perspective you shared in mind and see if new questions or, more likely, old questions framed in a different way, come up. 
+
+    The confusion might be in part because for many people this is not even something they need to think about. They will naturally realize that what matters is to not delight in company and be on their own as much as possible, but that at the same time it's not about active, forceful effort all the time. That is not just unsustainable but will also take one in a wrong direction that overlooks the current state of mind. As the four right efforts describe, there are times when it's just about protecting what you already have. If it never seems like that to someone despite being virtuous and restrained to the best of their understanding, then they're most probably not seeing their citta. 
+
+    So then it's not really that one goes out of one's way to find things to do (or to try to be around others more), but that one realizes that the mind is already not infected with passion, aversion, etc., for the time being, and thus there is no need to keep pushing with that intensity for the time being. Then whatever is offered as an option for activity within that (even on the mental level) has to be done with the clarity that it will not introduce unarisen unwholesome states like delight in work or in company (or restlessness regarding the Dhamma, for that matter).
+
+    If one is able to spend one's days and nights in that state without falling from it, then there is already nothing significantly unwholesome there. No coarse states of sensuality or aversion would be coming up. Only when that basis is firm is one able to strive more "decisively" regarding lesser impurities (as per the formula describing the wakefulness practice) without being driven almost inevitably by restlessness and wrong expectations of what freedom even is. You could say that at that point, the person has understood and become established in the precepts and sense restraint. And to get to that point, they certainly need to have frequented empty dwellings and not delighted in company.
 
 ---
 
