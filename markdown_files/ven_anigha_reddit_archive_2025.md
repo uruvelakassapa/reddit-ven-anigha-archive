@@ -9,6 +9,122 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Global_Ad_7891 _2025-09-12 02:02:48_
+### [Question about Right View and study](https://www.reddit.com/r/HillsideHermitage/comments/1ner2vt/question_about_right_view_and_study/)
+
+I’m wondering what level of reading and intellectual study is really necessary for just Right View. Is it possible to simply keep the precepts for a long time, live more withdrawn, and then at some point start contemplating directly?
+
+I notice many people seem to have all the concepts and phrases worked out, but I don’t operate that way. I find it easier (and more enjoyable) to just keep the precepts and avoid over-intellectualizing.
+
+If there *is* an intellectual component, is there a kind of rubric or progression, specific suttas to read, in a particular order, or key concepts to understand first? Or is minimal study enough, as long as one is practicing restraint and withdrawal?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ner2vt/question_about_right_view_and_study/ndzr031/)** _2025-09-13 13:47:42_:
+
+    You certainly don't need to spend all that much effort in gathering information and systematizing concepts for its own sake. But you do have to remember that everything you do—no matter how "simple," like keeping the precepts—has certain views behind it, and those views will be wrong (most broadly, leaning either towards laxity or excessive denial). Progress lies in correcting those views, which does mean that you need to be thinking, questioning and clarifying quite a lot. But in a targeted way that has a chance to correct those concrete, "lived" misunderstandings rather than just providing theoretical knowledge.
+
+---
+
+**r/HillsideHermitage** | Posted by DragonflyAnnataman _2025-09-09 19:18:34_
+### [Confusion around equating liability to suffering w/ Dukkha](https://www.reddit.com/r/HillsideHermitage/comments/1ncs8jk/confusion_around_equating_liability_to_suffering/)
+
+As it's my first post here, just want to start off with a big expression of gratitude for having found HH subreddit/teachings on YT/the 2 books from Ajahn Nyanamoli Thero.  After years of wandering around contemporary desert of mainstream Buddhist/mindfulness land, finding this has been a refreshing oasis, and has already begun clarifying things in my mind (ie. WHY virtue/precepts/sense-restraint important, the beginnings of insight into annata, etc.).
+
+My question is from the "Managing Your Suffering is a Trap" video (https://www.youtube.com/watch?v=LUBEYGMRudU )  .  I know it's discussed in the video, but I can't seem to get my head fully around the part about "liability to suffering" in the present moment is itself Dukkha.   I understand that at the current moment, regardless of my state of mind, I am subject to/liable to suffer in the future.  But obviously there are moments in the day where I know my mind is not currently suffering on account of lust/aversion, etc..   But Ajahn Nyanamoli seemed very clear in the video that just the liability by itself (even absent of other apparent defilements) creates some degree of dukkha/suffering in the present.
+
+Sorry if my question is a bit clumsy.  I just think this is a very important one for me to understand this part clearly---like it may somehow be a key aspect of understanding dukkha itself, and ability to maintain urgency of the training (e.g. train as though head is on fire).   I even wonder if my overall tendency towards distractibility in the present moment relates to my ignorance around this point.  Thanks in advance for any tips.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ncs8jk/confusion_around_equating_liability_to_suffering/ndt248y/)** _2025-09-12 12:41:38_:
+
+    > But obviously there are moments in the day where I know my mind is not currently suffering on account of lust/aversion, etc.. 
+
+    The key is in the word "currently." Yes, everyone (even animals) will have times where their mind is not currently suffering. But if they didn't stop there, they would notice that there is still an uneasiness from the vague recognition that certain things (even just thoughts) could bring back the suffering. And so the training only really begins when you start addressing *that,* not just the currently arisen things.
+
+    As the similes in the Suttas strongly imply, even the overcoming of the five hindrances is the ending of that *liability*, not just a state where the mind is "currently" pure but would easily cease to be so if you made a wrong move. That is why there is a sense of safety and relief that is wholesome, as it is not based on ignorance and selectively constricting one's perspective, but the very opposite.
+
+---
+
+**r/HillsideHermitage** | Posted by account-7 _2025-09-09 16:56:12_
+### [Usefulness/Danger of Relaxing Situations? (i.e. a spa and massage)](https://www.reddit.com/r/HillsideHermitage/comments/1ncocqy/usefulnessdanger_of_relaxing_situations_ie_a_spa/)
+
+Hi. I’m just wondering what is the pros and cons of being in a relaxing environment (i.e. hot springs, a spa, or simply a beautifully designed room) and undergoing relaxing actions (i.e. a massage, a warm bath, etc)
+
+On the one hand, I clearly see the risks and downsides. Reliance on sensual pleasures to relieve suffering or any pressure. And even from a coarser level, the level of exertion is significantly greater than the oft critiqued here meditative relaxation techniques. Any kind of reliance on any of the aforementioned examples seems incredibly dangerous and a huge hinderance on the path.
+
+On the other, with some level of restraint and guarding of the sense doors, I see potential upside. The mind is naturally calmer in such situations or after a massage. There are tremendous long-term health benefits in engaging in these kinds of activities or being in these kinds of environments. But alternatively, I see benefits in aiming to be exclusively in more neutral environments and being tasked with contenting the mind only internally.
+
+Would appreciate any thoughts and feedback. Thank you!
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ncocqy/usefulnessdanger_of_relaxing_situations_ie_a_spa/ndsyxcs/)** _2025-09-12 12:22:47_:
+
+    The risk is not necessarily in "sensual indulgence." A spa/massage does not necessarily imply that. One could in theory partake in such things purely for health reasons without expecting the slightest spiritual/mental benefit from them.
+
+    The danger is in the view that the mind is truly "calmer" after such activities, i.e., the same misunderstanding and non-seeing of the mind that underlies meditation techniques. It's confusing calming of the mind with calming of the body, which temporarily masks the underlying tendencies of the mind.
+
+    Done with that view, spa/massages would be the same as doing breath focusing on top of the actual gradual training thinking that it will somehow aid it. The attempt itself implies a misunderstanding of what the training is (and of *what* ought to be trained).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ncocqy/usefulnessdanger_of_relaxing_situations_ie_a_spa/ndzjbmp/)** _2025-09-13 13:01:27_:
+
+    > So it's strictly a matter of understanding the conditional, unsatisfactory nature of any sort of "calm" it produces when going into these experiences? 
+
+    I don't think it would even make a person "calm" unless they were mentally leaning into the signs and features of the bodily experience in an unwholesome way. Deriving mental calm out of bodily experiences requires a level of intoxication and forgetfulness of the broader picture. It's the same principle behind any form of sensuality, just in a more moderate format.
+
+    > but could you see benefit in certain circumstances (like if an addict is overcome by craving, and just need some space to even enter into sense restraint)?
+
+    It will be worse compared to anything in the world that isn't too distracting and doesn't break a precept. There is bound to be the wrong view that one is practicing sense restraint and weakening craving/hindrances through such practices, while one is in reality just denying the senses mechanically until one can no longer do so. At which point one will be right back to where one started (like the second herd of deer described in MN 25).
+
+    An "addict" is more likely to progress in sense restraint by doing some knitting while their mind is overcome by craving, since they will then have to learn how not to open the gates for thoughts that are still pressuring them in the background. That middle ground is where sense restraint is practiced.
+
+---
+
+**r/HillsideHermitage** | Posted by Many_Relation_2784 _2025-09-08 16:50:30_
+### [Nothing is mine, everything is me.](https://www.reddit.com/r/HillsideHermitage/comments/1nbt0m2/nothing_is_mine_everything_is_me/)
+
+I’m curious to hear a response from Bhante Aniga here, because I am well versed and deeply understanding the Buddha Dhamma and especially the teachings at HH. Nonetheless, the sentence posted at the title “nothing is mine, everything is me” is the best description of the freedom the Dhamma has catalyzed. I’m wondering, Bhante, if you know what I mean by that statement?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nbt0m2/nothing_is_mine_everything_is_me/ndec91c/)** _2025-09-10 05:27:29_:
+
+    > I’m wondering, Bhante, if you know what I mean by that statement?
+
+    After reading your other comments, yes: something that I definitely wouldn't call the Dhamma.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nbt0m2/nothing_is_mine_everything_is_me/ndefxt8/)** _2025-09-10 05:59:47_:
+
+    Sure. You asked for my opinion, so that's what I replied.
+
+---
+
+**r/HillsideHermitage** | Posted by upasakatrainee _2025-09-05 15:17:40_
+### [Fear and Anger as Counterparts?](https://www.reddit.com/r/HillsideHermitage/comments/1n98261/fear_and_anger_as_counterparts/)
+
+Bhante, u/Bhikkhu_Anigha
+
+I have been observing some patterns in my experience, and I wish to put them before you for guidance.
+
+I have noticed that when fear arises, anger often accompanies it. It seems as though the mind responds to fear by invoking anger as a kind of protection, and in expressing anger it tries to appease its own fear. For instance, when I or someone dear to me is ill, or might be ill - I find myself reacting with mild irritation — “Why did this happen now? Couldn’t they have been more careful in not going out in the rain?” etc. — which I can see is not really about the illness, but about the fear underneath.
+
+I also notice that when fear is exposed, there is often a recoil. Anger seems to be one way of covering over that recoil. Lately I am working on not avoiding the recoil, but enduring it, taming it. I can see this dynamic fairly clearly, but I still feel the pressure of it. I wonder what this tells you about my practice, and what I should focus on. I would also be grateful if you could advise me on what I can sharpen in my practice, and what I might tighten further.
+
+Finally, I notice that when fear is present, there is a tendency to recall: “Here is fear; here is what needs to be done (or not done); here is what Bhante has taught regarding this situation.” I wonder if even this recollection is a subtle form of seeking stable-ground, rather than staying with the raw presence of fear itself. How should I relate to this tendency?
+
+Thank you!
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1n98261/fear_and_anger_as_counterparts/ndebsox/)** _2025-09-10 05:23:35_:
+
+    All of these states are just various manifestations of the same thing.
+
+    What you need to sharpen is the clarity of where your direct responsibility lies. It's not in the arising of the fear but in the careless acceptance of what it's pushing you to do (be it to get angry or whatever else offers itself to cover up the fear).
+
+    > but I still feel the pressure of it.
+
+    Make sure that that remains the case. The fear takes root and expands to the degree that you do things in order to not feel its pressure (similar to scratching an itch).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1n98261/fear_and_anger_as_counterparts/ndf3j3j/)** _2025-09-10 09:48:37_:
+
+    > Insofar as this is conditioning the 'animal' to view irritated speech as a legitimate and acceptable outlet (regardless of whether fear was present or not)
+
+    Just for the sake of clarity, the problem is not "irritated speech" in terms of the tone or choice of words. That's besides the point. What matters is the fact that it is serving as an outlet for something. Hence the gentlest and most polite speech in the world is equally unwholesome if it's a way of scratching an internal itch that you don't want to endure (passive-aggressiveness being the coarsest example).
+
+---
+
 **r/HillsideHermitage** | Posted by xpingu69 _2025-09-05 13:20:16_
 ### [Desire to buy bicycle](https://www.reddit.com/r/HillsideHermitage/comments/1n953j2/desire_to_buy_bicycle/)
 
