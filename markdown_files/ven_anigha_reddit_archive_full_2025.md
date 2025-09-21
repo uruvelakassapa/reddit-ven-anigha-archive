@@ -14,6 +14,195 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by LotusOfUpekkha _2025-09-17 17:07:09_
+### [Conditional restraint and learning from my failure](https://www.reddit.com/r/HillsideHermitage/comments/1njiyey/conditional_restraint_and_learning_from_my_failure/)
+
+I recall Ajahn saying in one of the videos that when one can keep the precepts and has become comfortable with their level of sense restraint, one should then try to increase the pressure to see how the mind reacts. It will most likely start pressuring you more, and that is where the work is then. You do this by for example doing a fast or by limiting sleep (within reason).
+
+For the last few weeks, my sleep quality has become very poor due to allergies, and no matter what I have tried to remedy it, the poor sleep seems to remain, maybe also because of a shoulder injury on top of it. So I was unintentionally put in a situation where the sense restraint I had established was put to the test. The increased pressure did not happen 'on my terms', so it caught me off guard entirely, and that is probably the best test.
+
+In the first few weeks of poor sleep, I managed to endure this unpleasantness and increased pressure. But lately (these last 10 days approx.), I have been lapsing and even bingeing on entertainment and distractions.
+
+This tells me a few things about where I am at in the practice; namely, that any taming of the mind I thought I had done previously was not enough because in a stressful/tight situation my mind still pressures me very much and eventually I gave in and from then onwards, I kept scratching the itch until I am now at a point where I start to wake up from this because I see how I am causing a lot of anxiety and make the mind weak, wild and sensitive by indulging in distractions. I have not broken any of the 5 precepts or celibacy, but I can see clearly how the mind starts pressuring me more towards that direction if I were to keep giving in to distractions and feeding this behaviour. The more I let it run wild with entertainment, the more it will pressure me towards even coarser behaviours.
+
+In other words, my previous sense of freedom from unwholesome states was entirely conditional, not founded on any real safety, just a mundane sense of strength and safety I got on account of sense restraint and keeping precepts. This has been sobering to realise.
+
+A few nights of poor sleep, and that mind went wild and threw a tantrum. When that tantrum is endured, but conditions stay unfavorable, eventually, after long enough time, and while hoping that sleep improves, but it doesn't, I give in. I scratch the sensual itch in hope of some relief, and there certainly is relief, but this relief is small and doesn't last long at all. I need to sustain it constantly, and it is mainly built around the temporary distraction from the still enduring pain and unpleasantness that underlies it, but in the end, it is still enough for me to take the bait when the circumstances are bad enough. I still hold it as valuable; otherwise, I wouldn't crawl back to it even if the most unfortunate circumstances were to become a reality for me. This shows me clearly how unsafe I still am, far from the deathless.
+
+During a binge session, there is still an awareness that what I am doing is unwholesome, but the results of the action are blurred, intentionally ignored; the anxiety that always eventually follows, the lack of composure, the increased sensitivity to what the senses throw at me, discomfort, stress- all of it is shoved under the carpet. And even if the results become immediately apparent to me (i.e., I get more anxious/ stressed *while* engaging with entertainment), I then scratch that itch by absorbing myself even more in the distraction - to counter the anxiety, I absorb myself even more by continuing or proliferating the action that made me anxious in the first place. This loop can go on for a long time (hence 'bingeing').
+
+At some point, I realise that what I am doing is exactly like the simile of the leper. I am in a state of sickness, my perception is perverted, and no matter how hard I cauterize my wounds, they never heal and only become worse in the long run.
+
+When I have good health and conditions seem favorable, it is at times hard for me to recollect how unbeneficial it is to engage with the unwholesome, especially entertainment. Somehow, I take the relative 'health', freedom from anxiety, and composure that comes with restraint, for granted, and I forget how entertainment and mindless distractions always lead to anxiety, stress, and a hindered mind, and have done so in the past. What is the reason for this forgetfulness? Why is it more difficult to discern this danger with entertainment, while it is easier for me to do so with other forms of misconduct?
+
+This has shown me that while I depend on conditions like relatively good health and faculties to practice restraint, I cannot take them for granted and need to make use of them while I can, so that when these conditions change or deteriorate, I won't fall back into unwholesome behaviours. This also serves as a reminder that virtue is (relative) health and safety, while acting out of unwholesome mindstates is always unbeneficial and leads to affliction; it is like willingly poisoning yourself, no matter what the external circumstances may be.
+
+I would appreciate words of advice and guidance.
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1njiyey/conditional_restraint_and_learning_from_my_failure/nevn8fo/)** _2025-09-18 12:48:13_:
+    > What is the reason for this forgetfulness?
+
+    Taking life for granted, not knowing any other escape when that life turns against you, and last but not least, being amidst an environment that not only allows for constant easy access to what presents itself as an escape, but also pushes you towards it. Your environment will inevitably exert influence over your mind for as long as that mind is not unshakeable, that is something that you have to accept and take into account.
+
+    > It is still enough for me to take the bait when the circumstances are bad enough. I still hold it as valuable; otherwise, I wouldn't crawl back to it even if the most unfortunate circumstances were to become a reality for me. This shows me clearly how unsafe I still am, far from the deathless.
+
+    It sounds like you are seeking safety in a sort of iron-clad unbreakable restraint. This is a mistake. That kind of safety will always remain conditional and relative.
+
+    There is a reason that people who got the right view and became sotapannas in the suttas could, and often did, go back to sensuality and lay life. They were quite capable of choosing to not practice restraint and feeling completely at liberty to do so, in spite of the fact that sensuality is always a hindrance and distractions are always distracting, then as well as now.
+
+    The reason is that their safety was not in having created an iron-walled edifice, even one built of seclusion or restraint, in which anxiety and stress would not arise. It was simply knowing the escape from them. Knowing the escape from dukkha is exactly what would have allowed such people who became complacent to not fear even the factual degree of dukkha and disturbance that would arise from their own engagements in sensuality. That's also why the Buddha had to encourage and admonish even monks with the right view to not become careless.
+
+    Needless to say, I am NOT saying that there is no need for restraint, or that you should go back to allowing yourself free engagement in entertainment and distractions. But while virtue is the basis of the dhamma, it is important to keep in mind that it is *not* the dhamma in and of itself, and should not be taken as the goal in and of itself.
+
+    The practical implication of that in this particular situation, for example, is that the way to 'learn from the failure' is not through finding out how to never experience the same failure ever again, or figuring out exactly how and why it happened. It is just by **here and now** not overlooking or acting out of the arisen discomfort of that experience of failure: either by taking for granted that you must prevent it from happening ever again, or giving in to ill-will towards yourself on account of it - or on the other hand, making excuses for it or pretending it didn't happen etc.
+
+     In other words, when the mind is telling you that you *must* do something about this particular issue and are justified in tightening things automatically (or loosening them arbitrarily) for the sake of that - don't pick up *that* bait. Stay in the middle.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1njiyey/conditional_restraint_and_learning_from_my_failure/nf0oq8g/)** _2025-09-19 04:53:15_:
+
+    *(In reply to LotusOfUpekkha):*
+    > Thank you, Sister, for your reply.
+    >
+    > About your reply to my question about forgetfulness: What I meant is more that after some time of restraint, I lose a clear recollection of how unbeneficial and dangerous engagement with distractions and entertainment actually is. - For example, right now, I still have a palpable image of how it burns when I was engaging in entertainment and distractions not too long ago, but this becomes less clear over time. I don't understand how this is connected to taking life for granted or how environmental influences could play a role in this.
+    >
+    > After some weeks of not engaging with distractions, I can see how it brings more peace and the mind is more composed, but I seem unable to contrast this with how restless, anxious, and sick those indulgences truly made me before. Its value remains lingering, despite past recognitions of it as being utterly valueless and anxiety-inducing.
+    >
+    > I think this makes it harder to fully develop the joy of renunciation, since I somehow seem to forget about the deprivation that always follows unwholesome behaviour - and I do think this could be valuable as a sort of perception to teach the mind about the drawbacks so that it is tamed more and won't go as wild when circumstances become more challenging. What could be the reason for this?
+
+    >After some time of restraint, I lose a clear recollection of how unbeneficial and dangerous engagement with distractions and entertainment actually is.
+
+    That is because the points you mentioned, such as becoming restless, anxious, sick etc after indulging in them, are very secondary symptoms of what makes these things unbeneficial, and the perception of the harm in them is bound up with how those symptoms are currently making you feel (unpleasant). So you need to look for the harmfulness in another way, but more importantly you need to understand the escape from unpleasant feeling other than pleasure of sensuality. (Which relates to the second part of my reply above.)
+
+    >After some weeks of not engaging with distractions, I can see how it brings more peace and the mind is more composed, but I seem unable to contrast this with how restless, anxious, and sick those indulgences truly made me before. 
+
+    Exactly, that's how it will have to be. When during some time of better restraint you are not feeling unpleasant, remembering how those indulgences made you feel before cannot induce the same unpleasant feeling, so it becomes abstract. When again for whatever reason that pleasant feeling changes and you feel very unpleasant, those distractions will still present themselves as an escape from that discomfort, and the idea that they will bring their own discomfort later on will not always have enough weight to override the desire to escape the current discomfort, if it is pressing enough.  
+
+    >I don't understand how this is connected to taking life for granted or how environmental influences could play a role in this.
+
+    This relates to the environment because when that point comes, as it inevitably will, having immediate and constant access to such escapes makes it in practice much easier to give in, and giving in and acting out is where the forgetfulness is truly cemented. For as long as you haven't actually acted out by body and speech, even if the mind is completely rebelling, you haven't really forgotten, there is a degree of perspective being maintained even if it doesn't feel like it. 
+
+    It has to do with taking life for granted because, in order to know to what extent the peace one has developed on account of virtue is circumstantial, you really don't need to go to the lengths of fasting or depriving yourself of sleep - just ask yourself whether the peace that you have would change if your heart would decide to stop working right now, or if things that you really don't want to happen were to happen. Bringing this to mind and keeping it there, if done properly, makes it impossible to rest in a false sense of security, and also makes you realise that the most dangerous thing you can do is to do things to lose perspective of that precariousness of your own situation.  
+
+    It's like the simile from the suttas of the man who has to carry a bowl full to the brim with water on his head, and has a man following him with a sharp sword who will cut off his head if he spills a single drop - and there is a beautiful dancer right in front of him. Will he feel like he can afford to let his eyes go in her direction even for half a second? In the simile, the problem is not the dancer herself; the man with the sharp sword is the far more pressing issue. But if someone is awake to the danger of the latter, they can't help but see distracting themselves with the dancer as the most dangerous thing they can do.
+
+---
+
+**r/HillsideHermitage** | Posted by ChairOk548 _2025-09-16 17:03:26_
+### [Would choosing lay life to preserve your own health prevent achieving a higher attainment?](https://www.reddit.com/r/HillsideHermitage/comments/1nin7p8/would_choosing_lay_life_to_preserve_your_own/)
+
+If a putthujjana with chronic health issues (not life threatening) decided to remain a layperson out of a sense of responsibility for their own health, and probably also unavoidably out of desire for better health or aversion towards chronic illness, would that likely prevent them from reaching stream entry?
+
+Similarly, if a sotapanna in a similar situation decided to remain a layperson, would they be unable to become an anagami? Anagami are free from sensual desire, but would a desire for better health or aversion towards chronic illness be sensuality?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nin7p8/would_choosing_lay_life_to_preserve_your_own/nenwea8/)** _2025-09-17 06:48:06_:
+    > If a putthujjana with chronic health issues (not life threatening) decided to remain a layperson out of a sense of responsibility for their own health, and probably also unavoidably out of desire for better health or aversion towards chronic illness, would that likely prevent them from reaching stream entry?
+
+    Not per se. Not questioning their internal motivations behind their attempt towards better health is what would prevent them. That attempt will often go beyond the practical purpose of sustaining the body for the sake of practice and become infected with the assumption of ownership and entitlement to health. If one regards the external attempt as acceptable in itself, those underlying attitudes will not magically be uprooted and the perception of non-ownership developed. 
+
+    Those underlying attitudes are exemplifications of the wrong view of a *puthujjana* (or, in a more refined degree, the lingering conceit of a sotāpanna).
+
+---
+
+**r/HillsideHermitage** | Posted by brousseqc _2025-09-15 19:33:19_
+### [On the description of the Buddha entering the jhānas in DN 16 and vitakkavicara](https://www.reddit.com/r/HillsideHermitage/comments/1nhvo37/on_the_description_of_the_buddha_entering_the/)
+
+Good day,
+
+I would like to adress my question directly to Bhante Bhikku Anigha, or anyone else in this reddit community who is knowledgeable and well-versed in the understanding of the position of Hillside Hermitage regarding the jhānas.
+
+The questions I will ask here come from a very sincere and humble wish to correct my understanding of the jhānas relying only on the suttas. There is no other agenda or ill intentions in challenging, adressing the views mentionned here ; only for the sole purpose of clearing my ignorance and grow a better understanding.
+
+My first question is about the description of the way the Buddha "entered" from the first jhāna hrough the fourth, all the arupa samapatti, and in reverse order back to the first jhāna just before he died, from DN 16 : 
+
+"Then the Buddha entered the first absorption. Emerging from that, he entered the second absorption. Emerging from that, he successively entered into and emerged from the third absorption, the fourth absorption, the dimension of infinite space, the dimension of infinite consciousness, the dimension of nothingness, and the dimension of neither perception nor non-perception. Then he entered the cessation of perception and feeling. "
+
+My question regarding this passage in light of the Hillside Hermitage position of the jhānas, is this :
+If, from my current understanding, part of the Hillside Hermitage's position on the jhāna is that they are not absorptions but "lifestyles" that one embodies as a kind of default mode of being by the very end of the path — mode of being which is pleasant from the seclusion from sensality and unwholesome states, and that the states becomes more refined and insightful the more we deepen our insight of the nature of experience and sensuality, meaning going forth to the higher jhānas...
+And that the Buddha is devoid of any craving for pleasant experience, liberated from craving, sensuality, living in the utmost peaceful state possible to live, that even all the "lower" states of being (like the jhānas) are less powerful and are more gross than the living state of a Buddha/Arahant...
+
+Why would the Buddha go through the jhānas in order and reverse order? What would be the purpose of that, for an awakened being like him? What I don't understand specifically, is that if the jhānas are "lifestyles"... Why would he go down to lesser states than his already purified and unconditionned state of being? Why would he switch "lifestyles" of contemplation to grosser one? In my limited understanding of this, it seems kind of odd to imagine this supreme teacher switch "lifestyles" rapidly. I have a hard time making sense of this, making it coherent. Other traditions do generally interpret the jhānas as meditation absorptions, so it can make sense for them. But in this case, how is the notion of the jhānas as lifestyles applicable to the Buddha before his death?
+
+My second question is regarding the same position of the Hermitage of jhānas, but specifically concerning vitakkavicara. Some people here or elsewhere on forums, discord, suttacentral, dhammawheel, etc had critique the way Bhante Anigha describe the contemplation in the jhānas states : it is interpreted that Bhante seems to suggest pondering and thinking, even is a less obvious way, is present all the way from the first jhana through the cessation-of-perception-and-feeling, which is most probably not what Bhante meant but still, I am wondering what is left for developping dispassion without vitakkavicara from the second jhāna on to the upper : after some discussion elsewhere, some people suggested that if would be a kind of direct non-discursive, non-conceptual observation of experience, as a kind of felt interplay between perceptions (sanna) and feelings(vedana) that produces the purpose of dispassion toward experience, without the use of vitakkavicara, that allow one to develop further up the next jhānas. Would this understanding of the jhānas according to Hillside Hermitage or "What The Jhanas Really Are" essay correct? Or should I rectify it?
+
+This is for example, the way Keren Arbel in her book "Early Buddhist Meditation : the Jhānas as actualisation of Insight" describes the experience of developping insightful dispassion toward the nature of experience from the cessation of vitakkavicara in the second jhāna up to the next ones. Still, in this reddit post ( https://www.reddit.com/r/HillsideHermitage/s/MUEC0gYGkq ) Bhante Anigha responded to someone regarding Keren's Arbel book :
+
+"Yes, I came across that one. It was not bad, relatively speaking. But if you read closely, you'll see that she still thinks "thinking" is somehow in and of itself an obstacle. It's hard for people to abandon that notion, because that's when you get in the realm of *actually* having to become dispassionate towards the entire world correctly (which is experienced *through* your thinking, nothing else), not run away from it."
+
+I don't see the contradiction between Keren Arbel's and Bhikku Anigha perspective. Both think vitakkavicara ceases in the second jhāna. Am I right to think that both see the deepening of insight from the second jhāna as non-conceptual direct and active observation of nature of experience (dukkha/anicca), but not from thinking ; intimitaly and simply through sanna?
+
+Thank you for your time and consideration,
+I wish you all a great day
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nhvo37/on_the_description_of_the_buddha_entering_the/nenu7eo/)** _2025-09-17 06:27:23_:
+    > Why would the Buddha go through the jhānas in order and reverse order? What would be the purpose of that, for an awakened being like him?
+
+    Being able to go up and down the jhānas at will [is the result of complete mastery over one's *citta.*](https://suttas.hillsidehermitage.org/?q=an9.41#an9.41:16.1), which in turn implies complete freedom from craving. It means that the mind does not become enchanted and refuse to look beyond any arisen state, no matter how refined it already is, nor does it resist returning to states that are coarser. Such a *citta* would have to be purified from even the most refined forms of passion.
+
+    At its core, awakening is not about a specific "state" but about the fact that there is no room for passion in regard to any state.
+
+    None of this means that the jhānas are absorptions. A state of absorption has nothing to do with taming the *citta* and is thus of no  lasting benefit at all. It is simply about controlling what the *citta* gets to look at so as to appease it momentarily, like locking a wild animal into a special room where it will stop blatantly displaying the wildness that still very much remains.
+
+    > after some discussion elsewhere, some people suggested that if would be a kind of direct non-discursive, non-conceptual observation of experience, as a kind of felt interplay between perceptions (sanna) and feelings(vedana) that produces the purpose of dispassion toward experience, without the use of vitakkavicara, that allow one to develop further up the next jhānas.
+
+    I would recommend ignoring such descriptions, as they often come from people who one way or another still approach the practice with the overall attitude of absorption. If a person started out with a state where they need to remain focused on something to keep the mind calm, then in whichever way they refine that, it will never be the second jhāna nor any of the following ones. 
+
+    It’s worth noting that [the Jains denied that overcoming vitakka-vicāra was possible at all](https://suttacentral.net/sn41.8/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#1.1). That should give pause to anyone who takes their idea of the second jhāna for granted.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nhvo37/on_the_description_of_the_buddha_entering_the/nevxp18/)** _2025-09-18 13:45:13_:
+
+    *(In reply to brousseqc):*
+    > Thank you Bhante u/Bhikku_Anigha for your response and corresponding with me. I am grateful for this discussion.
+    >
+    > Concerning why the Buddha had gone through all the jhānas in successive order and back, your statement is clarifying some aspect of it for me. Still, I must admit I have a hard time understanding what those states that are mastered consist of. Are they suppose to be "non-absorbed modes of dispassioned contemplation without thinking" ? It makes sense if those are alternate "states", which are described that way in the suttas, although not absorption, but I do still have a hard time making it coherent with the notions of lifestyles in the light of DN 16, in the Hillside Hermitage point of view context — particularly in changing "states of dispassion" this rapidly, of lifestyles or comprehension. How should I understand this passage in light of the description of the jhānas from the sutta, but also as those non-absorbed mode of being/contemplation, in the context of DN 16? Changing non-absorbed states makes logic sense, but lifestyle sounds odd in this context.
+    >
+    > Related to this and my second question, I think, respectfully, that there is more confusion for me that arise in light of your response, if I can explain my perplexity. First, Keren Arbel, in her book (I am finishing it right now) actually denounces and critisizes the Vishudimmaga, commentaries and modern traditions perspective of the treating the jhāna as absorptions meditative states ; she claims in fact, in my humble understanding, that the jhānas are rather altered states of being not necessarily linked to the sitting posture, can be done anywhere, but that especially involve a broad field of awareness of the phenomenas arising — her view is very much against the absorpotion style proponents, and she links in fact also, the developpement of the jhānas, as done parallelely with the developpement of the bojjhangas, and that this dual developpement of jhānas/bojjhangas is done through observing/following rightly the satipatthanas without the hindrances.
+    >
+    >  That is why she claims it must not be absorbed, non-discusive, broad field of awareness, not narrow. And that what other people are pointing to sometimes, I think ; that it is not necessarily done in a classic sitting meditation, nor it is absorbed. Still, that doesn't clarify much for the meaning of the disappearance of vitakkavicara from the second jhana on, and how do you see those, in line with the suttas, but in the understanding of your essay. It is pretty much the same question as u/place_of_coolness just commented. What do you think? Could you help me understand in light of this please Bhante?
+    >
+    > Lastly, maybe the jains has their view of what the jhānas/second jhāna constitute, but it is surely not samma-samadhi — not the jhānas that the Buddha taught as leading to awakening. So their perspective on vitakkavicara doesn't interest me, since the Buddha clearly indicated that the second jhāna has vitakkavicara subsided, absent. That is why I do not see how dispassionate "contemplation"/"thinking" can be done after the second jhāna, without the use of non-conceptual perceptions. Without the overlay of thoughts on experience, you see the experience closer to the truth.
+    >
+    >  Can you help me understand please? Understanding this rightly would greatly motivate my pratice right now.
+
+    > Still, I must admit I have a hard time understanding what those states that are mastered consist of.
+
+    That's expected, and it'd be better to keep it that way than to think you understood them without attaining them. They are  [not things that you can understand intellectually](https://suttacentral.net/an4.77/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#1.5). And that's not because they're mystical. It's because what they consist of is the complete cessation of every attitude with which you currently relate to any phenomena, including them. 
+
+    To give a simile, they are not sights that you have not yet seen with your current eyes. Being in jhāna is having a completely different set of eyes that have no overlap with your current ones, so it's pointless to try to imagine what someone in jhāna sees for as long as you have this set of eyes. What isn't pointless is to stop maintaining the causes for your current type of vision—by unconditionally adopting the eight precepts, restraining your senses, and learning how not to welcome the five hindrances throughout your day.
+
+    > That is why she claims it must not be absorbed, non-discusive, broad field of awareness, not narrow.
+
+    Absorption or non-absorption is a secondary distinction. The fact remains that, as is standard in modern spiritual circles, she thinks that there is some sort of "more fundamental reality" that thinking inherently obstructs, i.e., mysticism.
+
+    That view alone perverts everything: it becomes about replacing one kind of experience with another one that is somehow better and more lofty, while the underlying attitude towards either experience remains unaccounted for. Whereas, the refinement of *samādhi* lies in decreasing the *extent of engagement* with the entirety of experience, not about replacing its content. It's the extent of that engagement, not the "illusory conceptual layer," that obstructs discernment (of the fact that engagements/*saṅkhāras* are suffering).
+
+---
+
+**r/HillsideHermitage** | Posted by knwp7 _2025-09-12 04:39:52_
+### [Drying Sticks - a progress note](https://www.reddit.com/r/HillsideHermitage/comments/1neu2x0/drying_sticks_a_progress_note/)
+
+I can feel my sticks drying up. I have been in similar situation before but did not carry the momentum long enough. Last few times, I did not see "the danger in slightest fault", took it as granted and soon relapsed.
+
+I can feel the freedom from the pressures, the lightness of it. I can see the choice I have of not acting-out. If I don't intentionally break it, this momentum can continue to build.
+
+The line of questioning this time has been "do I really have to?" - trying to see gratuitousness of my actions. Few months ago, it was "what's pressuring me right now?". They both help me see my intentions.
+
+Right now I am at a neutral ground where I am not pulled too much. Now is the time to work on contemplating the bait of sensuality. To turn away from it even more strongly. Drying up makes the abandoning easier.
+
+The confession-server is helping cultivate accountability and shame. I did not realize it could be so useful - or I would have joined earlier!
+
+* Even though I had (still have) dis-passion for media (music, TV, movies), the habit of checking news had crept-in; that leak had widened into bouts of social-media browsing for "harmless" fun. For the last two months, my thoughts are free of politics and happenings everywhere - whether sad or amusing. (The initial dis-passion arose upon realizing worthlessness of media and ideas compared to Dharma)
+* Eating food more deliberately and questioning - whether I must give-in to the urge to indulge - is helping craving subside.
+* Signs of lust are appearing earlier and earlier because I am trying to actively avoid attending to sights wrongly. A peripheral look or glance at a woman is enough to alert me - "do I really have to look again?". Sexual dreams merely wake me up; I refuse to indulge or recollect the details later in the day. All this, coupled with withdrawal from media - has helped the craving subside.
+
+This progress is still subject to disruption by travel or a major-event in family or extended-family. Keeping solitude is not entirely up to me and so the progress in these spheres is circumstantial too.
+
+I would appreciate guidance from Ven. Anigha please.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1neu2x0/drying_sticks_a_progress_note/ne5t7at/)** _2025-09-14 13:11:44_:
+    True, you do want to cultivate more of the same. But to that end, you must not allow yourself to exclude the anticipation or excitement that might be building up towards "drying the sticks more," because the sticks will start getting wet again if you do so. Though it's not explicit sensual indulgence, that attitude implies passion, and passion is what keeps the sticks wet, not just specific sense objects. 
+
+    So do maintain vigilance in regard to sensuality specifically because that is the greatest pitfall, but remember that any leaning of the mind towards anything whatsoever needs to be included in the quest of "drying the sticks."
+
+---
+
 **r/HillsideHermitage** | Posted by Global_Ad_7891 _2025-09-12 02:02:48_
 ### [Question about Right View and study](https://www.reddit.com/r/HillsideHermitage/comments/1ner2vt/question_about_right_view_and_study/)
 
@@ -151,6 +340,46 @@ I have this desire to buy a new bicycle. It's like pressuring to buy it. I reall
 
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1n953j2/desire_to_buy_bicycle/ncokvsg/)** _2025-09-06 04:39:43_:
     If there was no pressure behind it—in which case there would be no grief at the prospect of not getting the bicycle—then it would be fine. But it sounds like there is obviously pressure.
+
+---
+
+**r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2025-08-31 19:51:41_
+### [Un-Opposing the World (notes on mettā by Sister Medhini)](https://www.hillsidehermitage.org/un-opposing-the-world/)
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1n549bm/unopposing_the_world_notes_on_mettā_by_sister/new67rj/)** _2025-09-18 14:27:50_:
+
+    *(In reply to spiffyhandle):*
+    > I believe Ajahn Nyanamoli said that for a person to do metta, they must be able to see their mind, which means they must be a sotapanna. So for us normies, what can we do?
+
+    > what can we do? 
+
+    Apart from working towards permanent eight precepts, come to terms with the fact that whatever you do when it comes to the Dhamma will not be right. The effort then becomes about understanding what makes *any* effort right, rather than taking up X, assuming it to be right as it is, and hoping for that to lead to some result. 
+
+    So it's not that a puthujjana should never make any effort towards mettā, but that they should never forget that their current understanding of mettā (or any aspect of the Buddha's teaching) is the very reason they are not a sotāpanna.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1n549bm/unopposing_the_world_notes_on_mettā_by_sister/nf42d18/)** _2025-09-19 18:10:31_:
+
+    *(In reply to spiffyhandle):*
+    > So it's about incremental understanding and being *less wrong*, until there is perfect understanding, which is sotāpanna?
+    >
+    > How can a puthujjana make an effort towards mettā if they can't see their mind? Was Ajahn Nyanamoli over simplifying things in the most recent video? Am I misunderstanding him? https://youtu.be/eYG8ypgBlFs?t=340
+    >
+    > To save you the time of listening to the video
+    >
+    > > Metta begins when you see the citta...If you don't see the citta there is no practice of brahmaviharas...All the meditation in the suttas which are really like practices of composure and calming of the animal, require you to see the animal, to clearly discern the mind for what it is. And if you do so, you'd be a sotapanna. So you trying to calm something that you don't see, it makes no sense.
+    >
+    > Thank you Bhante.
+
+    > So it's about incremental understanding and being less wrong, until there is perfect understanding, which is sotāpanna?
+
+    Yes.
+
+    > How can a puthujjana make an effort towards mettā if they can't see their mind?
+
+    Any effort towards mettā would have to involve trying to see their mind and learning how to tame it. 
+
+    They can't just grab the tool and use it; they need to remember that they can't even grab it properly yet. But they can and should train in grabbing it properly.
 
 ---
 
