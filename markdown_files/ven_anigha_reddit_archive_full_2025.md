@@ -14,6 +14,162 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Arc-Enemy _2025-09-27 07:56:09_
+### [Regarding the 7th Precept.](https://www.reddit.com/r/HillsideHermitage/comments/1nrpgpp/regarding_the_7th_precept/)
+
+
+I've been trying to keep the 8 precepts for a while and a few questions regarding 7th Precept keeps bugging me.
+
+What is causing me trouble understanding right now, is where would say reading dostoevsky stand in this position ?
+
+Is it just a waste of time  or a form of giving into desire ??
+
+Past few days my mind has been ruminating on the question of why engaging in art of any form is abstained from. 
+Which was a result of my mind thinking about the art that I've consumed. 
+I don't feel much of an urge to engage with any form of media (as of now at least), but Just pondering on the "vibe" of it.
+
+Best way I can describe it is that my mind has romanticised random mundane things, and they act as a trigger for getting lost in a Euphoria of Feelings. (Like the cliche of "Oh Ocean, how majestic and serene, What heavenly beauty, may this last forever......" but unironically)
+
+How do I tackle this state of mind ?
+
+Not get lost in it or simply abstain from thoughts that keep this state sustained ??
+
+
+
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nrpgpp/regarding_the_7th_precept/ngixgcz/)** _2025-09-27 18:58:22_:
+     > Is it just a waste of time or a form of giving into desire ?? 
+
+    It is a form of giving in to desire only if there is desire in the background while engaging. That is something you would need to discern on every individual occasion.
+
+    As for a waste of time, it most likely is. Any aid such reading might provide on the quest to free yourself from craving would be extremely tangential and replaceable, so it doesn't justify the downside of it quite likely fueling your hindrances through worldly content and ideas.
+
+    >  How do I tackle this state of mind ? 
+
+    First of all by not consuming art anymore. Otherwise you're feeding the existing fire. Then, with what you're left with, recognize the line where there is the delight but you're not the one "putting" it there. You see the delight as a dangerous bait that you shouldn't fall for, you're certainly not planning to ever act out of it, and yet you're not trying to force it to disappear. And that's how it eventually subsides in the right way.
+
+---
+
+**r/HillsideHermitage** | Posted by gradua1_training _2025-09-26 02:59:29_
+### [Can't help but focus on the breath](https://www.reddit.com/r/HillsideHermitage/comments/1nqqct6/cant_help_but_focus_on_the_breath/)
+
+Before encountering HH, I used to practice breath meditation and could often spend long periods of time in focused attention. For some time now I’ve set that aside as a method for developing understanding and clarity.
+
+One thing that still lingers, however, is that when I sit and “do nothing,” I automatically shift back to focusing on the breath. This often leads to tension in my throat, making it uncomfortable to contemplate or sit for extended periods. I’ve also noticed that it mainly happens when I’m seated.
+
+Has anyone else experienced this? What might be the causes, and are there ways to ease or remedy it?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nqqct6/cant_help_but_focus_on_the_breath/ngisn1r/)** _2025-09-27 18:32:58_:
+    You could avoid sitting as a practice altogether. You will not lose anything of significance by doing so. In fact it might be beneficial in that it would indirectly force you to give up lingering misunderstandings about meditation built up from before, so that you realize that the work is exactly the same regardless of your posture.
+
+    You do obviously have to be alone though.
+
+---
+
+**r/HillsideHermitage** | Posted by immanentfire _2025-09-25 13:02:14_
+### [HH and Yogācāra](https://www.reddit.com/r/HillsideHermitage/comments/1nq667s/hh_and_yogācāra/)
+
+I'm wondering whether anyone has explored the similarities between the teachings of HH and Yogācāra? While I am still working on trying to understand both, it strikes me that there does seem to be some convergence. (See the end of the post for some brief notes).
+
+Yogācāra has evolved numerous branches over the last 1500-2000 years, but it is at its core a phenomenological interpretation of the suttas with extensive similarities to Husserlian phenomenology. Dan Lusthaus has an extensive treatment in his book ["Buddhist Phenomenology"](https://archive.org/details/buddhistphenomenologydanlusthauscurzonroutledge_202003_160_W/page/n4/mode/1up). While it has developed its own language to clarify aspects of the teachings, some scholarly studies have shown that many of its key tenets are not inconsistent with the early texts (and in some cases is more faithful to them than Theravada commentarial literature).
+
+There are a couple of reasons I ask. Firstly, it is only through contact with HH that I realized that a lot of what I assumed was standard Buddhism (based on the teachings I received) is not what is taught in 'orthodox' Theravada. Secondly, I find some of the language of Yogācāra quite intuitive and, if there are indeed similarities, there is a vast collection of accumulated knowledge in the Yogācāra corpus that might further aid my understanding.
+
+Thanks in advance for your thoughts/ views. 
+
+----
+ 
+My rough summary* of some key tenets is:
+
+- 'Mere mind': Yogācāra asserts that everything we know, conceive, imagine, or are aware of (even categories such as rupa) we know through cognition. It never denies that there are sense-objects, but it denies that it makes any sense to speak of cognitive objects occurring outside an act of cognition. The mind doesn't create the physical world, but it produces the interpretative categories through which we know and classify the physical world, and it does this so seamlessly that we mistake our interpretations for the world itself, i.e., we take our own mental constructions to be the world. A deceptive trick is built into the way consciousness operates at every moment. Consciousness projects and constructs a cognitive object in such a way that it disowns its own creation - pretending the object is "out there" - in order to render that object capable of being appropriated. This narcissism of consciousness is called vijnapti-matra ("mind only", "mere mind"), "nothing but conscious construction." 
+
+- Co-cogntion: any object of consciousness cannot be differentiated from the conscious awareness of it since both are always experienced as one thing. E.g. since we never experience blue without the experience of blue, they cannot be differentiated empirically. (Nor can they be differentiated by inference, since this would need to be based on a pattern of past experiences which included the absence or presence of the two elements). A classic statement, from Dharmakīrti's Pramānaṿārttika is: "cognition experiences itself, and nothing else whatsoever. Even the particular objects of perception are by nature just consciousness itself."
+
+- Dependent origination: The Yogacarins argue that dependent origination is the mental process of the construction of something's apparent/ conceptualized nature. 
+
+- Emptiness: given the primacy of cognition, emptiness is understood to be the unreality of any duality between 'self', 'other', 'physical', 'non-physical' etc. since there is really no such separation of cognized and cognition, but an interconnected causal stream of mentality which is falsely divided up. 
+
+- Meditation: mind is the primary subject of meditation. Rather than focusing on an object, Yogācāra meditation involves an exploration of one's own consciousness, its structures, and the way it constructs reality through mental imprints and filters. 
+
+- Valid cognition: is seen as the removal of obstacles which prevent us from seeing dependent conditions (the mental and perceptual conditions by which sensations and thoughts occur) in the way they actually become. This leads to a process referred to as āśraya-parāvṛtti ("overturning the cognitive basis", or "revolution of the basis"), which is the overturning of the conceptual projections that act as the base of our cognitive actions. This is the transformation of the basic mode of cognition into jñāna (knowledge, direct knowing), which is a non-dual knowledge that is non-conceptual (nirvikalpa), i.e., "devoid of interpretive overlay".
+
+[*With apologies for any errors]
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nq667s/hh_and_yogācāra/ngirmbt/)** _2025-09-27 18:27:33_:
+    All of the key tenets you listed fall within the types of speculation that the Buddha denounced as *ayoniso manasikara* in MN 2. I don't see any similarity with our teachings at all, and some of those ideas directly contradict the Suttas (just like the bulk of what is standard doctrine in Theravada).
+
+---
+
+**r/HillsideHermitage** | Posted by Mountain25th _2025-09-22 20:31:37_
+### ["Why doesn't Maranasati sink in deeply enough for me?"](https://www.reddit.com/r/HillsideHermitage/comments/1nnxps6/why_doesnt_maranasati_sink_in_deeply_enough_for_me/)
+
+Posting this question for hopeful answer from one of the venerables at HH, from a friend - 
+
+  
+  
+Homage to the Buddha, the Dhamma, and the Sangha, homage to the venerables of Hillside Hermitage and their teachers, 
+
+I’ve been trying to keep strict sense-restraint by practicing the eight precepts (and avoidance of sensuality in general). Because of my daily mental workload, I am not too strict about how much food I consume, but I keep my sleep to about four hours to have more time for practicing contemplation and mental discipline. I’ve found that, with a basis of sense-restraint, maranasati becomes much easier to practice, and by maintaining the context of death I am much less susceptible to sensual pulls and worldly worries.
+
+
+
+Still, death remains something I take for granted. For example, when I want to practice maranasati, I turn it into an idea that I then try to bring up in my mind, and I let it endure as a context peripheral to all else that might appear in front of me (the sense doors, desires, thoughts are all “part” of that context, as “particulars” of it). But it feels superficial or too “abstract” sometimes—it’s seen by me as an ambiguous, elusive, “taken-at-face-value” thing, and I find that it doesn’t sink in deeply enough (it makes me slightly anxious; it is “felt” anxiously in a sort of ambiguous way, but it doesn’t make me deeply, existentially concerned with avoiding sensuality for the rest of my life). How do I stop keeping it at arm’s length by conceptualizing it as an abstract idea, and how do I let that context genuinely sink in?
+
+
+
+Heidegger says that for an inauthentic person, death shows up as an “actuality” and not as a “possibility”: “Death is certain, but it will not happen now.” That “now” keeps extending, and in that sense the person avoids the real possibility of death every time. He doesn’t feel “touched” by it because he has pushed away the possibility of death (which is implicit in its appearance) and conceptualized it; he has “covered” it up.
+
+
+
+When I think of death as an actuality—a “thing” that will happen to my body—I turn it into an image. Then I try to imagine its implications, and I get a sense of how the “perishing” of this “physical body” (with which the ever-elusive and ambiguous sense of “self,” the “I,” is tied up; it doesn’t matter where exactly it is, but in itself it is determined by the body, by kāyasaṅkhāra) would inadvertently undermine my sense of self as well, but that still remains too abstract and ambiguous for me. Thinking “this is my body” isn’t the actual body, but a thought of what the body is; what the body is, is that as a result of which I have the possibility of being aware of a “presence of the body being there”; it’s a possibility that precedes my actualization, remembering, or reflection of it, as that which precedes any reflection of it. When I think of “the body being liable to dying,” I turn that into an actuality; by trying to think in any way about death, it becomes an actuality and not an already enduring possibility that precedes any actualization of it, and all attempts at thinking about it in this way conceal the possibility of it in one way or another. By trying to “discern the background of things being liable to death,” I still turn it into a “thing,” and not a context to all things (but how do you make a context into something different from a thing? I still have to think about “death” as a thing to discern its context, and then apply the context of a thing to another thing, and this, in general, allows me to see that death is a context to certain things that might arise in my experience, but in a sort of “disconnected” and “abstract” way as well).
+
+
+
+In general, when trying to find where the “I” is, one will always be confronted by a sort of elusiveness or ambiguity of it; it is neither “here” nor “there.” Although I don’t know if this is correct, I usually see that “the experience of elusiveness” is in itself an experience, and if I remain focused on the “nature” of an experience (as an elusive thing as such), I still undermine the elusiveness or any appropriation that results from it, but I still find that sometimes it does not sink in deeply enough, especially in the context of maranasati.
+
+
+
+How do I see through the “ambiguity” and elusiveness of my idea of death so I don’t keep it at arm’s length anymore? How do I let it sink in deeply enough so it undermines everything within my life (rather than being perceived as a “thing among things in the world,” and instead as “the ultimate inescapable context of all things within the world”)? Is it enough to simply think about the idea of death and try to imagine what possibilities that would hold for anything else that might appear in my experience for it to have effect? How do you discern it as a context that is not as superficial as just another “idea,” and what is different between one’s “idea of death” and the “context” of death?
+
+
+
+Altough I dont think the issue is in lack of sense-restraint (which I am trying to work on daily), but on the fact that I cant practice Maranasati because I don't understand what Marana or Sati is yet, I am willing to do anything to try and understand what they are exactly (which is what I have been reading Nyanamoli, Nanavira, and Heidegger and more philosophers for). There is no understanding taking place without sila, but the context still must be learned to be discerned which I find it very difficult to do, your help and advice is deeply appreciated, thank you. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nnxps6/why_doesnt_maranasati_sink_in_deeply_enough_for_me/ng4htne/)** _2025-09-25 13:34:02_:
+    Death is relational. You will only find the "actual" death–the one that you cannot be unafraid of unless you're an Arahant–as the negative of your sense of safety or well-being in the broadest sense. It is the ever-present possibility of that safety being destroyed completely. And so if the idea of death feels abstract or even dull, it's because you are not contrasting it with what you hold as safe (and there is plenty of opportunity for that holding even within a restrained lifestyle).
+
+    The second point is that you shouldn't constantly try to fabricate a sharp sense of fear in regard to death. Sometimes it won't feel as sharp as other times. The goal is just to not completely forget about that context regardless of how it feels. If you try to force it to feel sharp, then through that very attempt you are obscuring the direction of death, which is always opposite to wherever your sense of control is. If anything is taken as safe, it will be the sense of control at the very least.
+
+---
+
+**r/HillsideHermitage** | Posted by WebSubstantial6325 _2025-09-21 13:29:39_
+### [Were the Suttas primarily meant for sekhas?](https://www.reddit.com/r/HillsideHermitage/comments/1nms02d/were_the_suttas_primarily_meant_for_sekhas/)
+
+What is Hillside's position when it comes to whom the Suttas are directed to?  Do most already presume the listener to have the ariyan right view?  For example, is one capable of understanding what *ayonisomanasikāra* is without an understanding of *yonisomansikāra*?  
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nms02d/were_the_suttas_primarily_meant_for_sekhas/nfjxsl8/)** _2025-09-22 05:48:23_:
+    > Do most already presume the listener to have the ariyan right view? 
+
+    They at least presume that the listener recognizes that they are ignorant about what's being discussed. 
+
+    That's not unique to the Suttas but a basic attitude that would underlie any serious attempt at learning anything. It only needs reminders because modern spiritual culture tends to regard enlightenment as something that one can define for oneself. So  unless they are told, a lot of people wouldn't read the Suttas with the [same natural humility](https://suttas.hillsidehermitage.org/?q=an5.152) they would have when approaching almost any other subject they know they are in the dark about.
+
+---
+
+**r/HillsideHermitage** | Posted by ComprehensiveCamp486 _2025-09-20 18:53:59_
+### [How attainable are the attainments of a saddhānusārī (faith-follower) and a dhammānusārī (Dhamma-follower)?](https://www.reddit.com/r/HillsideHermitage/comments/1nm6ce6/how_attainable_are_the_attainments_of_a/)
+
+From what I’ve read, these seem far beyond mere intellectual belief common in many Buddhist circles. Wouldn’t someone at this stage already be like 80–90% of the way to stream-entry, and what exactly have they understood or realized to be called such?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nm6ce6/how_attainable_are_the_attainments_of_a/nfjw1d6/)** _2025-09-22 05:32:35_:
+    They’ve understood [all of what a sotāpanna understands](https://thebuddhaswords.net/sn/sn25.html). They are not puthujjanas anymore; they have the right view and [are irreversibly destined for Arahantship](https://suttas.hillsidehermitage.org/?q=mn34#mn34:10.1_mn34:10.2).
+
+    In practice, it is a state that nobody can rightly regard themselves to be in, as there is by definition no self-recognition of one's attainment of right view up until full stream-entry. In other words, every actual *saddha-/dhammānusāri* will still see themselves as a puthujjana.
+
+---
+
 **r/HillsideHermitage** | Posted by LotusOfUpekkha _2025-09-17 17:07:09_
 ### [Conditional restraint and learning from my failure](https://www.reddit.com/r/HillsideHermitage/comments/1njiyey/conditional_restraint_and_learning_from_my_failure/)
 
