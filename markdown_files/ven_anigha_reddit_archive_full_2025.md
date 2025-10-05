@@ -14,6 +14,37 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by buddho_007 _2025-10-01 02:13:31_
+### [Suffering is to be understood](https://www.reddit.com/r/HillsideHermitage/comments/1nuw6jg/suffering_is_to_be_understood/)
+
+Hello, I was listening to the YouTube video from Hillside Hermitage titled “Suffering is to understood”.  The video talks about the need to practice sense restraint and virtue as the basis for developing right understanding of our suffering which then allows one to explain its cause and escape without relying on external references.
+
+I am trying to understand the above guidelines wrt to my current problem which is emotional distress due to my mother’s ill-health. How does one develop right understanding in the immediacy of my current experience which at the moment is quite distressing? Is virtue in this situation simply about being present to whatever emotions and images that come up within and not giving in to the unpleasant feeling by reacting emotionally?  There is immense dukkha, sorrow and helplessness in my inability to alleviate her suffering. Intellectually I do
+understand the impermanence of all conditioned things but the raw feeling and anguish of losing the very person who brought me into existence is very hard to cope with.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nuw6jg/suffering_is_to_be_understood/nhbxc39/)** _2025-10-02 08:20:22_:
+    > Is virtue in this situation simply about being present to whatever emotions and images that come up within and not giving in to the unpleasant feeling by reacting emotionally? 
+
+    Virtue in every situation is about not acting in ways that are directly rooted in passion, aversion, or desire for distraction. That's not going to directly help you with the situation in any way, but it will remove the fuel for you being affected by it. 
+
+    It affects you right now because your actions and lifestyle as a whole so far have maintained and probably further strengthened the default attitude of chasing after pleasure and resisting displeasure this way or that. Now, although you may not want to resist this displeasure, you can't stop that craving because your mind has been well trained to have it through all the other things you've been doing.
+
+---
+
+**r/HillsideHermitage** | Posted by xpingu69 _2025-09-27 11:33:13_
+### [The lie of lay life](https://www.reddit.com/r/HillsideHermitage/comments/1nrsxgo/the_lie_of_lay_life/)
+
+Can you really see the Dhamma as a lay person? Why would I remain lay except for the wrong reasons? There is no reason to be a lay person except the sensuality and the imperfect safety. How can I see the Dhamma without adjusting my lifestyle too? Without going forth? I don't think it's possible. It seems like a daunting task, but honestly I don't think it's possible otherwise. You can't see Dhamma and at the same time hold the opposing values, like career, family, possessions etc. That's my current understanding. I would need to give those things up. And if I am honest to myself, if I give them up, there is no reason to remain a lay person. None at all. So **giving them up internally would mean going forth externally too.**
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nrsxgo/the_lie_of_lay_life/nglsbk2/)** _2025-09-28 05:44:11_:
+    > You can't see Dhamma and at the same time hold the opposing values, like career, family, possessions etc. That's my current understanding. I would need to give those things up. 
+
+    That is certainly true. 
+
+    At the same time, not being formally ordained doesn't automatically imply holding those opposing values, and being formally ordained does not by itself imply *not* holding them. Not keeping the eight precepts, and in general acting in line with those opposing values is what does. And that is something you are fully responsible for each and every moment regardless of the clothes you wear. If you don't see that then you won't be ordaining for the right reasons.
+
+---
+
 **r/HillsideHermitage** | Posted by Arc-Enemy _2025-09-27 07:56:09_
 ### [Regarding the 7th Precept.](https://www.reddit.com/r/HillsideHermitage/comments/1nrpgpp/regarding_the_7th_precept/)
 
@@ -68,37 +99,35 @@ Has anyone else experienced this? What might be the causes, and are there ways t
 
 ---
 
-**r/HillsideHermitage** | Posted by immanentfire _2025-09-25 13:02:14_
-### [HH and Yogācāra](https://www.reddit.com/r/HillsideHermitage/comments/1nq667s/hh_and_yogācāra/)
+**r/HillsideHermitage** | Posted by None _2025-09-25 13:02:14_
+### [HH and Yogācāra]()
 
-I'm wondering whether anyone has explored the similarities between the teachings of HH and Yogācāra? While I am still working on trying to understand both, it strikes me that there does seem to be some convergence. (See the end of the post for some brief notes).
-
-Yogācāra has evolved numerous branches over the last 1500-2000 years, but it is at its core a phenomenological interpretation of the suttas with extensive similarities to Husserlian phenomenology. Dan Lusthaus has an extensive treatment in his book ["Buddhist Phenomenology"](https://archive.org/details/buddhistphenomenologydanlusthauscurzonroutledge_202003_160_W/page/n4/mode/1up). While it has developed its own language to clarify aspects of the teachings, some scholarly studies have shown that many of its key tenets are not inconsistent with the early texts (and in some cases is more faithful to them than Theravada commentarial literature).
-
-There are a couple of reasons I ask. Firstly, it is only through contact with HH that I realized that a lot of what I assumed was standard Buddhism (based on the teachings I received) is not what is taught in 'orthodox' Theravada. Secondly, I find some of the language of Yogācāra quite intuitive and, if there are indeed similarities, there is a vast collection of accumulated knowledge in the Yogācāra corpus that might further aid my understanding.
-
-Thanks in advance for your thoughts/ views. 
-
-----
- 
-My rough summary* of some key tenets is:
-
-- 'Mere mind': Yogācāra asserts that everything we know, conceive, imagine, or are aware of (even categories such as rupa) we know through cognition. It never denies that there are sense-objects, but it denies that it makes any sense to speak of cognitive objects occurring outside an act of cognition. The mind doesn't create the physical world, but it produces the interpretative categories through which we know and classify the physical world, and it does this so seamlessly that we mistake our interpretations for the world itself, i.e., we take our own mental constructions to be the world. A deceptive trick is built into the way consciousness operates at every moment. Consciousness projects and constructs a cognitive object in such a way that it disowns its own creation - pretending the object is "out there" - in order to render that object capable of being appropriated. This narcissism of consciousness is called vijnapti-matra ("mind only", "mere mind"), "nothing but conscious construction." 
-
-- Co-cogntion: any object of consciousness cannot be differentiated from the conscious awareness of it since both are always experienced as one thing. E.g. since we never experience blue without the experience of blue, they cannot be differentiated empirically. (Nor can they be differentiated by inference, since this would need to be based on a pattern of past experiences which included the absence or presence of the two elements). A classic statement, from Dharmakīrti's Pramānaṿārttika is: "cognition experiences itself, and nothing else whatsoever. Even the particular objects of perception are by nature just consciousness itself."
-
-- Dependent origination: The Yogacarins argue that dependent origination is the mental process of the construction of something's apparent/ conceptualized nature. 
-
-- Emptiness: given the primacy of cognition, emptiness is understood to be the unreality of any duality between 'self', 'other', 'physical', 'non-physical' etc. since there is really no such separation of cognized and cognition, but an interconnected causal stream of mentality which is falsely divided up. 
-
-- Meditation: mind is the primary subject of meditation. Rather than focusing on an object, Yogācāra meditation involves an exploration of one's own consciousness, its structures, and the way it constructs reality through mental imprints and filters. 
-
-- Valid cognition: is seen as the removal of obstacles which prevent us from seeing dependent conditions (the mental and perceptual conditions by which sensations and thoughts occur) in the way they actually become. This leads to a process referred to as āśraya-parāvṛtti ("overturning the cognitive basis", or "revolution of the basis"), which is the overturning of the conceptual projections that act as the base of our cognitive actions. This is the transformation of the basic mode of cognition into jñāna (knowledge, direct knowing), which is a non-dual knowledge that is non-conceptual (nirvikalpa), i.e., "devoid of interpretive overlay".
-
-[*With apologies for any errors]
+[deleted]
 
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nq667s/hh_and_yogācāra/ngirmbt/)** _2025-09-27 18:27:33_:
     All of the key tenets you listed fall within the types of speculation that the Buddha denounced as *ayoniso manasikara* in MN 2. I don't see any similarity with our teachings at all, and some of those ideas directly contradict the Suttas (just like the bulk of what is standard doctrine in Theravada).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nq667s/hh_and_yogācāra/ngm1yif/)** _2025-09-28 07:12:58_:
+
+    *(In reply to [deleted]):*
+    > [deleted]
+
+    > MN2 lists questions concerned with the existence or non-existence of the self or the world. None of the points I listed deal with that. 
+
+    I would seem so if you don't look beyond the mere words. All of what you listed seeks to provide *explanations* for the way things are, and that is the spirit behind all those wrong directions listed in MN 2. The fact that the word "self" is not used doesn't change the fact that it's a speculative theory about precisely that which is taken as self (consciousness, mind, etc.) 
+
+    The core difference between an explanation and the actual Dhamma is that with the latter, nothing has been understood unless your mind is automatically liberated from the very *possibility* of dukkha purely by virtue of that understanding, with no additional steps required.
+
+    Whenever the Buddha talked about *paticcasamuppāda,* it was in the latter and not the former context. That is the main point that all the other interpretations of PS I'm aware of, including both Theravada's Yogacara's, fail to take into account. The deepest issue is that fundamental difference in spirit, not solely their individual details (but those also miss the mark and stray outside the Suttas to boot). 
+
+    > As to similarities, I am predominantly referring to the view that Yogācārins have that the primary task is not to focus on an object in meditation
+
+    That's better than the alternative, but at the same time it's a very broad distinction. There is plenty of room to go completely astray even without any object-focusing.
+
+    > by understanding that the attributes we ascribe to objects "out there" are simply a projection of our mental conditioning. 
+
+    This is another instance of the proverbial mistake of blaming the way things appear for one's suffering in regard to them, and it's something we've refuted many times already since it's a common thread to all wrong views. What that implies is that despite doing everything wrong, one could be liberated by accident if the distortion were suddenly corrected by some external factor. 
+
+    What we and the Suttas teach is the exact opposite. Since craving is your responsibility alone, nothing other than your own rightly directed effort can be the cause for freedom, even hypothetically. Accidental liberation not just impossible in practice; the very concept is inapplicable even in theory.
 
 ---
 
