@@ -14,6 +14,20 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Severe-Cream4599 _2025-10-06 02:20:43_
+### [Should I restraint love for my family,friends?](https://www.reddit.com/r/HillsideHermitage/comments/1nz74w8/should_i_restraint_love_for_my_familyfriends/)
+
+Love is also a sensual pleasures but it feels pure. Also sympathy for people who are suffering,wanting to help them,love them. Is restraint for this necessary according to buddha? And also why impermanance is look upon like it's some kind of bad thing. In my perspective, impermanance makes the things In life more precious,valuable,appreciative if one acknowledges it. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1nz74w8/should_i_restraint_love_for_my_familyfriends/niglc57/)** _2025-10-08 17:57:39_:
+    > Also sympathy for people who are suffering,wanting to help them,love them. Is restraint for this necessary according to buddha?
+
+    Yes. That doesn't mean you need to deny or suppress those emotions though. It means that when they arise and persist, you recognize that they make you liable to great suffering, so it's not worth embracing them. If you stop embracing them then they will slowly die out. 
+
+    Then, you will never again help someone just because your feelings for them would torture *you* mentally if you didn't help them. That is the only type of help that counts as genuine, and you would be free from biases towards some individuals and implicit hatred towards others who oppose them.
+
+---
+
 **r/HillsideHermitage** | Posted by buddho_007 _2025-10-01 02:13:31_
 ### [Suffering is to be understood](https://www.reddit.com/r/HillsideHermitage/comments/1nuw6jg/suffering_is_to_be_understood/)
 
