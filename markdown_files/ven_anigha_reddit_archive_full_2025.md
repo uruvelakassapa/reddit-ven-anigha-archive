@@ -14,6 +14,145 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Double-Ad2563 _2025-10-13 06:37:44_
+### [Do they teach the Dhamma?](https://www.reddit.com/r/HillsideHermitage/comments/1o5ceav/do_they_teach_the_dhamma/)
+
+https://youtu.be/CGtWQl6_haE?si=QIwsFjDZUCVBUtMR
+
+I guess this is more of a question towards Bhikkhu Anigha and the Sangha for obvious reasons.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1o5ceav/do_they_teach_the_dhamma/njmtsqh/)** _2025-10-15 15:12:04_:
+    A good number of people seem to have the perception that they are presenting an "easier" version of what we teach. From what I recall, some of those videos give the impression that one can achieve right view without living up to the same requirements we often talk about, i.e., celibacy, non-delight in company, giving up the misguided safety of modern Buddhist views and practices, etc. 
+
+    So, I think those people probably find the Dhamma Hub teachings "easier" not really because of their teaching style, but because those people have already pre-decided to make compromises in their virtue and their awareness of uncomfortable truths, and they don't want to have to wrestle with guilt. That means, those people want to avoid the actual training without at the same time admitting it and feeling bad about it, and you can't stray further away from the Dhamma than that: lack of *hiri-ottappa* in regard to unwholesome qualities. If someone enables that attitude, they are by extension not teaching the Dhamma.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1o5ceav/do_they_teach_the_dhamma/njt8lkf/)** _2025-10-16 15:38:34_:
+
+    *(In reply to WassaMattaMe):*
+    > >without living up to the same requirements we often talk about, i.e., celibacy
+    >
+    > In perusing Dhamma Hub videos and relative comments for my posts in this thread, I came across back-and-forth commentary with Florian advising virtue, including celibacy. The video I linked in one of those posts also specifically singles out non-celibacy as something to avoid. So it might be the case that that particular argument might be pushed back against with some legitimacy. That does not mean that your post overall is not accurate - for example, clearly non-delight in company is something not practiced in their Discord server, but most of their members might gloss over that because... well, you know why.
+    >
+    > Because of the overlap between the Dhamma Hub and the teachings of HH/Samanadipa (meaning that most of the members in their DH discord server are also familiar with your teachings), my argument in this thread has been along the lines of the following analogy: a patient needs to take pills to cure a life-threatening disease, and has the choice between two bottles: the first is a certified set a pills that are 100% safe, the second has pills that look just the same as the first bottle, but are of dubious origin, so some of the pills might be just as effective as the first bottle, but some are not: they could either be placebos, and some could aggravate the disease and even kill the patient. Now, given that both are available, right there and then, at the same cost and convenience, some patients might still choose the second bottle, for a number of reasons: they might believe they are just as safe, or like the packaging better, or that's what their friends are advising, or it's popular on TikTok, or something. And then I tried to warn them to reconsider and ponder on those criteria they are using for their choice, in light of the fact that neither they nor their friends might not have any "medical" background.
+    >
+    > Anyways, I take this opportunity to salute you, and to thank you for joining this important conversation with your wisdom, as always.
+
+    I see. Well, regardless, I was primarily concerned with warning anyone who hopes they can get what sounds like the same result with less work and difficulty, whether it's because that is what is explicitly stated by some teacher or because that's the idea they automatically walk away with when things are not stated bluntly enough.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1o5ceav/do_they_teach_the_dhamma/njtbrbr/)** _2025-10-16 15:54:00_:
+
+    *(In reply to Double-Ad2563):*
+    > Bhante, I noticed that your previous reply seemed somewhat indirect. You described the kind of attitude that would indicate someone is not teaching the Dhamma, but you didn't explicitly say whether that applies to the Dhamma Hub or not. Because of that, it's not entirely clear whether your statement was meant as a general observation or as a specific assessment.
+    >
+    > For the sake of clarity and to avoid misunderstanding, may I ask directly: in your view, does the Dhamma Hub teach the Dhamma, or not?
+
+    > Bhante, I noticed that your previous reply seemed somewhat indirect.
+
+    Yes, that was on purpose. Rather than offloading the responsibility to an authority who decrees what is Dhamma and what is not, people should be transparent enough to realize for themselves when a concession to their defilements presents itself as the Dhamma. They need to be capable of seeing the genuine, probably uncomfortable-to-admit reasons why they might sometimes find one teacher or teaching more pleasing than another. 
+
+    That applies universally, and it needs to be understood on that level rather just decided with one specific teacher. Why? Because you can (and realistically will) distort what even the best teacher in the world says in line with your wrong views, and then it ceases to be the Dhamma even if it originally was in the way the teacher meant it. 
+
+    If they can't have that level of transparency, then that person will not get very far despite having the Buddha face-to-face as their sole teacher.
+
+---
+
+**r/HillsideHermitage** | Posted by Consistent-Buy5570 _2025-10-13 02:46:31_
+### [Conceit in speech](https://www.reddit.com/r/HillsideHermitage/comments/1o586da/conceit_in_speech/)
+
+Hi, I was previously a person who was thoroughly into nonduality. I have watched videos of various contemporary buddhist-nondual videos... that talk about anatta, and non duality. The premise is either noticing thoughts and dissociating into a space of not thinking, investigating the sense fields... doing emotion work... Putting yourself into situations that are unsettling or emotionally disturbing to withstand them and clarify the emotions etc.
+
+My practices revolved mostly on focusing the objectivity of the senses, clarifying the nonduality in sound, sensation, and immersing yourself more and more into the senses. I would be absorbed, sometimes be pleased and relieved that the contemporary definitions of jhana support my experiences, and reify a view of being already awake to neglect the uneasiness of doubt.
+
+But from the suffering POV i was still suffering quite a lot, and I could manage it quite well... I would experience absorption into the senses more and more...
+
+But as HH expounded on the wrong views I had been holding directly, without making it grey... or giving any space for me to be complacent, I realized I was no sotapanna, and despite being very uneasy I was a bit relieved that there was actually a possibility of uprooting suffering to such a degree that its not possible anymore and due to the clarity expressed I could take it up on faith.
+
+But I am in a few of these nonduality discord servers and have a bunch of friends who talk about nonduality... and I find myself often trying to fix there wrong views, trying to clarify them... and it isn't coming from a place of wholesomeness or it is coming from illwill and reaction and a lot of emotion.
+
+Sometimes I stop and contemplate what is going on here, but I lose that context quite fast and see myself being unable to restrain. 
+
+Hopefully by making this post I make this more serious for myself and receive feedback
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1o586da/conceit_in_speech/njmujk8/)** _2025-10-15 15:15:43_:
+    Conceit and ill will is bound to pollute your speech at times if you haven't perfected the precepts yet. That impurity cannot possibly be absent if coarser ones are still ongoing.
+
+---
+
+**r/HillsideHermitage** | Posted by Novel-Commercial2006 _2025-10-12 22:27:22_
+### [Confusion in regards to seeing the mind and more](https://www.reddit.com/r/HillsideHermitage/comments/1o52qhd/confusion_in_regards_to_seeing_the_mind_and_more/)
+
+Good evening everyone,
+
+I have been watching hillside hermitage and Samanadipa Hermitage videos for about a month now. They have been great theoretically to build understanding but when it comes to actually putting these in practice, such as yoniso manasikara into practice I find myself feeling almost bewildered/a great amount of confusion like I am grasping in the dark. All the theoretical understanding and reading I had done seems to melt away almost instantaneously and it is just me fixating on various things, unable to get anything to really "stick" in my actual experience.
+
+I know that keeping the eight precepts is one of the biggest and most important aspects of coming to actually see these things. I am failing in keeping all eight, essentially breaking the entertainment and eating aspect. I have had moderate success in not engaging in sexuality but to be totally honest, I have always had a rather weak sexual drive and I still am not completely abstinent due to giving in a couple times with masturbation. Which is even more pitiful as it is essentially the easiest for me to implement yet I am still failing. And I know better but here I am still going in circles around the same goalpost week after week, never really "going against the grain" when I see it.
+
+I was thinking should I instead just try to keep the eight precepts and not watch videos by hillside and samanadipa hermitage because it seems like I end up confusing myself even more than before and am not really understanding anything. My mindfulness is so weak when it comes to seeing what they speak about it seems like being able to have any sort of "enduring context" is just so far off for me and Im not even sure if what I have in mind would be an accurate description of what it would be. Are these things that even someone of a generally lower intelligence could come to understand? Why is this so hard to even understand on any level?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1o52qhd/confusion_in_regards_to_seeing_the_mind_and_more/njar8n2/)** _2025-10-13 16:42:10_:
+    You should remember that the measure of successful understanding is your ability to keep the precepts. If you have that attitude then you won't get sidetracked from the basic work that's right in front of you. Losing that context, not listening to the talks per se, is the dangerous mistake.
+
+---
+
+**r/HillsideHermitage** | Posted by ConversationGlass17 _2025-10-11 21:05:20_
+### [Duty toward others vs. Generosity](https://www.reddit.com/r/HillsideHermitage/comments/1o46sce/duty_toward_others_vs_generosity/)
+
+I can’t see my intentions clearly sometimes, especially when it comes to distinguishing duty from generosity. I think it’s important for me to discern the difference and it think the difference can be very subtle. 
+
+I’m sure there are all sorts of philosophical approaches to this situation, but I’m only interested in those that involve the Dhamma. 
+
+And no surprise, I think that perhaps this issue is cloudy for me because I am not yet secure in virtue or sense restraint. If I were, then the craving that blocks true generosity would be greatly diminished or gone.
+
+I will guess that true generosity praised by the Buddha is probably free from fear of any loss or fear of inconvenience to the giver? So, it’s beyond virtue and sense restraint.
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1o46sce/duty_toward_others_vs_generosity/njaq7mz/)** _2025-10-13 16:37:13_:
+    "True generosity" (or rather, "giving up," which is what *cāga* literally means) is about giving something up with the aim of training your mind to abandon craving. 
+
+    It doesn't matter if there if there is fear or resistance. It will be beneficial as long as it's an act of giving something up against the grain of the mind's worldly desires, and it's through that practice that that fear or resistance would eventually subside. The fact that your giving up might also help others is just a bonus, and is not a measure of its efficacy.
+
+---
+
+**r/HillsideHermitage** | Posted by meshinthesky _2025-10-10 08:26:29_
+### [Are the mind sense objects rūpa or nāma?](https://www.reddit.com/r/HillsideHermitage/comments/1o2va8v/are_the_mind_sense_objects_rūpa_or_nāma/)
+
+Are the sense objects of mano (dhamma?) considered as rūpa? Or as nāma? If it not in any of those two categories... what are they considered to be in the wider categories used by the Buddha?
+
+I always considered that forms, sounds, odors, tastes, touches, and mental objects were considered as being part of rūpa in the nāmarūpa. Main reasons for that:
+
+- it is said that senses are formed by five aggregates; using eye and form as the pattern, I thought that in all other senses, their aggregate of rūpa referred to the sense objects in themselves.
+
+- in the suttas, nāma is explicitly defined as feeling, perception, intention, contact, attention.
+
+- in some places AN defines rūpa as behaviour, or resistance, while nāma as designation; all senses objects behave, in some way or another (the designations used on them are not the senses objects in themselves, but part of nāma, like perceptions).
+
+Yet:
+
+- in some suttas dhamma seems to mean any phenomena whatsoever, including both, phenomena could be considered as rūpa and phenomena can be considered as nāma. However, since dhamma is quite of a flexible word, so I am not sure if in those passages one can understand such dhamma as referring exactly to the sense objects of mano.
+
+On the other hand:
+
+- some buddhist are definitely of the opinion that rūpa is materiality and nāma mentality, thus, dhamma is not rūpa, but nāma. (Further, in some places AN translate rūpa as matter).
+
+I have studied the suttas a bit on my own, and could not found any definitively answer.
+
+
+EDIT to further clarify my assumptions and/or misunderstandings:
+
+In some sutta is it said, "what is rūpa? the four great elements and shape (rūpa) is what's called rūpa". It seems to imply forms, shape, rūpa to be purely rūpa. [Yet, at the same time, when we know forms we know them as nāmarūpa as a whole.]
+
+If forms are said to be rūpa I can't help but assume sounds must be rūpa too. Subjectively, the way I experience both of them are alike.
+
+In the same way, if eye visual shape images are said to be rūpa, mind visual shape images, or mind sounds must be rūpa. Other mental objects, that are more fuzzy and cannot be said to be mental images or mental sounds, seems to share the same characteristics of the mental images or sounds, though. 
+
+This is what I assumed from the very beginning of learning about Buddha's instruction, which was a learning based exclusively in practice, and without caring about concepts. Years later, when listening to Ajahn Nyanamoli and reading HH texts, the "rūpa is what behaves, nāma what designates", just reinforced such initial assumption.
+
+An additional doubt that plays here: dhamma as used for "any phenomena",  include perceptions, ... and the whole nāma and nāmarūpa. Yet, is this usage of dhamma and the usage of dhamma as mano objects (like for instance the one used in sabbasutta) describe one only category/phenomena/behaviour or different ones...?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1o2va8v/are_the_mind_sense_objects_rūpa_or_nāma/njalcoh/)** _2025-10-13 16:13:41_:
+    They are both. You cannot rightly see them as separate things even in your imagination. When you imagine something as being solely rūpa, you overlook that that thing partakes in nāma by the simple fact of being thought. When you imagine something as being solely nāma, you overlook that that phenomenon comes with its own independent liability to change, i.e., it partakes in rūpa. And yes, that applies even to objects of *mano*. That's how you end up forgetting things even though you don't want to, for example.
+
+---
+
 **r/HillsideHermitage** | Posted by Severe-Cream4599 _2025-10-06 02:20:43_
 ### [Should I restraint love for my family,friends?](https://www.reddit.com/r/HillsideHermitage/comments/1nz74w8/should_i_restraint_love_for_my_familyfriends/)
 
@@ -25,6 +164,28 @@ Love is also a sensual pleasures but it feels pure. Also sympathy for people who
     Yes. That doesn't mean you need to deny or suppress those emotions though. It means that when they arise and persist, you recognize that they make you liable to great suffering, so it's not worth embracing them. If you stop embracing them then they will slowly die out. 
 
     Then, you will never again help someone just because your feelings for them would torture *you* mentally if you didn't help them. That is the only type of help that counts as genuine, and you would be free from biases towards some individuals and implicit hatred towards others who oppose them.
+
+---
+
+**r/HillsideHermitage** | Posted by Akalika_Username2 _2025-10-05 17:34:21_
+### [Contemplating the drawbacks of sensuality?](https://www.reddit.com/r/HillsideHermitage/comments/1nyuijp/contemplating_the_drawbacks_of_sensuality/)
+
+Friends,
+
+A user who has been shadow banned on Reddit would appreciate some advice and resources for a challenge they are experiencing. The user seems to be a very ardent young practitioner, so if you could offer some assistance, I think it would be sincerely appreciated. Here are the user's questions:
+
+"As far as I understand it, even though one might keep the 8 precepts and sense-restraint perfectly, one still needs to permanently devalue the prospect of finding pleasure on the basis of one's body. How can one repetitively contemplate the drawbacks of sensuality as to make it permanently lose it's value? What suttas go over it in particular? How does one "abandon" one's ownership of the body on the most general level possible, which would implicitly lead to abandoning any sense of control over more particular pleasures which have always depended on a false sense of control of the body being assumed? How to stop assuming the body as being in one's control (or one's mind on that matter)"
+
+The user also notes, "the more I've been trying to 'brute force' my way outside sensuality the more I became 'entangled' within it (like a dog who wants to escape the fact that he is leashed to a post but he just entangles himself more)..."
+
+Thank you in advance for any suggestions you provide 🙏
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1nyuijp/contemplating_the_drawbacks_of_sensuality/nj26jls/)** _2025-10-12 05:39:33_:
+    None of these things can be solved by something you just 'do'. Devaluing of sensuality, disowning the body and so on, are aspects of the middle way that encompasses every sphere of living and thinking, (summarised by the whole of the noble eightfold path). 
+
+    The criteria for applying any of it is the mind. If you don't see your own mind, you are in the dark. 
+
+    By learning how to recognize it, it becomes the proper 'place' to ask these questions. In other words, you need to learn *from your own mind* how and where its agitation and wildness (sensuality, doubt, ill-will, anxiety, etc) is being enabled so you can start to dis-enable it. It will tell you directly if you let it, i.e., don't interfere with that agitation when it arises, either acting out of it, or thinking you should be stopping it from arising.
 
 ---
 
@@ -1700,6 +1861,12 @@ This question is for Bhante Aniga. Wouldn’t a layman who understands, with per
     Thirdly, a core wrong view I later realised I was holding by implication, (though I don't recall to what extent this would explicitely show up in those short videos) was the same as the one that everyone naturally holds from the beginning, which is to confuse emotional states with craving, and treat them at the problem to be dealt with, rather than a symptom of the underlying problem (and therefore entirely overlooking the actual problem.) 
 
     That said, the videos are all quite general, short and simple and aimed mostly at beginners, and I wouldn't necessarily discourage anyone who wants to from listening to them, but definitely keep a critical frame of mind in doing so (as is advisable in listening to anything for that matter).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1lvoqxc/lay_arahat/njxn3s5/)** _2025-10-17 07:19:51_:
+
+    *(In reply to account-7):*
+    > Venerable, would this be possible? It would be of great benefit to many here I think 
+
+    That already happened. I decided not to make it public because a lot of it contained personal details about Florian, and the main gist of the conversation was in no way new: you *actually* have to commit to the precepts and giving up sensuality without compromises, otherwise your understanding cannot but remain abstract.
 
 ---
 
