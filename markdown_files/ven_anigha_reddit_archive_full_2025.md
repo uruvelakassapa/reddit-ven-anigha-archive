@@ -14,6 +14,115 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Pretty_Struggle_2777 _2025-10-22 20:13:52_
+### [What is bhava?](https://www.reddit.com/r/HillsideHermitage/comments/1odj6gy/what_is_bhava/)
+
+The Right View Sutta says:
+
+>A noble disciple understands being, its origin, its cessation, and the practice that leads to its cessation. But what is being? What is its origin, its cessation, and the practice that leads to its cessation? “There are these three states of existence. \[7\] Sensual being, material being, and immaterial being. Being comes with assumption. Being ceases when assumption ceases. The practice that leads to the cessation of being is simply this Noble Eightfold Path …
+
+  
+I don't understand exactly what being (bhava) means here. 
+
+I thought that "being" means "existence" of all things in my experience of reality as a whole. But if being includes everything in my experience of reality, how there can be "something else" (assumptions) that is a cause of being? Aren't assumptions also part of being?
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1odj6gy/what_is_bhava/nlbop3g/)** _2025-10-25 15:32:35_:
+    Your bhava is the extent of your entanglement in your current circumstances (current feelings, perceptions, state of your body, etc.) You have 3 "types" of bhava in the sense that you can most broadly divide the type of circumstances where you can be entangled into three:
+    sensual, material, and immaterial.
+
+    As the Buddha put it in DN 9, just as there is no butter to speak of in a glass of milk, there is no material or immaterial being to speak of for as long as there is sensual being, i.e., for as long as lust for the five cords of sensuality still lingers. So, unless they are among the tiny few who rightly train their minds, a human lives their whole life within *kāmabhava* without interruption.
+
+    This is why the rather common understanding of *bhava* as "becoming" is wrong. It implies you start from a neutral position from which you could refrain from *bhava* if you chose to.  But unless you have completely surmounted sensual desire, every single thing you do, including your attempt to overcome *kāmabhava*, is still within it.
+
+---
+
+**r/HillsideHermitage** | Posted by dukkha1975 _2025-10-22 16:21:57_
+### [Was The Buddha Wrong? Is Celibacy (And Virginity) After All A Handicap In The Practice?](https://www.reddit.com/r/HillsideHermitage/comments/1odcvqq/was_the_buddha_wrong_is_celibacy_and_virginity/)
+
+Hello. I've come across many lay people and even respected Theravada monks that say that indulging in intercourse has helped them tremendously in the practice. Obviously this was before they ordained, but many of them say that first-hand experience with sex made them realise that sex didn't bring happiness and they learned a valuable lesson otherwise missed out on if they had stayed celibate.
+
+This is a reply from a well known monk u/[Bhikkhu\_Jayasara](https://www.reddit.com/user/Bhikkhu_Jayasara/) that I found on r/Buddhism on the post "How has sex helped to your spiritual growth?"? (Important parts highlighted in bold by me)
+
+[https://www.reddit.com/r/Buddhism/comments/4w9axf/how\_has\_sex\_helped\_to\_your\_spiritual\_growth/](https://www.reddit.com/r/Buddhism/comments/4w9axf/how_has_sex_helped_to_your_spiritual_growth/)
+
+>It was after a sexual encounter that I had one of the most interesting periods of my practice. I was deep into my practice by this point and had already started contemplating becoming a monk. I was contemplating sexual desire post encounter and bam.
+
+>For a straight month I had 0 sexual desire discernible in my mind... period. I do mean literally, not even a desire for self pleasure, nor an experience of looking at a woman and going DANG!. It was extremely peaceful and wonderful to not have these drives, nothing nagging me, pushing me, it was a glimpse into further down the path. Now of course as insights and experiences like this tend to do, they don't last forever, after a month the human sex drive came back, **but it was severely diminished. I'd say probably was cut in about half.**
+
+>From that point on I had no desire to date or find a mate, nor a drive to search for sex, now I never turned it down if the chance arose, but each time further it felt less satisfying and i became more contemplative. **So I guess sex really helped my spiritual growth quite a bit ;).**
+
+>Even now as a monastic I can't say its 100% gone, I still get desires here and there, but they are so diminished and easy to let go of. It won't be until I am in the higher levels of awakening(non-returner I believe) nearing Arahant that it will be gone fully, but the practice naturally lessens these desires if you are sincerely giving the practice your best shot.
+
+A lay practitioner in the same post said:
+
+>**Having explored my sexuality, I am no longer obsessed with it. I no longer feel compelled to take a second glance.**
+
+(This probably entailed lots of indulgence with sex and women)
+
+I'm asking all of this as I'm a 50 year old unkissed unvoluntary virgin (due to mental, social and self-esteem issues that started in my teens), and I suffer tremendously every single day, nd have been ever since adolescence. I turned to Buddhism these laste few years to help me ease my suffering and now I'm contemplating achieving enlightenment as a lay person through celibacy (as I masturbate a lot). But monks and lay people saying these things above has absolutely CRUSHED my motivation to practice, as I've realised my virginity is a HANDICAP in the practice. Why you may ask?
+
+Well, having intercourse helps to demystify sex, and people then get first-hand experience of it, and that way it's far easier to see the drawbacks of sex and relationships if you have personal knowledge. But an old virgin has put sex on a pedestal, and all that pent up lust and longing remains glorified, since there is no fist-hand knowledge of sex to challenge these accumulated yearnings and longings.
+
+So I ask the monastics here these questions (others are also free to chime in):
+
+1. If first-hand experience of sex is so important on the path, why is this not mentioned in the suttas?
+2. Is being a virgin with no sexual history a handicap when it comes to the practice? I assume the drawbacks of sensuality are far more difficult to see if your mind is clouded by many decades of pent-up lust, where as sexually active people has a more down to earth view of sex, and therefore less lust overall.
+3. What is Ajahn Nyanamoli's and other monks like u/[Bhikkhu\_Anigha](https://www.reddit.com/user/Bhikkhu_Anigha/)'s view on this, since they VERY STRONGLY stress celibacy for lay people who wants liberation?
+4. If having sex only brings more lust, and worsens the sensual cravings, why did sex do the opposite for these people mentioned above? It lessened their lust. It just doesn't make sense.
+
+I feel so de-motivated now after reading all of this.
+
+Thank you.
+
+EDIT: It's interesting that none of the replies have answered my numbered questions. Maybe too hard-hitting questions, and they don't have a good answer? I expected more from this sub.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1odcvqq/was_the_buddha_wrong_is_celibacy_and_virginity/nkxhdwq/)** _2025-10-23 09:47:25_:
+    It might be true that more sexual experiences can make someone more disinterested in *further* sexual experiences of the same kind, but that doesn't in any way mean that the fetter of sense desire is any less strong. It's just a result of diminishing novelty, and even that circumstantial decrease in interest is not guaranteed. You *probably* won't want anymore pizza once you've had it often enough, but will that liberate you from the craving for food once and for all? No chance whatsoever. 
+
+    Every single time you act out of the craving for sense pleasure can only worsen that fetter. Judging by their ideas about what the practice is, these people don't even have the basis to see what a fetter is, so it's no wonder that they can't see the effect of their past actions on that level.
+
+    Being a virgin is neither a handicap nor an aid. It's irrelevant. Simply by virtue of being born human, even a virgin will have had more experience than they need with sensuality, and there is nothing new that sexuality would bring to the table except in somebody's wrong assumption of a different sense object making any difference to the overall picture (and it's precisely that assumption that keeps people roaming left and right within the sensual realm for eons).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1odcvqq/was_the_buddha_wrong_is_celibacy_and_virginity/nkz6u67/)** _2025-10-23 15:58:19_:
+
+    *(In reply to dukkha1975):*
+    > Thank you greatly for your response u/Bhikkhu_Anigha 🙏 Your reply really helped. Like washing my face with cold water in the morning, it was very refreshing to hear **✨**
+    >
+    > But I can't shake the feeling that being a virgin and a practitioner is far more difficult today that it was in the Buddha's time, due to our sex-positive society that emphasises casual sex, and pressure to be a pair, through media, friends, social media etc. Far more erotic pressure from all directions today.
+    >
+    > Having no sexual experience would have perhaps been easier to bear in the Buddha's time due to the culture of brahmacharya, mendicants, spiritual gurus etc.
+
+    > Having no sexual experience would have perhaps been easier to bear in the Buddha's time due to the culture of brahmacharya, mendicants, spiritual gurus etc.
+
+    Probably. So, since celibacy and sense restraint were still a requirement even back then, the chances of success when making compromises today—where every slip, even small, easily opens an endless rabbit hole of further indulgence accessible at the click of a button—are even smaller than none.
+
+---
+
+**r/HillsideHermitage** | Posted by craveminerals _2025-10-17 19:27:38_
+### [Would you tell the truth no matter what? (When to stay silent?)](https://www.reddit.com/r/HillsideHermitage/comments/1o9aq54/would_you_tell_the_truth_no_matter_what_when_to/)
+
+Lying / deception is one of my serious bad habits and something I’m trying to overcome. I made a post earlier with some of my thoughts on this topic but deleted it. I thought I’d make a new one to ask questions instead because I’d like to hear your thoughts on any or all of these questions.
+
+
+1. Would you tell the truth no matter what, no matter what the question is? (For example, in response to a person with Alzheimer’s who’s asking where their dead partner is everyday) 
+
+2. When do you think staying silent or disregarding is appropriate, in the face of certain questions? (Like the Buddha did at times)
+
+3. When does staying silent turn into lying by omission? 
+
+
+Thank you 🙏 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1o9aq54/would_you_tell_the_truth_no_matter_what_when_to/nkh84fj/)** _2025-10-20 16:06:05_:
+    The topic of lying is something that I see  many people overthinking in a way that only serves as a distraction from actual faults that they probably haven't overcome.
+
+    There is a certain baseline of truthfulness that you need to have always, which is what is often described in the Suttas: when explicitly asked something that you know to be true, don't try to convey that it is false, or vice versa. Doing so would always be unwholesome.
+
+    If you feel the need to more "truthful" than that, ask yourself why. If it's just a sense of external moral obligation, that's not the right motivation, and it will be rooted in some sort of compulsion. You will never reach the goal of virtue (a tamed mind) by following that direction no matter how far, since it maintains the same problem through the very attempt to solve it.
+
+---
+
 **r/HillsideHermitage** | Posted by Double-Ad2563 _2025-10-13 06:37:44_
 ### [Do they teach the Dhamma?](https://www.reddit.com/r/HillsideHermitage/comments/1o5ceav/do_they_teach_the_dhamma/)
 
