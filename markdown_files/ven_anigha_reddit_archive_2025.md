@@ -9,6 +9,120 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by ToLazyToPickName _2025-11-01 04:57:02_
+### [Why was HH wiki's seven precepts section changed to be less detailed?](https://www.reddit.com/r/HillsideHermitage/comments/1olfib1/why_was_hh_wikis_seven_precepts_section_changed/)
+
+I noticed that the wiki on the 7 precepts has been updated. u/Bhikkhu_Anigha, why was the table on the 7 precepts replaced with a list? 
+
+I found the table to be more detailed and helpeful for understanding how to practice the 7 precepts. Was there something wrong with the chart?
+
+The old version is available on [internet archive](https://web.archive.org/web/20250726015709/https://www.reddit.com/r/HillsideHermitage/wiki/virtue/#wiki_seven_precepts), but I think having the old version (or at least the chart) available in addition to the new one would be helpful for people who need further explanation.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1olfib1/why_was_hh_wikis_seven_precepts_section_changed/nmk7mkk/)** _2025-11-01 17:06:29_:
+
+    They were wrong not in their content, but in a didactic sense.
+
+    If people adhere to such detailed guidelines in a rote manner (which is the only thing I saw happening), it becomes a distraction from what virtue actually is. 
+
+    Developing individual clarity as to the motivations behind their actions while sticking to the broadest definition of each precept—which means having to put up with doubt more often than not—is the only way one would be able to understand what those guidelines were pointing to internally. But then one wouldn't need them.
+
+---
+
+**r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2025-10-26 08:58:42_
+### [Stream-Entry Requires Celibacy (New Essay)](https://www.hillsidehermitage.org/stream-entry-requires-celibacy/)
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nlgcteu/)** _2025-10-26 10:12:01_:
+
+    > In MN 73 (Mahāvacchagotta) the Buddha speaks of many lay disciples who are "white-clothed, enjoying sensual pleasures" (odātavasanā kāmabhogino) who "with the destruction of three fetters are stream-enterers". This seems to describe lay stream-enterers still engaged with sense pleasures. Why would celibacy be required if “kāmabhogino” is explicitly allowed among stream-enterers?
+
+    It seems like you barely read the essay or made little effort to understand it. A lot of people react with the same objection, which shows how the nuance, as carefully as it is often pointed out, completely evades them.
+
+    A stream-enterer can still engage in sensuality; there is no question about that. The point is that to *become* a stream enterer, the mind needs to be free from hindrances, and someone whose mind is not content with celibacy is by definition not free from the hindrances.
+
+    > you might have discouraged Dhamma practitioners striving for stream entry but still subject to sensual desire to pretty much "give up" on trying just because they cannot deal with celibacy. I think that would be very unfortunate and increases the scrutiny you should expect from publishing this.
+
+    Well, as per MN 16 which I quoted, what those Dhamma practitioners would have achieved without getting used to celibacy wouldn't have been progress in the actual Dhamma.
+
+    The fact that celibacy may be difficult for someone in the beginning doesn't mean that they are hopeless. Everyone starts like that. But they do need to train towards *that* in order to be in the position to attain stream-entry, and in not any other modern contrived practices that make no difference to the mind's contentment with renunciation and dispassion for sensuality, i.e. the actual five hindrances.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nlgfhf7/)** _2025-10-26 10:38:26_:
+
+    I don't see you presenting any actual counterargument or even sincerely trying to grasp the points made, so unfortunately I have nothing to add until that is the case.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nlgr7jt/)** _2025-10-26 12:18:08_:
+
+    > The second problem affects everyone who is not at least a non-returner, but the first problem, that of the wrong view, only affects ordinary people. 
+
+    Actually, the Buddha did say (MN 11) that even a *puthujjana* can completely overcome the assumption of sensuality (*kāmupādāna*). So the Right View is not essential for that. Training in the precepts, celibacy, and sense restraint is.
+
+    > An ordinary person who is not at least a stream-enterer is not so because they can still give in to sensuality, but because they have a wrong understanding of happiness and unhappiness, which is inseparable from feeling.
+
+    Yes, an ordinary person has a wrong understanding of happiness and unhappiness, but as the very first Sutta quoted in the essay says, there is no possibility for that understanding to change unless they free from the five hindrances.  No amount of "trying to understand" with a mind still within the hindrances will correct the wrong view, and for the same reason the Buddha didn't teach people the noble truths until their minds had fully lost interest in sensuality and instead delighted in renunciation.
+
+    > Not being able to distinguish between these two completely different problems — the problem caused by an absence of the right view and the problem caused by heedlessness 
+
+    Heedlessness is the reason why an ordinary person still doesn't have the Right View even though they might have been reflecting on the Dhamma for decades. As AN 10.61 points out, is it due to misconduct of body, speech, and mind (read: non-celibacy and pursuit of sense pleasures, among many other things) that the hindrances, and thus ignorance, remain.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nli3v1i/)** _2025-10-26 16:53:28_:
+
+    It depends on the exact nature of the relationship, namely whether it would still survive despite the sexual/romantic/[delight-in-company](https://suttas.hillsidehermitage.org/?q=an6.68) aspects being removed from the picture. If it does endure past that removal, then that relationship would cease to be an obstruction.
+
+    >  If yes then what can they do to atleast lessen the damage?
+
+    Even with all else remaining equal, adopting physical celibacy within the relationship. For most, that alone would open up plenty of room for internal growth and taming of the mind. When that becomes easy, the celibacy can be refined further on the mental level, as described in AN 7.50.
+
+    As I point out in the essay, taking on too much all at once can be counterproductive. It's better to take small but concrete steps, making sure not to shift the goalpost at any point.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nli712t/)** _2025-10-26 17:08:55_:
+
+    Any pursuit of sense pleasure where desire takes over to the point where basic human traits like patience, moderation, modesty/shame, foreseeing future consequences, and regard for others is lost, should be considered misconduct in regard to sense pleasures (which is the actual meaning of the term *kāmesu micchācāra*). Those are the things that cultivate the mind state of an animal and thus make such a rebirth more likely, and there is an endless range of things that can fit that criterion beyond cheating on one's partner. Gluttony is one example. Visiting sex workers even for one who is single would be another.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nlielw5/)** _2025-10-26 17:44:59_:
+
+    [Here it is](https://suttas.hillsidehermitage.org/?q=mn11#mn11:12.1_mn11:12.3).
+
+    There are also other Suttas more explicitly confirming the existence of such people outside of the Buddha's dispensation, such as [AN 6.54](https://suttacentral.net/an6.54/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#14.1), [AN 7.66](https://suttacentral.net/an7.66/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#11.1), and [MN 142](https://suttacentral.net/mn142/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#5.23)
+
+    Edit: Fixed link for MN 142
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nllnltf/)** _2025-10-27 04:54:52_:
+
+    > To me, no one is truly free of the hindrances or content with celibacy besides anagami’s and arahants. 
+
+    Then unfortunately your view is contradicted by many Suttas, including the very first one I quoted in the essay.
+
+    > Even before and after someone attains the Sotapanna stage, they’re not free of the hindrances but only sometimes momentarily surpressed them, sometimes longer, sometimes shorter durations. 
+
+    This view of Theravāda orthodoxy that a lot of your points are based on collapses when you carefully examine how the Buddha describes the abandonment of the hindrances in Suttas like MN 39. As I highlight in the essay, those similes clearly disprove the notion of mere “temporary suppression.”
+
+    In your further comments you cite a story from the Dhammapada commentary. Just so you know, those non-canonical stories carry no weight whatsoever for us here. 
+
+    There *are* other stories in the actual Nikāyas showing that a sotāpanna may not be celibate after (and even shortly before) their sotāpatti, and that doesn't stand in contradiction to the points in the essay at all unless one barely made effort to grasp them.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nlm3tae/)** _2025-10-27 07:40:43_:
+
+    > Sometimes engaging in forced celibacy has the absolute potential of backfiring with people with an under developed mind. And a hyper fixation on sex and overshooting the mark completely.
+
+    For sure, which is why it's important to take things gradually, as I've already mentioned. At the same time, one shouldn't forget that it's precisely because of that under developed mind that those people wouldn't be ready to get the Right View. So, rather than trying to squeeze the Right View into a place where it won't fit—thereby turning *sotāpatti* into something entirely different as often happens today—those people should train to the point where celibacy won't overwhelm them anymore.
+
+    > Just because someone engaged in a sensual activity in the past, does not mean that they haven't been practicing the path out right. A small drop of die into a great lake as an example. 
+
+    Well, they were not practicing the path when they engaged in sensual activity for sure. Undeniably, sensual intention is wrong intention (MN 117), and that applies whether one is a layman or a monastic (SN 45.24).
+
+    But, as I clarify in the essay, whatever happened in the past is not important (case in point, the story of Aṅgulimāla). What matters is whether *presently* the person looks at sensuality fondly— i.e., still plans to act towards it, by for example not resolving upon celibacy—in which case they are most certainly not free from the hindrances or confident in renunciation, as is required for the Right View to land.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nmk5own/)** _2025-11-01 16:56:53_:
+
+    None of the opposing replies on that thread truly address the very simple premises that lead to the main argument of the essay.
+
+    (1) In order to enter the stream, the mind needs to be free from desire for sensual pleasures, and they need to be clearly perceived as dangerous.
+
+    (2) If you currently have even the most vague intentions to engage in something in the future, you are not free from desire for it *here and now.* You still perceive it as safe.
+
+    Conclusion: If someone wants to become a *sotāpanna,* the willingness to engage in sexual activity that they currently have will have to go, and a thorough perception of danger in regard to the entire sensual domain —of which sexuality is the grossest and most recognizable instance—will have to be established. That is synonymous with saying that they will have to give up any intentions towards sexuality they might have. If that giving up—read: undertaking of celibacy—doesn't happen,  no perception of danger was established in any meaningful sense.
+
+    The "requirement" specified in the title refers solely to the above—*and, as pointed out in the essay, it is the above that people would be terrified of doing.*
+
+    Now, can someone establish that perception of danger without having spent a lot of time deliberately practicing physical celibacy? Yes, the Suttas prove that amply, and that's clearly not the point of the essay for anyone who read it carefully. 
+
+    But is it even remotely advisable to try that? No. That will only make it even more terrifying. Still, that is a practical rather than categorical consideration, and doesn't reach the level of a true "requirement."
+
+---
+
 **r/HillsideHermitage** | Posted by Pretty_Struggle_2777 _2025-10-22 20:13:52_
 ### [What is bhava?](https://www.reddit.com/r/HillsideHermitage/comments/1odj6gy/what_is_bhava/)
 
@@ -31,6 +145,13 @@ I thought that "being" means "existence" of all things in my experience of reali
     As the Buddha put it in DN 9, just as there is no butter to speak of in a glass of milk, there is no material or immaterial being to speak of for as long as there is sensual being, i.e., for as long as lust for the five cords of sensuality still lingers. So, unless they are among the tiny few who rightly train their minds, a human lives their whole life within *kāmabhava* without interruption.
 
     This is why the rather common understanding of *bhava* as "becoming" is wrong. It implies you start from a neutral position from which you could refrain from *bhava* if you chose to.  But unless you have completely surmounted sensual desire, every single thing you do, including your attempt to overcome *kāmabhava*, is still within it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1odj6gy/what_is_bhava/nlgeucs/)** _2025-10-26 10:32:13_:
+
+    > But don't those external circumstances also participate of the same bhava? I mean that if for example someone abandons kamabhava and then dies, he will be reborn in an environment (that he can't completely control) that fits his non sensual inclination. 
+
+    Yes, of course. Even in this life, freeing the mind from *kāmabhava* changes the state of the body as well (i.e., removes a whole layer of agitation and pressure from it), as the passages on jhāna often describe.
+
+    But you can't abandon bhava by changing change the circumstances; that would be upside-down and simply won't work. Particular details of your current situation can change even accidentally (e.g., hormone insufficiencies), but the fundamental attitude towards the entire thing is where the bhava lies.
 
 ---
 
