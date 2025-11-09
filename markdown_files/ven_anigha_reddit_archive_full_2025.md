@@ -14,12 +14,71 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by suparv03 _2025-11-06 06:05:11_
+### [Choosing to go forth in Sri Lanka](https://www.reddit.com/r/HillsideHermitage/comments/1opr8cx/choosing_to_go_forth_in_sri_lanka/)
+
+Based on Bhikkhu Anigha’s assessment that Sri Lankan monasteries are generally better suited for sincere practice than those in Thailand, and given that obtaining a Sri Lankan visa is easier for me as an Indian citizen, I have decided to go forth there.
+I am now considering where to begin as an anagarika. The Galduwa tradition is known for its strict Vinaya, and I have researched several monasteries within it. Bhikkhu Anigha mentioned that Na Uyana is no longer ideal because it is now focused on becoming a Pa Auk international meditation centre.
+I would like to ask whether Nissarana Vanaya is suitable for someone seeking seclusion, minimal duties, a strong Vinaya environment, and a non teacher centric approach. I am still a puthujjana, though progress has been steady thanks to a better understanding of the suttas through HH’s guidance.
+Would I be allowed to bring an MP3 player with HH’s audio archives and a pair of earphones for study? Also, can I bring printed copies of works by Ajahn Nyanamoli and Nanavira for reference?
+Lastly, could you please advise what items I should carry with me when arriving at the monastery?
+Thank you for your guidance. This is a crucial decision for me.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1opr8cx/choosing_to_go_forth_in_sri_lanka/nnmu0ps/)** _2025-11-07 18:02:04_:
+    > I would like to ask whether Nissarana Vanaya is suitable for someone seeking seclusion, minimal duties, a strong Vinaya environment, and a non teacher centric approach. 
+
+    I never spoke extensively to anyone who lived there, so I can't say. It might be better than Na Uyana in some respects, though the inconvenience of having a very specific "official" way of practice will exist in both places. That's not inherently a deal breaker though; it is only if they aggressively pressure you into it (which Na Uyana nowadays does).
+
+    If you can, I suggest visiting and assessing the situation there. You can get the most relevant and sometimes not immediately obvious details from talking to ordination postulants and freshly ordained monks.
+
+    > Would I be allowed to bring an MP3 player with HH’s audio archives and a pair of earphones for study? Also, can I bring printed copies of works by Ajahn Nyanamoli and Nanavira for reference?
+
+    Yes, that is what I did. Though it might be better not to go around mentioning that. Most local monks there will not know what HH even is, but it might be a problem simply because it's not what it's taught there, and is based solely on the Suttas and rejects Commentaries/Abhidhamma. Some foreign monks could also automatically dislike you on account of it.
+
+    > Lastly, could you please advise what items I should carry with me when arriving at the monastery?
+
+    Anything that is very specific and not common in a rural area.
+
+---
+
+**r/HillsideHermitage** | Posted by Old-Snow84 _2025-11-02 06:25:52_
+### [Sutta that describe extreme emotional reactions to the Buddha's teachings](https://www.reddit.com/r/HillsideHermitage/comments/1oma8v6/sutta_that_describe_extreme_emotional_reactions/)
+
+In [this video](https://www.youtube.com/watch?v=a-CuxQ8PKzA) at 16' Ajahn Nyanamoli talks about a sutta where people react strongly to the teaching of not self. I'd like to read this sutta but was unable to find it using sutta finder and Google.
+
+Would any of you know which sutta is he talking about ?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1oma8v6/sutta_that_describe_extreme_emotional_reactions/nn0yhil/)** _2025-11-04 08:09:31_:
+     It was probably [MN 22](https://suttas.hillsidehermitage.org/?q=mn22#mn22:20.1_mn22:20.9).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1oma8v6/sutta_that_describe_extreme_emotional_reactions/nn7cp02/)** _2025-11-05 08:01:14_:
+
+    *(In reply to Dhingy1996):*
+    > From MN 22:*“It is when someone has such a view:* ***‘The world and the self are one and the same.*** *After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’*
+    >
+    > I'm not so well-versed in the various branches of Buddhism but isn't this in fact the view of non-duality that seems very popular in the modern meditation landscape?   
+    >   
+    > Which seems to me to be outright called one of the Wrong Views by the Buddha right here.
+
+     Yes. And not only that; it's the same orientation, even if not explicitly defined to that extent, that one cultivates by not seeing sensual pleasure as perilous and pursuing it.
+
+---
+
+**r/HillsideHermitage** | Posted by spiffyhandle _2025-11-01 05:23:04_
+### [Hillside Hermitage is no longer on Spotify](https://www.reddit.com/r/HillsideHermitage/comments/1olfx0x/hillside_hermitage_is_no_longer_on_spotify/)
+
+I don't know if this is intentional or if Spotify removed it, but the English HH channel has been gone for at least a week.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1olfx0x/hillside_hermitage_is_no_longer_on_spotify/nmo2ei0/)** _2025-11-02 07:15:54_:
+    That wasn't an official resource, so no idea what might have happened.
+
+---
+
 **r/HillsideHermitage** | Posted by ToLazyToPickName _2025-11-01 04:57:02_
 ### [Why was HH wiki's seven precepts section changed to be less detailed?](https://www.reddit.com/r/HillsideHermitage/comments/1olfib1/why_was_hh_wikis_seven_precepts_section_changed/)
 
 I noticed that the wiki on the 7 precepts has been updated. u/Bhikkhu_Anigha, why was the table on the 7 precepts replaced with a list? 
 
-I found the table to be more detailed and helpeful for understanding how to practice the 7 precepts. Was there something wrong with the chart?
+I found the table to be more detailed and helpful for understanding how to practice the 7 precepts. Was there something wrong with the chart?
 
 The old version is available on [internet archive](https://web.archive.org/web/20250726015709/https://www.reddit.com/r/HillsideHermitage/wiki/virtue/#wiki_seven_precepts), but I think having the old version (or at least the chart) available in addition to the new one would be helpful for people who need further explanation.
 
@@ -29,6 +88,48 @@ The old version is available on [internet archive](https://web.archive.org/web/2
     If people adhere to such detailed guidelines in a rote manner (which is the only thing I saw happening), it becomes a distraction from what virtue actually is. 
 
     Developing individual clarity as to the motivations behind their actions while sticking to the broadest definition of each precept—which means having to put up with doubt more often than not—is the only way one would be able to understand what those guidelines were pointing to internally. But then one wouldn't need them.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1olfib1/why_was_hh_wikis_seven_precepts_section_changed/nmnrn2y/)** _2025-11-02 05:29:57_:
+
+    *(In reply to ToLazyToPickName):*
+    > I kinda understand what you mean. However, rote adhering to the precepts is an issue regardless of how detailed the instruction is. I'm not sure if excluding detail would be overall beneficial as doubt will occur either way.
+    >
+    > 
+    > When I talk about the 8 precepts with others, I am commonly asked to define terms, such as what counts as killing, lying, etc. I think having specific examples/defintions helps to clarify what keeping a precept means to those who not sure of the extent each precept, like what is "sentient," for example.
+    >
+    > 
+    > I still found the table to be helpful when I was practicing the 8 precepts, as one of my first thoughts was loop-holes/workarounds. As most think the 8 precepts are only about not breaking them on a bodily level, so having examples of the verbal and mental breaking of the precepts helped explain to me what was meant by following the precepts bodily, verbally, and mentally.
+    >
+    > 
+    > In other words, it's hard for people to follow the precepts when one isn't clear on what the precept is even saying. Some common things I've hear is people thinking the 1st precept only applies to humans ("other animals aren't sentient"), the 3rd precept allows masturbation, the 4th precept allows true speech that is meant to mislead, etc. 
+    >
+    > 
+    > The links to the suttas in the table were also a helpful reference.
+
+    > I'm not sure if excluding detail would be overall beneficial as doubt will occur either way.
+
+    Yes, but more detail only sets the precedent for trying to end doubt by adding even more detail, which people are already predisposed to try but doesn't work.
+
+    > I still found the table helpful when I was practicing the 8 precepts, as one of my first thoughts was loopholes/workarounds.
+
+    No matter how much detail you add, you’re only closing a few loopholes out of an infinite pool. In fact, more detail often creates new ones. If I say “don’t open the white, brown, and red doors,” it immediately suggests that maybe the yellow one is allowed. 
+
+    Feeling pressured by lack of clarity about where the lines are and fearful of making mistakes is what keeps one on edge at the right level. If the watchfulness shifts from that on to fulfilling technicalities, one might keep the precepts outwardly for eons but the mind will not be inwardly tamed and develop individual discernment of wholesome and unwholesome. That is what happens to most monks, and the level of detail that the Vinaya provides—detail that didn't come from the Buddha—plays no small part in that.
+
+---
+
+**r/HillsideHermitage** | Posted by helios1234 _2025-11-01 04:18:20_
+### [Could and would an enlightented person engage in intellectual activities (like math) ?](https://www.reddit.com/r/HillsideHermitage/comments/1olevm4/could_and_would_an_enlightented_person_engage_in/)
+
+Could and would an enlightented person engage in intellectual activities (like math) ?
+
+Are such activities on obstacle to liberation and should be abandoned?
+
+If not, how does one reconcile that the buddha did use his intelligence and cognitive powers to solve the problem of suffering and teach the dhamma?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1olevm4/could_and_would_an_enlightented_person_engage_in/nmo2yat/)** _2025-11-02 07:21:43_:
+    > Could and would an enlightented person engage in intellectual activities (like math) ?
+
+    In theory yes, but that doesn't answer the question of whether such activities would be wholesome for *you* at any given time. If they are rooted in delight in distraction and intellectual stimulation, they should not be done out of that motivation if you want to tame your mind. If they are a means to some practical end connected with your livelihood, then sure.
 
 ---
 
@@ -225,6 +326,95 @@ The old version is available on [internet archive](https://web.archive.org/web/2
     Now, can someone establish that perception of danger without having spent a lot of time deliberately practicing physical celibacy? Yes, the Suttas prove that amply, and that's clearly not the point of the essay for anyone who read it carefully. 
 
     But is it even remotely advisable to try that? No. That will only make it even more terrifying. Still, that is a practical rather than categorical consideration, and doesn't reach the level of a true "requirement."
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nmnz6ql/)** _2025-11-02 06:42:46_:
+
+    *(In reply to jareb):*
+    > Ok. So, could you please answer the following question in a direct and explicit manner: is it possible for a layperson to engage in sexual activity with their spouse in the morning and then, let's say, hear a discourse on the Dhamma at lunchtime and attain stream-entry? Yes? No?
+
+    > is it possible for a layperson to engage in sexual activity with their spouse in the morning and then, let's say, hear a discourse on the Dhamma at lunchtime and attain stream-entry? Yes? No?
+
+    If that discourse on the Dhamma at lunchtime results in them wanting to give up their spouse (along with any other sense pleasures they might have held very dearly beforehand), then undoubtedly yes. 
+
+    (Is there a likelihood of a discourse that effects such a sudden and profound change being delivered by someone less skilled in the Dhamma than the Buddha or perhaps a chief disciple? I don't think so.
+
+    Furthermore, is a person realistically capable of such a noteworthy feat if after encountering the Dhamma  and knowing they are still puthujjanas, they don't make effort to be celibate? I also don't think so.)
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nmo3h45/)** _2025-11-02 07:27:21_:
+
+    *(In reply to jareb):*
+    > Venerable, "yes, but no" is "no".
+    >
+    > So, one again: 'yes' or 'no'?
+    >
+    > Venerable, is the presence of the Buddha or his chief disciple mentioned as a factor for stream entry anywhere in the suttas?
+
+    I didn't say "yes but no." I said yes, and provided a context that would be misleading not to include.
+
+    > Venerable, is the presence of the Buddha or his chief disciple mentioned as a factor for stream entry anywhere in the suttas?
+
+    No. That is why I said "I don't think so" rather than simply "no." It's an opinion that could be debated. What isn't debatable is the mind state that the person needs to be in to see the Dhamma.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nmuwarc/)** _2025-11-03 10:35:24_:
+
+    *(In reply to Realistic_Caramel768):*
+    > Bhante, I’d say it’s not even debatable, though I’m open to being proven wrong. Even the Sutta previously mentioned about Ugga confirms this:
+    >
+    > >“When he knew that my mind was ready, pliable, free of hindrances, elated, and confident, he explained the special teaching.”
+    >
+    > What’s especially striking is that this description comes from Ugga himself. He explicitly notes that it was the Buddha who knew his mind was “ready” and “pliable,” while he himself did not.
+    >
+    > If we don’t consider the Buddha’s unique ability to directly guide another person’s mind toward stream-entry, then we’re forced to conclude that the Buddha contradicted his own teaching, since he clearly stated that the prerequisite for stream-entry is seeing the *cittanimitta*, and the prerequisite for that is *not dwelling in company* and *delighting in seclusion*. A householder who has intimate relations with his wife in the morning can hardly be said to be “dwelling in seclusion,” and yet the Buddha lists that as a necessary condition for stream-entry.
+    >
+    > So either the Buddha contradicted himself, or the factors for the arising of the Dhamma are universally the same: virtue, sense restraint, seclusion. And the only exception was when the Tathāgata himself directly guided someone. Indeed, in every Sutta where a householder attains stream-entry merely by listening to the (accurate) Dhamma, the common factor is that they were listening to the Buddha or his chief disciple with similar abilities in person.
+
+    > And the only exception was when the Tathāgata himself directly guided someone. Indeed, in every Sutta where a householder attains stream-entry merely by listening to the (accurate) Dhamma, the common factor is that they were listening to the Buddha or his chief disciple with similar abilities in person.
+
+    Yes, that's true. With "debatable" I rather meant there is no "hard proof" for that position in any specific Sutta. 
+
+    Even then, there is no "hard proof" in the Suttas that a householder of any sort, celibate or not, can attain stream entry *without* the Buddha's help either, so people's skepticism is often conveniently biased.
+
+    They allow themselves the room to *infer* that  "surely a conversation with the Buddha can't be an indispensable condition" when there is no explicit proof against that being the case, meanwhile there *are* many Suttas disproving the idea that one can progress towards enlightenment without giving up sensuality. But somehow it *is* too much of an inference to say that those also apply to laypeople, even in light of Suttas like SN 45.24.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/nn7h5bh/)** _2025-11-05 08:45:43_:
+
+    *(In reply to craveminerals):*
+    > Bhante, I think celibacy makes sense, considering everything the suttas say about sensuality, and I’m striving towards perfecting it myself. 
+    > But why do you think the Buddha never explicitly said that it is required? He never said that laypeople must be celibate to reach stream-entry, as far as I’m aware, and I’d think there must be a reason behind that. 
+    >
+    > I guess it’s either: 1. It’d be too controversial, and he let the most dedicated practitioners come to that conclusion themselves. 2. It was obvious- he didn’t need to spell it out. 3. It isn’t a strict requirement.
+
+    > But why do you think the Buddha never explicitly said that it is required? He never said that laypeople must be celibate to reach stream-entry, as far as I’m aware, and I’d think there must be a reason behind that.
+
+    I wouldn't take it for granted that he never did. For one because he never said the opposite either, and secondly because many passages in the Chinese Agamas—which were compiled several hundred years after the Buddha's passing and thus probably involve dilution of the message already—show a more hardline stance on the harmfulness of sensuality and the need to give it up.
+
+    > At that time, there was a layman named Mo-nan (Mahānāma) who came before the Buddha, bowed his head to the Buddha’s feet in reverence, and said to the Buddha:
+
+    > "I often hear the Buddha’s teachings, and they always stay in my mind. I have heard the Buddha say that the human mind has three states: the state of lust, the state of anger, and the state of delusion. Since I heard this, I have always kept it in mind, and I reflect: 'If there is no lustful state, the mind is naturally correct; if there is no angry state, the mind is naturally correct; if there is no deluded state, the mind is naturally correct.' I reflect further: 'If I constantly hold to these three states without wavering, why is it that I still do not fully understand?'"
+
+    > The Buddha said: "**If one had resolved the mind of lust, anger, and delusion, why would one still live together with a wife and children? It is because of the presence of greed.** A wise person should consider: 'Although there may be slight suffering now, there will be great joy in the future. Living with a wife and children brings momentary pleasure, but in the long term, it leads to great suffering.'"  
+
+    — T 54 (parallel of MN 14)  
+
+    Samyukta Āgama 1042 gives the same requirements for stream entry as for rebirth in the Brahma world and attaining the jhānas:
+
+    > “Venerable One, what kind of lawful conduct, what kind of righteous conduct, is it that, upon the breaking up of the body after death, one is reborn in heaven?”
+
+    > The Buddha told the Brahmin elders:
+
+    > “It is by abstaining from taking life ... up to having right view, that one, through the causes and conditions of the ten wholesome courses of action, upon the breaking up of the body after death, is reborn in heaven.”
+
+    The ten wholesome courses of action as defined in the Pali version (MN 41/42) only include abstaining from sensual misconduct, not full celibacy. Further below it says:
+
+    > “If, moreover, those who practice such lawful conduct and righteous conduct wish to be reborn in the Brahma heaven, they too will attain that rebirth.
+
+    > Why is this so? Because by practicing righteous conduct and lawful conduct, maintaining pure precepts, **and with minds free from desire,** whatever they wish for will certainly be fulfilled.
+
+    > ...
+
+    > If they wish to cut off the three fetters and **attain the fruits of stream-enterer**, once-returner, or non-returner; and to obtain immeasurable spiritual powers—the divine ear, knowledge of others’ minds, knowledge of past lives, knowledge of birth and death, and knowledge of the destruction of the taints—they will all be attained.
+
+    > Why is this so? Because by practicing lawful conduct and righteous conduct, maintaining pure precepts, **and with minds free from desire,** whatever they wish for will certainly be fulfilled.”
+
+    Another factor is that we find no examples in the Suttas of people staying in the lay life yet aspiring towards stream entry solely through their own effort, as is often the case today. Every known layperson who became a sotāpanna did so in a conversation with the Buddha, not while living at home after hearing the teaching. So a statement that laypeople should be celibate to attain the Right View would have been redundant if those didn't get it right away but seriously aspired to it ended up going forth as a rule.
+
+    Lastly, even with the Suttas we currently have, the common statement that “practicing in line with the Dhamma” is a requirement for stream-entry should be sufficient for anyone who does not hold a [blatantly mistaken view about what the Dhamma even is](https://suttas.hillsidehermitage.org/?q=mn22#mn22:5.9_mn22:6.15) to see that sexuality must be renounced in order to practice it. Someone who thinks otherwise has such a warped view of what the goal is that they will not be on the right path even if they *are* celibate. It's akin to someone who thinks they don't need to stand up in order to walk, showing that whatever they think walking is is way off target.
 
 ---
 
