@@ -14,6 +14,299 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by bodily_heartfulness _2025-11-13 17:58:24_
+### [Impermanent Jhana](https://www.reddit.com/r/HillsideHermitage/comments/1ow80b1/impermanent_jhana/)
+
+Jhanas, as I understand it from the HH perspective, are akin to the brahamviharas, in that they are divine abodes. One has withdrawn from sensuality and the other four hinderances so thoroughly that restraint becomes one's norm and acting out of the hinderances requires effort, instead of the other way around. In addition to this, one's mind has become unshakeable and crystal clear, as the weakeners of wisdom, the hinderances, have been dispelled, at least for the time being.
+
+Now, in light of all that, wouldn't one who lives in jhana, live in jhana for the remainder of their life as long as they maintained their physical seclusion?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ow80b1/impermanent_jhana/noxllad/)** _2025-11-15 05:08:15_:
+    > Now, in light of all that, wouldn't one who lives in jhana, live in jhana for the remainder of their life as long as they maintained their physical seclusion?
+
+    Not necessarily. They might spend most of their time in it if they're an anāgāmi or  Arahant, but it's not automatic. *Jhāna*, as the very name implies, is a type of contemplation. It's not some passive "state" that one gets locked into, unlike what the commentaries and most modern traditions believe.
+
+    What they would always be free from if they're an Arahant (with or without seclusion) is the five hindrances. But that's not the same as *jhāna.* It's the necessary basis for successful jhāna. 
+
+    Nothing stops anyone from right now dwelling on the thought of never again partaking in sensuality. That is essentially the "theme" of the first jhāna, hence it's called "the joy born of renunciation" (*vivekaja pītisukha*). The problem is that to the degree you are not free from the five hindrances (due to lack of virtue, sense restraint, etc.) and haven't clearly discerned the danger in sensuality, that contemplation done rightly will feel be painful rather than gladdening the mind, calming down the body, etc.
+
+---
+
+**r/HillsideHermitage** | Posted by Bhikkhu_Anigha _2025-11-11 08:52:07_
+### [The Peril of Sensuality (New Essay)](https://www.hillsidehermitage.org/the-peril-of-sensuality)
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/nob0tp5/)** _2025-11-11 16:43:14_:
+
+    *(In reply to WassaMattaMe):*
+    > Bhante - you referenced [Pārājika 1.](https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364582.html) in your note. That seems to be a commentarial story based on MN82 - Raṭṭhapālasutta. Why would that story be more instructive than the sutta? Is it strictly because it contains an actual offence whereas the sutta does not? If so, are you implying that *all* those stories in that book have value, i.e. should be treated as part of the "texts"? I am very likely missing something here, because otherwise it would be confusing, as references go.
+
+    >  If so, are you implying that *all* those stories in that book have value, i.e. should be treated as part of the "texts"?
+
+    Not at all. That was a mistake; I should have   linked the [SuttaCentral](https://suttacentral.net/pli-tv-bu-vb-pj1/en/brahmali?lang=en) translation. It's fixed now.
+
+    The point of that story was the Buddha's reaction to an act of intercourse done for a purpose that some might regard as not lustful. Prior to any established rules to boot, showing that he expected the wrongness of such acts to be entirely obvious just from the teachings.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/noft5jy/)** _2025-11-12 11:21:42_:
+
+    *(In reply to Formal_Breath_2026):*
+    > Thank you bhante
+    >
+    > > Even if you make no deliberate effort to reflect on it, you still know that losing things you love, or not getting them to begin with, is never fully off the table. Otherwise you wouldn’t have that visceral instinct to protect them.
+    >
+    > > The inescapable uncertainty of things coupled with your passion for them means a constant undertone of anxiety. But since enjoying the fruits at the top while the tree hasn’t fallen yet is the only happiness you know, the very straightforward escape from the threat seems so unpalatable that you might even refuse to consider it
+    >
+    > As I have understood it, this doesn’t just apply to various sense objects one feels passion for, but to the domain of the body as a whole. When I slipped up my restraint, I sometimes felt a broad sense of depression and anxiety that seemed to result from nothing more than just being *in the sensual domain*, in the domain of the senses, and the inescapable recognition of how fragile and perilous the body is. So even if one could lock themselves in a room and enjoy all their favourite things for the rest of their life, there is still the underlying anxiety that your organs or anything else in your body could start falling apart, because you still *value* the body as a basis for pleasure, and that puts *you* in the body.
+
+    > So even if one could lock themselves in a room and enjoy all their favourite things for the rest of their life, there is still the underlying anxiety that your organs or anything else in your body could start falling apart, because you still value the body as a basis for pleasure, and that puts you in the body.
+
+    Certainly. The most immediate peril is the impermanence of one's own body. But that peril will be abstract for as long as one is still bound by passion for very particular sense pleasures (partners, children, possessions, etc.) The peril first manifests concretely through the liability to destruction of those.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/noxmp0v/)** _2025-11-15 05:16:56_:
+
+    *(In reply to RecentSubstance9039):*
+    > I don't see why there was a strawman argument made before the author went on to assert that the Buddha taught that sensuality is a danger. Can the author kindly support the first assertion made, by giving a list of modern teachers who promote that sensuality is not a danger?
+
+    If you're sure it's a strawman, could you provide one instance of a living teacher saying that pursuing sensuality means abandoning the Dhamma, whether one is a complete beginner or on the path to anāgāmi?
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/noy8uz2/)** _2025-11-15 08:48:15_:
+
+    *(In reply to RecentSubstance9039):*
+    > Given that you made the claim in your essay, I would appreciate you listing modern teachers who are not teaching the dangers of sensuality. Clearly you have specific teachers in mind, if you are willing to make such an accusation.   
+    >   
+    > You also claim that Buddhists often don't reflect on impending separation from what is dear to them. This is another accusation that you just throw out there without having any evidence to back it up. The tone of your essay is curious, and is riddled with condescension towards other teachers and Buddhist practitioners. Why is it that you can't just make your point without putting others down, unless maybe your point is to put others down?
+
+    >  Clearly you have specific teachers in mind, if you are willing to make such an accusation.
+
+    
+    I don't see any point in calling names when the claim applies to the vast majority, if not everything, you will see if you search "Buddhist teachings" online. I would happily change my mind if proven wrong, since the situation as it seems is not something I get anything positive out of. It would be much better to be one among hundreds of aligned voices, and thus not to have to be a voice at all.
+
+    > You also claim that Buddhists often don't reflect on impending separation from what is dear to them. This is another accusation that you just throw out there without having any evidence to back it up.
+
+    Well, where is the evidence to the contrary? Are people silently deviating from teacher's instructions by frequently reflecting on the imminent demise of their spouses, children, family, friends, and themselves, rather than following their breath sensations and similar practices? I very much doubt it, given that if they were reflecting like this, there would be no space for those other practices left. Their redundancy and lack of connection with the goal of complete dispassion would become apparent.
+
+    > Why is it that you can't just make your point without putting others down, unless maybe your point is to put others down?
+
+    I could, but there is a practical purpose in being very explicit about the difference with mainstream teachings. 
+
+    It is very easy for some to fail to see that difference, as they wouldn't examine the deeper implications of what's being said. They would fill in the blanks with what they've heard elsewhere, thereby misunderstanding the message.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/noy9xoq/)** _2025-11-15 08:59:31_:
+
+    *(In reply to RecentSubstance9039):*
+    > Regardless of whether you are willing to support your claim, I would like to share an example of a living teacher, teaching about the dangers and drawbacks of sensuality, and also pointing out that sense pleasures are impermanent.
+    >
+    > [https://youtu.be/DSnKIJD1gQw?si=g3zsh\_GxBcDmo6vi](https://youtu.be/DSnKIJD1gQw?si=g3zsh_GxBcDmo6vi)
+    >
+    > [https://youtu.be/GKUauX6Gsdg?si=0LcTlrEPbfTzD32w](https://youtu.be/GKUauX6Gsdg?si=0LcTlrEPbfTzD32w)
+
+    I'm well aware of instances like these, and they prove my point. Speaking about the dangers of coarse sensuality is one thing; actually telling people that there is no eightfold path without abandoning it *completely* is another. If it's not complete, then what they're advocating for abandoning is not sensuality itself but specific things within it.
+
+    The fact that someone would teach relishing of pleasant tactile sensations, the fifth cord of sensuality, as the *escape* from sensuality—to people who still engage in it in even coarser ways to boot, as a way of "substituting" those coarser desires instead of abandoning physical desire full stop—only goes to show that they don't actually see nor rightly encourage others to see the danger.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/noze0l1/)** _2025-11-15 14:33:32_:
+
+    *(In reply to RecentSubstance9039):*
+    > Venerable, you may not be aware, but what these teachers have said and written is that sensuality will be and must be abandoned, even the pleasures experienced in meditation. This is why I am pointing out that you're making a strawman argument. There are not any Theravada teachers I've come across who don't point out that all pleasure is impermanent, and is not a refuge. I would also like to point out that if one is practicing meditation as taught by such teachers, they see for themselves the impermanence of experienced states.
+
+    > but what these teachers have said and written is that sensuality will be and must be abandoned, 
+
+    So why do they teach (their interpretations of) advanced practices like *satipaṭṭhāna* and *samādhi* and higher doctrines like the Four Noble Truths, to laypeople who they know are not fully withdrawn from sensuality and thus still take refuge in it? Not as an occasional misjudgment, but as their standard approach for decades. That means they don't see sensuality as an obstacle to practicing the Dhamma (and thus any success in those practices does not pertain to the Dhamma either).
+
+    Admitting that smoking needs to be given up in some vague future is not the same as regarding each individual cigarette as failure starting today. Most smokers can get on board with the former, not many with the latter. And only the latter attitude would do justice to the similes the Buddha used for sensuality.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/nozos10/)** _2025-11-15 15:34:21_:
+
+    *(In reply to RecentSubstance9039):*
+    > I would recommend you to ask these teachers personally, to learn about the intentions behind their approach. Often when we make our own conclusions in regards to other's beliefs or ideas, we are unintentionally coloring reality with our biases. This is why I was asking you why you choose to put forward your ideas and emphasis about the dhamma, while seeming to put other teachers and practitioners down.   
+    >   
+    > In my experience, people who use this approach are either insecure or arrogant, or may just genuinely enjoy being provocative. These are my conclusions I draw about your intentions, but I asked you directly to give you the opportunity to provide clarity.
+
+    > I would recommend you to ask these teachers personally, to learn about the intentions behind their approach. 
+
+    I've no doubt that they are teaching people what they genuinely believe is the Dhamma. I wouldn't accuse them of intentional deception.
+
+    Their intentions are not the issue; what's been produced by them is. And to judge that, it's not necessary for me or anyone to ask them. The fact that it's not what the Buddha taught would be apparent to anyone who examines those teachings without an existing emotional need for what they provide.
+
+    > This is why I was asking you why you choose to put forward your ideas and emphasis about the dhamma, while seeming to put other teachers and practitioners down.
+
+    And I explained why. Making the same points more quietly would mean even more people getting the wrong impression that we're saying the same as what they've heard elsewhere.
+
+    If I'm taking the trouble to say anything to begin with, it's worth making sure that the effort is as effective as possible. [If that means falling below some people's ideal of polite speech, so be it](https://suttacentral.net/mn58/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin). That will not change what I know my intentions to be.
+
+    > In my experience, people who use this approach are either insecure or arrogant, or may just genuinely enjoy being provocative. 
+
+    Perhaps that is the case more often than not. But the first person who met the Buddha after his awakening accused him of arrogance as well. 
+
+    That goes to show that one better go by the content of what is said rather than the intentions one projects onto the speaker.
+
+---
+
+**r/HillsideHermitage** | Posted by ToLazyToPickName _2025-11-10 05:13:49_
+### [Why is abortion considered killing?](https://www.reddit.com/r/HillsideHermitage/comments/1ot5brp/why_is_abortion_considered_killing/)
+
+I know HH has a [video](https://youtu.be/JwKXfM7-p8c) mentioning how an intentional abortion is considered intentional killing. But I don't understand how it is considered intentional killing rather than intentional "not helping live / letting die."
+
+If someone had tapeworms (or another parasite) and chose to have them removed from the body, I would not consider this killing. Even though the parasite needs a host to survive, I am not intending to kill the parasite, nor am I intending to save the parasite (e.g. find them another host). The intent is to remove them from my body to be healthy.
+
+If a zygote (or some other stage in development of an unborn human), were to be removed from the body, this appears to me to be choosing to not help some organism develop/live, rather than intending/choosing to kill them. In the same way, not choosing to help people starving in poorer countries who will die if they are not donated to is also choosing to not help someone live, but it is not "intending to kill."
+
+If abortion is considered intentional killing, does that mean removal of a parasite (e.g. tapeworms) & choosing to not donate are considered intentional killing?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ot5brp/why_is_abortion_considered_killing/no4cx6h/)** _2025-11-10 15:37:14_:
+    > "not helping live / letting die."
+
+    That's a convenient re-framing of the action that doesn't change its kammic character at all.
+
+    > In the same way, not choosing to help people starving in poorer countries who will die if they are not donated to is also choosing to not help someone live, but it is not "intending to kill."
+
+    That's an erroneous comparison. Your starting point here is one of no involvement whatsoever in the livelihood of those starving people, so choosing not to donate to them is just continuing the *status quo*.
+
+    When you choose an abortion, your starting point was one of a human depending on you for its survival, and you deciding to end its life. Even if you don't directly kill the embryo/fetus but merely remove the conditions for its survival, you still deliberately interrupted the status quo in a way that constitutes killing.
+
+    A fair comparison would be people in poorer countries depending on medicine for life-threatening conditions that *you and you alone* could provide to them. Having been providing them until now, you intentionally stop doing so when you still could (rather than failing out of some accident). The intention required for that is the intention of killing.
+
+    Edit:
+     
+    > Even if you don't directly kill the embryo/fetus but merely remove the conditions for its survival, you still deliberately interrupted the status quo in a way that constitutes killing.
+
+    In fact, every act of killing is indirect. You can only interfere with the *conditions* for a being's survival. So there is no fundamental difference between "pulling the plug" on a being's lifeline and shooting them in the head.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ot5brp/why_is_abortion_considered_killing/no8rloo/)** _2025-11-11 06:42:53_:
+
+    *(In reply to ToLazyToPickName):*
+    > If abortion is killing, how would one get rid of tapeworms from one's body without killing them? (Since removal of the tapeworms from one's body would be removing their conditions for life).
+    >
+    > 
+    > What is the deciding factor that determines what is killing vs not killing? If it is just the removal of conditions for life (without replacing the conditions), then choosing to stop being deeply attentive to the floor to not step on bugs (after you once were deeply attentive) before walking would be killing (as the conditions for life was deep attentiveness).
+    >
+    > 
+    > If a dying person who needs your rare blood type plugs into you to survive (where they'll die in seconds once it is unplugged), I wouldn't consider it killing to unplug the connection as it is continuing/maintaining the status quo / starting point of not being plugged into (e.g. not being pregnant, not being infected with tapeworms). Even choosing to hit their hand away to prevent them from plugging into you in the first place (leading to their death from not being plugged into you within seconds) wouldn't be killing either. I think one is choosing to not help in both cases here (i.e. removing plug, hitting hand away). 
+    >
+    > 
+    > To make the donating example more comparable: if someone is mistakenly taking money from you to save lives and you stopped them by fixing the mistake, I wouldn't consider that killing, but instead choosing to "not help."
+    >
+    > 
+    > I think there is a meaningful difference between choosing to not help / stopping one's help vs inflicting a deadly injury (e.g. weapon, poison), because one is choosing to not give / stop giving benefit vs one is choosing to inflict harm.
+
+    > If abortion is killing, how would one get rid of tapeworms from one's body without killing them? (Since removal of the tapeworms from one's body would be removing their conditions for life).
+
+    You'd have to kill them to remove them. Nobody denies that.
+
+    > What is the deciding factor that determines what is killing vs not killing? If it is just the removal of conditions for life (without replacing the conditions), then choosing to stop being deeply attentive to the floor to not step on bugs (after you once were deeply attentive) before walking would be killing (as the conditions for life was deep attentiveness).
+
+    No. The condition for the bugs' life would be not being stepped on. That condition overlaps with your deep attentiveness in the example, but they are not the same. You could lose the deep attentiveness out of pure forgetfulness and "kill" some bugs (or none in the end), whereas you couldn't forgetfully decide to undergo an abortion.
+
+    > I wouldn't consider it killing to unplug the connection as it is continuing/maintaining the status quo / starting point of not being plugged into (e.g. not being pregnant, not being infected with tapeworms). 
+
+    That's not how the concept of status quo works. It refers to what is the case *now.* Regardless of the sequence of events, somebody's life depends on conditions exactly as they are *now*, and you intentionally abolish them. That is killing.
+
+    > I think one is choosing to not help in both cases here (i.e. removing plug, hitting hand away). 
+
+    They are not equivalent. In one case you are intentionally *taking* life away, breaking the status quo, in the other you are refusing to provide it, maintaining the status quo. It's the same as stealing vs. refusing to be generous. 
+
+    > To make the donating example more comparable: if someone is mistakenly taking money from you to save lives and you stopped them by fixing the mistake, I wouldn't consider that killing, but instead choosing to "not help."
+
+    It’s still not comparable, because money itself wouldn’t be a condition for life. It would only be a peripheral one. As with the bugs example, there could be a wide window in which your choice results in no deaths. 
+
+    How wide that window is would determine how unwholesome the choice is, and it wouldn’t be full killing unless the window were nil (at least from your perspective)—such as in the case of abortion.
+
+    There’s no scenario in which abortion doesn’t end a human life; if it didn’t, it wouldn’t have been an abortion.
+
+---
+
+**r/HillsideHermitage** | Posted by knwp7 _2025-11-09 18:56:12_
+### [Thought for Food - Eating in Moderation](https://www.reddit.com/r/HillsideHermitage/comments/1osrg5r/thought_for_food_eating_in_moderation/)
+
+# Progress Note
+
+Another progress note. This time it is about food. Over past 4-6 weeks I have transitioned to OMAD (one meal a day). It is a significant achievement for me - much more than awakening my kundalini/chakras (Burbea-jhana) or experiencing dissolution (Goenka-vipassana). Overcoming my food habits has happened thru yoniso attention and many retries after failures. I had a spontaneous break-through a few weeks ago - the body, kind of, gave-in. I have had no hunger-pangs since. Only craving is from the citta (not the body). I am losing weight but have not yet hit the point of equilibrium where I feel hunger from the body - and I have been without food for 24-26 hours at stretch, a few times. (I don't plan to test this)
+
+Thoughts of food-craving do not seem to arise anymore - craving only seems to arise in contact with senses - eg. if I am in the same room with fried snacks in the evening. The bait is revealed by a simple question - "is the body really hungry?"
+
+# Current State - seeking guidance
+
+I have also been completely celibate - in body, speech and thoughts - for last 4 months (since I joined the confession server); the lustful thoughts have mostly vanished.
+
+So the gross-sensual deeds and thoughts seem to be under control.
+
+I am currently dealing with other thoughts proliferating in my head. These thoughts are sensual in nature - about entertainment that I have consumed and relished in the PAST - music, themes, stories, characters, situations. I don't see desire to seek entertainment and I have kept the precept on entertainment for 4 months now - except slipping a few times when watching TV with my kid.
+
+The thoughts are not from my lived-past - longings, incidents, real-life experiences, etc. - I keep a check on those. But I am not able to stop proliferating the thoughts around past-entertainment. I believe I need to upgrade my sensitivity and start seeing danger in these "benign" thoughts that often take me for a ride into proliferation.
+
+Some years ago, I made a wonderful relationship with my breath - that kept me anchored  and at peace most of the time. I seem to be missing that these days.
+
+I would appreciate guidance from Venerables in this regard.
+
+# Background - on Eating
+
+I have been on Intermittent Fasting since late 2018 - experimenting with various eating-windows and times of the day - finally settling for 5-6 hours from 10 to 4. All my life I have struggled with food and weight, always been over weight, though not obese. Exercise has kept my health in check but in past few years I began to see the danger of not training my mind to rein in my eating-habits: if I cannot exercise - because of illness, injury or some other circumstances, my eating indulgence will lead me to obesity, high-BP, diabetes, etc.
+
+Mundane-right-view convinced me to keep the 5 precepts - and later on, 8 precepts. 5 were easy for me because of my lifestyle but when I extended it to 8 there was struggle. It has been the right kind of striving to keep the precepts. I now see what perfecting the precepts mean. With food, I have now gone beyond the rules - the hours, food-choice, etc do not matter - when I know that the beast is tamed. When the beast is tamed, maintaining precepts becomes easy-peasy. I only must not get careless and return to sensuality again - "dont provoke the beast".
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1osrg5r/thought_for_food_eating_in_moderation/no4aua4/)** _2025-11-10 15:26:53_:
+    > The thoughts are not from my lived-past - longings, incidents, real-life experiences, etc. - I keep a check on those. But I am not able to stop proliferating the thoughts around past-entertainment. I believe I need to upgrade my sensitivity and start seeing danger in these "benign" thoughts that often take me for a ride into proliferation.
+
+    Yes, you need to see the danger in them, but also make sure that you are properly restrained in other avenues of unwholesome proliferation or even conduct. Otherwise you'll only be springing into action to diminish the fire when it starts bothering you, continuing to fuel it the rest of the time.
+
+    You don't need to deny the fact that the mind is interested in those thoughts. You have to not let it "get" them *while* it wants them. And it can only "get" them through your intentional choice to think them.
+
+    > Some years ago, I made a wonderful relationship with my breath - that kept me anchored and at peace most of the time. I seem to be missing that these days.
+
+    That doesn't sound like the right kind of peace. If the mind stops chasing after bad things in exchange for a special treat, then you're simply not training it. You're just delaying the eventual return to the unwholesome.
+
+---
+
+**r/HillsideHermitage** | Posted by Dhingy1996 _2025-11-08 17:02:57_
+### [A few reflections](https://www.reddit.com/r/HillsideHermitage/comments/1orujn5/a_few_reflections/)
+
+**Side note**: I feel (somewhat) established within the 8 precepts and have done so for a few months now. Occasional slip ups on entertainment and eating do tend to happen though so I'm not sure whether that qualifies as establishment proper.
+
+The latest HH video featuring Ven. Anigha and Ven. Nyanamoli (as well as the previous one being the Sutta study on the simile of the man carrying oil) adressed a theme that's been prominent in my experience lately; namely, that of not becoming absorbed in sense objects.
+
+Until fairly recently, I was pretty unaware of how often I'd be completely 'lost in thoughts' or just in the particulars of experience altogether. Especially when just sitting or walking, I would be completely oblivous of how my 'contemplating and rehashing ideas and words of others' was, in fact, coming out of a compulsion to always be *doing something*.
+
+Now I've started to sort of "catch" myself doing this - almost a 'waking up'-moment - and recognize that I'd lost the greater context of my overall situation (where I am, what is going on etc.). It really feels not much different from being lost in mundane daydreaming or absorbed in a particular task.  
+And then keep making an effort to not allow oneself to lose the context (the context of not acting out of unwholesome states).
+
+This has become easier to recognize now, not only as I'm sitting but also during bandwidth-requiring tasks such as when I'm working or when I'm having a conversation with someone. I've recently taken up the precept on idle chatter and that one in particular seems to highlight this aspect of making sure to 'keep my head above water' and not allowing myself to become overly absorbed/engaged in the conversation due to some emotional pressure to say the next thing, appear a certain way/feel socially included and so on. It is definitely tough at times to keep an eye on the mind and not lose sight of it.
+
+Noticing that this tendency to 'become lost' in experience and forget the greater context can happen with almost any activity suggests to me that *anything* can sort of become 'entertainment' (or a hindrance?) if one is not keeping an eye on the mind.
+
+A few things I'd like to get some clarity on as I am not sure if my reflections are off the mark:
+
+* Is recognzing this tendency to become absorbed and then maintaining (i.e. refusing to let oneself get 'pulled back into' what had captivated you) part of seeing the signs of the mind/abandoning the hindrances?
+* Especially lately, I've noticed very strong feelings/moods where on one day there will be a lot of clarity, perspective and things making sense and a sense of elation. And then the next day, a lack of clarity, strong doubt and just a very harassing mind. In the last instance, it can be very difficult to 'wake up' and maintain perspective as the mind just keeps pulling and pushing and it can feel almost impossible to *not* act out of the enduring unpleasant feeling. At the same time, it can be fairly easy to become careless and stop being watchful when there is that sense of clarity and pleasantness overall. Are these fluctuations a sign that I'd been doing something wrong leading up to that or is that to be expected?
+
+I know that the same practice of neither giving in (i.e. becoming absorbed/proliferating/dwelling on) nor resisting the discomfort of not having given in applies here with regards to these strong moods too. But it can be so overwhelming sometimes to not get carried away when these colour the entire experience (in particular when everything suddenly seems incredibly hopeless and gloomy). Recognizing that suble expectation of "*When is this mood going to end? I don't think I can endure this much longer.*" and not acting out of it can be really hard to maintain. Especially as one is filled with doubt in those moments.
+
+* If there *isn't* that palpable pull/tendency to dwell on and become absorbed, say, in the idea of having a sweet treat as part of a meal or grabbing a cup of coffee, wouldn't that suggest that that action would not be rooted in craving?
+
+If I question myself (as honestly as I try to anyway) and tease the idea of *not* going through with the action - and there isn't that sense of discomfort at the prospect of not getting it - it's fine, isn't it? The child is not screaming, it's just asking kindly and hence it can have it.  
+However, with this, I sometimes get unsure if I am just bullshitting myself.  
+But lately, I would then recognize unsureness as doubt (as it would often lead to a tendency to start becoming absorbed in thoughts of "*Should I do it*?" and "*No, you're acting out"* etc. and then refraining from proliferating that further.
+
+I know this is a lot but this is just something that's been on my mind lately. Feel free to also adress the stuff that wasn't marked with a bullet point.
+
+I'd appreciate to also get a perspective on all this from one of the venerables.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1orujn5/a_few_reflections/no2o6rd/)** _2025-11-10 07:57:58_:
+    > Is recognzing this tendency to become absorbed and then maintaining (i.e. refusing to let oneself get 'pulled back into' what had captivated you) part of seeing the signs of the mind/abandoning the hindrances?
+
+    Yes.
+
+    > Are these fluctuations a sign that I'd been doing something wrong leading up to that or is that to be expected? …  But it can be so overwhelming sometimes to not get carried away when these colour the entire experience (in particular when everything suddenly seems incredibly hopeless and gloomy). 
+
+    It's both. Due to not clearly seeing the mind, it's inevitable that you will do things that worsen it's state. Regardless of why the bad state came about though, the practice doesn't change.
+
+    An unpleasant state will inevitably influence your actions to some degree. You can't step outside of it even if you try. But what you do have to stay away from is the specific actions that go a step further and "embrace" the unpleasant state of mind fully (whether through indulgence or impatient attempts at escaping it). Those are the ones that are unwholesome.
+
+    Breaking the precepts is of course the basic form of this "embracing," but over time you start seeing that the principle extends well beyond that. An action that initially would've been seen as fine may not be so once the precepts are well developed.
+
+    > If there isn't that palpable pull/tendency to dwell on and become absorbed, say, in the idea of having a sweet treat as part of a meal or grabbing a cup of coffee, wouldn't that suggest that that action would not be rooted in craving?
+
+    > If I question myself (as honestly as I try to anyway) and tease the idea of not going through with the action - and there isn't that sense of discomfort at the prospect of not getting it - it's fine, isn't it? 
+
+    Correct. And yes, of course, that reflection could become mechanical over time—you could start doing it *after* you already decided to go ahead with the action—but it does shed light on the mind's current attitude if done genuinely.
+
+    What can also happen is that you think asking that question is a one-and-done deal, and everything that follows after is automatically fine if the initial decision was. That means you will not even see yourself going for it when some not-fine option presents itself. That's why you can't have too much (right) mindfulness, which boils down to having that very question at the background of whatever you do.
+
+---
+
 **r/HillsideHermitage** | Posted by suparv03 _2025-11-06 06:05:11_
 ### [Choosing to go forth in Sri Lanka](https://www.reddit.com/r/HillsideHermitage/comments/1opr8cx/choosing_to_go_forth_in_sri_lanka/)
 
@@ -38,6 +331,34 @@ Thank you for your guidance. This is a crucial decision for me.
     > Lastly, could you please advise what items I should carry with me when arriving at the monastery?
 
     Anything that is very specific and not common in a rural area.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1opr8cx/choosing_to_go_forth_in_sri_lanka/nnye4gg/)** _2025-11-09 16:47:58_:
+
+    *(In reply to upasakatrainee):*
+    > >Yes, that is what I did. Though it might be better not to go around mentioning that. Most local monks there will not know what HH even is, but it might be a problem simply because it's not what it's taught there, and is based solely on the Suttas and rejects Commentaries/Abhidhamma. Some foreign monks could also automatically dislike you on account of it.
+    >
+    > Bhante, I have a question connected with the spirit of what you have written here (although it is not concerned with ordination per se).
+    >
+    > As a layperson living in an urban area, the most convenient location where I can spend an extended duration in relative seclusion, with free meals and lodging for long stays, is at a Goenka center.
+    >
+    > When I visit, I do not speak much to the teacher or others about how/what I actually practice and keep those to myself. I do comply with the timetable and rules of the place and even assist with any practical work as may be needed. But I do have plenty of time to be by myself, either in my kuti or in a meditation cell which I make the most of. The staff are very kind and nobody polices or enforces anything on anyone, as long as they don't cause a disturbance for others.
+    >
+    > However, I have often wondered if there is deception involved in my action; i.e. why go there if I don't subscribe to their way of practice. And am I depriving another person by possibly taking their slot (since the kutis are limited, and on first come first served basis). Is it right to use their venue, when I'm simultaneously critical of their teaching.  
+    >   
+    > Upon much introspection, I settled on there isn't anything wrong in the 'act' of noticing sensations etc., as long as it is not conflated with what 'the practice' is. So I can even 'participate' in that activity briefly, for the sake of having complied with what I signed up for, without compromising my view of what I know to be the right practice.
+    >
+    > Regarding this theme of utilising a venue for what it provides, while not subscribing to their teaching — I would much appreciate your thoughts, and I wonder how you considered it during your time in SL, and how you see it now in retrospect. Many thanks in advance !
+
+    I wouldn't worry about it unless you are going out of your way to give the impression that you follow and agree with their method in order to get a spot. If you are, then that would be deceptive.
+
+    With a monastery it's different, as the requisites are broadly intended for  monks to practice towards Nibbāna. The fact that most in the monastery might be doing something else, even if that unrelated practice is what the head monks enforce, cannot make someone practicing rightly undeserving.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1opr8cx/choosing_to_go_forth_in_sri_lanka/no2pqi9/)** _2025-11-10 08:13:41_:
+
+    *(In reply to suparv03):*
+    > Namaste Bhante, will I be staying there as a layperson initially? And can I move from monastery to monastery if the situation is non satisfactory in the first one I visit?
+
+    Yes to both questions. Regarding the second one it's worth keeping in mind that once you get a residence visa, it's going to be under the sponsorship of a specific monastery. You can still move, but some places could try to scare you into staying by threatening to cancel your visa.
+
+    That said, once you find a place that fits the basic criteria, you shouldn't move unless something drastically changes and those criteria are no longer met.
 
 ---
 
