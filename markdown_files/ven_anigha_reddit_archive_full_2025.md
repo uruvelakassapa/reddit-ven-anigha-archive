@@ -14,6 +14,185 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by craveminerals _2025-11-19 16:25:53_
+### [How do you know if you’ve  destroyed a fetter, and not just temporarily “subdued” it?](https://www.reddit.com/r/HillsideHermitage/comments/1p1c77m/how_do_you_know_if_youve_destroyed_a_fetter_and/)
+
+
+What’s the difference between someone who (temporarily) transcends sensuality and someone annihilating the fetter of sensuality in an irreversible way? Maybe the former could be convinced that they’re completely done with it, as the desire for sensuality has apparently ceased, (as in old age perhaps) but in fact that’s not the case.
+
+I’ve been thinking that the former may, as in the case of a brahma god, after some time descend to lower realms again and be born as a human or rat, or whatever, after their time is up in their heavenly “desire-less” state— so apparently the fetter of coarse desire is still there but lay dormant so to speak. 
+
+So, how do you know if it’s really destroyed?
+
+
+On this point, seems there’s quite a big difference between coarse desires ‘of the flesh’, and more subtle desires for what may be called realms of luminous form, and formless realms. 
+As expressed in [AN 10.13](https://suttacentral.net/an10.13/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) (at least by Bhikkhu Sujato); ”What are the five higher fetters? Desire for rebirth in the realm of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. These are the five higher fetters.”
+
+These fetters must likewise be hard to know if they’re truly destroyed or not. 
+
+If I were to guess it has to do with having wisdom, and right view. You clearly know the gratification, the danger, and the escape from feeling, form, and the formless. But I’m just wondering if it’s rather easy to fool oneself about this. 
+
+Any thoughts? Or references I can look up? Thank you. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1p1c77m/how_do_you_know_if_youve_destroyed_a_fetter_and/npzrl4w/)** _2025-11-21 08:59:54_:
+    > What’s the difference between someone who (temporarily) transcends sensuality and someone annihilating the fetter of sensuality in an irreversible way? Maybe the former could be convinced that they’re completely done with it, as the desire for sensuality has apparently ceased, (as in old age perhaps) but in fact that’s not the case.
+
+    An ordinary person in old age does not transcend sensuality even temporarily. At most they lose desire for the particular things that for *most* people arouse desire. Their sensuality still has to find expression somehow, at best less blatantly.
+
+    They would still delight in the memories of sensual joys they had in the past even if now they can't pursue them because the body is crippled. They would be elated at the prospect of regaining their health and youth to be able to experience those things again. 
+
+    A person who has transcended sensuality temporarily (i.e., thoroughly recognized the danger in it) would, even within reach of the greatest sensual opportunities, want nothing to do with them.
+
+    And that's why if they maintained that state up until their death, they would be reborn in the Brahma realms. They would have zero desire for anything lower than that. Yet, if they are puthujjanas, their desire for the Brahma realm would be completely unseen and taken for granted, and [the carelessness resulting from that](https://suttas.hillsidehermitage.org/?q=mn49) is the pathway for the old sensual desire to return sooner or later.
+
+    > So, how do you know if it’s really destroyed?
+
+    You would know for sure if after giving up all manner of striving and guarding your mind for a while, there is still no inclination towards the things associated with a certain fetter. 
+
+    For instance, the person who transcends sensuality temporarily does so *completely.* As [this simile](https://suttacentral.net/an6.60/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#4.4) implies, the dust is *gone*, not just covered over like what people often expect. 
+
+    But if they are not free from the fetter, becoming busy with mundane activities and neglecting seclusion—not in ways against the precepts since the pathway for that wouldn't be there—the dust would slowly make its way back. If the actual fetter was destroyed, it never would.
+
+    Realistically though, you won't even need to go that far. Most of the time it's easy to recognize that the mind is still pressured by unwholesome things long before you've let go of the practice for a time, which means you can't afford to let go of it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1p1c77m/how_do_you_know_if_youve_destroyed_a_fetter_and/nq69xa0/)** _2025-11-22 10:51:02_:
+
+    *(In reply to Formal_Breath_2026):*
+    > Bhante, despite the fact that the sutta describes it in quite coarse language, would you say that Baka the Brahmā’s attitude towards his own existence:
+    > > This is permanent, this is everlasting, this is eternal, this is whole, this is imperishable. For this is where there is no being born, growing old, dying, passing away, or reappearing. And there is no other escape beyond this.
+    >
+    > is essentially the same attitude most humans have towards their own existence? I feel like the only way to not eventually lose interest in the never-ending cycle of sensuality is to either a) not conceive of death as an imminent possibility, or b) not see any escape beyond it. So while the sutta makes it sound like a coarse wrong view, it’s ultimately the same short-sightedness which makes most people not seek anything beyond sensuality, and is possibly also why they’re unable to believe in any higher realms as well (just as Baka the Brahmā didn’t believe in any realms above his own)?
+
+    Indeed. Rightly contemplating the impermanence and perishability of sensuality for someone who still pursues it can only result in two things: losing their minds due to "vertigo" (noticing the deadly drop awaiting them due to remaining on things that *have* to fall), or ceasing to pursue sensuality completely so as to practice the Dhamma and eventually come down to safe ground.
+
+    They need not *think* "this is permanent, everlasting, etc." By pursuing sensuality, climbing even higher on the tree, they are seeing it as such implicitly.
+
+---
+
+**r/HillsideHermitage** | Posted by Consistent-Buy5570 _2025-11-15 02:55:50_
+### [Some questions regarding my practice](https://www.reddit.com/r/HillsideHermitage/comments/1oxgkwp/some_questions_regarding_my_practice/)
+
+Hello,
+
+​Three weeks into intentional restraint, I keep either breaking precepts or being muddled by a lot of doubt and hesitation. The doubt is usually about where to place my attention. I used to do a lot of object-based meditation, where I would let my attention go wherever it needed to and just remain there. This would immediately clarify doubts and bring instantaneous clarity. It would also make my meditations full of sensuality and encourage a shamelessness toward more sensuality.
+
+​But now I am trying to do nothing at all, and I am not sure what to attend to. I often lose context, especially when I get distracted; I'll suddenly find myself already scrolling.
+
+​Sometimes, withstanding the pressure of doubt brings clarity, but it just feels extremely uneasy in my body.
+
+​It seems I'm keeping certain precepts, like those regarding speech, sleep, and entertainment, more ambiguous.
+
+​When I try to attend or work with the context of craving, it stirs a lot of doubt since it's not a palpable object for my attention to remain with.
+
+​My questions:  
+  
+1) ​Since I forget the context too often, should I stick to the five precepts with celibacy until I am virtuous in those five?
+
+​2) My major doubt is this: I have a sense that the immediate suffering of craving can be uprooted by the correct perspective. So, I find myself jockeying for position, discerning this way and that, especially with craving/lust. Once in a blue moon, this successfully removes the craving and the space for it entirely. But, the next day, I try to return to this sense of yonisomanasikara, and I am overflowing with doubt again. So, how do I work with doubt? And is it possible I'm appropriating yonisomanasikara for myself when what I'm doing isn't truly that? How does some one without any management techniques bare and endure when they are just getting started?
+
+​3) How do I work with hesitation? Certain duties related to schoolwork and finding a job seem daunting. It manifests as laziness and reluctance. Due to my exposure to non-duality, "nothing to do" philosophies, and relaxing meditations, I have become extremely lazy. There is also a more existential hesitation or doubt that appears with fear sometimes. It happens when I'm looking and looking for something to do, but nothing feels satisfactory (not in a mystical way). This is very prominent throughout the day.
+
+4) ​Is immersion a bad thing? When I am outside my home, I generally experience a sense of immersion that feels wondrous. It isn't manufactured, but maybe I become more heedless and conceited because of it.
+
+​5) What is the stance on somatic practices that calm the body down? Sometimes in the morning, I experience bodily restlessness with a lustful warmth in my body. I usually gave in or calmed it down with a cold shower or an exercise called TRE, which involves tremoring to release and relax the hips, pelvis, and other parts of the body. Is this against the principle of enduring hindrances? Or does endurance only apply to mental attitudes?
+
+​6) When I engage in seemingly mundane but required chores, like sweeping the floor, I have a hell-like aversion and impatience. Do I work with this aversion in the same manner as enduring lust—by noticing the preexisting attitude of reluctance and actively engaging in the activity without room for doubt? Am I provoking the mind too much by this?
+
+​Sometimes, enduring feels impossible, making me full of doubt and amplifying the preexisting mass of resistance.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+This is a repost. I have clarified some of the above questions since I last posted.
+
+I have a few new positions:
+
+1. I decided to stick to the five precepts but not engage in sensual eating.
+2. I have realized that this temporary sense of immersion isn't to be cultivated, and I have to actively choose to mystify it to make it "valuable". It probably isn't yonisomanasikara even though it feels like "peripheral-ness..." because it isn't rooted in the safety of the precepts.   It is also not something that encourgages dispassion because it makes me want to make it sustain, and I feel the liability because of that. It also makes me focused overly on subtle defilements, when there is plenty of course defilements to work with.
+
+I had a wrong notion that I had to endure at the correct level, and if I did, I would make me free faster... So I would try to endure the sensuality when it is too unsafe to do so. So now I decided to take a less immediate approach to protect the precepts. Like changing environments, predicting where my behaviours are headed, and questioning my motives. So currently I have no immediate experiential resolution to the suffering.
+
+That should be everything.
+
+​Thanks for reading.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1oxgkwp/some_questions_regarding_my_practice/npa25et/)** _2025-11-17 06:45:34_:
+    ​> But now I am trying to do nothing at all, and I am not sure what to attend to. I often lose context, especially when I get distracted; I'll suddenly find myself already scrolling.
+
+    That might be one of the major issues. Don't try to "do nothing at all," rather focus on ensuring that whatever you do isn't against the precepts. Acting in unwholesome ways is how you truly lose the context, not simply forgetting to think about it for a period of time.
+
+    >  But, the next day, I try to return to this sense of yonisomanasikara, and I am overflowing with doubt again. So, how do I work with doubt? And is it possible I'm appropriating yonisomanasikara for myself when what I'm doing isn't truly that? 
+
+    It might genuinely be the right direction. I can't tell without further detail. But the bottom line is that not being sufficiently confident in virtue will make your attempts at subtler forms of yoniso manasikāra hit or miss. 
+
+    > How does some one without any management techniques bare and endure when they are just getting started?
+
+    They don't have to "bare and endure" everything indiscriminately. They should focus on enduring the wild mind trying to get them to break precepts, and that's it. Anything they would add on top of the endurance to make it easier would be management by definition, even if not a well defined "technique." 
+
+    If *just* keeping the precepts is absolutely unbearable for someone, then they should take on the precepts more gradually, still keeping full restraint as their goal.
+
+    > ​3) How do I work with hesitation? Certain duties related to schoolwork and finding a job seem daunting. It manifests as laziness and reluctance. Due to my exposure to non-duality, "nothing to do" philosophies, and relaxing meditations, I have become extremely lazy. There is also a more existential hesitation or doubt that appears with fear sometimes. It happens when I'm looking and looking for something to do, but nothing feels satisfactory (not in a mystical way). This is very prominent throughout the day.
+
+    Anyone can have resistance to doing things, but whether that automatically leads to not doing them depends on how restrained in regard to their mind's pulls they've been.
+
+    > 4) ​Is immersion a bad thing? When I am outside my home, I generally experience a sense of immersion that feels wondrous. It isn't manufactured, but maybe I become more heedless and conceited because of it.
+
+    Delight in any sense object, not immersion per se, is the issue.
+
+    > ​5) What is the stance on somatic practices that calm the body down? Sometimes in the morning, I experience bodily restlessness with a lustful warmth in my body. I usually gave in or calmed it down with a cold shower or an exercise called TRE, which involves tremoring to release and relax the hips, pelvis, and other parts of the body. Is this against the principle of enduring hindrances? Or does endurance only apply to mental attitudes?
+
+    That certainly is management if you're doing it in response to lust or restlessness. But I wouldn't worry about avoiding all management at this stage as long as it's not fully sensual activities (which would break the precepts anyway).
+
+    > ​6) When I engage in seemingly mundane but required chores, like sweeping the floor, I have a hell-like aversion and impatience. Do I work with this aversion in the same manner as enduring lust—by noticing the preexisting attitude of reluctance and actively engaging in the activity without room for doubt? Am I provoking the mind too much by this?
+
+    Same as above. It's because of insufficient restraint developed beforehand in regard to *any* unwholesome mental pressures that such states have such a grip on you. When everything else has been dealt with you could focus more on the purely mental attitude and "mode of attention" during such instances. The same way you would only bother brushing off dust after you've already cleaned off the grease and mud.
+
+    > I had a wrong notion that I had to endure at the correct level, and if I did, I would make me free faster... So I would try to endure the sensuality when it is too unsafe to do so. So now I decided to take a less immediate approach to protect the precepts. Like changing environments, predicting where my behaviours are headed, and questioning my motives.
+
+    Deliberately exposing yourself to things you’re lustful for is always a mistake. Even if you don’t act on the lust completely, it’s not a success. You'd keep revolving around the desire and giving it room to linger just by exposing yourself intentionally as some sort of "challenge."
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1oxgkwp/some_questions_regarding_my_practice/nq699mg/)** _2025-11-22 10:44:26_:
+
+    *(In reply to Consistent-Buy5570):*
+    >   
+    > Hi Bhante,
+    >
+    > This is very helpful. Thank you for answering. I have a few more questions:
+    >
+    > >That might be one of the major issues. Don't try to "do nothing at all," rather focus on ensuring that whatever you do isn't against the precepts. Acting in unwholesome ways is how you truly lose the context, not simply forgetting to think about it for a period of time.
+    >
+    > By "doing nothing" I am referring to the act of just trying to bear that ambiguos level, with no concrete objective focus. Without any inspiration to investigate the manner of my attention and the way I am attending to things, I can't stop myself from acting out of that ambiguos level. It is just too ambiguos for me to not go a bit crazy or double down a lot into sensuality or distraction, because it feels like a big abyss.  
+    >   
+    > I thought perhaps investigating the nature of my attention or doing forms of concurrent attention practices by inferring and trying to adjust the radio knob left and right might be a form of "wrong" practice, so I dropped it altogether. And instead just be aware of my intentions alone which is something "I do" after the arising of the ambiguosness. It isn't immediate.
+    >
+    > Usually investigating in such a manner could either: 
+    >
+    > * make me do it to get rid of the pain of ambiguosness and turn it into a management technique out of trying to find that immediate relief.
+    > * or actually do it to find a safe place does not seem to be motivated by aversion at first glance. So its like instead of diverting my attention from having no resting place, and doing something concrete, I will be naturally more differently acquainted with that ambiguos pressure. A sense of impersonalness is more prominently there along with the ambiguity.
+    >
+    > When I investigate in such a manner, my only resource is primarily the HH videos on peripheral awaremess and yonisomanasikara... but I am sure I can appropriate even the correct instruction if I use it to avoid pain. I am wondering if investigating how you attend to things, without properly being established in the precepts and celibacy is an immediate no go. 
+    >
+    > >Deliberately exposing yourself to things you’re lustful for is always a mistake. Even if you don’t act on the lust completely, it’s not a success. You'd keep revolving around the desire and giving it room to linger just by exposing yourself intentionally as some sort of "challenge."
+    >
+    > Here Bhante, when I refer to "endure sensuality when its unsafe to do so" I refer to not changing environments, such that something like masturbation won't happen rather than purposefully doing something sensual to see if I can bear it or not.
+    >
+    > Many blessings.
+
+    > It is just too ambiguos for me to not go a bit crazy or double down a lot into sensuality or distraction, because it feels like a big abyss.
+
+    Right, which is why there is no point in making efforts at that level if the basics are still shaky (the precepts). Being unsparing with those will generate all the pressure you need for now.
+
+    > I thought perhaps investigating the nature of my attention or doing forms of concurrent attention practices by inferring and trying to adjust the radio knob left and right might be a form of "wrong" practice, so I dropped it altogether. 
+
+    It is. It implies that you can assess the quality of your attention as an independent observer, when in reality anything you do happens within the wrong attention (affected with craving).
+
+    You "grow out" of that confinement not by a special type of doing, but by the Gradual Training. Restraining wrong types of doing progressively, as your discernment of them increases.
+
+    > Here Bhante, when I refer to "endure sensuality when its unsafe to do so" I refer to not changing environments, such that something like masturbation won't happen rather than purposefully doing something sensual to see if I can bear it or not.
+
+    Yes, that's what I understood from your description. 
+
+    Even if you don't end up acting sensually through masturbation or similar, deliberately exposing yourself to what you're lustful for is already a lustful act. Willingly subjecting yourself to peril implies not seeing it as peril.
+
+---
+
 **r/HillsideHermitage** | Posted by bodily_heartfulness _2025-11-13 17:58:24_
 ### [Impermanent Jhana](https://www.reddit.com/r/HillsideHermitage/comments/1ow80b1/impermanent_jhana/)
 
@@ -134,6 +313,112 @@ Now, in light of all that, wouldn't one who lives in jhana, live in jhana for th
     Perhaps that is the case more often than not. But the first person who met the Buddha after his awakening accused him of arrogance as well. 
 
     That goes to show that one better go by the content of what is said rather than the intentions one projects onto the speaker.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/npa3n0w/)** _2025-11-17 06:59:37_:
+
+    *(In reply to RecentSubstance9039):*
+    > How would you explain that I am telling you that I've learned that sensuality is a danger and goes contrary to the dhamma, that all things and people I hold dear will become separated from me, and I have been taught and advised to contemplate that fact? It's almost as if you are not believing when I tell you that I have learned the things you are pointing out from other teachers. The only difference is your tone and habit of accusing other teachers to not teach things that you teach.
+
+    > The only difference is your tone and habit of accusing other teachers to not teach things that you teach.
+
+    If that really is the only difference, as you say, then I’d expect lay followers of those other teachers who aim for attainment to treat celibacy as non-optional. Yet when someone is arguing against our point that celibacy is required, it’s because they’ve picked up the opposite message from Theravada teachers, including ones in robes.
+
+    So, whether they accuse me of arrogance or not, I don't think one can claim in good faith that the sole difference lies in my tone.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/npbovfd/)** _2025-11-17 14:53:57_:
+
+    *(In reply to RecentSubstance9039):*
+    > To be fair, I believe their arguments against your last essay (if that's what you are referring to) is more nuanced than how you're framing it now. There seems to be some disagreements around how to define celibacy, for one thing.
+    >
+    > To say that there are some disagreements on how to interpret suttas or define terms is a far cry from claiming "other teachers do not teach the dangers of sensuality or teach to contemplate impermanence, but only me and my special group of monks do" - which is what you've so much as said in our discussion.
+    >
+    > We should parse out what the Buddha taught and align ourselves with that and move in that direction always, as much as we can. Getting lost in the weeds of putting a magnifying glass on one type of sensual indulgence vs others is likely not helping anyone. I would implore you to look at your tone and deliverance in the way you talk about other people, and see if what you are doing and how you are doing it, is inviting others towards the dhamma, or creating an exclusionary group.
+
+    > To be fair, I believe their arguments against your last essay (if that's what you are referring to) is more nuanced than how you're framing it now. There seems to be some disagreements around how to define celibacy, for one thing.
+
+    I don't mind discussing the nuances around those disagreements, but that's not what this conversation is about. You were trying to say that there is no difference between what we're saying and other Theravada teachers. There clearly is, even if we chalk it up to a different way of interpreting the Suttas. And we can't in good faith claim that a distinction as big as allowing actions rooted in lust sometimes and never allowing them wouldn't change one's progress on the path of non-lust.
+
+    > Getting lost in the weeds of putting a magnifying glass on one type of sensual indulgence vs others is likely not helping anyone. 
+
+    If someone is truly never ingesting poisons because they don't want to die, what's the problem with putting a magnifying glass on the type of poison that is most deadly—unless there was the plan to ingest it at some point?
+
+    As for your comment on my approach to presenting the teachings, I invite you to look into how the Buddha was criticized for showing no respect to the traditions of his time and unambiguously placing his teachings above all others. If you had lived in his time and went by the criteria you are using now, you might have well dismissed him.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/nph000b/)** _2025-11-18 10:44:38_:
+
+    *(In reply to RecentSubstance9039):*
+    > "allowing actions rooted in lust sometimes and never allowing them wouldn't change one's progress on the path of non-lust."
+    >
+    >   
+    > I think this distinction is a valid one. As far as my understanding goes, from what other teachers have said and written, is that each individual is responsible for making the progress they make. It's not about sensuality being "allowed", it's more about deciding if you want to take the teachings that far. Laypeople who do not want to take the teachings that far, must admit this to themselves and accept that they will not reach enlightenment, but maybe are going for a pleasant rebirth or something like that instead. I do know that there are some people out there who claim they are arahants and are living a lay life, are not celibate, and maybe don't even follow the 8 precepts. I've heard other Theravada teachers say this is not possible. I also have been taught that you can't be a Sotapanna if it's even in your realm of possibilities to break the 5 precepts under any circumstances.
+    >
+    > Are you saying that monastics should not offer teachings to laypeople who do not want to develop a higher level of renunciation and work towards the stages of enlightenment? Didn't the Buddha even offer teachings on ways to live well as a layperson?
+    >
+    >   
+    > Correct me if I'm wrong, but my understanding is that following the rules merely to "check the boxes" is not what makes someone a Sotopanna. A Sotapanna has literally shed those thoughts and intentions so they can't give rise to the actions that break the 5 precepts. It's a difference that is important. For example, it's not that you need to be celibate to reach Sotoapanna stage, it's that once you straighten out your view, celibacy will be the only logical or natural choice for someone on the path. Before one is on the path, they may try to be celiabte through willpower or a feeling of obligation to "follow the rules" - but the intent behind that decision is what differentiates someone who is on the path and someone who is learning about being on the path.
+    >
+    > >
+
+    > Are you saying that monastics should not offer teachings to laypeople who do not want to develop a higher level of renunciation and work towards the stages of enlightenment?
+
+    No, I'm not saying that. But I've never heard a Theravada teacher telling laypeople that they can only hope for higher rebirths unless they're  celibate. I'm only aware of us saying that.
+
+    I'd be happy to be proven wrong, but what I've seen time and again is people being taught (a highly questionable interpretation of) the practices the Buddha taught for Arahantship to laypeople keeping only five precepts. In other words, completely bypassing Right Intention (not to mention Right View) and jumping straight into the last three factors of the path. And that alone, even without going into their specific details, is why those practices are unable to bear the right fruits.
+
+    > Correct me if I'm wrong, but my understanding is that following the rules merely to "check the boxes" is not what makes someone a Sotopanna. A 
+
+    True. But does it follow from this that certain boxes *should* be left unchecked? Absolutely not.
+
+    I don’t see why you’d see a connection with a "just checking boxes" approach when considering what we've said, especially given how often we’ve stressed the need to abandon mental delight in sensuality rather than merely follow rules by the letter.
+
+    > Before one is on the path, they may try to be celiabte through willpower or a feeling of obligation to "follow the rules" - but the intent behind that decision is what differentiates someone who is on the path and someone who is learning about being on the path.
+
+    They may start with that, but does not knowing how to use a knife properly in the beginning justify never grabbing it? How else are you going to learn? 
+
+    Also, why then keep *any* precepts, even the five? Why not go and kill people instead of "just following the rules"?
+
+    > For example, it's not that you need to be celibate to reach Sotoapanna stage
+
+    Celibacy and complete withdrawal from sensuality is required for stream entry because, as I wrote in the essay, you are ignoring the most blatantly obvious layer of impermanence if you still delight in such acts (which is the necessary basis for engaging in them). The Buddha explicitly mentions in MN 16 how one who still delights in sensuality cannot achieve progress and growth in the Dhamma, and this is precisely why.
+
+    So, as I mentioned before, saying "celibacy is required for stream entry" is actually downplaying the true requirement. Indeed, as you said, mere abstinence is not enough. "Mere" abstinence AND [complete dispassion internally are required](https://suttas.hillsidehermitage.org/?q=mn36#mn36:18.11_mn36:18.12). And you can't have the latter without the former.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/npmvtmc/)** _2025-11-19 07:43:26_:
+
+    *(In reply to RecentSubstance9039):*
+    > Yes, I completely agree with you putting the understanding and view over the act of withdrawal. My other question is about this idea that a Sotapanna can regress and start indulging in sensuality or even engage in sexual activity. Aren't the changes made from enlightenment permanent?
+    >
+    > From reading your essay about celibacy being a requirement for stream entry, and from reading the suttas in which Sotapannas are still engaging in sensuality, it leads me to believe that the purification of mind and the straightening of view is only temporary. Is that correct? And if it's correct, can someone reach other stages of enlightenment, even arahant, and then regress in their views and conduct?
+
+    > Yes, I completely agree with you putting the understanding and view over the act of withdrawal.
+
+    Just to be clear, what I'm saying is that the act of withdrawal (complete physical celibacy) is the first and non-negotiable step. Withdrawal is not the right understanding and view, but there will not be right understanding and view without it.
+
+    > Aren't the changes made from enlightenment permanent?
+
+    Yes. But a sotāpanna's freedom is not defined by dispassion for sensuality. It's the destruction of the first three fetters, and the irreversible understanding of what the path is. They can't lie to themselves about the path requiring complete celibacy, but they can postpone following the path further and thus not be celibate.
+
+    The Right View cannot arise unless all passion for sensuality has been abandoned. That passion can return *afterwards* because the fetter of sensuality is still there. I explained this in the previous essay.
+
+    > And if it's correct, can someone reach other stages of enlightenment, even arahant, and then regress in their views and conduct?
+
+    No. Each of the fetters is destroyed completely irreversibly.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/npmw95f/)** _2025-11-19 07:47:44_:
+
+    *(In reply to RecentSubstance9039):*
+    > Also, I will tell you that the times I have asked monastics in the Theravada tradition explicitly if someone can become enlightened while not being celibate, they have always said that is not possible.
+
+    They might mean that while engaging in intercourse stream entry is not possible. Believing the opposite would be too ludicrous.
+
+    I highly doubt they meant that one needs to completely abandon even delight in intercourse, not just the external engagement in it as a form of "just following rules."
+
+    Usually the view is that if you're not assailed by coarse sensual desire currently, that's enough. But that's just being distracted from the problem. The hindrance is in whether you *would* become attracted to sensual things if they suddenly popped up in front of you.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ou4iyd/the_peril_of_sensuality_new_essay/npnchmv/)** _2025-11-19 10:35:13_:
+
+    *(In reply to No_Squirrel4617):*
+    > Bhikkhu Anigha, do you mind if I ask for a quick clarification?
+    >
+    >  > "Udayi, the pleasure and joy that arise based on these five avenues of sensuality is called sensual pleasure the pleasure of excrement."
+    >
+    > I have noticed that the Buddha does not exaggerate such statements, so I am wondering what exactly he had in mind when he said that sensual pleasure is the pleasure of excrement.
+
+    As a normal person, you would not see acting on a craving for excrement as acceptable even if it arose. So sensual craving should be regarded as an abnormality in the same way, and never welcomed even if it arises.
 
 ---
 
