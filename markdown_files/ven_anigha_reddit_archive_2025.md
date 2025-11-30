@@ -9,6 +9,23 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by RazzmatazzFit6906 _2025-11-24 17:32:45_
+### [Do TV shows, music, movies, and books, when consumed as part of a language-learning activity, break the 7th precept?](https://www.reddit.com/r/HillsideHermitage/comments/1p5ne53/do_tv_shows_music_movies_and_books_when_consumed/)
+
+I’m not a native English speaker, and a few years ago I began practicing immersion in the language with the goal of learning English. Since I don’t live in an English-speaking country, I try to simulate an English-language environment at certain times of the day. Series, music, movies, YT videos, podcasts and books have been crucial for this learning so far, mainly because they expose me to many different kinds of situations and greatly expand my vocabulary, expressions, etc.
+
+Today, I’m only able to listen to Dhamma talks and read HH books because of this daily effort. I’m still far from fluency, especially in speaking and writing (to write here, I use AI to translate).
+
+So I’m left with this dilemma: to properly practice the 7th precept, should I give up these things and replace them only with Dhamma talks and Dhamma books? Or, if they are approached as a form of “study,” would they not break the precept? Or do entertainment items break the precept under all circumstances?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1p5ne53/do_tv_shows_music_movies_and_books_when_consumed/nqnw7cp/)** _2025-11-25 06:17:58_:
+
+    What matters is your state of mind. The fact that it's for language learning will not do anything to prevent the wrong state of mind (delight, enjoyment, distraction) regarding the content you're consuming. Certain things will be so appealing for you that those states will arise no matter how much you try to focus on the practical aim of language learning.
+
+    So try to find things that you are not interested in and use those to study, and stop using them when interest and pressure develops. Particularly with English, you will never run out of options. And since it's for language learning, it won't be a problem that the advice in most Dhamma resources is misguided.
+
+---
+
 **r/HillsideHermitage** | Posted by craveminerals _2025-11-19 16:25:53_
 ### [How do you know if you’ve  destroyed a fetter, and not just temporarily “subdued” it?](https://www.reddit.com/r/HillsideHermitage/comments/1p1c77m/how_do_you_know_if_youve_destroyed_a_fetter_and/)
 
@@ -55,6 +72,13 @@ Any thoughts? Or references I can look up? Thank you.
     Indeed. Rightly contemplating the impermanence and perishability of sensuality for someone who still pursues it can only result in two things: losing their minds due to "vertigo" (noticing the deadly drop awaiting them due to remaining on things that *have* to fall), or ceasing to pursue sensuality completely so as to practice the Dhamma and eventually come down to safe ground.
 
     They need not *think* "this is permanent, everlasting, etc." By pursuing sensuality, climbing even higher on the tree, they are seeing it as such implicitly.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1p1c77m/how_do_you_know_if_youve_destroyed_a_fetter_and/nqi1m5n/)** _2025-11-24 08:47:48_:
+
+    > Is this correct?
+
+    Yes. The fetters are essentially the fact that you don't discern certain layers of craving (or none at all), which is what makes them able to exist.
+
+    Though those cravings might be completely absent in the present, not just covered up by favorable circumstances, not understanding them clearly means that you are *able* to have them. It may take an inconceivably long time, but they will have to come back one day simply because the space for them is still there.
 
 ---
 
@@ -4918,6 +4942,9 @@ The central rule that cannot be externally enforced and must rely on each user's
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/mtufpck/)** _2025-05-23 14:54:15_:
 
     No; the link somehow expired even though I had set it not to. The current link is still working as of now.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/nqi24u6/)** _2025-11-24 08:53:08_:
+
+    Taking it on would still be more beneficial than allowing board games *and* other forms of entertainment as well. If you continue doing so, just don't cover up the fact that you're playing board games out of weakness, not because it's not ultimately a hindrance. Regard it as a transgression still.
 
 ---
 
