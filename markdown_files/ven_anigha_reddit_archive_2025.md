@@ -9,6 +9,67 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by craveminerals _2025-12-05 19:24:20_
+### [Thoughts on abstaining from the gym](https://www.reddit.com/r/HillsideHermitage/comments/1pf44yf/thoughts_on_abstaining_from_the_gym/)
+
+So I’ve been trying to train in the 7 precepts a few months now. One of my obstacles is my attachment to the gym / weight lifting, which has been a less sensual and thereby less harmful way to manage suffering. It makes you feel good, healthy, vigorous (and surely encourages more bhava tanha) 
+
+But my problem is that my mind has vain tendencies and can’t help but have such an attitude towards the body. So often when I work out I feel like I’m breaking the beautification precept. I can tell myself *I’m only doing it for health reasons / strength / staying functional* , but then I feel like I’m bullshitting myself. There’s certainly interest in physique, and I’d be disappointed if I couldn’t maintain what’s left of it. 
+
+Going ahead and building/maintaining muscle, and improving the body in spite of this delight feels, for me anyway, a bit like associating with attractive delightful people while telling oneself “don’t feel attracted, don’t fall in love!”— well that’s almost inevitably what will happen. 
+
+
+Besides this, when I’ve stopped this activity I tend to miss it, because it simply feels good, so I have struggled to keep away from it. So there’s attachment and gratification involved. 
+
+So for the purpose of training the mind, I take these as signs that I should quit, or at least devote myself to other forms of exercise that aren’t as gratifying, and don’t necessarily feed as much delight towards the body’s aesthetics. Like running, or cardio in general. (Which is quite tedious in my opinion and feels like a more “neutral” activity) 
+
+So this is what I’ve been heading towards more and more. I’ve also tried eating more moderately, which seems to counter the vain tendencies a bit, and is besides that a good thing for training the mind. (Because I take solace in food)
+
+
+Does the above sound reasonable to you? Any thoughts or advice relating to this?
+
+After typing this out the answer seems quite obvious as to what I should do (“whatever leads to dispassion”) but maybe you have some insights you want to share. Thank you. 
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1pf44yf/thoughts_on_abstaining_from_the_gym/nshek1s/)** _2025-12-05 20:21:30_:
+
+    If vanity has become the most immediate and weighty (no pun intended) motivation for doing strength training, while the practical reasons are more of a vague theoretical idea that is almost on the level of an excuse, this is obviously a problem. And it's a problem to keep doing it through that framework. 
+
+    But, that problem does not come because of doing strength training. It comes on account of a habit of allowing yourself to act through delusion, without having clarified properly what you are doing and why.
+
+    Since the problem is neither because of strength training nor implicit in it, stopping strength training won't be solving anything. It's just avoiding the issue for now and it will come up again later with something different. 
+
+    You can stop doing it if you want, but then you should then at least be very clear what your PRACTICAL reasons are for not doing it - i.e. why you do not actually think it gives enough benefits for life and health to be worth spending time on, (such that the sole reason you would be doing it would be vanity). On that, you should do your own research, use common sense, and ignore how you feel about it emotionally either way. And be very aware that not doing strength training will not save you from vanity. It will still crop up in regard to something or other, and you won't be able to outrun it forever by switching activities.
+
+    If you find out that you do have genuine practical reasons for doing strength training that pertain to health and life, and also know what purpose you want to serve with that health and life, you just need to remind yourself of that and don't let the vanity start driving actual acts in terms of how you train (e.g. focusing on particular body parts or particular modes of training aimed at bodybuilding specifically). 
+
+    Then if you want to undermine the vanity part further, you could reflect on the nature of the body that you are building up and maintaining - an organic-material vegetative thing whose own sole agenda is to grow and feed and replicate itself; that the measure of its health, vitality and beauty is the ability to serve these vegetative functions while it relentlessly declines. 😄
+
+---
+
+**r/HillsideHermitage** | Posted by account-7 _2025-12-04 16:28:06_
+### [Useful "Minimum" Duration of Celibacy for Temporary Ordination](https://www.reddit.com/r/HillsideHermitage/comments/1pe4fi4/useful_minimum_duration_of_celibacy_for_temporary/)
+
+While I have some personal reservations about the sutta interpretations that lead to HH's requirement of celibacy, I can see the absolute all-encompassing nature of sexuality and  how much of a hinderance it can be.
+
+I'm in a relationship that is quite healthy (and ironically, sometimes a powerful tool against lust for me), but I plan to take temporary ordination at some point soon (and likely at various points in my life).
+
+While monastic life will offer me a plethora of benefits, I see the biggest change from my regular life will be in celibacy. Given that, what duration would you all say is the minimum useful time to take on celibacy for, in order to really allow mental/energetic shifts and defense mechanisms to establish themselves?
+
+I respectfully ask that this thread doesn't turn into a debate on the requirement of celibacy for stream-entry (as much respect I have for the general HH position). Thank you for your time and thoughts.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pe4fi4/useful_minimum_duration_of_celibacy_for_temporary/nsenkxj/)** _2025-12-05 11:14:28_:
+
+    First of all I wouldn't recommend temporary ordination. 
+    It erodes the significance of the robe for yourself. That significance is important because it creates some friction between desires that will inevitably arise and the decision to give up the training. You will have a lot less of that friction if you ever decide to ordain permanently having already disrobed before.
+
+    Above all, don't go for bhikkhu ordination. Firstly because it's dishonest: at the end of the ordination procedure, you accept that you will not engage in intercourse and the other *pārājikas* for the rest of your life (which, incidentally, sets the context for every Sutta addressed to bhikkhus, which is most of them). Secondly because never having been a bhikkhu would keep at least one line that you haven't crossed before, to maintain that friction I referred to.
+
+    As for the minimum timeframe to benefit from celibacy (which you could easily take on as a layperson at a monastery) the benefits begin whenever it feels like you've done it long enough. That's when the initial inspiration of the new environment will have worn off, and your mind starts showing its true colors. The opportunity to tame your craving begins then. The more distractions and novelty are available at the place you go to however, the longer that will take. Probably several months at the very minimum. And if you keep yourself busy with internal entertainment like meditation techniques, then that time might never come.
+
+    The benefit will cease not when you physically return to sensuality, but as soon as you start *making plans* to return to it. The growth stimulus will disappear already at that point. Hence in someone with actual right view, wrong intention alone, even without speech or actions to follow it yet, collapses the entire rest of the noble eightfold path. It's not about whether you still have external ties with sensuality that you could hypothetically return to, but about what your intentions are internally. That's what I was pointing to in the recent essays.
+
+---
+
 **r/HillsideHermitage** | Posted by RazzmatazzFit6906 _2025-11-24 17:32:45_
 ### [Do TV shows, music, movies, and books, when consumed as part of a language-learning activity, break the 7th precept?](https://www.reddit.com/r/HillsideHermitage/comments/1p5ne53/do_tv_shows_music_movies_and_books_when_consumed/)
 
@@ -5838,6 +5899,11 @@ https://www.reddit.com/r/HillsideHermitage/wiki/index/
     So then it's not really that one goes out of one's way to find things to do (or to try to be around others more), but that one realizes that the mind is already not infected with passion, aversion, etc., for the time being, and thus there is no need to keep pushing with that intensity for the time being. Then whatever is offered as an option for activity within that (even on the mental level) has to be done with the clarity that it will not introduce unarisen unwholesome states like delight in work or in company (or restlessness regarding the Dhamma, for that matter).
 
     If one is able to spend one's days and nights in that state without falling from it, then there is already nothing significantly unwholesome there. No coarse states of sensuality or aversion would be coming up. Only when that basis is firm is one able to strive more "decisively" regarding lesser impurities (as per the formula describing the wakefulness practice) without being driven almost inevitably by restlessness and wrong expectations of what freedom even is. You could say that at that point, the person has understood and become established in the precepts and sense restraint. And to get to that point, they certainly need to have frequented empty dwellings and not delighted in company.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1jlzarz/new_wiki_page_virtue_and_the_seven_precepts/nrirxkq/)** _2025-11-30 10:38:01_:
+
+    It means anything that you feel compelled to do out of the pressure of lust, aversion, or desire for distraction. Actions based on those pressures are not "innocent" even when they seem so to others.
+
+    Importantly, those motivations are not inherent to any specific actions (apart from breaking the precepts). At one point you might want to do a certain activity out of those unwholesome motivations, and at another those motivations would be absent.
 
 ---
 

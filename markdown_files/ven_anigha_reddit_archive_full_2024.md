@@ -4755,6 +4755,22 @@ Also I'm watching this and it's bringing up a lot of questions
     *Saṃsāra* is not an external place or condition that our five aggregates are "in", in which case the question would arise regarding a self/soul that remains unchanged throughout *saṃsāra*. 
 
     Instead, *saṃsāra* [is nothing other than these five aggregates changing-while-persisting](https://suttacentral.net/sn22.79/en/sujato?lang=en&layout=plain&reference=main&notes=none&highlight=false&script=latin#1.2), and the five aggregates cannot be rightly regarded as self because they cannot be ultimately controlled.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ez0fut/rebirth_kamma_and_what_is_even_the_point/nsmilsg/)** _2025-12-06 17:43:45_:
+
+    *(In reply to TurtleArsonist):*
+    > >What the Suttas do say is necessary to have is mundane right view, which simply boils down to acknowledging that there could be a next life, and that what you do in this life will have an effect on what you experience in the next, just as what you did yesterday affects your experience today. Rejecting *that* (which would also have to be based on faith and belief) is what is an obstacle to the practice.
+    >
+    > This makes no sense. It's just Pascal's wager for Buddhism.
+    >
+    > There could be a next life. What you do in this life could have an effect on what you experience in the next life. Okay. There could be lot's of things, though. There could be a God who particularly dislikes Buddhism and punishes you for being a Buddhist. It could be the case that any possible set of actions or intentions in this life could lead to any possible outcome good or bad in a possible next life.
+    >
+    > Your logic is inconsistent. If the goal is to imagine the worst case possible hypothetical scenario after death and do whatever you can to avoid that, you are left with no guide to appropriate action right now because there are infinitely many imaginable kinds of worst case scenarios with contradictory means of prevention.
+    >
+    > I think you'd be better off admitting belief in rebirth is more a matter of faith/dogma than any kind of rational justification like you're attempting to make here.
+
+    > here could be a God who particularly dislikes Buddhism and punishes you for being a Buddhist. It could be the case that any possible set of actions or intentions in this life could lead to any possible outcome good or bad in a possible next life.
+
+    You're referring to the external circumstances you might be reborn into, and that's secondary. You can’t predict with certainty where you’ll be living in ten years, but you can be certain that if you continue to indulge your current bad habits, you'll still have them wherever you are. And the habits that pertain to rebirth are the broadest ones: lust, aversion, and delusion.
 
 ---
 
