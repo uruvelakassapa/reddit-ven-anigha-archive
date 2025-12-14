@@ -14,10 +14,198 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Difficult-Strain-580 _2025-12-11 18:21:30_
+### [What does the taming?](https://www.reddit.com/r/HillsideHermitage/comments/1pk4t4s/what_does_the_taming/)
+
+Regarding the latest Samanadipa video titled "The way to develop a fearless and harmonious mind"... 
+
+To what extent should the mind be regarded as "other"? Isn't it the mind itself that wants to tame the mind? I find it helpful to see the mind as this external wild animal, but what is it that wants to do the taming then? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pk4t4s/what_does_the_taming/ntrzisj/)** _2025-12-13 06:37:29_:
+    >  but what is it that wants to do the taming then?
+
+    The untamed mind is also what pressures you to do the taming. That's why the Buddha said that craving is overcome through craving. 
+
+    That doesn't mean every craving to practice is wholesome though. Only when craving is directed at the right aim—the destruction of *all* lust, aversion, and delusion, without exceptions or wishful thinking introduced—will it cancel itself out eventually.
+
+---
+
+**r/HillsideHermitage** | Posted by Accurate_Pineapple89 _2025-12-08 02:23:04_
+### [Requesting discussion on SN 12.25](https://www.reddit.com/r/HillsideHermitage/comments/1ph0p80/requesting_discussion_on_sn_1225/)
+
+I came across this sutta and found it insightful. I'd appreciate a deeper analysis of this sutta, either in the comments or as a video.
+
+[https://suttacentral.net/sn12.25/en/bodhi?lang=en](https://suttacentral.net/sn12.25/en/bodhi?lang=en)
+
+The part that stood out to me is as follows:
+
+>Ānanda, when there is the body, because of bodily volition pleasure and pain arise internally; when there is speech, because of verbal volition pleasure and pain arise internally; when there is the mind, because of mental volition pleasure and pain arise internally—and with ignorance as condition. 
+
+>\[Similar for verbal and mental\]
+
+>“Ignorance is comprised within these states. But with the remainderless fading away and cessation of ignorance that body does not exist conditioned by which that pleasure and pain arise internally; that speech does not exist conditioned by which that pleasure and pain arise internally; that mind does not exist conditioned by which that pleasure and pain arise internally. That field does not exist, that site does not exist, that base does not exist, that foundation does not exist conditioned by which that pleasure and pain arise internally.”
+
+This sutta appears to state that pain and pleasure come from an active intention, right there and then, which results in pain or pleasure. For example, when I see a disagreeable sight, I have an intention of aversion, which results in a painful bodily feeling. This is how I'm struck with 2 arrows, rather than the 1 arrow of the disagreeable sight. These intentions of greed, aversion, and delusion are like a bad habit. If I take responsibility for them, then they'll cease, and so pain and pleasure will cease. So these intentions can only occur as a bad habit - they depend on delusion. However, the sutta states that one can deliberately intend this, which doesn't make sense to me, at least for an intention resulting in pain.
+
+By uprooting the ignorance which these intentions depend upon, they can no longer exist. For example, speech can still exist, it just cannot be rooted in greed, aversion, or delusion.
+
+The difference between an ordinary person and an ariya is that the ariya has understood this to the extent that no matter what happens, they can always take responsibility for that intention and put an end to the suffering of it. For an arahant, these intentions cannot arise in the first place, as all ignorance has been uprooted. So for a sotapanna, they might have understood this to a sufficient extent, but there's still lingering bad habits which can come up.
+
+Have I understood this sutta correctly? I assume that to some extent, I've misunderstood, otherwise I'd be at least a sotapanna.
+
+Thank you for all your efforts.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ph0p80/requesting_discussion_on_sn_1225/nswf5y1/)** _2025-12-08 07:09:33_:
+    See [this discussion](https://www.youtube.com/watch?v=6LSjoBSqK3A).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ph0p80/requesting_discussion_on_sn_1225/ntgylhj/)** _2025-12-11 14:28:08_:
+
+    *(In reply to Accurate_Pineapple89):*
+    > Thank you. That talk was very helpful. 
+    > I have a follow up question. If I understood correctly, an arahant still has intentions, but those intentions are never rooted in resisting contact (greed, aversion, delusion), and so they're impersonal. Would this also apply to a sotapanna, or can a sotapanna still have intentions rooted in resisting contact and ignorance?
+
+    > Would this also apply to a sotapanna, or can a sotapanna still have intentions rooted in resisting contact and ignorance?
+
+    A *sotāpanna* would still have those intentions to a reduced degree, but along with the right view to recognize them and the way to their cessation. Whereas a *puthujjana's* notions of non-resistance are still infected with resistance without them realizing it. They have not understood craving nor its absence.
+
+---
+
+**r/HillsideHermitage** | Posted by cryptocraft _2025-12-07 22:33:47_
+### [Distinguishing between citta and mano](https://www.reddit.com/r/HillsideHermitage/comments/1pgvq8d/distinguishing_between_citta_and_mano/)
+
+The teachings on the distinction between citta and mano have been very beneficial for me. I still have some confusion I was hoping others could clear up. 
+
+Do all thoughts fall into the realm of mano? I understand that mano is in part defined by intentionality? What about so called "intrusive thoughts", i.e thoughts that seem to emerge spontaneously. Here I do not mean pictures in the mind, but specifically vocalized, internal statements. Are these still in the realm of intentionality, but just happening so quickly that it feels spontaneous? 
+
+The more it becomes clear to me what is citta and what is mano, the more I understand what should be patiently endured and what should be immediately abandoned. Thank you.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pgvq8d/distinguishing_between_citta_and_mano/nt3d4p5/)** _2025-12-09 10:54:41_:
+    > What about so called "intrusive thoughts", i.e thoughts that seem to emerge spontaneously. Here I do not mean pictures in the mind, but specifically vocalized, internal statements. Are these still in the realm of intentionality, but just happening so quickly that it feels spontaneous?
+
+    The distinction here is not really between *mano* and *citta,* but between something that's merely perceived and the giving of attention to the secondary details of it ("grasping the signs and features" as the Suttas call it).
+
+    You are not in immediate control of the fact that certain perceptions push themselves on you—it's because of your currently wild citta–but you are in control of the further engagement with those perceptions. Hence the sense restraint refrain: *having cognized* a mental phenomenon (with mano), one does not grasp at the signs and features of it. They don't say "one *does not cognize* a mental phenomenon."
+
+    So, practically speaking, the right setup is to leave the "intrusive" thoughts to be like flies hovering around you, but not letting them *land* (i.e., their details come into focus). And to be able to do that, you obviously need to be well trained in not following intrusive thoughts in any coarser ways (precepts, celibacy, etc.)
+
+---
+
+**r/HillsideHermitage** | Posted by spiffyhandle _2025-12-05 21:54:10_
+### [Anapanasati - Recollecting the breath without focusing on it?](https://www.reddit.com/r/HillsideHermitage/comments/1pf7vi8/anapanasati_recollecting_the_breath_without/)
+
+Is it essential to sit upright for anapanasati? Can it be done lying down or in all postures?
+
+How do I recollect the breath without it becoming an object of attention?
+
+I'm working on the core or "0th" tetrad of anapanasati. I'm finding it very challenging to recollect the breath. When I try to recollect, I bring the breath to the foreground instead of leaving it in the periphery. I have spent many years doing breath object meditation, which I think makes it harder to leave the breath in the background.
+
+
+The "0th tetrad" MN 118
+
+> And how is mindfulness of breathing developed and cultivated to be very fruitful and beneficial?
+
+> It’s when a mendicant—gone to a wilderness, or to the root of a tree, or to an empty hut—sits down cross-legged, sets their body straight, and establishes mindfulness in their presence. Just mindful, they breathe in. Mindful, they breathe out. 
+
+Dhamma Within Reach instructions Chapter 12 (abbreviated):
+
+> A simple knowledge of your breathing happening right there “beneath” whatever you are going through. And you don’t have to stop enduring on account of it either. It’s there together with the pressure of sense restraint. You can see that breath happening to you, so to speak, while you are gripped by temptations and hindrances. But the breath remains underneath it, coming and going. Unchanged. And it’s that knowledge at the back of your mind of something there, that we often refer to as “peripheral awareness”. So, you are not trying to distract yourself from your patient endurance and the unpleasantness of sense restraint and watchful guarding of the sense doors. All you are trying to do is maintain the knowledge that there is an enduring act of breathing, happening at the same time right there.
+
+...
+
+> The knowledge of breathing in and out doesn’t require any special effort. Just a mental recognition. You don’t need to go to it and make it your primary focus. Quite the opposite. If you keep it at the back of your mind without focusing on it, it will be done without any strain or force. That’s why it will calm down your current strain of enduring.
+
+> That’s how you practice anāpānasati in the right direction. It’s a perpetual bodily activity that you choose to not completely forget. If you cultivate such recollection of the present breathing, regardless of what you are focused on at the same time, it will also eventually prevent hindrances from hindering you.
+
+...
+
+> I cannot emphasize enough the point that if you are doing anāpānasati as a technique, a method, you are doing it at the expense of the enduring container. And that’s a mistake. There is no right samādhi without the right sense restraint being there as its basis. So, don’t use your meditation as an escape from the pressure of sense restraint. If you do, that means it will be rooted in your aversion towards the discomfort of sense restraint. Any act rooted in aversion towards discomfort, of any kind, is in its nature an act towards sensuality (i.e. avoiding discomfort for the sake of pleasure or less discomfort).
+
+EDIT:
+
+If knowing I am breathing should be the background, what is the foreground? Can the foreground be anything: thinking about the dhamma, looking at a Buddha rupa, noticing an emotion?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pf7vi8/anapanasati_recollecting_the_breath_without/nssivzn/)** _2025-12-07 17:32:37_:
+    First of all, you have to ask yourself whether you’re still internally close to unwholesome acts (including the pursuit of sense pleasure) in body or speech if the suitable conditions arise. If that’s the case, the mind is too clouded for the breath, or any phenomenon, to stay as a background (i.e., seen where it always is whether you remember it or not). Before anything else, you have to tame those lingering intentions simply by not acting on them, along with adjusting your environment to support that restraint. That is why Anapanasati and Satipatthana were not taught to laypeople in the Suttas: laypeople live for the most part with clouded minds—constantly in the vicinity of unwholesome acts because their lives are built around facilitating them, which keeps them in the vicinity of them. A vicious circle.
+
+    If those acts are distant—your mind genuinely wouldn't be pushing for them if you just left it be, not because you're gripping it tight—but there is still some liability to the unwholesome on the *mental* level, then there might be enough room to see the background *as* background.
+
+    As to how you do that, the first thing is to entirely dispose of the idea implicit in modern techniques that breathing is measured by sensations. Everything within such a perspective will be a foreground, no matter how subtle it becomes. Rather, see breathing as an *activity* (of the body) that is occurring simultaneously but below all the other activities that will inevitably feel "more important". It's an activity that won't be going anywhere even if you completely ignore it, which is why it comes *first* even if you don't regard it so.
+
+    If you get lost in observing sensations due to past habits, or anything else that might captivate the mind, don't try to "restart"; simply notice that the actual breathing that's keeping you alive has been happening all along *anyway,* irrespective of your getting absorbed in things. 
+
+    Persisting in this is, with all the prerequisites in place, is what will de-nourish the sense of the body being something that exists *because* you attend to it, which is the implicit view of a *puthujjana* that the modern interpretions of *anapanasati* simply help proliferate. When that fades the sense of volition remains, but no longer as what's primordial.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pf7vi8/anapanasati_recollecting_the_breath_without/nsweuaw/)** _2025-12-08 07:06:26_:
+
+    *(In reply to spiffyhandle):*
+    > Why is it that the Anapanasati sutta specifies a sitting posture? As far as I know, that's the only time monks are told they must be in a specific posture to meditate. There is the meditation on the postures, but that is done in all postures, whereas the Anapanasati instructions say to sit down.
+
+    Sitting is necessary only for the further 16 trainings. Not because of a need for one-pointed focus or anything related to the widespread interpretations of APS, but because breathing has to be the coarsest ongoing bodily activity to have space to train discernment on those subtler levels.
+
+    The basic Anapanasati outlined in the [Ariṭṭha Sutta](https://suttacentral.net/sn54.6/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin), without which none of the 16 trainings are possible, doesn't mention posture.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pf7vi8/anapanasati_recollecting_the_breath_without/nsyrhd5/)** _2025-12-08 17:14:06_:
+
+    *(In reply to BhikkhuSubhara):*
+    > >If you get lost in observing sensations due to past habits, or anything else that might captivate the mind, don't try to "restart"; simply notice that the actual breathing that's keeping you alive has been happening all along *anyway,* irrespective of your getting absorbed in things. 
+    >
+    > A practical issue with this is that such “simply notice”-ing seems to often constitute a certain form of incorrect restarting itself. And the only (obvious) alternative would be to refrain from that other form of restarting by cultivating one of those common “you’re already enlightened” platitudes in one’s practice that blurs discernment—“It’s always already there whether I think about it or not so I am always fully mindful at all times no matter what (even when I am breaking the precepts).”
+    >
+    > Beyond simply enduring the pressure of the muddledness and doubt involved in that seeming catch-22 out of faith that that endurance is the proper mindfulness of breathing in the middle between “doing” it and otherwise assuming it doesn’t need to be done at all, a complementary indirect route to the breath seems to be to simply monitor one’s behavior, periodically checking to ask if the current activity is something that is compatible with the knowledge that the basis of one’s entire life is something that one is both forced to participate in but also not entirely in one’s own control. The current thought-lifestyle then becomes the signal of how properly mindful one currently is rather than any more palpable (and therefore incorrect) signal. Of course then comes the doubt and ongoing discrimination of what **exactly** are the kinds of thoughts that are or are not appropriate and compatible, but that’s just more grist for the mill.
+    >
+    > Your thoughts on this issue and its resolution would be as appreciated as ever, bhante.
+
+    > the middle between “doing” it and otherwise assuming it doesn’t need to be done at all,
+
+    Both of those mistakes will occur in different forms as long as you don't have the right view. There is no *sammāsati* without *sammādiṭṭhi.* But you can be sure that you're falling into them the least you can by (1) not  neglecting all the things that come before satipaṭthāna in the gradual training and (2) not forgetting what the Satipaṭṭhāna Sutta quite conspicuously starts with. 
+
+    That is, you're doing this to free yourself from the slightest traces of *liability* to suffering, not just suffering that's right in front of you. That will make you unable to be content with poetry, like the common "we're already enlightened"—or, as somebody listening to our talks might twist it, "the body is already there." 
+
+    If on the other hand you find yourself having to "do" and watch closely over *anything* to be free from suffering, that is evidently suffering in itself. So that too is off the right track. By making sure you are not doing *either*, you're getting closer to the middle.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pf7vi8/anapanasati_recollecting_the_breath_without/nt3aom0/)** _2025-12-09 10:31:05_:
+
+    *(In reply to BhikkhuSubhara):*
+    > I once asked in private correspondence whether establishing one satipaṭṭhāna establishes them all simultaneously and you replied:
+    >
+    > >Yes, that’s basically *yoniso manaskāra*. The "yoni" is where all the satipatthanas, and everything else that can be a basis for recollection/context are found, pretty much simultaneously. And if you try to figure out "how" that is possible, you will necessarily end up misconceiving the actual nature of experience. It happens simply because there is nothing specific about that "yoni," which is the whole point. It is the epitome of non-specificity, while at the same time being, in a way, the most "real" thing of all.
+    >
+    > >And approaching that yoni through certain specific things is necessary because if you were to try to reach it directly, without looking for anything specific, you would just end up hypostasizing some abstract idea or the other, and that would be nowhere near the mark.
+    >
+    > The issue I am running into with your second paragraph (months after you first wrote it) is that without the Right View it seems that even attempting to approach the yoni through specific things inevitably **also** leads to hypostasizing abstract ideas, and failure and vexation more generally. So what special benefit is there in attempting to approach the yoni through specific things like breathing if practicing wrongly is the default no matter how “poetic” or non-poetic the attempt may be? As opposed to practically defining any and all satipaṭṭhānā as effectively equivalent to Just Continuing The Gradual Training and calling it a day.
+
+    > The issue I am running into with your second paragraph (months after you first wrote it) is that without the Right View it seems that even attempting to approach the yoni through specific things inevitably also leads to hypostasizing abstract ideas, and failure and vexation more generally. 
+
+    Yes. So the development as a *puthujjana* is not doing it more right, but less and less wrong (less hypostatization/abstraction/poetry and less craving-bound hyper-concreteness). Until there is so little wrongness left that it becomes right, just less accurate than the discernment of an Arahant. That's *sotāpatti.* And that process will be a grind, just like becoming proficient in anything that you are initially completely in the dark about.
+
+    But you don't endure the pain blindly, leaving it up to some magical future revelation to sort things out. If vexation is what your attempts at satipaṭṭhāna lead to, don't feel absolved from maintaining perspective over that vexation. That is closer to the "right level," where you're not creating anything new, but ceasing to look past what was always there while your craving was projecting you elsewhere.
+
+    If *any* displeasure hurts, it's not because of the displeasure but because you are still doing something on top of it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pf7vi8/anapanasati_recollecting_the_breath_without/nt57kki/)** _2025-12-09 17:27:10_:
+
+    *(In reply to WassaMattaMe):*
+    > >But you don't endure the pain blindly, leaving it up to some magical future revelation to sort things out.
+    >
+    > Bhante, I find this comment accurate on the surface, but a bit obscure beneath it. Or rather, not obscure as I understand it, but how you are framing it here. Of course, one should not practice "blindly" - for example, if someone develops the Gradual Training without *any* further instructions, at some point they will arrive at a dead end and get stuck - that's what happened to renunciates of other doctrines in the suttas. *However*, some of those renunciates, upon hearing just a few sentences of the Buddha's teachings, would immediately get stream-entry. When you say:
+    >
+    > >If vexation is what your attempts at satipaṭṭhāna lead to, don't feel absolved from maintaining perspective over that vexation. That is closer to the "right level,"
+    >
+    > it sounds as if you are advising one to "vexate yourself with trying to understand satipaṭṭhāna/ānāpanāsati/jhāna and then contemplate on that vexation." In other words, that statement seems to convey that the problem of not understanding the instructions stems not from *not being ready* to understand (i.e., not enough GT), but from the *displeasure* (or relative lack of perspective) of not understanding. In another comment, you say:
+    >
+    > >First of all, you have to ask yourself whether you’re still internally close to unwholesome acts (including the pursuit of sense pleasure) in body or speech if the suitable conditions arise. If that’s the case, the mind is too clouded for the breath, or any phenomenon, to stay as a background \[...\] If those acts are distant—your mind genuinely wouldn't be pushing for them if you just left it be, not because you're gripping it tight—but there is still some liability to the unwholesome on the *mental* level, then there might be enough room to see the background *as* background.
+    >
+    > Here, this sounds like, again, a very accurate and sensible statement, but together with the previous quote, perhaps a bit tautological if not contradictory. Namely: if one is not ready to understand (in this case, background phenomena), is because still not removed from unwholesome acts - but if one is removed from unwholesome acts, then one is ready to try to understand (with the right instructions.)
+    >
+    > So, I take it to mean that you are advising to try and understand (whichever from above) *only* to those who are removed enough from physical and verbal unwholesome acts - leaving it up to them to figure out if that state applies to themselves. Would this be a correct interpretation? Or, are you advising to "try and understand" and, with ensuing contemplation of potential vexation, that would be enough to get one removed from unwholesome and therefore, able to eventually understand? Admittedly, the latter seems a bit too suspect, but I'm including it just for good measure.
+
+    > In other words, that statement seems to convey that the problem of not understanding the instructions stems not from not being ready to understand (i.e., not enough GT), but from the displeasure (or relative lack of perspective) of not understanding. 
+
+    Lack of "drying up" from sensuality and misconduct is always the primary obstruction that nothing else can make up for. Someone who is well distanced from those things but has not overcome the hindrances entirely *could* have a sufficiently pliable mind to understand the Dhamma or at least make progress towards it. But they cannot measure in themselves how internally distant they truly are, nor even what really counts as progress, except in hindsight.
+
+    Without being the Buddha, let alone over the Internet, you also can't know that about someone else for sure. So the instruction has to be a mix between reminding about the prerequisites *and* giving pointers about what needs to be understood. Because laypeople almost always lack the former and it's by far the most urgent, it's hardly worth going in depth into anything else.
+
+---
+
 **r/HillsideHermitage** | Posted by craveminerals _2025-12-05 19:24:20_
 ### [Thoughts on abstaining from the gym](https://www.reddit.com/r/HillsideHermitage/comments/1pf44yf/thoughts_on_abstaining_from_the_gym/)
 
-So I’ve been trying to train in the 7 precepts a few months now. One of my obstacles is my attachment to the gym / weight lifting, which has been a less sensual and thereby less harmful way to manage suffering. It makes you feel good, healthy, vigorous (and surely encourages more bhava tanha) 
+So I’ve been trying to train in the 7 precepts* a few months now. One of my obstacles is my attachment to the gym / weight lifting, which has been a less sensual and thereby less harmful way to manage suffering. It makes you feel good, healthy, vigorous (and surely encourages more bhava tanha) 
 
 But my problem is that my mind has vain tendencies and can’t help but have such an attitude towards the body. So often when I work out I feel like I’m breaking the beautification precept. I can tell myself *I’m only doing it for health reasons / strength / staying functional* , but then I feel like I’m bullshitting myself. There’s certainly interest in physique, and I’d be disappointed if I couldn’t maintain what’s left of it. 
 
@@ -35,6 +223,9 @@ Does the above sound reasonable to you? Any thoughts or advice relating to this?
 
 After typing this out the answer seems quite obvious as to what I should do (“whatever leads to dispassion”) but maybe you have some insights you want to share. Thank you. 
 
+
+*Edit: with the modification of abstaining from telling lies rather than deception
+
 - **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1pf44yf/thoughts_on_abstaining_from_the_gym/nshek1s/)** _2025-12-05 20:21:30_:
     If vanity has become the most immediate and weighty (no pun intended) motivation for doing strength training, while the practical reasons are more of a vague theoretical idea that is almost on the level of an excuse, this is obviously a problem. And it's a problem to keep doing it through that framework. 
 
@@ -47,6 +238,76 @@ After typing this out the answer seems quite obvious as to what I should do (“
     If you find out that you do have genuine practical reasons for doing strength training that pertain to health and life, and also know what purpose you want to serve with that health and life, you just need to remind yourself of that and don't let the vanity start driving actual acts in terms of how you train (e.g. focusing on particular body parts or particular modes of training aimed at bodybuilding specifically). 
 
     Then if you want to undermine the vanity part further, you could reflect on the nature of the body that you are building up and maintaining - an organic-material vegetative thing whose own sole agenda is to grow and feed and replicate itself; that the measure of its health, vitality and beauty is the ability to serve these vegetative functions while it relentlessly declines. 😄
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1pf44yf/thoughts_on_abstaining_from_the_gym/nss1z3o/)** _2025-12-07 16:05:24_:
+
+    *(In reply to craveminerals):*
+    > Thank you very much Ayya for your comment! 
+    >
+    > That’s true, speaking from experience I’ve noticed there’s many other things I can be vain about. The vanity seems to move to whatever it can latch onto. 
+    >
+    > I think my confusion regarding this stems from not only the ever-lingering hindrance of doubt, and my very real vain tendencies, but also from mixing up intents with delight. 
+    >
+    > It has been a bit easier to see this in regard to wearing clothes. I could for example have quite mediocre clothes on, not anything extravagant, and walk around with thoughts like ”I look good!” or ”I hope they see how well my sweater suits me”, but having these vain thoughts doesn’t necessarily mean I’ve been trying to beautify myself, or impress anyone with the clothes I wear at the time- that would be a deliberate action, rather than the mind having thoughts and opinions (which I can’t control directly) 
+    >
+    > So too with exercise. I may go to the gym intending to release endorphins, or strive to maintain good health, and all the while this “cloud of vanity” follows me around. And I think whoops maybe I’m doing something wrong? Maybe I am, sometimes, when I do specific exercises for no practical reason for example. 
+    >
+    > But it seems that it’s not much of an issue if there’s delight in appearance hovering in the background, so to speak, but of course it becomes an issue if it becomes the main intent. 
+    > Same with the “fun”, or gratifying aspect, maybe I don’t have to worry about that at this early stage, where I have coarser defilements to deal with. 
+    >
+    > In any case I think I’ll keep all of this at a quite moderate level. I’ll continue doing cardio, some lifting, as well as trying to eat moderately, making an effort to discern my intents and where the vanity is moving towards. 
+    >
+    > Yes, I’ll try to keep in mind the nature of the body- and that I’m basically bathing, feeding (or strengthening) deadly vipers that can at any moment turn against me 😅
+
+    > having these vain thoughts doesn’t necessarily mean I’ve been trying to beautify myself, or impress anyone with the clothes I wear at the time- that would be a deliberate action, rather than the mind having thoughts and opinions (which I can’t control directly)
+
+    Indeed, you can't stop them from arising. But you can stop giving them attention, thinking further in regard to them and acting out of them by body, speech or mind.
+
+    The whole practice needs to be developed through the contained situation in which unwholesome states or thoughts are allowed to arise *while not acted out of*, so that you get to learn how to not MENTALLY accept them, welcome them, delight in or fuel them.
+
+    This requires training in the precepts first, for obvious reasons. But equally, automatically reacting to get rid of any situation in which unwholesome thoughts happen to come up, is like running away from the training ground itself.
+
+    > I may go to the gym intending to release endorphins, or strive to maintain good health, and all the while this “cloud of vanity” follows me around. And I think whoops maybe I’m doing something wrong? Maybe I am, sometimes, when I do specific exercises for no practical reason for example.
+
+    > it seems that it’s not much of an issue if there’s delight in appearance hovering in the background, so to speak, but of course it becomes an issue if it becomes the main intent.
+
+    If I can add a brief further clarification to this, because this was not quite what I meant.
+
+    The main point I was trying to make was that it is ALWAYS an issue when you are acting out of any unwholesome state of mind, even if you also in theory have what sounds like a 'good reason' for doing something.
+
+    In this case, doubt and muddledness are unwholesome states of mind. It's because of acting out of this lack of clarity that vanity would then keep infiltrating things, and you would end up acting out of it too. You should not accept vagueness or muddledness as the context of your behaviour.
+
+    The practical way to overcome that kind of muddledness is to clarify your highest priority and aim in life (which is presumably to do with freedom from suffering), and repeatedly reflect on it. Then simply chose your actions according to how they serve the purpose of reaching that aim, not according to how you feel in regard to them.
+
+    So again, when it comes to the question of strength training, it's true that stopping it would not overcome vanity in and of itself, as I said, and it would not be good to stop it by way of running away from states of mind that you don't want to deal with. But this does NOT mean that continuing it is automatically justified because it's 'for health' and you can stop reflecting on it there. In other words, if you do it (or anything really), you would need to know why you are doing it in light of your own aim in life, not in light of what's generally considered good, or what your mind wants at the time.
+
+    It's only in that context that the arising of an unwholesome state in and of itself would not be a problem and you would be able to practice rightly in regard to it.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1pf44yf/thoughts_on_abstaining_from_the_gym/nt3c5fu/)** _2025-12-09 10:45:26_:
+
+    *(In reply to craveminerals):*
+    > 
+    >
+    > Thank you Ayya, you have given me plenty to think over and digest. It’s a mundane topic but there’s quite a lot to unpack when it comes to the mind relating to it. 
+    >
+    > > In other words, if you do it (or anything really), you would need to know why you are doing it in light of your own aim in life, not in light of what's generally considered good, or what your mind wants at the time.
+    >
+    > This is a good point, I need to be aware of my intents at all times and how they relate to my aim in life. It’s so easy to take the minds (or other people’s) feelings and opinions for granted, and push the higher aim aside. 
+    >
+    > Just to throw some of my thoughts out there— as for strength training, in terms of the highest goal of freedom from suffering, I think it doesn’t amount to more than a distraction or a tool for management of suffering. (Brings relief in boredom and stress) It’s not essential by any means. So why am I doing it at all?
+    >
+    > A simple thought occurred to me: Walking meditation was all the “exercise” the Buddha, and the monks and nuns did back in their day. (If you can even call it that) 
+    >
+    > And I’m toying with the thought—why wouldn’t I limit myself to only those kinds of things, especially if I notice there’s attachment to the body & weight lifting? I’ve suspected that I’m just too narcissistic to not do certain things out of delight at the moment, like going to the gym. So why not quit doing those particularly delightful things. (And stick to tedious cardio) 
+    >
+    > And once the vanity moves elsewhere, which it will, I’ll track its movements. This might be running away from this particular training ground, no pun intended, but surely there will always be a new one wherever I go. 
+    > If I successfully work past my doubt, vagueness and muddledness, I’ll have a good criteria for why and what I’m doing, and I could do things for ‘better reasons’.
+
+    > This might be running away from this particular training ground, no pun intended, but surely there will always be a new one wherever I go. 
+
+    If the purpose is not to avoid vanity entirely, or prevent it from coming up, then it's not running away from the training ground. If you don't find any valid reasons for doing something, it does make sense to not do it for as long as that is the case (which is not set in stone except for things that break the precepts). 
+
+    I don't think the topic is all that mundane or easy, because the question of strength training/ non-strength training in and of itself is irrelevant, and the real issue behind it is about developing an internal criteria for what is wholesome or unwholesome. That's not remotely trivial, and one will inevitably go through some doubt and/or muddledness and/or neurosis regarding even 'small' decisions, in order to arrive at that. It can't be perfect from the start.   
+      
+    The main thing to bear in mind though, is that as you said 'there will always be a new 'training ground' wherever you go'; i.e. there exists no formulaic 'right' set of actions or behaviours that will translate into a right state of mind or lead to it automatically.
 
 ---
 
