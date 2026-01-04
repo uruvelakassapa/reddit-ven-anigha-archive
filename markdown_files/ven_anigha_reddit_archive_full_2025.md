@@ -14,6 +14,243 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2025
 
+**r/HillsideHermitage** | Posted by Solip123 _2025-12-31 05:20:06_
+### [Do you need a conceptual understanding of paṭiccasamuppāda for the Right View?](https://www.reddit.com/r/HillsideHermitage/comments/1q04t0h/do_you_need_a_conceptual_understanding_of/)
+
+In other words, is it necessary to (in addition to doing gradual training and after one has achieved some degree of yoniso manasikara) study the writings of people like Nanavira/Wettimuny (e.g., who taught it as a timeless structural principle of simultaneity) in order to understand dependent origination on a conceptual level?
+
+What is the official HH stance on this and what do the suttas say about this? I know that (apart from yoniso manasikara) "the words of another" are essential for the Right View. But does this mean simply reading/hearing a sentence like "whatever is of the nature to arise is of the nature to cease" or does it mean an in-depth explanation of DO along the line of Nanavira's?
+
+In the suttas it seems that they often give only a brief explanation/overview of DO or of each condition or it. While there is obviously no way to know if this is verbatim, it gives one the impression that a deep conceptual understanding of DO is not that important and that a handful of words (merely pointing to what in one's experience should now be apparent) will suffice if the mind is 'dry' enough.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q04t0h/do_you_need_a_conceptual_understanding_of/nwwilqe/)** _2025-12-31 12:16:26_:
+    > In other words, is it necessary to (in addition to doing gradual training and after one has achieved some degree of yoniso manasikara) study the writings of people like Nanavira/Wettimuny (e.g., who taught it as a timeless structural principle of simultaneity) in order to understand dependent origination on a conceptual level?
+
+    No; that is a distraction that many people readily conflate with practice because it's much easier than going against the grain of defilements (without management) day in and day out, which is what undoes the obstructions for actual insight.
+
+    >  it gives one the impression that a deep conceptual understanding of DO is not that important and that a handful of words (merely pointing to what in one's experience should now be apparent) will suffice if the mind is 'dry' enough.
+
+    Yes, [that's how it works](https://suttas.hillsidehermitage.org/?q=mn24#mn24:15.1_mn24:15.2).
+
+---
+
+**r/HillsideHermitage** | Posted by cryptocraft _2025-12-30 20:34:38_
+### [Intention and Biology](https://www.reddit.com/r/HillsideHermitage/comments/1pzszwi/intention_and_biology/)
+
+Though they are often represented as non-physical, the hinderances can be mapped and understood in the framing of modern biology. Anger and lust are manifested physically, serve some evolutionary purpose, and are programmed into the organism. They can increase or decrease dramatically by modulating hormones. In older men, for example, low testosterone can cause lust to significantly diminish, which is often perceived as a problem.
+
+This contradicted my understanding of the Dhamma, until I read "Unyoked from Biology", which clarified how the existence of unwholesome states, in of themselves, does not indicate progress. Rather, it is one's intentions and reactions towards them that does. This approach does not shy away from the physical component of Buddhist concepts. It is even stated in several talks that experience without reference to the body is inconceivable.
+
+This, however, logically permits many of the concepts to be mapped to materialist notions. For example, there is a therapy for Obsessive Compulsive Disorder called ERP, which encourages one to patiently endure intrusive thoughts and not to either indulge in them or attempt to make them go away. This approach is hypothesized to modulate the neural circuits, with the implication that they operate on a different level than feeling and perception. Thus, one can develop one aspect of the brain that can endure fluctuations in another.
+
+The Buddhist position, however, contradicts this notion. It implies that destroying the physical brain would not destroy the progress one has made in cultivating their intentions. So while changes to intentions may be reflected in changes to the brain, somehow physically reversing those changes, i.e damaging the neural circuits, would not impact one's intentions. This leads me to my question, which is if nothing can be conceived of without reference to the body, where then is this progress taking place such that destruction to the body would not affect it? It seems to imply some non-physical aspect.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pzszwi/intention_and_biology/nx1xtoj/)** _2026-01-01 08:35:50_:
+    > It seems to imply some non-physical aspect.
+
+    There certainly is:
+
+    > Take someone whose citta has for a long time been imbued with faith, virtue, learning, generosity, and understanding. Their body is formed, made up of the four principal states, produced by mother and father, built up from rice and porridge, liable to impermanence, to wearing away and erosion, to breaking up and destruction.
+
+    >Right here the crows, vultures, hawks, hounds, jackals, and many kinds of little creatures devour it.
+
+    >But their citta rises up, headed for a higher place.
+    >—SN 55.21
+
+    On the most primordial level, mind shapes matter. That is why the mental inclinations you develop are what  determine the type of body you will be born into (if any). In the same way, in this very life, freeing the mind from passion and developing right understanding will wear away the body's fevers. They are kept alive by the mind's defilements:
+
+    > “When one abides uninflamed by lust, unfettered, uninfatuated, contemplating danger, then the five aggregates affected by clinging are diminished for oneself in the future; and one’s craving—which brings renewal of being, is accompanied by delight and lust, and delights in this or that—is abandoned. One’s bodily and mental troubles are abandoned, one’s bodily and mental torments are abandoned, one’s bodily and mental fevers are abandoned, and one experiences bodily and mental pleasure.
+    —MN 149
+
+    This is why practices *aimed* at calming and soothing the body are fundamentally misguided. They can only manage symptoms, while themselves being rooted in the illness of craving. Experientially, not just in theory, that can never be the same type of ease as when bodily symptoms disappear because the illness in the mind is gone.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pzszwi/intention_and_biology/nxaizy5/)** _2026-01-02 18:04:43_:
+
+    *(In reply to Hot_Tell3268):*
+    > >That is why the mental inclinations you develop are what determine the type of body you will be born into (if any).
+    >
+    > How do you explain the fact that Hitler and Buddha were both born human? Did Hitler had similar mental inclinations to Buddha? Then why did Hitler become a very atrocious person, whereas Buddha - enlightened?
+
+    Having a mental inclination and choosing to act in line with it are two separate things. Hence both progress and deterioration are always options, and you remain responsible for either.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pzszwi/intention_and_biology/nxb6l8c/)** _2026-01-02 19:54:55_:
+
+    *(In reply to Hot_Tell3268):*
+    > So, they chose what they chose not because of their mental inclinations (or at least it wasn't sufficient) but because of something else. What is this other thing which explains their choices?
+
+    There is no "explanation." People do whatever they do at the level of deliberate action because they choose to. That's precisely why they *can* simply stop making wrong choices and start practicing towards liberation, and if they themselves don't decide that then liberation will never come.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pzszwi/intention_and_biology/nxdtovu/)** _2026-01-03 04:36:28_:
+
+    *(In reply to Hot_Tell3268):*
+    > You are basically saying that we choose because we choose. This would mean there is no reason why Buddha chose to strive for enlightenment. He just chose it, there is no underlying explanation. If your choices are not explained by something else, then it means they are random - there is no cause to your choices.
+    >
+    > How can you be responsible for something which happens on its own accord?
+
+    > If your choices are not explained by something else, then it means they are random - there is no cause to your choices.
+
+    It doesn't. It means you will not find a cause of action that's more fundamental than choice. For example, if you decide not to do something unpleasant, you *choose* displeasure as a sufficient reason to not do it. Hence you remain responsible.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pzszwi/intention_and_biology/nxfr30k/)** _2026-01-03 13:45:15_:
+
+    *(In reply to Hot_Tell3268):*
+    > > For example, if you decide not to do something unpleasant, you *choose* displeasure as a sufficient reason to not do it. Hence you remain responsible.
+    >
+    > Is there a reason why you choose not to have displeasure as opposed to having it? If there is no reason, then it is random, the fact that you chose one thing over another is a matter of chance. If there is a reason, then it is probably going to be your mental inclinations. But then you have the problem I outlined earlier - if beings are born as humans in virtue of having similar mental inclinations, then why we have such discrepancies in their behaviour
+
+    > Is there a reason why you choose not to have displeasure as opposed to having it? If there is no reason, then it is random, the fact that you chose one thing over another is a matter of chance. 
+
+    Choice is more fundamental than reason/logic (all investigation of reason is a choice). Calling it "random" means putting logic first, mistakenly.
+
+---
+
+**r/HillsideHermitage** | Posted by Accurate_Pineapple89 _2025-12-30 05:33:49_
+### [Management through thoughts of impermanence?](https://www.reddit.com/r/HillsideHermitage/comments/1pz9rcx/management_through_thoughts_of_impermanence/)
+
+Part of my practice is frequently reflecting on impermanence. In particular, I'll refer to SN 22:59 and AN 5:57
+
+Initially, I found these contemplations unpleasant, particularly when thinking about the death of what I hold dear.
+
+I've now begun to find these contemplations pleasant, because they allow the mind to immediately attain an attitude of "not my problem" with whatever arises. This doesn't mean that I'll be careless, just that I won't obsess over what was never truly my burden. 
+
+For example, I may be concerned about money. If I reflect on how any loss of wealth is simply a result of never truly owning that wealth or my body in the first place, then the mental concern about wealth greatly subsides. 
+
+Another example is that reflecting on the stressful and unwholesome nature of sexuality can temporarily free me from whatever desires are pressuring me, and that freedom is pleasant. 
+
+The issue is that this attitude and view is inconstant. I even find myself sometimes obsessively trying to repeat these views as a mantra to get rid of unpleasant bodily feelings.
+
+In a way, any attempt to "think about impermanence" is a way of trying to manage the suffering that has already arisen. I'm still needing to respond to the suffering. However, this kind of response (when done with the right intention) frees me from needing to respond to future pressure. 
+
+Should I be trying to simply endure the discomfort of whatever arises, or remove that discomfort by changing the attitude my mind has towards it? I don't see how simply enduring/bearing the pain would free me from it. It makes sense to me that if my mind were to become "established" in this view of impermanence (becomes the default way of seeing things), then it wouldn't get involved with taking up the pressure, thereby freeing me from suffering. 
+
+SN 22:122 is related to this, which states that even an Arahant would reflect on inconstancy, because it brings a pleasant abiding here and now.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pz9rcx/management_through_thoughts_of_impermanence/nx1w07d/)** _2026-01-01 08:16:37_:
+    > I even find myself sometimes obsessively trying to repeat these views as a mantra to get rid of unpleasant bodily feelings.
+
+    Yes, that's the "wrong level" of effort that comes from not seeing the signs of the mind. When that's there, pretty much all one does misses the mark no matter how theoretically sound it is (see simile of the cook Sutta).
+
+    > Should I be trying to simply endure the discomfort of whatever arises, or remove that discomfort by changing the attitude my mind has towards it? 
+
+    Yes, but first you need to be clear about *what* needs to be "endured." Your description still implies that the pressure that you would endure or not comes from the object. But the pressure pertains to the mind, the experience as a whole, that revolves around the object, and that's what you need to "endure." Not doing so is how you reinforce the ignorance of impermanence that matters (nobody is in doubt that *things in the world* won't last forever; it's the "internal" things, such as their own feelings, that they can't see them as arisen and enduring on their own, and thus not requiring interference). 
+
+    > It makes sense to me that if my mind were to become "established" in this view of impermanence (becomes the default way of seeing things), then it wouldn't get involved with taking up the pressure, thereby freeing me from suffering.
+
+    Done with the perspective you're describing, perhaps, but it would be wrong liberation still within the framework of craving and ignorance (SN 45.26). Recognizing impermanence at the universal level, where not even the subtlest activity/intention (*saṅkhāra*) remains excluded from that discernment and given primacy, is the only right escape.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pz9rcx/management_through_thoughts_of_impermanence/nxajxnv/)** _2026-01-02 18:09:00_:
+
+    *(In reply to Accurate_Pineapple89):*
+    > When I try to get rid of an unpleasant feeling through contemplating impermanence, I'm blaming the object whose pressure brought the feeling. 
+    >
+    > While I might lessen the dukkha I feel by reducing desire around that object, I'm still not seeing that feeling itself is impermanent - no matter what reason might cause it. I'm still liable to dukkha because I'm still craving to change the feeling. 
+    >
+    > Is this correct? 
+
+    Yes. The dukkha is shifted on to the need to fabricate the impermanence contemplation, so it doesn't even go away. It simply goes under the radar because the recognition of what suffering actually is isn't developed.
+
+---
+
+**r/HillsideHermitage** | Posted by need-for-trade _2025-12-28 20:51:38_
+### [Sense restraint prior to virtue.](https://www.reddit.com/r/HillsideHermitage/comments/1py24w5/sense_restraint_prior_to_virtue/)
+
+I recently consumed a talk by Ajahn Nyanamoli Thero published at least a year ago on a sutta wherein a step in the gradual training that is usually formulated prior to virtue was put before it. I believe the step was sense restraint.
+
+If I recall correctly it is in Samyutta Nikaya and expounded by a nun to a layman.
+
+I'm kindly requesting somebody to post the talk or sutta.
+
+
+
+Edit:
+
+SN 46.6 was the sutta I was looking for.
+
+The talk is thus: [No restraint, No Satipatthana](https://www.youtube.com/watch?v=LeDJTm93QLA), posted 6 months ago.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1py24w5/sense_restraint_prior_to_virtue/nwi7mv9/)** _2025-12-29 06:49:13_:
+    > expounded by a nun to a layman.
+
+    The only Sutta I recall fitting that description is MN 44, and it's not about the Gradual Training.
+
+    Two Suttas that do present good conduct in the three doors (not *precepts* as in MN 107 and others) as the result of sense restraint are SN 46.6 and AN 10.62.
+
+---
+
+**r/HillsideHermitage** | Posted by spiffyhandle _2025-12-27 01:59:09_
+### [A few questions about the Six Sets of Six - MN 148](https://www.reddit.com/r/HillsideHermitage/comments/1pwlma6/a_few_questions_about_the_six_sets_of_six_mn_148/)
+
+https://suttacentral.net/mn148/en/bodhi?lang=en&reference=none&highlight=false
+
+##  1. *What does it mean to discern the "rise and fall"?* 
+
+The sutta isn't talking about modern noting vipassana. So what is the correct discernment of "rise and fall"? Would noticing that the faculty of sight is dependent on the body as a basis and the body is born and decays count as "rise and fall"? I feel like the "rise and fall of the eye" is even more fundamental than "it relies on a body". In a way, the eye depends on sights, because if there are no sights, there would be no knowledge of the eye. Following this, the *knowledge* of the eye also depends on eye-consciousness.
+
+> If anyone says, ‘The eye is self,’ that is not tenable. **The rise and fall of the eye are discerned**, and since its rise and fall are discerned, it would follow: ‘My self rises and falls.’ That is why it is not tenable for anyone to say, ‘The eye is self.’ Thus the eye is not self.
+
+> ‘Cakkhu attā’ti yo vadeyya taṁ na upapajjati. Cakkhussa uppādopi vayopi paññāyati. Yassa kho pana uppādopi vayopi paññāyati, ‘attā me uppajjati ca veti cā’ti iccassa evamāgataṁ hoti. Tasmā taṁ na upapajjati: ‘cakkhu attā’ti yo vadeyya. Iti cakkhu anattā. 
+
+## 2. *Can the eye, sights, eye-consciousness and contact all be perceived independently?* 
+
+Or can we only perceive contact but the internal sense base, external sense base, and sense consciousness are inferred from contact?
+
+## 3.  *What is "the origination, the disappearance, the gratification, the danger, and the escape" in regards to neutral feeling?* 
+
+> When one is touched by a neither-painful-nor-pleasant feeling, if one does not understand as it actually is **the origination, the disappearance, the gratification, the danger, and the escape** in regard to that feeling, then the underlying tendency to ignorance lies within one
+
+
+> Adukkhamasukhāya vedanāya phuṭṭho samāno tassā vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānāti. Tassa avijjānusayo anuseti. 
+
+My attempt:
+
+* Origination = Neutral feeling originates dependent on contact. (This doesn't seem to go deep enough)
+* Disappearance =  Feelings are inherently impermanent so the neutral feeling will eventually change. Also, if the contact that is the source of the neutral feeling changes, then the feeling based on it would also change (or could stay neutral).
+* Gratification = The neutral feeling isn't unpleasant feeling and isn't pleasant feeling. It's certainly more pleasant than unpleasant (painful) feeling. 
+* Danger = The neutral feeling is impermanent so relying on the neutral feeling for satisfaction is unreliable.
+* Escape = Developing dispassion towards neutral feeling, and all feeling in general. When no feeling is valued more than another feeling, it doesn't matter.
+
+EDIT: Adding formatting to make it easier to read. Adding related suttas
+
+Also, here are some related suttas,
+[
+SN 35.92](https://suttacentral.net/sn35.92/en/bodhi?lang=en&reference=none&highlight=false),  [SN 35.93](https://suttacentral.net/sn35.93/en/bodhi?lang=en&reference=none&highlight=false), [SN 12.19](https://suttacentral.net/sn12.19/en/bodhi?lang=en&reference=none&highlight=false).
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pwlma6/a_few_questions_about_the_six_sets_of_six_mn_148/nwia8vc/)** _2025-12-29 07:11:53_:
+    > 1. What does it mean to discern the "rise and fall"?
+
+    As we discussed in a [previous post](https://www.reddit.com/r/HillsideHermitage/comments/1pl2zle/feeling_as_a_general_mood_vs_feeling_dependent_of/), whenever the Suttas encourage understanding something, it's because it's [directly connected with suffering](https://suttacentral.net/sn56.31/en/sujato?lang=en&layout=plain&reference=none&notes=none&highlight=false&script=latin), and truly understanding that description will free you from it.
+
+    So, indeed, the eye that matters in the context of suffering—the vision infected with craving and defilements that is destroyed for an Arahant—is not always there to the same degree even for a puthujjana. It rises and falls. If the biological eye was being referred to, then rise and fall could never be understood experientially without removing your eyes and putting them back in (closing your eyes does not eliminate the visual field).
+
+    > Can the eye, sights, eye-consciousness and contact all be perceived independently?
+
+    They can be discerned as aspects of one thing (where suffering is involved), and never as fully separate (similar to what [MN 43](https://suttas.hillsidehermitage.org/?q=mn43#mn43:9.4_mn43:9.9) points out). 
+
+    > 3. What is "the origination, the disappearance, the gratification, the danger, and the escape" in regards to neutral feeling?
+
+    There is nothing missing from your explanations in terms of their content. The only problem with them is that you're still not free from suffering, which means what those terms refer to is not sufficiently clear despite a relationship between them being properly defined as per the Suttas. 
+
+    The only thing that will uncover feeling, its origin, etc., for what it is, "in the flesh" instead of through your assumptions about it, is the Gradual Training. Hence the Dhamma is "beyond the reach of thinking" (*atakkāvacara*).
+
+---
+
+**r/HillsideHermitage** | Posted by Double-Ad2563 _2025-12-26 00:52:33_
+### [Modern Psychiatric Diagnoses: What They Actually Mean](https://www.reddit.com/r/HillsideHermitage/comments/1pvrdls/modern_psychiatric_diagnoses_what_they_actually/)
+
+How would a noble disciple view modern-day psychological labels like narcissism, psychopathy, and sociopathy in light of the Dhamma?
+
+https://youtu.be/6dv8zJiggBs?si=MfC5Vi24rnReL8KO
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pvrdls/modern_psychiatric_diagnoses_what_they_actually/nwi81rt/)** _2025-12-29 06:52:46_:
+    Those are symptoms of the underlying illness having proliferated quite far. Progress in curing it would entail their disappearance (without management and replacements involved).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pvrdls/modern_psychiatric_diagnoses_what_they_actually/nx34qjj/)** _2026-01-01 14:59:30_:
+
+    *(In reply to Double-Ad2563):*
+    > Thank you for the answer, Bhante. I noticed that you used the word "illness," and I was wondering why, and what you meant by it in its full scope.
+    >
+    > Does existence itself also count as an illness?
+
+    >  Does existence itself also count as an illness? 
+
+    Yes, that's the "underlying illness" I was referring to.
+
+---
+
 **r/HillsideHermitage** | Posted by _Ulu-Mulu_ _2025-12-24 11:31:38_
 ### [Sloth and sensual pleasures?](https://www.reddit.com/r/HillsideHermitage/comments/1pulc0b/sloth_and_sensual_pleasures/)
 
@@ -297,6 +534,31 @@ So my question is what should I do to not lose that motivation and not be "baite
     > The Buddha gives this phrase frequently and again does not limit that phrase to people who are Sotapannas or close to it or higher. That phrase is *Jayatha bhikkhave*, which means "Meditate, bhikkhus." Don't be negligent. Don't regret it later. This is our advice to you.
 
     Well, he certainly limited it to bhikkhus, who by default were practicing virtue.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1puikf1/the_myth_of_meditation_techniques_new_essay/nwovzzi/)** _2025-12-30 06:53:44_:
+
+    *(In reply to bodily_heartfulness):*
+    > Discussion on sutta central forum: [https://discourse.suttacentral.net/t/the-myth-of-meditation-techniques-by-bhikkhu-anigha/41932/15](https://discourse.suttacentral.net/t/the-myth-of-meditation-techniques-by-bhikkhu-anigha/41932/15)
+    >
+    > [This](https://discourse.suttacentral.net/t/the-myth-of-meditation-techniques-by-bhikkhu-anigha/41932/15?u=wandering_thoughts) comment is interesting:
+    >
+    > >It is the result of treating practices the Buddha taught only to renunciates as viable for everyone, and of granting leeway in behavioral purification when there ought to be none.
+    >
+    > Apparently this statement, as written in the article, is false - as there are suttas where householders learn meditation.
+
+    > Discussion on sutta central forum: https://discourse.suttacentral.net/t/the-myth-of-meditation-techniques-by-bhikkhu-anigha/41932/15
+
+    As usual, commenters on that forum seem to lack any genuine interest in engaging with our points, so they rush to rebut them without first understanding them. They overlook even points explicitly made in the essay (e.g., that there being modern practices with the same *names* as those in the Suttas does not mean they are authentic).
+
+    > This comment is interesting: 
+
+    It's based on a disregard for context. 
+
+    - Citta and Sirivaḍḍha were both declared anāgāmis, so they *were* renunciates. 
+    - Dasama in MN 52 is not being *taught* "meditation" for his personal practice; his question explicitly mentions *a bhikkhu.* That suggests that even if he aspired to, he wasn't under the assumption that he could've followed any of those paths without himself following the same standard of conduct. 
+    - AN 9.41 actually proves our point: a householder who partakes in sensuality will experience the direction of actual "meditation" like an abyss (which is why any meditation, [any right effort, mindfulness or samādhi he would do without abandoning his wrong sensual intentions first](https://suttas.hillsidehermitage.org/?q=an10.105) could only ever be a futile attempted bypass).
+    - AN 5.179 also supports the same point: even *noble* lay disciples will not be able to access the "pleasant abidings" of renunciates (the jhānas) unless they first renounce sensuality completely. That's why the Buddha extensively spoke of the peril of sensuality to Mahānāma, a noble disciple who wanted to make further progress, in MN 14. The "meditation" he taught him was contemplating the peril of what he was still entangled with so that he would finally give it up, attain the jhānas with his right view, and never again return to sensuality. Failing that, recollecting the four factors of stream entry is the most he could do. And of course, even that lower practice would not be available for a puthujjana.
+
+    The Suttas could not be clearer about the fact that satipaṭṭhānas and similar practices are a refinement of the withdrawal in one's conduct (AN 3.101). There is nothing to refine, only various diversions such as the modern techniques, for someone who has not established that first step of purification.
 
 ---
 
@@ -719,6 +981,34 @@ Is this what is meant by "appropriation" and "taking what's not yours" in the su
     Yes. Or you could simply say "pain exists at all because I still assume an outside standpoint to what has arisen."
 
     You need not be expecting a definite pleasure. You need only assume that you *could* have a thought in relation to that feeling that isn't entirely secondary to that feeling's unownable arising (i.e., fail to see "feeling within feeling"). And that's what makes that feeling exist to begin with.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1pnvgx8/dispassion_through_investigation_of_experience/nwotoaz/)** _2025-12-30 06:34:02_:
+
+    *(In reply to mentalw0rk):*
+    > Bhante, something else occured to me, hopefully it's more along the right lines.
+    >
+    > It seems that practically speaking, one needs to become aware of the painful desire that REMAINS THROUGHOUT while thoughts of potential escape (which are currently felt pleasantly) are there. And SUSTAIN that awareness. The problem is that the mind usually magnetizes towards  the obvious pleasure that's "in your face" ONLY, and doesn't see the underlying desire that's less obvious, yet very much there simultaneously.
+    >
+    >  Like your awareness is too inflexible, so it can only see the painful desire or the pleasure, but not both. And this "inflexibility" is maintained by acting out and encouraging the mind too ONLY see the pleasure. You are "atrophying the mind" by acting out of sensuality.
+    >
+    > If you stop acting out, you start undoing this habit of "inflexibility" and the mind can start to become aware of more subtle things, or be able to see two things simultaneously. And by sustaining this awareness of BOTH the pleasure that is present as an offer in the form of thoughts, and the simultaneously painful desire, the mind COULD connect the dots that the pain and the pleasure are not separate. As I think I've alluded to above, if the pain disappears on its own, the potential pleasure also disappears simultaneously. If in the middle of your effort to engage, the painful desire were to go away, there would be no pleasure in imagining getting the object anymore. 
+    >
+    > But this seems like the kind of thing that needs to be maintained (on the basis of restraint obviously) for a while, because it's quite an ingrained habit of "separating" the pain and the pleasure. But over time, you would chip away at that idea of "separation" and you could never imagine the pleasure & the pain separate again.
+
+    >  one needs to become aware of the painful desire that REMAINS THROUGHOUT while thoughts of potential escape (which are currently felt pleasantly) are there. 
+
+    Yes. That's how you would cease to overlook and go along with your *citta's* pulls.
+
+    > You are "atrophying the mind" by acting out of sensuality. 
+
+    Indeed. Not just by acting physically, but by welcoming it mentally.
+
+    > If in the middle of your effort to engage, the painful desire were to go away, there would be no pleasure in imagining getting the object anymore. 
+
+    Correct.
+
+    > But this seems like the kind of thing that needs to be maintained (on the basis of restraint obviously) for a while, because it's quite an ingrained habit of "separating" the pain and the pleasure. But over time, you would chip away at that idea of "separation" and you could never imagine the pleasure & the pain separate again. 
+
+    The pain would cease to arise to begin with. Its presence is a lingering symptom of how you've been training yourself to only see the pleasure.
 
 ---
 
