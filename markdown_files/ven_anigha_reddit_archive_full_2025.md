@@ -2881,6 +2881,29 @@ Thank you in advance for any suggestions you provide 🙏
     The criteria for applying any of it is the mind. If you don't see your own mind, you are in the dark. 
 
     By learning how to recognize it, it becomes the proper 'place' to ask these questions. In other words, you need to learn *from your own mind* how and where its agitation and wildness (sensuality, doubt, ill-will, anxiety, etc) is being enabled so you can start to dis-enable it. It will tell you directly if you let it, i.e., don't interfere with that agitation when it arises, either acting out of it, or thinking you should be stopping it from arising.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1nyuijp/contemplating_the_drawbacks_of_sensuality/o03o0i8/)** _2026-01-17 13:28:52_:
+
+    *(In reply to StrikingRegular1150):*
+    > Sister Medhini,  
+    > Can you please unpack this problem more: " ..or thinking you should be stopping it from arising"
+    >
+    > What if feelings and thoughts of cynical anger towards others happen regularly, like they do for me?   
+    >   
+    > I spend so much time wanting and thinking about how to stop such feelings from arising.   
+    >   
+    > What is the nature of this trying to figure out how to stop such feelings recurrence actually begets its arising?   
+    >   
+    > Is it because I'm building up a false imaginary "I" apart from reality that demands for anger to not cross my path and so when it does I'm evaluating it in more extreme "double arrow"-tinged terms that makes it more eventful and possessive to me.. and somehow in that likely more ready to happen?
+
+    >What is the nature of this trying to figure out how to stop such feelings recurrence actually begets its arising?   
+
+    Because it is rooted in aversion (towards the unpleasant thoughts and feelings). Acting out of aversion begets more aversion. Doesn't matter whether it's acting out of angry thoughts, or trying to deny the angry mind, it's going to be fuelling aversion either way. 
+
+    In a sense it's not wrong *trying to figure out* how to be free from anger in a general sense - you have to start with that. But it's how you then go about it that matters. 
+
+    >Is it because I'm building up a false imaginary "I" apart from reality that demands for anger to not cross my path and so when it does I'm evaluating it in more extreme "double arrow"-tinged terms that makes it more eventful and possessive to me.. and somehow in that likely more ready to happen?
+
+    No, that's what Ajahn Nyanamoli would call "secondary explanation/psychologisation."
 
 ---
 
