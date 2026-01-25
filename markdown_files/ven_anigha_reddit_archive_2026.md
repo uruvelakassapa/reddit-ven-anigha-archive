@@ -9,6 +9,97 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by CutnSkratch317 _2026-01-22 21:28:22_
+### [Question on "Definitive Guide to Seeing Your Mind" Dhamma Talk](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/)
+
+Venerables and  HH community,
+
+Thank you for sharing this video ([https://www.youtube.com/watch?v=Hd9WZzxqAkE]()). I found it extremely informative and clarifying for my practice.
+
+I have a question regarding Ajahn’s point that one must first understand the signs of the mind by enduring, and that only once the mind is understood can “the King be fed” — otherwise, one is simply acting out of aversion or greed for a different mind state.
+
+Here is how I currently understand this, and I would appreciate correction if I am mistaken:
+
+Suppose an angry mind has arisen. I recognize that anger is present, and through practice I understand the dangers and consequences of an angry mind. In that case, is it appropriate to intentionally cultivate mettā (as an example) to counterbalance the anger based on that understanding - rather than out of a desire to get rid of the anger? Or would this still be considered a subtle form of aversion?
+
+I can see how, through understanding the mind and its inclinations, abandoning it becomes easier on its own. At the same time, it seems that knowing how an angry mind operates and inclines might make it skillful to cultivate a counter-state, if such cultivation is appropriate.
+
+Thank you very much for your time and for all that you offer to the community.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1ebffa/)** _2026-01-24 09:01:03_:
+
+    > Suppose an angry mind has arisen. I recognize that anger is present, and through practice I understand the dangers and consequences of an angry mind. In that case, is it appropriate to intentionally cultivate mettā (for example) to counterbalance the anger on the basis of that understanding, rather than out of a desire to get rid of the anger? Or would this still amount to a subtle form of aversion?
+
+    The implication that cultivating mettā is a separate undertaking from recognizing the presence of anger, etc., suggests that it remains a form of aversion or management. Even if you do not think of it as trying to get rid of the anger, you are still just “turning the page” on it rather than addressing its causes, much like distracting yourself with a worldly unrelated activity. That does nothing to alter the underlying tendency toward aversion when attention is *not *being closely managed, which is precisely the only time that counts as a criterion for development (AN 5.200).
+
+    *Mettā* is the natural result of the absence of aversion. It is no more contrived than the friendliness you already experience towards people for whom you have no ill-will (which are the majority) By contrast, the common, misguided fabrication of mettā requires ignoring certain unpleasant aspects and selectively focusing on pleasant ones, and for as long as that's at all required, you're still just continuing to take ill-will for granted.
+
+    Hence, the ordinary friendliness of an undeveloped puthujjana toward *some* people is actually far closer to genuine *mettā* than what many Buddhists today take it to be. The difference between ordinary friendliness and the liberation of mind through *mettā* is simply that the latter is boundless/infinite. That's the same as saying that it involves no effort or even anchor, since anything conditioned by an activity implies the possibility of its absence under certain circumstances, hence it's not boundless. Mettā depends only on the absence of something, namely ill-will, and that absence is universal when the mind has been well cultivated.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1gb5u8/)** _2026-01-24 16:50:27_:
+
+    > This sutta 5.200 contains the exact method that HH argues against,
+
+    Where? It talks about mettā, sure, but it doesn't vindicate the modern interpretations of what that means, which is what we criticize.
+
+    What I intended to highlight with that Sutta is that the actual escape from ill-will is when the mind doesn't want to go there even if you tried to send it there.   Whereas the modern practices revolve around holding back the mind from what it still prefers by fabricating the opposite, without ever addressing the causes for why it in principle *could* want to go towards ill-will (or sensuality).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1gtlkq/)** _2026-01-24 18:11:21_:
+
+    > I agree that trying to use wholesome as a means of controlling the unwholesome, is just clinging.
+
+    That's not quite the point. The modern interpretation of mettā is just a cover-up, and cover-ups are themselves unwholesome. It's replacing ill-will with delusion, which is like switching the side of a cube you're facing while the cube remains equally close to your face.
+
+    > This is what I believe can quickly happen with non-resistance, non-doing, endurance methods: We understand that aversion to discomfort is the problem, but that we are supposed to not resist it. We end up mindlessly "thinking" and never really get objective perspective, it's just a perpetual thinking "Aversion", "I'm supposed to not let this aversion take over" "Now I'm controlling" "oh no I shouldn't control" "ok stop controlling" "ok allow even that to be", and maybe it stops. Also aversion becomes the center of gravity, like we know aversion is the problem, so we automatically start 1. subconsciously looking for aversion 2. We start identifying (clinging) to aversion. We end up kinda chasing displeasure to solve our aversion, but we are now identified to some extent to aversion.
+
+    That's what happens when even what we're describing is still being implemented as a mechanical technique. That tendency might take time to calm down, and those considerations aren't of much value anyway unless you're already fully steadied in the eight precepts. If you're not, you're not going to clearly see what any defilement is no matter how hard you try.
+
+    > For example: I can feel peaceful while feeling quite a lot of pain IF I stay mindful, ardent and fully aware, fully comprehending what is going on. However, if I just drift into the pain/aversion, I feel like I quickly identify with it and sink into more aversion.
+
+    Right, and the fact that the latter can still happen means that the mind is not being developed. No amount of time of cultivating such "mindfulness" will remove the need for itself. It's just learning how to cope, however successfully and skillfully, and never removing the causes for disturbance. In fact it makes the problem worse; if after getting used to that you have to face discomfort without crutches, you will be even less able to do so than before. Hence the Buddha said that a person who [attains wrong liberation through wrong view ... wrong samādhi is *worse* off on that account](https://suttacentral.net/sn45.26/en/bodhi?lang=en&reference=none&highlight=false#1.3). It's not a "transitional stage" or a "skillful means." It's a complete deviation that requires you to unlearn everything you learned.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1h46mx/)** _2026-01-24 18:56:23_:
+
+    > You're essentially telling me that on account of that, I cannot even attain Sottapanna, and even that is contradicting the Buddha, as thousands of laypeople who indulged in sex, entertainement etc etc, did attain stream entry.
+
+    [The Buddha did say that such activities are an obstruction to both right view and right *samādhi*](https://suttas.hillsidehermitage.org/?q=an6.68). He also listed things that need to be given up in order to practice *satipaṭṭhāna*, and the things you mention are covered by the items in that list (AN 6.118). Elsewhere he said one [can't progress in the Dhamma while maintaining delight in sensuality](https://suttas.hillsidehermitage.org/?q=mn16#mn16:8.1_mn16:8.4).
+
+    > In your view, from what I interpret, I'm better off just giving up meditation practice, unless I can follow all 8 precepts and probably also live in calm environment.
+
+    Yes, you should give up the meditation you've been doing so far and anything that resembles it because it's actively taking you even further away from the right samādhi and peace. Giving it up will show you how your mind actually isn't tamed; how it still resists and craves for things just as strongly, if not worse, when you stop managing the scenery internally.
+
+    As for the eight precepts, it's not all or nothing.
+
+    First of all it's about being honest to yourself regarding what the goal is, i.e., freedom from craving, and the fact that you can't claim to be practicing towards that goal while you still engage in obvious acts of craving. That's probably not going to be all that obvious if you've been following contemporary teachings, and the precepts need to be supported by that simple but important recognition to be effective. 
+
+    With that perspective, even though you might not be formally committed to the eight precepts all the time, there will be a lingering sense of shame each time you intentionally break them and remember your desire to train your mind, and that will allow you to grow in the precepts as quickly as you can handle. For some people that's overnight, for others it takes longer.
+
+    If you're not choosing entertainment yourself then that's not really a concern.
+
+---
+
+**r/HillsideHermitage** | Posted by ToLazyToPickName _2026-01-22 17:33:18_
+### [Why is business/trading in meat & living beings Wrong Livelihood?](https://www.reddit.com/r/HillsideHermitage/comments/1qk0xih/why_is_businesstrading_in_meat_living_beings/)
+
+If buying & eating meat is not wrong action, why is trading in meat & living beings wrong livelihood?
+
+A cook who make a living off of cooking meat, a grocery store cashier, or a pet store owner who makes a living off of selling pets, why is that wrong livelihood but consuming the cooked meat or buying/having the pet is not wrong action?
+
+I don't see how there is wrong intention in the livelihood of being a meat cooker or pet supplier. Maybe the meat cooker is encouraging more people to kill animals and the pet supplier is encouraging crueling towards animals? But then why isn't the end consumer also doing that?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk0xih/why_is_businesstrading_in_meat_living_beings/o1dh5du/)** _2026-01-24 04:49:33_:
+
+    > A cook who make a living off of cooking meat, a grocery store cashier, or a pet store owner who makes a living off of selling pets
+
+    Only the last one is wrong livelihood. Cooking meat and being a cashier at a general grocery store are too far removed from the act of killing to matter.
+
+    The issue is how gaining a living from these things carries a welcoming attitude towards the acts of killing and, with pets, undesired imprisonment. Even when you're not the one physically perpetrating either, internally your intentions are pointing in that direction to a degree simply by working in those industries.
+
+    With weapons and intoxicants, you'd be condoning the intended usage of those things by selling them (though not if you're a cashier where those are among many of the items sold and customers take them without your involvement).
+
+    Some people think that in buying meat you are also condoning killing, but that's a fabricated connection and not true in any sense that's relevant for the training of the mind. You can totally maintain the attitude that you would never intentionally kill a living being or encourage another to do so, even to save your own life, despite buying and consuming meat. That attitude is what you have to cultivate, and abstaining from meat as a rule contributes nothing to that per se. It usually takes away from it by distracting you.
+
+    The Buddha could've easily made at least monks vegetarian and thereby prevented a lot of meat purchasing. But not only did he not have that initiative; he explicitly refused when asked by Devadatta. It would've cemented a wrong view about what virtue is.
+
+---
+
 **r/HillsideHermitage** | Posted by Formal_Breath_2026 _2026-01-16 18:22:33_
 ### [Beautiful and Ugly](https://www.reddit.com/r/HillsideHermitage/comments/1qenu9m/beautiful_and_ugly/)
 

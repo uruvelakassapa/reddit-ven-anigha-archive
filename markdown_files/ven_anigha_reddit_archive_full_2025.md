@@ -2904,6 +2904,21 @@ Thank you in advance for any suggestions you provide 🙏
     >Is it because I'm building up a false imaginary "I" apart from reality that demands for anger to not cross my path and so when it does I'm evaluating it in more extreme "double arrow"-tinged terms that makes it more eventful and possessive to me.. and somehow in that likely more ready to happen?
 
     No, that's what Ajahn Nyanamoli would call "secondary explanation/psychologisation."
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1nyuijp/contemplating_the_drawbacks_of_sensuality/o09pq8o/)** _2026-01-18 10:24:19_:
+
+    *(In reply to StrikingRegular1150):*
+    > Thank you for your insight!
+    >
+    > "No, that's what Ajahn Nyanamoli would call "secondary explanation/psychologisation.""
+    >
+    > I'd be thankful if you could explain this critique more. I'd like to better understand how what I said is misleading myself.
+    >
+    > Also, I feel a bit dumb in asking this:  
+    > but I hear and read aversion fuels more aversion, but I recognize I fail to grasp the why of it. I go into thinking it's because if aversion is indulged the mind gets trained to feel a reward/relief in doing something avoidant, so a conditioning and habit begins to take shape, ..but maybe that's more psychologizing? Can you assist in seeing how aversion fuels aversion, please?
+
+    It's like asking why provoking a wild animal makes it more wild. Everyone already deep down knows that's how it is, and it doesn't require explanation. Especially when there is an immediate threat of the wild animal attacking you. 
+
+    That is why pretty much any explanation of *why* acting out of aversion fuels more aversion will be theoretical, interpretive and falling into psychologisation. It's not because of the content of the answer, but because seeking that kind of answer is already a misguided direction. See [this example in the suttas.](https://suttas.hillsidehermitage.org/?q=mn63#mn63:5.6_mn63:5.30)
 
 ---
 
