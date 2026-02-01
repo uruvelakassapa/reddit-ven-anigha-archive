@@ -14,6 +14,147 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by Representative-Age18 _2026-01-27 19:10:50_
+### [Questioning Hillside Hermitage based on the Suttas: "All the Defilements", Sutta MN2](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/)
+
+Foreword: I felt semi convinced after watching 20+ hours of HH videos, and I think they do have a lot of good points that deserve attention. There's obviously a lot of intelligence, dedication and knowledge to be found here. Therefore I decided to take a deep dive into the Suttas to clearify my position. Here's something I'd love to hear discussed:
+
+In MN2: *All the defilements*, the buddha says: "Some defilements should be given up by seeing, some by restraint, some by using, some by enduring, some by avoiding, some by dispelling, and some by developing."
+
+It does not say "All defilements should be given up by restraint and endurance".
+
+Now, here is the sentence that I would assume HH followers would really stick to:
+
+“Mendicants, I say that the ending of defilements is for one who knows and sees, not for one who does not know or see".
+
+HH states that this means you have to be a Sottapanna.
+
+The Buddha always, in the rest of the suttas, describe Sottapannas with words such as: "for one who has entered the stream", “for a noble disciple”, “for one with the noble right view”. When clearly describing a sottapanna, he is never vague about it. There is not one example about this. The Buddha, as the AMAZING teacher he was, NEVER clearly described a sottapanna without using EXPLICIT words. I repeat, there is not ONE example of this. He is either totally explicit, or using diagnostic criteria. The Buddha is always very clear and upright in the Suttas, so it confuses me as to why he would describe a Sottapanna with vague terms like "for one who knows and sees", which is so much more vague than simply "for one with the noble right view" or "for one who was entered the stream". In the video on this Sutta by HH, he justifies it using his logic, but never once questions why the Buddha in this exact sutta is using vague wording, while every other time he speaks of Sottapanna, he uses clear, exclusive wording. Nyanamoli Thero makes the exact mistake that he warns about himself: he gets into the details of the logic that pertains to what he think is mentioned, but he forgets the peripheral context: that the Buddha is always clear and straightforward in his speech, not cryptic.
+
+Secondly, he says “Mendicants, I say that the ending of defilements is for one who knows and sees(...)". He does not say "The continuation of the ending of defilements is for the one who knows and sees". It is also kind of paradoxical - why would he exclude the removal of defilements to Sottapannas only. It's a general statement. So a person who is not a Sottapanna cannot start to end their defilements? The way I would interpret it is that the startingpoint in the journey to begin ending your defilements begins with a rational mind, not swayed by emotions such as "I don't want this to be true because of x,y,z".
+
+The common interpretation about "for one who knows and sees" (...) that application of irrational thoughts give rise to defilements (hope, prayer, not using logic, or just plain non-rational thinking), however, one who sees is someone who looks at reality rationally, logically and applying their mind in such a way. Ie. you are open to look at reality unbiased and logically. Not that you need to have supramundane insight into reality.
+
+But let's give HH the benefit of the doubt, and assume that what he really meant was that the prerequisite for removal of defilements using these 7 methods are only to be attempted by Sottapannas. Or we can give them the benefit of the doubt, however to a slightly smaller degree and say that "one who knows and sees" does mean sottapanna, without that actually making this a clear prerequisite in the sutta. It could definitely still mean "the total destruction of defilement is only attained after sottapanna", that does not read the same as "these following methods will only work for sottapannas".
+
+Problem 1. Assumption by HH: "You have to be a Sottapanna to practice "some by seeing, some by restraint, some by using, some by enduring, some by avoiding, some by dispelling, and some by developing" (MN2) "   So you already have to be a Sottapanna to practice restrain and endurance, the exact methods that HH teach is the way to Sottapanna itself? How do you become a Sottapanna if you cannot apply senserestraint until after you have become a Sottapanna? HH clearly state that a prerequisite for using these 7 methods as means to lessen defilements, is already being a Sottapanna - so how do you become a Sottapanna then, without restrain, seeing, or endurance?
+
+Problem 2. At the end of the first method proposed by the Buddha to remove defilements (Seeing) we have this statement: And as they do so, they give up three fetters: substantialist view, doubt, and misapprehension of precepts and observance of rites and rituals. These are called the defilements that should be given up by seeing.
+
+So a sutta aimed at only Sottapannas is an instruction of how you can become a Sottapanna? Ehm, what?
+
+Now, you can discuss "wise attention" and what it really means all you want, but that doesn't take away from the context that this whole sutta doesn't make sense at all if it is only aimed at Sottapannas. That's the first argument. The second one is that the Buddha was always abundantly clear when he talked about a Sottapanna, never vague.
+
+Just to make sure; the sutta also is not a linear progression, like you should have use seeing first, then restraint, then using etc. This is obvious, as you can't do one without the other. You can't get rid of the defilements using the method of seeing very well, while not restraining yourself at least a little bit for example.
+
+# What MN 2 actually recommends (if we give the benefit of the doubt and call "knowing and seeing"=sottapanna)
+
+MN 2 teaches:
+
+* **All practitioners** must learn:
+   * what to attend to
+   * what not to attend to
+   * which method fits which defilement
+* **Without right understanding**, practice is often misapplied
+* **(With supramundane right view**, practice becomes fully effective and irreversible So the sutta is:
+
+—not a gated manual usable only after awakening.
+
+Please enlighten me
+
+Edit: you guys keep saying there’s right restraint (after sottapanna) and wrong restraint (befoe). However, it doesn’t change the fact that the Buddha, in this very sutta, also recommends the methods of abandoning and developing alongside restraint and endurance, not seperating them. He doesn’t say: do only restraint and endurance until you become sottapanna, then do the rest of the methods. He says: you use all the 7 methods here (including restraint and endurance, and including abandoning and dev), and you try your best, but none of them will work FULLY until you have right view. He DOES NOT tell you to only use restraint and endurance and that development can only be done after sottapanna.
+
+Another good point:
+
+By user: Edit: also, this part doesn't make sense to me: "And what are the influxes that should be abandoned by avoiding? Take a bhikkhu who, reflecting in light of the origin, avoids a wild elephant, a wild horse, a wild ox, a wild dog, a snake, a stump, thorny ground, a pit, a cliff, a swamp, and a sewer. Reflecting in light of the origin, he avoids sitting on inappropriate seats, walking in inappropriate neighborhoods, and mixing with bad friends—whatever wise fellow renunciates would take to be an unsuitable setting. For the influxes, trouble, and affliction that would arise in someone who abides without avoiding these things do not arise when they are avoided. These are called the influxes that should be abandoned by avoiding."
+
+Why is either grasping of the sign of the mind or right view needed to avoid dangerous things? This seems like a part where yoniso as "rational" actually fits.
+
+My view on this is that again, anything you do after yoniso will actually and effectively rid defilements - doesn’t mean you should not practice before yoniso. So similar to how the buddha wants you to avoid a wild elephant, you should on the same level practice abandoning and developing. There’s no prerequisite to avoid getting killed by elephant, and there’s no prerequisite to practice abandonment and developing.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o25u157/)** _2026-01-28 05:09:15_:
+    The distinction is between practicing restraint and endurance, which anyone can do in theory, and successfully *abandoning defilements* by doing so. A puthujjana can and has to practice restraint, but that restraint will itself be tainted by defilements as long as they're a puthujjana, so cultivating it further will not lead to Nibbāna. Hence it's not what is being described in the Sutta.
+
+    So, rather than taking restraint as a "method" that is already correct, a puthujjana would keep continually questioning their ideas about what restraint is (and you can only meaningfully upgrade your understanding of something if you're also doing it). That's how they would move closer to *yoniso manasikāra.*
+
+    The same point is found in AN 2.11:
+
+    >“There are, bhikkhus, these two powers. What two? The power of reflection and the power of development. And what, bhikkhus, is the power of reflection? It’s when someone reflects: ‘Misconduct of body, speech, or mind has a bad, painful result in both the present and the future.’ Reflecting like this, they give up misconduct of body, speech, and mind, and develop good conduct of body, speech, and mind, keeping themselves pure. This is called the power of reflection.
+
+    >And what, bhikkhus, is the power of development? In this context, the power of development is the power of the trainees. **For relying on the power of a trainee, one gives up passion, aversion, and delusion.** Having given up passion, aversion, and delusion, one doesn’t do anything unwholesome, or engage in anything harmful. This is called the power of development. These are the two powers.”
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o2614b7/)** _2026-01-28 06:00:23_:
+
+    *(In reply to Representative-Age18):*
+    > Yes, that restraint will be tainted by defilements, just like abandoning and developing. The Buddha still encouraged this method for “puthujjana” in this sutta, as there is not preliminary for anyone to practice the 7 methods; only a distinction about whether it will lead to progress towards sottapanna OR full distruction of defilements.
+    >
+    > This sutta makes it abundantly clear that abandoning and developing is also recommended for puthujjana’s. As far as I can see, there’s no logical way around it unless maybe you did some serious mental gymnastics, but the Buddha’s teaching don’t require you to do serious mental gymnastics, it’s always straight forward.
+
+    > This sutta makes it abundantly clear that abandoning and developing is also recommended for puthujjana’s.
+
+    It explicitly says that a puthujjana fails at practicing yoniso manasikāra.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o268otf/)** _2026-01-28 07:00:11_:
+
+    *(In reply to Representative-Age18):*
+    > Yoniso m, also applies to restraint/ endurance. It applies to all 4 right effort modes: restraint, abandonment, development and endurance
+    >
+    > So yes it says you’ll fail at abandoning and development, it also says you will fail at restraint and endurance, it doesn’t say you don’t do any of them. But they will all lead to right view first, not directly destroy defilements - that, they’ll do after right view
+    >
+    > Edit: regardless, yoniso m does not equal sottapanna really. It’s largely what leads to it, but not commonly seen as the same thing
+    >
+    > Regardless, you don’t have a strong enough position here to tell me or anyone to stop practicing meditation (partly abandoning and developing) and that it’s worse than not practicing at all, like you said in my other post. Your method is nice, I like it, but it’s not for everyone. You guys have a lot of good stuff, and your view is beautifully contributing to todays buddhism!! I don’t understand why you got to be to harsh and discarding of things the buddha obviously taught. So please stop telling people straight up to stop meditating. Have some humility, please. It’s very dangerous what you’re doing.
+    >
+    > Also, regarding avoiding: does avoiding a wild elephant to not get killed also ONLY work and is it only supposed to be applies after right view? Haha
+
+    >  it also says you will fail at restraint and endurance, it doesn’t say you don’t do any of them. 
+
+    We're not saying that either, as you have yourself noted.
+
+    > Regardless, you don’t have a strong enough position here to tell me or anyone to stop practicing meditation (partly abandoning and developing) 
+
+    You're misunderstanding the point. What you're describing as "meditation" is not abandoning and developing to begin with, neither before nor after right view. It's simply distraction. So the need to give up of meditation techniques has nothing to do with enforcing right view as a prerequisite. It's to do with at least *trying* to practice abandoning and developing, which is how you could eventually attain right view.
+
+    > Also, regarding avoiding: does avoiding a wild elephant to not get killed also ONLY work and is it only supposed to be applies after right view?
+
+    As a means of abandoning defilements, it does.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o26cnhz/)** _2026-01-28 07:33:36_:
+
+    *(In reply to Representative-Age18):*
+    > Me abandoning aversion with mindfulness and cultivating metta is abandoning and developing. Based on all of this discussion, I don’t really think I’ve misunderstood anything. My view is in line with every other teacher I watched sutta study by, and the commentaries.
+    >
+    > Abandoning unwholseome states and cultivating wholesome states is the essence of those two, it’s abundantly clear
+    >
+    > My point: none of these methods will rid defilements completely unless done with yoniso, but that doesnMt mean you shouldnt do it. The elephant example makes that clear. Before and after yoniso, you should do all 7, not only restraint and endurance, not only avoiding getting killed by an elephant, not excluding abandoning and dev. 
+    >
+    > Anyways, I’ve said all my points and I’ve said more than enough on this. It’s taking too much time away from my life now, and I gotta put the computer away, so I’ll leave it at this: thank you engaging in discussion with the lay community. I highly appreciate and regard the effort to actually speak to us directly. And thank you for the discussion. May you all be well, peaceful and attain true happiness, with metta - Erik
+
+    > Anyways, I’ve said all my points and I’ve said more than enough on this. It’s taking too much time away from my life now, and I gotta put the computer away, so I’ll leave it at this: thank you engaging in discussion with the lay community. I highly appreciate and regard the effort to actually speak to us directly. And thank you for the discussion. May you all be well, peaceful and attain true happiness, with metta - Erik
+
+    Sure, I also don't think this is going anywhere.
+
+    > none of these methods will rid defilements completely unless done with yoniso, but that doesnMt mean you shouldnt do it. 
+
+    For the record, our point is that you are describing as "wholesome" *is* ayoniso in its very nature, whether one is a puthujjana or not. So "doing it with yoniso" is an inherent contradiction.
+
+---
+
+**r/HillsideHermitage** | Posted by ghfph _2026-01-25 06:21:28_
+### [Essays in book format?](https://www.reddit.com/r/HillsideHermitage/comments/1qmbe97/essays_in_book_format/)
+
+I read awhile ago that Bhikkhu Anigha's essays may be [published in a paper book format](https://www.reddit.com/r/HillsideHermitage/comments/1ddg2v0/pdf_version_of_bhikkhu_anighas_writing/).
+
+Is there any news on this?  I'm planning to rid myself of unnecessary technology (laptop and ereader), for kusala reasons, but would still like to re-read Venerable Anigha's essays.  
+
+Can I provide any help in proofreading or editing while I still have a laptop?
+
+Thanks,  🙏
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qmbe97/essays_in_book_format/o1rmcav/)** _2026-01-26 05:17:13_:
+    I'm working on the book currently.
+
+    As for getting rid of technology, it's worth questioning your reasons for doing that. If it's because you can't control yourself and keep breaking the precepts when you have access to it, then it's fine to get rid of it until that's no longer the case. But if it's not that, it might be rooted in trying to avoid the practice in the name of "peace" (not having to face doubt regarding your intentions for using technology).
+
+---
+
 **r/HillsideHermitage** | Posted by CutnSkratch317 _2026-01-22 21:28:22_
 ### [Question on "Definitive Guide to Seeing Your Mind" Dhamma Talk](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/)
 
@@ -141,6 +282,26 @@ Thank you very much for your time and for all that you offer to the community.
     With that perspective, even though you might not be formally committed to the eight precepts all the time, there will be a lingering sense of shame each time you intentionally break them and remember your desire to train your mind, and that will allow you to grow in the precepts as quickly as you can handle. For some people that's overnight, for others it takes longer.
 
     If you're not choosing entertainment yourself then that's not really a concern.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1rokt6/)** _2026-01-26 05:32:46_:
+
+    *(In reply to YakshaUK):*
+    > > That's not quite the point. The modern interpretation of mettā is just a cover-up, and cover-ups are themselves unwholesome. It's replacing ill-will with delusion, which is like switching the side of a cube you're facing while the cube remains equally close to your face.
+    >
+    > 
+    > Isn't this the difference between cetovimutti and paññavimutti, insofar as the latter involves coming to a deep understanding of why clinging to something (in this case, ill-will) is unproductive, leading to one relinquishing the habitual clinging to it; while the former involves fabricating a habitual non-clinging to that ill-will, in order to come to the experiential understanding that clinging to ill-will is unproductive? 
+    >
+    > 
+    > i.e. tranquility preceding clarity, and clarity preceding tranquility as two noted different trajectories to the same end.
+
+    That’s a widespread misunderstanding.
+
+    If you have to shield and control your mind to prevent unwholesome reactions, it is not even temporarily liberated or composed. The need for suppression or redirection is itself a product of the hindrances. If that feels calming, it will be the same kind of “calm” produced by sensuality, which also depends on averting attention from what is unpleasant. [Thus, it's wrong calm](https://suttas.hillsidehermitage.org/?q=an5.113).
+
+    The notion that *samatha* can be developed independently of understanding is refuted by Suttas like AN 6.73 and AN 9.41.
+
+    > in order to come to the experiential understanding that clinging to ill-will is unproductive?
+
+    This supposed “experiential understanding” never actually comes. Anyone who relies on these practices neither has nor will reach a point where defilements cannot arise without them. That's because they are not just tangential; they actively manifest the same problem.
 
 ---
 
@@ -165,6 +326,21 @@ I don't see how there is wrong intention in the livelihood of being a meat cooke
     Some people think that in buying meat you are also condoning killing, but that's a fabricated connection and not true in any sense that's relevant for the training of the mind. You can totally maintain the attitude that you would never intentionally kill a living being or encourage another to do so, even to save your own life, despite buying and consuming meat. That attitude is what you have to cultivate, and abstaining from meat as a rule contributes nothing to that per se. It usually takes away from it by distracting you.
 
     The Buddha could've easily made at least monks vegetarian and thereby prevented a lot of meat purchasing. But not only did he not have that initiative; he explicitly refused when asked by Devadatta. It would've cemented a wrong view about what virtue is.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk0xih/why_is_businesstrading_in_meat_living_beings/o1rfxpg/)** _2026-01-26 04:34:51_:
+
+    *(In reply to ToLazyToPickName):*
+    > I'm still having trouble understanding why a job of a cook who cooks meat or a cashier who sells meat is too far removed from killing to matter. To me, it seems like by relying on the death of animals to continue for their livelihood of selling or helping to sell meat, their intentions point in the direction of killing or wishing killing to continue. 
+    >
+    > 
+    > Which jobs in the meat industry would be included in wrong livelihood besides the job of doing/commanding the killing? Would the cooked meat shop owner or the grocery store owner that sells meat be included in wrong livelihood?
+
+    > To me, it seems like by relying on the death of animals to continue for their livelihood of selling or helping to sell meat
+
+    Because unless they're working directly with a butcher, the connection is abstract. They wouldn't have to be open to killing or encouraging another to kill in order to do it.
+
+    > Which jobs in the meat industry would be included in wrong livelihood besides the job of doing/commanding the killing? 
+
+    It depends on the closeness of the association. If the job involves any dealings with the people who do the killing, it would be wrong livelihood. Not because you're explicitly telling them to kill, but because there is automatically going to be a sense of cooperation.
 
 ---
 
