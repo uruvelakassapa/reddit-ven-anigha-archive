@@ -14,6 +14,193 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by upasakatrainee _2026-02-11 08:49:07_
+### [MN 43's Parato Ghoso Usage of right view,](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/)
+
+Bhante u/Bhikkhu_Anigha, may I request some clarification on [MN 43's reference to two conditions](https://suttas.hillsidehermitage.org/?q=mn43#mn43:13.2_mn43:13.4) for the arising of right view: parato ghoso and yoniso manasikāra.
+
+My current understanding (which may be mistaken) is that this refers to the arising of right view as a conditionally dependent factor, not yet the irreversible Dhamma-eye associated with stream entry. My observations are as follows:  
+  
+MN 43 presents parato ghoso and yoniso manasikāra as *conditions* (paccayā) for the arising (uppādāya) of right view. This suggests something dependent and contingent (arisen), rather than something already structurally irreversible ­— which is what the opening of the Dhamma eye (i.e capitalized Right View is). I also noticed that in your translation you have used the un-capitalized 'right view', so perhaps this was intentional to refer to something apart from the supramundane attainment?  
+  
+If these two were sufficient for the decisive and irreversible vision, then hearing correct Dhamma and attending appropriately would seem to guarantee noble entry “then and there.” But the suttas elsewhere imply that right view can fail to arise even when the right Dhamma is heard AND yoniso manasikāra is present, due to resistance or remaining obstruction (e.g. The Buddha declaring that King Ajātasattu, had it not been for his patricide, would have in fact entered the stream)  
+  
+Although verbs of “arising” (e.g., *cakkhum* *udapādi* in SN 56.11) are used for awakening itself, that alone doesn't seem to settle the issue. The decisive factor seems to be what is being described and how it functions structurally, rather than the morphology of the verb.  
+  
+The suttas often speak of right view arising in a conditional sense prior to noble entry, whereas the Dhamma-eye or irreversible vision is described with additional language such as “fixed in destiny,” “no longer liable,” etc. MN 43 lacks that irreversible framing.
+
+
+
+Based on these, it seems to me that MN 43 is pointing to the necessary conditions for right view to arise in a still-dependent sense, rather than directly describing the decisive and irreversible breakthrough. So in that sense, they are necessary but not sufficient conditions (sufficiency coming with the removal of what obstructs)
+
+Is this distinction valid? Or should MN 43 instead be understood as referring directly to the irreversible establishment of Right View that marks entry into the noble individuals? 
+
+I would be grateful for correction if this framing is misguided. Thank you!
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/o4tpvs3/)** _2026-02-11 16:41:58_:
+    >  I also noticed that in your translation you have used the un-capitalized 'right view', so perhaps this was intentional to refer to something apart from the supramundane attainment?
+
+    No, that wasn't intentional. I wouldn't make such a distinction on my own, nor try to find a justification for it the Suttas.
+
+    I don't see why right view having conditions implies that it is reversible. Arahantship depends on plenty of conditions, yet it is irreversible.
+
+    > If these two were sufficient for the decisive and irreversible vision, then hearing correct Dhamma and attending appropriately would seem to guarantee noble entry “then and there.”
+
+    Yes, it would. The catch is that one has no stable internal reference point to distinguish *yoniso* from *ayoniso*, nor the accuracy of an utterance, until after right view. At the same time, what needs to be done is clear: establishing the mind in virtue and abandoning passion for sensuality is what makes one's attention *yoniso*. Hence the stock passage preceding the attainment of stream-entry.
+
+    >  But the suttas elsewhere imply that right view can fail to arise even when the right Dhamma is heard AND yoniso manasikāra is present, due to resistance or remaining obstruction (e.g. The Buddha declaring that King Ajātasattu, had it not been for his patricide, would have in fact entered the stream)
+
+    Having killed his father meant that King Ajātasattu couldn't have *yoniso manasikāra*, at least not sufficiently. Extending the right utterance of another—that all actions based on defilements are unwholesome and unjustifiable—to the right level (where nothing is excluded) will evoke in such a person a level of remorse that is impossible to bear. He had to continue regarding what he did was to some extent excusable (wrong view) in order to maintain his sanity.
+
+    It's for the same reason that the mind needs to lose its passion for sensuality for right view to arise. While still being passionate for something, let alone pursuing it, the fact that one's passion is actually the very source of one's suffering cannot sink in. The mind will reject the right view because it has something against it that it needs to protect.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/o4y3pxh/)** _2026-02-12 07:57:02_:
+
+    *(In reply to upasakatrainee):*
+    > Very clear. Thank you, Bhante !
+    >
+    > I had the following reflections based your clarification:
+    >
+    > >establishing the mind in virtue and abandoning passion for sensuality is what makes one's attention yoniso   
+    >
+    > I can extrapolate that this applies not only to sensuality (sensual passion) but to aversion as well — insofar as both are forms of *passion toward feeling*. As long as something is still being protected (pleasant or unpleasant), yoniso cannot be complete. That makes yoniso far more existential and less technical than I had been subtly treating it.
+    >
+    > >will evoke in such a person a level of remorse that is impossible to bear. He had to continue regarding what he did was to some extent excusable (wrong view) in order to maintain his sanity
+    >
+    > This indicates that there was a wilful self-deception that was ongoing; which lies at the root of what prevents yoniso. It provides a good perspective on the importance of non-deception as an overarching guiding principle for any degree of progress; and consequently underscores the importance of the 4th precept ­— taking it all the way to its subtlest expression
+    >
+    > >Having killed his father meant that King Ajātasattu couldn't have yoniso manasikāra, at least not sufficiently
+    >
+    > Comparing this with the case of Angulimāla, who *was able* to establish yoniso manasikāra, despite his horrific acts, reinforces that patricide/matricide contradicts a much more foundational layer of mundane right view (“there is mother, there is father”), and therefore would require self-deception at a deeper structural level in order to preserve psychological coherence. That is why yoniso was a structural impossibility for Ajātasattu but not for Angulimāla, despite the greater gruesomeness of the latter's acts from a worldly lens.
+    >
+    > Overall, this gives me added perspective on the subtlely of yoniso manasikāra. It clarifies that yoniso is not something one “approximates” or orbits around, but something that either fully extends or does not.
+
+    >I can extrapolate that this applies not only to sensuality (sensual passion) but to aversion as well — insofar as both are forms of passion toward feeling. 
+
+    Yes, but not as a separate aspect. If you're truly undermining all your passions, aversion has no foothold whatsoever. Hence the Buddha often using the word "passion" (or "delight") to encompass every potential defilement. 
+
+    > That makes yoniso far more existential and less technical than I had been subtly treating it.
+
+    Absolutely. Yoniso manasikāra is a result of the citta being tamed and pliable, not something anyone can do by following a protocol. Passion structurally carries ignorance.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/o4y49lq/)** _2026-02-12 08:02:14_:
+
+    *(In reply to Embarrassed-Box6857):*
+    > Dear Bhante, once the preconditions for the right view have been in place for a long enough time(precepts, sense restraint, enduring cravings and the neutral feeling, context of ones situation as a whole and the peril of sensuality) one wouldn’t specifically have to be enduring craving or be hearing/contemplating the dhamma the moment right view arises? Or am I mistaken? 
+    >
+    > Since the “utterance of another”, i.e the right instructions have basically been heard countless times by this point I assume that one wouldn’t necessarily be actively “trying” to get the right view.
+    >
+    > Im asking this because I assume the preconditions I listed is the development of yoniso manasikara
+
+    > Since the “utterance of another”, i.e the right instructions have basically been heard countless times by this point I assume that one wouldn’t necessarily be actively “trying” to get the right view.
+
+    In the sense of reflecting on what one has heard, no, not always. But it's also not something you can preemptively decide. 
+
+    When clarity about the practice is fading, you have to revisit the right instructions (mentally at least).
+
+---
+
+**r/HillsideHermitage** | Posted by Seekfinderin _2026-02-09 23:38:53_
+### [Beauty, Ugliness, Danger in the Body](https://www.reddit.com/r/HillsideHermitage/comments/1r0kkoo/beauty_ugliness_danger_in_the_body/)
+
+In the last weeks I was reading more and more Suttas and articles and listened to many talks and almost everything I read or listened to, and the more I did so, seemed to make sense and be very logical and convincing to me. But I have a very hard time to understand the way how you seem to look at the human body and why. I remember this Sutta, that is also quoted often in your talks, where apparently Buddha said about a princess or some girl that he would not touch her even with his feet, because, apparently that was so disgusting in his view, even though in the eyes of most others she was probably beautiful. 
+
+Then I hear you, when talking about the body, about it being that sack of flesh and blood and excrements and urine. I don't understand that. It makes some sense to me and I am trying to reflect about it, that some things, actions, thoughts etc., that I consider desireable may not be so desireable from a more complete, neutral, clarified point of view. But in regard to this description of the body this feels to me as if you just try to look at it in this disgusted way for some reason by choice, and it seems to be very abstract to me. Because in fact and according to what I see this body is not that ugly, dirty, filthy thing. Yes, there is something like that within it, within its organs, but all that is quite in order, functions well, is surrounded by smooth skin, held together in that form, can move very elegantly and softly. When you talk about it, it sounds as if you are seeing a body when it is exploded on the floor like in a crime scene. When I reflect on this I don't see why I should imagine something like that as it is so far away from how the body of a living human being is usually appearing? 
+
+Of course, if I would have such a negative view of the body, it would be much easier to restrain the senses and not desire to touch other bodies etc. But right now, to be honest, and please correct me, if I am wrong, it seems to me as if you just consciously cultivate such a disgust for the body in order to get rid of sensuality/sexual urges, without this having a basis in regular experience of human bodies? 
+
+To get to the point: Maybe someone can explain to me how such a disgust for the body evolves and why? And why that may be necessary or a natural occurence on that path. I don't get it. While so many explanations convince me and help me withdrawing more and more, this particular area is very confusing to me. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r0kkoo/beauty_ugliness_danger_in_the_body/o4kjc4c/)** _2026-02-10 05:59:28_:
+    > But in regard to this description of the body this feels to me as if you just try to look at it in this disgusted way for some reason by choice, and it seems to be very abstract to me.
+
+    Emphasizing ugliness is certainly a choice, yet no less so than emphasizing beauty is. It's just because in the beginning one is so used to (and pressured towards making) the latter choice that it feels like it happens on its own.
+
+    > When I reflect on this I don't see why I should imagine something like that as it is so far away from how the body of a living human being is usually appearing?
+
+    You don't need to, and that's not what the Buddha described. He said you reflect on the organs of "this very body" as you would be reviewing a sack containing different types of grains and beans. So rather than an abstract "bodies can become like that", it's "*my* body *already is* like this." And that is undeniable. It may feel *unnecessary* to think about it, but that's something else (and it's the pull towards delusion).
+
+    > But right now, to be honest, and please correct me, if I am wrong, it seems to me as if you just consciously cultivate such a disgust for the body in order to get rid of sensuality/sexual urges, without this having a basis in regular experience of human bodies?
+
+    If you reflect properly as above (rather than taking asubha as a mechanical "meditation object") it does have a basis in your own experience all the time. And that is why it would *uproot* sensuality, not just push it aside.
+
+    Though you may not realize it, you (*choose to*) relate to your own body as an instrument for pleasure all the time. Particular sensual desires are just the byproduct of that. Asubha is meant to change that deeper relationship with the body. Replacing sensual thoughts with shock reactions changes nothing fundamental.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r0kkoo/beauty_ugliness_danger_in_the_body/o4n2x2z/)** _2026-02-10 16:42:36_:
+
+    *(In reply to Seekfinderin):*
+    > I will reflect on that, thank you. 
+    >
+    > 
+    > I can see that of course, that there is also ugliness and that there are many not so nice and pleasant aspects about the body.
+    > * During birth, which is very bloody.
+    > * The body gets dirty fast and then stinks etc.
+    > * It is completely dependent on constant feeding and otherwise breaks down and dies.
+    > * It will break down sooner or later anyway, will loose all beauty to it no matter what you do at some point and will die.
+    > * It may get sick and all the potential for pain that comes with it etc.
+    > * Everyone has to defecate and urinate, sure.
+    >
+    > 
+    > But all of these things are things that were in one short moment or will happen at some point in the future etc. And yet factually what my sensuality actually delights in, assume some body of another being, while my senses delight in it, doesn't have all of that. It is far beyond this stage of being born, it is regularly cleaned and smells pleasant mostly, it does not defecate at that moment and does rarely so compared to all the time where it does not. It is not currently sick and broken down or in the process of dying. 
+    >
+    > 
+    > It is true, in that moment I have no desire towards it. When the skin would be full of open wounds and the body has a unpleasant smell etc., yes, then there would be no desire towards it in me. But it hasn't currently. 
+    >
+    > 
+    > It is also clear to me that every body will eventually fall apart and get sick and non-attractive etc., and that is also a reason why I cannot really fall in love with someone anymore, as I already see in them not only as what they now appear, but also what they once were and what or how they will become and sometimes this makes me sad, but more so it seems to make me more detached from them on an emotional level. So I think that I no longer crave for a relationship for instance, because I see the suffering in it and pretty much feel unable for such a thing now.
+    >
+    > 
+    > But it does not seem to diminish my passion/lust towards it on the physical level (I speak of thoughts, of the mental engagement with lust mostly) because only what is currently there matters then to my senses. I know in that moment that this will not last, this form will not remain to be so beautiful for me, but it does not bother me in that moment because I also know that even if this particular form, this particular body will not stay like that, there always will be others, there always will be a new, healthy body with that same heavenly smell and smooth skin and so on that my senses will find so attractive. 
+    >
+    > 
+    > It also does not diminish my passion in that moment thinking about my own body and how it becomes more and more unattractive and old and falls apart, because it doesn't diminish or change the appearance of that other form in that moment that I could theoretically engage with, touch, smell etc. 
+    >
+    > 
+    > I do try to live celibate, partially as an experiment to see what is to your teaching, because I want to see that pressure and if I can train to endure it, partially because I have no opportunity to have any sexuality with another person I find attractive anyway and because I do not want to masturbate. And at the moment I seem to have made some progress as the pressure is not as big as it was and it seems to be easier for me to interject before I act out of such a momentarily impuls, I feel it coming and can just say: "No, I do something else." But there are dreams and still that idea in the back of my head, that maybe someday I can engage in it deeply again with another person when this opportunity arises, even if the chances for this to happen, in my personal situation, is very small. 
+
+    > But all of these things are things that were in one short moment or will happen at some point in the future etc. 
+
+    The point is that asubha is not about future possibilities. The body can reach such levels of "shocking" unattractiveness in the first place because of the unattractive aspects (blood, flesh, waste-producing glands) that it already has *now,* while it is factually young, healthy, good-smelling, etc. 
+
+    You need to recognize the unattractiveness *within* the beauty; otherwise you'll indeed just be covering up the good parts in order to fabricate a "dispassion" that is not even genuine and will not last.
+
+---
+
+**r/HillsideHermitage** | Posted by ConditionOwn3429 _2026-02-08 12:04:19_
+### [Questions on Contemplating](https://www.reddit.com/r/HillsideHermitage/comments/1qz78dr/questions_on_contemplating/)
+
+Could you clarify what contemplating the danger in sensuality really means? I hear this flying around alot, but I have yet to fully grasp what it means. Does it require a prerequisite, like virtue and sense-restraint? And how do you actually, practically do it? It would be really helpful if you could also provide an example.
+
+For context, I've been reading a section of The only way to jhana, chapter 8: The pleasure of boredom in this chapter, Ajahn says “Practically speaking, boredom is a good way to practise. People don’t see boredom as an indicator, and certainly don’t see delusion as an attitude that they cultivate, despite commitment to precepts, sutta study, and contemplation. “ (p. 88) and “For example, if you decide to allow yourself to get bored: switch off your phone, close the doors and curtains, put away your books, switch off the television, don’t do your meditation technique—then, it doesn’t matter whether you sit, walk, stand or lay down—just abide in that non-activity. The mind will certainly be presenting you with something to do, which is fine—you don’t need to try to get rid of those thoughts, you just don’t act upon them” (p. 89). This is what I'm doing, and something that I've encountered along the way was that I impulsively daydream, and I can't control it. It's not that I can't resist the desire to daydream, the daydream in it of itself just appears without my consent. 
+
+Now how is this related to what I'm talking about? I've heard from one of the Hillside Hermitage videos that one should contemplate when pressured by “unwholesome states”. So how I see it is that: 
+
+\- My daydreams are to entertain me when I'm bored 
+
+\- Daydreaming is an unwholesome act (it contains unwholesome thoughts of desire and pleasure)
+
+
+\- You should contemplate when you're pressured by unwholesome states
+
+
+\- You should contemplate on your daydreams.
+
+
+So I understand now that I should contemplate when I unwillingly daydream, but how do I do that? In the same chapter, I read “all you need to do is to not entertain it (the mind) and establish the context of the danger, if what it offers is unwholesome and sensual.” (p. 87) yes, but what does that mean? I don't understand. “You can develop the perception of danger or the perception of abandoning in regard to those thoughts (of sensuality, ill-will) so that while the mind is presenting those thoughts of sensuality, you are not wanting them, and are abandoning them because they are dangerous” (p. 87) I'm not sure where to go from here.
+
+I would appreciate it if you could clarify my question, or debunk some of my thinking. Thanks in advance.
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qz78dr/questions_on_contemplating/o4e1tk5/)** _2026-02-09 06:02:36_:
+    > So I understand now that I should contemplate when I unwillingly daydream
+
+    If your bodily and verbal actions are contained by the precepts and not partaking in sensuality and ill-will anymore, then yes. 
+
+    What you contemplate is the danger in any behaviors of sensual or hateful nature that your mind still delights in even though you have thoroughly given them up outwardly. 
+
+    You don't try to deny the potential gratification of those actions; you're simply highlighting the drawbacks that the mind wants to look away from even though they are far greater in magnitude than the gratification.
+
+    The effect of that is not necessarily immediate. The momentum towards ignoring the danger (built up by careless behavior from before) has to wear away before the recognition of the danger feels palpable and the mind genuinely "accepts" it.
+
+---
+
 **r/HillsideHermitage** | Posted by Representative-Age18 _2026-01-27 19:10:50_
 ### [Questioning Hillside Hermitage based on the Suttas: "All the Defilements", Sutta MN2](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/)
 
