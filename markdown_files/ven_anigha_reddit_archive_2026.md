@@ -9,6 +9,136 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by Formal_Breath_2026 _2026-02-27 23:25:44_
+### [Chinese Parallel to Kālāma Sutta](https://suttacentral.net/ma16/en/patton?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
+
+Has anyone mentioned this Chinese parallel to the Kālāma Sutta before? The first part of the sutta mentions how greed, aversion, and delusion cause one to break the 5 precepts, similar to the Pāli version. But in the section directly preceding the brahmavihāras, it mentions abandoning abrahmacariya (非梵行) alongside the standard grouping of killing, stealing, lying, and various other kinds of wrong speech. It also mentions purifying the mind of abrahmacariya, lust, and longing for the possessions of others. This passage is not in the Pāli, which goes straight to cultivating the brahmavihāras after greed, aversion, delusion and the 5 precepts. Perhaps an interesting basis for further research? I wonder if there are other Chinese suttas in which the Buddha talks about celibacy to lay-people, or in which celibacy is a standard pre-requisite for brahmavihāras.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rgmgjq/chinese_parallel_to_kālāma_sutta/o7u35mx/)** _2026-02-28 05:51:42_:
+
+    >  Perhaps an interesting basis for further research? I wonder if there are other Chinese suttas in which the Buddha talks about celibacy to lay-people, or in which celibacy is a standard pre-requisite for brahmavihāras.
+
+    Yes, I've come across many similar instances. For instance the parallel of MN 97 (MĀ 27) mentions not only that brahmavihāra involves abandoning desire and sensual thoughts, but that the brahmin Dhanañjāni succeeded in it as part of a change of direction that began with renouncing his wife. 
+
+    Another one is the parallel of MN 41 (SĀ 1042) which specifies "pure precepts" and "a mind free from desire" as requirements not only for all samādhi attainments but also all noble attainments.
+
+---
+
+**r/HillsideHermitage** | Posted by MajesticPurpose5622 _2026-02-27 19:56:37_
+### [How to clearly see the first noble truth?](https://www.reddit.com/r/HillsideHermitage/comments/1rgh3f9/how_to_clearly_see_the_first_noble_truth/)
+
+///
+
+Hello, it has been a few months since i started my practice. It has become, by far, the most important thing in my life and stays at least in the back of my mind at all times.
+
+Im currently stablishing myself in virtue and practicing sense restraint, using my free time to contemplate on the nature of my existence and the teachings.
+
+However, my mind constantly harasses me with questions and doubts about why am i doing this in the first place, i feel as if i constantly have to explain to it the purpose i have found on the practice.
+
+I have seen the video talking exactly about how to deal with a doubtful mind and im currently taking those steps, but one thing keeps me confused.
+
+When i question myself about my intentions with this practice, i dont see “freedom from suffering” as the first reason. Instead i think that i wish to find the best possible way to live my life, and that has happened to be in the buddhist practice.
+
+Im beggining to understand the unsatisfactory nature of sense desires, hence i do not wish to rely on them for my satisfaction/hapinnes, and this has been the primary reason why im doing what im doing.
+
+When i think of my main goal with this, i think about findind unconditioned and true satisfaction with my life, wich cannot be obtained through craving and satisfying my craving, but i have to make an repetitive effort to think about Dukkha.
+
+I wonder if my practice is rooted in the right reasons. If not, how can i see things more clearly?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rgh3f9/how_to_clearly_see_the_first_noble_truth/o7tz3i2/)** _2026-02-28 05:19:28_:
+
+    Whether you focus on wanting better satisfaction or not wanting dissatisfaction doesn't really matter, since either way the need for striving is recognized.
+
+    What's more important is to remain transparent about what is taking you away from the right satisfaction and toward suffering (i.e., your own actions), so that you don't start thinking that you can get to the right satisfaction through some kind of shortcut.
+
+---
+
+**r/HillsideHermitage** | Posted by account-7 _2026-02-27 18:26:45_
+### [How can one understand various fruitions through Ahjan's analogy?](https://www.reddit.com/r/HillsideHermitage/comments/1rgenwl/how_can_one_understand_various_fruitions_through/)
+
+I found the video [Don't open Mara's doors](https://www.youtube.com/watch?v=xeCixCYoxaY&feature=youtu.be) incredibly helpful and clarifying. Namely, the analogy of "opening the door" when there are people knocking outside in relation to acting out of pressure was incredibly useful to me.
+
+I'm only wondering how one would define various levels of attainment relative to that image.
+
+Would an arhat not even have the conception of a door anymore? Or is it more that the knocking on the door (avoiding or opening it) has absolutely no pull on them anymore?
+
+Would a stream entrant never open the door and just feel intensely pressured to open it, or would they still occasionally open it if what was on the other side was particularly seductive? In the latter case, what would differentiate a stream entrant's relationship to the door from a puthujjanas?
+
+Thank you for your time.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rgenwl/how_can_one_understand_various_fruitions_through/o7u1enq/)** _2026-02-28 05:37:34_:
+
+    > Would an arhat not even have the conception of a door anymore? Or is it more that the knocking on the door (avoiding or opening it) has absolutely no pull on them anymore?
+
+    The latter. Avoidance is its own door, so you could simply say that an Arahant has no inclination to open any door that is knocked on, having fully understood that *because* there is knocking, whatever is on the other side can only be a further nuisance. 
+
+    Their citta has understood that all the way, so they don't need to make any effort to remember it.
+
+    > Would a stream entrant never open the door and just feel intensely pressured to open it, or would they still occasionally open it if what was on the other side was particularly seductive? In the latter case, what would differentiate a stream entrant's relationship to the door from a puthujjanas?
+
+    A sotāpanna has the same understanding, but it hasn't sunk in to the same degree. They cannot open the worst doors again, since that requires full-on delusion, but they still need to make effort to maintain what for the Arahant is effortless.
+
+---
+
+**r/HillsideHermitage** | Posted by thereof_be_silent _2026-02-26 02:58:44_
+### [Two Questions on Paticcasamuppada](https://www.reddit.com/r/HillsideHermitage/comments/1reymdy/two_questions_on_paticcasamuppada/)
+
+1. Does discerning the structure happen in a gradual way or in a sudden way?
+
+It seems like it should be gradual because through the gradual training and restraint, i.e. as a basis is developed, one can see “more” of their craving, or rather see more of its scope. And thus one can see more of the dependency/simultaneity between the craving and the feeling it has as its basis. 
+
+But on the other hand, I suspect that **seeing** even a little of the dependence/simultaneity necessarily entails seeing the entire structure concretely. 
+
+  
+Relatedly:
+
+2. After being settled in the precepts at the bodily and verbal level, should one try to discern the simultaneity on each ”instance“ of craving, while also generally aiming for mental purity? 
+
+Or should one hold off until one is settled at the mental level, where the mind is dry enough that a single sentence single is sufficient? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1reymdy/two_questions_on_paticcasamuppada/o7ttijx/)** _2026-02-28 04:38:26_:
+
+    1. Gradually (AN 8.19). 
+
+    2. If you're keeping tabs on the mental states driving your actions (which implies not performing unwholesome ones) then you are already discerning the "structure" where it actually is. 
+
+---
+
+**r/HillsideHermitage** | Posted by Formal_Breath_2026 _2026-02-21 17:59:59_
+### [practice question](https://www.reddit.com/r/HillsideHermitage/comments/1raxtgx/practice_question/)
+
+Sometimes recently my mind has been trying to convince me that things which I have ascertained (to the best of my ability) are not motivated by an unwholesome intention are actually unwholesome, maybe by pointing to some surface-level grey area in which they may correspond to the boundaries set by the precepts. The problem here is not that the thought that accuses me of doing something unwholesome is unpleasant, which I know I just have to endure, but the fact that the thought appears is what makes me doubt whether I’m actually lying to myself or misjudging whether the action is unwholesome. Sort of like I feel if my actions were truly blameless, I wouldn’t have these thoughts blaming me in the first place. It disturbs my clarity about my intentions, because the doubt and anxiety upsets my composure, and then I worry that that loss of composure points to the action itself actually being unwholesome. Is there any good way to know for certain that I’m not deceiving myself about whether something is unwholesome? The thing is that, when I first started practicing virtue, I feel like I actually had these doubtful thoughts less, and that they have actually ramped up since my virtue has improved and become more consistent. Like, since I have actually become less capable of lying to myself, my mind accuses me of lying to myself more, if that makes sense? I am not sure if the fact that my mind is still moved by doubt and fear about somehow ‘accidentally’ doing something unwholesome points to a lack of internal clarity about never breaking the precepts that still needs to be developed, or if it is just a separate stage of fear/doubt that needs to be overcome on its own. Is this over-questioning your own virtue just another way that Māra ramps up the difficulty of the practice? (only half-joking here). I hope this makes sense
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1raxtgx/practice_question/o6rh5rs/)** _2026-02-22 12:44:24_:
+
+    Couple additional points to what Bhante Anīgha wrote: 
+      
+    > Is there any good way to know for certain that I’m not deceiving myself about whether something is unwholesome?
+
+    Yes, but not by clarifying and analysing it. Instead, by putting the non-acting out of pressuring mental state first, no exceptions. Everything else is secondary. Regardless of whether the past action was unwholesome or not, acting of of the current pressure in regard to it is never good. 
+
+    Even if the past action was rooted in a degree of unwholesome that you overlooked at the time, revolving around worry or doubt in regard to it cannot help prevent it or clarify it in future. It adds fuel to the very reason you would have acted unwholesomely to begin with. 
+
+    In other words, by sufficiently including the pressure of doubt and worry, and not acting out of it *in the present*, you can know for certain that you are *currently* not deceiving yourself about what you are doing, and there is no other 'hidden' way to commit unwholesome actions, apart from giving in to this very same pressure. That is all you need to know. 
+
+    >The doubt and anxiety upsets my composure, and then I worry that that loss of composure points to the action itself actually being unwholesome.   
+
+    The loss of composure points to the present mental act of giving in, to at least some degree, to the doubt and the pressure to clarify. That these things arise as such just points to Māra being Māra, which is not your problem.  
+
+    By the way - if you have read *Meanings*, there are also a couple of letters at the very end of the correspondance with Matthias that specifically address this type of issue.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1raxtgx/practice_question/o6wupr0/)** _2026-02-23 06:47:17_:
+
+    
+    >The tendency is to try and clarify what I will do *in the future* which obscures whatever intention (i.e. doubt or anxiety) is present there *now*, so then I have to do what feels unnatural and ignore the desire to clarify what I will do in the future and restore the clarity in regards to the present intention. Maintaining that mental clarity in the present is what will help me act with more clarity when the future comes.
+
+    Exactly. Bhante Anīgha will probably reply as well, but I would say that this, and both the 'edit 1' and 'edit 2' parts above, are correct and what I was referring to. That it feels unnatural is precisely the point. 
+
+    Without getting into the details, the first part before the edits sounded overall more leaning towards psychologisation which is, as you said, another way of giving in to the doubt. 
+
+    It's not possible to overcome that tendency overnight by just determining 'I won't ever do this again'. When you catch yourself doing it, then you have the choice to keep going along with the grain of it, or not, as you described above. So the point is, as always, to become self-aware of what you are thinking and why you're thinking that way, not to try and stop thinking.
+
+---
+
 **r/HillsideHermitage** | Posted by upasakatrainee _2026-02-11 08:49:07_
 ### [MN 43's Parato Ghoso Usage of right view,](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/)
 
