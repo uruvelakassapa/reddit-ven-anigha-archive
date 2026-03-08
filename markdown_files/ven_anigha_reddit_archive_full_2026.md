@@ -14,6 +14,126 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by Financial-Wallaby316 _2026-03-06 16:11:58_
+### [Wrong meditation as an aid for establishing virtue and sense restraint?](https://www.reddit.com/r/HillsideHermitage/comments/1rmi6pa/wrong_meditation_as_an_aid_for_establishing/)
+
+so a non stream enterer can’t practice meditation in an actually correct way, but can one use a technically wrong practice as a tool to help establish the foundations of a right practice if they understand that that meditation technique isn’t what will lead to right view? For example, if a meditation practice gives you a level of mundane mental clarity that helps you keep the 8 precepts, or it helps you stay recollected of the dhamma for the rest of the day after your practice which also aids in practicing virtue, or even just as a less destructive form of sensuality, that you can give in to before you know how to endure things at the right level, instead of giving in to things at the coarser levels of body and speech. Or if it helps you become more aware of your intentions and reasons for acting at least on the level someone without right view is capable of, and more peripherally aware of things like feelings and intentions and the body as peripherally enduring things that are the basis for anything you could ever conceive of doing, to the extent a non stream enterer can understand. Can a meditation technique be a sort of “last thing“ that is abstained from, after coarser ways of acting out are abstained from?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rmi6pa/wrong_meditation_as_an_aid_for_establishing/o93btnt/)** _2026-03-07 04:25:33_:
+    What this common argument fails to see is that replacing lust and aversion with delusion is not progress at all. Delusion is the worst of the three defilements.
+
+    In other words, it's far better if you try and you fail to restrain your actions in the ordinary self-aware state than if you succeed in restraint thanks to a hypnotic state (which is not what *samādhi is).
+
+---
+
+**r/HillsideHermitage** | Posted by Global_Ad_7891 _2026-03-04 22:55:25_
+### [Question about virtue, entertainment, and understanding the emphasis on celibacy](https://www.reddit.com/r/HillsideHermitage/comments/1rl0g8q/question_about_virtue_entertainment_and/)
+
+Hello everyone,
+
+I apologize in advance for the long winded post. Thank you to whoever reads the whole thing and provides feedback.  
+  
+I’ve been reflecting recently on the precepts and my own conduct over the past several years, and I wanted to ask a question both about virtue and about the role of certain precepts.
+
+I first came across Buddhism when I was around 19 or 20 (I am now 26). At that time I read the five precepts and essentially just agreed with them. But I didn’t really understand them deeply or consciously “undertake” them in any formal sense. Looking back, I think I simply encountered them, thought they made sense, and continued living in accordance with them.
+
+In many ways I was already following most of them before I even encountered Buddhism. I had a fairly sheltered life growing up and generally wasn’t inclined toward things like stealing, lying, or harming others. I'd argue that my virtue was perfectly in line with the 5 precepts except for a 2-3 year bout of smoking a lot of weed in high school. That period ended when I was 19 years old, which was influenced by encountering Buddhist teachings. Since then — about 6–7 years — I haven’t used drugs or alcohol at all despite many attempts to coerce me into taking them. 
+
+I was also already living fairly simply. I never cared much about appearance or beautification, and started becoming a loner in high school, so frivolous speech and socializing were never really a big part of my life. Also I dropped out of college at 19 years old, around the time I discovered Buddhism, and I started working in a warehouse and had no friends.
+
+For work I mostly drive a truck and manage a few properties, which means my days are spent doing fairly simple tasks — driving, cleaning, fixing things, scheduling service calls, picking up supplies, etc. So I’m alone a large portion of the day. I also talk to myself in my head a lot.
+
+About three years ago, I lost around 70 pounds and changed my relationship with food. I started eating once per day and have maintained that pattern since then. This is mainly due to reading about OMAD and its benefits in regards to eating a keto/carnivore diet, which is what I am currently on. The diet change also relieved a lot of my food addictions to various unhealthy foods and snacks.
+
+In regards to celibacy, in the past I would abstain for long periods and then occasionally lapse, but over the past year I’ve been 100% celibate and find it extremely easy to maintain.
+
+The one area where I clearly see weakness is **entertainment**. For many years I relied heavily on distractions like video games, movies, YouTube, and sports watching. Only in the past few months have I started reducing those things, and just recently I’ve decided to seriously try abandoning entertainment altogether.
+
+This leads to two questions.
+
+First, I’m curious about the **strong emphasis placed on celibacy** in many teachings. I understand that sexual desire is very coarse and powerful, but in my experience once abstinence becomes established the pull weakens dramatically. Even when encountering sexual imagery online or seeing attractive people in public, there’s very little reaction compared to how things used to be.
+
+By contrast, **entertainment feels much subtler but harder to deal with**. It doesn’t feel like a strong addictive pull the way sex can, but there’s a persistent tendency to fill boredom or discomfort with distraction. It seems easier to overlook and justify.
+
+So I’m curious why celibacy is often emphasized as being “more important” than entertainment, when it seems possible that things like entertainment and distraction could themselves be a major obstacle to insight into the Four Noble Truths or stream entry.
+
+My second question concerns virtue and progress on the path. Although I didn’t consciously “undertake” most of the precepts with a clear understanding of their purpose at the time, I’ve ended up living in accordance with many of them for years. In most cases this happened simply because the opposite behavior felt unpleasant or emotionally disturbing. For example, lying tends to feel painful and emotionally driven, even if only subtly. The same goes for things like harsh speech, stealing, or acting out of strong craving. In that sense I feel that a certain degree of restraint developed somewhat naturally even before I understood the framework of Buddhist virtue.
+
+Because of that, I sometimes wonder whether it’s reasonable to think that a **fairly stable foundation of virtue** might already be present, even if my understanding of it was initially incomplete. In my day-to-day life the only thing that still seems to exert a consistent pull is distraction through entertainment or the tendency to avoid boredom. Aside from that, the inclination to break the other precepts feels almost nonexistent. So I’m wondering whether this kind of situation would generally be considered a meaningful foundation of virtue, or whether without properly understanding the precepts from the start one would still need to essentially begin again from a more basic level.
+
+Part of why I ask this is because it seems that in the Buddha’s time many people were already living quite virtuous lives before encountering the Dhamma, and some attained stream entry upon hearing relatively brief teachings. So I’m curious whether virtue established in this kind of indirect or intuitive way could play a similar role, or whether proper understanding of why you are building virtue has to come, and THEN you start training in the 8 precepts, and THEN you can use that virtue as a basis for insight.
+
+My other question concerns **understanding the mind more deeply**. Sometimes I find it difficult to imagine how seeing the “signs of the mind” could appear fundamentally different from how experience already presents itself now, aside from removing distractions like entertainment. At times I even feel unsure what further shift in understanding would actually look like. I’ve occasionally experienced states of seclusion from sensuality when abstaining from entertainment for extended periods, accompanied by a kind of steady and collected thinking, secluded from sensuality, which sometimes seems similar to how the suttas describe jhāna. But even with experiences like that, I’m not sure how they relate to genuine progress on the path.
+
+So I suppose my underlying question is simply whether my perspective here is missing something important about the nature of virtue or about what insight into the Four Noble Truths actually involves.
+
+I would very much appreciate any clarification or correction if my understanding here is mistaken.
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rl0g8q/question_about_virtue_entertainment_and/o8uimex/)** _2026-03-05 20:52:07_:
+
+    *(In reply to Global_Ad_7891):*
+    > I guess in a way I'm asking, could I conceivably be close to stream entry? Kind of a cringey question to ask such a serious community, but I want to understand more about why Bhikkhu Anigha stresses becoming first established in celibacy as a priority in the wiki.
+    >
+    > edit: Also, I find eating enjoyable still, is that a hindrance to stream entry?
+
+    One of the reasons that celibacy is said to be a priority is that many people's deeply-held views about the world, life, happiness and their own existence are, unbeknownst to themselves, bound up with non-celibacy - as a "normal and good part of life and who I am." There is a sense of safety in it. This creates, in many, a visceral resistance when it comes to giving it up that is on a different level to the mere sensual addiction. 
+
+    Not everyone carries this particular view in regards to celibacy to the same degree. But pretty much everyone will have a personal sense of safety in something or other that they are by default refusing to undermine or question. This is the reason they are not overcoming the first three fetters. 
+
+    Basically, not actually trying to follow the *whole* of the instruction to the best of one's ability, leaving out aspects you don't like or don't want to do, equates to the attitude that the Dhamma is a sort of semi-optional side-project. It implies lack of faith.
+
+---
+
+**r/HillsideHermitage** | Posted by spiffyhandle _2026-03-04 16:24:27_
+### [Some thoughts and reflections on my difficulties with keeping the precepts](https://www.reddit.com/r/HillsideHermitage/comments/1rkpvz3/some_thoughts_and_reflections_on_my_difficulties/)
+
+I see a few ways to learn to  keep them. My goal is living by seven precepts plus watching intentions to see danger in the slightest fault.
+
+The first way is jumping straight to keeping seven precepts all the time and watching intentions. A person is expected to fail a lot but this is the most ambitious standard. This is what I started with. I broke the precepts over and over and eventually it felt like I was lying to myself when I told myself that I will keep them.
+
+The second is taking one's current level of precepts, which for me is the five, and adding on it incrementally. Take the smallest change one can do and let that stick. When that is solid, add the next smallest change. Then, when one is keeping all seven precepts, add in virtue (danger in the slightest fault).
+
+That approach is what I am trying now. And I am not sure it is easier than doing it all at once. The problem with doing it all at once, is I feel like I'm lying to myself because I'm breaking the precepts all the time. But, the advantage of the all at once approach is the system is self-reinforcing. Keeping celibacy, no entertainments, no beautification, time restricted eating, and watching intentions all support each other. If you can get it going. 
+
+When a person only keeps celibacy, misconduct increases in entertainments. When a person keeps celibacy and entertainments, misconduct increases in food. IME. So there is a natural benefit to keeping all the precepts at once, from the start.
+
+One problem with with doing precepts little by little is there are large gaps in my conduct and I rely on willpower. When I don't practice seeing danger in the slightest fault and just work on obeying the rules, I am undermining my practice to a degree. I tried watching my intentions only in regards to the spirit of the rule I was keeping and that was not good. I was training myself to see craving but deliberately allow myself to act out if it. For example, I might gorge on ice cream because it's not against the rules I'd taken while at the same time noticing that I was choosing to act on greed. But then in a different situation I might tell myself with *this* precept, I need to not act of of greed, but it made things confusing and ambiguous. 
+
+Overall, it's quite discouraging by how difficult it is to take up the renunciant precepts. I've added in journaling and self-reflection ([https://youtu.be/7gx5kArzdVI).](https://youtu.be/7gx5kArzdVI).) And I'm making my environment more suitable by reducing electronics consumption. I think this second approach of just keeping one extra precept at a time, in my case, celibacy, and building gradually has potential. However, it is so slow. It's really quite surprising how difficult this is. If you had asked me, I wouldn't have thought of myself as a particularly horny person. I never did hookup apps, and was genuinely celibate for two years. But there is such a massive difference between being celibate while knowing there's an end date and doing it for life.
+
+In the past, I was pretty successful with the no entertainment precept. I gave up video games, music, movies, TV, books, and so on. But, I did it in the wrong order as I wasn't celibate. So I am hopeful that if I can finally figure out celibacy, the rest of the precepts will be easier.
+
+  
+EDIT:
+
+One thing that helped was this video by a former addict and former MMA fighter Bas Rutten - [https://youtu.be/VFyN-2MW2FI](https://youtu.be/VFyN-2MW2FI)
+
+  
+Any comments, observations, judgements, on my practice, or reflections on your own practice are welcome.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rkpvz3/some_thoughts_and_reflections_on_my_difficulties/o8qknmq/)** _2026-03-05 06:33:19_:
+    > In the past, I was pretty successful with the no entertainment precept. I gave up video games, music, movies, TV, books, and so on. But, I did it in the wrong order as I wasn't celibate. So I am hopeful that if I can finally figure out celibacy, the rest of the precepts will be easier.
+
+    An approach that might work is seeing the danger in the slightest fault, but specifically within five precepts + celibacy. So for now, you wouldn't regard it as a fault to consume entertainment as long as it doesn't arouse any sexual intentions. But you have to remain watchful of your mental state and be ready to stop despite the pressure if those intentions ever come up from the content you are consuming (or from any activity in general).
+
+---
+
+**r/HillsideHermitage** | Posted by RazzmatazzFit6906 _2026-03-02 23:47:35_
+### [How could Devadatta have achieved jhāna and psychic powers if he wasn’t even a sotāpanna?](https://www.reddit.com/r/HillsideHermitage/comments/1rj9f65/how_could_devadatta_have_achieved_jhāna_and/)
+
+How is that possible?
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rj9f65/how_could_devadatta_have_achieved_jhāna_and/o8kkv4i/)** _2026-03-04 10:21:43_:
+    There is no mention in the suttas of Devadatta achieving jhāna. I think this belief comes from commentarial stories added on to the suttas. This is not to say he had no knowledge of the Dhamma (he clearly possessed enough theoretical grasp of of it to be a good talker and convince some monks to follow him.) 
+
+    But if somebody who had attained jhāna within the context of the Buddha's instruction, he would have the right view. And the suttas are clear that it is impossible for one with right view to create a schism in the sangha, or purposely try to harm the Buddha. 
+
+    As for psychic powers, the main source for this seems to be a few passages in the vinaya, which occur in a rather embellished and somewhat mythologised context. 
+
+    And even, there are suttas (e.g. DN 11) that state that the demonstration of pychic powers or 'magic tricks' is not in itself a sign of wisdom - rather the absence of it (emphasis on the wrong things).
+
+---
+
 **r/HillsideHermitage** | Posted by Formal_Breath_2026 _2026-02-27 23:25:44_
 ### [Chinese Parallel to Kālāma Sutta](https://suttacentral.net/ma16/en/patton?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin)
 
