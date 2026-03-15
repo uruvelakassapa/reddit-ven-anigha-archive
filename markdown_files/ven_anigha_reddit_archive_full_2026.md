@@ -23,6 +23,16 @@ so a non stream enterer can’t practice meditation in an actually correct way, 
     What this common argument fails to see is that replacing lust and aversion with delusion is not progress at all. Delusion is the worst of the three defilements.
 
     In other words, it's far better if you try and you fail to restrain your actions in the ordinary self-aware state than if you succeed in restraint thanks to a hypnotic state (which is not what *samādhi is).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rmi6pa/wrong_meditation_as_an_aid_for_establishing/o9fo2z6/)** _2026-03-09 04:16:30_:
+
+    *(In reply to Financial-Wallaby316):*
+    > Is it ok to use these meditation techniques in ways that don't have to do with buddhist practice while still doing proper buddhist practice? I have ADHD and it interferes with my livelihood, and some of these exercises I've learned help with staying focused at work. Can I treat them the same way I might treat mundane physical exercise? Something that helps with staying healthy and functional but doesn't directly pertain to the Buddhist practice, just a totally worldly thing with worldly goals that helps with functioning in the world. It has been a less destructive solution for managing this condition than stimulant medications, so it would be great if it could stay in my life in some form without interfering with proper practice.
+    >
+    > When I honestly reflect, it is pretty clear that these practices haven't actually done anything to attenuate or decrease greed or hatred in my mind, as I know I'd still act out on them if these techniques failed me. This makes me think that maybe if I simply stopped deluding myself about these practices and their relationship to buddhist practice, they could remain in my life the same way as any other activity, as another thing I do whose intentions I need to interrogate and reflect on and avoid doing for the wrong reasons as best I can.
+
+    >This makes me think that maybe if I simply stopped deluding myself about these practices and their relationship to buddhist practice, they could remain in my life the same way as any other activity, as another thing I do whose intentions I need to interrogate and reflect on and avoid doing for the wrong reasons as best I can.
+
+    Yes, that's reasonable. Even if you already don't see them as part of the training though, keep in mind that the more you succeed in the actual training, the less you will resort to *anything* for the sake of managing dukkha.
 
 ---
 

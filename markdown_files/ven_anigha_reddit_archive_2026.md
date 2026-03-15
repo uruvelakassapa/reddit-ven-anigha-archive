@@ -19,6 +19,11 @@ so a non stream enterer can’t practice meditation in an actually correct way, 
     What this common argument fails to see is that replacing lust and aversion with delusion is not progress at all. Delusion is the worst of the three defilements.
 
     In other words, it's far better if you try and you fail to restrain your actions in the ordinary self-aware state than if you succeed in restraint thanks to a hypnotic state (which is not what *samādhi is).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rmi6pa/wrong_meditation_as_an_aid_for_establishing/o9fo2z6/)** _2026-03-09 04:16:30_:
+
+    >This makes me think that maybe if I simply stopped deluding myself about these practices and their relationship to buddhist practice, they could remain in my life the same way as any other activity, as another thing I do whose intentions I need to interrogate and reflect on and avoid doing for the wrong reasons as best I can.
+
+    Yes, that's reasonable. Even if you already don't see them as part of the training though, keep in mind that the more you succeed in the actual training, the less you will resort to *anything* for the sake of managing dukkha.
 
 ---
 
