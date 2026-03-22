@@ -14,6 +14,224 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by craveminerals _2026-03-16 16:53:33_
+### [Arahants laughing](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/)
+
+Would an Arahant laugh?
+
+Ñāṇavīra Thera wrote about humor and laughter, suggesting that laughter is closely bound up with fear or experienced threat—such as that arising from contradiction—and may appear when that threat is seen as harmless or passes.
+
+He writes:
+
+[“We laugh, then, when fear passes; we laugh as a charm to make fear pass; and we entertain imaginary fears to make ourselves laugh.”](https://nanavira.org/index.php/letters/post-sotapatti/1965/178-l-119-18-may-1965)“Laughter, then, is not so much a reaction to fear as its counterpart … He \[the sekha\] is already leaving behind him both laughter and tears.”
+
+If an Arahant’s mind is free from sorrow, anxiety, and tension ([see SN 22.43](https://suttacentral.net/sn22.43/en/bodhi?lang=en&reference=none&highlight=false)), it is unclear whether laughter could still arise. (If it did, it would presumably be of a different kind than we usually express, or only as a smile)
+
+Could it occur purely as a bodily reaction—like from an illness— or would laughter imply that there is some tension in the mind?
+
+Edit: reworded for more accuracy
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/oay2bvv/)** _2026-03-17 15:28:57_:
+    [The Buddha said](https://suttacentral.net/an3.107/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) that *too much* laughter is regarded as childish in the noble one's discipline. Besides, notice that unlike dancing and singing, he does not speak of "destroying the bridge" in regard to even this childish laughter. In other words, it's not something you would categorically fall away because it's not intrinsically unwholesome, but you should try to avoid it because for people whose understanding of the Dhamma is still shallow and who take you as an example, it can easily be interpreted as an allowance for laxity in regard to actually unwholesome things even when it's not unwholesome for you internally.
+
+    The Buddha himself supposedly never laughed, and that makes perfect sense given that he had refined his outward demeanor beyond the minimum threshold of an Arahant (who is only incapable of [five specific actions](https://suttas.hillsidehermitage.org/?q=an9.7). 
+
+    That refinement was only natural given the weight that his image had to carry as the absolute highest authority on the Dhamma.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/oazii3e/)** _2026-03-17 19:27:05_:
+
+    *(In reply to craveminerals):*
+    > Thank you Bhante 🙏
+    > Being unable to take “a course of action influenced by desire, aversion, muddledness, or fear” wouldn’t necessarily eliminate laughter, then. Edit: Though AN 3.107 say nothing of Arahants, perhaps we can assume that *too much laughter* applies to “everyone involved”.
+    >
+    > In reading some of Ven. Ñāṇavīra’s thoughts on this, he seems to be saying something true. But there’s also a possibility that what he describes is quite removed from “real life” and how things actually work. 
+    >
+    > If I may ask another question, what do you make of the “laughing wisdom” in SN 55.24, that spiffyhandle mentioned in their comment, what does that mean?
+
+    > Being unable to take “a course of action influenced by desire, aversion, muddledness, or fear” wouldn’t eliminate laughter, then.
+
+    Yes, and laughter isn't even an action many times. Action requires intention, and laughter can happen despite one's intention being actively set on the opposite.
+
+    > In reading some of Ñāṇavīra’s thoughts on this, he seems to be saying something true. But there’s also a possibility that what he describes is quite removed from “real life” and how things actually work.
+
+    Yes, he definitely had a philosophical bent, and that's often at odds with the Dhamma. Granted, he openly admitted that he was writing all those letters to pass the time, having lost the motivation to strive further due to his sickness. He himself likely didn't see those ideas as fundamental to the training.
+
+    > If I may ask another question, what do you make of the “laughing wisdom” in SN 55.24, that spiffyhandle mentioned in their comment, what does that mean?
+
+    *Hāsapaññā* is used for Ven. Sāriputta in SN 2.29 and elsewhere, so it can't be connected with Sarakāni's drinking habit. 
+
+    It could simply mean "endowed with wisdom that brings happiness." But that would be strange according to Pāli convention, since it would be an outlier in a list of terms that all have very similar meanings. 
+
+    Perhaps *hāsa* is derived from (or is a corruption of) *haṁsa,* which means swan. In the Suttas, the swan is sometimes [used to convey swiftness](https://suttacentral.net/snp1.12/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#15.1), which fits with the other qualifiers in the SN 2.29 list.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/ob5qhnv/)** _2026-03-18 18:01:03_:
+
+    *(In reply to spiffyhandle):*
+    > Assuming "laughing wisdom" is a good translation, I wonder if that's the skill to bring about laughter and joy in others when giving dhamma talks. If so, an example of that could be Ajahn Chah.
+
+    >  I wonder if that's the skill to bring about laughter and joy in others when giving dhamma talks.
+
+    No, it couldn't be a "skill" in a Dhamma context. It would at best remain as a habit built up from before, and a mostly counterproductive one at that. Hence the Buddha's own example.
+
+---
+
+**r/HillsideHermitage** | Posted by Solip123 _2026-03-15 15:47:35_
+### [How do you practice despite constant (emotional) pain and misery?](https://www.reddit.com/r/HillsideHermitage/comments/1ruhg22/how_do_you_practice_despite_constant_emotional/)
+
+Advice sorely needed, especially from people in similar positions who understand the feeling of being trapped with no exit in sight.
+
+I am falling apart right now, acting out of aversion almost constantly. I think about death frequently because the pain is so unrelenting. It doesn’t matter what I do because the background feeling is *always* one of unpleasantness, and it has been this way for several years (i.e., this has nothing to do with the practice itself). The only reason I’m holding off on that decision is because I’m afraid of dying without having gotten the right view, thereby forfeiting the chance to (possibly ever) make an end to suffering. And at least for now that frightens me more than the thought of remaining alive. But this has the consequence of worsening the suffering because I feel even more trapped since I now see death as a risky gamble.
+
+For context I am currently keeping five precepts + celibacy and *some* of the other eight precepts.
+
+Edit: I realized the title is a bit misleading as the pain is actually part “mental” (i.e., not necessarily related to emotions) and part “emotional” (e.g., hopelessness, sorrow, regret, shame, anxiety, feeling of being trapped). And “misery” connotes the omnipresent background feeling of unpleasantness and dread.
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1ruhg22/how_do_you_practice_despite_constant_emotional/oawet17/)** _2026-03-17 09:09:01_:
+    >How do you practice despite constant (emotional) pain and misery?
+
+    The very short answer would be: by not trying to get rid of the pain and misery, because it is not the problem. The whole burden is trying to stop yourself feeling the unpleasant feeling. 
+
+    Obviously you can't change that overnight, but you do need to change the expectation, if it is there, that the dhamma practice is supposed to make the pain go away. It is supposed to make the resistance in regard to that pain go away. 
+
+    If this sounds completely inapplicable and and abstract, you might need to first learn, or ask more specific questions, about how to practice in regard to some of the particular types of emotional pain you mentioned. (Remorse, shame, suicidal thoughts etc).
+
+    It will come down to recognising that certain thoughts are irrational and not acting out of them, but this is difficult if you are not able yourself to recognise them as irrational and distance yourself from them. 
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1ruhg22/how_do_you_practice_despite_constant_emotional/ob29i4a/)** _2026-03-18 04:14:14_:
+
+    *(In reply to Hard_Tack4):*
+    > But don't you think if someone is suicidal and isn't even fully committed to the 8 precepts some temporary relief wouldn't be a good idea so that they can build up from their already good foundation? It seems somewhat unrealistic to expect full determination from the post author. I'm obviously not talking about taking steps back, I mean more like just whatever mundane psychotherapy or even diet changes that can make things a little easier so they can move on. It's not like they have a deficiency in neuroticism.
+
+    Of course, I am not saying that the OP should not seek any kind of temporary relief. Plenty of other good suggestions were already made in regard to this, and he should by all means follow such advice if it makes things more bearable. 
+
+    But he did not ask about temporary relief; he asked how to practice the dhamma in regard to constant pain and misery. The answer to that is as I said: by first learning that the pain and misery is not the probem, it's the symptom of the problem. The assumption that the pain has to go away first in order to be able to practice is what hinders the actual cure. 
+
+    Edit: also, it is worth noting things that immediately relieve the unpleasant feeling can also be part of the right practice. The most obvious example is that if someone is miserable on account of shame and remorse for something they have done, the right practice is to confess it, openly and truthfully. This will be a relief, and that's completely fine. 
+
+    It makes all the difference whether the relief comes from hiding from the source of the pain or from admitting it. The first one is what I am saying will hinder the practice. How something feels is not a reference for its rightness or wrongness.
+
+---
+
+**r/HillsideHermitage** | Posted by LotusOfUpekkha _2026-03-14 12:14:39_
+### [Concussive contemplations](https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/)
+
+I write this while having a concussion (it involved vomiting as well) - I already got checked out by a doctor. Maybe what I write here doesn't make much sense, maybe it does, but if it doesn't please let me know. I'll try to keep it short and get back to resting in a darkened room instead of posting on Reddit after trying to write down some things that have been in my mind since getting the concussion in an attempt to share it and possibly receive feedback from others.
+
+Brain is like a puree, like a warm butter, it is liable to get mashed (like with a fork). It will get mashed for sure in some way or another when old age, sickness and death set in. No intellectual capability, no 'bright thinking', no 'clear headed reasoning', memory, interpreting of language, motor skills etc. can stay as it is right now. Every human being, no matter how 'quick of wits' they are, no matter how great their reasoning capabilities, their "IQ" or intellectual performances is liable to this. No one can escape from their brain turning to dust, to mush, to food for maggots, to being blown away with the wind, eaten by all kinds of insects, no one can escape losing all their memories, all their faculties, all their "rationale".
+
+I am in my early twenties, and for my entire life I've always taken my intellect, my capability to reason or philosophize with these 'bright faculties' entirely for granted - I've always taken them to be 'my safe space' - it resembled a means of managing the unpleasantness that is inevitable. In fact for me (and probably for many) it has been THE way of management, the over analyzing situations, ideas and circumstances, the psychologizing, the theorizing about this and that, the philosophizing - trying to make sense of things in order to 'give it a place internally', to form views and opinions about this and that in an attempt to make it it all a bit less confusing and overwhelming.
+
+Some thoughts after getting pretty badly concussed have been along the lines of: "this time, it really could cause ***permanent damage*** ***-*** this time I might not get off with merely a scratch", "this time my precious reasoning capabilities that have always been so dear to me, might be affected in ways I cannot even imagine as of right now". These thoughts are not even the problem, they are merely Mara knocking on the door. Opening that door is what all the trouble is about. Trying to look for answers, trying to find safety in thoughts about how it all will get better soon, how this brain fog, these altered perceptions and the diminished "brightness of mano and reasoning capabilities" will probably improve as time passes *is a very, very big mistake*, *it's a* ***deadly*** *trap* \- Because there's no such guarantee - I'm still hanging by a thread regardless, it's not my property after all: I borrowed it, Mara's the owner who'll decide what happens to it. To flee into such thoughts, is to take the bait, and on the other hand, to wave away the possibility that these circumstantial conditions (such as whatever physiological process it might be that 'restores' these mental reasoning capabilities again) could actually improve is yet another assumption rooted in aversion probably (doom thinking).
+
+I was thinking about this from AN 5.121:
+
+>"Bhikkhus, whatever weak and sick bhikkhu is not abandoned by five phenomena, this is to be expected for him: 'Before long, with the destruction of the influxes, he will abide having entered upon the liberation by mind and liberation by wisdom that is devoid of influxes, having for himself comprehended and realized it right in the present experience.'
+
+>"Which five?
+
+>"Here, bhikkhus, a bhikkhu abides maintaining perspective of non-beauty concurrently with the body, perceiving the repulsiveness of food, perceiving non-delight in the entire world, maintaining perspective of impermanence in all activities, and the perception of death is well-established internally for him.
+
+>"Bhikkhus, whatever weak and sick bhikkhu is not abandoned by these five phenomena, this is to be expected for him: 'Before long, with the destruction of the influxes …etc.… having comprehended and realized it, he will abide having entered upon it.'"
+
+Something about using the weakness & sickness stuck with me from this sutta. Maybe someone can go deeper in on this?
+
+EDIT: What's also anxiety inducing is coming from the assumption that I am entitled to a well-functioning mano, a well performing reasoning faculty (at least to the point of being able to contemplate the Dhamma) - and that this could simply be taken away whenever, to the point of not being able to practice the Dhamma anymore, or be on my way of practicing the Dhamma, so that all progress is basically impossible or halted - by any random event like hitting one's head, falling etc.
+
+EDIT 2: For this one I would appreciate some feedback as well: Suppose your brain is actually permanently damaged to a lesser or greater extent. **All** of the activities (saṅkhārās) - especially the most fundamental sankharas of lust, aversion and distraction - are only possible as an attitude *because* that brain (however much damaged) is still somehow functional & still sustains life (nāmarūpa & viññāṇa are still "leaning on each other like two sheaves of reed"). This is why *all activities are impermanent* (sabbe saṅkhārā aniccā) - precisely because any attitude, any leaning of citta, any upādāna is only possible because this brain that's liable to get turned to mush and is completely inaccessible to my *relative sense of control,* my intentions/my willpower is still there enduring without me doing anything about it, without me being able to 'prevent damage' from occurring, or 'repairing' any damage that might've already occurred. Any damage whatsoever that there might be - I am buried alive in, no intention can reach below the threshold of the brain that makes any of this possible and is in this or that neurological condition. Why is this liberating? Because there's nothing *I* can do about it & any activity is seen to be absurd when it is employed as an attempt to change anything about the fundamental situation of utter confinement. There's nothing to be concerned about as it's all going straight to the graveyard either way - what does it matter in which order, manner, severity etc. it breaks apart?:  (careful to not make *this* into some averse doom and gloom attitude).
+
+EDIT 4: **Broken pots**:
+
+"As clay pots made by a potter all end up being broken, so is the life of mortals." Snp 3.8
+
+"It’s like the vessels made by potters. Whatever kind they are, whether baked or unbaked, all of them are liable to break apart." SN 3.22
+
+"Realizing that this body is as fragile as a clay pot, and fortifying this mind like a well-fortified city, fight out Mara with the sword of wisdom." Dhp 40
+
+Thank you for reading.
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/oaj82ty/)** _2026-03-15 06:56:20_:
+    A good post which reminds me of this: 
+
+    >A dying man can only rely upon his wisdom, if he developed it. Wisdom is not dependent upon any phenomenon originated upon six senses. It is developed on the basis of the discernment of the same. That’s why when one’s senses start to wither and die, the knowledge of their nature remains unaffected. When there is no wisdom, there will be despair, in the face of death. Breathing Towards Death. 
+
+    Regarding the 'edit 2' part: 
+    The sankhāras are there in ignorance. Not understanding that one's actions and cares have not even the possibility of access over their own foundation, they *do* reach over and access it by mistake, although they cannot. This ignorant appropriation (and consequently being affected in return) is real and exists as such, to greater or lesser degree in everyone who is not an arahant. The task is to wear it away by sufficiently and repeatedly recognising the mistake, and stopping the actions and habits that uphold it. 
+
+    Therefore the only thing I would mention about this part (as a precaution more than a correction) is that it can definitely be the right way to think, **as long as that thinking does not become abstract.** 
+
+    I.e., it is one thing to have the idea 'even every upādāna is impermanent'; it is another thing to become actually aware of that very phenomenon of 'taking up' what cannot be taken up, finding it in concrete standpoints and paths of thought. (You mentioned some examples.) The former does nothing to free you from that upādāna; the latter is the direct way to undo it.  Avoid abstract thinking like the plague.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/oan1awi/)** _2026-03-15 21:14:50_:
+
+    *(In reply to LotusOfUpekkha):*
+    > Thank you Ayye.
+    >
+    > > it can definitely be the right way to think, **as long as that thinking does not become abstract**.... Avoid abstract thinking like the plague.
+    >
+    > A thought about this: Why are the Divine Messengers said to be "Divine"? Might one 'aspect' of their divine nature be that they serve to make **concrete** that which we otherwise keep comfortably **abstract**?
+    >
+    > When the Divine Messengers come knocking (or *hammering*), as it seems to be the case in my life now (and has been for a while even before this concussion) - they seem to send their message in *layers that can merge* into one ENORMOUS banner of your existential vulnerability that you cannot look away from without *severely burning* yourself the moment you think it's fine to distract yourself from it, even for a little while. This looking away, or perhaps more precisely: *the fundamental assumption that looking away is an effective strategy to 'deal with' the nature of the message*, is an activity (sankhāra) that can only exist because one is ignorant to greater or lesser degree about the impossibility of one's ability to alter their nature.
+    >
+    > In the passage of AN 5.121 I quoted, it is mentioned that one "abides maintaining perspective of non-beauty concurrently with the body". - Never in my life have I been so let down, disappointed and disgusted with that which I previously found a sense of safety and comfort in (this body, these faculties). And I think that if one abides with this peripheral recognition of how utterly *disgusting* this situation as a whole is - how disgusting it is to *rely on* a body for comfort or safety and how revolting it is that *anything at all* that is experienced via these senses *has* to come through this unreliable, mushy, deteriorating, stinking thing - being in Mara's control is the most disgusting thing there is. It seems like 'not being abandoned' by even just this first of the 5 phenomena mentioned in that sutta, is enough to 'not be abandoned' by them all. They seem to be inclusive of one another - pointing to the same truth.
+    >
+    > Another question: What is concrete thinking? I try to describe it as "thinking *concurrently with* the pressure" - thinking about what is pressuring one *while* one is pressured without looking away from that pressure at any point. How would one concretely think about/contemplate death rather than in abstraction?
+    >
+    > EDIT: (apologies for it becoming quite long, but I wanted to add some thoughts about this part:)
+    >
+    > >they *do* reach over and access it by mistake, although they cannot. This ignorant appropriation (and consequently being affected in return) is real and exists as such, to greater or lesser degree in everyone who is not an arahant
+    >
+    > This is basically what bhava is, right? By conceiving direct access to that which cannot ever be accessed, one maintains/increases/fuels their (sense of) being - an existence/being - that is real as such- is conceived due to one's assumption of 'the external' to that which is its source/foundation/origin? And so something that doesn't need "life" (is gratuitous) is given a life that it doesn't actually have - it only exists as such due to one's conceiving which contradicts the nature of things?
+    >
+    > So practically speaking (in an attempt to make it more concrete): if one's head feels like a strong man is tightening a tough leather strap around it, and there's an unpleasant feeling simultaneously enduring - if there's still *any leaning whatsoever* of citta (which would be an activity - a sankhāra) there would simultaneously also always be bhava there - one cannot 'exist' without the other - an existence of some kind HAS to be there always as long as leaning is not fully uprooted. Does that make sense?
+
+    >What is concrete thinking? 
+
+    In the briefest terms, it is thinking that is truthful to the practical reality of a thing. 
+
+    >I try to describe it as "thinking *concurrently with* the pressure" - thinking about what is pressuring one *while* one is pressured
+
+    Broadly that's correct, certainly much better than theory that is completely divorced from anything you are experiencing. 
+
+    But it depends: if you are thinking *about* what is pressuring you through a theoretical lens that you have learned or reasoned, that would still not be quite concrete (enough). 
+
+    If you are letting what is pressuring you endure for what it is; not trying to explain it, nor actively distracting yourself from it - then the thought of that pressuring thing that endures there on its own is a concrete thought.
+
+    So when you said:
+
+    >without looking away from that pressure at any point. 
+
+    And: 
+
+    >you cannot look away from [it] without *severely burning* yourself the moment you think it's fine to distract yourself from it, even for a little while.
+
+     If by 'looking away from it' you mean purposefully engaging in distractions and sense objects in order to not think about it, then yes, absolutely. 
+
+    But if you mean letting yourself lose sight of it, think about other things, and not have it sharply in front of you nor feel the pressure on account of it - you can indeed forget about it in that sense, and that's fine. In fact it's not optional, unless you were to make a fabricated effort to constantly keep it in mind. (Which you will not be able to maintain.) Letting yourself forget about it is how you don't make it into something else you have to *do*.  To use the example you asked about: 
+
+    >How would one concretely think about/contemplate death rather than in abstraction?
+
+    As above. When the knowledge that you will die comes up on its own (which it will sooner or later), simply not panicking, running away or turning a blind eye to it. And when the memory of it fades, train yourself to not equate its absence with deluding yourself that you will live forever and can afford to delight in sensuality. 
+
+    It doesn't require more active effort than that, and you don't need to keep it in front of you all the time.
+    Doing so would be already coming out of craving, so any 'training' you try and do on such basis cannot extinguish craving. 
+
+    >Why are the Divine Messengers said to be "Divine"? Might one 'aspect' of their divine nature be that they serve to make **concrete** that which we otherwise keep comfortably **abstract**?
+
+    Definitely. But in line with the above, 'concrete' does not have to mean 'actual', as in actual sickness for example. You can have a very concrete reminder of the unreliability of your own body through just hearing about or seeing a sick person. The divine messengers are literally everywhere, and people don't see them as such only because they are too intoxicated. 
+
+    One should find the **concrete** reminders of the body's fallability without waiting for **actual** failing of the body. 
+
+    (Of course, actual damage or illness can also be a divine messenger, which is fine - but one should aim to get out of the range of such messengers before they become too much and it is too late.) 
+
+    >And I think that if one abides with this peripheral recognition of how utterly *disgusting* this situation as a whole is - how disgusting it is to *rely on* a body for comfort or safety and how revolting it is that *anything at all* that is experienced via these senses *has* to come through this unreliable, mushy, deteriorating, stinking thing - being in Mara's control is the most disgusting thing there is. 
+
+    Yes, that's how it is. But it's only a problem to the extent that one still depends on it and expects it to be somehow pleasant and safe. 
+
+    >It seems like 'not being abandoned' by even just this first of the 5 phenomena mentioned in that sutta, is enough to 'not be abandoned' by them all. They seem to be inclusive of one another - pointing to the same truth.
+
+    Exactly. Same goes for most similar lists you find in the suttas - they tend to be different aspects or ways of indicating one dhamma, and to understand/establish one means understanding all. 
+
+    The last question I will put aside for now because it is in a slightly different topic that is not as practically relevant, and this is already quite a lot. 
+    
+
+---
+
 **r/HillsideHermitage** | Posted by Financial-Wallaby316 _2026-03-06 16:11:58_
 ### [Wrong meditation as an aid for establishing virtue and sense restraint?](https://www.reddit.com/r/HillsideHermitage/comments/1rmi6pa/wrong_meditation_as_an_aid_for_establishing/)
 
