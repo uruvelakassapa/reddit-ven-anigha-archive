@@ -9,6 +9,36 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2026-03-23 06:26:47_
+### [Weakening Attachment](https://www.reddit.com/r/HillsideHermitage/comments/1s199dl/weakening_attachment/)
+
+Hello, I am fairly new In my practice trying to put my best in the understanding of the dhamma I keep noticing how an enormous amount of time, effort and energy goes into distractions. I see this as a huge hindrance. I could be directing this energy to a way more profitable strategy long term or just do nothing for the sake of practice, but the attachment is strong. Any real effort is unpleasant, because it's not easy, it doesn't matter how difficult it is, as long as it's not easy it is very unpleasant and provokes a ton of aversion towards the things not going smoothly. I find myself stopping very often to see what is it that the mind is afraid of, same way I stop to contemplate this hindrance of constantly being distracted, it creates a strong emotional response and clearly the mind is not ready to let go, even thinking about letting go of craving is unbearable, like a full stop into a wall. It seems like an abyss in which there cannot be anything good. At least that is the picture the mind is painting.
+
+I wonder "where do I start?", "why am I still so reluctant to restraint?". Could I be still lagging behind with the five precepts, is that a thing? I expected restraint to become easier as understanding of the dhamma deepens. What could I be doing wrong that is stopping progress?
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1s199dl/weakening_attachment/oc9mmfn/)** _2026-03-24 20:11:50_:
+
+    >I wonder "where do I start?", "why am I still so reluctant to restraint?"... What could I be doing wrong that is stopping progress?
+
+    1. Start with clarifying what is your own goal. And don't forget it. 
+
+    2. You answered it: because restraint requires effort and the mind perceives relinquishment as an abyss.  
+    Therefore you need a very good reason (i.e. a goal that is more important than anything else in the world) to stick to it regardless. 
+      
+    3. Being impatient and wanting results without the effort. 
+
+    If a goal is sufficiently important to you, then no amount of time, effort or relinquishment can be too much for the sake of reaching it. 
+
+     
+
+     
+
+    
+
+    
+
+---
+
 **r/HillsideHermitage** | Posted by craveminerals _2026-03-16 16:53:33_
 ### [Arahants laughing](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/)
 
@@ -89,6 +119,26 @@ Edit: I realized the title is a bit misleading as the pain is actually part “m
     Edit: also, it is worth noting things that immediately relieve the unpleasant feeling can also be part of the right practice. The most obvious example is that if someone is miserable on account of shame and remorse for something they have done, the right practice is to confess it, openly and truthfully. This will be a relief, and that's completely fine. 
 
     It makes all the difference whether the relief comes from hiding from the source of the pain or from admitting it. The first one is what I am saying will hinder the practice. How something feels is not a reference for its rightness or wrongness.
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1ruhg22/how_do_you_practice_despite_constant_emotional/oc8s7hx/)** _2026-03-24 17:50:11_:
+
+    > I had the belief that any kind of relief of the mental/emotional distress should (ideally) be avoided as it’s an action done out of aversion (to the unpleasant feeling).
+
+    That is understandable, because it is very easy to hear instructions such as what I repeated above: 'do not try to get rid of the unpleasant feeling', and think it means 'do not do anything that relieves the unpleasant feeling'. 
+
+    That's essentially what self-mortification is,  whereby you conflate 'not acting out of aversion' with 'making the pain worse'. 
+    It is something I also had to unlearn.  
+
+    It's not any relief of the pain that should be avoided; it's the **attitude and action** of resisting, avoiding and hiding from the pain; OR that of actively maintaining it in self-punishment. 
+
+    It's also possible to have unwholesome resistance in regard to things that are neutral or pleasant when they aren't on your terms, or if they require you to give up a strong habit or comfort zone. 
+
+    So either way it is the unwholesome actions that are to be avoided, not feeling of relief or feeling of pain. 
+
+    (I am adding this just in case it helps clarify the point further, even though it was already stated in brief. It was hard to be sure exactly what you were asking at first, as the initial question was quite broad, so this helps me be more specific.) 
+     
+
+    
+    
 
 ---
 
