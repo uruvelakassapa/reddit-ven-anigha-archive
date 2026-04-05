@@ -14,6 +14,260 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by tejveeer _2026-04-01 18:23:51_
+### [An attempt to clarify HH's stance on the relationship between sotapatti and celibacy](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/)
+
+Due to some things that happened this week, I broke restraint with respect to social media, so I thought I may as well post this and then go back to restraint.
+
+A few weeks ago, in order to substitute coarse entertainment with finer entertainment, I thought to clarify the debates around HH's position on celibacy and sotapatti. I've written and uploaded my understanding of the debate [here](https://tejveeer.substack.com/p/an-attempt-to-clarify-hhs-stance), in case it is of use to others.
+
+>My aim in this post is to attempt to clarify HH’s stance on the relationship between sotapatti and celibacy. In a [previous article](https://www.hillsidehermitage.org/stream-entry-requires-celibacy/), HH posited that sotapatti requires celibacy, but were faced with multiple objections from others. I believe that the majority, if not all, of those objections were not well founded because they didn’t understand the exact relationship that exists between sotapatti and (non-)celibacy for HH. As a result, the objections targetted positions that did not address their central claim. In writing this post, I wish to introduce exactness to that relationship.
+
+>In order to do so, I will begin by examining goals and what kinds of acts exist in the pursuit of goals. After having developed two goal-act taxonomies, I will apply them to the relationship between celibacy and the goal of sotapatti. This will allow me to express what I take to be HH’s position in three claims. I will then present an analogy in an attempt to further clarify the sense of those three claims. After doing so, I’ll address common objections to HH’s initial position and argue that they don’t address HH’s claims. Lastly, I will present a summary of the three claims by unwrapping the special terms used therein and framing them in more contemporary expressions.
+
+>As a side note, it’s worth mentioning that I’m currently restraining myself from using youtube, reddit, and suttacentral as part of my larger restraint from entertainment. Because of this, I will not be able to offer sources of claims and objections and will instead have to rely on memory. This does not contract much from the overall post, however, since the central objective here is just to help me make sense of HH’s position.
+
+Would be interested to hear any critiques on this.
+
+It's worth noting that this is currently just the first draft. A lot of the wording here is quite awkward and was fixed in the Appendix. In the second objection, I also realized that to properly present it, I would've had to introduced things that I didn't have the time to introduce, as such it remains incomplete. Do note that this post is not concerned with *justifying* their position; only *clarifying it*, and in part showing that the objections I commonly saw failed to see the central point.
+
+I had presented this to Ven. Anigha privately on discord, and bhante stated that it was correct for the most part. There was apparently an issue that existed with a noncentral part of the post, but I no longer recall what that issue was that bhante stated - I cannot currently go on discord as I've disabled my accounts for the week.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/odwsx0b/)** _2026-04-02 16:36:17_:
+    The point can be expressed much more concisely: if your practice does not include celibacy, then either your view of the practice is wrong (i.e., it is not geared towards purifying your mind from craving), or your commitment to practicing along the right lines is still underdeveloped (lack of a sense of urgency). Both of these are obvious obstructions to stream entry. 
+
+    For a *sotāpanna* the former is not possible, but the latter will still stop them from making further progress.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe0ol5m/)** _2026-04-03 05:07:33_:
+
+    *(In reply to tejveeer):*
+    > Hello bhante, it's worth clarifying who the intended audience was for this writing. They were people like myself who require a large degree of justification of the stated claims before actually being in a position where they can be adopted.
+    >
+    > From my investigations, it seems everyone requires some form of justification for a claim before the option to assent to the claim becomes apparent. What form of justification that is, and the extent that is required, appears to differ based on individuals. For some, simply the perception that 'this individual is confident in making this claim' is a sufficient justification for assent to become available, whereas for others that doesn't necessarily have to be the case. They might be convinced on account of empirical evidence of the claim, or that claim coming from a reputable institution, or that claim being grounded in a text they revere, etc.  
+    >
+    > So we could distinguish between two kinds of individuals: (a) one for whom assent becomes available upon the perception of confidence; (b) one for whom assent becomes available upon investigation of what is stated. For the sake of reference, a person who falls into (a) I can call *confidence-oriented*, and into (b) I can call *investigation-oriented*.
+    >
+    > In my case, I was targetting investigation-oriented people from an anglophone background where there appears to be a lot of emphasis on dissecting minute aspects of claims, the premises from which they were deduced, and the justification of those premises themselves. For instance, someone from this background may identify the claims made in your comment as follows:
+    >
+    > 1. If your practice does not include celibacy, then your view of the practice is wrong
+    > 2. If your practice does not include celibacy, then your commitment to practicing along the right lines is still underdeveloped
+    > 3. Wrong view and underdeveloped commitment are obvious obstructions to stream-entry
+    >
+    > Their line of reasoning may proceed as follows. What is meant by 'celibacy' exactly? What is meant by a practice being 'wrong'? What are the grounds for the implication? In response to the first and second question, they may proceed to ask: 'why does celibacy/wrongness have to mean what you take it to mean?' And to the third, if suttas are cited, they may ask (a) how that sutta is interpreted; (b) why it's interpreted that way; (c) whether you're justified in interpreting it that way; (d) whether that interpretation actually supports the claim.
+    >
+    > This is just for the first claim. They may then proceed through all three claims and see that no such minute considerations have been taken into account and that therefore the author in question is just overconfident, dogmatic, and fundamentalist.
+    >
+    > HH's interaction on youtube and reddit have been with investigation-oriented people likely from an anglophone background, but the way HH presents their views are actually appropriate only for confidence-oriented people. This is because HH makes no attempt at any rigorous justification.
+    >
+    > I would distinguish between the following kinds of claims that HH makes:
+    >
+    > 1. Bare claims: no justification is provided for these
+    > 2. Justified claims: justification is provided for these; within these we have:
+    >    1. Claims justified through suttas (sutta-justified claims)
+    >    2. Claims justified through intuition (intuition-justified claims)
+    >
+    > I would not be surprised if about 70% of the claims HH makes now are bare claims and the rest are justified or some other kind. Within the justified claims, when HH does make sutta-justified claims, no attempt is made to actually connect the claim (that 'the sutta means X') with the sutta cited as a justification for X; all that's presented is (a) the claim *that* 'the sutta means X' and then (b) a copy of the sutta that supposedly justifies X.
+    >
+    > What a lot of the anglophone investigation-oriented people would be looking for, from what I see, are claims justified through suttas *deductively,* with considerations of the anatomy of the claims, and with a consideration of interpretative methodology (how should a text be read such that the meaning intended by the author is actually arrived at?). All are absent in HH.
+    >
+    > When this is combined with claims that go against the mainstream tradition and are often framed in a way that shocks the reader, it seems this subset of people simply stop taking the whole of HH seriously (see the consensus on suttacentral and [this post](https://www.reddit.com/r/streamentry/comments/1qonf5t/questioning_hillside_hermitage_based_on_the/)). My aim in writing the post was in part to present the same position in a manner that would seem more plausible to this audience.
+    >
+    > Provisionally, I may distinguish between two periods of HH: the current Slovenian period, and previous Sri Lankan period. There appear to be genuine differences between the two.
+    >
+    > In the Sri Lankan period, Ajahn Nyanamoli put a significant emphasis on referential precision & justification. Ajahn would investigate what the references of a lot of words were, and what their characteristics were. Then claims involving words with those references were intuitively-justified often with deductive reasoning involved. Those claims were intuitied based on an aspect of experience itself. 
+    >
+    > The Slovenian period is marked instead by a pragmatic attitude which is embodied through the use of metaphors (for the citta primarily) and very little drawn-out emphasis on justification & deductive reasoning. Now the excessive use of the metaphor is leading almost to what to newcomers would appear as mysticism as the citta has become its own breathing, living, moving animal that has properties that are somehow only disclosed to special individuals.
+    >
+    > The style in the current period appears even less equipped in my eyes to adequately present views to HH's interlocutors because of how orthogonal it is to the general style.
+    >
+    > So to summarize, because, in my eyes, HH hasn't sufficiently distinguished between the method of presentation appropriate to confidence-oriented people and investigation-oriented people, I thought I should perhaps present the same view in a manner that may appeal to that latter subset.
+
+    You're essentially saying that it's necessary to cater to people who from the start are poised to not put the teachings into practice. With that I don't mean "investigation-oriented" people as a whole—using one's reasoning is not inherently wrong—but people who refuse to try to see what we are pointing at in their individual experience afflicted by suffering (which is what gives rise to faith). 
+
+    That refusal is not going to end once enough justifications are given because it's an emotionally rooted habit. They will demand more rigor in some other respect, and meeting that demand will only help them procrastinate approaching the Dhamma at the level where it is (presently evident and verifiable).
+
+    It's the same principle that is described [here.](https://suttacentral.net/mn63/en/bodhi?lang=en&reference=main&highlight=false#sc8)
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe0p1qn/)** _2026-04-03 05:11:12_:
+
+    *(In reply to jareb):*
+    > > if your practice does not include celibacy, then either your view of the practice is wrong (i.e., it is not geared towards purifying your mind from craving), or your commitment to practicing along the right lines is still underdeveloped (lack of a sense of urgency). Both of these are obvious obstructions to stream entry.
+    >
+    > It would then follow that entering the stream is impossible for laypeople who observe the five precepts. Fortunately, the Buddha did not consider this to be the case.
+
+    > the Buddha did not consider this to be the case.
+
+    What is this belief based on?
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe77a8i/)** _2026-04-04 04:19:52_:
+
+    *(In reply to jareb):*
+    > It is based on facts, not believes.
+    >
+    > For example, in MN 14, such a fact is contained in the Buddha’s statement that even the understanding of the danger of sensuality at the level of a noble disciple is insufficient for the complete and final abandonment of sensuality, and that one additional factor is required; furthermore, that without these two factors together, even a noble disciple may still indulge in sensuality, and the life of a householder will not lose its significance for him.
+    >
+    > [MN14](https://suttacentral.net/mn14/en/sujato)
+    >
+    > > “Mahānāma, there is a quality that remains in you that makes you have such thoughts. For if you had given up that quality you would not still be living at home and enjoying sensual pleasures. But because you haven’t given up that quality you are still living at home and enjoying sensual pleasures.
+    > > 
+    > > Sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks. So, Mahānāma, even though a noble disciple has clearly seen this with right wisdom, as long as they do not achieve the rapture and bliss that are apart from sensual pleasures and unskillful qualities, or something even more peaceful than that, they can return to sensual pleasures. But when they do achieve that rapture and bliss, or something more peaceful than that, they do not return to sensual pleasures.
+
+    > even a noble disciple may still indulge in sensuality, and the life of a householder will not lose its significance for him.
+
+    Yes, and as I wrote in the second alternative above, that would come from being under-committed to the training.
+
+    The Buddha went on to give a long exposition to Mahānāma on the dangers of sensuality because not giving it up is precisely what was [holding him back](https://suttas.hillsidehermitage.org/?q=mn16#mn16:8.1_mn16:8.4).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe7rrlw/)** _2026-04-04 07:09:59_:
+
+    *(In reply to tejveeer):*
+    > Hello bhante, I've been unable to restrain from using internet, and rather than going on random subreddits and spilling out further I've decided I'll allow myself to remain on this subreddit only, and then restart after confession.
+    >
+    > I was thinking about what you wrote and the sutta you presented. I'll present my thoughts in case they are useful to anyone. I'll denote p as paragraph and s as sentence (px.sy denotes paragraph x, sentence y). It seems there are the following claims here:
+    >
+    > 1. That it's necessary to cater to people who refuse to practice because of attachment to their own views (p1.s1).
+    > 2. That if a person is refusing to practice, then if they are presented satisfying justifications, they will still demand more rigor rather than practice (p1.s2, p2.s1).
+    >     1. That satisfying that new demand will only assist them in procrastinating (p2.s2).
+    >
+    > Claim 1 is a view attributed to me, and claim 2 appears implicitly to held by yourself. I agree with claim 2 & 2.1, but there seems to be something off in the context in which it's stated; I'll try to make this more exact. Then I'll address claim 1.
+    >
+    > Within investigation-oriented people, we should distinguish between those whose refusal to practice is due to (a) their attachment to their own views, and (b) their inability to find sufficient justification for the practice. For reference purposes, a person who is investigation-oriented of the former kind I can call an *attached investigator*, and the latter a *constrained investigator*.
+    >
+    > The latter is said to be constrained because they lack sufficient grounds for the claim; the grounds presented to them are not perceived as sufficient for the claim in question. They are constrained by this perception because don't know whether the cost of the practice (suffering from restraint), is worth the benefit (freedom from suffering). This is because they aren't able to perceive any appropriate initial grounds that may indicate to them that that benefit can indeed be received from the cost.
+    >
+    > The two kinds of investigators don't have to be mutually exclusive. A constrained investigator who is very attached we can call an *attached constrained investigator* and one who's not very attached we can call an *unattached constrained investigator*.
+    >
+    > Claim 2 can thus be made more exact, stating instead as follows:
+    >
+    > > That if an attached investigator is refusing to practice, then if they are presented satisfying justifications, they will still demand more rigor rather than practice
+    >
+    > In which case that is likely true. But, we can consider the other expression of claim 2 with the other kind of investigator:
+    >
+    > > That if an unattached constrained investigator is refusing to practice, then if they are presented satisfying justifications, they will still demand more rigor rather than practice
+    >
+    > In which case this is likely not true. A case in point would be myself. I wasn't extremely attached to a particular view of practice, but in the initial years, none of the justifications HH presented made sense to me. It was only last year when I realized that the taking up of the practice doesn't need to be rigorously justified, and that I can instead justify it practically. This opened up the possibility of setting my eyes completely on restraint, which then very quickly led to seeing a lot of other things directly that now allow me to justify pretty a lot of what HH says.
+    >
+    > A suggestion from someone here may be that such individuals should just stop being constrained; that they should just stop looking for justifications that demand such rigor. But that's like telling someone to stop looking for justification through whatever means they look for it. The primary means others justify beliefs is through other people (are others believing this? do they think it's fine?). The fact that these individuals have unnecessarily high standards of rigor is factually a problem, and is like the sutta itself states.
+    >
+    > It could be thought of as a disease of its own. On the one hand time is passing away, yet on the other, the individual is unable to decide because of standards that can't be met without actually undertaking the practice.
+    >
+    > But just asserting that they have high standards doesn't actually solve the problem. The suggestion in that case is simply idealistic; a realistic suggestion would have to involve an actual proposal for how to proceed with undoing that high standard.
+    >
+    > Now I can also clarify the sense in which I held claim 1, which is as follows:
+    >
+    > > That if an unattached constrained investigator is presented adequate justification, then it is likely that they will accept that view
+    >
+    > I wouldn’t make the claim that it’s necessary since asserting that ‘X is necessary’ is far stronger than asserting simply X (see the [SEP article on Modal Epistemology](https://plato.stanford.edu/entries/modality-epistemology/)). Now I can be even more exact regarding what my aim in the writing was: it was to present adequate justification for the HH view on celibacy for unattached constrained investigators with an anglophone background.
+
+    >They are constrained by this perception because don't know whether the cost of the practice (suffering from restraint), is worth the benefit (freedom from suffering). This is because they aren't able to perceive any appropriate initial grounds that may indicate to them that that benefit can indeed be received from the cost.
+
+    Yes, and my point is that they won't perceive those grounds through more rigorous argumentation, so it's a waste of time and effort for both parties.
+
+    The daunting difficulty of the practice will only be taken on if a person feels that the alternative is not only worse, but inescapable: "I am prey to suffering" is seen acutely and personally, as a necessary property of one's entire existence. Seeing that liability automatically makes theoretical justifications for the practice redundant, just as you don't need a logical proof to justify trying to remove an arrow from your chest.
+
+    If the problem does not manifest to one on that level, then one's commitment will not be sufficient to go "against the grain" of one's personal desires and obsessions. Thus, no matter how closely one follows the Suttas on paper, one will not be committed to the actual Dhamma but to something that merely sounds like it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe8o5j4/)** _2026-04-04 11:54:43_:
+
+    *(In reply to jareb):*
+    > The second factor for abandoning sensuality right from the same sutta:
+    >
+    > > ‘But I am capable of experiencing perfect happiness for one day and night without moving my body or speaking. I am capable of experiencing perfect happiness for two days … three days … four days … five days … six days … seven days. What do you think, reverends? This being so, who lives in greater pleasure, King Bimbisāra or I?’
+    > > 
+    > > ‘This being so, Venerable Gotama lives in greater pleasure than King Bimbisāra.’”
+    >
+    > Could it be that both factors necessary for the complete abandonment of sensuality are accessible to an ordinary person, if they are inaccessible even to a noble disciple at the level of Mahānāma? 
+    >
+    > For from HH’s views follows not only this, but also the even more absurd assertion that both of these factors are accessible and necessary for entering the stream—which, according to HH, is impossible without the final abandonment of sensuality—yet after entering the stream, they are somehow lost.
+
+    You are conflating "being unable to return to sensuality" with practicing in line with the Dhamma.
+
+    Being celibate and withdrawn (which is what we have stated as a requirement) doesn't mean you are beyond sensual desire. It means you don't *give into it,* which is how you [go against the stream](https://suttacentral.net/an4.5/en/bodhi?lang=en&reference=none&highlight=false) and make progress towards the cessation of craving.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe8yw6l/)** _2026-04-04 13:03:48_:
+
+    *(In reply to jareb):*
+    > Mahanama, a noble disciple, literally asks the Buddha in the sutta why he is still giving in to sensuality, even though he has achieved the right view as a householder and understands the dangers of sensuality.
+
+    That doesn't contradict the point at all. 
+
+    Mahānāma was lacking in diligence, which as I mentioned in the first comment above, is possible for a noble disciple. Seeing that lack of diligence, the Buddha spoke about the dangers of sensuality hoping that Mahānāma would gain enough of a sense of urgency to fully give up wrong intention.
+
+    If his enjoyment of sensuality was not the cornerstone of his lack of diligence—and was instead a dismissable symptom of not developing something else—the Buddha would've given him a discourse on that other thing instead of on the dangers of sensuality.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe9mr38/)** _2026-04-04 15:11:33_:
+
+    *(In reply to jareb):*
+    > The problem is that the Buddha is mentioning something very different to a lack of diligence: he is mentioning two factors, the first of which — an understanding of the dangers of sensuality — is already present in Mahanama.
+    >
+    > When the Buddha *reminds* him of the dangers of sensuality, he is giving Mahanama a push to restore his mindfulness.
+    >
+    > At the end of the sutta, the Buddha describes to him the effects of developed mindfulness: the happiness and pleasure that are superior to sensuality. Mahanama has not yet experienced this happiness and pleasure, but as a noble disciple with the right view, he understands it.
+    >
+    > The lack of mindfulness and experience of the escape from feelings, Venerable.
+    >
+    > For an ordinary person, this would be a lack of mindfulness, knowledge, and understanding of the existence of the escape from feelings other than sensuality. This means that the same two factors are at play for both an ordinary person and a noble disciple.
+    >
+    > An ordinary person who follows the five precepts gives in to sensuality and still not a noble desciple himself not because they are not celibate for long enough, but because the pleasure of sensuality is the only escape from displeasure they know of, due to ignorance.
+    >
+    > The ignorance, Venerable.
+
+    So, you're proposing that it's not a problem for a person to engage in sensuality, maintaining their reliance on that form of happiness, when they don't know a better form of happiness. They are free to continue to do so; they just need to train in "mindfulness"—an exercise that is clearly done at the expense of acknowledging that craving is the root of suffering, and that wrong intention must be abandoned. 
+
+    That exercise will somehow lead to the same result as the mindfulness that the Suttas do teach—mindfulness which *is* geared towards abandoning craving, and would thus be along the lines of [remembering to not give in to sensual urges whenever they arise](https://suttas.hillsidehermitage.org/?q=sn35.246#sn35.246:1.1_sn35.246:1.11). This "mindfulness" also bypasses [the Buddha's statement](https://suttacentral.net/mn75/en/bodhi?lang=en&reference=main&highlight=false#sc33) that someone who still enjoys sensuality cannot abide in internal calm.
+
+    Does that not sound like magical thinking?
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oeazho7/)** _2026-04-04 19:10:47_:
+
+    *(In reply to jareb):*
+    > No, that's not what I'm suggesting. In fact, until now, I haven't suggested anything. I have merely pointed out that the claim that celibacy is necessary for entering the stream is refuted by the facts in the suttas. The idea that celibacy is a prerequisite for entering the stream does not come from the Buddha. As long as this fact is not acknowledged, HHs essentially fail to meet their own criteria, which they have articulated so beautifully and categorically on numerous occasions, and which they have recommended be applied to other teachers and their interpretations of the suttas.
+    >
+    > As you know, Venerable, without acknowledgement, there can be no correction.
+    >
+    > What is truly necessary is observing the five precepts and accepting right views with taints as right views with taints. On this basis, it is possible to study and investigate what truly leads to the right views of the noble ones by searching for one's own wrong views and replacing them with the right views of the noble ones. Or how about eliminating a wrong understanding of the aggregates of clinging, i.e. the first noble truth? Or dependent origination - the second and the third? In other words, what about the elimination of the ignorance?
+
+    > The idea that celibacy is a prerequisite for entering the stream does not come from the Buddha. 
+
+    The idea that it isn't a prerequisite doesn't come from the Buddha either.  Both are interpretations.
+
+    > In other words, what about the elimination of the ignorance?
+
+    Denying non-sensuality as a necessary part of the practice is undeniable ignorance of the four noble truths here and now: following the most blatant form of craving while trying to solve the problem means you ignore that craving is the origin of the problem.
+
+---
+
+**r/HillsideHermitage** | Posted by spiffyhandle _2026-04-01 11:39:31_
+### [Right mindset to benefit from the confession server?](https://www.reddit.com/r/HillsideHermitage/comments/1s9i2cq/right_mindset_to_benefit_from_the_confession/)
+
+I was in the confession server for six weeks, but it didn't help me. Ironically, it made my practice worse. I wonder what I did wrong. Some people say they benefit a lot from it. 
+
+First, I found it neurotic to keep a list of every instance of breaking a precept. I'd prefer to go by memory, but the instructions say that I must report every violation. I cannot remember every violation unless I write them down. 
+
+Second, is there a helpful mindset to approach the confession server with? I joined the server with a vague hope that it would be helpful. At first, I tried really hard to keep the precepts because I thought it was embarrassing to admit to others that I broke them. But after two weeks, I stopped being embarrassed. Then, I gradually slid into breaking precepts more and more because I started with a weak internal reference point **and** I lost my external reference point (embarrassment). Something about reading other people's confessions made me feel like my own violations were more acceptable.
+
+Since leaving, I've found some improvement in precepts through Uposatha. I find I can keep the precepts for one day and then that has momentum into the rest of the week. And I'm starting to experience why the precepts are important and how they relate to my mind.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9i2cq/right_mindset_to_benefit_from_the_confession/odpi2lw/)** _2026-04-01 15:13:00_:
+    >  I'd prefer to go by memory, but the instructions say that I must report every violation.
+
+    The rule says:
+
+    > Make sure to list every transgression that you recall, and not only the ones you think are important. 
+
+    The point being, *when* you recall something that is clearly a transgression, you confess it instead of giving yourself the chance to explain away the confession as not necessary in that particular instance. So the rule is "don't intentionally cover things up" and not "don't accidentally forget anything."
+
+    > At first, I tried really hard to keep the precepts because I thought it was embarrassing to admit to others that I broke them. But after two weeks, I stopped being embarrassed. Then, I gradually slid into breaking precepts more and more because I started with a weak internal reference point and I lost my external reference point (embarrassment). Something about reading other people's confessions made me feel like my own violations were more acceptable.
+
+    It's a common misconception that confession helps by producing an external sense of embarrassment. But that embarrassment is indeed quite ephemeral and won't take you very far.
+
+    The right shame (*hiriottappā*) comes from failing at something that you were sincerely devoted to (hence *saddhā* comes before *hiri* and *ottappā* in the list of five powers). The external act of confessing cannot by itself ensure that you are sincerely devoted to purifying your conduct, nor that the right sense of shame and the resulting effort arise.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9i2cq/right_mindset_to_benefit_from_the_confession/oe11dr8/)** _2026-04-03 06:53:23_:
+
+    *(In reply to _Ulu-Mulu_):*
+    > Bhante, I have the question about the right shame.
+    >
+    > I had recently some very strong feeling, the sila became of much more importance to me. Then I cheated on some online test and I felt a deep anxiety and stress due to this (due to acting against the sila). Due to this intensive state it become much clear to me how much benefit is to be gained from acting with virtue and that there's alot of pain to be gained from acting against it (I tried to keep the sila seriously for quite a longer time before then of course).  
+    > Is this *hiriottappā*  then? I mostly wonder about the the anxiety there if it should be felt this way.
+
+    > Is this hiriottappā then? I mostly wonder about the the anxiety there if it should be felt this way.
+
+    Potentially. The shame needs to come from feeling that you failed yourself by doing what unavoidably harms you, not from having failed in the eyes of someone or something external.
+
+---
+
 **r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2026-03-23 06:26:47_
 ### [Weakening Attachment](https://www.reddit.com/r/HillsideHermitage/comments/1s199dl/weakening_attachment/)
 

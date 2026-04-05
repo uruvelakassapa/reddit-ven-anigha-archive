@@ -7606,7 +7606,7 @@ If not, is there any conceptualization of what does come from it available that 
 
 (Invite link updated on 15/05/2025)
 
-I've created a [Discord server](https://discord.gg/xCRfqASXKb) for people who want to commit to the very valuable practice of confessing whenever they break a precept. It is inspired by the core principles of the regular, compulsory confession that the Buddha established for all monastics.
+I've created a [Discord server](https://discord.gg/eqTuUFRjm) for people who want to commit to the very valuable practice of confessing whenever they break a precept. It is inspired by the core principles of the regular, compulsory confession that the Buddha established for all monastics.
 
 ***Upon joining, please read the rules.***
 
@@ -7914,6 +7914,12 @@ The central rule that cannot be externally enforced and must rely on each user's
     > Is it worthwhile to take up the precept knowing I will play board games in specific circumstances and confess that or should I wait until I will keep it unconditionally?
 
     Taking it on would still be more beneficial than allowing board games *and* other forms of entertainment as well. If you continue doing so, just don't cover up the fact that you're playing board games out of weakness, not because it's not ultimately a hindrance. Regard it as a transgression still.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/odgggzc/)** _2026-03-31 06:41:14_:
+
+    *(In reply to Foreign-Hope-9425):*
+    > Venerable, would on this account then abortion fall under intentionally ignoring signs that one is unintentionally killing?
+
+    Abortion is simply intentional killing.
 
 ---
 
