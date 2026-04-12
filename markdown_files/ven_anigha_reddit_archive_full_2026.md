@@ -14,6 +14,232 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by spiffyhandle _2026-04-08 11:50:42_
+### [Clarification of "no high and luxurious beds" precept?](https://www.reddit.com/r/HillsideHermitage/comments/1sfqklp/clarification_of_no_high_and_luxurious_beds/)
+
+Is the 8th precept only about what I deliberately use for sleeping at night and deliberate naps during the day? Or would it also prohibit using comfortable couches and recliners during the day? Would it prohibit laying awake on a high or luxurious bed but NOT sleeping on it?
+
+**I don't understand the intent of the precept so I can't gauge its particulars.** I've looked at references to sleep in the vinaya and suttas and I'm not discerning a universal principle.
+
+I looked in the virtue wiki and all I saw was 
+
+> "If the seven precepts are your default, then on Uposatha days you would up the ante and keep the full eight precepts. This would add not sleeping on a high and comfortable bed and not eating past noon."
+
+In the talks to lay people the Buddha says you observe the 8 precepts because you're emulating an arahant. 
+
+> As long as they live, the perfected ones give up high and luxurious beds. They sleep in a low place, either a cot or a straw mat. I, too, for this day and night will give up high and luxurious beds. I’ll sleep in a low place, either a cot or a straw mat. I will observe the sabbath by doing as the perfected ones do in this respect.’ 
+
+The Vinaya, which goes beyond practice and takes into account social norms and maintaining good relationships with lay people, it prohibits having beds that with legs that are too high and also stuffed benches and couches. The connection between a height of a bed and it's comfort makes no sense to me. If you had a plain bunk bed are you automatically breaking the precept just because it's tall? What does that have to do with dhamma?
+
+https://suttacentral.net/pli-tv-bu-vb-pc87/en/brahmali?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin
+
+https://suttacentral.net/pli-tv-bu-vb-pc88/en/brahmali?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin
+
+> ‘If a monk has a bed or a bench made upholstered with cotton down, it is to be stripped, and he commits an offense entailing confession.’” 
+
+So perhaps there is something about not possessing comfortable furniture, in general that is problematic? I am unsure.
+
+
+
+
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sfqklp/clarification_of_no_high_and_luxurious_beds/ofipos4/)** _2026-04-11 05:27:33_:
+    It's about not using furniture that is very likely to be misused. Namely, for indulging in the pleasure of lying down and giving in to mental laziness rather than resting the body when needed.
+
+    Secondarily, it's about avoiding ostentatiousness, which is another way of losing the context of what a bed/furniture is for.
+
+---
+
+**r/HillsideHermitage** | Posted by baubleballs _2026-04-06 19:07:09_
+### [Building the foundations](https://www.reddit.com/r/HillsideHermitage/comments/1se88jf/building_the_foundations/)
+
+hello. Stated simply, this is a question about whether seclusion is counterproductive without a strong foundation in virtue.
+
+Looking back, I’m realizing I’ve neglected virtue during my last several months of lay practice in a secluded environment. I periodically make and lose progress. The daily meal is very brief and the time alone feels overwhelming. After time progressing or creating tension, I will sometimes do things as coarse on the level of the precepts, like: taking allowables only when others aren’t around—in a way a fourth precept breach; tracking calories out of concern for my appearance—beautification breach; and so on.
+
+The stress came to the point a while ago where I increasingly took sensual bait to the point of giving up and breaking several precepts. They were my (series of) choices. I confessed online but didn’t tell others. I have recovered and been transparent since. I was pardoned and, for the first time since I arrived, I feel calm. I’m still stressed, because my daily gratification is limited to the meal, but I am not breaking precepts. Still, I am often tempted. I am not “steady“.
+
+The progress I did make in renunciation, I think, was not pleasurable or stable because it was not based on a steady moral character. I wonder if my difficulties have been owed to not having developed much in lay life. I came here without much experience in keeping the 8 precepts. In fact, I even occasionally broke the 5 at home. As a result, it feels like practice here has been mostly painfully giving up everything with periods of indulgence.
+
+It strikes me that while understanding can be genuine, consistently aligning one’s choices with it is not easy. Danger frequently and personally becomes apparent to me, but my actions revert to worldliness. Are these two different things—understanding and true training in making good choices? Is the latter more important? Can I not rely on my understanding to do the work for me? Should virtue, by willpower, come first?
+
+I have a sincere sense of urgency and desire to practice but feel disoriented by my own struggles and inauthenticity in weathering the turbulence of this new lifestyle. Right now, for example, the urgency is apparent, but this isn’t the first time.
+
+I believed my breaches were overly problematic to stay, so I planned to leave, recover, and dedicate some time at home to truly becoming a virtuous person for the first time in my life. Having tasted the pleasure of renunciation, I wanted to be a lay person for a while, living alone, working a job, and practicing aloofness in regards to worldly pleasures, before going to another, “easier” secluded environment after a while.
+
+However, when I opened up, some monks urged me to stay. I now feel at ease rather than remorseful. I’m determined to make the best choice rather than the most appealing one. As I currently conceive my situation, I have considered: a. remaining in an austere environment, striving to perfect my virtue, while not focusing on anything beyond that—bearing the solitude, hunger, and so on, or b. going home, relaxing, and focusing on committing to the precepts in an easier environment, in preparation for eventually leaving home again. I am leaning towards b. Now that I have tasted the relief of virtue, it would seem simpler to solidify it at my own pace. But I could push, and give it my all, I suppose. The only things holding me back are my own choices. Any input is appreciated. Thank you Bhantes and fellow renunciates.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1se88jf/building_the_foundations/oey5u8s/)** _2026-04-08 06:22:15_:
+    >  Danger frequently and personally becomes apparent to me, but my actions revert to worldliness. Are these two different things—understanding and true training in making good choices? I
+
+    They are not different. If it doesn't change one's choices, it is not understanding yet. It hasn't "sunk in."
+
+    > Having tasted the pleasure of renunciation, I wanted to be a lay person for a while, living alone, working a job, and practicing aloofness in regards to worldly pleasures, before going to another, “easier” secluded environment after a while.
+
+    That's not a bad outcome if it actually turns out that way, but you want to honestly reflect on why going back is more appealing. People who return home after living in a monastery very rarely uphold the same standards afterwards, despite convincing themselves that they would.
+
+    Perhaps the solitude and hunger are in themselves so bad that the mind is perfectly happy with abandoning just that and otherwise continuing the training unchanged. But more often than not, that choice is more appealing because although one will still be committed to the precepts on paper, accountability for breaking them will be significantly lower, and *that* is felt as relief. There could even be a concealed expectation of a quick "top up" of sensual indulgence before you take the precepts seriously again.
+
+    If the latter is the reason, then the mind is trying to seduce you into giving up the training and not just the austere environment—which you are of course free to do, but you'd better be honest to yourself about it.
+
+---
+
+**r/HillsideHermitage** | Posted by No_Fishing_3019 _2026-04-06 18:12:14_
+### [Intrusive thoughts](https://www.reddit.com/r/HillsideHermitage/comments/1se6pjp/intrusive_thoughts/)
+
+This is just a short practice question and probably doesn't deserve its own thread, but I didn't know where else to put it.
+
+Say I have a desire to go on bike rides with a romantic partner, but I can't do that because I don't have a romantic partner, so that frustrated desire will present as aversion. At random times during the day, a thought like "I can't go on bike rides with a romantic partner" will come up, which is then immediately followed up by a feeling of aversion, and will soon be followed up by other related thoughts that will generate more aversion or desire, if I don't consciously intervene. My reaction may go like this:
+
+I notice that this thought is predicated on craving and will lead to further craving, so I stop myself from engaging with it. This basically amounts to forcefully cutting it off, because the citta really wants me to think that thought right now. When the thought is gone, I notice the aversion that the thought generated and make sure not to resist it. I stay peripherally aware of that aversion until it is gone.
+
+Is that the right way to react?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1se6pjp/intrusive_thoughts/oey39py/)** _2026-04-08 06:00:23_:
+    > I notice that this thought is predicated on craving and will lead to further craving, so I stop myself from engaging with it. This basically amounts to forcefully cutting it off, because the citta really wants me to think that thought right now. When the thought is gone, I notice the aversion that the thought generated and make sure not to resist it. I stay peripherally aware of that aversion until it is gone.
+
+    Indeed. That's how you remove the fuel for the aversion, and it eventually subsides.
+
+    What you don't want to be "cutting off" is the underlying discomfort due to which the mind wants to think aversive thoughts (or any unwholesome thought). That's where people often go wrong, and it's essentially trying to stop Māra from presenting baits instead of holding the mind back from engaging with them.
+
+---
+
+**r/HillsideHermitage** | Posted by LessNeighborhood1257 _2026-04-06 04:21:04_
+### [The Ultimate Choice](https://www.reddit.com/r/HillsideHermitage/comments/1sdos59/the_ultimate_choice/)
+
+*Thank you in advance for your generosity in addressing this question, and forgive me for its length, but I feel it deserves special care in order to properly give you insight into the reflections of my mind. I am going to try to be as truthful as I can in my writing, so you can use your own wisdom to see any pitfalls I’m wandering into with my thinking. In this way, I hope to learn something from you and fill the glass of wisdom drop by drop.* 
+
+Dear Hillside Hermitage, 
+
+  
+You’ve said before that the essence of the dhamma is choice, that we have the power to shape our thoughts, speech, and actions. With this in mind, the following question naturally arises: how should we exercise the power of our autonomy for our greatest benefit? As we look into the processes of our mind, we find that we’re pressured towards the sights, sounds, smells, tastes, touches, and ideas of the world. But why are we pressured towards these things, and why do we find ourselves chasing after them? We wouldn’t be seeking these things if, one, they didn’t provide some amount of relief and, two, we weren’t experiencing a fundamental lack in our experience. But do these worldly things really provide true happiness, a happiness that doesn’t age, grow sick, and die? If they did, we wouldn’t have to keep chasing after them; we’d already be fulfilled on account of obtaining their pleasure. I’ll call upon a simile to illustrate this further. We all start out on express trains in this life. Perhaps it’s the train headed towards the ideal career that we think will make us fulfilled, whereupon its completion, we will be satisfied that we’ve made our mark on the world. Or perhaps it’s the train headed towards the ideal partner that we think will fill the emotional lack we feel within ourselves. Then we get all excited and hop from train to train looking for the next big thing. Reflecting on the drawbacks of these behaviors, another question arises: is it worth it? And is there something more worthwhile to spend my time doing? These are the questions that you and the Buddha asked yourselves, and they’re the very same questions I’m contemplating myself. As human beings with limited lifespans, it’s impossible to not make choices in life. In fact, we make choices every second. And so, given the weight our choices have in shaping our lives, another question arises: what makes a good choice? As you’ve said before, this is the question that lies at the heart of wisdom. What, when I do it, will lead to my long-term welfare and happiness? I have seen how choices motivated by greed, hatred, worry and flurry, indolence, and anxious doubt have led to negative results. And I’ve seen how choices motivated by generosity, virtue, renunciation, wisdom, effort, endurance, truth, determination, goodwill, and equanimity have led to positive results. Having seen this for myself, I realize that the best way to spend my time in this life is to search for a happiness that doesn’t age, doesn’t grow ill, and doesn’t die. However, in order to completely devote myself to this goal, the householder's life won’t suffice. Using your simile, it’s like a flower trying to grow through the cracks in the sidewalks of New York. With two years left of my college career, I have to make a choice. I can either wait to become a monk, finish my college education, and go forth. Or, I can drop everything like the Buddha did and start now.  As the suttas remind us, for who knows? Tomorrow: death. There is no bargaining with death and his mighty horde. In other words, it’s not realistic to rely on the perception that I’ll be alive in two years to go forth. The Buddha asks us to be heedful in our reflections on death. In AN 6.19, the Maranassati Sutta, we see this most clearly: 
+
+  
+*“ ... When this was said, the Blessed One addressed the monks. "Whoever develops mindfulness of death, thinking, 'O, that I might live for a day & night... for a day... for the interval that it takes to eat a meal... for the interval that it takes to swallow having chewed up four morsels of food, that I might attend to the Blessed One's instructions. I would have accomplished a great deal' — they are said to dwell heedlessly. They develop mindfulness of death slowly for the sake of ending the effluents.*  
+*"But whoever develops mindfulness of death, thinking, 'O, that I might live for the interval that it takes to swallow having chewed up one morsel of food... for the interval that it takes to breathe out after breathing in, or to breathe in after breathing out, that I might attend to the Blessed One's instructions. I would have accomplished a great deal' — they are said to dwell heedfully. They develop mindfulness of death acutely for the sake of ending the effluents.*
+
+  
+If my understanding is true, from the Buddha’s point of view, the best choice is renunciation. That trading a lesser happiness for a greater happiness is a noble trade. However, I feel conflicted about this choice, and after some intense probing, I realize that the difficulty in this decision lies not in giving up the pursuit of the degree, but in how my family and relatives will respond to my decision. I know I will not use this degree to get a job, for if I graduate, my job will be to seek true happiness. So, the choice here is not about renouncing the degree but about renouncing the need to be understood and renouncing the fear of disappointing others. This means that if I choose to delay my ordination, I’ll have missed out on an opportunity to perfect renunciation. Am I contemplating this in the right way? That even if I do live to be ordained two years from now, I’d still have to perfect the quality of renunciation, and in making the choice to wait to be ordained, I’ll have sown the seed of being liable to what others think of me. On the other hand, I am not one who abandons pursuits lightly, and I recognize the value of education and its benefits for our understanding of the world. If I wait to be ordained, I can still practice at Metta Forest Monastery on the weekends, giving me the best of both worlds while I wait to go forth. But isn’t this a heedless thought? If I were to be diagnosed with a terminal illness tomorrow and told that I had a year left to live, the choice would be clear. If my relatives and family were all gone, I’d drop everything and ordain. So it seems that the root of all of this indecision is a fear of disappointing my family and relatives. Ultimately, only I can make this decision, so my purpose in writing this letter is not to ask you to make it for me, but to gain your perspective on my mind’s contemplations. Thank you once again, and may you be well.
+
+— Alex 
+
+P.S. Does samanadipa hermitage or hillside hermitage still ordain monks? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sdos59/the_ultimate_choice/oelykr5/)** _2026-04-06 13:22:52_:
+    > This means that if I choose to delay my ordination, I’ll have missed out on an opportunity to perfect renunciation. 
+
+    Yes, but beyond that, the idea that finishing the degree will make a meaningful difference is false. Whenever you abandon the world, the reaction of people close to you will be the same, the displeasure will be the same, and the mind's fear in regard to it will be the same—and likely greater if you wait, since you give in to that fear and thus fuel it.
+
+    So, the real question is whether you would stick to your determination to leave the world, and use that renunciation to practice rightly no matter how unpleasant that turns out to be. And it will be at least as unpleasant as the disappointment you fear. The extent of the internal problem you carry is evidently that much at least.
+
+    If you're not entirely sure that you will stick to both of those, then it's better to wait and do your best with your current circumstances. Not because of anything related to the degree, but because it can be a major setback if you end up returning home. The mind develops a "been there, done that" attitude towards going forth that makes it much harder to take it on sincerely again.
+
+    > P.S. Does samanadipa hermitage or hillside hermitage still ordain monks?
+
+    Both places are operating at full capacity in terms of permanent residents for the foreseeable future.
+
+---
+
+**r/HillsideHermitage** | Posted by NoArm_Boss2627 _2026-04-05 23:07:47_
+### [“Or the memory that ‘feeling is there’ is established…”](https://www.reddit.com/r/HillsideHermitage/comments/1sdi0p0/or_the_memory_that_feeling_is_there_is_established/)
+
+I have a question in regards to the Sattipatthana sutta. Particularly the line:
+
+“Or the memory that ‘feeling is there’ is established for him just to the extent necessary for knowledge and recollectedness. He abides disengaged, not taking up anything in the world.”
+
+I can understand how contemplating ‘feelings within feelings’ and the ‘factors of origination’ relates to yoniso manisakara, but simply discerning that feelings are there seems like it can be conflated with the direct observation-(ayoniso) type meditation. I do my best just to keep a general awareness of the feeling-tone that is underlying my experience without becoming absorbed into it, and just dwell on that. 
+
+I simply note my general state of feeling, either pleasant, unpleasant or neutral. In doing so, I notice how these feelings are (A) conditioned, since I had no choice in their making, and hence (B)impermanent and not ‘for me’ . Would that constitute a correct form of yoniso manisakara, discerning that my feeling state is just there, primordial, and conditioned, and keeping that knowledge in my background awareness as I focus directly on the feelings that are there? (For example, as I’m walking, I simply discern that there is unpleasant feeling present as a context for my experience)
+
+Can I do the same thing with moods, just note whichever mood is present, discern it as the basis or womb for experience,and dwell on that fact alone (discern that the ‘mind is just there…’)?
+
+Or must I always be contemplating the basis for feelings/moods such as contact, perception, etc?
+
+I understand those things to be the factors of origination. 
+
+Though I imagine there’s a good reason that final line in the sutta is included just as it is for the other three factors of mindfulness.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sdi0p0/or_the_memory_that_feeling_is_there_is_established/oey25ex/)** _2026-04-08 05:51:05_:
+    > but simply discerning that feelings are there seems like it can be conflated with the direct observation-(ayoniso) type meditation. 
+
+    … If one has from the start misunderstood what feelings even are. Actual feelings structurally cannot be "observed" like that at all.
+
+    > Would that constitute a correct form of yoniso manisakara, discerning that my feeling state is just there, primordial, and conditioned, and keeping that knowledge in my background awareness as I focus directly on the feelings that are there?
+
+    Yes, but there is no need to intentionally "focus directly" on anything. When you discern feelings where they are, that perspective naturally carries over into whatever comes up on its own.
+
+    > Or must I always be contemplating the basis for feelings/moods such as contact, perception, etc?
+
+    Not always. Seeing a feeling as an arisen experience (not leaving it festering in the background unnoticed) is ideally enough for the mind to cease its engagements within it. You contemplate further only if that's not enough for disengagement to occur.
+    
+
+---
+
+**r/HillsideHermitage** | Posted by Sa_Mahe_ri _2026-04-03 08:32:40_
+### [Questions on Sleep and fine Food as Obstacles in Practice](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/)
+
+If I understand it correctly, it is not recommended by the Venerables to set or reduce one’s sleep to a fixed amount—at least not for the initial stages of the gradual training.
+
+But how, in that case, should AN 6.17 be understood, where the Buddha criticizes junior monks for excessive sleeping?
+
+>"But those mendicants who were junior, recently gone forth, newly come to this teaching and training slept until the sun came up, snoring. The Buddha saw them doing this, with his clairvoyance that is purified and superhuman. He went to the assembly hall, sat down on the seat spread out, and addressed the mendicants:  
+“Mendicants, where is Sāriputta? Where are Mahāmoggallāna, Mahākassapa, Mahākaccāna, Mahākoṭṭhita, Mahācunda, Mahākappina, Anuruddha, Revata, and Ānanda? Where have these senior disciples gone?” “Soon after the Buddha left, those venerables each went to their own dwelling.”  
+“So, mendicants, when the senior mendicants left, why did you sleep until the sun came up, snoring? What do you think, mendicants? Have you ever seen or heard of an anointed aristocratic king who rules his whole life, dear and beloved to the country, while indulging in the pleasures of sleeping, lying down, and drowsing as much as he likes?”
+
+I think it has something to do with the wording of the last quoted sentence, but at the same time the criticism itself doesn’t seem to directly refer to sleeping without being tired, or to waking up and then deciding out of laziness to go back to sleep. But more in line of "you are wasting your time".
+
+\_\_\_
+
+And I have another question about food and MN 7:
+
+>When a bhikkhu of such virtue, such qualities, and such understanding eats boiled fine rice with the dark grains removed and served with many soups and sauces, that is no obstacle for him. Compare this with cloth that is soiled and stained; it can be made pure and clean by pure water. Or with unrefined gold, which can be made pure and bright by a forge. In the same way, when a bhikkhu of such virtue, such qualities, and such understanding eats boiled fine rice with the dark grains removed and served with many soups and sauces, that is no obstacle for him.
+
+I have often stumbled over this phrasing, because in my understanding it suggests that for someone who has not yet reached this level of virtue, it very well can more easily become an obstacle to consume such fine food. Would it accordingly be recommended, as a precaution to not agitate the mind, to choose—whenever possible—simpler food over more delicious options, even when the latter are not sought for their taste as such? Especially in light of the fact that the daily food served at my monastery today is probably closer to what kings ate back then than to the food one would have received on alms round in those times.
+
+I’d be grateful for guidance on how to understand this in practice.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/oedp8zw/)** _2026-04-05 04:38:20_:
+    > But how, in that case, should AN 6.17 be understood, where the Buddha criticizes junior monks for excessive sleeping?
+
+    Indulgence in sleep is a deliberate action that you simply abstain from, so if you feel the need to impose an external limit to prevent such indulgence, it's because you don't see what the work even is (and will most likely start indulging in however little sleep you get).
+
+    
+    > it suggests that for someone who has not yet reached this level of virtue, it very well can more easily become an obstacle to consume such fine food.
+
+    Yes, because they could be eating such food with an indulgent *intention.* Not because the food will accidentally obstruct them despite the lack of such intentions.
+
+    > Would it accordingly be recommended, as a precaution to not agitate the mind, to choose—whenever possible—simpler food over more delicious options, even when the latter are not sought for their taste as such?
+
+    Definitely not. Inclining towards such a precaution implies a fundamental misunderstanding of what the mind is (namely, intention). Same as with sleep, due to tackling the problem at the wrong place, your actual mind will likely start indulging in the "simple" food you limited it to.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/oee8yjc/)** _2026-04-05 07:23:37_:
+
+    *(In reply to Sa_Mahe_ri):*
+    > >Indulgence in sleep is a deliberate action that you simply abstain from, so if you feel the need to impose an external limit to prevent such indulgence, it's because you don't see what the work even is (and will most likely start indulging in however little sleep you get).
+    >
+    > So that they slept until the sun came up, snoring can be simply seen as an byproduct of their intention to indulge in sleep when they went to sleep, but
+    >
+    > >"while indulging in the pleasures of sleeping, lying down, and drowsing ~~as much as he likes  "~~ \-Bhante Sujato
+    >
+    > "~~if he spends as much time as he wants~~ yielding to the pleasure of rest, the pleasure of sloth, the pleasure of sleep" -Bhikkhu Bodhi
+    >
+    > Is the defining factor?
+    >
+    > I've also just noticed that Ven. Nyanatilokas translation does not contain the same time factor "as much as likes" / "as much time as he wants". So there might be some translation error as well, which I can't figure out myself.
+
+    > So that they slept until the sun came up, snoring can be simply seen as an byproduct of their intention to indulge in sleep when they went to sleep
+
+    Yes. Neither of those things are themselves intentional.
+
+    > So there might be some translation error as well, which I can't figure out myself.
+
+    The Pāli does contain the expression *yāvadatthaṁ,* i.e., "as much as one wants." And *seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto viharanto* means "dwelling *dedicated to* the pleasure of sleeping, lying down and drowsing." 
+
+    When getting that pleasure is one's intention for sleeping, the action is indulgent no matter the duration of one's sleep. And the reverse when that is not the intention.
+
+---
+
 **r/HillsideHermitage** | Posted by tejveeer _2026-04-01 18:23:51_
 ### [An attempt to clarify HH's stance on the relationship between sotapatti and celibacy](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/)
 
@@ -226,6 +452,33 @@ I had presented this to Ven. Anigha privately on discord, and bhante stated that
     > In other words, what about the elimination of the ignorance?
 
     Denying non-sensuality as a necessary part of the practice is undeniable ignorance of the four noble truths here and now: following the most blatant form of craving while trying to solve the problem means you ignore that craving is the origin of the problem.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oeflpvz/)** _2026-04-05 13:48:19_:
+
+    *(In reply to jareb):*
+    > The prerequisites are explicitly listed by the Buddha in many suttas as the factors for the stream-entry, and celibacy is not listed among these factors, even once.
+    >
+    > One more point, Venerable. It seems to me that HH’s position fails to take into account the difference between the situation of a layperson and that of a monk.
+    >
+    > [Pj1](https://suttacentral.net/pli-tv-bu-vb-pj1/en/brahmali?lang=en&layout=plain&reference=none&notes=sidenotes&highlight=false&script=latin#5.11.31):
+    > > “Well then, monks, I will lay down a training rule for the following ten reasons:
+    > > 
+    > > for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of good monks, for the restraint of the corruptions relating to the present life, for the restraint of the corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training.
+    >
+    > A layperson who engages in sexual activity within the framework of observing the five precepts is not breaking any rules, whereas a monk who engages in a similar act commits a grave violation of the Vinaya—he commits a parajika offence.
+    >
+    > A monk causes harm and acts against the following when he breaks even the smallest rule of the Vinaya: the well-being and comfort of the Sangha; the restraint of bad people; the ease of good monks; the restraint of corruptions relating to the present and future lives; the rising of confidence in those without it and the increasing of confidence in those who have it; the longevity of the true Teaching; and the support of the training.
+    >
+    > The very same action performed by a layperson and a monk can have entirely different significance and consequences - it's a different kamma.
+
+    > The prerequisites are explicitly listed by the Buddha in many suttas as the factors for the stream-entry, and celibacy is not listed among these factors, even once.
+
+    That's because for someone who rightly views practicing in line with the Dhamma (a factor for stream-entry) as practicing towards the cessation of craving, the need for celibacy will be obvious. Just as it was to the entire Saṅgha before any rules were laid down.
+
+    > A layperson who engages in sexual activity within the framework of observing the five precepts is not breaking any rules, whereas a monk who engages in a similar act commits a grave violation of the Vinaya—he commits a parajika offence.
+
+    That's secondary; [both are engaging in wrong intention](https://suttas.hillsidehermitage.org/?q=sn45.24). The Vinaya is an impermanent framework that will one day be forgotten, but wrong intention will always be wrong intention and lead to the maintenance of craving no matter who you are.
+
+    Plus, that a monk receives the same penalty as murderer for such an act is no accident. See how the Buddha tells Sudinna that what he did was the direct opposite of the spirit of the Dhamma.
 
 ---
 

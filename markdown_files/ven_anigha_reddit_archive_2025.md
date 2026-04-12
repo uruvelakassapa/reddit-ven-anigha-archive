@@ -6114,6 +6114,15 @@ The central rule that cannot be externally enforced and must rely on each user's
 - **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/odgggzc/)** _2026-03-31 06:41:14_:
 
     Abortion is simply intentional killing.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1k9st1y/hh_confession_server_on_discord/ofizx8j/)** _2026-04-11 06:53:49_:
+
+    > Bhante, are only explicit breaches of the precepts meant to be confessed, or would it be also appropriate to confess unwholesome behavior that falls outside of—or only loosely relates to—particular precepts?
+
+    It's good to include the latter as well, but with the caveat that one needs to have made effort to reflect on things one classifies as "unwholesome behavior" to see whether they are actually so and in what way, rather than mindlessly confessing anything one feels uncertain about "just in case." 
+
+    > I am a sāmanerī, so in this case it would concern a monastic channel.
+
+    Yes, there is a separate channel for that.
 
 ---
 
