@@ -9,6 +9,76 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by Sa_Mahe_ri _2026-04-10 13:02:08_
+### [Question regarding interpretation and application of Pātimokkha rules](https://www.reddit.com/r/HillsideHermitage/comments/1shlx31/question_regarding_interpretation_and_application/)
+
+Dear Venerables,
+
+I am a sāmaṇerī in training to become a bhikkhunī. I would very much welcome input not only from the monks who have already undertaken higher ordination or are going to in the future, but also from nuns who have not—since I imagine that you have reflected on these questions as well.
+
+I find myself struggling to understand how to relate properly to my future Pātimokkha rules—especially those that are not/ no longer directly connected to unwholesome behavior, and where the interpretation is not clear-cut.
+
+The most obvious rule that is difficult for a modern bhikkhunī is Saṅghādisesa 3:
+
+>If a nun walks to the next inhabited area by herself (Bhante Brahmali) / goes among villages alone (Ajahn Thanissaro), or crosses a river by herself, or spends the night apart by herself, or lags behind her companions by herself, then that nun has committed an immediate offense entailing formal probation and suspension.  
+Yā pana bhikkhunī ekā vā gāmantaraṁ gaccheyya, ekā vā nadīpāraṁ gaccheyya, ekā vā rattiṁ vippavaseyya, ekā vā gaṇamhā ohiyeyya, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+
+This is especially challenging because it is a serious offense. Interpretations of what exactly is prohibited and what is allowed vary greatly, and when I reflect on how I might interpret this rule for myself (as I have considerable freedom in this regard in my monastery), I cannot come to a clear conclusion.
+
+So I am not necessarily looking for a definitive answer on how to interpret this specific rule (but if you have any thoughts on that, please go ahead). Rather, I would appreciate any guidance on how to approach rules that are not entirely clear or that allow for multiple interpretations—how one might arrive at a well-grounded decision in such cases.
+
+At the same time, I would also welcome input from those familiar with Pāli regarding which translation is more accurate. One version seems to suggest that I could still spend the day in seclusion in the forest, as long as I am not intending to travel to another village (which would align with suttas depicting bhikkhunīs being alone in the forest). The other interpretation, however, sounds more like one is not allowed to leave one’s village by oneself at all.
+
+And regarding precepts that are not necessarily unwholesome in themselves, but are nowadays commonly interpreted in a different way than the literal wording suggests—does one simply go along with such established interpretations, or is there a more principled way to approach them?
+
+>For example:  
+Confession 85: traveling in a vehicle (for bhikkhunīs, in contrast to bhikkhus, in the Pātimokkha)  
+If a nun who is not ill travels in a vehicle, she commits an offense entailing confession.
+
+>According to Ajahn Thanissaro:  
+“In modern times, ‘ill’ is interpreted here as meaning too weak to reach one's destination on foot within the available time.”
+
+Any further reflections on how to put the Pātimokkha rules into practice are very welcome.
+
+With respectful regards,  
+Sāmaṇerī Mahesī
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1shlx31/question_regarding_interpretation_and_application/ofr9nyk/)** _2026-04-12 14:24:42_:
+
+    My comments were along very similar lines with Venerable Anīgha's, so I will just add a couple further notes especially on Saṅghadisesa 3.
+
+    
+    >I would appreciate any guidance on how to approach rules that are not entirely clear or that allow for multiple interpretations—how one might arrive at a well-grounded decision in such cases.
+
+    
+    The right approach should be based on understanding that the principle of the whole vinaya is about prohibiting actions that are done with unwholesome intent - or that, through lack of foresight, give rise to problems for not only oneself but the whole saṅgha.
+
+    
+    Many of the rules that are not so obviously or universally related to sensuality or ill-will come through a context (which is still relevant now but easy to overlook) where, as a bhikkhu or bhikkhuni, one's actions are never truly private, but reflect on, and carry consequences for, an entire community. 
+
+    
+    So, for example, in the case of Saṅghādisesa 3, I would say that the general point is about carelessly  exposing yourself to obvious danger or risk - of rape, mainly, in the case of this rule. Which is something that, if it were to occur, would have potentially huge long-term consequences for all, and thus warrants taking very seriously. Hence it is a serious offence.  
+
+    
+    I think the list "walking to the next village alone," "crossing a river alone" "spending the night alone" are the main *examples* of such type of obviously heedless behaviour within the context in which the rule came about, not a definitive list of what counts as risky. So they need to be understood in that sense. It then doesn't make sense that, say, spending the night in a kuti near a monastery would be a problem - on the other hand, staying in an open cave near a village in Sri Lanka definitely would. So would walking alone in a city at night.
+
+    
+    *Gāmantara* literally means 'between villages'. I think this can be taken to mean broadly 'walking alone on a road [where one is at risk]'. 
+
+    
+    (The part of this rule that doesn't make much sense to me is 'lagging behind companions'. At least half of the parallel versions in the different schools don't have it.) 
+
+    
+    The origin stories of the bhikkhunis' rules are, in my memory, less of a reliable guide than those of the bhikkhus. They apparently diverge greatly between traditions, often sound strange and can sometimes add more confusion than clarification. Nevertheless they can help to give context if the rule itself is very ambiguous. 
+
+    
+    In practice, interpretations need to be generally agreed upon by a community. You should of course try and come to your own understanding of the meaning of the rules for your own sake - but realising that it might not be possible or worthwhile to try and convince others around of that, especially given the lack of a unifying view of the practice within most monastic communities these days. (Also see [this passage](https://suttacentral.net/pli-tv-kd2/en/brahmali?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin#27.10.1)). At least in the case of the more circumstantial rules, it's fine to go along with the way the community follows them, as long as you yourself do not lose perspective through that. (It is much easier to redefine what 'ill' means and then feel absolved of anything and everything, than it is to question a preference of travelling first class as a monastic.)
+
+    
+    I am not pursuing bhikkhuni ordination, and do not plan to. This is not because of the rules, but simply because I do not see any need or purpose for it beyond my current circumstances. 
+
+---
+
 **r/HillsideHermitage** | Posted by spiffyhandle _2026-04-08 11:50:42_
 ### [Clarification of "no high and luxurious beds" precept?](https://www.reddit.com/r/HillsideHermitage/comments/1sfqklp/clarification_of_no_high_and_luxurious_beds/)
 
@@ -174,6 +244,11 @@ Though I imagine there’s a good reason that final line in the sutta is include
 
     Not always. Seeing a feeling as an arisen experience (not leaving it festering in the background unnoticed) is ideally enough for the mind to cease its engagements within it. You contemplate further only if that's not enough for disengagement to occur.
     
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sdi0p0/or_the_memory_that_feeling_is_there_is_established/og2v05l/)** _2026-04-14 05:23:19_:
+
+    Whatever an act of observation applies to is an object in the world, not a feeling. Feeling endures *in regard to* such an act, and it has to be ignored in order to be with the content of the observation. 
+
+    The same goes for all the aggregates. They cannot be observed because they are the background of observation (and of any action).
 
 ---
 
@@ -225,6 +300,40 @@ I’d be grateful for guidance on how to understand this in practice.
     The Pāli does contain the expression *yāvadatthaṁ,* i.e., "as much as one wants." And *seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto viharanto* means "dwelling *dedicated to* the pleasure of sleeping, lying down and drowsing." 
 
     When getting that pleasure is one's intention for sleeping, the action is indulgent no matter the duration of one's sleep. And the reverse when that is not the intention.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/og38qcc/)** _2026-04-14 07:19:23_:
+
+    >But isn't the whole idea of sense-restraint that it is easier to develop the proper intention in regard to sensuality when things which make the untrained mind liable to indulge are restricted?
+
+    Not quite. It's a widespread misunderstanding that sense restraint means preventing yourself from perceiving this or that.
+
+    If you read the Suttas carefully, you see that sense restraint is always described in terms of what you don't do (on the mental level) *when* you perceive something. In this case, it's what you wouldn't do when eating even the most agreeable food so that the mind is not polluted.
+
+    Now, this obviously doesn't mean that you can eat whatever you crave for and then just practice sense restraint. 
+
+    Sense restraint is preceded by establishment in virtue. Virtue in this context means that when the very act of eating something is infected with craving, you won't be eating it to begin with.
+
+    >According to my (very puthujjana) understanding, sex is prohibited not because it is necessarily impossible to engage in it without grasping and delight, but because no untrained mind could accomplish this practically
+
+    Nor would a trained mind. It is necessarily impossible to engage in sexual intercourse (to initiate it or consent to it) without grasping and delight. Hence celibacy is a fixed part of virtue.
+
+    >no doubt as a result of my mind's lack of conditioning, I find it impossible to eat, for instance, a grilled cheese sandwich without delighting in it and craving fatty food for days, but experience a fraction of this sensual delight in my oatmeal.
+
+    Right, so the problem is that craving, not the sandwiches. Conversely, the solution is to *abstain* from eating out of craving—which may or may not include abstaining from the sandwiches depending on the current state of the mind—rather than to perform the duty of only eating oatmeal. 
+
+    Without a doubt, at any given time there will be foods apart from oatmeal that your mind does not crave for. By bundling it all into "oatmeal and the rest," you avoid the work of discerning what sensuality actually is, namely your [*passionate intention*](https://suttacentral.net/an6.63/en/sujato?lang=en&layout=plain&reference=main&notes=none&highlight=false&script=latin#8.10) that is totally independent from the agreeability of things.
+
+    It's a less extreme form of the misguided practices of other ascetics mentioned in the Suttas, like eating only herbs and always being naked, so as to get around the need to see the current state of their mind and make choices based on that. Even if lustful states are factually avoided that way, wrong view and lack of clarity are directly fueled, and that is worse.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/ogbe633/)** _2026-04-15 12:31:24_:
+
+    If your mind is obsessively pulling you towards certain foods—meaning you see the threat of losing perspective and not being able to stop even before you begin—then you should definitely not go along with that pull. 
+
+    Still, the particulars of a given food, be it richness or anything else, are completely irrelevant. The mind craves a certain food when it craves it, not when it's rich or light, and thus the state of the mind has to be the sole criterion.
+
+    Not seeing that [is enough to set the whole effort in the wrong direction internally](https://suttas.hillsidehermitage.org/?q=an10.105), despite externally abstaining from the same things as you would with the right perspective.
+
+    > even nuts, an uncomfortable quality immediately taints the thought which is identical to the feeling of being pulled into a fantasy based on doubt or lust
+
+    Also, some skepticism about that reaction is warranted because indeed, it could be the result of the diet itself. I wouldn't recommend ignoring the reaction and eating the food anyway, but don't take for granted that you will always have an issue with those foods.
 
 ---
 
