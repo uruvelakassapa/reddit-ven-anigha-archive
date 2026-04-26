@@ -14,6 +14,143 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by spiffyhandle _2026-04-21 11:58:57_
+### [How to safely navigate increases in energy for someone with bipolar disorder?](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/)
+
+Are there parts of the practice where energy will spike? If so, will it return to the previous level? And how am I supposed to avoid a manic episode if I'll have perpetually higher energy (and therefore less sleep)?
+
+For context, I have bipolar disorder type 1. I take daily preventative medication for it. My bipolar manic episodes are triggered by several days of bad sleep But, I have had an episode from simply one single night of no sleep.
+
+If I have a manic episode, I have to be hospitalized and it takes me at least 6 months to recover. My first episode took 3 years to return to my previous level of mental functioning. Given this, I am very cautious about getting enough sleep and I have extra medication (rescue medication) I can take for insomnia.
+
+Right now, I just got back from a monastery visit that I ended early because I started having sleep problems that my rescue medicine wasn't helping with.
+
+At the monastery, I got a stomach bug and was quarantined to my room so as not to spread it. It was near total seclusion. Practice was very challenging but I was determined not to break the 8 precepts. And I succeeded. I even had a cellphone with internet access and I didn't touch it once. Very intense lust came up, boredom came up. All the usual stuff that I would give into but this time, I just endured everything.
+
+On the 6th day of this my energy skyrocketed. It was a calm energy. But that night, I couldn't sleep. I took the absolute maximum dose of my rescue medications and they did nothing. By nothing, I mean not only did they fail to make me sleepy, they didn't even dull my mind. I felt totally alert and clear headed despite the rescue medication.
+
+The next day, I was physically fatigued but my mind was still sharp and clear. I tried resting but couldn't feel sleepy. I slept some, then the day after that I had very little sleep and decided to leave the monastery.
+
+Now, I'm back home, taking maximum sleeping pill doses and getting some sleep. I'm hoping this energy is temporary and I'll be able to sleep without pills soon.
+
+  
+\---
+
+
+
+EDIT1 - A friend reminded me that goal directed behavior is a common mania trigger. And **what could be more goal directed than the pursuit of nibbana?**
+
+The day of the first sleepless night, I had insights that lead to me **mistakenly** believe I had attained sotapanna.  But after being home I can see the fetters are still there. I still believe the insight was genuine but not deep enough or comprehensive enough to be stream entry.
+
+It is discouraging that I had to leave the monastery early. If I stayed, maybe things would have balanced out and I would have started sleeping normally. But maybe not and I would have gotten very ill.
+
+*If* goal directed behavior is a trigger, how am I supposed to practice for nibbana and avoid full blown manic episodes?
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/ohhltdx/)** _2026-04-21 18:24:53_:
+    >how am I supposed to avoid a manic episode if I'll have perpetually higher energy 
+
+    
+    By doing the same thing you were doing - not breaking the precepts, not acting out of the irrational thoughts if they come up. 
+
+    
+    If lack of sleep and energy spikes come from indulgence in sensuality, then that is what would more likely lead to manic thoughts that drive you to manic behaviour, which is how the whole thing would become a manic episode. Because it's based on a starting point that is already of the same nature. The energy is just a byproduct of the whole state, not what causes it in itself. 
+
+    
+    So if energy is coming from restraint and patient endurance, you probably don't have to worry about that kind of energy. Even if the manic thoughts were to arise in that context, they would not be automatically driving you to manic behaviour, because the energy is in this case based on a genuine 'strength' of not acting out, no matter the pressure. 
+
+    
+    But either way, regardless of energy and where it comes from - if you start to lose perspective, it is because you willingly chose to give in at some point. If this were not true, freedom from suffering would not be possible.   
+
+    
+    So the main thing is to maintain the strength of mind, based on keeping the precepts, which enables you to not act out. Mad thoughts cannot make you mad, only mad actions. 
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/ohu6623/)** _2026-04-23 15:33:04_:
+
+    *(In reply to spiffyhandle):*
+    > Thank you for the detailed reply. 
+    >
+    > If it's relevant, I added some more context to my original post at the bottom.
+    >
+    > It is hopeful to be reminded that there's always the choice of whether to act out or not. I do think there's a biological aspect to bipolar and that even if I don't act out of insanity, I could still become sick and need a long recovery time. 
+    >
+    > I am uncertain if I would have the strength of virtue to not act out of unwholesome thoughts for days until the energy settles down. While I was clearheaded on the first sleepless night despite extra medication, as the days add up and sleep deprivation increases, my mind would become more muddled and weaker. At least that's how it's happened in the past before I was practicing HH teachings.
+
+    Regarding the question in the edits: 
+
+    >If goal directed behavior is a trigger, how am I supposed to practice for nibbana and avoid full blown manic episodes?
+
+    There is indeed nothing more goal-directed than practice of Nibbana - no higher goal, and nothing that demands more commitment to it.
+
+    So if it is true that goal-directed behaviour (or energy spikes for that matter) leads to manic episodes, then you certainly can't practice for Nibbana.
+
+    In fact, for anyone who has any kind of psychiatric illness or disorder, some aspect of the practice for Nibbana will inevitably be a trigger for that illness. Practice for Nibbana is fundamentally incompatible with management of mental illness.
+
+    So, either the practice for Nibbana is only accessible to only those who don't have a psychiatric illness - or, the problem and the fuel of the illness is not actually the trigger; but rather something that you are responsible for in between the trigger and the illness.
+
+    (This is certainly not saying the illness is not real; or that it is not biological. It's just that it is included within the mass of dukkha that can be uprooted if the necessary effort is made. If a person is able to understand the suttas and restrain his actions, he is capable of making the necessary effort. Whether one does so or not is up to a oneself.)
+
+    You can't have a guarantee about this from the start beyond the Buddha's direct words, but what is sure is that if you aren't willing to take on the genuine risk of facing the triggers sooner or later, you won't be practicing for Nibbana, and you'll never know whether you could have attained it.
+
+    Yet, again, even within the reality of such risk, it is worth remembering that no matter how bad or extreme things might become, there would still be containment as long as you do not do the few obvious things that can't happen by accident: lie to yourself, lie to others, kill, steal, take intoxicants or indulge in sensuality. 
+
+    
+    Edit -to add something that should go without saying and should give reassurance: 'goal-directed behaviour' that is rooted in manic state of mind and results in loss of perspective, is sensual goal-seeking by definition. And as such it is not the Dhamma. Same as energy that comes from calming the mind is different in nature from energy that comes from winding it up.  
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/ohzg2vq/)** _2026-04-24 09:56:16_:
+
+    *(In reply to spiffyhandle):*
+    > Thank you. Yes and I do think that whether a person with bipolar is pursuing a non-sensual goal (nibbana) or a sensual goal is an important difference.
+    >
+    > Is decreased sleep something that naturally happens as part of the practice? If so, is it temporary or something permanent?
+    >
+    >  I am trying to figure out what pushing through this might look like. I think I could get say 6 hours of sleep a night and be fine on a long-term basis, but it's the acute drop to no sleep at all which concerns me.
+
+    >Is decreased sleep something that naturally happens as part of the practice? If so, is it temporary or something permanent?
+
+    Yes, it can be like a side effect of right restraint and recollectedness. And obviously, like all side effects, it's not in itself significant in the practice, and not something to aim for in itself. Nor is it a problem if someone is still needing more sleep, as long as they are making right effort while they are awake. 
+
+    
+    >I am trying to figure out what pushing through this might look like. I think I could get say 6 hours of sleep a night and be fine on a long-term basis, but it's the acute drop to no sleep at all which concerns me.
+
+    
+
+    I would say for now the priority should be to not be reckless, protect virtue and make the mind used to it and able to sustain it as a baseline. So rather than trying to practice very intensely in extreme seclusion for short term retreats, focus on maintain the precepts throughout your daily life, while having more frequent periods of seclusion on a regular basis.  
+
+    
+    The former kind of practice involving an extreme determination to 'go for it' is the kind of thing that *can* lead people, even without bipolar, to delude themselves into magical experiences, attainments, neuroticism and forced sleep-deprivation. Again, that's ultimately not because of the seclusion or energy, but because they are working from a desire-driven state of mind. 
+
+---
+
+**r/HillsideHermitage** | Posted by nubuda _2026-04-20 09:06:42_
+### [How do you practice tranquility?](https://www.reddit.com/r/HillsideHermitage/comments/1sqjyzr/how_do_you_practice_tranquility/)
+
+If I understand correctly, Ajahn N. does not consider any kind of relaxing meditation part of dhamma practice. I was listening to one of his dhamma talks and he mentioned that instead of calming meditation, people should instead practice sitting quietly and contemplating certain dhamma topics. This is of course great but it has limitations. There is a sutta (MN19) which clearly explains that there is no danger in skillful thinking but too much of even skillful thinking will tire the body and stress the mind.  So how do you practice tranquility according to Hillside Hermitage teachings? My definition of relaxing meditation is very flexible. I believe even sweeping floors or picking berries or laying in bed with resting awareness qualifies as relaxing meditation.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sqjyzr/how_do_you_practice_tranquility/oh9cuq0/)** _2026-04-20 13:48:06_:
+    > So how do you practice tranquility according to Hillside Hermitage teachings?
+
+    [The first, non-negotiable step is giving up sensuality](https://suttacentral.net/mn75/en/bodhi?lang=en&reference=main&highlight=false#sc34). Whatever a person who hasn't done this can achieve is not tranquility—the absence of craving—but is merely shifting their substantial mass of craving onto something else (e.g., the sensual bliss obtained in a state of absorption, often mistaken for tranquility).
+
+    From then onwards, you progress in the Gradual Training up until you reach the level of purifying your mind from the hindrances, which is done [by understanding them as mental activities that are harmful](https://suttas.hillsidehermitage.org/?q=mn39#mn39:14.1_mn39:14.30), not by any attentional technique or focusing effort whatsoever.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sqjyzr/how_do_you_practice_tranquility/ohe30su/)** _2026-04-21 04:56:26_:
+
+    *(In reply to [deleted]):*
+    > [deleted]
+
+    The pleasure that comes from what is generally mistaken as samādhi today. Pleasure that comes from engagement with a sense object rather than from withdrawal.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sqjyzr/how_do_you_practice_tranquility/ohe5gi5/)** _2026-04-21 05:15:37_:
+
+    *(In reply to nubuda):*
+    > Yes, no question about sensuality. But how do you spend your days after giving up sensuality? For example,  have read about monks who followed 8 precepts but had no samadhi cause they were so worried about perfecting their precepts. Just like the sutta I referenced says, too much thinking of dhamma topics can cause stress despite it being skillful thoughts. So what is your practice for taking a  break from thoughts or least reducing thoughts?
+
+    > Just like the sutta I referenced says, too much thinking of dhamma topics can cause stress despite it being skillful thoughts.
+
+    It doesn't say that you simply decide to engage in a calming practice out of a view that skillful thoughts are tiresome. You develop the skillful thoughts until those have become the mind's natural inclination and unwholesome thoughts have subsided. 
+
+    If that's actually completed, you won't need a special practice to calm yourself down. You removed the greatest source of disturbance by undoing the unwholesome thoughts, and now with the wholesome thoughts, recognizing that the subtle burden they entail is no longer necessary will be enough for the mind to become internally calm (meaning it's preoccupied with neither wholesome nor unwholesome thoughts).
+
+    Whereas before that point, you only have two options apart from the wholesome thoughts: the blatant unwholesome thoughts, and distractions such as "relaxing meditation." Both are stressful compared to actual samādhi, where you don't have to do anything at all in order to be calm.
+
+---
+
 **r/HillsideHermitage** | Posted by Sa_Mahe_ri _2026-04-10 13:02:08_
 ### [Question regarding interpretation and application of Pātimokkha rules](https://www.reddit.com/r/HillsideHermitage/comments/1shlx31/question_regarding_interpretation_and_application/)
 
