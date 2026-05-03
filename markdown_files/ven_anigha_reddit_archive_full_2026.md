@@ -14,6 +14,46 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by Solip123 _2026-04-26 17:26:16_
+### [Tendency to fixate on regret over past - what can be done about this?](https://www.reddit.com/r/HillsideHermitage/comments/1swdqd8/tendency_to_fixate_on_regret_over_past_what_can/)
+
+I’m paying the price, constantly, for the (irreversible, life-altering, misery-inducing) decision that I made when I was a teenager. That memory of the repeated failures to act and the knowledge that I was the agent of my harm is frankly debilitating. It leads to intense self-loathing and despair because, when I look back, I see the stupidity and myopia of that entity with 20/20 vision.
+
+However, I realized upon introspection that I can’t figure out what the self-loathing is even targeting. The past, at least phenomenologically/in the sense that matters, is dead and gone. And that entity that I hate so much is gone with it. All that remains is this, which isn’t that entity. The only thing that connects me to it, essentially, is memory traces, which are reconstructions anyway and thus representational. Am I on the right track with this, or is it the wrong way to think about it?
+
+I want to curb this tendency because it distracts me from doing the necessary work to (at least partly) put things back together again. Not to mention that it is deeply unpleasant to think in this way.
+
+- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1swdqd8/tendency_to_fixate_on_regret_over_past_what_can/oioyvz4/)** _2026-04-28 05:11:15_:
+    >The past, at least phenomenologically/in the sense that matters, is dead and gone. And that entity that I hate so much is gone with it. All that remains is this, which isn’t that entity. The only thing that connects me to it, essentially, is memory traces, which are reconstructions anyway and thus representational. Am I on the right track with this, or is it the wrong way to think about it?
+
+    It is good to want to curb the tendency of self-loathing, but this is not the right way to go about it. The problem is that the past is perfectly real as such here and now, and what was done in the past is real here and now, and you *are* connected to it, because you are affected by it here and now. So it doesn't help to deny the reality of your past self or past actions, or your connection to it.  
+
+    Fundamentally, what connects you to it are present actions rooted in greed, actions rooted in aversion, actions rooted in distraction. Whatever wrong was done in the past was because of the same greed, aversion and distraction of the mind, which you would be maintaining in the present through behaviours and choices. And it is also because of this that you would continue to feel the results of those past actions in the present. 
+
+    To whatever extent you give up and do not do those actions, to that extent you will be truly disconnecting yourself from it. 
+
+    On a more immediate level: the thought/phenomenon of a past wrong action is something that arises on its own as part of your reality, with its full significance and unpleasantness. And the mind will be pressuring you with directions of self-hating thought in regard to it. But the act of thinking those thoughts and giving them attention is something you unnecessarily do. It is this mental act that fuels aversion and makes you suffer.  
+
+    These specific mental acts can be restrained in the same way you restrain your behaviour - but only if you have been training in restraining behaviour beforehand. If you haven't, that aspect of your responsibility on the mental level will be blurred, and attempts at restraint will usually end up becoming a form of denial.  
+
+    Therefore, the precepts have to come first. If you aren't already, what will have by far the most impact is to simply train to keep the eight precepts seriously. If some of them are too difficult to maintain all the time, keep them at least one day a week and work up from there. In the meantime, try and literally just bear the self-loathing as best you can, without giving in to it too much or denying it too much. There is unfortunatly no quick or easy solution. 
+
+---
+
+**r/HillsideHermitage** | Posted by Hard_Tack4 _2026-04-26 17:06:42_
+### [Storage, items and Monks](https://www.reddit.com/r/HillsideHermitage/comments/1swd7ie/storage_items_and_monks/)
+
+What degree of personal items is allowable or a good idea for someone who is considering becoming a monk? The HH monks seem to have phones, maybe even laptops, cameras, audio equipment, have presumably used tickets, probably have medicines etc. What is reasonable? I have read that the rules about personal possession of even medicine like frankincense is very restricted, you couldn't have 200 grams on your person it seems without breaking a rule. Ofc many monks even use money which is unambiguously bad. What should I get for myself? Can I get a tent and a nice backpack? An e-ink-tablet? A small camera? Some pens? An Mp3/4? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1swd7ie/storage_items_and_monks/oii4gds/)** _2026-04-27 04:49:50_:
+    > I have read that the rules about personal possession of even medicine like frankincense is very restricted, you couldn't have 200 grams on your person it seems without breaking a rule. 
+
+    There is no such rule in the Vinaya. Every monk is personally responsible for checking his motivations for possessing things.
+
+    With certain things, no matter how externally "luxurious", you can harbor no internal desire and not be significantly bothered if they are lost, whereas there can be "modest" and inexpensive things (and living beings as well) that you would passionately protect even though they are not strictly necessary to survive and to practice. That passion, not the things, is the problem, and you will be unable to address that problem if your focus is on the level of what and how much you have.
+
+---
+
 **r/HillsideHermitage** | Posted by spiffyhandle _2026-04-21 11:58:57_
 ### [How to safely navigate increases in energy for someone with bipolar disorder?](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/)
 
