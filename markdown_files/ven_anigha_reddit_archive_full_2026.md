@@ -14,6 +14,107 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by bodily_heartfulness _2026-05-05 22:55:56_
+### [the right peace before stream entry](https://www.reddit.com/r/HillsideHermitage/comments/1t4v8sg/the_right_peace_before_stream_entry/)
+
+I sometimes reflect upon the downsides of relationships, the dangers of sexuality, and so on. Sometimes, as a result of these reflections, there will be a sense of *unencumberedness*, a sense of the mind being more free and open, not weighed down by the stickiness, the weight, the insecurities, the desires, of it all.
+
+I have a few questions regarding this. 
+
+1. Is this type of peace dangerous? Is it to be cultivated?
+
+2. Is this "cheating"? In that, if this is practiced alongside of restraint, then restraint becomes easier because the mind, on occasions, will have a decreased level of thirst towards sensuality. Does this impact the training, because part of the goal of the precepts and virtue is to train the mind *in regards to* the pressure, not to not have pressure at all.
+
+3. Continuing that train of thought, in general, if certain contemplations reduce the pressure, is that bad? 
+
+(Note that this is all pre-stream-entry, when one doesn't have the right reference.)
+
+My own answer to some of these questions would be:
+
+The purpose of these types of contemplations is to develop the right context, so that one does not act out in body, speech, or mind when one is pressured by sensuality. If these reflections lead to a temporary reduction in the pressure, or some temporary sense of freedom, that is fine, but that is not the point. Trying to decrease the pressure, or even trying to increase the pressure, is besides the point - the goal is not management, but the fundamental change in view, which means putting things in the right order, so that sensuality is first seen as dangerous and *never* worth engaging in.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1t4v8sg/the_right_peace_before_stream_entry/oke5hhe/)** _2026-05-07 05:18:35_:
+    > Continuing that train of thought, in general, if certain contemplations reduce the pressure, is that bad?
+
+    What is bad is to develop an association that restraint ought to be supported by peace, rather than being non-negotiable regardless of how painful it becomes. 
+
+    That association will obstruct right view even if the peace you're describing is along the right lines because it means you continue to ignore the true nature of craving (which applies regardless of how you currently feel).
+
+---
+
+**r/HillsideHermitage** | Posted by True-Grape2605 _2026-05-05 13:11:26_
+### [I have created a free Sutta companion app - To implement Gradual training need review from hh](https://www.reddit.com/r/HillsideHermitage/comments/1t4f2c2/i_have_created_a_free_sutta_companion_app_to/)
+
+Bhante and friends,
+
+I have built a free, offline sutta reading app called Sutta Companion — primarily for laypeople who want to study the Pāli Nikāyas and implement a daily practice based on the gradual training.
+
+The app uses Bhikkhu Sujato's translations from the SuttaCentral database. It is free, ad-free, and fully offline. It is currently live on Android.
+
+I am writing here specifically because I have recently added a practice module built around the gradual training as described in DN 2, MN 27, and MN 53 — from dāna and sīla through indriya saṃvara, sati-sampajañña, the five hindrances, paññā, brahmavihārā, samādhi, and vipassanā. Each stage in the app references the canonical source and uses short passages from Bhikkhu Sujato's translations to describe what is being tracked and why it appears at that point in the sequence.
+
+I am a layperson and a software developer. I am not a monastic, not a scholar, and not trained in Pāli beyond basic reading. I have done my best to represent the gradual training faithfully but I am certain there are gaps, misrepresentations, or errors I am not qualified to catch myself.
+
+Specifically I would welcome review on:
+
+— Whether the sequence I have used (dāna → sīla → akushala kamma-patha → indriya saṃvara → sati-sampajañña → pañca nīvaraṇa → paññā → brahmavihārā → samādhi → vipassanā) accurately reflects the canonical gradual training or introduces distortions, although it is not hardcore sequence we need to follow there since lot of things can works parallel and helping each other parts . 
+
+— Whether the descriptions of each stage, which I have tried to draw from the suttas directly rather than from secondary sources, are faithful to the texts
+
+— Whether the framing of samādhi as something that arises naturally from the preceding stages rather than as a technique to be practised is correctly represented — I relied primarily on the stock gradual training formula in DN 2 and the rose-apple tree recollection in MN 36
+
+— Whether anything in the practice module, particularly around the hindrances and vipassanā sections, risks misleading a practitioner or giving the wrong impression of what the practice involves
+
+I have tried to be honest with users about the limits of what an app can track.I have also included a note in the path module saying I am a layperson, that there may be errors, and inviting corrections.
+
+If any of you have the time and inclination to look at this and tell me what is wrong, I would be genuinely grateful. The app is available on the Play Store — I can also share screenshots of the practice module and path descriptions specifically if that is easier.
+
+I built this for my own practice and for laypeople like me who want something grounded in the early texts rather than in modern mindfulness repackaging. If the Dhamma parts are not right, the app does not serve that purpose regardless of how well the software works.
+
+With respect, Kapil
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1t4f2c2/i_have_created_a_free_sutta_companion_app_to/oke90vc/)** _2026-05-07 05:47:04_:
+    The app looks great software-wise, although there some issues with the "Practice settings" section:
+
+    (1) In the first step of the Gradual Training, the third precept is celibacy, not just abstaining from sensual misconduct.   
+      
+    (2) Pinpointing the specific sense base in the sense restraint section is unnecessary and will likely lead to overthinking.   
+      
+    (3) In the Samādhi section, it shows the suggestion "30 min ānāpanasati, aiming for first jhāna," clearly reflecting the common wrong view that jhāna is an absorbed state that "comes to you" after a certain period of some attentional exercise.
+
+    More generally, the act of logging per se—for anything beyond the precepts, which *are* clear-cut— is a strong indicator that a person is approaching the practice as just another technique/mechanical performance, and that means they are certainly not doing any of the right work on the mental level.
+
+---
+
+**r/HillsideHermitage** | Posted by EggplantNumerous8026 _2026-04-30 21:10:34_
+### [Right Restraint or Wrong Restraint?](https://www.reddit.com/r/HillsideHermitage/comments/1t095pg/right_restraint_or_wrong_restraint/)
+
+I have trouble keeping restraint and not breaking the precepts.   
+For example i get a lustful/sexual thought, in the moment i comprehend that this thought is dangerous and against the goal/virtue (Dhamma practice), not the thought itself but its implications, its leading me a certain way (pressure), and in the moment even though i know logically that this way is leading to danger and suffering and not ultimate satisfaction. I still get hooked by the prospect of pleasure and relief, which builds up more internal conflict and resistance to the idea of acting out until i completely lose perspective and become an animal/beast and act out. 
+
+and when i try to understand where i went wrong after breaking the virtue (HH and SH youtube channels) its many different answers that are correct but i feel they don't solve the problem. Such as you dont understand the danger enough, or you didn't endure on the right level, or you are not developed in the body, you chose to give in.
+
+ive watched pretty much all the videos of HH and SH and many multiple times even up to 10 times some of them, and i've contemplated the teachings, all this over a time span of multiple years, and it all makes sense to me logically, i believe/have faith it is right. ive been long past the dunning-kruger effect, i know also logically that i dont understand truly what they are talking about because im not a sotapanna.
+
+i feel like ive had more than enough information about how to practice the Dhamma, its just that im not restraint enough. and they say you have to purify bodily and verbal conduct before you can purify or even see the mind and start to purify that (simile of purifying gold). and i get that to a degree, but in my experience its the mind/mental states and the thought that pressure me to seek relief (yes from that greater underlying pain of suffering), so if these things originate at the mind and it presents me with the mental thoughts it want me to act out from (like Ajahn said the mind has a mind of its own) why do i have to stop my bodily behavior, which is way down the line of giving in and acting out of craving, like the mind gets a sensual desire first but i am told that as a puthujhana i cant see my mind thus focus on "impeccable virtue". isnt it just better to stop the craving in its emerging domain first, before it spills out into other domains because yes in a fundamental level you cant handle the pressure or endure on the right level when you have lost your perspective (because i got careless). and somehow i have to balance this with training gradually also, so not doing to much at once? but not too little as well? How to determine what pressure to prioritize to not act out from, when all pressure shouldn't be acted out from? Just how do i get to the actual goal and understand the dhamma? any ideas? In one video on SH bhante Anigha said that "when you want to act out, just dont" (very close to this atleast), and like this is stating the obvious. and its correct but its not that helpfull, is he implaying that we have ultimate control/choice? so a fully addicted drug addict for >10 years or other type of addict can just stop when he decides?  
+its like yeah its his choice that frees him but that doesnt mean he wont relapse, like at the same time tha wild animal gets compared to a strong animal like a wild bull elephant while we are the weaker animal that has to tame it smart. like we cannot just overpower it by sheer will, or can we? is the ability to consciously choose just a muscle that has to be trained as much a possible, so that when unwholesome desire arises we can stay clear from acting out? if so how to prevent burning out and relapse?  
+ 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1t095pg/right_restraint_or_wrong_restraint/ojmgtcl/)** _2026-05-03 04:04:45_:
+    > why do i have to stop my bodily behavior, which is way down the line of giving in and acting out of craving,
+
+    Because intentional bodily actions are the coarsest mental actions you can do.
+
+    > so a fully addicted drug addict for >10 years or other type of addict can just stop when he decides?
+
+    Yes, because his body simply can't take the drug on its own; he has to mentally choose that.
+
+    Each time he takes the drug again, he is deciding that stopping the pains of withdrawal is more important than eventually being free from the addiction. So, he must abstain from making that decision no matter what (which is very straightforward, just not easy in the beginning).
+
+    
+
+---
+
 **r/HillsideHermitage** | Posted by Solip123 _2026-04-26 17:26:16_
 ### [Tendency to fixate on regret over past - what can be done about this?](https://www.reddit.com/r/HillsideHermitage/comments/1swdqd8/tendency_to_fixate_on_regret_over_past_what_can/)
 
