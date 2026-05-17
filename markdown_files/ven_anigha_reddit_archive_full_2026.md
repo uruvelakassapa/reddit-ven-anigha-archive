@@ -14,6 +14,74 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by tejveeer _2026-05-15 02:33:15_
+### [Request: sequential series for beginners?](https://www.reddit.com/r/HillsideHermitage/comments/1tdj5ge/request_sequential_series_for_beginners/)
+
+I have been in conversation with an old friend for some time about the dhamma - at least my understanding of it.
+
+I had spent some time uncovering some views he had tacitly due to the scientific culture we were bought up in. Since they were challenged, he seems more open to consider the possibility of future birth, the weight of which he seems to be realizing to some degree now.
+
+Because of this he showed some interest in HH's teachings, except I had nowhere I could point for starters. The slovenian videos? The sri lankan videos?
+
+Unfortunately, HH's teachings now, even though they seem more targetted towards beginners, feel even more difficult to enter than they were before. It feels almost as if someone needs the context accumulated across all 500 videos and years of trying to make sense of the suttas and their pali to really begin making any sense of the new videos.
+
+I think this is because of the following reasons:
+
+1. The format of the videos. They are conversations between the venerables themselves, in which there is a questioner and answerer. The questioner assumes the place of an abstract viewer, rather than actual live viewers.
+2. The content of the videos. The content is often a part of the whole of HH's teachings, where how that part fits into the whole is only sometimes mentioned, or when it is, it is overriden by the multiplicity of topics covered.
+3. The lack of hierarchy in the videos. The videos seem like a bunch of topics concatenated together: A B C D E F ..., which is natural since IRL conversations flow without hierarchy; as new questions come up, the topics change. But this is extremely costly on the viewers because, in my estimate, every video has at least 15-20 topics changes. Viewers have to hold context of the discussion, see how it might be related to the multiple changes that previously occurred, process incoming discussions, remember very important bits. The same video may go from talking about sati, to yoniso manasikara, to a sutta, to sense restraint, to avijja, to another sutta, to meditation techniques, etc. This means the very important parts of the video, say topic B, F, H, are lost since the video is so linear.
+
+This may be compared in contrast to a pre-planned video on a subject that has an explicit hierarchy.
+
+Say there is a doctor who is giving an update on the medication plan to their patient over a 20 minute video. They plan that the starting 5 minutes are for introducing the purpose of this new plan; how it fits into the overall plan of recovery. The next 5 are for addressing existing medication. The next 10 are for new medication.
+
+In the new medication, they will have 5 minutes for what the new medication is, why it's needed, and its sides effects. The next 5 for how to use it.
+
+There is a clear hierarchy here. Three top-level topics: context, current medication, new medication. And the 3rd has two sub-topics: Introduction, application.
+
+Compare this to if the doctor made a 1 hour video in conversation with another doctor. They begin by introducing the new medication, then the research paper that supports this, then the research papers that don't support this medication and the issues with them, then the context of the new medication, then some new research papers, then the application of the new medication, then the side effects, then its purpose, etc.
+
+Of course, it is completely up to the venerables on whether this is of any benefit. But I think it would be very beneficial to existing members and to others outside the community willing to learn to have a course-like presentation of the core of the dhamma by HH, that builds from ground up.
+
+The whole of HH's teachings can be divided into positive and negative parts. The positive is concerned with their own views, the negative with addressing views that will obstruct others from understanding/considering HH's positive views.
+
+The positive part is concerned centrally with the HH's aim: to teach for the uprooting not management of suffering. Then this would be split off into two branches that elaborate on this distinction: on management and on uprooting.
+
+In order for newcomers to understand why management is problematic, they must understand how HH understands the actual uprooting of suffering. So it is possible to start off from the uprooting branch and address that as its own topic in a video.
+
+This branch would address what the root of the problem is (craving), what the solution is (removing craving), and how that solution is implemented (i.e., it would introduce the notions of the four noble truths and the five aggregates).
+
+Then it's possible to more easily make sense of what management is (namely, everything that is not addressing the root), and why it's problematic (it doesn't address the root).
+
+Then one could exit the positive branch and address the negative branch. Chiefly, meditation techniques.
+
+The course/series could be divided in 3/4th part to the positive part, and 1/4th to the negative. In the positive, 1/2 is spent on uprooting, 1/2 on management. And the same hierarchical division goes down more and more, and every video would itself be just another hierarchical division.
+
+This would just be one among many ways of presenting HH's central views. But I personally think this would help save much time on both HH's part as well as on the viewers' part due to the clarity it can bring.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1tdj5ge/request_sequential_series_for_beginners/olyfytm/)** _2026-05-15 14:30:31_:
+    I'm sure we will continue to refine our approach to teaching, but the lack of a "course-like structure"—and the lack of hand-holding of the listener in general—is deliberate and will continue to be that way. It's the least we can do for an distant audience to keep them on the side of seeing (or at least trying to see) for themselves the experiential truths that our material is grounded in, rather than being distracted by intellectual connections with ideas they've heard before (including from us).
+
+    Giving in to the hunger for neatly presented information that newcomers will naturally have is a misstep rooted in yourself not understanding what the Dhamma is and how it is realized. What that actually achieves is helping people fall into the trap of [thinking that they understand what they don't](https://suttas.hillsidehermitage.org/?q=an5.152). They start to feel that the teachings "make sense" to them while their life and mental habits continue in the same trajectory as before, and that's a worse position than not having heard the teachings at all.
+
+    Merely making our teachings publicly available inevitably allows a number of people to fall into this trap, and we wouldn't want to increase that number.
+
+---
+
+**r/HillsideHermitage** | Posted by nubuda _2026-05-13 15:55:09_
+### ["Doing Nothing" Meditation](https://www.reddit.com/r/HillsideHermitage/comments/1tc3sr4/doing_nothing_meditation/)
+
+If you sit or lie down with eyes closed and just rest for long enough, eventually the thoughts begin to slow down and the mind settles on effortless awareness of the body breathing. The clarity of the mind increases significantly if you practice it regularly. I think this is how Buddha experienced jhana when he was still a kid chilling under a tree.
+
+Does Hillside Hermitage support such meditation? In my experience it
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1tc3sr4/doing_nothing_meditation/olp9mj6/)** _2026-05-14 04:21:42_:
+    > Does Hillside Hermitage support such meditation? 
+
+    No. Such practices play no role whatsoever on the path, and we have extensively explained why (as well as what samādhi actually is) in our teachings.
+
+---
+
 **r/HillsideHermitage** | Posted by bodily_heartfulness _2026-05-05 22:55:56_
 ### [the right peace before stream entry](https://www.reddit.com/r/HillsideHermitage/comments/1t4v8sg/the_right_peace_before_stream_entry/)
 
