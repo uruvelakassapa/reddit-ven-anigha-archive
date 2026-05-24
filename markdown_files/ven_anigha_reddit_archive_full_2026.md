@@ -14,6 +14,32 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by account-7 _2026-05-21 16:26:43_
+### [Question on the nature of HH's critique of other traditions](https://www.reddit.com/r/HillsideHermitage/comments/1tjpqzn/question_on_the_nature_of_hhs_critique_of_other/)
+
+Hello! Just a brief question to understand what the Hillside Hermitage stance is on this. I have heard - most of which I agree with - many thoughtful and useful critiques on almost every other tradition's pedagogy and presentation of the Dhamma. However, I want to better understand the scope of this critique as I, potentially intentionally, haven't heard a direct answer in all I've seen the past couple years here. Though I think it would be useful to hear if offered.
+
+I will not name names as to put anyone answering in the awkward (and probably useless/impossible) position of naming specific individuals who do or do not teach the Dhamma, but is the HH position that alternative frameworks are structurally incapable of producing liberation because they operate on a fundamental misconception? Such as prominent Thai Forest teachers, Chan/Zen, or veering a bit into perennialism but even non-Buddhist contemplative traditions like Advaita? And in this case, would their "attainments" just be chalked up to maintaining refined states of samadhi?
+
+Or is it more just a generalized concern for the preservation of the dhamma in its most efficient, canonically accurate form. Dismissing not the potential validity of those paths to lead to fruitions, but their efficacy and the massive traps/potential pitfalls that is seen as mitigated within HH instructions; while leaving room for the possibility that individuals could make their way into right view despite a flawed framework?
+
+Thank you for your time!
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1tjpqzn/question_on_the_nature_of_hhs_critique_of_other/on6sfsn/)** _2026-05-22 04:34:40_:
+    > HH position that alternative frameworks are structurally incapable of producing liberation because they operate on a fundamental misconception?
+
+    Yes, it's a structural issue whereby those frameworks cannot lead to *anything but* pitfalls. Becoming accomplished in them puts one in a worse position than one started in (see below). 
+
+    A less ideal or efficient framework leading the same goal would not warrant dismissal. 
+
+    > And in this case, would their "attainments" just be chalked up to maintaining refined states of samadhi?
+
+    [Wrong samādhi, wrong knowledge, and wrong liberation](https://suttacentral.net/sn45.26/en/bodhi?lang=en&reference=none&highlight=false#2.2). In simple terms that means: not experiencing (perceptible) dukkha because the circumstances that trigger it have been altered, not because craving in regard to all possible circumstances has diminished. And that is what delusion, the most insidious of the three defilements, boils down to. 
+
+    Of course, this need not be the stated mechanism of operation of a certain practice in order to be the actual mechanism. That mechanism can be embedded in an endless array of different narratives and descriptions.
+
+---
+
 **r/HillsideHermitage** | Posted by tejveeer _2026-05-15 02:33:15_
 ### [Request: sequential series for beginners?](https://www.reddit.com/r/HillsideHermitage/comments/1tdj5ge/request_sequential_series_for_beginners/)
 
