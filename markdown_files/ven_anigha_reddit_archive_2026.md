@@ -9,6 +9,114 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by None _2026-05-26 17:56:59_
+### [Venerable Anigha and Venerable Medhini please have pity on me]()
+
+[deleted]
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toeqdc/venerable_anigha_and_venerable_medhini_please/ooeuqbn/)** _2026-05-28 17:36:46_:
+
+    > In my doubt, last night, I decided to see what it would feel like to have that pressure endure. So I thought up some lustful images, and started masturbating to the point where I was close to ejaculation, and I had to absorb myself in the fantasies to keep going. I stopped and observed what would happen in my mind. There was an urge to keep going, and as soon as I stopped willfully ignoring it, it stopped pressuring me. I went to bed without trouble.
+
+    Enduring the pressure on the right level means not thinking up the lustful images to begin with, let alone masturbating. Whatever change of course happens after those choices is really just containing the defeat, not victory.
+
+    So it sounds like you just have to take the precepts and celibacy more seriously. From where you are standing, that will undoubtedly lead to covering up/suppressing things less, and there is no point in worrying about subtler cover ups until that's sorted.
+
+---
+
+**r/HillsideHermitage** | Posted by Emergency_Win_3698 _2026-05-26 15:33:38_
+### [Is treating gender dysphoria through medical intervention acting out of craving?](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/)
+
+Side note: I'm making another post specifically for this question because the last one was supposed to be about monastic options for a person that stays on HRT and gets some surgeries to address their body dysphoria, and it sort of went off track. I have also discussed this question with others (including privately) and I don't feel that a consensus was ever reached. I would appreciate any insight into this issue.
+
+Description of my situation: I experience intense dread when I imagine indefinitely ceasing the medications I currently take that suppress my androgen levels (and raise estradiol) in order to prevent further masculinization from occurring. I also experience dread when I imagine indefinitely foregoing surgeries and trying to accept my body as it is.
+
+On top of that dread, there is a baseline of wrongness/unpleasantness, escalating sometimes to a considerable level of distress (though it is not a constant) that is amplified when I focus on a given feature that is male/masculine. But it is always palpable as a baseline unpleasant quality of experience that is present the second I wake up. This is worse for secondary sex characteristics like bone and cartilage development, increased upper body musculature, balding, facial and body hair (rather than genitalia for which my aversion tends to be comparatively weaker). Social situations tend to amplify this issue by increasing hypervigilant attention to a cluster of traits (e.g., shoulder width, height, face, skull, hands, feet, etc.), usually resulting in more intense distress than when I am alone, though it depends on the circumstances.
+
+Detransitioning *feels* like it would be self-mortification because of the distress that I expect it would result in. But I also acknowledge that the fact I feel so much dread and aversion toward this issue is potentially evidence that I am incredibly attached--perhaps more so than to anything else. Why, for example, do I even take the HRT? I do so because I feel a lot of anxiety and dread around masculinizing any more. So, there is clearly aversion toward that present.
+
+Also, no matter how I justify it to myself, medically transitioning feels like a diversion/distraction from the path and from nibbana, as I am essentially trying to make the body be the way I want it to be and hold the belief that I cannot achieve peace (or even successfully practice) otherwise. I realize that I had the belief that I "just need to fix this" and *then* I can take the practice off the backburner and dedicate my life to fully uprooting suffering. But that's not really logical, is it?
+
+At present I am working a job in order to cover the surgeries I would need to make a dent in my dysphoria. So, the stakes are genuinely high and deciding to call the whole thing off would be a huge decision for which I would need substantial justification.
+
+Questions I have (apart from post title):
+
+1. Do you think that going through with surgeries and such to modify the body will permanently increase attachment to it in the long run and/or obstruct the right view?
+2. If medical transition is a poor idea because of the above, what should I do instead (keeping in mind that this isn't an identity issue of "I feel like \[preferred gender\]." It manifests as often intense distress that has in the past compelled me to desire death)?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/oo1cxag/)** _2026-05-26 20:06:15_:
+
+    There is no doubt that these interventions constitute acting out of craving (and the intense dread you experience at the prospect of stopping them only proves it further). Pursuing them is reinforcing the deep-seated assumption that the escape from suffering lies in changing the circumstances.
+
+    The thing is that, going by what you describe, it's likely not realistic to stop it all at once. It may be too much pressure for you to withstand at this point, and you may well end up in a worse position in the aftermath of quitting too rapidly.
+
+    The more realistic course of action is to gradually cut back on the interventions, while also starting to challenge all the emotional attitudes driving you to them rather than taking them for granted and justifying them.
+
+    The fact that there could be a minimum degree of treatment necessary to prevent yourself from falling apart—at this time, due to insufficient training of the mind—doesn't mean that you have to accept other measures that build on top of that. And it is almost certain that you are currently doing more than that bare minimum. 
+
+    By going closer to that minimum, the aversion will come up in a more manageable degree, and that will create some basis for training and going against the grain. Up until you can finally abandon the whole thing when the aversion in regard to *that* isn't strong enough to completely overwhelm you as it might now.
+
+    
+
+    
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/oo6lqj5/)** _2026-05-27 14:51:37_:
+
+    > Why is that diagnostic? Are you saying that the severity of the condition is what justifies withdrawing the treatment?
+
+    The severity of suffering shows the extent of craving (that's how it works across the board).
+
+    > Couldn't this charge be leveled at any form of medicine that is treating a condition that causes suffering?
+
+    Not in the same way. The crucial difference is that most conditions can exist independently of craving and suffering, whereas gender dysphoria cannot. That means that treating it externally can never be a neutral choice from a Dhamma perspective.
+
+    > Is there any way that I could continue to intervene without acting out of it/fueling the craving, like how one could take pain medication with a mind of craving without the intention being itself rooted in craving?
+
+    Therefore, no. 
+
+    But just to repeat, this doesn't mean that you must stop the interventions overnight if that has a high risk of overwhelming you. The point is to start valuing and moving in the opposite direction, not to immediately arrive at its end.
+
+    > I'm not sure how exactly to go about doing this.
+
+    Reflecting on the condition as objectively as you can until you see with more certainty that it is directly tied to unwholesome states of mind, and is not something you can simply accept and try to develop wholesome states on top of. Essentially, getting to the point where intellectually at least, you see that abandoning the treatments is what is in your ultimate welfare.
+
+    Then, weaning off the treatments will still be unpleasant and doubts about the decision might still arise from time to time, but you will have grounds for sticking to it regardless.
+
+    > I am looking into getting some surgeries, which would likely put a dent in it (but not get rid of all the aversion either per se, as some things cannot be easily fixed or at all).
+
+    That could be a way of going beyond the bare minimum. It's definitely going beyond what you currently have, which will only make reversing direction more difficult.
+
+    > But I would say that it's not very manageable right now because I am in constant pain and discomfort over it and it causes significant dysfunction.
+
+    What I mean with "manageable" can still be quite unpleasant. If you can sustain it without having a mental breakdown then it's manageable.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/oobahog/)** _2026-05-28 04:52:15_:
+
+    > What makes gender dysphoria special in this regard?
+
+    The fact that the condition itself (rather than a consequence of it) is called "dysphoria"—meaning unease/dissatisfaction/unhappiness—highlights what makes it different.
+
+    >  but could not there be a baseline of pre-cognitive disagreeableness (like the disturbance of the six sense bases) or a kind of perceptual mismatch that would persist even in an arahant with it?
+
+    No, because such disagreeableness would require the mind [still having concern for the body](https://suttacentral.net/an6.83/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin).
+
+    > So, it seems like the only reason it is manageable at present is the fact that I am working toward surgeries, and ceasing those efforts would therefore increase the likelihood of having a mental breakdown and of the suicidal thoughts returning full force.
+
+    That's possible. But you have to realize that no amount of displeasure produces those reactions by itself. In other words, you have to take full responsibility for them.
+
+    See how that goes before deciding to go for the surgeries.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/ooewd8p/)** _2026-05-28 17:43:49_:
+
+    You cease to see yourself as a victim in despair and renounce the bittersweet gratification that comes from that attitude (which is the direction every mind tends to go whenever something is highly unpleasant). You maintain the context that despairing is a choice, and that it only worsens the displeasure.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/ooi9ikh/)** _2026-05-29 04:09:45_:
+
+    > Are you saying that arahants don't feel any sense of disagreability? 
+
+    No. A dislike for the given body's male/female features and a desire for the opposite is not just a neutral and unavoidable disagreeability on the level of hunger or physical illness. It's a symptom of mental affinity towards the body, similar to what [this Sutta](https://suttacentral.net/an7.51/en/sujato) describes.
+
+    
+    
+
+---
+
 **r/HillsideHermitage** | Posted by account-7 _2026-05-21 16:26:43_
 ### [Question on the nature of HH's critique of other traditions](https://www.reddit.com/r/HillsideHermitage/comments/1tjpqzn/question_on_the_nature_of_hhs_critique_of_other/)
 
