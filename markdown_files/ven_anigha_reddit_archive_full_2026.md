@@ -14,6 +14,144 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by Agreeable_Range_8732 _2026-06-21 17:29:17_
+### [Seemingly contradicting statements by Ajahn Nyanamoli and Bhikku Anigha on meditation (as far as I can tell)](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/)
+
+**From Bhikku Anigha**:
+
+"Under that Buddha's own definition, meditation (bhāvanā), be it Anapanasati or anything else is the cultivation of the 7 enlightenment factors, and [these exist only for a stream-enterer.](https://suttacentral.net/sn46.30/en/sujato?lang=en)
+
+So in the end, the problem is not ***what*** a person is practicing per se. The point is not that if you do AN's "method" instead, you will be practicing properly. If only it were that easy.
+
+Meditation is the further development of the cessation of suffering that person has already understood. Thus, if they don't see the cessation of suffering, it follows that whatever meditation they're doing will be about something else (managing\*,\* running away from suffering, or getting a separate pleasure to cancel it out). Whether or not they regard it to be in line with the Four Noble Truths or not is not a valid criterion, because the point is that they haven't seen those truths yet to begin with. In fact, an attempt to cultivate the 7 enlightenment factors when one still hasn't understood what enlightenment entails taking one's current idea of what enlightenment and suffering are for granted."
+
+**From Ajahn**:
+
+"If a person wants to do his meditation in a “formal” manner,
+
+such as sit for an hour a few times a day, that is fine. As long as it
+
+is not done for the purpose of developing some sort of “experience of
+
+absorption” out of it. Like trying to watch one’s breath hoping for
+
+some novelty energy release or pleasures. The point of meditation
+
+is to remain aware as much as possible. Aware or mindful of whatever
+
+is already there enduring (feeling, perception, intentions). Not
+
+interfere with it, or deny it, or try to replace it. Just discerning the
+
+enduring presence of the arisen experience. Emotionally, perceptually
+
+and intentionally. That kind of composure can then be “spread
+
+out” over one’s entire day, even when a person is not sitting down
+
+to meditate. "
+
+The book I got Ajahn's quote from is Dhamma Within Reach, which was what was recommended to me by Sister Medhini when I first discovered HH and was starting out. So, I assume that this book is applicable to beginners as well. So, why does it have any mention of meditation at all if it is aimed at beginners?
+
+Bhikku Anigha claims that meditation is for sottapannas and above, that if we were to try to meditate, try to cultivate the 7 enlightenment factors (one of them being mindfulness, the practice of which is clearly explained in the excerpt I gave), that it would not work. If I'm not mistaken, he mentions in another post that this would lead to Wrong Liberation.
+
+So, if Ajahn's book is not only for sotapannas, why is meditation mentioned at all if HH doesn't want us to practice it at this stage? And if that part is solely mentioned for sotapannas only, and puthujannas need to ignore that part and follow the rest of the book, then the book should mention that.
+
+Why did Sister Medhini even recommend me a book that may be to advanced for me?
+
+Here is another quote from Ajahn, where he mentions in the same book that is, mind you, **for beginners**:
+
+"One needs to find that kind of
+
+composure that one can maintain in different circumstances. The
+
+way to do this is by establishing the general mindfulness. Not the
+
+particular observation and adherence to the prescribed steps of a
+
+“meditation” technique, that results in one being absorbed in it. But
+
+the opposite: awareness of one’s general situation as a whole (e.g.
+
+an enduring mood, state of mind, persisting feeling etc.). Common
+
+practice of “absorption” can then be seen as the complete opposite
+
+of this type of general mindfulness."
+
+While Bhikku Anigha says, "Under that Buddha's own definition, meditation (bhāvanā), be it Anapanasati or anything else is the cultivation of the 7 enlightenment factors, and [these exist only for a stream-enterer.](https://suttacentral.net/sn46.30/en/sujato?lang=en)"
+
+Mindfulness or awareness is one of the seven enlightenment factors, and he says they are only for a stream-enterer, while Ajahn tells us to establish general mindfulness, in as soon as the 3rd chapter of a beginner's book.
+
+Another comment by Bhikku Anigha: "Any type of meditation that promises itself to be right while one is a puthujjana is intrinsically wrong, whether it's noting, watching your breath, loving-kindness mantras, or even **"choiceless awareness"/"open awareness"**, simply because it won't push you to become aware of your intentions, which is where craving, the defilements, and everything you actually need to understand lies. Your mind is still subject to greed, aversion, and delusion not because you don't spend enough time "noting" or because the noting hasn't given rise to some special fruition experience, but because you don't sufficiently recognize the degree to which your own intentions, including the intention to practice noting, as well as anything else you do, say, or think, is affected with those defilements."
+
+So Bhikku Anigha denies that any kind of "meditation technique" works, even if it's something like some sort of awareness practice, or trying to be aware of your intentions when sitting in solitude.
+
+While u/kyklon_anarchon says this for open awareness: "in the way i see it, open awareness properly understood \[and carried through as both an on cushion and off cushion attitude\] is the functional equivalent of guarding the sense doors. \[only two monastics that i ve read explicitly see it in these terms though -- Bhikkhu Analayo and Bhikkhu Aggacitta, who, incidentally, is a student of Sayadaw U Tejaniya, and has talks about this on youtube -- examining how what he considers open awareness is the sense restraint in the gradual training\].
+
+\[so, what you are doing both in open awareness if you don t mystify it and in guarding your sense doors is that\] you notice you dwell on something with lust or aversion in the background, and you unhook yourself from dwelling on that object / topic through explicitly including / recognizing *something else* that is co-present. one question that both Ajahn Nyanamoli and Joan Tollifson use to this effect is "what else is there?" -- and the question leads the mind in the direction of *finding something else, co-present*. for me, the main "thing" that is there regardless of what else is there -- and acts as a condition of possibility for *anything else* being there -- is the body. in becoming aware of the body as present -- which is not the same thing as "feeling the body", but also *does not exclude* feeling the body, one becomes unhooked from that which was absorbing, and can dwell in a way that is aware of the basic situation one is in, which includes the body *and everything else correlated with its presence*. one can use any satipatthana as this kind of place to return. it seems to me that, in his own practice, judging by old videos, Ajahn Nyanamoli was prioritizing vedana; at other points -- kaya."
+
+Everyone seems to be contradicting each other, as far as I can tell.
+
+And I personally don't really see what's wrong with trying to set up peripheral awareness or mindfulness when I sit in solitude. How can that be unbeneficial or unwholesome? Seems like the fastest way to progress to me, since mindfulness is the endgame.
+
+If I am missing something, I'm happy to be corrected. I want to reconcile everything here, I am very confused. I also apologize for the very messy format, the questions are all over the place.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/ot2nudv/)** _2026-06-22 05:18:58_:
+    > How can that be unbeneficial or unwholesome? 
+
+    Not seeing how it could be unwholesome is what will make it unwholesome. It means you will be assuming a certain practice (whatever that is) to be correct because of *what* it is, independently of whether you're doing it out of longing, aversion, restlessness, etc. And that's precisely why a puthujjana cannot simply dedicate themselves to "practicing mindfulness." The definition of being a puthujjana is not clearly seeing those unwholesome states in their own mind, which means their attempts to purify their mind are guaranteed to be informed by tradition, hearsay, reasoning, etc., rather than on the actual decrease of their defilements.
+
+    That doesn't mean that a puthujjana is automatically doing something wrong if they try to develop wholesome states (unless they are doing so on the basis of incomplete precepts and sense restraint). But if they are ever to cease to be a puthujjana, that effort should be centered on understanding what wholesome states are in the first place, not developing whatever impression of wholesome states they currently have (which, again, will inevitably be based on external standpoints). That automatically rules out every single "method" you could ever come across, including anything you could try to extract from HH teachings.
+
+    So there isn't a contradiction in the different statements you quoted; you will even find plenty of instances AN saying similar things as what I wrote, and vice versa. That's because both angles need to be incorporated simultaneously: "I don't see what the right effort is, but I will inevitably be making some sort of effort. Thus, within that effort, let me try and understand what makes certain efforts right and others wrong."
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/otbw8n4/)** _2026-06-23 14:17:15_:
+
+    *(In reply to Agreeable_Range_8732):*
+    > So if puthujjanas were never meant to practice mindfulness, then why does Ajahn even mention mindfulness in a book for beginners, let alone describe how it's to be done? 
+    >
+    > 
+    >
+    > And I still don't understand how simply trying to be mindful can be unwholesome. When I just sit there in solitude, I have no intentions to do anything. My only intention is to just sit there. While intentions to stand up and go do something, or some other unwholesome intentions do come up, I don't act out of them, neither do I push them away. I simply endure them until they leave. So, up until now, neither have I done anything unwholesome, neither have I entertained any unwholesome intention in my mind, neither were there any unwholesome intentions to start the practice (for example, practicing for mystical experiences). Then I simply try to set up peripheral awareness, of the breath or of mood/feelings or of any other anchor, as best as I can. 
+    >
+    > My primary intention of even doing this practice is to simply be aware of unwholesome intentions in my mind, so that I can be rid of them. Ajahn even mentions in the same excerpt I gave, that you can carry this practice off the cushion as well, spreading it out over your entire day.
+    >
+    > 
+    >
+    > How is any of this unwholesome? I'm genuinely trying to grasp how this practice can be detrimental.
+    >
+    > 
+    >
+    > And even if I don't understand what wholesome and unwholesome is, some degree of faith has to be kept to even start the practice, right? It's the same with precepts: I don't intrinsically know that breaking the precepts means acting out of craving, but I do know that theoretically. The same way, I don't know that my practice of mindfulness as described by AN is wholesome or not, but I at least have to try it.
+    >
+    > 
+    >
+    > And why should the effort should be centered on understanding what wholesome states are in the first place? You never gave an explanation as to why it's to be done first.
+    >
+    >   
+    > And if that is the case, then you cannot even start the precepts because you'll be assuming that the practice of precepts is correct/wholesome. You also said, "Not seeing how it could be unwholesome is what will make it unwholesome." I definitely do not see how precepts can be unwholesome, so does that mean following the precepts becomes unwholesome?
+    >
+    >   
+    > My attempts to purify my mind using precepts are also informed by tradition, hearsay, reasoning, etc., rather than on the actual decrease of their defilements. 
+    >
+    > 
+
+    > My primary intention of even doing this practice is to simply be aware of unwholesome intentions in my mind, so that I can be rid of them.  Ajahn even mentions in the same excerpt I gave, that you can carry this practice off the cushion as well, spreading it out over your entire day.
+
+    That's fine in principle. The point to remember is that not having the ability to discern unwholesome intentions [is why you're not a *sotāpanna*](https://suttas.hillsidehermitage.org/?q=mn9). Then you won't be assuming that you found the way to "abandon unwholesome intentions," and you will be more focused on learning what that actually means than on doing what you think it means (some extent of the latter is inevitable, but the priority remains on the former).
+
+    As I already said, you will have to be doing *something* in the name of practice, and whatever it is (including complete abstinence from practice) will be tainted with ignorance until you're a *sotāpanna*. The hindrance is not to merely *be* in the wrong, but rather to not acknowledge the initial wrongness (which is the same attitude that would stop you from gaining true expertise in anything, not just the Dhamma).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/oth0bf3/)** _2026-06-24 05:23:47_:
+
+    *(In reply to Agreeable_Range_8732):*
+    > I think I understand to some extent. What I understood from this was that I can keep practicing the way I've been doing (precepts, trying to discern intentions before acting out of them in daily life) ***including*** peripheral awareness, but I have to acknowledge that whatever practice I do will be somewhat incorrect. So always intending to upgrade to a superior version of the practice. Is this right, or have I misunderstood? 
+
+    > So always intending to upgrade to a superior version of the practice. Is this right, or have I misunderstood?
+
+    In essence, yes. But there needs to be a sense of genuine urgency and doubt behind that, through seeing how you continue to be liable to suffering one way or the other, despite your best attempts to overcome that liability. Not just an arms-length intention for improvement that virtually every practitioner has while ultimately continuing to take their core views for granted.
+
+---
+
 **r/HillsideHermitage** | Posted by Formal_Breath_2026 _2026-06-15 04:44:52_
 ### [How to Interpret the Vinaya](https://www.reddit.com/r/HillsideHermitage/comments/1u66nk4/how_to_interpret_the_vinaya/)
 
