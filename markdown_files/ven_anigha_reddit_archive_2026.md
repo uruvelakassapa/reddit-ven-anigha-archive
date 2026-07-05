@@ -9,6 +9,98 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by Representative-Age18 _2026-06-28 11:24:36_
+### [Metta to calm aversion, not get rid of pressure without fully developed virtue](https://www.reddit.com/r/HillsideHermitage/comments/1uhusy3/metta_to_calm_aversion_not_get_rid_of_pressure/)
+
+My question is essentially whether it would be wrong to cultivate generosity, kindness and a mind of friendliness if I’m still not yet fully developed in restraint. (Not yet fully celibate). Will it help me towards deepening renunciation and understanding, or will it just be another escape from pressure.
+
+Assuming I’m not doing it when pressured to do so, but with the right intention of calming aversion to pressure, instead of getting rid of pressure thru sensuality.
+
+Btw, I understand metta better as friendly (non illwill) bodily, verbal and mental action, not just repeating phrases in my head. 
+
+Should I make it a serious focus of my practice to not only never harm, but also do kind acts to other beings, charity and generosity and train the mind in friendly attitude? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uhusy3/metta_to_calm_aversion_not_get_rid_of_pressure/oubg38a/)** _2026-06-28 14:22:54_:
+
+    You can practice generosity, but don't think that you are calming aversion and developing *mettā* if you don't have the right view yet (even if you were keeping all the precepts perfectly).
+
+    In order to cultivate a friendly mind, you need to see your mind first, i.e., have the right view (for which virtue is necessary). If you don't, whatever friendliness you commit to will be tainted by a mind that wants to get rid of unpleasant pressures (aversion) even if you think that's not what you're aiming for.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uhusy3/metta_to_calm_aversion_not_get_rid_of_pressure/ouggn8q/)** _2026-06-29 06:57:35_:
+
+    > So generosity and kindness is pointless before sottapatti and won’t help you develop right view?
+
+    No, it's not pointless. It can indirectly contribute to right view provided one is doing everything else properly, i.e., virtue, sense restraint, and having enough faith and urgency to be ready to question all of one's views.
+
+    > In this video, Ajahn also says that Metta won’t take deep roots until the mind is tamed BUT he says that one should still practice metta meditation with an untamed mind
+
+    A mind that hasn't been sufficiently tamed by virtue is not the same as a mind that is *bypassing* virtue. It sounds like the latter is what you're going for, and that will inevitably be superficial management of discomfort while actual defilements are left unchecked.
+
+---
+
+**r/HillsideHermitage** | Posted by spiffyhandle _2026-06-26 12:20:47_
+### [What flaws do you see in my understanding of practice?](https://www.reddit.com/r/HillsideHermitage/comments/1ug59uo/what_flaws_do_you_see_in_my_understanding_of/)
+
+Hi practitioners,
+
+I have made several misunderstandings of HH teachings on core topics in the past. I am not talking about finer points like the jhanas or satipatthana. I mean mistakes about what the fundamental practice of virtue is. Instead of going into my history (what I used to think and why it was wrong) what follows is my current understanding. Do you see any flaws in it?
+
+My current goal is keeping the 7 precepts. My next goal will be keeping the 8 precepts, then avoiding unwholesome speech, [then not doing unwholesome things that don't break the precepts](https://www.reddit.com/r/HillsideHermitage/wiki/virtue/?screen_view_count=10#wiki_after_the_precepts), then sense restraint, then moderation in eating. At the moment, I'm not too concerned with what sense restraint and moderation in eating are. I just want to develop the foundation of virtue.
+
+I understand my current practice to be, just keep the precepts I've undertaken with a minimum of management. I've taken the precepts in a broad sense; what's given in the suttas are examples to exemplify the essence of them. At this level, if something doesn't break a precept, then I shouldn't bother scrutinizing it. 
+
+I understand the next levels of practice to be the same, but with more precepts (7 -> 8, then no unwholesome speech).
+
+Following this, there are no more precepts to undertake. The training is now done at the level of mental intentions. If I detect an *intention* of greed, aversion, or distraction, don't do it. I understand the intention to manifest more as an emotional reaction and not an intellectual justification. Perfecting understanding and restraint of unwholesome intention might be sotapatti and then I won't need further clarification on sense restraint and moderation in eating.
+
+If I did need further clarification, I figure I should wait until I am more developed in virtue and closer to the next step to clarify what to do. I have read Bhante Anigha's essay on sense restraint.
+
+# Questions
+
+Once I can keep the 7 precepts well, should I move to watching intentions? Or should I move to 8 precepts then 8 precepts with no unwholesome speech then watching intentions?
+
+Is focusing all my effort on precepts, the right approach or too narrow?
+
+# Practice
+
+My practice within the 7 precepts is basically focused around celibacy. It's the precept I struggle with the most. I'm not asking for a method or a cookie cutter technique. I'm figuring out for myself what will help me be celibate. Do you see anything that is obviously wrong?
+
+Things I'm doing or have tried or might try:
+
+* Journaling about precepts, sensuality, celibacy, sexuality, and so on.
+* Contemplating my faith. What do I have faith in and why?
+* Trying to cultivate hiri ottappa, but I'm not really sure how to do this. Figuring it out.
+* 5 recollections, and especially death recollection
+* Noticing that lack of lust feels good and lust feels bad.
+* Thinking about the value of renunciation.
+* Trying to see sensuality like burning coals.
+* When unagitated and in a safe environment, imagining scenarios that might tempt me to break precepts then contemplating the drawbacks and why I should still keep the precepts.
+* Management techniques
+* Trying to do the [basics of anapanasati](https://www.youtube.com/watch?v=MJ3cgh-mV8E) rightly so I endure more. When done wrongly, it seems like a management technique which is still better than breaking precepts.
+* Reflecting on Dhamma talks, essays, suttas, etc.
+
+EDIT: Maybe it would be helpful to share my history of major misunderstandings.
+
+1. Years ago, I thought I should just sit in a chair and not do anything for hours a day because anything I did would be out of craving. 
+1. Thought I should keep the precepts, but also never do anything that had an unwholesome state behind. Virtue wiki explicitly says this is wrong. So I was keeping my practice tighter than it should be.
+1. Today - ???
+
+EDIT 2: **My main concern is having the appropriate sub-goals and goals.** If that is off, then practice is wrongly directed.
+
+The things I've tried, are just my attempts at what might help with the sub-goal of keeping the precepts. I don't know what works, but you can probably infer a rationale behind them.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ug59uo/what_flaws_do_you_see_in_my_understanding_of/oube6dg/)** _2026-06-28 14:13:13_:
+
+    It seems like you think you need a strategy that diminishes the challenge of keeping the precepts in order to reliably keep them. That attitude is going to make your virtue conditional (and thus not a proper container for training the mind).
+
+    It's not inherently wrong to make some effort to diminish the difficulty, such as changing your environment to reduce overwhelming temptations (though as we've said before, management techniques distract you too much from where the actual work happens in order to be useful). But in the end, you will keep falling off the wagon unless you are ready to not give in even when it's most challenging, because the strong pressure to act out will always return eventually.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ug59uo/what_flaws_do_you_see_in_my_understanding_of/ounxhgi/)** _2026-06-30 07:46:39_:
+
+    > Basically, **I am trying to find the reasons that will cause me to always choose celibacy and to not forget those reasons.**
+
+    Sure, developing that clarity is part of the picture. But my point is that the "bedrock" is not that clarity, but rather the resolve that you will not act out even when you completely forget those reasons (which will happen no matter how hard you try to prevent it, because the strength and clarity of the context will not be permanent).
+
+---
+
 **r/HillsideHermitage** | Posted by Agreeable_Range_8732 _2026-06-21 17:29:17_
 ### [Seemingly contradicting statements by Ajahn Nyanamoli and Bhikku Anigha on meditation (as far as I can tell)](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/)
 
