@@ -14,6 +14,86 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by Embarrassed-Box6857 _2026-07-08 14:50:33_
+### [Questioning my views](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/)
+
+Hi everyone, i have been restrained/ practicing deeply for a while now and have some views and assumptions that i would like to question. I am comfortable spending most of my day enduring craving and contemplating, and now have subtler questions arising. I’m not looking for reassurance or speculation but for corrections wherever I’m wrong. I would especially request those who are very sure about their views to help me out. 
+
+All these reflections are based on direct experience in my practice along with some intellectualisation but still mostly experiential. I have also not structured the post much and left it more “raw”-  I think when left like this it conveys my views in an honest and undistorted way. Apologies for the length and rambling in advance..
+
+Q1- What exactly is the extent to which one needs to understand dukkha. Is it about dukkhas all pervasiveness? its subtlety? I’m able to tell in most cases whether there is suffering or not, however there are times when suffering is subtle so i question- is this situation actually dukkha? I guess it sounds weird but sometimes i genuinely am not sure if I’m suffering, i assume this is what one needs to clarify?
+
+Q2-  Previously I thought that with the deepening of practice I would  eventually find craving as an object or a “thing“(no matter how ambiguous or vague ) but then i came across the line from mn 44  
+\-“That assumption is not the same as the five assumption-aggregates. Nor is assumption one thing and the five assumption-aggregates another. It is the desire-and-passion for the five assumption-aggregates that is the assumption there”  
+and this of course made me realise that craving can never be “found” no matter how vague because it’s always in the attitude towards any object. so i guess that’s why the Buddha dosent say ”understand craving“ but abandon it- only dukkha is to be understood. Is that because craving cannot be “understood” like dukkha can? I guess dukkha is the only doorway to the dhamma? Then is the only duty with regards to craving to endure it?
+
+Q3- For a stream enter who has confirmed knowledge that nibbana is the cessation of bhava(SN 12.68) how does one actually get that knowledge? I see repeatedly how cessation of craving is the cessation of suffering, not to the extent necessary for stream entry yet but, enough that I am quite confident in that recognition and can understand how a stream enterer could develop unshakable faith in that. but as for the cessation of bhava I’m confused? I do see how restraint and endurance has definitely reduced the proliferation of my “existence” so to speak, is this what they mean? How the mind establishes  itself in existence or leans towards any direction for refuge/relief?
+
+Q4. What does the convincingness of an experience have to do with craving? I have had times when i subtly crave something (not much pressure) yet it is more believable and the ”this matters” significance is high which makes it harder to endure when compared to even some very gross cravings/ pressures which are easier to endure. Why would this be? I guess i could say that even though there is less pressure the fact that it is believable is itself more suffering even if its felt less oppressively? This makes me think craving and suffering are not necessarily 100% proportional or linear in that sense?
+
+Q5. Why does hh translate phassa as pressure? i clearly see that phassa has “significances” (me, mine, good,bad etc) built into the perception itself however none of these significances-no matter how significant- can pressure me in and of themselves unless there is a pressuring feeling. what i mean is when i endure cravings i have experienced the same objects without craving/emotional pull or “pressure “ so the whole experience is pressureless. from what i understand the pressure would only come from craving- i guess one could say that even feelings pressure one- but the actual felt emotional signifcance of things one is experienced with craving otherwise things are just things…. 
+
+Q6. I’m quite confused with whether what i call feelings are actually feelings. i clearly understand(intellectually and sometimes experientially) that feelings are not bodily sensations, yet i can’t help but wonder is “this” feeling when it might just be a bodily sensation. How do i improve this recognition? When there is craving i immediately feel unpleasant in my body(unpleasant feeling mixed with body sensation- sometimes positive otherwise painful) and i cant seem to “seperate” feeling or confidently say “yes thats feeling!”… Am i mistaking trying to isolate it? 
+
+Q7. Can i ever have unpleasant feeling without craving as a puttujana?  
+As i understand according to pattisamupada and hhs view no- then how can i ever understand what is suffering and what is not? because if i can never see “ahh this feeling isn’t a problem “ then  how does one truly break through?
+
+I do see -time and time again- that when i am craving and i endure i literally experience craving and suffering cease, but if i always have craving then what i am discerning that is ceasing? Is it just slightly less unpleasant but craving still there? It genuinely feels like that craving and suffering ceases for the time being
+
+Q8. i have also had cravings when i was overall calm, but im confused because  the Buddha clearly said one can only feel one feeling at a time. yet im perfectly calm- but there is craving. what am i misunderstanding? 
+
+Q9.  I understand the connection between understanding the 4nts and removing doubt, silabataparamasa. but i don’t see the connection between the 4nt and sakaya ditthi. Is that because craving maintains sakaya, so in that case the undoing of sakaya would be proportional to the undoing of your craving? Is that  why understanding the 4nt removes sakaya ditthi? What is the threshold for that understanding? 
+
+Q10. Why is the  knowledge of a sottapana “whatever  has the nature to arise has the nature to cease” , given more importance than understanding of the 4nts in terms of the standard phrase? Is that just textual bias, or does this line just show the universality of the their recognition?
+
+Q11. How does one practically contemplate the arrow sutta since a puttujana can never experience the first arrow without the second? How does one even recognise either in that case? It seems impossible to me, you only have “this” which is either both arrows or none…
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/owg7anp/)** _2026-07-09 07:55:22_:
+    1.
+    > What exactly is the extent to which one needs to understand dukkha.
+
+    To the extent that you no longer look past it and expect it to find it where it isn't. For example, if you can't see any suffering but you're not sure if you're actually suffering, that vague uncertainty is already suffering. You need to get used to seeing it on that level without it feeling "insufficient" and needing something coarsee and more particular.
+
+    2.
+    > so i guess that’s why the Buddha dosent say ”understand craving“ but abandon it- only dukkha is to be understood. Is that because craving cannot be “understood” like dukkha can?
+
+    Yes. You can't "understand" craving because craving can only exist in the dark. It can't be there while you're actually seeing it. Hence the whole mass of suffering begins with ignorance, not with craving.
+
+    3. 
+    > For a stream enter who has confirmed knowledge that nibbana is the cessation of bhava(SN 12.68) how does one actually get that knowledge?
+
+    By understanding craving and its cessation. Being is the inseparable byproduct of craving, not something that exists on its own. And yes, being is the result of the mind (not you volitionally) assuming certain things as refuge/safety in the broadest sense. That's why you have different types of bhava.
+
+    4.
+
+    "Convincingness" is a suitable basis for craving to become established, but it's not craving per se (see AN 6.55). Craving is the mind taking the convincingness at face value and not fully seeing it as a bait.
+
+    5.
+
+    > but the actual felt emotional signifcance of things one is experienced with craving otherwise things are just things…. 
+
+    Not really. See the above.
+
+    Also, what you're describing as a "pressureless" experience is not genuine absence of pressure; it's an absence of pleasant and unpleasant pressure, i.e. neutrality, which is the third kind of *phassa.* That too is pressuring you, just not as coarsely.
+
+    6. Yes, trying to "isolate" it is bound to lead you astray, because a feeling will always be more general and undefined compared to things that you can neatly pinpoint with your senses and intellect. So for example, when you find yourself being unsure of what a feeling is and not being able to pinpoint it, how does that *whole experience* feel? That's what
+     the feeling is; not whatever you're expecting to find with your direct attention.
+
+    7. You can have *less* craving in regard to an unpleasant feeling as a puthujjana. That's in fact the natural result of keeping the precepts and so on. But that's not going to free you by itself because as I already wrote, ignorance, not craving per se, is the root of the whole thing. So even if your craving factually lessens, you are not free for as long as your understanding overlooks the true extent of craving.
+
+    8. You might be misjudging what calm is by only considering very coarse forms of agitation.  But even if you were factually calm, craving is still going to be there because as I said, neutrality too is a kind of pressure, and the ignorant mind is going to be dragged into craving by that pressure too.
+
+    9. *Sakkāyadiṭṭhi* is the byproduct of not understanding suffering and craving. By not seeing the extent of their own feelings and their mental attitudes in regard to those (i.e., craving), they automatically assume (inadvertently obviously) some part their experience as a whole to be independent of both of those things. And that's where they assume a self, no matter how strong their conviction is that there isn't one.
+
+    That's why one should think in terms of "I inadvertently assume a self for as long as I'm not a sotāpanna" rather than "there is no self because the Buddha said so," as if it was ever a matter of what you believe to be the case.
+
+    10. Both descriptions point to the same thing, although the "whatever has the nature of arising . . ." one highlights more directly what the puthujjana's blind spot is. It's not that they have absolutely no concept of what suffering and craving are, but that they don't see the true extent of certain aspects of their experience (their feelings for instance). Thus, they don't see how 
+    those aspects are actually liable to arise and cease on their own, which means they are automatically "trapped" in acting out of their feelings, dealing with and managing them one way or the other.
+
+    11. As the Arrow Sutta describes, the puthujjana is struck by the second arrow due to their ignorance of feelings. So you don't become a sotāpanna by learning to prevent the second arrow as some people believe—which is really just management of the first one—but by understanding the experience of suffering. And you can only do that if, as we often say, you don't automatically try to get rid of *any* of iti—ncluding what you would wrongly take to be the second arrow—in the name of "practice."
+
+---
+
 **r/HillsideHermitage** | Posted by Representative-Age18 _2026-06-28 11:24:36_
 ### [Metta to calm aversion, not get rid of pressure without fully developed virtue](https://www.reddit.com/r/HillsideHermitage/comments/1uhusy3/metta_to_calm_aversion_not_get_rid_of_pressure/)
 
