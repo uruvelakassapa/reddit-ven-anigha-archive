@@ -2,8 +2,6 @@
 
 Archives Reddit comments by [Venerable Anīgha](https://www.reddit.com/user/Bhikkhu_Anigha/comments/) and [Sister Medhini](https://www.reddit.com/user/Sister_Medhini/comments/).
 
-For another consumer-friendly fork with PDF/EPUB packaging history, see: https://github.com/f0lie/reddit-ven-anigha-archive
-
 ## Outputs
 
 | Format | Location | Notes |
