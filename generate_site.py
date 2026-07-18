@@ -19,6 +19,7 @@ import db
 
 SITE_DIR_DEFAULT = "docs"
 BOOKS_DIR_DEFAULT = "books"
+REPO_URL = "https://github.com/uruvelakassapa/reddit-ven-anigha-archive"
 TEACHERS = frozenset({"Bhikkhu_Anigha", "Sister_Medhini"})
 
 # Conservative sutta refs only (web viewer enrichment — not applied to MD/EPUB).
@@ -62,6 +63,10 @@ header.site .inner, main, footer.site .inner {
 }
 header.site h1 { margin: 0 0 0.25rem; font-size: 1.35rem; font-weight: 600; }
 header.site p { margin: 0; opacity: 0.9; font-size: 0.95rem; }
+header.site .header-row {
+  display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0.5rem 1rem;
+}
+header.site .repo-link { font-size: 0.9rem; white-space: nowrap; opacity: 0.95; }
 nav.crumbs { font-size: 0.9rem; margin: 1rem 0; color: var(--muted); }
 main { padding: 0 1.25rem 3rem; }
 footer.site {
@@ -400,7 +405,10 @@ def page_shell(
 <body>
   <header class="site">
     <div class="inner">
-      <h1><a href="{root}index.html" style="color:inherit;text-decoration:none">Ven Anīgha Reddit Archive</a></h1>
+      <div class="header-row">
+        <h1><a href="{root}index.html" style="color:inherit;text-decoration:none">Ven Anīgha Reddit Archive</a></h1>
+        <a class="repo-link" href="{REPO_URL}" rel="noopener noreferrer" target="_blank">GitHub</a>
+      </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
     </div>
   </header>
@@ -410,6 +418,7 @@ def page_shell(
   <footer class="site">
     <div class="inner">
       Generated from the SQLite archive. Sutta links (SuttaCentral) appear on this site only.
+      · <a href="{REPO_URL}" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
 </body>
@@ -555,7 +564,8 @@ def render_home(
       <strong>Bhikkhu Anīgha</strong> and <strong>Sister Medhini</strong>
       (chiefly r/HillsideHermitage). Thread pages include full context;
       citations like MN 44 are linked to SuttaCentral on this site only.</p>
-      <p class="meta">{thread_count} threads across {len(years)} year(s).</p>
+      <p class="meta">{thread_count} threads across {len(years)} year(s).
+      Source: <a href="{REPO_URL}" rel="noopener noreferrer" target="_blank">github.com/uruvelakassapa/reddit-ven-anigha-archive</a>.</p>
     </section>
 
     <section class="card">
