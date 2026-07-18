@@ -1,0 +1,121 @@
+:root {
+  --bg: #f7f4ef;
+  --fg: #1a1a1a;
+  --muted: #5c5c5c;
+  --card: #fffefb;
+  --border: #e0d8cc;
+  --accent: #3d5a40;
+  --teacher: #eef5ee;
+  --op: #f3f0ea;
+  --link: #1a4d8c;
+  --max: 44rem;
+  font-family: "Source Serif 4", "Iowan Old Style", Palatino, Georgia, serif;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  line-height: 1.55;
+}
+a { color: var(--link); }
+header.site {
+  background: var(--accent);
+  color: #f7f4ef;
+  padding: 1rem 1.25rem;
+}
+header.site a { color: #e8f0e8; }
+header.site .inner, main, footer.site .inner {
+  max-width: var(--max);
+  margin: 0 auto;
+}
+header.site h1 { margin: 0 0 0.25rem; font-size: 1.35rem; font-weight: 600; }
+header.site p { margin: 0; opacity: 0.9; font-size: 0.95rem; }
+nav.crumbs { font-size: 0.9rem; margin: 1rem 0; color: var(--muted); }
+main { padding: 0 1.25rem 3rem; }
+footer.site {
+  border-top: 1px solid var(--border);
+  padding: 1.25rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.15rem;
+  margin: 0.75rem 0;
+}
+.card h2, .card h3 { margin-top: 0; }
+.meta { color: var(--muted); font-size: 0.9rem; }
+.list { list-style: none; padding: 0; margin: 0; }
+.list li { border-bottom: 1px solid var(--border); padding: 0.75rem 0; }
+.list li:last-child { border-bottom: none; }
+.list a.title { font-weight: 600; text-decoration: none; }
+.list a.title:hover { text-decoration: underline; }
+.search-box {
+  display: flex; gap: 0.5rem; flex-wrap: wrap;
+  margin: 1rem 0 1.5rem;
+}
+.search-box input {
+  flex: 1 1 14rem;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font: inherit;
+  background: var(--card);
+}
+.search-box button, .chip {
+  padding: 0.55rem 0.9rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  font: inherit;
+  cursor: pointer;
+}
+.search-box button { background: var(--accent); color: #fff; border-color: var(--accent); }
+#search-status { color: var(--muted); font-size: 0.9rem; margin-bottom: 0.5rem; }
+#search-results .list li { background: var(--card); border: 1px solid var(--border);
+  border-radius: 8px; padding: 0.75rem 1rem; margin-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+.op {
+  background: var(--op);
+  border-left: 4px solid var(--border);
+  padding: 0.85rem 1rem;
+  margin: 1rem 0;
+  border-radius: 0 6px 6px 0;
+}
+.comment {
+  margin: 1rem 0 1rem 0;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card);
+}
+.comment.teacher {
+  background: var(--teacher);
+  border-color: #c5d6c7;
+}
+.comment .who { font-weight: 600; }
+.comment .when { color: var(--muted); font-size: 0.88rem; margin-left: 0.35rem; }
+.comment .body { margin-top: 0.6rem; white-space: pre-wrap; }
+.comment .body p { margin: 0 0 0.75rem; }
+.comment .body p:last-child { margin-bottom: 0; }
+.parent-quote {
+  margin: 0.6rem 0 0.85rem;
+  padding: 0.5rem 0.75rem;
+  border-left: 3px solid #cbbfae;
+  color: var(--muted);
+  font-size: 0.95rem;
+  white-space: pre-wrap;
+}
+.children { margin-left: 1rem; padding-left: 0.5rem; border-left: 2px solid var(--border); }
+.epub-list { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.epub-list a {
+  display: inline-block;
+  padding: 0.4rem 0.75rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  text-decoration: none;
+}
+.epub-list a:hover { border-color: var(--accent); }

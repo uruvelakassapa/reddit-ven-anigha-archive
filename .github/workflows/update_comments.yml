@@ -45,13 +45,14 @@ jobs:
         python generate_archive.py --type standard
         python generate_archive.py --type full
         python generate_epub.py
+        python generate_site.py
 
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
 
-        git add markdown_files/ven_anigha_reddit_archive_*.md epub/*.epub reddit_comments.db
+        git add markdown_files/ven_anigha_reddit_archive_*.md epub/*.epub docs reddit_comments.db
 
         if git diff --cached --quiet; then
           echo "No changes to commit."
