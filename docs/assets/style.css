@@ -97,16 +97,41 @@ footer.site {
 }
 .comment .who { font-weight: 600; }
 .comment .when { color: var(--muted); font-size: 0.88rem; margin-left: 0.35rem; }
-.comment .body { margin-top: 0.6rem; white-space: pre-wrap; }
-.comment .body p { margin: 0 0 0.75rem; }
-.comment .body p:last-child { margin-bottom: 0; }
+.comment .body, .op, .parent-quote .md-body { margin-top: 0.6rem; }
+.md-body p { margin: 0 0 0.75rem; }
+.md-body p:last-child { margin-bottom: 0; }
+.md-body a { word-break: break-word; }
+.md-body blockquote {
+  margin: 0.5rem 0 0.75rem;
+  padding: 0.35rem 0 0.35rem 0.85rem;
+  border-left: 3px solid #cbbfae;
+  color: var(--muted);
+}
+.md-body ul, .md-body ol { margin: 0.4rem 0 0.75rem; padding-left: 1.4rem; }
+.md-body li { margin: 0.2rem 0; }
+.md-body code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.9em;
+  background: rgba(0,0,0,0.05);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+.md-body pre {
+  overflow-x: auto;
+  padding: 0.75rem 1rem;
+  background: rgba(0,0,0,0.05);
+  border-radius: 6px;
+}
+.md-body pre code { background: none; padding: 0; }
+.md-body strong { font-weight: 700; }
+.md-body em { font-style: italic; }
+.md-body hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
 .parent-quote {
   margin: 0.6rem 0 0.85rem;
   padding: 0.5rem 0.75rem;
   border-left: 3px solid #cbbfae;
   color: var(--muted);
   font-size: 0.95rem;
-  white-space: pre-wrap;
 }
 .children { margin-left: 1rem; padding-left: 0.5rem; border-left: 2px solid var(--border); }
 .books-table {

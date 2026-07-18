@@ -13,6 +13,8 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Dict, List, Optional, Sequence
 
+import markdown as md_lib
+
 import db
 
 SITE_DIR_DEFAULT = "docs"
@@ -21,6 +23,10 @@ TEACHERS = frozenset({"Bhikkhu_Anigha", "Sister_Medhini"})
 
 # Conservative sutta refs only (web viewer enrichment — not applied to MD/EPUB).
 _SUTTA_RE = re.compile(r"\b(DN|MN|SN|AN)\s*(\d+(?:\.\d+)?)\b", re.IGNORECASE)
+# Split HTML into tags vs text so sutta linking never rewrites hrefs.
+_HTML_TOKEN_RE = re.compile(r"(<[^>]+>)")
+
+_MD_EXTENSIONS = ["nl2br", "sane_lists", "fenced_code", "tables"]
 
 _CSS = """\
 :root {
@@ -122,16 +128,41 @@ footer.site {
 }
 .comment .who { font-weight: 600; }
 .comment .when { color: var(--muted); font-size: 0.88rem; margin-left: 0.35rem; }
-.comment .body { margin-top: 0.6rem; white-space: pre-wrap; }
-.comment .body p { margin: 0 0 0.75rem; }
-.comment .body p:last-child { margin-bottom: 0; }
+.comment .body, .op, .parent-quote .md-body { margin-top: 0.6rem; }
+.md-body p { margin: 0 0 0.75rem; }
+.md-body p:last-child { margin-bottom: 0; }
+.md-body a { word-break: break-word; }
+.md-body blockquote {
+  margin: 0.5rem 0 0.75rem;
+  padding: 0.35rem 0 0.35rem 0.85rem;
+  border-left: 3px solid #cbbfae;
+  color: var(--muted);
+}
+.md-body ul, .md-body ol { margin: 0.4rem 0 0.75rem; padding-left: 1.4rem; }
+.md-body li { margin: 0.2rem 0; }
+.md-body code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.9em;
+  background: rgba(0,0,0,0.05);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+.md-body pre {
+  overflow-x: auto;
+  padding: 0.75rem 1rem;
+  background: rgba(0,0,0,0.05);
+  border-radius: 6px;
+}
+.md-body pre code { background: none; padding: 0; }
+.md-body strong { font-weight: 700; }
+.md-body em { font-style: italic; }
+.md-body hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
 .parent-quote {
   margin: 0.6rem 0 0.85rem;
   padding: 0.5rem 0.75rem;
   border-left: 3px solid #cbbfae;
   color: var(--muted);
   font-size: 0.95rem;
-  white-space: pre-wrap;
 }
 .children { margin-left: 1rem; padding-left: 0.5rem; border-left: 2px solid var(--border); }
 .books-table {
@@ -309,34 +340,45 @@ def build_comment_threads(comments) -> List[ThreadNode]:
     return top_level + orphans
 
 
-def linkify_suttas(text: str) -> str:
-    """Escape HTML, then turn DN/MN/SN/AN citations into SuttaCentral links."""
-    escaped = html.escape(text)
+def _sutta_repl(match: re.Match) -> str:
+    collection = match.group(1).upper()
+    number = match.group(2)
+    slug = f"{collection.lower()}{number}"
+    label = f"{collection} {number}"
+    href = f"https://suttacentral.net/{slug}"
+    return (
+        f'<a href="{href}" rel="noopener noreferrer" target="_blank">{label}</a>'
+    )
 
-    def repl(match: re.Match) -> str:
-        collection = match.group(1).upper()
-        number = match.group(2)
-        slug = f"{collection.lower()}{number}"
-        label = f"{collection} {number}"
-        href = f"https://suttacentral.net/{slug}"
-        return f'<a href="{href}" rel="noopener noreferrer" target="_blank">{label}</a>'
 
-    return _SUTTA_RE.sub(repl, escaped)
+def linkify_suttas_in_html(html_text: str) -> str:
+    """
+    Turn bare DN/MN/SN/AN citations into SuttaCentral links.
+
+    Only rewrites text nodes (not tags/attributes), so existing markdown
+    links and URLs are left intact.
+    """
+    parts = _HTML_TOKEN_RE.split(html_text)
+    out = []
+    for part in parts:
+        if part.startswith("<"):
+            out.append(part)
+        else:
+            out.append(_SUTTA_RE.sub(_sutta_repl, part))
+    return "".join(out)
 
 
 def body_to_html(text: str) -> str:
-    """Paragraph-ish HTML with sutta links."""
-    text = text or ""
-    parts = re.split(r"\n\s*\n", text)
-    chunks = []
-    for part in parts:
-        part = part.strip("\n")
-        if not part:
-            continue
-        # Keep single newlines visible inside a paragraph
-        linked = linkify_suttas(part).replace("\n", "<br>\n")
-        chunks.append(f"<p>{linked}</p>")
-    return "\n".join(chunks) if chunks else "<p></p>"
+    """Render Reddit-style Markdown to HTML, then add sutta links."""
+    text = (text or "").replace("\r\n", "\n")
+    rendered = md_lib.markdown(text, extensions=_MD_EXTENSIONS)
+    # Open external links in a new tab where markdown produced plain <a href>
+    rendered = re.sub(
+        r'<a href="(https?://[^"]+)"',
+        r'<a href="\1" rel="noopener noreferrer" target="_blank"',
+        rendered,
+    )
+    return f'<div class="md-body">{linkify_suttas_in_html(rendered)}</div>'
 
 
 def page_shell(
