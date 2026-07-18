@@ -9,6 +9,43 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by ToLazyToPickName _2026-07-18 09:21:34_
+### [Do you need to be free from the 5 hindrances (i.e. get 1st jhana) to become a sotapanna (i.e. get right view)?](https://www.reddit.com/r/HillsideHermitage/comments/1uzr769/do_you_need_to_be_free_from_the_5_hindrances_ie/)
+
+I read some posts on this subreddit ([Post #1](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/streamentry_requires_celibacy_new_essay/) & [Post #2](https://www.reddit.com/r/HillsideHermitage/comments/1lungsj/does_becoming_a_sotapanna_require_removing_the/)), but I don't think this was answered clearly. Bhikkhu Anigha seems to say one must be free from the 5 hindrances to get right view in [this](https://www.hillsidehermitage.org/stream-entry-requires-celibacy/) essay.
+
+But if one needs to be free from the 5 hindrances to get right view, doesn't that mean one must get the 1st jhana to get right view, since the 1st jhana is being free from the 5 hindrances?
+
+It seems like Anigha's answer on [Post #2](https://www.reddit.com/r/HillsideHermitage/comments/1lungsj/does_becoming_a_sotapanna_require_removing_the/) is saying that one can be free from the hindrances  temporarily but still not be in 1st jhana, because 1st jhana would involve being good at abandoning hindrances.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uzr769/do_you_need_to_be_free_from_the_5_hindrances_ie/oyaqjhx/)** _2026-07-18 14:45:39_:
+
+    > But if one needs to be free from the 5 hindrances to get right view, doesn't that mean one must get the 1st jhana to get right view, since the 1st jhana is being free from the 5 hindrances?
+
+    No, because the first jhāna is one of the things that a mind without hindrances can realize; it's not the freedom from hindrances itself. The first jhāna always comes *after* freedom from hindrances in the Suttas, and [sometimes](https://suttacentral.net/dn25/en/tw-caf_rhysdavids?lang=en&reference=main&highlight=false#pts-cs18) the monk doesn't enter jhāna but other states like the brahmavihāras. But this is often overlooked due to the prevalent misconception that jhāna/samādhi is some sort of absorbed or concentrated state, and that that's what removes the hindrances.
+
+---
+
+**r/HillsideHermitage** | Posted by Ok_Watercress_4596 _2026-07-12 06:34:08_
+### [The sense of self](https://www.reddit.com/r/HillsideHermitage/comments/1uu7o1n/the_sense_of_self/)
+
+I started wondering recently why certain contemplations that are related to the sense of "I am" are never mentioned and I haven't found them in the suttas. The sense of self is a clear and obvious phenomena that often appears in the periphery as well as experientially in the body, covering up the feelings and so any pointer to it reveals suffering yet nobody ever mentions this aspect of the experience as a whole
+
+Contemplations such as: "Who is writing?" "To whom does this issue concern?" "Who is speaking?", "Who am I?", "Who am I then?" and plenty of other questions that pop up to anybody investigating their experience
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uu7o1n/the_sense_of_self/ox3zppb/)** _2026-07-12 16:39:27_:
+
+    Because all those questions are pointless speculations that treat the sense of self as if it's some sort of illusory appearance instead of a pernicious attitude. They are even explicitly called out as *ayoniso manasikāra* in MN 2.
+
+    Rather than asking such questions, ask yourself why you suffer when you can't get pleasure or avoid pain. That's where the actual sense of self (i.e., assumption of ownership) is.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uu7o1n/the_sense_of_self/oy1m16m/)** _2026-07-17 06:44:49_:
+
+    > So as a puthujjana my sense of self experiences pleasure and pain, but if that sense of self diminishes then so does the ability to experience pleasure and pain?
+
+    No, what diminishes is your suffering on account of not experiencing pleasure or experiencing pain (the second arrow).
+
+---
+
 **r/HillsideHermitage** | Posted by Embarrassed-Box6857 _2026-07-08 14:50:33_
 ### [Questioning my views](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/)
 
@@ -87,6 +124,38 @@ Q11. How does one practically contemplate the arrow sutta since a puttujana can 
     those aspects are actually liable to arise and cease on their own, which means they are automatically "trapped" in acting out of their feelings, dealing with and managing them one way or the other.
 
     11. As the Arrow Sutta describes, the puthujjana is struck by the second arrow due to their ignorance of feelings. So you don't become a sotāpanna by learning to prevent the second arrow as some people believe—which is really just management of the first one—but by understanding the experience of suffering. And you can only do that if, as we often say, you don't automatically try to get rid of *any* of iti—ncluding what you would wrongly take to be the second arrow—in the name of "practice."
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/ox1ozpm/)** _2026-07-12 08:03:43_:
+
+    > According to PS a puttujana is always suffering? 
+
+    Yes, just to different extents. 
+
+    > This makes alot of sense. What exactly do you mean by when one is actually seeing it? Do you mean that through repeated restraint/endurance one is already seeing it, or do you mean that it is only fully “seen” at the moment one becomes an ariya?
+
+    An ariya is defined by the ability to discern craving correctly. Craving cannot exist while it is discerned (which doesn't mean that an ariya discerns it constantly).
+
+    There is no "moment" of becoming an ariya in the sense of a some novel dimension suddenly opening up. Stream-entry means recognizing beyond doubt that you now have the right view, in the same way as you would recognize after a period of training that you have rightly understood something that you didn't understand before.
+
+    > How do you not overlook the extent of craving, is it similar to not overlooking suffering?
+
+    By not taking for granted your notion of what craving is until you're a sotāpanna. That entire notion is really the issue, not that you see "only a part" of craving's manifestation.
+
+    > Im confused with feelings— Can there be multiple feelings at the same time- one general and many particular? 
+
+    [No](https://suttacentral.net/mn74/en/nyanamoli-thera?lang=en&reference=main&highlight=false#nya10). 
+
+    Hunger is not unpleasant if being hungry is giving you something you're very happy about. The sensations of hunger or even damage to the body are not unpleasant in themselves.
+
+    > So this is the reason why the more restrained one is the deeper one can understand the Dhamma? Because what one has to understand can only be “visible” after restraining?
+
+    Yes, you need to contain your ways of acting out of suffering because those are what perpetuates your non-seeing of that very suffering, let alone its origin, etc.
+
+    
+
+    
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/ox9s0l0/)** _2026-07-13 13:35:20_:
+
+    Yes, I am aware of that. I now see that there is a reason why the Buddha described it as he did in MN 74. It's a more precise description because it stays purely at the level where suffering actually is.
 
 ---
 

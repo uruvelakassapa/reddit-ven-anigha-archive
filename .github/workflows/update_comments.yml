@@ -13,21 +13,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Attempt to download the latest database artifact
-      uses: actions/download-artifact@v4
-      with:
-        name: reddit-comments-db
-        path: ${{ runner.temp }}/sqlite
-      continue-on-error: true  # Continue even if the artifact is not found
-
-    - name: Move database if it exists
-      run: |
-        if [ -f "${{ runner.temp }}/sqlite/reddit_comments.db" ]; then
-          mv "${{ runner.temp }}/sqlite/reddit_comments.db" reddit_comments.db
-        fi
-
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.13'
 
@@ -43,49 +30,30 @@ jobs:
         CLIENT_ID: ${{ secrets.CLIENT_ID }}
         CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
         USER_AGENT: ${{ secrets.USER_AGENT }}
-        TARGET_USERNAME: ${{ secrets.TARGET_USERNAME }}
         LIMIT: ${{ secrets.LIMIT }}
-        TILL_LAST_COMMENT: true  # Adjust based on whether you want to fetch since the last comment
+        TILL_LAST_COMMENT: true
       run: |
         source .venv/bin/activate
         python fetch_comments.py
-    
 
     - name: Run the archive generation script
       run: |
         source .venv/bin/activate
         python generate_archive.py --type standard
         python generate_archive.py --type full
-    
-    - name: Commit and push changes if markdown files were created
+
+    - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
 
-        echo "Adding files to staging area..."
-        git add **/ven_anigha_reddit_archive_* reddit_comments.db --verbose
-        echo
+        git add markdown_files/ven_anigha_reddit_archive_*.md reddit_comments.db
 
-        # Check if there are changes to commit
         if git diff --cached --quiet; then
           echo "No changes to commit."
         else
-          echo "Committing changes..."
-          git commit -m "Update Reddit comments and markdown files" --verbose
-          echo
-
-          echo "Latest commit log:"
-          git --no-pager log -1 --stat
-          echo
-
-          echo "Pushing changes to remote repository..."
-          git push origin HEAD:${{ github.ref }} --verbose
+          git commit -m "Update Reddit comments and markdown files"
+          git push origin HEAD:${{ github.ref }}
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Store database persistently
-      uses: actions/upload-artifact@v4
-      with:
-        name: reddit-comments-db
-        path: reddit_comments.db

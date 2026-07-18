@@ -1,24 +1,26 @@
-# generate_archive.py
+"""Generate yearly Markdown archives from the SQLite database."""
+
+from __future__ import annotations
+
 import argparse
 import datetime
 import os
-import sqlite3
 import sys
-from typing import Any, Dict, List, Optional, Tuple
+from dataclasses import dataclass, field
+from typing import Dict, List, Optional
 
-# --- Constants ---
+import db
 
 MARKDOWN_DIR_DEFAULT = "markdown_files"
-PDF_DIR_DEFAULT = "pdf_files"
-DB_DEFAULT = "reddit_comments.db"
 
-METABLOCK_TEMPLATE_STANDARD = """\
+# Shared YAML/header; full mode adds Pandoc PDF-oriented fields.
+_METABLOCK_COMMON = """\
 ---
 title: "Ven Anīgha Reddit Archive {year}"
 author: "Ven Anīgha"
 date: "{year}"
 description: "Reddit discussions by Ven Anīgha in {year}."
-toc: true
+{extra}toc: true
 toc-depth: 2
 ---
 
@@ -26,268 +28,210 @@ toc-depth: 2
 
 """
 
-METABLOCK_TEMPLATE_FULL = """\
----
-title: "Ven Anīgha Reddit Archive {year}"
-author: "Ven Anīgha"
-date: "{year}"
-description: "Reddit discussions by Ven Anīgha in {year}."
+_METABLOCK_FULL_EXTRA = """\
 mainfont: "Source Serif 4"
 fontsize: 12pt
 geometry: margin=1in
 documentclass: book
 pdf-engine: xelatex
-toc: true
-toc-depth: 2
----
-
-# Ven Anīgha Reddit Archive {year}
-
 """
 
-# --- Database Interaction ---
 
-def connect_db(db_path: str) -> Optional[sqlite3.Connection]:
-    """Connects to the SQLite database."""
-    if not os.path.exists(db_path):
-        print(f"Error: Database file not found at {db_path}", file=sys.stderr)
-        return None
-    try:
-        conn = sqlite3.connect(db_path)
-        print(f"Connected to database: {db_path}")
-        return conn
-    except sqlite3.Error as e:
-        print(f"Database connection error: {e}", file=sys.stderr)
-        return None
+@dataclass
+class ThreadNode:
+    id: str
+    parent_id: Optional[str]
+    user: str
+    content: str
+    url: str
+    created_at: float
+    parent_user: Optional[str] = None
+    parent_content: Optional[str] = None
+    children: List["ThreadNode"] = field(default_factory=list)
 
-def fetch_submissions(cursor: sqlite3.Cursor) -> List[Dict[str, Any]]:
-    """Fetches all submissions ordered by creation date."""
-    cursor.execute("SELECT * FROM submissions ORDER BY created_at DESC")
-    submissions_data = cursor.fetchall()
-    column_names = [desc[0] for desc in cursor.description]
-    return [dict(zip(column_names, row)) for row in submissions_data]
 
-def fetch_comments_for_submission(cursor: sqlite3.Cursor, submission_id: str, fetch_full: bool) -> List[Tuple]:
-    """Fetches comments for a given submission ID."""
-    if fetch_full:
-        cursor.execute(
-            """SELECT id, author, created_utc, parent_id, permalink, comment_body,
-                      parent_author, parent_body
-               FROM comments
-               WHERE submission_id = ? ORDER BY created_utc""",
-            (submission_id,),
-        )
-    else:
-        cursor.execute(
-            """SELECT id, author, created_utc, parent_id, permalink, comment_body
-               FROM comments
-               WHERE submission_id = ? ORDER BY created_utc""",
-            (submission_id,),
-        )
-    return cursor.fetchall()
-
-# --- Data Structuring ---
-
-def group_submissions_by_year(submissions: List[Dict[str, Any]]) -> Dict[int, List[Dict[str, Any]]]:
-    """Groups submissions into a dictionary keyed by year."""
-    submissions_by_year = {}
+def group_submissions_by_year(submissions) -> Dict[int, list]:
+    by_year: Dict[int, list] = {}
     for sub in submissions:
-        sub_time = datetime.datetime.fromtimestamp(sub["created_at"], datetime.UTC)
-        year = sub_time.year
-        submissions_by_year.setdefault(year, []).append(sub)
-    return submissions_by_year
+        year = datetime.datetime.fromtimestamp(sub["created_at"], datetime.UTC).year
+        by_year.setdefault(year, []).append(sub)
+    return by_year
 
-def build_comment_thread_structure(comments: List[Tuple], column_names: List[str]) -> Tuple[Dict[str, Dict], List[Dict]]:
-    """Builds a nested thread structure from a flat list of comments."""
-    thread_dict = {}
-    for comment_tuple in comments:
-        comment = dict(zip(column_names, comment_tuple))
-        thread_dict[comment["id"]] = {
-            "id": comment["id"],
-            "parent": comment.get("parent_id"),
-            "user": comment["author"],
-            "content": comment["comment_body"],
-            "url": comment["permalink"],
-            "created_at": comment["created_utc"],
-            "parent_user": comment.get("parent_author"), # None if not fetched
-            "parent_content": comment.get("parent_body"), # None if not fetched
-            "children": [],
-        }
 
-    top_level_threads = []
-    orphan_threads = []
-    for thread in thread_dict.values():
-        parent_id = thread["parent"]
-        if parent_id and parent_id in thread_dict:
-            thread_dict[parent_id]["children"].append(thread)
+def build_comment_threads(comments) -> List[ThreadNode]:
+    """Build nested threads from a flat comment list; return ordered roots."""
+    nodes: Dict[str, ThreadNode] = {}
+    for row in comments:
+        nodes[row["id"]] = ThreadNode(
+            id=row["id"],
+            parent_id=row["parent_id"],
+            user=row["author"],
+            content=row["comment_body"],
+            url=row["permalink"],
+            created_at=row["created_utc"],
+            parent_user=row["parent_author"],
+            parent_content=row["parent_body"],
+        )
+
+    top_level: List[ThreadNode] = []
+    orphans: List[ThreadNode] = []
+    for node in nodes.values():
+        parent_id = node.parent_id
+        if parent_id and parent_id in nodes:
+            nodes[parent_id].children.append(node)
         elif not parent_id:
-            top_level_threads.append(thread)
-        else: # Has parent_id but parent not in this batch
-            orphan_threads.append(thread)
+            top_level.append(node)
+        else:
+            orphans.append(node)
 
-    top_level_threads.sort(key=lambda x: x["created_at"])
-    # Orphans are appended after sorted top-level comments
-    ordered_roots = top_level_threads + orphan_threads
-    return thread_dict, ordered_roots
+    top_level.sort(key=lambda n: n.created_at)
+    return top_level + orphans
 
-# --- Markdown Generation ---
 
 def format_timestamp(timestamp: float) -> str:
-    """Formats a Unix timestamp into a human-readable string."""
-    return datetime.datetime.fromtimestamp(timestamp, datetime.UTC).strftime("%Y-%m-%d %H:%M:%S")
+    return datetime.datetime.fromtimestamp(timestamp, datetime.UTC).strftime(
+        "%Y-%m-%d %H:%M:%S"
+    )
 
-def format_parent_info_full(thread: Dict[str, Any], indent: str) -> str:
-    """Formats the parent comment information for the 'full' output."""
-    parent_user = thread.get("parent_user")
-    parent_content = thread.get("parent_content")
 
-    if not thread.get("parent"): # Not a reply
-        return ""
-    if parent_user and parent_content is not None:
-        parent_paragraphs = parent_content.split("\n\n")
-        indented_parent_paragraphs = [
-            "\n".join(f"{indent}> {line}" for line in paragraph.split("\n"))
-            for paragraph in parent_paragraphs
-        ]
-        indented_parent_content = f"\n{indent}>\n".join(indented_parent_paragraphs)
-        return f"\n\n{indent}*(In reply to {parent_user}):*\n{indented_parent_content}\n"
-    else:
-        return f"\n\n{indent}*(In reply to a comment not available)*\n"
-
-def format_comment_markdown(thread: Dict[str, Any], output_type: str, level: int) -> str:
-    """Formats a single comment (and its children recursively) into Markdown."""
-    indent_str = "    " * level
-    content_indent_str = "    " * (level + 1)
-
-    # Format main comment content
-    paragraphs = thread["content"].split("\n\n")
-    indented_paragraphs = [
-        "\n".join(f"{content_indent_str}{line}" for line in paragraph.split("\n"))
+def _indent_block(text: str, indent: str, *, quote: bool = False) -> str:
+    """Indent paragraphs; optionally as a Markdown blockquote."""
+    prefix = f"{indent}> " if quote else indent
+    blank = f"{indent}>" if quote else ""
+    paragraphs = text.split("\n\n")
+    indented = [
+        "\n".join(f"{prefix}{line}" for line in paragraph.split("\n"))
         for paragraph in paragraphs
     ]
-    indented_content = "\n\n".join(indented_paragraphs)
+    joiner = f"\n{blank}\n" if quote else "\n\n"
+    return joiner.join(indented)
 
-    # Format parent info (if applicable)
+
+def format_parent_info_full(node: ThreadNode, indent: str) -> str:
+    if not node.parent_id:
+        return ""
+    if node.parent_user and node.parent_content is not None:
+        quoted = _indent_block(node.parent_content, indent, quote=True)
+        return f"\n\n{indent}*(In reply to {node.parent_user}):*\n{quoted}\n"
+    return f"\n\n{indent}*(In reply to a comment not available)*\n"
+
+
+def format_comment_markdown(node: ThreadNode, *, include_parents: bool, level: int) -> str:
+    indent_str = "    " * level
+    content_indent = "    " * (level + 1)
+    indented_content = _indent_block(node.content, content_indent)
+
     parent_info_md = ""
-    if output_type == 'full':
-        parent_info_md = format_parent_info_full(thread, content_indent_str)
-    elif level > 0 and thread["parent"]: # Basic check for standard mode
-         # A more robust check would involve passing the full thread dict down,
-         # but keeping it simpler based on the original logic.
-         parent_info_md = " *(in reply to a comment not included)*" # Added directly to title below
+    if include_parents:
+        parent_info_md = format_parent_info_full(node, content_indent)
+    elif level > 0 and node.parent_id:
+        parent_info_md = " *(in reply to a comment not included)*"
 
-    # Format comment title/header
-    comment_time_str = format_timestamp(thread["created_at"])
-    comment_title_base = f"**[{thread['user']}]({thread['url']})** _{comment_time_str}_"
+    comment_time = format_timestamp(node.created_at)
+    title_base = f"**[{node.user}]({node.url})** _{comment_time}_"
 
-    if output_type == 'standard' and parent_info_md:
-        comment_title = f"{comment_title_base}{parent_info_md}"
-        parent_info_md = "" # Clear it as it's now part of the title
+    if not include_parents and parent_info_md:
+        comment_title = f"{title_base}{parent_info_md}"
+        parent_info_md = ""
     else:
-        comment_title = comment_title_base
+        comment_title = title_base
 
-    # Assemble the comment markdown
-    if output_type == 'full':
+    if include_parents:
         markdown = f"{indent_str}- {comment_title}:{parent_info_md}\n{indented_content}\n"
-    else: # standard
+    else:
         markdown = f"{indent_str}- {comment_title}:\n\n{indented_content}\n"
 
-
-    # Recursively format children
-    sorted_children = sorted(thread["children"], key=lambda x: x["created_at"])
-    for child in sorted_children:
-        markdown += format_comment_markdown(child, output_type, level + 1)
-
+    for child in sorted(node.children, key=lambda n: n.created_at):
+        markdown += format_comment_markdown(
+            child, include_parents=include_parents, level=level + 1
+        )
     return markdown
 
-def generate_submission_markdown(cursor: sqlite3.Cursor, submission: Dict[str, Any], output_type: str) -> str:
-    """Generates the Markdown for a single submission, including its comments."""
-    submission_time_str = format_timestamp(submission["created_at"])
-    fetch_full = (output_type == 'full')
 
-    md = f"**{submission['subreddit']}** | Posted by {submission['author']} _{submission_time_str}_\n"
+def generate_submission_markdown(conn, submission, *, include_parents: bool) -> str:
+    time_str = format_timestamp(submission["created_at"])
+    md = f"**{submission['subreddit']}** | Posted by {submission['author']} _{time_str}_\n"
     md += f"### [{submission['title']}]({submission['link']})\n\n"
     md += f"{submission['body']}\n\n"
 
-    comments_tuples = fetch_comments_for_submission(cursor, submission["id"], fetch_full)
-    if comments_tuples:
-        comment_column_names = [desc[0] for desc in cursor.description]
-        _, ordered_roots = build_comment_thread_structure(comments_tuples, comment_column_names)
-        for root_thread in ordered_roots:
-            md += format_comment_markdown(root_thread, output_type, level=0)
+    comments = db.fetch_comments_for_submission(conn, submission["id"])
+    if comments:
+        for root in build_comment_threads(comments):
+            md += format_comment_markdown(root, include_parents=include_parents, level=0)
 
     return md + "\n---\n\n"
 
-def write_markdown_files(cursor: sqlite3.Cursor, output_type: str, md_dir: str):
-    """Generates and writes all Markdown files, grouped by year."""
+
+def metablock_for(year: int, *, include_parents: bool) -> str:
+    extra = _METABLOCK_FULL_EXTRA if include_parents else ""
+    return _METABLOCK_COMMON.format(year=year, extra=extra)
+
+
+def write_markdown_files(conn, output_type: str, md_dir: str) -> None:
+    include_parents = output_type == "full"
     print(f"Generating {output_type} Markdown files...")
     os.makedirs(md_dir, exist_ok=True)
 
-    submissions = fetch_submissions(cursor)
-    submissions_by_year = group_submissions_by_year(submissions)
-
-    metablock_template = METABLOCK_TEMPLATE_FULL if output_type == 'full' else METABLOCK_TEMPLATE_STANDARD
+    submissions_by_year = group_submissions_by_year(db.fetch_submissions(conn))
+    suffix = "_full" if include_parents else ""
 
     for year, submissions_in_year in submissions_by_year.items():
-        filename_suffix = "_full" if output_type == 'full' else ""
-        md_filename = os.path.join(md_dir, f"ven_anigha_reddit_archive{filename_suffix}_{year}.md")
-        metablock = metablock_template.format(year=year)
-
-        print(f"  Writing {md_filename}...")
+        path = os.path.join(md_dir, f"ven_anigha_reddit_archive{suffix}_{year}.md")
+        print(f"  Writing {path}...")
         try:
-            with open(md_filename, "w", encoding="utf-8") as md_file:
-                md_file.write(metablock)
+            with open(path, "w", encoding="utf-8") as md_file:
+                md_file.write(metablock_for(year, include_parents=include_parents))
                 for submission in submissions_in_year:
-                    md_file.write(generate_submission_markdown(cursor, submission, output_type))
-            print(f"  Finished {md_filename}")
-        except IOError as e:
-            print(f"  Error writing file {md_filename}: {e}", file=sys.stderr)
+                    md_file.write(
+                        generate_submission_markdown(
+                            conn, submission, include_parents=include_parents
+                        )
+                    )
+            print(f"  Finished {path}")
+        except OSError as e:
+            print(f"  Error writing file {path}: {e}", file=sys.stderr)
 
     print(f"Finished generating {output_type} Markdown files.")
 
-# --- Main Execution ---
 
 def parse_arguments() -> argparse.Namespace:
-    """Parses command-line arguments."""
     parser = argparse.ArgumentParser(description="Generate Reddit archive Markdown files.")
     parser.add_argument(
         "--type",
-        choices=['standard', 'full'],
-        default='standard',
-        help="Type of Markdown output ('standard' or 'full' with parent comments)."
+        choices=["standard", "full"],
+        default="standard",
+        help="Type of Markdown output ('standard' or 'full' with parent comments).",
     )
     parser.add_argument(
         "--db",
-        default=DB_DEFAULT,
-        help=f"Path to the SQLite database file (default: {DB_DEFAULT})."
+        default=db.DB_DEFAULT,
+        help=f"Path to the SQLite database file (default: {db.DB_DEFAULT}).",
     )
     parser.add_argument(
         "--md-dir",
         default=MARKDOWN_DIR_DEFAULT,
-        help=f"Directory to save Markdown files (default: {MARKDOWN_DIR_DEFAULT})."
+        help=f"Directory to save Markdown files (default: {MARKDOWN_DIR_DEFAULT}).",
     )
     return parser.parse_args()
 
-def main() -> int:
-    """Main function to orchestrate the archive generation."""
-    args = parse_arguments()
 
-    conn = connect_db(args.db)
+def main() -> int:
+    args = parse_arguments()
+    conn = db.connect(args.db, must_exist=True)
     if not conn:
         return 1
 
-    exit_code = 0
+    print(f"Connected to database: {args.db}")
     try:
-        cursor = conn.cursor()
-        write_markdown_files(cursor, args.type, args.md_dir)
+        write_markdown_files(conn, args.type, args.md_dir)
     except Exception as e:
         print(f"\nAn unexpected error occurred during processing: {e}", file=sys.stderr)
-        exit_code = 1
+        return 1
     finally:
         conn.close()
         print("Database connection closed.")
+    return 0
 
-    return exit_code
 
 if __name__ == "__main__":
     sys.exit(main())
