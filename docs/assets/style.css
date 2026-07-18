@@ -109,13 +109,16 @@ footer.site {
   white-space: pre-wrap;
 }
 .children { margin-left: 1rem; padding-left: 0.5rem; border-left: 2px solid var(--border); }
-.epub-list { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-.epub-list a {
+.books-list { display: flex; flex-direction: column; gap: 0.75rem; }
+.books-year { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
+.books-year .yr { min-width: 3.5rem; font-weight: 600; }
+.books-list a {
   display: inline-block;
   padding: 0.4rem 0.75rem;
   background: var(--card);
   border: 1px solid var(--border);
   border-radius: 6px;
   text-decoration: none;
+  font-size: 0.95rem;
 }
-.epub-list a:hover { border-color: var(--accent); }
+.books-list a:hover { border-color: var(--accent); }

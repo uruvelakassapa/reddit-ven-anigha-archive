@@ -16,7 +16,7 @@ from typing import Dict, List, Optional, Sequence
 import db
 
 SITE_DIR_DEFAULT = "docs"
-EPUB_DIR_DEFAULT = "epub"
+BOOKS_DIR_DEFAULT = "books"
 TEACHERS = frozenset({"Bhikkhu_Anigha", "Sister_Medhini"})
 
 # Conservative sutta refs only (web viewer enrichment — not applied to MD/EPUB).
@@ -134,16 +134,19 @@ footer.site {
   white-space: pre-wrap;
 }
 .children { margin-left: 1rem; padding-left: 0.5rem; border-left: 2px solid var(--border); }
-.epub-list { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-.epub-list a {
+.books-list { display: flex; flex-direction: column; gap: 0.75rem; }
+.books-year { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
+.books-year .yr { min-width: 3.5rem; font-weight: 600; }
+.books-list a {
   display: inline-block;
   padding: 0.4rem 0.75rem;
   background: var(--card);
   border: 1px solid var(--border);
   border-radius: 6px;
   text-decoration: none;
+  font-size: 0.95rem;
 }
-.epub-list a:hover { border-color: var(--accent); }
+.books-list a:hover { border-color: var(--accent); }
 """
 
 _SEARCH_JS = """\
@@ -441,14 +444,37 @@ def render_year_page(year: int, items: Sequence[dict]) -> str:
     return page_shell(f"Archive {year}", body, root="../")
 
 
-def render_home(years: Sequence[int], epub_years: Sequence[int], thread_count: int) -> str:
+def render_home(
+    years: Sequence[int],
+    book_years: Sequence[int],
+    thread_count: int,
+    *,
+    has_epub: set,
+    has_pdf: set,
+) -> str:
     year_links = "\n".join(
         f'      <li><a class="title" href="year/{y}.html">{y}</a></li>' for y in years
     )
-    epub_links = "\n".join(
-        f'      <a href="epub/ven_anigha_reddit_archive_{y}.epub">{y} EPUB</a>'
-        for y in epub_years
-    ) or "      <span class=\"meta\">No EPUBs found.</span>"
+    if book_years:
+        book_rows = []
+        for y in book_years:
+            links = []
+            if y in has_epub:
+                links.append(
+                    f'<a href="books/ven_anigha_reddit_archive_{y}.epub">EPUB</a>'
+                )
+            if y in has_pdf:
+                links.append(
+                    f'<a href="books/ven_anigha_reddit_archive_{y}.pdf">PDF</a>'
+                )
+            book_rows.append(
+                f'      <div class="books-year"><span class="yr">{y}</span> '
+                + " ".join(links)
+                + "</div>"
+            )
+        books_block = "\n".join(book_rows)
+    else:
+        books_block = '      <span class="meta">No books found.</span>'
 
     body = f"""    <section class="card">
       <h2>About</h2>
@@ -476,9 +502,9 @@ def render_home(years: Sequence[int], epub_years: Sequence[int], thread_count: i
     </section>
 
     <section class="card">
-      <h2>Download EPUB</h2>
-      <div class="epub-list">
-{epub_links}
+      <h2>Download books</h2>
+      <div class="books-list">
+{books_block}
       </div>
     </section>
     <script src="assets/search.js"></script>"""
@@ -492,26 +518,42 @@ def write_assets(site_dir: Path) -> None:
     (assets / "search.js").write_text(_SEARCH_JS, encoding="utf-8")
 
 
-def copy_epubs(epub_dir: Path, site_dir: Path) -> List[int]:
-    dest = site_dir / "epub"
+def copy_books(books_dir: Path, site_dir: Path) -> tuple[List[int], set, set]:
+    """Copy EPUB/PDF into site; return (sorted years, epub years, pdf years)."""
+    dest = site_dir / "books"
     dest.mkdir(parents=True, exist_ok=True)
-    years: List[int] = []
-    if not epub_dir.is_dir():
-        return years
-    for path in sorted(epub_dir.glob("ven_anigha_reddit_archive_*.epub")):
-        match = re.search(r"_(\d{4})\.epub$", path.name)
+    has_epub: set = set()
+    has_pdf: set = set()
+    if not books_dir.is_dir():
+        return [], has_epub, has_pdf
+    for path in sorted(books_dir.glob("ven_anigha_reddit_archive_*.*")):
+        match = re.search(r"_(\d{4})\.(epub|pdf)$", path.name, re.I)
         if not match:
             continue
+        year = int(match.group(1))
+        kind = match.group(2).lower()
         shutil.copy2(path, dest / path.name)
-        years.append(int(match.group(1)))
-    return years
+        if kind == "epub":
+            has_epub.add(year)
+        else:
+            has_pdf.add(year)
+    years = sorted(has_epub | has_pdf, reverse=True)
+    return years, has_epub, has_pdf
 
 
-def generate_site(conn, site_dir: Path, epub_dir: Path) -> None:
+def generate_site(conn, site_dir: Path, books_dir: Path) -> None:
     if site_dir.exists():
         # Remove generated content but keep site_dir if it's docs with other stuff —
         # for a dedicated output tree, clear known subdirs/files we own.
-        for name in ("assets", "year", "thread", "epub", "index.html", "search-index.json"):
+        for name in (
+            "assets",
+            "year",
+            "thread",
+            "books",
+            "epub",  # legacy path
+            "index.html",
+            "search-index.json",
+        ):
             path = site_dir / name
             if path.is_dir():
                 shutil.rmtree(path)
@@ -521,7 +563,7 @@ def generate_site(conn, site_dir: Path, epub_dir: Path) -> None:
     (site_dir / "year").mkdir()
     (site_dir / "thread").mkdir()
     write_assets(site_dir)
-    epub_years = copy_epubs(epub_dir, site_dir)
+    book_years, has_epub, has_pdf = copy_books(books_dir, site_dir)
 
     submissions = db.fetch_submissions(conn)
     by_year = group_submissions_by_year(submissions)
@@ -577,7 +619,13 @@ def generate_site(conn, site_dir: Path, epub_dir: Path) -> None:
 
     years_sorted = sorted(by_year.keys(), reverse=True)
     (site_dir / "index.html").write_text(
-        render_home(years_sorted, epub_years, len(submissions)),
+        render_home(
+            years_sorted,
+            book_years,
+            len(submissions),
+            has_epub=has_epub,
+            has_pdf=has_pdf,
+        ),
         encoding="utf-8",
     )
     (site_dir / "search-index.json").write_text(
@@ -598,9 +646,9 @@ def parse_args() -> argparse.Namespace:
         help=f"Output directory (default: {SITE_DIR_DEFAULT}, for GitHub Pages)",
     )
     p.add_argument(
-        "--epub-dir",
-        default=EPUB_DIR_DEFAULT,
-        help=f"Directory of EPUBs to copy into the site (default: {EPUB_DIR_DEFAULT})",
+        "--books-dir",
+        default=BOOKS_DIR_DEFAULT,
+        help=f"Directory of EPUB/PDF files to copy into the site (default: {BOOKS_DIR_DEFAULT})",
     )
     return p.parse_args()
 
@@ -612,7 +660,7 @@ def main() -> int:
         return 1
     print(f"Connected to database: {args.db}")
     try:
-        generate_site(conn, Path(args.site_dir), Path(args.epub_dir))
+        generate_site(conn, Path(args.site_dir), Path(args.books_dir))
     except Exception as e:
         print(f"Error generating site: {e}", file=sys.stderr)
         return 1
