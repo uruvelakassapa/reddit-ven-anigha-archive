@@ -134,19 +134,32 @@ footer.site {
   white-space: pre-wrap;
 }
 .children { margin-left: 1rem; padding-left: 0.5rem; border-left: 2px solid var(--border); }
-.books-list { display: flex; flex-direction: column; gap: 0.75rem; }
-.books-year { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
-.books-year .yr { min-width: 3.5rem; font-weight: 600; }
-.books-list a {
+.books-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+.books-table th,
+.books-table td {
+  text-align: left;
+  padding: 0.55rem 0.4rem;
+  border-bottom: 1px solid var(--border);
+  vertical-align: middle;
+}
+.books-table th { color: var(--muted); font-weight: 600; }
+.books-table td.yr { font-weight: 600; width: 4rem; }
+.books-table a {
   display: inline-block;
-  padding: 0.4rem 0.75rem;
+  padding: 0.3rem 0.65rem;
+  margin-right: 0.25rem;
   background: var(--card);
   border: 1px solid var(--border);
   border-radius: 6px;
   text-decoration: none;
-  font-size: 0.95rem;
+  white-space: nowrap;
 }
-.books-list a:hover { border-color: var(--accent); }
+.books-table a:hover { border-color: var(--accent); }
+.books-table .size { color: var(--muted); font-size: 0.85rem; margin-left: 0.2rem; }
 """
 
 _SEARCH_JS = """\
@@ -444,37 +457,55 @@ def render_year_page(year: int, items: Sequence[dict]) -> str:
     return page_shell(f"Archive {year}", body, root="../")
 
 
+def _format_size(num_bytes: int) -> str:
+    if num_bytes >= 1024 * 1024:
+        return f"{num_bytes / (1024 * 1024):.1f} MB"
+    if num_bytes >= 1024:
+        return f"{num_bytes / 1024:.0f} KB"
+    return f"{num_bytes} B"
+
+
 def render_home(
     years: Sequence[int],
-    book_years: Sequence[int],
     thread_count: int,
     *,
-    has_epub: set,
-    has_pdf: set,
+    book_catalog: Dict[int, Dict[str, int]],
 ) -> str:
+    """book_catalog: year -> {'epub': bytes, 'pdf': bytes} (keys only if file exists)."""
     year_links = "\n".join(
         f'      <li><a class="title" href="year/{y}.html">{y}</a></li>' for y in years
     )
-    if book_years:
-        book_rows = []
-        for y in book_years:
-            links = []
-            if y in has_epub:
-                links.append(
+    if book_catalog:
+        rows = []
+        for y in sorted(book_catalog.keys(), reverse=True):
+            files = book_catalog[y]
+            if "epub" in files:
+                epub_cell = (
                     f'<a href="books/ven_anigha_reddit_archive_{y}.epub">EPUB</a>'
+                    f'<span class="size">{_format_size(files["epub"])}</span>'
                 )
-            if y in has_pdf:
-                links.append(
+            else:
+                epub_cell = '<span class="meta">—</span>'
+            if "pdf" in files:
+                pdf_cell = (
                     f'<a href="books/ven_anigha_reddit_archive_{y}.pdf">PDF</a>'
+                    f'<span class="size">{_format_size(files["pdf"])}</span>'
                 )
-            book_rows.append(
-                f'      <div class="books-year"><span class="yr">{y}</span> '
-                + " ".join(links)
-                + "</div>"
+            else:
+                pdf_cell = '<span class="meta">—</span>'
+            rows.append(
+                f"        <tr><td class=\"yr\">{y}</td>"
+                f"<td>{epub_cell}</td><td>{pdf_cell}</td></tr>"
             )
-        books_block = "\n".join(book_rows)
+        books_block = f"""      <p class="meta">Yearly archives (full parent context). EPUB for e-readers; PDF for print or desktop.</p>
+      <table class="books-table">
+        <thead><tr><th>Year</th><th>EPUB</th><th>PDF</th></tr></thead>
+        <tbody>
+{chr(10).join(rows)}
+        </tbody>
+      </table>"""
     else:
-        books_block = '      <span class="meta">No books found.</span>'
+        books_block = '      <p class="meta">No books found. Run <code>generate_books.py</code> first.</p>'
 
     body = f"""    <section class="card">
       <h2>About</h2>
@@ -502,10 +533,8 @@ def render_home(
     </section>
 
     <section class="card">
-      <h2>Download books</h2>
-      <div class="books-list">
+      <h2>Download EPUB &amp; PDF</h2>
 {books_block}
-      </div>
     </section>
     <script src="assets/search.js"></script>"""
     return page_shell("Ven Anīgha Reddit Archive", body, root="")
@@ -518,14 +547,13 @@ def write_assets(site_dir: Path) -> None:
     (assets / "search.js").write_text(_SEARCH_JS, encoding="utf-8")
 
 
-def copy_books(books_dir: Path, site_dir: Path) -> tuple[List[int], set, set]:
-    """Copy EPUB/PDF into site; return (sorted years, epub years, pdf years)."""
+def copy_books(books_dir: Path, site_dir: Path) -> Dict[int, Dict[str, int]]:
+    """Copy EPUB/PDF into site; return year -> {format: size_bytes}."""
     dest = site_dir / "books"
     dest.mkdir(parents=True, exist_ok=True)
-    has_epub: set = set()
-    has_pdf: set = set()
+    catalog: Dict[int, Dict[str, int]] = {}
     if not books_dir.is_dir():
-        return [], has_epub, has_pdf
+        return catalog
     for path in sorted(books_dir.glob("ven_anigha_reddit_archive_*.*")):
         match = re.search(r"_(\d{4})\.(epub|pdf)$", path.name, re.I)
         if not match:
@@ -533,12 +561,8 @@ def copy_books(books_dir: Path, site_dir: Path) -> tuple[List[int], set, set]:
         year = int(match.group(1))
         kind = match.group(2).lower()
         shutil.copy2(path, dest / path.name)
-        if kind == "epub":
-            has_epub.add(year)
-        else:
-            has_pdf.add(year)
-    years = sorted(has_epub | has_pdf, reverse=True)
-    return years, has_epub, has_pdf
+        catalog.setdefault(year, {})[kind] = path.stat().st_size
+    return catalog
 
 
 def generate_site(conn, site_dir: Path, books_dir: Path) -> None:
@@ -563,7 +587,7 @@ def generate_site(conn, site_dir: Path, books_dir: Path) -> None:
     (site_dir / "year").mkdir()
     (site_dir / "thread").mkdir()
     write_assets(site_dir)
-    book_years, has_epub, has_pdf = copy_books(books_dir, site_dir)
+    book_catalog = copy_books(books_dir, site_dir)
 
     submissions = db.fetch_submissions(conn)
     by_year = group_submissions_by_year(submissions)
@@ -621,10 +645,8 @@ def generate_site(conn, site_dir: Path, books_dir: Path) -> None:
     (site_dir / "index.html").write_text(
         render_home(
             years_sorted,
-            book_years,
             len(submissions),
-            has_epub=has_epub,
-            has_pdf=has_pdf,
+            book_catalog=book_catalog,
         ),
         encoding="utf-8",
     )
