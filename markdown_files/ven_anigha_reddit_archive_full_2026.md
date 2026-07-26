@@ -14,6 +14,249 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by nanassaka _2026-07-23 14:41:04_
+### [Questions on entertainment](https://www.reddit.com/r/HillsideHermitage/comments/1v4fvq1/questions_on_entertainment/)
+
+According to Bhante Anigha, trying to spend too much time in non-activity can itself become another form of distraction when one is still at the preliminary stage of establishing the precepts. Likewise, even listening to the Dhamma should be regarded as an optional mundane activity, since doing so with the wrong intention can obscure where the real work lies. One might mistakenly think that listening to the Dhamma is itself the practice, when in fact the essential work consists in simply not breaking the precepts at the time
+
+Having some form of activity, while also allowing oneself a reasonable amount of leisure, might actually provide the opportunity to experiment with activities that are not necessarily rooted in wrong intention, rather than pouring one's all in restraining one's mind, which would otherwise be taking them further. Some hobbies are also acceptable for as long as they are done in solitude. My questions are therefore these:
+
+1. Is reading literature necessarily contrary to the entertainment precept? For example, could one read *The Brothers Karamazov* instead of spending time in non-activity, if, at one's present stage, non-activity is actually more likely to become rooted in distraction than the reading itself?
+2. Likewise, is watching YouTube videos with the intention of learning new subjects—such as astronomy, biology, or other worthwhile topics—more likely to be contrary to the entertainment precept? If reading Wikipedia articles is not necessarily considered entertainment, would the same apply to watching carefully selected YouTube videos, provided one is mindful of what one is watching and the intention behind it?
+
+One could take these activities as a form of containing one's own mind within a consistent and disciplinized form of activity. Rather than trying to sit in non-activity for 8 hours a day and missing that *thats* where one's wrong intentions are, one could choose an alternatively mundane activity, but to check whether it is rooted in compulsion here and then. *That* would have more chances of revealing one's own intentions and whether they are rooted in a desire to distract oneself or not, rather than trying to deny everything
+
+Likewise, what advice would you have for a student in the summer break who has all the free time in the world? What should I preoccupy my time and efforts with? Should I learn a new hobby? Should I spend more time doing nothing? I have also been trying to not listen to too much instruction so I dont de-value it through over-repetition and over-saturation, but without that I am left without any forms of activity. Is it important that I find something to do that allows me to sketch out some basic routine or discipline, or not so necessarily? Thank you in advance
+
+
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4fvq1/questions_on_entertainment/ozbe6ag/)** _2026-07-23 16:56:49_:
+    It's true that you shouldn't force yourself to do nothing the whole day, but there's a world of difference between doing things that you have to do or will benefit from doing regardless of any passion—like chores and duties—and the type of activities you listed.
+
+    If you don't have any chores to do then pick up something that you don't enjoy but that you know is good for you, and don't lose sight of the mind's attitude towards it in case it starts to develop passion.
+
+---
+
+**r/HillsideHermitage** | Posted by None _2026-07-23 01:05:22_
+### [How do we know whether we’re uprooting suffering or merely managing it?](https://www.reddit.com/r/HillsideHermitage/comments/1v3z1kd/how_do_we_know_whether_were_uprooting_suffering/)
+
+[removed]
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v3z1kd/how_do_we_know_whether_were_uprooting_suffering/oz8nq0z/)** _2026-07-23 07:54:22_:
+    > Is the liability being uprooted when painful feeling can remain without resistance, appropriation, or the urge to escape? Or could “enduring without reacting” itself become another subtle way of managing the experience?
+
+    Prior to attaining the right view, you *will* be conflating those two to some extent. You don't clearly understand feelings as they are yet.
+
+    So the "clearest" and only reliable sign is that you became a sotāpanna: you're free from the second arrow whether you practice or not,  you're beyond doubt about how that came about and how to develop it further, and by extension, you're incapable of seeing any value in a practice other than that one.
+
+---
+
+**r/HillsideHermitage** | Posted by Representative-Age18 _2026-07-21 16:09:32_
+### [AN 6.44 directly opposes Bhikku Anigha’s claim that “Stream entry requires celibacy”](https://www.reddit.com/r/HillsideHermitage/comments/1v2mvvo/an_644_directly_opposes_bhikku_anighas_claim_that/)
+
+In this sutta Ven. Ananda is approached by laywoman Migsala.
+
+She is confused because the Buddha has recently declared two individuals once-returners; one of them was celibate and the other was implied to be sexually active, living with his wife. Presented as chaste vs unchaste.
+
+So she ask ven. Ananda how this could be. He goes back to the Buddha for answers.
+
+The Buddha essentially says that you cannot know a person’s mind based on superficial actions unless you are the Tathagata.
+
+This sutta strongly proves that you do not have to be celibate to attain a degree of enlightenment.
+
+What my claim is not: That celibacy isn’t helpful, it surely is helpful for the path.
+
+What I may claim: That one should be careful with throwing around absolute statements such as “Stream entry is IMPOSSIBLE without celibacy” or “This is absolutely required for this”.
+
+The laywoman thought she knew the conditions for enlightenment, and thought she could predict a practicioner’s attainment based on their celibacy or non-celibacy. The Buddha quickly corrected her conceit.
+
+The key takeaway and moral of this sutta that the Buddha is trying to convey is that one should not think one knows, and one should have epistemic humility.
+
+Edit: Hey, sorry I meant Sakadagami, not Anagami. My bad. Corrected now.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2mvvo/an_644_directly_opposes_bhikku_anighas_claim_that/oz15vgt/)** _2026-07-22 07:29:14_:
+    We've discussed this Sutta many times before and refuted the strawmans presented along with it.
+
+    > What my claim is not: That celibacy isn’t helpful, it surely is helpful for the path.
+
+    What defines the *puthujjana* is not that they utterly abhor celibacy and withdrawal from sensuality. It's that, at minimum, they see it as merely "helpful" rather than *necessarily* part of the path. Not seeing the four noble truths, they deep down feel that some amount of craving can be had and acted out of without automatically hurting themselves. 
+
+    So that's why, as we've repeatedly clarified, our position is not "you will never get the right view unless your celibacy has been perfect for years" (that *would* be refuted by plenty of Suttas). It's also not "someone with right view will never engage in sensuality." Rather, it's "the path begins with (and remains based on) abandoning sensuality; anything outside of that is not the path." There's a huge gap between those.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2mvvo/an_644_directly_opposes_bhikku_anighas_claim_that/oz2sh8f/)** _2026-07-22 13:51:38_:
+
+    *(In reply to Representative-Age18):*
+    > No I fully agree that sensuality is hurtful, that’s not what I said. All I’m doing is refuting the view that celibacy is somehow an absolute necessity for the first path. It’s just not true. It’s true for 3rd and 4th path.
+
+    > No I fully agree that sensuality is hurtful
+
+    Well, [there is no (right) path at all](https://suttas.hillsidehermitage.org/?q=sn45.24) and no deeper realization of that insight unless you *live* that view instead of simply "agreeing" with it—which means taking on celibacy/non-sensuality, AKA right intention. That's why it's not enough to merely "not deny" the usefulness of celibacy.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2mvvo/an_644_directly_opposes_bhikku_anighas_claim_that/oz8hdto/)** _2026-07-23 07:02:52_:
+
+    *(In reply to Representative-Age18):*
+    > Well personally I’m currently being celibate myself, and trying to follow 8 precepts on most days. Why do you make presumptions about me and my practice? We’re discussing a sutta interpretation, not me personally
+
+    It doesn't matter whether you're actually celibate or not. The mere view that sensuality is not automatically an obstruction to the path is by itself a bigger obstruction than seeing celibacy as indispensable and taking it on, yet stumbling from time to time. 
+
+    That's because the whole point of the practice (no matter what stage you're in) is to train your mind so that it can't *return* to sensuality and craving, not just to not have it in the moment. If your view sees it as not inherently a problem—for yourself here and now, not just an arms-length "yes, eventually sensuality must be given up to become an *anāgāmi*"— then you're already not trying to abandon it as a possibility. [Hence the Buddha rebuked Ariṭṭha so strongly](https://suttas.hillsidehermitage.org/?q=mn22) despite the fact that, as a bhikkhu, he was not engaging in sensuality himself.
+
+---
+
+**r/HillsideHermitage** | Posted by noobknoob _2026-07-21 11:34:34_
+### [About a recent post that has been deleted](https://www.reddit.com/r/HillsideHermitage/comments/1v2ftx0/about_a_recent_post_that_has_been_deleted/)
+
+I saw a post here recently in which the OP was presenting the idea that "the HH way" of trying to establish the virtue might be partially flawed. OP was saying something along the lines of "HH has a tendency to subtly/indirectly/maybe unintentionally shame the people who are failing to develop the precepts. Which might ultimately be non-conducive to developing them".
+
+I myself has felt that sometimes and thought that discussion might be useful. Can anyone explain why that post was deleted?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2ftx0/about_a_recent_post_that_has_been_deleted/oz0ta1j/)** _2026-07-22 05:49:19_:
+    I must have been deleted either by the OP or by Reddit, not by a mod.
+
+    As for the argument itself: it may appear "non-conducive" if one assumes that precept-observance is the end goal—in which case a "gentler" approach might indeed produce the desired external behavior in more people. But that misses the point. The goal is not the precepts by themselves but precisely to develop [shame regarding unwholesome states](https://suttas.hillsidehermitage.org/?q=mn53#mn53:12.1). 
+
+    A person who is anchored in that sense of shame will be progressing at some rate even if they keep stumbling in their precepts until the day they die, whereas one whose behavior is utterly pure from day one but does not develop shame is not practicing at all. They'll remain at the level of [an infant](https://suttacentral.net/mn78/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#8.8).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2ftx0/about_a_recent_post_that_has_been_deleted/ozbc895/)** _2026-07-23 16:48:48_:
+
+    *(In reply to noobknoob):*
+    > Thank you for your thoughts, bhante 🙏
+    >
+    > Something I will reflect on further, for sure.
+    >
+    > >The goal is not the precepts by themselves but precisely to develop  shame regarding unwholesome states
+    >
+    > Would it be more accurate to say "to develop the right type of shame"? And I don't mean the shame that a noble disciple feels. Would you say that even for a puthujjunna, there's wrong shame and less wrong shame?
+    >
+    > IIRC, I heard in one of your discussions that the way to distinguish between these two is to see if your conduct improves over time. If it does, then it's the right type of shame. If external behaviour is not the only criteria for progress, does that point still hold?
+    >
+    > Something I learnt recently that I'd love to hear your thoughts about: In psychology, they discuss 2 types of shame: healthy shame and toxic shame. Healthy shame is directed towards actions (these actions are wrong) and toxic shame is directed towards core identity (I am worthless/wrong/unlovable).
+    > This second type of shame is always counter-productive and just dysregulates you further, taking you further away from your goal.
+    >
+    > Would you say that the goal is to feel healthy shame in regards to misconduct? And what are your thoughts on using psychoanalysis insights to help with addictions and to improve overall well-being in general?
+    >
+    > Thank you 🙏
+
+    >  Would you say that even for a puthujjunna, there's wrong shame and less wrong shame?
+
+    Yes, but it's shame about having actually broken the precepts—rather than not meeting some projected standard beyond that—then it's universally right enough and should not be covered up.
+
+    > I heard in one of your discussions that the way to distinguish between these two is to see if your conduct improves over time. If it does, then it's the right type of shame.
+
+    Yes, but the timeframe will generally be longer than you expect it to be. It could take years, weeks, or days from the point that you start feeling ashamed of misconduct to the point that you finally give it up. And even that will not be a permanent abandonment until non-return, which is why shame remains one of the faculties driving a noble disciple's progress.
+
+    > Would you say that the goal is to feel healthy shame in regards to misconduct?
+
+    Not quite. Shame is shame, and it's not healthy or unhealthy in itself. The unhealthiness comes from what the person decides to do with the impetus born out of shame (i.e., further unwholesome things like revolving around self-hatred or even abandoning restraint altogether).
+
+    > And what are your thoughts on using psychoanalysis insights to help with addictions and to improve overall well-being in general?
+
+    It should be seen as a compromise rather than as an aid to the real practice.
+
+    
+    
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2ftx0/about_a_recent_post_that_has_been_deleted/ozbcjr9/)** _2026-07-23 16:50:07_:
+
+    *(In reply to interested-in-dhamma):*
+    > Hello Bhante, would there be any issue if that shame is experienced as pleasantly, a welcoming quality, even a blessing that one has capacity for shame?
+
+    No, as long as it's still used to commit to restraint in the future.
+
+---
+
+**r/HillsideHermitage** | Posted by Representative-Age18 _2026-07-20 10:17:22_
+### [AN 8.54 - A layperson can develop liberating wisdom without 8 precepts, according to the buddha? Criticism of HH](https://www.reddit.com/r/HillsideHermitage/comments/1v1hgho/an_854_a_layperson_can_develop_liberating_wisdom/)
+
+In this sutta the Buddha instucts a layperson to develop liberating wisdom without any mention of the 8 precepts or the typical monastic sense restraint formula. I noticed something interesting about this sutta that I'd like to see discussed.
+
+I'll skip to the part where he gives advice on "(...) the four things that lead to the welfare and happiness of a gentleman in this life."
+
+He mentions:
+
+"What four? Accomplishment in faith, ethics, generosity, and wisdom."
+
+Faith: faith in the buddha
+
+Ethics: the five precepts
+
+Generosity: he instructs the layperson in developing acts of geneorsity
+
+Wisdom: "And what is accomplishment in wisdom? It’s when a gentleman is wise. He has the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. This is called accomplishment in wisdom."
+
+I'd like to put emphasis on the Wisdom part.
+
+Here the Buddha is telling a layperson to develop wisdom that may cultivate in the complete ending of suffering with ONLY THE FIVE PRECEPTS as the basis.
+
+This seems to undermine the HH position that any attempt at cultivating wisdom is redundant and only a form of management before the mind is fully tamed.
+
+Btw, I'm closer alligned to the HH position than the other schools, and believe sense restraint to be alpha omega, but this sutta does really seem to soften the position that 8 precepts/ celibacy is a hard cutoff for right view.
+
+HH is a breath of fresh air in the Dhamma community, because bypassing is like the foundation of most dhamma nowadays. However, their position can cause a lot of tension in householder follower's hearts, as HH has a very strict 8 precepts cutoff for gaining noble wisdom, making the dhamma essentially impossible to develop for laypeople and all attempts at developing becomes "A managment technique, escape" or similar. This is why I find it important to push back.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v1hgho/an_854_a_layperson_can_develop_liberating_wisdom/oyof8qa/)** _2026-07-20 14:22:10_:
+    > Here the Buddha is telling a layperson to develop wisdom that may cultivate in the complete ending of suffering with ONLY THE FIVE PRECEPTS as the basis.
+
+    The discourse doesn't say "wisdom can be developed based on these other three things"; it says "these four things are very beneficial." We know that it *cannot* be saying the former because in other Suttas (MN 16, MN 36) the Buddha says that simply harboring desire for sensuality internally is an obstruction to development in the Dhamma. The Chinese version of MN 41 makes it even more explicit:
+
+    > “If one wishes to cut off the three fetters and attain the fruits of stream-entry, once-returning, and non-returning, the unlimited supernormal powers, the divine ear, the knowledge of others’ minds, the knowledge of past lives, the knowledge of death and rebirth, and the knowledge of the destruction of the contaminants, they will all obtain them. Why is that? Because of Dharma practice and right practice, **maintaining virtue and being free from desire,** what is wished for will certainly be obtained.”
+    > —SĀ 1042
+
+    Only a person who sees noble wisdom as something other than the abandonment of craving—i.e., who is headed in a completely different trajectory than Nibbāna—would think that engaging with sensuality can coexist with attempts to develop wisdom.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v1hgho/an_854_a_layperson_can_develop_liberating_wisdom/oyom5cd/)** _2026-07-20 14:53:43_:
+
+    *(In reply to Representative-Age18):*
+    > Yes he is in fact saying that wisdom can be developed based on these other three things.
+    >
+    > Why would he teach this layperson 4 things, but only 3 of them are actually relevant to him? The Buddha clearly is giving him a tailored set of instructions on how he can be happy 1) Faith 2) Five precepts 3) Generosity and 4) Development of wisdom
+    >
+    > “It’s when a gentleman is wise. He has the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering.”
+    >
+    > Notice he is saying “gentleman” referring to a householder, not using the word discople, monk or mendicant. No, using the word he uses for householders.
+    >
+    > Notice he is telling this layperson in the same breath as he is telling him to keep FIVE precepts, to develop wisdom that is “noble”.
+    >
+    > The context of the sutta is that Dighajanu is asking the Buddha for personal instruction on how he can practice Dhamma in a way that leads to happiness and welfare in this very life.
+    >
+    > Now notice that I’m not saying five precepts is enough to make you an arahant. It factually isn’t.
+    >
+    > I’m saying that the Buddha clearly says that this layperson, whom he thinks should follow five precepts, should become accomplished in noble wisdom.
+    >
+    > And yes, of course sensuality to any degree is an obstruction to developing the dhamma. The less sensuality the better. BUT the Buddha understood that progress away from sensuality for many people has to be gradual. But he also does not deny that NOBLE WISDOM IS POSSIBLE for someone who isn’t fully seperated from sensuality.
+    >
+    > Sensuality and wisdom are opposites, but they exist on spectrums.
+    >
+    > Did the Buddha say he will reach nibbana in this life with five precepts? No
+    >
+    > Did he say you can make some significant gains in wisdom, potentially reaching a degree of noble wisdom based on the five precepts in this sutta? It sure seems so.
+
+    > Why would he teach this layperson 4 things, but only 3 of them are actually relevant to him? 
+
+    It's not irrelevant to him, because he (and every other householder) *can* develop wisdom if they start striving for the cessation of craving—which begins with the most obvious one, namely sensuality.
+
+    > Notice he is telling this layperson in the same breath as he is telling him to keep FIVE precepts, to develop wisdom that is “noble”.
+
+    Sure. That doesn't mean the Buddha thinks he will be able to do that *with* five precepts.
+
+    You can tell someone "get a degree and become an astronaut." Does that imply that the degree is all they need? Of course not, and unless they were seriously deluded about what being an astronaut requires, it would be obvious to them as well.
+
+    > But he also does not deny that NOBLE WISDOM IS POSSIBLE for someone who isn’t fully seperated from sensuality.
+
+    He very much does in the Suttas I cited above.
+
+    > Sensuality and wisdom are opposites, but they exist on spectrums.
+
+    Yes, and nobody denies this. That's why we advise people who struggle with celibacy to start with the five precepts and build gradually towards the eight. But it's quite something else to say that while having settled on one end of the spectrum, one can nevertheless arrive at the other.
+
+---
+
+**r/HillsideHermitage** | Posted by Particular-Review-65 _2026-07-20 09:20:59_
+### [Repressing anger is inevitable for an ordinary person, in order to not act out.](https://www.reddit.com/r/HillsideHermitage/comments/1v1ggzj/repressing_anger_is_inevitable_for_an_ordinary/)
+
+I might be wrong. But sometimes when anger gets too strong, it feels almost impossible to just let go. First I might repress it, to keep my precept, then I might channel the anger into more productive activities, albeit worldly ones, like exercising, reading books, or even contemplating anger.   
+Am I doing it wrong? Please give me advice to deal with anger? Maybe more sense restraint? Stay in seclusin? Manage my environment? Patiently endure? I am a puthujanna,  I still don't know how to endure without resisting/repressing it at all. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v1ggzj/repressing_anger_is_inevitable_for_an_ordinary/oyok8qz/)** _2026-07-20 14:45:05_:
+    The fact that anger arises and doesn't go away is not at all "wrong." It's what supposed to happen. By not acting out of that anger that stays nor managing it—which is what any "letting go" that a puthujjana can wrap their head around will be—you will eventually be able to understand it and thus uproot it (by removing the resistance to unpleasant feeling, not the feeling itself).
+
+---
+
 **r/HillsideHermitage** | Posted by ToLazyToPickName _2026-07-18 09:21:34_
 ### [Do you need to be free from the 5 hindrances (i.e. get 1st jhana) to become a sotapanna (i.e. get right view)?](https://www.reddit.com/r/HillsideHermitage/comments/1uzr769/do_you_need_to_be_free_from_the_5_hindrances_ie/)
 
