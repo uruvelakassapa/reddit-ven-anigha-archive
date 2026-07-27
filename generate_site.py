@@ -429,7 +429,6 @@ def page_shell(
     <div class="inner">
       <a href="{HH_URL}" rel="noopener noreferrer" target="_blank">Hillside Hermitage</a>
       · <a href="{REPO_URL}" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
-      · Generated from the SQLite archive; sutta links use SuttaCentral.
     </div>
   </footer>
 </body>
