@@ -2,6 +2,10 @@
 
 Archives Reddit comments by [Venerable Anīgha](https://www.reddit.com/user/Bhikkhu_Anigha/comments/) and [Sister Medhini](https://www.reddit.com/user/Sister_Medhini/comments/).
 
+**Browse the archive:** [uruvelakassapa.github.io/reddit-ven-anigha-archive](https://uruvelakassapa.github.io/reddit-ven-anigha-archive/)
+
+Related: [Hillside Hermitage](https://www.hillsidehermitage.org/)
+
 ## Outputs
 
 | Format | Location | Notes |
@@ -9,9 +13,9 @@ Archives Reddit comments by [Venerable Anīgha](https://www.reddit.com/user/Bhik
 | SQLite | `reddit_comments.db` | Source of truth |
 | Markdown | `markdown_files/` | Yearly `standard` and `full` |
 | EPUB + PDF | `books/` | From full Markdown via Pandoc (+ XeLaTeX for PDF) |
-| Web site | `docs/` | Browse, search, SuttaCentral links |
+| Web site | `docs/` | Browse, search, SuttaCentral links — live at the URL above |
 
-Enable **GitHub Pages** from the `docs/` folder on `main` to publish the site.
+The site is published with **GitHub Pages** from the `docs/` folder on `main`.
 
 ## How it works
 

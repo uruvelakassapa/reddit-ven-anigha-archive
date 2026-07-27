@@ -20,6 +20,8 @@ import db
 SITE_DIR_DEFAULT = "docs"
 BOOKS_DIR_DEFAULT = "books"
 REPO_URL = "https://github.com/uruvelakassapa/reddit-ven-anigha-archive"
+SITE_URL = "https://uruvelakassapa.github.io/reddit-ven-anigha-archive/"
+HH_URL = "https://www.hillsidehermitage.org/"
 TEACHERS = frozenset({"Bhikkhu_Anigha", "Sister_Medhini"})
 
 # Conservative sutta refs only (web viewer enrichment — not applied to MD/EPUB).
@@ -66,7 +68,11 @@ header.site p { margin: 0; opacity: 0.9; font-size: 0.95rem; }
 header.site .header-row {
   display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0.5rem 1rem;
 }
-header.site .repo-link { font-size: 0.9rem; white-space: nowrap; opacity: 0.95; }
+header.site nav.top-links {
+  display: flex; flex-wrap: wrap; gap: 0.35rem 1rem; font-size: 0.9rem; opacity: 0.95;
+}
+header.site nav.top-links a { text-decoration: none; border-bottom: 1px solid transparent; }
+header.site nav.top-links a:hover { border-bottom-color: rgba(232, 240, 232, 0.7); }
 nav.crumbs { font-size: 0.9rem; margin: 1rem 0; color: var(--muted); }
 main { padding: 0 1.25rem 3rem; }
 footer.site {
@@ -75,6 +81,7 @@ footer.site {
   color: var(--muted);
   font-size: 0.9rem;
 }
+footer.site a { color: var(--link); }
 .card {
   background: var(--card);
   border: 1px solid var(--border);
@@ -407,7 +414,10 @@ def page_shell(
     <div class="inner">
       <div class="header-row">
         <h1><a href="{root}index.html" style="color:inherit;text-decoration:none">Ven Anīgha Reddit Archive</a></h1>
-        <a class="repo-link" href="{REPO_URL}" rel="noopener noreferrer" target="_blank">GitHub</a>
+        <nav class="top-links" aria-label="Related sites">
+          <a href="{HH_URL}" rel="noopener noreferrer" target="_blank">Hillside Hermitage</a>
+          <a href="{REPO_URL}" rel="noopener noreferrer" target="_blank">GitHub</a>
+        </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
     </div>
@@ -417,8 +427,9 @@ def page_shell(
   </main>
   <footer class="site">
     <div class="inner">
-      Generated from the SQLite archive. Sutta links (SuttaCentral) appear on this site only.
+      <a href="{HH_URL}" rel="noopener noreferrer" target="_blank">Hillside Hermitage</a>
       · <a href="{REPO_URL}" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
+      · Generated from the SQLite archive; sutta links use SuttaCentral.
     </div>
   </footer>
 </body>
@@ -562,8 +573,10 @@ def render_home(
       <h2>About</h2>
       <p>This site presents archived Reddit Q&amp;A involving
       <strong>Bhikkhu Anīgha</strong> and <strong>Sister Medhini</strong>
-      (chiefly r/HillsideHermitage). Thread pages include full context;
-      citations like MN 44 are linked to SuttaCentral on this site only.</p>
+      (chiefly r/HillsideHermitage). See also
+      <a href="{HH_URL}" rel="noopener noreferrer" target="_blank">Hillside Hermitage</a>.
+      Thread pages include full context; citations like MN 44 are linked to
+      SuttaCentral on this site only.</p>
       <p class="meta">{thread_count} threads across {len(years)} year(s).
       Source: <a href="{REPO_URL}" rel="noopener noreferrer" target="_blank">github.com/uruvelakassapa/reddit-ven-anigha-archive</a>.</p>
     </section>
