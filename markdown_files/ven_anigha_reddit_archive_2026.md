@@ -9,6 +9,133 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by cryptocraft _2026-07-29 03:32:47_
+### [Distinguishing between samvega and aversion](https://www.reddit.com/r/HillsideHermitage/comments/1v9kgqn/distinguishing_between_samvega_and_aversion/)
+
+Often renunciation is presented as a sacrifice, but what should one do when they experience craving towards it? For example, what if one feels aversion towards being in the company of others, or the burden of acquiring and maintaining family and material possessions? Though the inclination away from these things seem to be directionally inline with the Dhamma, what if the impulse behind it is aversion towards pressure?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v9kgqn/distinguishing_between_samvega_and_aversion/p0w8w26/)** _2026-07-31 15:43:20_:
+
+    > what if the impulse behind it is aversion towards pressure?
+
+    It will be to some extent. The whole path is based on "aversion" if you define it as simply not wanting something (i.e., suffering).
+
+    What you then have to make sure is that avoiding company and acquisitions doesn't become a goal in itself: that the extent of that avoidance remains fully determined by what you personally need to keep your mind away from to subdue its craving, rather than blindly shunning this or that thing per se.
+
+---
+
+**r/HillsideHermitage** | Posted by Representative-Age18 _2026-07-28 08:34:51_
+### [Being surrounded by beautiful women](https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/)
+
+I will start a new degree this fall in a class where 75% are women. I will have to interact with a lot of attractive women on a daily basis. I would guess a lot of people here also live in cities or work in places where they see attractive women every day.
+
+Is this a major hindrance even if one refrains from the pressure to engage in sex, flirt, seek it out, masturbate or act in any way that relieves the pressure?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/p09x2xf/)** _2026-07-28 14:50:20_:
+
+    > Is this a major hindrance even if one refrains from the pressure to engage in sex, flirt, seek it out, masturbate or act in any way that relieves the pressure?
+
+    You can keep the precepts and so on, even avoid speaking to them, but since you're already not sure to what extent it would be a hindrance, the chance that you will be giving in to the pressure at least mentally—i.e., fall prey to the hindrance—is basically 100% (see the AN quote in that other comment). And for as long as that's the case, you can't take for granted that you won't act out in coarser ways when the opportunity arises.
+
+---
+
+**r/HillsideHermitage** | Posted by Agreeable_Range_8732 _2026-07-27 18:48:47_
+### [Can I keep the precepts as a trial for a few months before committing to them for life?](https://www.reddit.com/r/HillsideHermitage/comments/1v89e8g/can_i_keep_the_precepts_as_a_trial_for_a_few/)
+
+I have committed to the 5 precepts for life, but I'm hesitating committing to celibacy and non-entertainment for life. I know it's the right thing to do, and I've tried to convince myself with tons of HH videos and contemplation, but to no avail. I need to see the benefits first hand. And to do that, I need to progress in the practice, but is there any progression whatsoever without having made the clear intention to keep the 8 precepts forever? 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v89e8g/can_i_keep_the_precepts_as_a_trial_for_a_few/p09ugpm/)** _2026-07-28 14:38:54_:
+
+    What's more important than committing for X amount of time is to change your view regarding the precepts: the point is not to figure out why you must keep them, but to confine your mind within them. No matter how clear and confident about your determination you were initially, that will fade once the mind starts feeling the confinement and trying to get out again. You have to be able to withstand even the most convincing feeling of "this is pointless" in order to succeed, because that's how much influence over your perception an untamed mind has.
+
+    If that's clear then sure, you can start out with a few months (but still unconditionally) before taking on the precepts for life.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v89e8g/can_i_keep_the_precepts_as_a_trial_for_a_few/p0bdm08/)** _2026-07-28 18:29:25_:
+
+    > It can be helpful to recognize the other side of it, that the "confinement" of renunciation, of keeping the precepts, is in fact a joy, a bliss, a gift, a medicine, for the mind that sees rightly.
+
+    That will remain on the level of wishful thinking when the mind is obsessed with getting out of the confinement, and emphasizing it out of a sense that "renunciation shouldn't be unpleasant" will realistically result in compromising the confinement. The unpleasantness is not something you get to decide; it depends on how wild the mind is.
+    
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v89e8g/can_i_keep_the_precepts_as_a_trial_for_a_few/p0bj69k/)** _2026-07-28 18:52:47_:
+
+    > Won't my mind get an escape route if I don't intend to keep them forever?
+
+    If you're preemptively making plans to break them during the few months then yes, that would be the escape route. So you just don't give the mind any confirmation that you will break the precepts at any point until the period is over (and that keeps fully open the possibility that the confinement will continue beyond that). That's also how the Uposatha should be kept.
+
+    > The ideal scenario in my mind was to keep the precepts for a while, and progress enough in the practice for me to want to keep the precepts for life, instead of forcing myself to. I mean, I would still be forcing myself, but having seen enough of the drawbacks of sensuality, have enough sense to naturally not give in. Is that possible?
+
+    Not quite. Until the mind is fully tamed you will always be forcing the restraint to some degree, which is why the Dhamma goes "against the grain." What diminishes is how much the mind kicks back at you in response.
+
+    But if you commit steadfastly for a long-ish period in the above way then it is very possible that the worst of the mind's rebellions will over by the end of it.
+
+---
+
+**r/HillsideHermitage** | Posted by Seekfinderin _2026-07-26 09:56:08_
+### [Where does my responsibility end?](https://www.reddit.com/r/HillsideHermitage/comments/1v6zj0t/where_does_my_responsibility_end/)
+
+I am reading the text about authority by Sister Medhini. It stresses how we should be very clear about what we are responsible for and what we aren't responsible for. Like the stoic philosophy basically. But I am very confused about where my responsibility ends and how this whole responsibility thing works in case of mutual influence.
+
+In our everyday life we are influencing others. Sometimes consciously, sometimes unconsciously. E.g. if I am a teacher of children, then I have to influence them. Educate them. I take measures.
+
+Sometimes what I do has the desired effect and leads to e.g. the child learning what I want to teach it or behaving as I would like it to behave. Sometimes my actions may not work out and have the opposite effect, e.g. I raise my voice and try to educate it about a particular behaviour that e.g. is hurtful against others, but instead of it changing that behaviour it may rebel and show more of it and my intervention simply wasn't successful.
+
+Now, where does my responsibility begin or end here? If I am a parent or a teacher I cannot simply say: Everyone is only responsible for oneself so I shouldn't influence the child in any way as it is responsible for his own actions solely. I have some responsibility here, it seems. Depending (in parts) on what I do, the child behaves in some way. Sometimes contrary to what I wanted. But nonetheless his action or reaction was (in parts) triggered by my action, by my attempt to influence it, so is not the reaction of the child a part of my responsibility?
+
+If I scream at someone and he slaps my face as a reaction to it, then of course he is responsible for hitting me, but am I not ALSO (in parts) responsible for his action, because it happened as a reaction to what I did? If it wouldn't have happened if I didn't scream, how then can it not be within my responsibility?
+
+In case of the child: Due to my influence it may make some decisions that I then regret. If it wouldn't have made those decisions if I had spoken to the child in a different manner or tone or used different words, is it then not clear that it is within my responsibility? And where does it end then?
+
+To me it seems that my responsibility in fact is almost endless. I think that I cannot even fathom the extent of what I may be responsible for in this world. My influence, no matter how small it may be in the grand scheme, may have impact on generations. So I see no end of my responsibility. And I cannot "not" act, not even as a monk in solitude, but certainly not when I e.g. am a parent or a teacher, a husband or a wife or in any other way living in an exchange with others.
+
+So how can I take responsibility, if my responsibility seems so endless, if I cannot control what my actions may cause in others and what they may cause others to do in consequence of it?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v6zj0t/where_does_my_responsibility_end/p09q1nv/)** _2026-07-28 14:19:32_:
+
+    All of the "responsibilities" you refer to are real from a worldly standpoint but irrelevant when it comes to the Dhamma. What you're responsible for in that context is your own suffering, which is due to the craving that you are here and now either fueling or undercutting. 
+
+    Putting first your failure to meet the worldly responsibilities will distract you from that internal responsibility (which is worth prioritizing because it's precisely due to suffering that you care about everything else).
+
+---
+
+**r/HillsideHermitage** | Posted by Objective-Work-3133 _2026-07-24 01:49:42_
+### [Just a couple of questions](https://www.reddit.com/r/HillsideHermitage/comments/1v4xl0y/just_a_couple_of_questions/)
+
+1. If i am not successfully keeping the precepts, is there any point of abiding in non-activity, or is it wasted effort? The precept i struggle with the most is the fifth. I consume caffeine and vape. Celibacy is difficult but i did go a month.
+2. I have back pain. I went three months without being able to sit at all. Is it ok if i am changing my position every 20 minutes or so, when trying to be non-active? Getting up to get a pillow or towel for my back, adjusting the recliner, stretching, switching to lying down, etc.
+
+I would also like to request some clarification for what i actually should be doing when i "sit". I know i am not supposed to be sensation watching or trying to think of nothing. I am supposed to neither accept nor deny my thoughts rooted in greed, hatred, or distraction. Is acceptance or denial of the thoughts more about the attitude with which i regard them, as opposed to what i do with them when they arise? So, i am sitting. I think about someone who is \*making me angry. Then, i recognize the thought, which is itself another thought. Do i go back to thinking about the person making me angry, so that i can patiently endure the anger? Or do i just think about something else, making the patient endurance not so much the endurance of the unwholesome thoughts' contents and their concomitant feelings, so much as the endurance of the process whereby the unwholesome thoughts repeatedly assault me and i choose to think about something else. But if that is the case, isn't that denying them? I am saying no to them, which is what denial is. The only thing that makes sense to me so far is what i suggested earlier; acceptance or denial is in the attitude with which i regard the thoughts, not so much what i do with them when they arise. I think the way Ven. Nanamoli phrased it is "not putting out the welcome mat."
+
+\*not literally. i make me angry. or, "anger happens".
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4xl0y/just_a_couple_of_questions/p09j6le/)** _2026-07-28 13:48:39_:
+
+    > If i am not successfully keeping the precepts, is there any point of abiding in non-activity, or is it wasted effort?
+
+    It is highly inefficient and potentially counterproductive effort. It implies you still have coarser things to deal with, and thus you won't have the experience of taming your own mind that is required to properly understand what non-activity means. 
+
+    A lot of people hear the talks on "non-activity" and take it as some kind of "HH-approved sitting practice" that can be done instead of mainstream forms, but you actually need to abandon that whole attitude of wanting something to perform, however subtle, in order to understand what is even meant with "non-activity". Otherwise you'll be maintaining precisely the activities that need to be abandoned because you don't even see them. And you can forget about successfully abandoning the subtle attitude of depending on activity if the coarser attitude of non-virtue is still there.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4xl0y/just_a_couple_of_questions/p0m6wnw/)** _2026-07-30 05:44:36_:
+
+    At least caffeine is not sensuality nor a precept violation in itself; the issue might just be the attitude with which you resort to it (and the amount is a byproduct of that).
+
+    > whose abandonment is a necessary prerequisite for my being able to reasonably expect any understanding of what even needs to be done as far as non-activity is concerned.
+
+    The precepts are just the very beginning.  "Non-activity" is quite far ahead of that. It's basically abandoning the hindrances (which, it's worth emphasizing, has nothing to do with sitting motionless).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4xl0y/just_a_couple_of_questions/p14r8oe/)** _2026-08-01 20:21:30_:
+
+    Caffeine cannot make you more inclined towards sensuality; it just puts you in an energetic state of mind which, when the mind is ignorant of the danger in sensuality and is not sufficiently trained in sense restraint, becomes a basis for sensual proliferation. In the same way as being excited leads a dog *that's not trained* to start knocking things over.
+
+    Even actual intoxicants like alcohol can't induce defilements. It's just that you lose the perspective necessary to notice and restrain the defilements that were already there. Caffeine still leaves you with plenty of opportunity to do that.
+
+    > It seems to me that the main reason I would drink it is because I don’t want to endure the unpleasant feeling that’s already there.
+
+    That's not automatically the case just because lack of energy is unpleasant and caffeine removes it. That logic would make virtually every choice to sleep or eat unwholesome. 
+
+    If you are resisting the lack of energy on the mental level already (you need to see this first and foremost, independently of any particular action) and the prospect of drinking coffee arises *in that light*, then you would be acting out of resistance by drinking coffee. You then wouldn't do it until the action presents itself to the mind in a different light.
+
+    That said, don't worry about resistance to lethargy when the mind is still in a sensual orientation. In fact, drinking coffee at that point might even be beneficial so that it's harder to confuse training the mind with controlling its moods.
+
+---
+
 **r/HillsideHermitage** | Posted by nanassaka _2026-07-23 14:41:04_
 ### [Questions on entertainment](https://www.reddit.com/r/HillsideHermitage/comments/1v4fvq1/questions_on_entertainment/)
 
