@@ -39,6 +39,12 @@ Is this a major hindrance even if one refrains from the pressure to engage in se
     > Is this a major hindrance even if one refrains from the pressure to engage in sex, flirt, seek it out, masturbate or act in any way that relieves the pressure?
 
     You can keep the precepts and so on, even avoid speaking to them, but since you're already not sure to what extent it would be a hindrance, the chance that you will be giving in to the pressure at least mentally—i.e., fall prey to the hindrance—is basically 100% (see the AN quote in that other comment). And for as long as that's the case, you can't take for granted that you won't act out in coarser ways when the opportunity arises.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/p17j91c/)** _2026-08-02 06:34:42_:
+
+    *(In reply to titikshakshanti):*
+    > Bhante, is this principle you are describing above applicable to only the precept against non-celibacy or sexual misconduct or is it applicable to other precepts as well like precept against intoxication and entertainment? Is physical proximity to opportunities for such violations of other precepts are too be avoided similarly?
+
+    It applies universally only to the third precept.
 
 ---
 
