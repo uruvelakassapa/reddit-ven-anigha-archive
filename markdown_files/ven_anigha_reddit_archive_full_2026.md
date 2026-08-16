@@ -14,6 +14,102 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by AwakenTheWisdom _2026-08-14 14:49:55_
+### [I Have A Request For Hillside](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/)
+
+🙏 
+
+There’s a lot of misconception and misunderstanding surrounding your perspectives of sense restraint and celibacy in relation to Sotapanna attainment. I think the Venerables should 
+
+*() Create an entire series strictly for laypeople in how to practice the Buddha’s teachings.*
+
+*() Clear up all misunderstandings and misconceptions.*
+
+Apparently, many people are confused, and in some cases, become discouraged to practice due to the beliefs of how to practice as a layperson regarding Sotapatti attainment.
+
+Can the Venerables accomplish this task?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3o09cz/)** _2026-08-14 15:38:13_:
+    > Create an entire series strictly for laypeople in how to practice the Buddha’s teachings.
+
+    This is what all of the published talks are already geared towards. 
+
+    > Apparently, many people are confused, and in some cases, become discouraged to practice due to the beliefs of how to practice as a layperson regarding Sotapatti attainment. 
+
+    How do you propose preventing such discouragement?
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3oo08r/)** _2026-08-14 17:21:15_:
+
+    *(In reply to AwakenTheWisdom):*
+    > Hello Bhante,
+    >
+    > It appears that people are misunderstanding the idea of celibacy prior to Sotapatti. Full clarity is needed
+    >
+    > () Is “permanent celibacy” require for five preceptor laypeople to attain the stream?
+    >
+    > Or
+    >
+    > () Is celibacy required “in the moment”: Meaning that when one is hearing the Dhamma, the hindrances are not present?
+    >
+    > I think this could clear up some things for many laity. 🙏 
+
+    I don't think we can make it any clearer that it's the former.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3sg6bq/)** _2026-08-15 05:33:37_:
+
+    *(In reply to account-7):*
+    > Bhante - if I may, this is a subject I have thought deeply on but generally bite my tongue on here. II hope this doesn’t come across as ill-intentioned or advocating for sensuality. I have noticed, including in myself, how easy it can be for our own way of practicing to become the implicit standard by which we understand the practice of others. However, I’m not here to argue, only to seek clarification and clarity on the HH stance and then potentially humbly offer an opinion on “how to potentially prevent discouragement”.
+    >
+    > >
+    >
+    > We of course are both aware of the myriad examples of non-celibate householders who are attained to various degrees, so it is the nature of their non-celibacy that I’d like to get the totally clear take on from your POV. Because I am sensing two conflicting accounts, though I’m sure this is just my misunderstanding.
+    >
+    > Is it that A:
+    >
+    > You and those who so kindly lead the discussions here believe that it is wholly possible to see the Dhamma clearly - whereby one resolves to free oneself of all sensuality - but as a result of their deep-rooted past tendencies may return to non-celibacy that same day. As you have mentioned here: [https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/comment/nmnz6ql/](https://www.reddit.com/r/HillsideHermitage/comments/1ogftik/comment/nmnz6ql/)
+    >
+    > And that the argument for the necessity for unbroken physical celibacy is not a categorical one from the suttas, but rather a practical and societally contextual one. That is, because today's world is filled with greater sensuality and our being long removed from our root teacher and his chief disciples, such a feat is incredibly unlikely (no matter how common it appears in the suttas)?
+    >
+    > Or is it B:
+    >
+    > It is necessary to be wholly celibate and intend to be forever, with the relinquishing of the determination toward sexuality being the categorical necessity. It just so happens that stream entrants - complacent with their attainments - then reclaim their desires despite the purity of their past intentions. And therefore it is a requirement to intend for permanent celibacy, while physical celibacy for an extended duration is the practical necessity in today's world, as a structural necessity per the suttas? And the various sutta examples conform to this view?
+    >
+    > f your answer is B, then I understand the position more clearly, although I would still have difficulty reconciling that interpretation with the examples that seem to point in the other direction. If your answer is A, I respect your opinion and see the importance from your point of view on the insistence of unbroken celibacy. However, I think if it is A, the point is often misrepresented or at least comes across differently to many.
+    >
+    > I just wonder whether explicitly distinguishing these two levels - what you understand to be categorically required, and what you strongly regard as practically necessary in the present world - might help some people understand and not thoughtlessly cast off the teaching without weakening its force.
+    >
+    > So in the case of A, I - a nobody - do not suggest you alter your views or your claims, but recognize the distinction between what is categorically required and what you regard as practically necessary in today's circumstances. I recognize that your experience strongly suggests that those who are non-celibate are unlikely to achieve stream entry, but I humbly suggest that making that distinction more explicit may do more good than harm in the long run - especially when it that claim is contextual/observational rather than categorical. I think this not only for those hearing the teachings now, but for the longevity of these invaluable teachings from Hillside Hermitage.
+    >
+    > I also will clarify that I almost always encourage celibacy, however, my compassion extends primarily to those in marriages and long-term partnerships whereby extensive strain is put on the relationship when that could prevented without altering fundamental doctrine. While I absolutely do see pursuing sexual partnerships, especially new ones, as pretty destructive to the path. Another potential pitfall is in seeing young people filled with sexual energy and incapable of holding it - altering communication may cause less repression (and consequentially less adverse, unconstructive releases of the built-up pressure and the “flat out quitting because I can’t take it” I’ve seen) and more recognition of the process of gradual training. Knowing where they need to go while not feeling needlessly frustrated at where they are.
+    >
+    > This is just a humble opinion someone who deeply respects your teachings.
+
+    The answer is B. It's a structural necessity rather than a pragmatic one.
+
+    What seems to confuse people (and make them think we're contradicting the Suttas) is that they hear "you won't get the Right View unless you've been celibate for a long time" when we say "celibacy is indispensable." But how long a person has been celibate does not by itself tell you anything about how they relate to sensuality internally (i.e., they might still not be striving to categorically break away from it).
+
+    Unconditional celibacy is simply the result of a person striving to categorically abandon sensuality and seeing the peril in it, and success in *that* is what makes insight possible (as the Suttas clearly show).
+
+    Now, how long it will take for that striving to succeed (for the mind to be free from the hindrances), you cannot say in advance. And *here* is where I would make a pragmatic rather than categorical statement: for most people it will probably take years of unconditional celibacy (and of the further restraints that only become possible within that).
+
+    And by the way, the reason why it has to be *unconditional* celibacy and not just "I'll be celibate until I get the Right View" is that the intention to return to sensuality after the right view, or at any point, [is a categorical hindrance *in the present.*](https://suttas.hillsidehermitage.org/?q=mn16#mn16:12.4_mn16:13.1) It means the danger is being altogether dismissed.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3uw1u6/)** _2026-08-15 15:37:43_:
+
+    *(In reply to account-7):*
+    > Thank you Bhante - when it is put like that I understand and agree. I appreciate your clarity and preciseness. I think my suggestion still stands, however, that the emphasis on the pragmatic aspect you bring up is often overemphasized and overshadows the correct doctrinal position you explained
+    >
+    > I don’t mean to say I think you’re doing this, it seems to come more from others misinterpretation/misrepresentation of your words here. But nevertheless it’s a common point of confusion and what may partially cause the issues I’ve brought up.
+    >
+    > Because irrespective of my (and anyone’s) personal opinion of whether right view is a tangible possibility without years of unbroken celibacy, I think greater separation being made between the structural requirement and the practical reality you have seen/believe in would serve to help the community and prevent discouragement.
+    >
+    > Of course maybe I’m wrong that it would be more useful, maybe people would take that as permission to run amuck with sensuality, but that's just my view.
+
+    >  Because irrespective of my (and anyone’s) personal opinion of whether right view is a tangible possibility without years of unbroken celibacy, I think greater separation being made between the structural requirement and the practical reality you have seen/believe in would serve to help the community and prevent discouragement. 
+
+    If you think this separation would make the pill easier to swallow, you're underestimating what I mean by "unconditional celibacy" and the internal abandonment of sensuality. The massive gap between the number of stream-enterers and lifelong monks proves that being celibate for decades is a far more accessible achievement than true internal renunciation.
+
+    Said differently, if "I need to be celibate for years" causes discouragement, true internal renunciation will be even more unpalatable.
+
+---
+
 **r/HillsideHermitage** | Posted by cryptocraft _2026-07-29 03:32:47_
 ### [Distinguishing between samvega and aversion](https://www.reddit.com/r/HillsideHermitage/comments/1v9kgqn/distinguishing_between_samvega_and_aversion/)
 

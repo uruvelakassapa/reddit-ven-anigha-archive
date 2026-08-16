@@ -9,6 +9,54 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by AwakenTheWisdom _2026-08-14 14:49:55_
+### [I Have A Request For Hillside](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/)
+
+🙏 
+
+There’s a lot of misconception and misunderstanding surrounding your perspectives of sense restraint and celibacy in relation to Sotapanna attainment. I think the Venerables should 
+
+*() Create an entire series strictly for laypeople in how to practice the Buddha’s teachings.*
+
+*() Clear up all misunderstandings and misconceptions.*
+
+Apparently, many people are confused, and in some cases, become discouraged to practice due to the beliefs of how to practice as a layperson regarding Sotapatti attainment.
+
+Can the Venerables accomplish this task?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3o09cz/)** _2026-08-14 15:38:13_:
+
+    > Create an entire series strictly for laypeople in how to practice the Buddha’s teachings.
+
+    This is what all of the published talks are already geared towards. 
+
+    > Apparently, many people are confused, and in some cases, become discouraged to practice due to the beliefs of how to practice as a layperson regarding Sotapatti attainment. 
+
+    How do you propose preventing such discouragement?
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3oo08r/)** _2026-08-14 17:21:15_:
+
+    I don't think we can make it any clearer that it's the former.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3sg6bq/)** _2026-08-15 05:33:37_:
+
+    The answer is B. It's a structural necessity rather than a pragmatic one.
+
+    What seems to confuse people (and make them think we're contradicting the Suttas) is that they hear "you won't get the Right View unless you've been celibate for a long time" when we say "celibacy is indispensable." But how long a person has been celibate does not by itself tell you anything about how they relate to sensuality internally (i.e., they might still not be striving to categorically break away from it).
+
+    Unconditional celibacy is simply the result of a person striving to categorically abandon sensuality and seeing the peril in it, and success in *that* is what makes insight possible (as the Suttas clearly show).
+
+    Now, how long it will take for that striving to succeed (for the mind to be free from the hindrances), you cannot say in advance. And *here* is where I would make a pragmatic rather than categorical statement: for most people it will probably take years of unconditional celibacy (and of the further restraints that only become possible within that).
+
+    And by the way, the reason why it has to be *unconditional* celibacy and not just "I'll be celibate until I get the Right View" is that the intention to return to sensuality after the right view, or at any point, [is a categorical hindrance *in the present.*](https://suttas.hillsidehermitage.org/?q=mn16#mn16:12.4_mn16:13.1) It means the danger is being altogether dismissed.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3uw1u6/)** _2026-08-15 15:37:43_:
+
+    >  Because irrespective of my (and anyone’s) personal opinion of whether right view is a tangible possibility without years of unbroken celibacy, I think greater separation being made between the structural requirement and the practical reality you have seen/believe in would serve to help the community and prevent discouragement. 
+
+    If you think this separation would make the pill easier to swallow, you're underestimating what I mean by "unconditional celibacy" and the internal abandonment of sensuality. The massive gap between the number of stream-enterers and lifelong monks proves that being celibate for decades is a far more accessible achievement than true internal renunciation.
+
+    Said differently, if "I need to be celibate for years" causes discouragement, true internal renunciation will be even more unpalatable.
+
+---
+
 **r/HillsideHermitage** | Posted by cryptocraft _2026-07-29 03:32:47_
 ### [Distinguishing between samvega and aversion](https://www.reddit.com/r/HillsideHermitage/comments/1v9kgqn/distinguishing_between_samvega_and_aversion/)
 
