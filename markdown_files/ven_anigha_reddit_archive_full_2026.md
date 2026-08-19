@@ -14,6 +14,76 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by titikshakshanti _2026-08-17 01:57:51_
+### [Kosambiya Sutta and fostering harmony](https://suttacentral.net/mn48/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)
+
+Where the *Kosambiya Sutta* connects"Right View" and *harmony*, HH teachings are often interpreted as an introspective pursuit that minimizes the role of the positive actions that foster harmony and emphasise the role of avoiding the negative actions rooted in greed, aversion, and delusion. 
+
+The Buddha provides specific, actionable behavioral instructions (the six qualities) to resolve a conflict. The practice here is functional and relational. Even if imperfect, such a practice can be helpful even if the person has not attained right view, as long as it is done within the training with precepts and sense restraint. 
+
+Avoiding actions rooted in unwholesome intentions is one part of the training. Doing actions that aren’t rooted in such intentions but rooted in opposite intentions should be another part of the training. The other part is not emphasised by Hillside Hermitage. 
+
+Buddha instructs Bhikkhus to treat others with bodily, verbal, and mental kindness and not just asks them to avoid actions of bodily, verbal and mental enmity. 
+
+Buddha says that these things are also essential along with living according to precepts and having right view. 
+
+I understand that like meditation and mindfulness, one’s understanding of what counts as metta and karuna or friendliness and  kindness will not be correct initially. But, one should strive towards that understanding in both ways: by avoiding certain actions and by doing certain actions. 
+
+Consider these quotes:
+
+1. “… are you treating your spiritual companions with kindness by way of body, speech, and mind, both in public and in private?”
+
+2. “Mendicants, these six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling”
+
+3. “Furthermore, a mendicant shares without reservation any material things they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions …”
+
+My question is: Have I understood the teachings of this and similar suttas correctly? Do Hillside Hermitage also emphasise such teachings in their talks? Are such positive qualities should be cultivated while striving for the right view along with training with the precepts? Are there HH videos on this topic?
+
+It would be great if a whole sutta study like talk is made on this topic. 
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vqf6ci/kosambiya_sutta_and_fostering_harmony/p45xcvu/)** _2026-08-17 05:24:11_:
+    You seem to be reading into the Sutta something that it never says: that kind and "positive" actions are *part of the training*. They are not, and that's why we don't talk about them. Not because one should refrain from them altogether.
+
+    Plus, the friendly conduct that the Sutta describes naturally arises as a byproduct of having trained the mind away from intentions of ill-will, so it's not even like one has to make that into a "practice" of its own. Trying to do so only serves to indicate that one is not overcoming ill-will but instead artificially overriding it (and those are mutually exclusive).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vqf6ci/kosambiya_sutta_and_fostering_harmony/p482crx/)** _2026-08-17 14:18:32_:
+
+    *(In reply to titikshakshanti):*
+    > Thanks, Bhante, for your reply.
+    >
+    > > You seem to be reading into the Sutta something that it never says: that kind and "positive" actions are part of the training. 
+    >
+    > This is precisely the information I wanted to have. I always thought that the silence on this topic from HH monks means something deeper. But, to be sure, I asked the question explicitly.
+    >
+    > > They are not, and that's why we don't talk about them. 
+    >
+    > A small doubt here: but the few of the six actions mentioned in the sutta are about such positive actions. Hence, I was asking for a detailed talk or write-up on those six actions. There are many Vinaya rules and stories about such actions that foster harmony.
+    >
+    > > ... Not because one should refrain from them altogether.
+    >
+    > That refraining could be a wrong reaction to that silence. I personally went into that direction on many occasions. I was not clear but underlying thought process was something like that: I will obey precepts against wrong speech and wrong actions and refrain from active kind and positive actions. It went to the extent of not smiling at the even simple and innocent jokes, just to give you an example.
+    >
+    > > Plus, the friendly conduct that the Sutta describes naturally arises as a byproduct of having trained the mind away from intentions of ill-will, so it's not even like one has to make that into a "practice" of its own. 
+    >
+    > That takes time. Any guidelines for what  to do till that natural state of mind is achieved? What practice advise you will give for someone whose major hindrance is not greed but ill-will?
+    >
+    > > Trying to do so only serves to indicate that one is not overcoming ill-will but instead artificially overriding it (and those are mutually exclusive).
+    >
+    > Yes, I understand what is wrong in the artificial overriding ill will by good actions on the top. Yet, I still find ill-will present in me even when I keep precepts against wrong speech and wrong actions. Even if it will take time to diminish with practice, refrain from active kind and positive actions or responses seem to increase the ill will. 
+    >
+    > What about doing such kind actions and showing positive behavior that foster harmony when one is resisting or refraining from them out of ill-will to which one is not fully transparent? 
+    >
+    > It sometime appears to me that I might be reinforcing my ill-will by resisting such positive actions (like smiling, saying thank you, saying sorry, small gestures of good will). Overall, this whole domain is not clear to me. I find it difficult to be see my own ill-will.
+
+    > There are many Vinaya rules and stories about such actions that foster harmony.
+
+    Sure. That still doesn't mean it's on par with the restraint of actions out of ill-will. Harmony is a mundane but still quite important concern especially in the context of the Saṅgha.
+
+    >  I was not clear but underlying thought process was something like that: I will obey precepts against wrong speech and wrong actions and refrain from active kind and positive actions. It
+
+    That reasoning is the problem then. You shouldn't blindly try to avoid those actions as if they are bad in themselves. You should just not put them anywhere near on the same level as the precepts and sense restraint, because then you would exempt them from questioning and overlook when they are rooted in delight in company and similar.
+
+---
+
 **r/HillsideHermitage** | Posted by AwakenTheWisdom _2026-08-14 14:49:55_
 ### [I Have A Request For Hillside](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/)
 
@@ -107,6 +177,143 @@ Can the Venerables accomplish this task?
     If you think this separation would make the pill easier to swallow, you're underestimating what I mean by "unconditional celibacy" and the internal abandonment of sensuality. The massive gap between the number of stream-enterers and lifelong monks proves that being celibate for decades is a far more accessible achievement than true internal renunciation.
 
     Said differently, if "I need to be celibate for years" causes discouragement, true internal renunciation will be even more unpalatable.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3z5aj3/)** _2026-08-16 05:37:08_:
+
+    *(In reply to account-7):*
+    > Ok very reasonable point of view, particularly in regards to people who simply don’t want to give up something they pull pleasure from. So I’ll concede that and refrain from saying otherwise in the future.
+    >
+    > But in regards to the other situation I presented. There is a very common situation where a layperson is in a domestic partnership where expectations exist. The video of Ajahn the other commenter sent had Ajahn saying a married 5-preceptor, so long as they regularly take on 8, has a “good chance at right view” so long as they don’t lie to themselves about their compromised situation and the inherent pain they are taking on on account of engaging in sensuality and being incelibate.
+    >
+    > Did I misinterpret what Ajahn said? It seemed he allows for the possibility of a “good chance at right view” in spite of this compromised situation. So long as they see their situation as compromised, temporary, and carve out times for the 8 precepts.
+    >
+    > How does that reconcile with the view that permanent, unbroken celibacy is a categorical requirement prior to Stream Entry?
+    > Is it that you are suggesting for those who are aiming for stream entry, that irrespective of the pain it might cause for those around them, they should commit to brahmacharya? And that if they choose not to, it’s simply preparatory practice and right view - or at least dhammanusari. - simply cannot arise in that compromised environment? 
+    >
+    > This is simultaneously under the assumption one is not deceiving oneself that incelibacy is reconcilable with the dhamma - invalidating what I said previously about those who put it off because it's too daunting/discouraging.
+
+    >  Did I misinterpret what Ajahn said? 
+
+    Yes, if you understood it as "you can stop there and that'll be good enough." That would mean not actually accepting the situation as compromised (and sensuality as dangerous and painful) and so being fine with settling within it (and *not* doing this was in fact the whole point of the talk).
+
+    If you took the five precepts and occasional eight with the right outlook, you would still be seeing every bit of sensuality as something to be abandoned and actively striving towards that ideal (and eventually achieving it if you indeed get the Right View). Meaning, you would still feel very much compelled to achieve unbroken celibacy and sense restraint, and would be unable to be content with less than that.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p45v8ql/)** _2026-08-17 05:07:50_:
+
+    *(In reply to account-7):*
+    > Thank you, this is what I understood it to be though my wording was perhaps not so precise.
+    >
+    > I never meant to imply that a layperson in a relationship can simply settle into a "compromised" state and treat it as sufficient. As you have pointed out, there has to be some kind of friction in the situation. Which I assume if someone manages to succeed in this disadvantaged position, then either by the end of one's life or in subsequent rebirth a celibate lifestyle **must** and **willingly** will be undertaken on account of attaining the right view. Because the intention to return to sensuality after the right view, or at any point, is a categorical hindrance in the present. Though sensual craving can, of course, still be (only temporarily) intoxicating for a stream entrant.
+    >
+    > So while I still hold some disagreements in terms of communication style and delivery of that message, this cleared up a lot of doctrinal confusion I had with some of the finer HH points on this subject
+    >
+    > I think this also has made the whole path much clearer for me. This conversation was deeply helpful, very grateful for your time.
+    >
+    > With metta.
+
+    > Which I assume if someone manages to succeed in this disadvantaged position, then either by the end of one's life or in subsequent rebirth a celibate lifestyle must and willingly will be undertaken on account of attaining the right view. 
+
+    The celibate lifestyle must be undertaken to attain the right view, not after it. That was the point of my earlier comment. All I conceded is that a person can *start* with five precepts and occasional eight, but it is impossible for one's mind to be freed from the hindrances (the prerequisite for the right view) unless one's mind has let go of sensuality categorically and unconditionally. The person who properly took on the practice towards right view would be aware of this from the beginning, and hence they would be working towards it even if gradually.
+
+    So just to reiterate, nothing has changed from my first answer in this thread. Without undertaking permanent celibacy and taming the mind to be content with that, one will not get the Right View.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p48qp41/)** _2026-08-17 16:08:11_:
+
+    *(In reply to account-7):*
+    > Ah, I see. Thank you for the final clarification, Bhante. While I'm open to my understanding evolving over time, upon a fair amount of reflection I still find myself humbly disagreeing.
+    >
+    > Not in regards to doctrine or the general structure, but it seems primarily in regards to the possibility for a mind to be truly freed from the hindrances in a shorter duration of time and in more flexible of circumstances than you say. I personally don't believe it is only due to the Buddha / his immediate disciples acting as a catalyst that stream entry in the midst of an incelibate - though presumably sensually tempered - lifestyle is possible for these householders in the suttas.
+    >
+    > While I worry about the effects of what you're saying on practitioners, I understand you and your experiences have told you it is necessary. I further respect the intensity and strictness in your view, especially when communicating to a mass audience online.
+    >
+    > So in the future outside this thread, I'll keep this opinion off this sub since I don't want to place any undue conflict on your teachings. Regardless, I appreciate your time and the clarity you brought to the discussion - it's been very helpful.
+
+    > Not in regards to doctrine or the general structure, but it seems primarily in regards to the possibility for a mind to be truly freed from the hindrances in a shorter duration of time and in more flexible of circumstances than you say.
+
+    This is most probably because we're not on the same page about what the hindrances are. Knowing them for what they are would show why any trace of non-celibate intentions—even mere doubt about the unconditionality of one's celibate resolve—is inseparable from them.
+
+    > So in the future outside this thread, I'll keep this opinion off this sub since I don't want to place any undue conflict on your teachings. 
+
+    That's not necessary. Even people who are in full agreement with our position and are already celibate can benefit from these discussions.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4a8s7w/)** _2026-08-17 19:59:49_:
+
+    *(In reply to account-7):*
+    > Thank you for your openness to discussion.
+    >
+    > So if I'm following this correctly, then you mean "hindrance" is defined broadly enough that any residual sensual intention counts, correct? So by that metric, then "freedom from hindrances requires categorical celibacy" becomes true by definition, not by argument. In that case, there's no sutta or lived case that could count against it, because the definition absorbs the counterexamples in advance. 
+    >
+    > And that is why you would find it highly unlikely that anyone who hasn't been celibate for years could get there? To go from the grossness of having engaged in sexual activity a day ago to being absolutely, fully, completely resolved on the complete eradication of sensuality the next day and thus attaining stream entry is, seemingly, an absurd leap. That's why you say practically, years of physical celibacy are necessary for true mental celibacy - the prerequisite for the arising of right view. If I'm getting your point?
+    >
+    > The explanation then given for the suttas seeming counterexamples would be, as I believe you've said, that the Buddha (and noble disciples) remarkable and singular ability to see the mind of the person they are talking to and navigate it more skillfully than anyone could today.
+    >
+    > Is this what you're saying? I would like to make sure I fully follow what you're saying and am not missing anything that would change my position.
+
+    > So if I'm following this correctly, then you mean "hindrance" is defined broadly enough that any residual sensual intention counts, correct?
+
+    Yes. And even without explicit sensual intention, any elation or zeal toward the prospect of sense pleasures counts. It means the danger is not seen.
+
+    So freedom from the hindrance of sensuality is not "I have no thoughts about sensual pleasures at the moment", which anyone can achieve even without any real precepts through misguided practices. It's "No zeal arises even when I openly imagine the most alluring pleasures because the danger is clear."
+
+    > So by that metric, then "freedom from hindrances requires categorical celibacy" becomes true by definition, not by argument.
+
+    Exactly. Hence anyone demanding further argument or Sutta evidence is failing to see what freedom from the hindrances means.
+
+    > And that is why you would find it highly unlikely that anyone who hasn't been celibate for years could get there?
+
+    Yes, but again, the claim that celibacy is required has nothing to do with this pragmatic duration issue. It's because nothing short of permanent, unconditional celibacy and sense restraint is a sufficient condition for freedom from the hindrances. Without that, you remain settled in the infinitely more comfortable status quo of *some* sensuality compared to none at all, so the mind has no incentive to go past that—to internalize the danger and abandon sensuality at the fundamental level of the hindrances.
+
+    > The explanation then given for the suttas seeming counterexamples would be, as I believe you've said, that the Buddha (and noble disciples) remarkable and singular ability to see the mind of the person they are talking to and navigate it more skillfully than anyone could today.
+
+    Yes. Their minds let go far more quickly than usual once confined to permanent non-sensuality because the Buddha was able to directly convey to them the benefit of that total confinement—and the danger of trespassing it—purely through a well-tailored teaching (which obviously would've been much more lengthy and detailed compared to what you find in the text). But whether the Buddha is teaching you or you are doing the work yourself, the confinement must be the same, and the mind must equally lose its desire to go out of it in order to be ready to understand. How long that takes and how difficult it is—and whether you're even able to get the Right View from one or even numerous conversations; countless people did not—depends on how dependent on sensuality you were.
+
+    On the subject of the extent of dependence, one thing I've pointed out in the past but is worth repeating is that none of those accounts actually prove what people who resist celibacy want them to. Whatever sensuality those people engaged in happened either before they even knew the path existed, or after they reaped its fruits and suspended it due to complacency. Thinking one is on the path while still allowing oneself to enjoy sensuality even as a prospect, *despite already hearing about its dangers extensively*, is a very different internal situation that indicates not just a greater dependence on sensuality, but also heedlessness, stubbornness, and lack of faith in the actual teaching. 
+
+    That essentially sums up the categorical obstacles to growth in the Dhamma listed in [MN 16](https://suttas.hillsidehermitage.org/?q=mn16).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4czi37/)** _2026-08-18 05:00:08_:
+
+    *(In reply to account-7):*
+    > Firstly, again, thank you Bhante for your time to discuss with me.
+    >
+    > To first ensure I am restating the structure correctly as I've understood it: the resistance to the idea celibacy is *itself* a hindrance to celibacy. Or rather, the resistance to *complete renunciation of sensuality* is itself indicative of the hindrance being present.
+    >
+    > Which I've never really thought in those terms about but is really brilliant. Then, naturally, the external behavior must, necessarily follow the internal submission to celibacy (or much more importantly than narrowing it to the specific issue of celibacy, a blanket internal to external renunciation of sensuality as a whole).
+    >
+    > As you've said repeatedly here though, it is not temporal in nature. It is here and now that this realization unfolds and manifests. And any tiny vestige of the idea that "ok I've done enough I can go back" or anything along those lines, is completely derailing the possibility for the arising of right view.
+    >
+    > This is incredibly helpful. And more clearly than before I see the value in simply stopping there. Because that's really all that matters as it pertains to the arising of right view.
+    >
+    > So to be honest I'm not sure if I'm altering my initial supposition or not, but even with all this being held, I still feel that the emphasis is being misplaced. If not through anything you're saying at least by the community at large here. Because it feels clear that a mind - once at least modestly weened off of sensuality and dispelled of a good number of wrong views - is still capable of letting go quickly, of rapidly letting go of intentions and all zeal for sensuality given the right environment. The nature of that environment is up to debate. One might say it's due to the Buddha's unique teaching abilities, another might say it's simply on account of physical seclusion, etc etc. Any opinion there is going to be shaped by our life experiences and subjective perceptions. To me, the fact that it's up for debate means it should be de-emphasized compared to focusing on altering the immediate intention. I understand that past behavior conditions the present intention, but nevertheless it seems more important to focus on what the mind is doing *right now*.
+    >
+    > So changing the focus of delivery might prevent the all-too-common "I give up because I'll never get stream entry while I'm stuck in a (fill in the blank) non-monastic situation".
+    >
+    > Because the claim isn't something that could be shown false by any experience or referencing any sutta, it can only be confirmed from the inside. By actually doing what you're describing, regardless of where one finds themselves.
+
+    > Because it feels clear that a mind - once at least modestly weened off of sensuality and dispelled of a good number of wrong views - is still capable of letting go quickly, of rapidly letting go of intentions and all zeal for sensuality given the right environment. 
+
+    This is again based on underestimating the hindrances. The attitude "I should be able to do it in X amount of time" automatically implies an end date to the confinement and thus dismantles its unconditionality. Unless returning to sensuality is altogether out of the question, the mind will not let go of it.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4h9p1k/)** _2026-08-18 19:32:13_:
+
+    *(In reply to account-7):*
+    > I can see why you would say that, but I’m not viewing the hindrances as a shallow thing. They are poisonous darts imbedded very deeply in the heart, that can truly manifest in the most subtle of ways.
+    >
+    > Still, I see it as underestimating the mind’s ability to let go very deeply, very rapidly in the right conditions (imo, still wholly possible in the present). Even if those conditions are fleeting and the taints quickly return. And I don’t see going there as predicated on trying to get it done in a certain amount of time, simply circumstantial, though authentic, dispassion.
+    >
+    > Please don’t think I mean the superficial, isolated states of calm people can find on most kinds of retreats either. Or that someone can live a deeply sensual life otherwise and do this, I’m speaking to sincere practitioners in compromised life circumstances.
+    >
+    > Anyways, I see the value in your rigor, and once again I’m open to changing my view in the future if different evidence presents itself in my life, but I am nevertheless inclined towards a more open-minded, flexible approach to the same core idea - I’ve seen the good that approach can do and the potential harm an exclusivist one can.
+    >
+    > Reflecting back, I have altered some views of mine on account of your wisdom and found this conversation very deeply helpful. I’m incredibly grateful for your time. Thank you.
+
+    > Still, I see it as underestimating the mind’s ability to let go very deeply, very rapidly in the right conditions (imo, still wholly possible in the present).
+
+    It does seem you're overlooking that even the mildest intentions to return to sensuality at some point very much exist in the present (they can't be anywhere else). On the scale that matters, one's letting go remains superficial as long as those intentions remain.
+
+    > Please don’t think I mean the superficial, isolated states of calm people can find on most kinds of retreats either.
+
+    I wasn't thinking that. That's only the very tip of the iceberg when it comes to underestimating the hindrances.
+
+    > I’m speaking to sincere practitioners in compromised life circumstances. 
+
+    I would also recommend considering how much your hesitation is being influenced by a gut feeling that surely, such people must be able to succeed without abandoning those compromises because the alternative would be too grim.
+
+    If you're not emotionally prepared to accept a scenario, distrust whatever reasoning you find to reject it, since the weight of that reasoning will absolutely be inflated in a way that you don't realize.
 
 ---
 
