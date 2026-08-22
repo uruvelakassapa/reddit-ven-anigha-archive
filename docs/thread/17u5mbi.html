@@ -6,6 +6,9 @@
   <title>[deleted by user] · 2023</title>
   <meta name="description" content="[deleted by user]">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>[deleted by user]</h2>
       <p class="meta"><a href="#">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>[removed]</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-k94ukx7">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17u5mbi/deleted_by_user/k94ukx7/">Bhikkhu_Anigha</a><span class="when">2023-11-13 22:54 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>"cetanāhaṃ, bhikkhave, kammaṃ vadāmi" </p>
 </blockquote>
@@ -41,13 +53,6 @@
   <div class="children">
 <article class="comment teacher" id="c-k95trkp">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17u5mbi/deleted_by_user/k95trkp/">Bhikkhu_Anigha</a><span class="when">2023-11-14 02:54 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Bhikkhu_Anigha:</strong><br><div class="md-body"><blockquote>
-<p>"cetanāhaṃ, bhikkhave, kammaṃ vadāmi" </p>
-</blockquote>
-<p>What's important to remember here is that the Pali Suttas are not giving us a perfectly consistent network of terms and definitions, and some words are sometimes used broadly and loosely.</p>
-<p>Here, the word "cetanā" is referring to what we now in our elucidation of the Suttas would call <em>"intentional intention"</em>, meaning that when a possibility to do something offers itself, <strong>you</strong> choose to go for it.</p>
-<p>That is your kamma, and understanding that principle and ceasing to fuel it is how you free yourself from kamma as well. An Arahant still has intentional intentions, but they are free from kamma because there is no craving behind those, meaning that their mind would not give rise to any states of lust, aversion or delusion if they were to refrain from making the choice out of the arisen possibility. </p>
-<p>This is why they are incapable of breaking the five precepts for example, since those actions would always be rooted in not being able to put up with the arisen unskillful possibility and needing to go with the grain of it instead.</p></div></div>
   <div class="body"><div class="md-body"><p>Regarding this:</p>
 <blockquote>
 <p>What's important to remember here is that the Pali Suttas are not giving us a perfectly consistent network of terms and definitions, and some words are sometimes used broadly and loosely.</p>
@@ -58,9 +63,12 @@
 </article>
 </div>
 </article>
+<article class="comment parent" id="c-k969e70">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17u5mbi/deleted_by_user/k969e70/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>[deleted]</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-k97cgnm">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17u5mbi/deleted_by_user/k97cgnm/">Bhikkhu_Anigha</a><span class="when">2023-11-14 12:30 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>[deleted]</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>In practical terms, thoughts seem to come to me in two flavors. <strong>The first involves intentional thoughts that needs fueling and active participation, such as engaging in internal dialogue. The second encompasses spontaneous thoughts and images that seem to arise unexpectedly.</strong> When it comes to purposeful self-dialogue, conversations stemming from a wholesome state of mind, like genuine contemplation, are encouraged, whereas engaging in self-talk driven by an unwholesome state of mind is advised against. As for random thoughts, since they are beyond our control, neither acceptance nor rejection is appropriate; rather, they should be endured. Bhante, am I understanding this correctly? Additionally, what is mental kamma in practical terms?</p>
 </blockquote>
@@ -74,6 +82,8 @@
 <p>I believe I addressed this with different words in the essay.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -82,5 +92,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

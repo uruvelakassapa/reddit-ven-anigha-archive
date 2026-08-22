@@ -6,6 +6,9 @@
   <title>Question from Ajahn&#x27;s essay &#x27;Appearance and Existence&#x27;.  · 2024</title>
   <meta name="description" content="Question from Ajahn&#x27;s essay &#x27;Appearance and Existence&#x27;. ">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,10 +38,15 @@
 <p>"This easily overlooked passage offers a very acute description of an <em>authentic</em> attitude of a <em>puthujjana</em>—the attitude of recognition and acknowledgment of the existence of things <em>as</em> phenomena (“<em>there is…”)</em>. Someone might argue that one does not necessarily see the spontaneously reborn beings for example, <strong>but the point is that one should recognize the mere fact that there</strong> <strong><em>could be</em></strong> <strong>spontaneously reborn beings—the</strong> <strong><em>possibility</em></strong> <strong>of spontaneously reborn beings</strong> <strong><em>exists</em></strong> <strong>as such.</strong> And if one recognizes the validity of the appearance and existence of that possibility, an <em>expectation of the concrete proof</em> that can be obtained only through <em>senses</em> (i.e. one needs to <em>see</em> those beings) ceases to be relevant, in the same way that a view that a thing exists only if it can be experienced through the senses ceases."</p>
 <p>The argument made here in support of the possibility of existence of spontaneously reborn beings is that the possibility of their existence is real as such.</p>
 <p>It can be argued that the possibility of them not existing is real as such as well. So how can one believe one over the other?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lql5gk7">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fww91w/question_from_ajahns_essay_appearance_and/lql5gk7/">Bhikkhu_Anigha</a><span class="when">2024-10-06 08:06 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>It can be argued that the possibility of them not existing is real as such as well. So how can one believe one over the other?</p>
 </blockquote>
@@ -51,5 +63,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

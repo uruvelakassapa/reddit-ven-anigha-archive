@@ -6,6 +6,9 @@
   <title>Contemplation to assist Sila · 2024</title>
   <meta name="description" content="Contemplation to assist Sila">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -36,10 +43,15 @@
  It’s when someone reflects: "Bad conduct of body, speech, or mind has a bad, painful result in both this life and the next.’‘ Reflecting like this, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind" </p>
 <p>But even this seems to suggest a sort of contemplation-once-and-then-you're-done-and-now-your-sila-is-perfect-forever situation, not some sort of day-in-day-out contemplation practice. </p>
 <p>Virtue as shown in the context of the gradual training doesn't mention any sort of contemplation alongside it ("Come, bhikkhu, be possessed of morality..."), hence the reason for my doubt in this sort of practice. Virtue and precepts seem like something "simpler" to me (at least from my humble not-yet-accomplished in virtue perspective) - that should not need this sort of intense and frequent reflection and contemplation in order to be fulfilled.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kj7ixyw">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19djc5b/contemplation_to_assist_sila/kj7ixyw/">Bhikkhu_Anigha</a><span class="when">2024-01-23 15:55 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>There are indeed suttas where the Buddha says that through pursuing the INSIGHT of the DANGER in sensuality and BENEFIT of Renunciation, he attained and abided in the first Jhana, but where is something similar mentioned for mere virtue and sense restraint? </p>
 </blockquote>
@@ -63,14 +75,17 @@
 <p>That's why there's no such thing as even Right Speech, Right Action or Right Livelihood without Right View. Even when perfectly emulating every action the Buddha makes, a puthujjana's lack of direct knowledge of the nature of those actions and <em>why</em> they are beneficial would prevent them from being ultimately right <em>for them</em>. It would be <em>sīlabbataparāmāsa.</em></p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kj7p214">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19djc5b/contemplation_to_assist_sila/kj7p214/">Bhikkhu_Anigha</a><span class="when">2024-01-23 16:30 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to VitakkaVicara:</strong><br><div class="md-body"><blockquote>
+<article class="comment parent" id="c-kj70jge">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19djc5b/contemplation_to_assist_sila/kj70jge/">VitakkaVicara</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>I think the "reflecting like this" can easily be read as something that happens gradually</p>
 </blockquote>
 <p>When one has understood the theory, does one need to think it over and over again, going through the same  mental "motions", almost like a long mantra? </p>
 <p>This also applies to other discursive contemplations like "<em>my beating heart...</em>" that Ajahn Nyanamoli sometimes mentions.  It was very interesting contemplation,  but after few days I can't avoid repeating it like a mantra.</p>
 <p>At what point should one stop?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kj7p214">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19djc5b/contemplation_to_assist_sila/kj7p214/">Bhikkhu_Anigha</a><span class="when">2024-01-23 16:30 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>his also applies to other discursive contemplations like "<em>my beating heart...</em>" that Ajahn Nyanamoli sometimes mentions. It was very interesting contemplation, but after few days I can't avoid repeating it like a mantra.</p>
 <p>At what point should one stop?</p>
@@ -82,13 +97,18 @@
 <p>Edit: <a href="https://www.youtube.com/watch?v=XfnlunP24iI" rel="noopener noreferrer" target="_blank">This talk</a> addresses this topic.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kjcmgpr">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19djc5b/contemplation_to_assist_sila/kjcmgpr/">Bhikkhu_Anigha</a><span class="when">2024-01-24 14:04 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to sahassaransi_mw:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-kjavf41">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19djc5b/contemplation_to_assist_sila/kjavf41/">sahassaransi_mw</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>When it becomes a mantra as you put it, it's because it's being done divorced from the present feeling/pressure, and is not actually addressing the defilements (even if they're not explicitly present, the <em>possibility</em> of defilements arising).</p>
 </blockquote>
 <p>So one's contemplation should always be centered on the present defilement/pressure? For example, if there is aversion arisen in my experience, I should be contemplating on aversion and its nature (not on desire, for example)? And if there is desire present, the contenplation should be on investigating its danger? And perhaps if there is just a slight restlessness and a sense of "what exactly should I be doing/contemplating now??" - one contemplates on the phenomena of doubt? </p>
 <p>This seems to me like what is meant in the Bhaddekaratta Sutta about seeing every presently arisen state? One contemplates practically and concretely on the phenomena arisen HERE AND NOW.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kjcmgpr">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19djc5b/contemplation_to_assist_sila/kjcmgpr/">Bhikkhu_Anigha</a><span class="when">2024-01-24 14:04 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>So one's contemplation should always be centered on the present defilement/pressure? For example, if there is aversion arisen in my experience, I should be contemplating on aversion and its nature (not on desire, for example)? And if there is desire present, the contenplation should be on investigating its danger? And perhaps if there is just a slight restlessness and a sense of "what exactly should I be doing/contemplating now??" - one contemplates on the phenomena of doubt?</p>
 </blockquote>
@@ -114,6 +134,8 @@
 <p>Counterintuitively, that's how you would be solely concerned with whatever is <em>already</em> present, as opposed to trying to have only <em>your</em> preconceived expectation of a "present moment"—longing for a phenomenon that you don't have and reinforcing the sense of ownership in the end.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -122,5 +144,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

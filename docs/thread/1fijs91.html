@@ -6,6 +6,9 @@
   <title>Is the Puthujjana&#x27;s meditation mere confinement? · 2024</title>
   <meta name="description" content="Is the Puthujjana&#x27;s meditation mere confinement?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,10 +38,15 @@
 <p>One measures progress in such meditation not so much by advancement through some series of pleasurable or esoteric experiences but by how much the mind still thrashes around when it is confined and how long it can endure that confinement.</p>
 <p>Seen this way, meditation seems to be a form of "death before dying". And it is easy to see how the mind would be strengthened from such an undertaking, how the pressure of the everyday baits of Mara in the world would begin to pale in comparison to this self-imposed exlie. If this confinement were made into an inescapable fact of one's life (as indeed it's greater cousin, death, surely is) then it's also easy to see how sensuality would soon become burning coals, extortion, danger. One could not engage carelessly  with them any longer, knowing how much the greater the torment will be when it comes time for the daily confinement.</p>
 <p>Is this the right way of thinking about and practicing meditation? How does one avoid crossing the threshold into self-mortification with this line of thought (if it hasn't been crossed already)?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lnkmtsh">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fijs91/is_the_puthujjanas_meditation_mere_confinement/lnkmtsh/">Bhikkhu_Anigha</a><span class="when">2024-09-17 14:08 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>How does one avoid crossing the threshold into self-mortification with this line of thought (if it hasn't been crossed already)?</p>
 </blockquote>
@@ -55,5 +67,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

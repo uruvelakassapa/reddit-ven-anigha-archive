@@ -6,6 +6,9 @@
   <title>Life · 2025</title>
   <meta name="description" content="Life">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,10 +41,15 @@
 <p>I have been trying to think about this quite a bit — how should one relate to Life as a whole, as a phenomenon? If we are to accept the premise that everyone pretty much lives their life in order to avoid suffering, and that the Dhamma is the most effective way to achieve this end, the thing is that practicing the Dhamma means seeing that your life in general, and especially lay-life, is essentially set up not for your benefit. Once sensuality has been seen as another trap, the body can start to feel like a bit of a vestige. I don’t find this too difficult to deal with when I’m practicing sense-restraint successfully — in that case I am successfully taking care of the body towards my chosen end (and I generally take care of it much better, ironically enough). The problem I’m having is how one should feel about this when one lapses in restraint. I‘m no longer able to see any lapse in restraint as ‘harmful, but fun’; it’s sort of just become an even worse form of the burden I have to take care of when I’m practicing successfully — instead of having to deal with a body without the 5 hindrances, now I have to deal with a body with the 5 hindrances. I’m currently living in a lay environment because although I want to ordain, I’m not sure exactly when I’ll be able to. This can be difficult because it makes my environment feel like an enemy, and I’m no longer even able to pretend that it <em>isn’t</em> an enemy. So I guess what I find interesting/difficult to think about is that the only one who’s realistically in a position to not see life as something that’s working against them is the Arahant, i.e. the one who’s already given up any passion for life. An arahant can live as long as they want, or commit suicide, and both are equally as blameless. Sometimes I still get thoughts of suicide, although they have very little force behind them, which I feel like are either habits from the past before I knew about the Dhamma, or an inevitable side-effect of accepting that your existence isn’t a good thing. But the thing is that these thoughts don’t share the same nature as the way an arahant would think about suicide, so are we to say then that suicidal thoughts are the natural counterpart of still having passion for life? (bhavatanhā — vibhavatanhā) Are passion for life and aversion to life inherently inseparable, or is that going too far?</p>
 <p>This also ties in with another topic I’ve been trying to wrap my head around, that is, dispassion. The Buddha prescribes contemplations which are meant to reveal the ugly side of life, in order to invoke dispassion. I essentially understand these as a means to the end of the cessation of craving. So they only need to go as far as the cessation of craving — an arahant doesn’t need to dwell on the ugly parts of life any further. But I feel like for a mind that hasn’t fully gone beyond any possibility of a lapse in restraint, these contemplations can come back in the form of aversion when the mind is untamed. Once again I suppose that this is the inevitable counterpart of a mind that hasn’t fully gone beyond sensuality, otherwise the ugly parts of life would just be moot and unable to provoke any aversion. But in these cases, I wonder — should one try to veer towards valuing life for the good things one can do (practice restraint, generosity, make further progress in the Dhamma), rather than allow the practice of dispassion to veer towards aversion? Is there any use in that?</p>
 <p>These thoughts probably sound quite fragmentary, but that’s just because it’s something I haven’t been able to fully clarify for myself yet.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ntxr4fy">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1plhh8q/life/ntxr4fy/">Sister_Medhini</a><span class="when">2025-12-14 05:50 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The part I found a bit confusing, and you can obviously tell me if I'm misinterpreting: </p>
 <blockquote>
 <p>how should one feel about this this when one lapses in restraint. I'm no longer able to see any lapse in restraint as 'harmful but fun'; it's sort of just become an even worse form of the burden I have to take care of when I am practicing successfully - instead of havig to deal with a body without the five hindrances, now I have to deal with a body with the five hindrances.</p>
@@ -53,14 +65,17 @@
 <p>And just a note on a more immediate pragmatic level, if your current environment is genuinely very unsuitable, it's also your responsibility to change it. If you cannot go forth for whatever reason, this does not mean you have to remain in the exact same set up if it's factually prohibitive or with absolutely no seclusion, and so on. Most people with average resources have at least a reasonable ability to exercise some agency over where and how they live, according to their values and priorities. If the environment prevents a lot of obstacles (which lay life on average does indeed, but there is quite a wide spectrum there) - then you should probably consider doing something about that.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-nuikdqb">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1plhh8q/life/nuikdqb/">Sister_Medhini</a><span class="when">2025-12-17 14:22 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Formal_Breath_2026:</strong><br><div class="md-body"><p>Thank you for your response, Ayye.</p>
+<article class="comment parent" id="c-nty1d9l">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1plhh8q/life/nty1d9l/">Formal_Breath_2026</a></div>
+  <div class="body"><div class="md-body"><p>Thank you for your response, Ayye.</p>
 <blockquote>
 <p>it makes me think that you might be either confusing bodily states with hindrances, or seeing your own mental actions as an inevitability that results from bodily states. Or both.</p>
 </blockquote>
 <p>I realise that the way I phrased it could have been confusing. To clarify, I know that hindrances are mental states, and I know that I’m always responsible for acting out of them. I suppose what I wanted to express was that my perspective has changed from seeing life without sense-restraint as being something with pros and cons, to seeing it as nothing but a more intensified version of the burden I have to carry when I’m practicing sense-restraint properly (obviously whether I’m practicing successfully or not is entirely my responsibility). Now I suppose that this is actually the correct way of viewing things, resulting from contemplating the danger and drawbacks of sensuality, and yet even knowing this I’m still not fully immune to any prospect of sensuality, which suggests maybe there’s still the desire for it to be different, i.e. to be able to salvage this or that. Hence why I wanted to blame life itself and not my own decisions to appropriate it, I suppose? (if that makes sense). Maybe I still struggle with seeing that some certain pleasant things in life are inseparable from the framework of danger — there is still a desire to separate them out.</p>
 <p>My environment is actually quite acceptable on average. I suppose what I can still struggle with is being around people who seemingly see no issue with life at all. This makes me doubt whether I’m missing something in my contemplation, only to re-discover that the danger is still exactly as I remember it each time. It seems to me twofold: the desire to blame life in general or an (imperfect, but mostly adequate) environment is still shirking my responsibility for putting the burden of the hindrances on myself by acting out of them, but also, not taking as many steps as possible to remove myself from a household/environment which makes practice harder for me still suggests I have not fully internalised what I already know — that successful practice of the Dhamma is the only thing that can actually ensure my own welfare. To make what I mean clearer, before I knew that abstaining from sensuality and being virtuous were for my own good, I suffered a lot being in a household/family environment that encourages lots of unvirtuous behaviour. So perhaps the fact that I am still willing to even live with that suggests that I haven’t fully internalised that it was that unvirtuous behaviour and the environment which was supporting it which caused my suffering in the past. So it’s the same desire to try and separate what I thought was good from all the bad that came with it. I hope that makes sense 🙏</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-nuikdqb">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1plhh8q/life/nuikdqb/">Sister_Medhini</a><span class="when">2025-12-17 14:22 UTC</span></div>
   <div class="body"><div class="md-body"><p>This made it clearer what you were talking about. :) </p>
 <blockquote>
 <p>there’s still the desire for it to be different, i.e. to be able to salvage this or that. Hence why I wanted to blame life itself and not my own decisions to appropriate it, I suppose? (if that makes sense).</p>
@@ -79,6 +94,8 @@ You just need to make sure to not act out of that desire to use them for pleasur
 <p>P.S. By the way, it seems your reply was initially removed by Reddit, which is why I was only able to read it now. Hence the late response.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -87,5 +104,7 @@ You just need to make sure to not act out of that desire to use them for pleasur
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

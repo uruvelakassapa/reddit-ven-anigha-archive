@@ -6,6 +6,9 @@
   <title>Is Painful Practice Avoidable? · 2024</title>
   <meta name="description" content="Is Painful Practice Avoidable?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,16 @@
       <h2>Is Painful Practice Avoidable?</h2>
       <p class="meta"><a href="http://suttas.hillsidehermitage.org/?q=an4.162">Original on Reddit</a></p>
       <div class="op"><div class="md-body"></div></div>
-      <h3>Comments</h3>
-      <article class="comment teacher" id="c-lbbqaph">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dr20h8/is_painful_practice_avoidable/lbbqaph/">Bhikkhu_Anigha</a><span class="when">2024-07-02 18:49 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>A comment from <a href="https://youtu.be/MB57kmfCHtk?si=kd0SGtNuHW1V3OW5" rel="noopener noreferrer" target="_blank">this video</a> which indicates that the point of this sutta and associated comments is slightly subtler than might appear at first glance: </p>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
+      <article class="comment parent" id="c-lbapyii">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dr20h8/is_painful_practice_avoidable/lbapyii/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>A comment from <a href="https://youtu.be/MB57kmfCHtk?si=kd0SGtNuHW1V3OW5" rel="noopener noreferrer" target="_blank">this video</a> which indicates that the point of this sutta and associated comments is slightly subtler than might appear at first glance: </p>
 <p>"As the Buddha said, for somebody the path towards that opening, that freedom, is going to be quick and unpleasant, quick and pleasant, slow and pleasant, or slow and unpleasant. But you’ll know that only in hindsight, which way it was. </p>
 <p>And again, I think if we were to bet on which way most people would be, two-and-a-half millennia after the Buddha, probably it’s going to be slow and unpleasant for mostly everyone. </p>
 <p>But even that displeasure does not mean it’s going to be this excruciating torment by default, automatically. <em>No, that is determined by how much you actively crave against it. It’s not like a pool of pain that you have to sort of drain, and just endure though.</em> You could, technically, abandon it right there and then. If you’re able to face it for what it is, keep your mind dispassionate towards it, and do that endurance that we talk about in regard to that phenomenon of confinement."</p>
@@ -38,6 +51,9 @@
 <p>In simple terms, the more you've been wanting things to be a certain particular way, the more there'll be displeasure on account of how things actually are.  </p>
 <p>But present suffering is always determined by the present state of mind (tanha) in regard to ALL of that. (Which is also why restraint and endurance on their own won't result in abanoning suffering, regardless of how much one endures and for how long.)</p>
 <p>For instance, when the mind you are paired with naturally resists and dislikes the state of renunciation, that discomfort is not up to you, but it's through that very attitude of wanting a shortcut to make it immediately joyful and pleasant, that you would be NOW accepting and perpetuating the mind's aversion in regard to that very state - which is what really makes it painful NOW. And giving in to such an attitude now is also what will make it harder to relinquish in the future - i.e, slow.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lbbqaph">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dr20h8/is_painful_practice_avoidable/lbbqaph/">Bhikkhu_Anigha</a><span class="when">2024-07-02 18:49 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>In simple terms, the more you've been wanting things to be a certain particular way, the more there'll be displeasure on account of how things actually are.</p>
 </blockquote>
@@ -45,6 +61,8 @@
 <p>But ultimately yes, the whole point of the Dhamma is that displeasure is not suffering in itself, so the fact that you might experience that pain is an issue only to the extent that you don't see the Dhamma. </p>
 <p>And it doesn’t say that unpleasant practice = slow practice; they are two separate variables. If your faculties—with faith being the basis of all the others—allow you to steadily keep and further develop the context that displeasure is not suffering, you can still reach liberation just as quickly, or even more so, than someone whose addiction was not as strong. You’re not “atoning for your past sins” through renunciation, which was <a href="https://suttas.hillsidehermitage.org/?q=mn14#mn14:17.4-mn14:17.9" rel="noopener noreferrer" target="_blank">the view of the Jains.</a></p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -54,5 +72,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>On the 8 precepts · 2025</title>
   <meta name="description" content="On the 8 precepts">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -47,10 +54,15 @@
 <p><strong>Also, please guide me on where I'm supposed to start with the HH material. Which video, text or essay I should start with. Honestly, there's so much, that I'm overwhelmed.</strong></p>
 <p>So finally, addressing all these questions, I request you all to guide me in properly practicing the 8 precepts. I apologize for any ignorance or any stupidity, I am new to HH material.</p>
 <p>If you wish to not give a long answer and waste your time on me, then please point me towards a video , a text, an essay by HH, or any other source that can answer my question.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mirqxnr">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/mirqxnr/">Sister_Medhini</a><span class="when">2025-03-20 09:59 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>I wrote <a href="https://www.hillsidehermitage.org/straightening-of-crookendness/" rel="noopener noreferrer" target="_blank">this essay</a> a while ago that was intended to address pretty much this exact question. <a href="https://www.hillsidehermitage.org/stepwise-training/" rel="noopener noreferrer" target="_blank">This</a> by Ven. Anīgha also explains the same principle. In essence, the purpose of the precepts is to give you a reference point for actions motivated by greed, aversion and delusion/carelessness. </p>
 <blockquote>
 <p>what is the difference between virtue and the precepts?</p>
@@ -75,15 +87,18 @@
 <p>Start with those that are relevant and that you can relate to directly, even if (or even especially if) you disagree with some of it. Depth is much more important than quantity. Listen/read one talk/essay that is relevant a few times, think about it and tty to apply it, rather than listening to or reading a great number of them.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mitmwe6">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/mitmwe6/">Sister_Medhini</a><span class="when">2025-03-20 16:50 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Agreeable_Range_8732:</strong><br><div class="md-body"><p>Thank you Sister, for responding. I realize I put in too many questions in one post, I apologize for that. </p>
+<article class="comment parent" id="c-mirzk2l">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/mirzk2l/">Agreeable_Range_8732</a></div>
+  <div class="body"><div class="md-body"><p>Thank you Sister, for responding. I realize I put in too many questions in one post, I apologize for that. </p>
 <p>You mentioned precepts without virtue would be simply keeping the rules as rules, and failing to see them as markers of unwholesome motivation. I understand this in theory, but how do I put 'NOT failing to see them as markers of unwholesome motivation' into practice? </p>
 <p>The only way I can think of is this: Every time I am about to break a precept, I stop myself and think why I wanted to break it. What my motivation was to break it. To see if my motivation was rooted in craving, aversion, or distraction. But what after that? What after I see that it was rooted in these things? I theoretically know that every motivation to break the precepts is rooted in these things, and that this causes dukkha, but my mind inherently doesn't see anything wrong with it, so it won't abandon them.</p>
 <p>Is this even a correct practice?</p>
 <p>Also, you seem to have missed a question. Please answer this as well: </p>
 <p>"<strong>Also, after I've established the precepts, what is the next step? And all the steps after that? Please point me towards a step by step guide: an organized, structured, ordered guide of what exactly is to be done, because the suttas are honestly kind of vague and really hard to understand."</strong></p>
 <p>I ask this because even the HH videos are not structured. I have no idea where to start. There is no step by step guide. You tell me to start with a video that I can relate directly. I have no idea which video I relate to. I liked the peripheral awareness, the anapanasati, and the kasina videos. But these are way too advanced for me, so I can't even begin to practice that. I'm wandering in the dark here.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mitmwe6">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/mitmwe6/">Sister_Medhini</a><span class="when">2025-03-20 16:50 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>how do I put 'NOT failing to see them as markers of unwholesome motivation' into practice? </p>
 </blockquote>
@@ -105,11 +120,16 @@
 <p>You could start with the <a href="https://youtube.com/playlist?list=PLUPMn2PfEqIw9w6zCsn6l0jtG2Ww2prRD&amp;si=r3ga72THAN_kOqE8" rel="noopener noreferrer" target="_blank">Essential Talks</a> playlist, and the book <a href="https://www.hillsidehermitage.org/dwr/" rel="noopener noreferrer" target="_blank">Dhamma Within Reach</a>, that would already be probably more than enough to be going on with. Many of the shorter most recent talks should also be pretty relateable and straightforward.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mkn7ue0">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/mkn7ue0/">Sister_Medhini</a><span class="when">2025-03-31 06:13 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to StrikingRegular1150:</strong><br><div class="md-body"><p>Sister Medhini, I love your insights! I find such consistent value in your comments that I've bookmarked your Reddit profile and come to it on occasion to see what you've written lately.</p>
+</div>
+</article>
+<article class="comment parent" id="c-mkkw1f5">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/mkkw1f5/">StrikingRegular1150</a></div>
+  <div class="body"><div class="md-body"><p>Sister Medhini, I love your insights! I find such consistent value in your comments that I've bookmarked your Reddit profile and come to it on occasion to see what you've written lately.</p>
 <p>I'm curious if you could please elaborate further on these seemingly very important ideas to understand:</p>
 <p>"..The motivation behind your actions is, by nature, not this specific thing in front of you that can be 'pinpointed', and overthinking it is one of the main ways to hide it from yourself."</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mkn7ue0">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jfi9wi/on_the_8_precepts/mkn7ue0/">Sister_Medhini</a><span class="when">2025-03-31 06:13 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>seemingly very important ideas to understand:</p>
 </blockquote>
@@ -122,6 +142,8 @@
 <p>There will be some confusion, doubt and discomfort involved in developing this, and there is no getting around it or avoiding it.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -130,5 +152,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

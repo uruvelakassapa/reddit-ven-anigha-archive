@@ -6,6 +6,9 @@
   <title>Path Press recommended reading · 2024</title>
   <meta name="description" content="Path Press recommended reading">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,20 +36,30 @@
       <div class="op"><div class="md-body"><p>I'm interested in reading the writings of Ajahn Nyanamoli Thero, but I've heard 'Meanings,' in particular, can be quite challenging. Is this true? If so, are there any other books on the Path Press Publications website that can help me understand 'Meanings' or any of his other books better?</p>
 <p>I already have some context from the YouTube videos, I just wanted something in book format.</p>
 <p>Thanks in advance for any recommendations! I really appreciate the help.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ldgpnt3">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e4odxk/path_press_recommended_reading/ldgpnt3/">Bhikkhu_Anigha</a><span class="when">2024-07-16 15:36 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>You'll be much closer to understanding Meanings the way it's supposed to be understood—as descriptions of the way out of suffering that are directly applicable to your own experience—if you've been earnestly putting into practice what is said in Dhamma Within Reach, The Only Way to Jhāna, the Dhamma talks, and of course the Suttas. Limited intelligence is not the real obstacle. </p>
 <p>The more rigorous style of Clearing the Path by Ven. Ñāṇavīra can help point out how various fashionable doctrines and notions are actually not canonical, so it can be useful for those with prior experience with Buddhist teachings and somewhat of an intellectual bent. For those who are totally new, it's probably not strictly essential.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-ldgyg1m">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e4odxk/path_press_recommended_reading/ldgyg1m/">obobinde</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, since we are talking buddhist literature, I hesitate to plunge into Bhikkhu Nanananda books (Concept and Reality, Magic of the Mind, The mind stilled). I wonder if it's really useful or if it might muddle the waters while satisfying my intellectual curiosity. What do you think ?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-ldh59v5">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e4odxk/path_press_recommended_reading/ldh59v5/">Bhikkhu_Anigha</a><span class="when">2024-07-16 17:00 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to obobinde:</strong><br><div class="md-body"><p>Bhante, since we are talking buddhist literature, I hesitate to plunge into Bhikkhu Nanananda books (Concept and Reality, Magic of the Mind, The mind stilled). I wonder if it's really useful or if it might muddle the waters while satisfying my intellectual curiosity. What do you think ?</p></div></div>
   <div class="body"><div class="md-body"><p>I also had gotten interested in his writings early on since he's renowed as a Sutta expert, but was disappointed to find that he's basically just reading the Mahayānist (and Commentarial Theravādin) views—of "Ultimate Non-Conceptual Reality" hidden behind the illusory conventional reality, and that language and concepts induce ignorance—into the Suttas in often roundabout and long-winded ways. He also taught Mahāsi-style noting meditation and "bare awareness" as the means to see through the supposed illusion.</p>
 <p>Perhaps it can be useful if you take it as a brief exercise in pinpointing where the fallacies in his views lie, and why they're not what the Buddha taught (<a href="https://suttacentral.net/sn22.94" rel="noopener noreferrer" target="_blank">SN 22.94</a>).</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -52,5 +69,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

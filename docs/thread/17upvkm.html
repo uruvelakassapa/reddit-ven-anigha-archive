@@ -6,6 +6,9 @@
   <title>You Cannot Get What You Want · 2023</title>
   <meta name="description" content="You Cannot Get What You Want">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -39,10 +46,16 @@
 <p>If you reflect in this way often enough, it will become clear that <em>none</em> of what is on offer in the mundane world is of <em>any</em> value. And so long as you do not give in to the temptation of suicide or a descent into insanity, so long as a Buddha has arisen in the world and made clear the resolution to the problem which you still only have an unclear but deeply pressing awareness of, you <em>will</em> eventually arrive at the Dhamma. There is no other possibility. This is the final destination, the end of the road, where radicals with nothing to lose may dig their teeth into something that is at least not completely speculative or completely nauseating.</p>
 <p>Life is too short for metaphysics. Seek the Dhamma as if you have nothing to lose. Because, in truth, you don't.</p>
 <p><em>It always turns to dust in your mouth...</em></p></div></div>
-      <h3>Comments</h3>
-      <article class="comment teacher" id="c-k9791c7">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17upvkm/you_cannot_get_what_you_want/k9791c7/">Bhikkhu_Anigha</a><span class="when">2023-11-14 11:57 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Thanks for this write-up, Keller. I enjoyed reading it.</p>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
+      <article class="comment parent" id="c-k9724i4">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17upvkm/you_cannot_get_what_you_want/k9724i4/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Thanks for this write-up, Keller. I enjoyed reading it.</p>
 <p>&#x200B;</p>
 <blockquote>
 <p>The only fundamental reason why people don't want to follow the Buddha's teachings in a more authentic and radical way is because they want to indulge in sensuality. </p>
@@ -59,6 +72,9 @@ Māra: I am altering the deal. Pray I don't alter it any further.  </p>
 <p>The central theme you seem to be hitting on here is hedonistic materialism and the associated problems of anticipatory affective forecasting bias and the hedonistic treadmill effect that render it ultimately unsatisfactory. But what is your opinion on more "prosocial" outlets for satisfaction?</p>
 <p>I know that HH holds a view of Metta that differs from most contemporary accounts, and that they see it as more of a simple attitude of non-aversion and non-ill will, so I'm not asking you about this with Metta as justification, but just as a stand-alone topic.</p>
 <p>Playing with children, caring for someone ill, laughter with friends and family, generosity, an attitude of love, scratching behind a dog's ear, etc... do you think that actions of a more relational and less self-oriented nature could exhibit greater resistance to the hedonic adaptation seen in more material or sexual pursuits? Subjectively this seems to be the case for me, and social connections often show a sustained positive impact on well-being. Thoughts?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k9791c7">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17upvkm/you_cannot_get_what_you_want/k9791c7/">Bhikkhu_Anigha</a><span class="when">2023-11-14 11:57 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>In the meantime, though, maybe I can ask a related question--</p>
 <p>The central theme you seem to be hitting on here is hedonistic materialism and the associated problems of anticipatory affective forecasting bias and the hedonistic treadmill effect that render it ultimately unsatisfactory. But what is your opinion on more "prosocial" outlets for satisfaction?</p>
@@ -68,6 +84,8 @@ Māra: I am altering the deal. Pray I don't alter it any further.  </p>
 <p><a href="https://reddit.com/comments/1746b0u/comment/k8y484v" rel="noopener noreferrer" target="_blank">This reply</a> I wrote recently (the second half), coupled with <a href="https://www.reddit.com/r/HillsideHermitage/comments/17v0cqw/re_the_foundational_reality_of_humans_as_primates/" rel="noopener noreferrer" target="_blank">my post</a>, may address your question.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -76,5 +94,7 @@ Māra: I am altering the deal. Pray I don't alter it any further.  </p>
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

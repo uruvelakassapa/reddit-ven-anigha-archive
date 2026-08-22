@@ -6,6 +6,9 @@
   <title>A small reflection on sexual desire · 2025</title>
   <meta name="description" content="A small reflection on sexual desire">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1k6rw1j/a_small_reflection_on_sexual_desire/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>I started noticing this a while ago, but right now especially.</p>
 <p>When sexual desire comes and rises to a big extent I feel "I must do something about it", but even in the past when I wasn't restraining it sometimes I would notice that when I get to do something about it the desire already faded and I don't feel it nearly as much. This is the obvious "revelation" about it, I don't have to do anything about it, just let it rise and go away without intervention. <strong>My intervention is actually redundant</strong></p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-moxh32p">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1k6rw1j/a_small_reflection_on_sexual_desire/moxh32p/">Bhikkhu_Anigha</a><span class="when">2025-04-25 06:45 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The more acute point is that even if it doesn't go away, your intervention is still redundant. The same amount of suffering, in fact worse, will be there if you give in. The suffering just gets overlooked because it doesn't fit your preconceived idea of suffering. </p>
 <p>At best the pain of desire gets replaced by sloth and laziness, which are also suffering.</p>
 <p>On the other hand, if you don't give in, there is at least a chance of ending up in an objectively better state.</p></div></div>
@@ -45,5 +57,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

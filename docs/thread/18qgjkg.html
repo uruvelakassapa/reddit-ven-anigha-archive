@@ -6,6 +6,9 @@
   <title>Why is anicca explained in these two forms: impermanent and un-ownable · 2023</title>
   <meta name="description" content="Why is anicca explained in these two forms: impermanent and un-ownable">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/18qgjkg/why_is_anicca_explained_in_these_two_forms/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>why is anicca explained as impermanent in some places and un-ownable elsewhere.. the un-ownable aspect is more vivid, that these are totally not under my control..<br />
 I can relate to the impermance aspect as: I have no say in their disappearance.. how else to understand impermance</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-keyi0kn">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/18qgjkg/why_is_anicca_explained_in_these_two_forms/keyi0kn/">Bhikkhu_Anigha</a><span class="when">2023-12-26 06:18 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p><em>anicca</em> does literally mean "impermanent", but the problem is that nowadays that term tends evoke in people the notion that it's about <em>observing</em> change like a scientist would, like how it's commonly taught that one realizes <em>anicca</em> by <em>observing t</em>he constant arising and passing of phenomena, "zooming" into the experiences even closer until one can see even more changes per second, etc.</p>
 <p>And all of that fails to show why the Buddha said all that is anicca is dukkha, and that <em>because</em> they are dukkha, they are anattā. It instead jumps right into saying that because everything is always changing, there can be no "lasting entity", and that's what anattā is (meaning, it's about "no-self" instead of "not-self", so it's the extreme of annihilationism in disguise).</p>
 <p>Also, if things in our experience are constantly changing and never remain the same from one moment to the next, there is no reason why that has to be dukkha. One could very well find a kind of happiness in there being perpetual novelty and that one never has to "cross the same river twice", as they say.</p>
@@ -48,5 +60,7 @@ I can relate to the impermance aspect as: I have no say in their disappearance..
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

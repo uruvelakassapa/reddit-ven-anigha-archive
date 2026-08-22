@@ -6,6 +6,9 @@
   <title>The axe-handle has finally worn out. · 2024</title>
   <meta name="description" content="The axe-handle has finally worn out.">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -80,10 +87,15 @@
 <p>edit: formatting</p>
 <p>edit: celibacy - last date early 2019</p>
 <p>edit: current status: I am not looking to progress to/in jhanas or in vipassana. I dont have the time in my family life - as of now. It has been very hard to make 10 days of time for retreats in a nuclear-family with kids. The retreats have always been helpful to me - but they are not "it" - thats the realization I have tried to capture in my OP.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lltnop0">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/lltnop0/">Bhikkhu_Anigha</a><span class="when">2024-09-06 17:11 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Since you mentioned you are open to contemplating replies to your post:</p>
 <blockquote>
 <p>While I had myself suspected to have attained the first fruit, I have not been sure about what made it click for me </p>
@@ -97,22 +109,27 @@
 <p>That doesn't mean the second arrow has vanished. That's a common point of confusion. It simply means that, probably due to the mental fortitude and stability created by your virtue and restraint, and maybe some degree of innate toughness, <em>there was no arrow to begin with</em>. Freedom from the second arrow is way more profound than that: it's not being touched by <em>arisen</em> mental suffering, regardless of how intense it is.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-llu7tgf">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/llu7tgf/">Bhikkhu_Anigha</a><span class="when">2024-09-06 18:59 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Realistic_Caramel768:</strong><br><div class="md-body"><blockquote>
+<article class="comment parent" id="c-lltqffe">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/lltqffe/">Realistic_Caramel768</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>People think that a "fruition experience" is what makes one a sotāpanna, which naturally leads to this "I know it, but I can't explain it" idea.</p>
 </blockquote>
 <p>This is well said. I remember seeing Flourian from TheDhammaHub claiming exactly the same thing once on his discord channel: "I knew the Dhamma from before, but I couldn't explain it until I listened to HH videos". The statement didn't add up for me.</p>
 <p>It seems that such individuals would still hold wrong views about what <em>phala</em> is, and then use the information they learn from the HH channel to reinforce their existing misconceptions.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-llu7tgf">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/llu7tgf/">Bhikkhu_Anigha</a><span class="when">2024-09-06 18:59 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>use the information they learn from the HH channel to reinforce their existing misconceptions.</p>
 </blockquote>
 <p>Indeed. When there's a will, there's a way to see past even the most cautious caveating and moving of goalposts, and to underestimate just how much further ahead of where you are the instruction is telling you to go. The depth of even "revolutionary" ideas like "Uprooting VS Management" can easily be underestimated, and thus, assumed as already understood.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-llwl9qf">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/llwl9qf/">Bhikkhu_Anigha</a><span class="when">2024-09-07 03:36 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to knwp7:</strong><br><div class="md-body"><p>Thank you, Bhante, for reading and responding. Your critical view is indeed what I look forward to. I admire the clarity of your words.</p>
+</div>
+</article>
+<article class="comment parent" id="c-lltvtol">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/lltvtol/">knwp7</a></div>
+  <div class="body"><div class="md-body"><p>Thank you, Bhante, for reading and responding. Your critical view is indeed what I look forward to. I admire the clarity of your words.</p>
 <ol>
 <li>
 <p>I cannot put my finger on "the event" that was the turning point. I have tried to document the major shifts-in-view and insights in my progression. A lot changed within me over the last 2 years. I may have misapplied the notion of fruition in my post - not knowing what other words to use. For example - Mar '23 I was on a retreat with death and dying as topic - during that I realized that my fear was gone - I am not sure exactly when it happened - but it became quite apparent during discussions, written self-expression, etc.</p>
@@ -123,6 +140,9 @@
 </ol>
 <p>Regarding Mental Suffering: Getting angry is certainly a symptom of mental-suffering; as are harsh-words spoken in anger. I am not free of both; I do experience anger; but not hatred. Likewise, craving/attachment is also a sign of mental-suffering. I experience cravings too. I am not able to stay aware of my intentions (and other aggregates) without a break (24x7) - so I may not catch these unwholesome arisings in the moment - but when I remember the context, they dissipate. That is my measure of the amount of my mental-suffering. Feels like teflon.</p>
 <p>Now I am confused about the fetters. The 1st three are not about uprooting of greed and aversion. So how much should one expect in terms of these defilements? What is the measure here?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-llwl9qf">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/llwl9qf/">Bhikkhu_Anigha</a><span class="when">2024-09-07 03:36 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>I cannot put my finger on "the event" that was the turning point.</p>
 </blockquote>
@@ -131,27 +151,39 @@
 <p>Only with such self-honesty would you be able to realize that things that you most likely regard as acceptable actually partake in the first three fetters and the second arrow still.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-lm2g2er">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/lm2g2er/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, how does your statement not contradict all the suttas that feature someone gaining the Dhamma eye and why is that not considered a “turning point”? </p>
+<p>“Bhikkhus, just as, in the autumn, when the sky is clear and cloudless, the sun, ascending in the sky, dispels all darkness from space as it shines and beams and radiates, so too, when the dust-free, stainless Dhamma-eye arises in the noble disciple, then, together with the arising of vision, the noble disciple abandons three fetters: personal-existence view, doubt, and wrong grasp of behavior and observances.“ <a href="https://suttacentral.net/an3.94" rel="noopener noreferrer" target="_blank">AN 3.94</a></p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-lm4ay55">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/lm4ay55/">Bhikkhu_Anigha</a><span class="when">2024-09-08 14:31 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Bhante, how does your statement not contradict all the suttas that feature someone gaining the Dhamma eye and why is that not considered a “turning point”? </p>
-<p>“Bhikkhus, just as, in the autumn, when the sky is clear and cloudless, the sun, ascending in the sky, dispels all darkness from space as it shines and beams and radiates, so too, when the dust-free, stainless Dhamma-eye arises in the noble disciple, then, together with the arising of vision, the noble disciple abandons three fetters: personal-existence view, doubt, and wrong grasp of behavior and observances.“ <a href="https://suttacentral.net/an3.94" rel="noopener noreferrer" target="_blank">AN 3.94</a></p></div></div>
   <div class="body"><div class="md-body"><p>There is a loud crack that occurs just before a tree that’s being cut falls to the ground. But that sound is not what felled the tree; it was the dozens of strikes with the axe that gradually brought it down. So no matter how successfully you reproduce that noise through other means, if you haven’t been hacking away at the tree, it won’t fall, and all you will have is the noise and no wood. On the other hand, if you focus on striking the tree with the axe, the tree will eventually fall, even if for some reason it does so in perfect silence.</p>
 <p>Similarly, inasmuch as one can talk about a distinct "event" of stream-entry, it is due to the person’s prior work, over a prolonged period of time, of clearing away the things in their own conduct that obstruct understanding, and weakening the fetters. It’s a <em>result</em> of the practice done before, and it would never come suddenly or unexpectedly, nor would it magically cut through fetters that were firm and strong moments before.</p>
 <p>The idea of a "turning point" used in the OP is of an event whose mere occurence—even if you don't know how or why it came about—turns you into a sotāpanna regardless of the work you did (or not) before.</p>
 <p>From that premise, you get many of the wrong views prevalent today about what enlightenment is (e.g., that it's a sudden and momentary "glimpse of Nibbāna", and that there are ways to "accelerate" the occurence of that fateful event ), whereas the Buddha said that penetration to knowledge is never abrupt and comes about only through gradual training.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-lm8p6gd">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/lm8p6gd/">Bhikkhu_Anigha</a><span class="when">2024-09-09 06:46 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>When the sun first appears in the morning, it doesn't just come out of nowhere, to be sure. </p>
+</div>
+</article>
+<article class="comment parent" id="c-lm63gtk">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/lm63gtk/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>When the sun first appears in the morning, it doesn't just come out of nowhere, to be sure. </p>
 <p>But is it not <em>because</em> of the appearance of the sun that the darkness is dispelled?</p>
 <p>Could one rightly say "the darkness disappeared, but maybe there was the appearance of the sun and maybe there wasn't, because the darkness vanishing was <em>only</em> a result of the astronomical events before dawn"?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lm8p6gd">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fafshv/the_axehandle_has_finally_worn_out/lm8p6gd/">Bhikkhu_Anigha</a><span class="when">2024-09-09 06:46 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>But is it not <em>because</em> of the appearance of the sun that the darkness is dispelled?</p>
 </blockquote>
 <p>Yes, but the "sun", the Dhamma-eye, is the understanding of the Four Noble Truths, which means you would be 100% sure about what it is that you understood, how you understood it, and you'd also be able to explain it to others with full confidence and clarity. It wouldn't be a mystical "experience" that you need to read into and interpret after the fact (which shows that in reality the "darkness", i.e., doubt and lack of clarity, is still there).</p>
 <p>And like anything else in life, you would've understood those truths because you've been actively trying to do so for a period of time (most likely years), and not all of a sudden on account of some totally unrelated effort, such as a meditation technique.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -161,5 +193,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

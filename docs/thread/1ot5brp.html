@@ -6,6 +6,9 @@
   <title>Why is abortion considered killing? · 2025</title>
   <meta name="description" content="Why is abortion considered killing?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>If someone had tapeworms (or another parasite) and chose to have them removed from the body, I would not consider this killing. Even though the parasite needs a host to survive, I am not intending to kill the parasite, nor am I intending to save the parasite (e.g. find them another host). The intent is to remove them from my body to be healthy.</p>
 <p>If a zygote (or some other stage in development of an unborn human), were to be removed from the body, this appears to me to be choosing to not help some organism develop/live, rather than intending/choosing to kill them. In the same way, not choosing to help people starving in poorer countries who will die if they are not donated to is also choosing to not help someone live, but it is not "intending to kill."</p>
 <p>If abortion is considered intentional killing, does that mean removal of a parasite (e.g. tapeworms) &amp; choosing to not donate are considered intentional killing?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-no4cx6h">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ot5brp/why_is_abortion_considered_killing/no4cx6h/">Bhikkhu_Anigha</a><span class="when">2025-11-10 15:37 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>"not helping live / letting die."</p>
 </blockquote>
@@ -51,13 +63,16 @@
 <p>In fact, every act of killing is indirect. You can only interfere with the <em>conditions</em> for a being's survival. So there is no fundamental difference between "pulling the plug" on a being's lifeline and shooting them in the head.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-no8rloo">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ot5brp/why_is_abortion_considered_killing/no8rloo/">Bhikkhu_Anigha</a><span class="when">2025-11-11 06:42 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to ToLazyToPickName:</strong><br><div class="md-body"><p>If abortion is killing, how would one get rid of tapeworms from one's body without killing them? (Since removal of the tapeworms from one's body would be removing their conditions for life).</p>
+<article class="comment parent" id="c-no6zqjx">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ot5brp/why_is_abortion_considered_killing/no6zqjx/">ToLazyToPickName</a></div>
+  <div class="body"><div class="md-body"><p>If abortion is killing, how would one get rid of tapeworms from one's body without killing them? (Since removal of the tapeworms from one's body would be removing their conditions for life).</p>
 <p>What is the deciding factor that determines what is killing vs not killing? If it is just the removal of conditions for life (without replacing the conditions), then choosing to stop being deeply attentive to the floor to not step on bugs (after you once were deeply attentive) before walking would be killing (as the conditions for life was deep attentiveness).</p>
 <p>If a dying person who needs your rare blood type plugs into you to survive (where they'll die in seconds once it is unplugged), I wouldn't consider it killing to unplug the connection as it is continuing/maintaining the status quo / starting point of not being plugged into (e.g. not being pregnant, not being infected with tapeworms). Even choosing to hit their hand away to prevent them from plugging into you in the first place (leading to their death from not being plugged into you within seconds) wouldn't be killing either. I think one is choosing to not help in both cases here (i.e. removing plug, hitting hand away). </p>
 <p>To make the donating example more comparable: if someone is mistakenly taking money from you to save lives and you stopped them by fixing the mistake, I wouldn't consider that killing, but instead choosing to "not help."</p>
 <p>I think there is a meaningful difference between choosing to not help / stopping one's help vs inflicting a deadly injury (e.g. weapon, poison), because one is choosing to not give / stop giving benefit vs one is choosing to inflict harm.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-no8rloo">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ot5brp/why_is_abortion_considered_killing/no8rloo/">Bhikkhu_Anigha</a><span class="when">2025-11-11 06:42 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>If abortion is killing, how would one get rid of tapeworms from one's body without killing them? (Since removal of the tapeworms from one's body would be removing their conditions for life).</p>
 </blockquote>
@@ -82,6 +97,8 @@
 <p>There’s no scenario in which abortion doesn’t end a human life; if it didn’t, it wouldn’t have been an abortion.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -90,5 +107,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

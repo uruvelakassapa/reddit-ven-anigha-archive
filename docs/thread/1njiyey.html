@@ -6,6 +6,9 @@
   <title>Conditional restraint and learning from my failure · 2025</title>
   <meta name="description" content="Conditional restraint and learning from my failure">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -37,10 +44,15 @@
 <p>When I have good health and conditions seem favorable, it is at times hard for me to recollect how unbeneficial it is to engage with the unwholesome, especially entertainment. Somehow, I take the relative 'health', freedom from anxiety, and composure that comes with restraint, for granted, and I forget how entertainment and mindless distractions always lead to anxiety, stress, and a hindered mind, and have done so in the past. What is the reason for this forgetfulness? Why is it more difficult to discern this danger with entertainment, while it is easier for me to do so with other forms of misconduct?</p>
 <p>This has shown me that while I depend on conditions like relatively good health and faculties to practice restraint, I cannot take them for granted and need to make use of them while I can, so that when these conditions change or deteriorate, I won't fall back into unwholesome behaviours. This also serves as a reminder that virtue is (relative) health and safety, while acting out of unwholesome mindstates is always unbeneficial and leads to affliction; it is like willingly poisoning yourself, no matter what the external circumstances may be.</p>
 <p>I would appreciate words of advice and guidance.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-nevn8fo">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1njiyey/conditional_restraint_and_learning_from_my_failure/nevn8fo/">Sister_Medhini</a><span class="when">2025-09-18 12:48 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>What is the reason for this forgetfulness?</p>
 </blockquote>
@@ -56,12 +68,15 @@
 <p>In other words, when the mind is telling you that you <em>must</em> do something about this particular issue and are justified in tightening things automatically (or loosening them arbitrarily) for the sake of that - don't pick up <em>that</em> bait. Stay in the middle.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-nf0oq8g">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1njiyey/conditional_restraint_and_learning_from_my_failure/nf0oq8g/">Sister_Medhini</a><span class="when">2025-09-19 04:53 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to LotusOfUpekkha:</strong><br><div class="md-body"><p>Thank you, Sister, for your reply.</p>
+<article class="comment parent" id="c-nex8awg">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1njiyey/conditional_restraint_and_learning_from_my_failure/nex8awg/">LotusOfUpekkha</a></div>
+  <div class="body"><div class="md-body"><p>Thank you, Sister, for your reply.</p>
 <p>About your reply to my question about forgetfulness: What I meant is more that after some time of restraint, I lose a clear recollection of how unbeneficial and dangerous engagement with distractions and entertainment actually is. - For example, right now, I still have a palpable image of how it burns when I was engaging in entertainment and distractions not too long ago, but this becomes less clear over time. I don't understand how this is connected to taking life for granted or how environmental influences could play a role in this.</p>
 <p>After some weeks of not engaging with distractions, I can see how it brings more peace and the mind is more composed, but I seem unable to contrast this with how restless, anxious, and sick those indulgences truly made me before. Its value remains lingering, despite past recognitions of it as being utterly valueless and anxiety-inducing.</p>
 <p>I think this makes it harder to fully develop the joy of renunciation, since I somehow seem to forget about the deprivation that always follows unwholesome behaviour - and I do think this could be valuable as a sort of perception to teach the mind about the drawbacks so that it is tamed more and won't go as wild when circumstances become more challenging. What could be the reason for this?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-nf0oq8g">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1njiyey/conditional_restraint_and_learning_from_my_failure/nf0oq8g/">Sister_Medhini</a><span class="when">2025-09-19 04:53 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>After some time of restraint, I lose a clear recollection of how unbeneficial and dangerous engagement with distractions and entertainment actually is.</p>
 </blockquote>
@@ -78,6 +93,8 @@
 <p>It's like the simile from the suttas of the man who has to carry a bowl full to the brim with water on his head, and has a man following him with a sharp sword who will cut off his head if he spills a single drop - and there is a beautiful dancer right in front of him. Will he feel like he can afford to let his eyes go in her direction even for half a second? In the simile, the problem is not the dancer herself; the man with the sharp sword is the far more pressing issue. But if someone is awake to the danger of the latter, they can't help but see distracting themselves with the dancer as the most dangerous thing they can do.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -86,5 +103,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Vitakkasaṇṭhānasutta · 2024</title>
   <meta name="description" content="Vitakkasaṇṭhānasutta">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>My apologies if this has been covered already but I’m unable to find it in the search. I am of the impression that Right Endurance/Effort means that we don’t reject by moving towards or away from sense contacts but an still unsure of how that fits in with the advice given in the Vitakkasaṇṭhānasutta. </p>
 <p>What is meant by the simile of the peg? Of crushing with awareness? How are these not managing pressure already arisen?</p>
 <p>Thank you all in advance. </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-l1gicvt">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cdklmr/vitakkasaṇṭhānasutta/l1gicvt/">Bhikkhu_Anigha</a><span class="when">2024-04-27 04:23 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>How are these not managing pressure already arisen?</p>
 </blockquote>
@@ -48,14 +60,19 @@
 <p>So <em>that</em>'s the "thought of sensuality" that a person should be trying to get rid of first and foremost for all the rest to not be management. And you will know that you're actually "uprooting" instead of managing and covering up due to the uneasiness that would probably arise, and the fact that the mind does not want to even look in that direction.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-l1hky7l">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cdklmr/vitakkasaṇṭhānasutta/l1hky7l/">sfimirat</a></div>
+  <div class="body"><div class="md-body"><p>Thank you Bhante. This really helps clear it up for me as I was unable to see the distinction before.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-l1hyvqc">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cdklmr/vitakkasaṇṭhānasutta/l1hyvqc/">Bhikkhu_Anigha</a><span class="when">2024-04-27 13:35 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to sfimirat:</strong><br><div class="md-body"><p>Thank you Bhante. This really helps clear it up for me as I was unable to see the distinction before.</p></div></div>
   <div class="body"><div class="md-body"><p>Since it seems you're already keeping the 8 precepts, there's another point that may be useful:</p>
 <p>As the <a href="https://suttas.hillsidehermitage.org/?q=mn39#mn39:8.2-mn39:8.4" rel="noopener noreferrer" target="_blank">sense restraint formula</a> says, it's purpose is to prevent states of longing and aversion from "flowing in". As in, it's supposed to prevent you from ending up in the position where you would have to "apply" any of the 5 strategies in the first place. However, everyone will of course be making mistakes from time to time, and the coarse unwholesome thoughts will end up arising, which is why the Buddha gave the discourse.</p>
 <p>But it's important not to just stop at dealing with the thoughts (even if <a href="https://www.youtube.com/watch?v=Woq8vFgl2Rs" rel="noopener noreferrer" target="_blank">rightly</a>), and to also reflect on <em>why</em> you ended up having to deal with them in the first place: recall the points in the recent past where you yourself ended up "opening the door" for such things to infiltrate your mind, through little careless choices that at the time presented themselves as harmless (because they were not against the precepts for example), but were already subtly rooted in losing the context and grasping at unwholesome signs and features (even if not strictly for sensual reasons, it could be out of restlessness, distraction, indolence, irrational doubt, etc.)</p>
 <p>Those are the "Trojan horses" you would consciously allow free passage, which then make you end up having to deal with such intensified pressures to begin with.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -65,5 +82,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

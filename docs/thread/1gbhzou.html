@@ -6,6 +6,9 @@
   <title>6th precept · 2024</title>
   <meta name="description" content="6th precept">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1gbhzou/6th_precept/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>Hello, just wondering if  permanently sticking to a 8-eat  / 16-fast schedule and not snacking (ie; two meals within the window) would be within the spirit of the precept.  I have an odd sleep schedule largely related to work habits and am very physically active.  Im trying to be pragmatic here because I believe the solar noon interpretation would be very unhealthy for my body and thus unsustainable.  But I also don't want to be making a compromise, I want to actually be following the precept where it counts.</p>
 <p>Thanks.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ltv8nke">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gbhzou/6th_precept/ltv8nke/">Bhikkhu_Anigha</a><span class="when">2024-10-26 16:01 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>It would be more conducive to recognizing the mental craving for pleasure and restraining it than eating whenever you want. The specific timing of the meal(s) is not necessarily essential, although 4 hours would be better than 8, and a single meal better than a time window. But you can progress towards that gradually.</p>
 <p>As an aside, you may also want to reconsider whether eating before noon is what's unhealthy/unnatural and not the odd sleep schedule.</p></div></div>
   
@@ -44,5 +56,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

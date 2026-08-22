@@ -6,6 +6,9 @@
   <title>Chanting · 2025</title>
   <meta name="description" content="Chanting">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>Chanting</h2>
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1ly3le9/chanting/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>How close is Chanting to music? Can it be an obstacle? In practice its difficult to avoid in monastic environments.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-n2xyr2e">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ly3le9/chanting/n2xyr2e/">Bhikkhu_Anigha</a><span class="when">2025-07-13 18:47 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>How close is Chanting to music? Can it be an obstacle?</p>
 </blockquote>
@@ -38,14 +50,19 @@
 <p>Ignoring the obvious wrong view that chanting has some sort of spiritual/meritorious power, sometimes the sound of chanting itself can be pleasing to the ear even if you don't ascribe fancy narratives to it, in which case you would need to be extra mindful not to start delighting in it even if your main motivation is just to avoid a scolding.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-n2y4q3m">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ly3le9/chanting/n2y4q3m/">Future_Plastic_9910</a></div>
+  <div class="body"><div class="md-body"><p>Ok. This is somewhat irrelevant but do you think that chanting was already a thing in the early Sangha when the Buddha was there and soon after? Apparently there was even poetry in the early Sangha which the Buddha didn't necessarily say was unwholesome.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-n30tgky">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ly3le9/chanting/n30tgky/">Bhikkhu_Anigha</a><span class="when">2025-07-14 04:34 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Future_Plastic_9910:</strong><br><div class="md-body"><p>Ok. This is somewhat irrelevant but do you think that chanting was already a thing in the early Sangha when the Buddha was there and soon after? Apparently there was even poetry in the early Sangha which the Buddha didn't necessarily say was unwholesome.</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>chanting was already a thing in the early Sangha when the Buddha was there and soon after?</p>
 </blockquote>
 <p>Definitely not in the present form, i.e., turning into a group activity that is supposedly wholesome in itself, covering up the delight in company underneath and removing the chance for any accurate reflection, and not understanding what you’re even saying but assuming that it must grant some spiritual benefit to utter it anyway because it’s Pali.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -55,5 +72,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

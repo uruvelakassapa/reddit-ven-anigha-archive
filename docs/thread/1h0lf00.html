@@ -6,6 +6,9 @@
   <title>How to take care of myself during burnout? · 2024</title>
   <meta name="description" content="How to take care of myself during burnout?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>Well, I am officially burnt out from work. It's crept up on me gradually and went unnoticed, then the final straw just broke the camel's back. It's become poorly managed, we are all suffering from low morale, our concerns are not being listened to, the upper-ups are making terribly unprofessional childish decisions and it is having ripple effects across the company. I'm emotionally exhausted, not motivated, feeling cynical about the patients I see (having irrational bouts of restrained anger towards them that I know is wrong). This has happened a few times since I started the job 4 years ago. Work is just a rocking ship being hit by the waves at the moment and it will take a while to settle.</p>
 <p>The problem is it's affecting the rest of my daily life and I don't know how to actually overcome it under the new context of virtue. Every bit of advice I've looked up online recommends yoga, """meditation""", journalling, talking to a therapist, travelling, socialising etc. and nothing from what I've seen is actually wholesome. There was a video I saw where NT talks about people deluding themselves into relaxing from a hard day of work by watching a film and further making themselves restless and agitating the senses instead of just actually sleeping... and yeah, unfortunately I'm in that camp. Simply sitting around doing nothing feels like drowning to me, and I understand that it is completely my fault for not overcoming my habitual use of technology and I'm bearing the fruits of my wrong actions. I am coasting with my virtue and I realise this now. I'm gonna have to have a real read of these posts and essays because I feel lost on how to start it. The only thing I'm good and confident with is my eating, but the pressure to eat as a coping mechanism is becoming stronger and stronger and I feel sick from all of it. It's the only thing I can continue to restrain myself when times are tough but I am wondering whether I should "allow" myself a treat in the same way that a heroine addict is given a small dose of methadone to taper off their addiction in a controlled manner. Despite that, I feel repulsed and burdened at the idea of doing it, which I don't know how to interpret. Everything else however I find myself delighting at "allowing" myself to do (youtube, films etc.)</p>
 <p>Is there anything I can do right now to properly take care of myself? Or is this exactly what NT was talking about - "when things were going your way, you haven't been keeping your mind in check". My burnout is a result of my circumstances, but the actions that I have taken have made the situation worse and now all I want to do is vent to people, quit my responsibilities and distract myself every second of the day, and the pressure of restraining myself in any regard is making me feel sick.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lzkrqyn">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1h0lf00/how_to_take_care_of_myself_during_burnout/lzkrqyn/">Bhikkhu_Anigha</a><span class="when">2024-11-29 16:19 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Or is this exactly what NT was talking about - "when things were going your way, you haven't been keeping your mind in check"</p>
 </blockquote>
@@ -51,5 +63,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

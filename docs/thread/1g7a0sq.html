@@ -6,6 +6,9 @@
   <title>Mind-moments · 2024</title>
   <meta name="description" content="Mind-moments">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -33,10 +40,15 @@
 2.) Why do they see the Commentaries and abhidhamma as untrustworthy or inaccurate?<br />
 3.) How then should the mind be described, and what would they base that description on?</p>
 <p>I have not finished the discussion because there is so much there that I want to listen to it in blocks so I can stop and digest what I've heard. I apologize if these questions are answered later in the video.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lsv8sxq">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1g7a0sq/mindmoments/lsv8sxq/">Bhikkhu_Anigha</a><span class="when">2024-10-20 17:03 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>It doesn't even matter whether the mind is made up of "mind moments". The problem is not that that specific idea is wrong, and we're suggesting an alternative. The entire premise that suffering is resolved by figuring out how your mind and experience "work" is in itself a very inaccurate conception of what wisdom is. It's on the same level as the pointless speculation that the Buddha denounced as a form of <em>ayoniso manasikāra</em> in <a href="https://suttacentral.net/mn2" rel="noopener noreferrer" target="_blank">MN 2</a>:</p>
 <blockquote>
 <p>This is how he attends not-through-the-origin: ‘Did I exist in the past? Did I not exist in the past? What was I in the past? How was I in the past? After being what, what did I become in the past? Will I exist in the future? Will I not exist in the future? What will I be in the future? How will I be in the future? After being what, what will I become in the future?’  <strong>Or he is undecided about the present thus: ‘Am I? Am I not? What am I? How am I? This creature—where did it come from? And where will it go?’</strong></p>
@@ -56,5 +68,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

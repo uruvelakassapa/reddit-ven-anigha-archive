@@ -6,6 +6,9 @@
   <title>Where is the suffering · 2024</title>
   <meta name="description" content="Where is the suffering">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,10 +41,15 @@ I’m having a discussion with a person and they say something that upsets me. <
 <p>Questions:<br />
 1. Where is the anger? Where is the unpleasantness? Where is the suffering?<br />
 2. How would having Yoniso Manasikara not lead to some/all of these arising?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kgwn9lv">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/190sai4/where_is_the_suffering/kgwn9lv/">Bhikkhu_Anigha</a><span class="when">2024-01-08 15:36 UTC</span></div>
-  
   <div class="body"><div class="md-body"><ol>
 <li>Anger is a result of the underlying, unrecognized attitude of resistance against the unpleasantness of hearing something upsetting. Unpleasantness is in hearing something upsetting. Suffering is that very resistance against the unpleasantness (craving).</li>
 </ol>
@@ -48,9 +60,9 @@ I’m having a discussion with a person and they say something that upsets me. <
 </ol></div></div>
   
 </article>
-<article class="comment teacher" id="c-khbzl7e">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/190sai4/where_is_the_suffering/khbzl7e/">Bhikkhu_Anigha</a><span class="when">2024-01-11 07:19 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to NAD1701:</strong><br><div class="md-body"><p>Thank you for your reply Venerable.</p>
+<article class="comment parent" id="c-kha0dnj">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/190sai4/where_is_the_suffering/kha0dnj/">NAD1701</a></div>
+  <div class="body"><div class="md-body"><p>Thank you for your reply Venerable.</p>
 <p>Replying to your points:</p>
 <ol>
 <li>
@@ -60,20 +72,30 @@ I’m having a discussion with a person and they say something that upsets me. <
 <p>What do you mean by ‘Enduring on the right level’? And how is this done?</p>
 </li>
 </ol></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-khbzl7e">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/190sai4/where_is_the_suffering/khbzl7e/">Bhikkhu_Anigha</a><span class="when">2024-01-11 07:19 UTC</span></div>
   <div class="body"><div class="md-body"><p>It means to refrain from trying to get rid of the unpleasant feeling that arose on its own when you heard something upsetting, but also not acting out of it—by retorting angrily, for example. Only then can the resistance be abandoned, and the anger which was a <em>consequence</em> of that resistance eventually fades. It cannot be directly dispelled because that would be rooted in the same resistance, just now against the displeasure of experiencing anger instead of the displeasure of the upsetting words.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-khd54wf">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/190sai4/where_is_the_suffering/khd54wf/">Bhikkhu_Anigha</a><span class="when">2024-01-11 14:21 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to NAD1701:</strong><br><div class="md-body"><p>So in practical terms:<br />
+</div>
+</article>
+<article class="comment parent" id="c-khc5et5">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/190sai4/where_is_the_suffering/khc5et5/">NAD1701</a></div>
+  <div class="body"><div class="md-body"><p>So in practical terms:<br />
 My son just shouted at me in the kitchen of our home for discussing with him how he needs to get up earlier for school (a recurring theme).<br />
 I haven’t reacted by shouting back, but even in speaking in a lower tone I have felt some level of anger building at the unpleasantness. Is it just a case of repeating this and eventually the anger will not arise, as I feel that I haven’t resisted’ the unpleasantness, but at some level I obviously have!</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-khd54wf">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/190sai4/where_is_the_suffering/khd54wf/">Bhikkhu_Anigha</a><span class="when">2024-01-11 14:21 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Is it just a case of repeating this and eventually the anger will not arise, as I feel that I haven’t resisted’ the unpleasantness, but at some level I obviously have!</p>
 </blockquote>
 <p>No, it's not "just a case of repeating it" because one starts out by not even knowing or recognizing what the resistance is (not seeing the Four Noble Truths). Only a stream-enterer can "just repeat" what they already know.</p>
 <p>So the work really consists of dispelling one's wrong views about what that resistance/craving actually is and thus getting the Right View, not of just repeatedly cultivating what one presently thinks non-resistance is. It might make sense intellectually, but the very fact that there is still the issue of anger to any degree means non-resistance hasn't been understood on the right level. You can prevent yourself from acting out by body and speech as a matter of choice, but not acting out by mind is something much subtler that only comes with discernment, not volitionally.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -83,5 +105,7 @@ I haven’t reacted by shouting back, but even in speaking in a lower tone I hav
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

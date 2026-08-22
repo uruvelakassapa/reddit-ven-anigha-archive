@@ -6,6 +6,9 @@
   <title>Am I discerning correctly? · 2024</title>
   <meta name="description" content="Am I discerning correctly?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,10 +38,15 @@
 <p>The other night, work was terrible. Incredibly understaffed, having to work through my breaks and doing lots of overtime. Sleep deprived. Mind is agitated. I didn't have time to cook a substantive meal, so I had to run to the shop and get a sandwich, scoff it down and get back to work. On the way home at night, I wanted to get a takeaway. I was mindful and knew I wasn't hungry as the sandwich removed that hunger, but I thought that because work was terrible and ruined my break, I wanted to recuperate, basically 'feel better' by indulging in a takeaway. Typing it now cringes me, but I was very distressed in the midst of it.</p>
 <p>Anyway, I started paying attention to my thoughts. The first thought was 'it's been a shitty night and I deserve to treat myself', then the next thought was 'I had to work through my break for the fifth time this week and it's unfair, I want to recuperate and have some me-time'. Thought after that was 'this is too hard'. I understood the thoughts as manifestations of craving, and recollected that if I gave into them, the next time I get cravings, it would be due to my past actions. However the pressure got incredibly strong and I thought 'sorry man, it's too difficult tonight, I give in' and was about to pull up to buy food. Then I stopped and realised that very last thought was no different from the rest, but I identified it as 'me' thinking, as if there was all these thoughts over there, but I'm over here observing it all with my own thoughts. As soon as I recollected that, I was able to resist the pressure. After that, I felt proud of myself for resisting the pressure. However I then recognised that the feeling of pride wasn't my doing either, and identifying with it would perpetuate the permanent sense of self I already feel, so I stopped identifying with it in that moment, and with that I stopped caring whether the feeling of pride persisted or disappeared because it had nothing to do with me. Then I went home and slept.</p>
 <p>Is this... at least... a less wrong way of discernment?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kk88abw">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1adukgl/am_i_discerning_correctly/kk88abw/">Bhikkhu_Anigha</a><span class="when">2024-01-30 07:11 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The fact that you restrained yourself is good, but there is still some "looking at the wrong place" happening.</p>
 <blockquote>
 <p>Anyway, I started paying attention to my thoughts. </p>
@@ -44,11 +56,14 @@
 <p>With this, the actual root of the issue, the tendency to <em>act out</em> of that feeling, which includes indulging in its thoughts <em>and</em> trying to get rid of them, would've worn out. If there is less pressure to act out of that background feeling, then the same thoughts might even arise but their <em>weight</em> would be much less, and you would have no trouble ignoring them. Just like when you might have a thought about eating your favorite food when you have no appetite at all: it's the same thought and the same prospect of pleasure, but you are not moved by it.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kk939y1">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1adukgl/am_i_discerning_correctly/kk939y1/">Bhikkhu_Anigha</a><span class="when">2024-01-30 13:01 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to serculis:</strong><br><div class="md-body"><p>Okay thank you.</p>
+<article class="comment parent" id="c-kk8nxak">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1adukgl/am_i_discerning_correctly/kk8nxak/">serculis</a></div>
+  <div class="body"><div class="md-body"><p>Okay thank you.</p>
 <p>I only focused on the thoughts because being untrained, I often identify with the voice in my head, thinking it's genuinely me talking. That's why even when I'm feeling bad, I'll have thoughts trying to convince me "this time, due to XYZ reason, it's okay to give in". Maybe this comes from lack of understanding or clarity on why it's obviously never okay to give in, hence there shouldn't be "consultation" with my thoughts where I delight in possible exceptions to giving in?</p>
 <p>In the video "sixth sensed animal" Ajahn Nyanamoli used the analogy of walking your dog and seeing a deer in the distance. Your dog hasn't noticed it yet but you have, and you know once your dog sees it it will start barking and will try to drag you. Is noticing the deer before the dog basically the same thing as me noticing the unpleasant feeling during work, way before I even was tempted to get food?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kk939y1">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1adukgl/am_i_discerning_correctly/kk939y1/">Bhikkhu_Anigha</a><span class="when">2024-01-30 13:01 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>I only focused on the thoughts because being untrained, I often identify with the voice in my head, thinking it's genuinely me talking. That's why even when I'm feeling bad, I'll have thoughts trying to convince me "this time, due to XYZ reason, it's okay to give in". Maybe this comes from lack of understanding or clarity on why it's obviously never okay to give in, hence there shouldn't be "consultation" with my thoughts where I delight in possible exceptions to giving in?</p>
 </blockquote>
@@ -61,6 +76,8 @@
 <p>So you can take that as a general rule of thumb: whenever you "suddenly" find yourself really pressured to do something, it must have been because at some point, when things were still calm, you  started "moving" in that direction with a bit of delight, aversion, or carelessness that <em>back then</em> you brushed off as "fine". But it will always end up snowballing, and every further "harmless" engagement in that direction will make it more painful to restrain yourself later.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -69,5 +86,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

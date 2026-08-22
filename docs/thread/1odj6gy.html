@@ -6,6 +6,9 @@
   <title>What is bhava? · 2025</title>
   <meta name="description" content="What is bhava?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -32,26 +39,36 @@
 </blockquote>
 <p>I don't understand exactly what being (bhava) means here. </p>
 <p>I thought that "being" means "existence" of all things in my experience of reality as a whole. But if being includes everything in my experience of reality, how there can be "something else" (assumptions) that is a cause of being? Aren't assumptions also part of being?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-nlbop3g">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1odj6gy/what_is_bhava/nlbop3g/">Bhikkhu_Anigha</a><span class="when">2025-10-25 15:32 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Your bhava is the extent of your entanglement in your current circumstances (current feelings, perceptions, state of your body, etc.) You have 3 "types" of bhava in the sense that you can most broadly divide the type of circumstances where you can be entangled into three:<br />
 sensual, material, and immaterial.</p>
 <p>As the Buddha put it in <a href="https://suttacentral.net/dn9" rel="noopener noreferrer" target="_blank">DN 9</a>, just as there is no butter to speak of in a glass of milk, there is no material or immaterial being to speak of for as long as there is sensual being, i.e., for as long as lust for the five cords of sensuality still lingers. So, unless they are among the tiny few who rightly train their minds, a human lives their whole life within <em>kāmabhava</em> without interruption.</p>
 <p>This is why the rather common understanding of <em>bhava</em> as "becoming" is wrong. It implies you start from a neutral position from which you could refrain from <em>bhava</em> if you chose to.  But unless you have completely surmounted sensual desire, every single thing you do, including your attempt to overcome <em>kāmabhava</em>, is still within it.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-nlg17ae">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1odj6gy/what_is_bhava/nlg17ae/">Pretty_Struggle_2777</a></div>
+  <div class="body"><div class="md-body"><p>Thank for your answer, Bhante. But don't those external circumstances also participate of the same bhava?<br />
+I mean that if for example someone abandons kamabhava and then dies, he will be reborn in an environment (that he can't completely control) that fits his non sensual inclination. That's why I asked if bhava includes all things that exist in my experience of reality or not.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-nlgeucs">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1odj6gy/what_is_bhava/nlgeucs/">Bhikkhu_Anigha</a><span class="when">2025-10-26 10:32 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Pretty_Struggle_2777:</strong><br><div class="md-body"><p>Thank for your answer, Bhante. But don't those external circumstances also participate of the same bhava?<br />
-I mean that if for example someone abandons kamabhava and then dies, he will be reborn in an environment (that he can't completely control) that fits his non sensual inclination. That's why I asked if bhava includes all things that exist in my experience of reality or not.</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>But don't those external circumstances also participate of the same bhava? I mean that if for example someone abandons kamabhava and then dies, he will be reborn in an environment (that he can't completely control) that fits his non sensual inclination. </p>
 </blockquote>
 <p>Yes, of course. Even in this life, freeing the mind from <em>kāmabhava</em> changes the state of the body as well (i.e., removes a whole layer of agitation and pressure from it), as the passages on jhāna often describe.</p>
 <p>But you can't abandon bhava by changing change the circumstances; that would be upside-down and simply won't work. Particular details of your current situation can change even accidentally (e.g., hormone insufficiencies), but the fundamental attitude towards the entire thing is where the bhava lies.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -61,5 +78,7 @@ I mean that if for example someone abandons kamabhava and then dies, he will be 
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

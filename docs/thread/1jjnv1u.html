@@ -6,6 +6,9 @@
   <title>Seven Grains of Sand (The Suffering of a Sotāpanna) · 2025</title>
   <meta name="description" content="Seven Grains of Sand (The Suffering of a Sotāpanna)">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -214,10 +221,16 @@ or is the drop of water on the tip of the man’s hair greater?”  </p>
 <p>Just as with the drop of water on the tip of a hair, so it is with the drop on the tip of a blade of grass or a twig.  </p>
 <p>Just as with the water of the lake, so it is with the Sarodattagā, the Ganges, the Yamunā, the Sarabhū, the Irāvati, the Mahī, and the great ocean—likewise it is said.  </p>
 <p>Having spoken this sutra, the monks, hearing what the Buddha taught, rejoiced and put it into practice.</p></div></div>
-      <h3>Comments</h3>
-      <article class="comment teacher" id="c-mjsdeu2">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jjnv1u/seven_grains_of_sand_the_suffering_of_a_sotāpanna/mjsdeu2/">Bhikkhu_Anigha</a><span class="when">2025-03-26 05:20 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Kuznecoff:</strong><br><div class="md-body"><p>Thank for you this analysis, Bhante. I appreciate the thought that goes into your writing.</p>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
+      <article class="comment parent" id="c-mjp53kh">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jjnv1u/seven_grains_of_sand_the_suffering_of_a_sotāpanna/mjp53kh/">Kuznecoff</a></div>
+  <div class="body"><div class="md-body"><p>Thank for you this analysis, Bhante. I appreciate the thought that goes into your writing.</p>
 <p>I've got some questions relating to this passage:</p>
 <blockquote>
 <p>What's more, since the comparison with the Himalayas was never substituted, <a href="https://suttacentral.net/sn13.10" rel="noopener noreferrer" target="_blank">SN 13.10</a> ends up containing a technical flaw uncharacteristic of the Pali canon: equating suffering with time in saṃsāṛa and then comparing the puthujjana's suffering to the Himalāyas implies their time in saṃsāra, although very large, has an eventual end. But this is precisely not the case. In early Buddhism, for as long as beings are ignorant and fettered by craving, there will not be an end of suffering for them. The idea that all beings are inevitably destined for Nibbāna is a later development, made possible by very different notions of what Nibbāna and the path to it are.</p>
@@ -225,6 +238,9 @@ or is the drop of water on the tip of the man’s hair greater?”  </p>
 <p>My impression is that the number of rebirths is tied to the amount of craving/being/ignorance that is still left, as I have heard some monks claim "there will be no rebirth after this life" (i.e. arahantship). On the other hand, the idea of 7-lifetime time limit almost equates to someone aging (in a mundane sense), like "this person will die within 0-120 years". Does this perhaps imply that number of 7 is more of an approximation, similar in the sense to how we say people in our current era are expected to live between 70-80 years (with of course some people dying prior or longer to this estimate)?</p>
 <p>This also has me wonder about the many suttas are dedicated to encouraging lay sotapanna to undergo the training. A general explanation I've heard as to why they would get lazy is because they expect the work to be done for them in a future rebirth (by "themselves"), so they are just coasting because undertaking the path is seen as too unpleasant in their present life. But if that perception of seeing the conditions for practice doesn't change, then wouldn't it be possible for a sotapanna to be stuck at their stage of ignorance through indefinite lifetimes until they finally make the decision to pursue the path? Ergo, the idea of a "lazy" sotapanna taking the full 7 lifetimes, but perhaps their lifetimes being unlimited because rebirths are tied to ignorance and not time?  </p>
 <p>On the other hand, with the mind inclining towards renunciation (the stream), it is said that they will be carried by it even if they want to resist at certain points. So I suppose this culminates into my other question: what would prevent the sotapanna from swimming indefinitely against the stream? Evidently they are not directionless (samsara), but at the same time, it seems possible that they could resist the idea of pursuing renunciation indefinitely. What would eventually make them "tire out" and stop trying to swim against the stream?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mjsdeu2">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jjnv1u/seven_grains_of_sand_the_suffering_of_a_sotāpanna/mjsdeu2/">Bhikkhu_Anigha</a><span class="when">2025-03-26 05:20 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Does this perhaps imply that number of 7 is more of an approximation, similar in the sense to how we say people in our current era are expected to live between 70-80 years (with of course some people dying prior or longer to this estimate)?</p>
 </blockquote>
@@ -241,6 +257,8 @@ or is the drop of water on the tip of the man’s hair greater?”  </p>
 <p>And that's what would, even in the most negligent of all cases, prevent an indefinite stalling—right view. Being unable to hold the view that being overweight is fine (that craving and existence are worth maintaining), which the average puthujjana still has. A learned puthujjana can abandon that view, but without understanding for themselves what craving and existence are (<a href="https://suttas.hillsidehermitage.org/?q=an6.68" rel="noopener noreferrer" target="_blank">which comes from seeing the signs of the mind</a>), they won't be carried by the stream and are liable to ruin still—even to going back to the old view at some point.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -249,5 +267,7 @@ or is the drop of water on the tip of the man’s hair greater?”  </p>
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Facing boredom and not chase after pleasure · 2024</title>
   <meta name="description" content="Facing boredom and not chase after pleasure">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -39,10 +46,15 @@
 <p><strong>So,</strong> I really need ideas to start changing these habits otherwise I will just continue to repeat this never ending cycle, so I came to wonder: what do noble disciples free from sensuality do when they have free time? I believe they are probably not chasing pleasurable and stimulating activities in the way I'm doing it.</p>
 <p>Should I just force myself to sit or go for very recurrent walks and dwell in non-activity most of my free time? Working to establish yoniso-manasikara and lessen appropriation of the aggregates; applying what Ajahn Nyanamoli teaches regarding becoming aware of craving in my experience and including my attitude in regard to it as being there because of craving; just dwelling in an untroubled state without forcing anything when feeling pleasant or on the contrary take advantages of these moments to question and review in what ways I could still be liable to craving and work on severing the resistance...</p>
 <p>Surely I also could do activities related to the Dhamma, like studying suttas and books about Dhamma, at least when the prospect of doing it feels like a chore or neutral enough, and is not provoking delight so I know that is not going to be unwholesome activity disguised as wholesome.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-l03k2sl">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1c68si4/facing_boredom_and_not_chase_after_pleasure/l03k2sl/">Bhikkhu_Anigha</a><span class="when">2024-04-18 04:25 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>You don't have to come up with a specific "plan" in order to not give in to the pressure of boredom (since that would become your giving in to it). All you have to do is make sure that <em>whatever</em> you do is still in accordance with the context of allowing the pressure to endure for as long as it wants, and that might very well vary from one day to the next. Only you can know when a particular action—externally wholesome as it may be, including contemplating the Dhamma—is or is not aimed at escape thing boredom (based on the inclinations of your mind <em>right now</em>, not some pre-defined guideline).</p></div></div>
   
 </article>
@@ -54,5 +66,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

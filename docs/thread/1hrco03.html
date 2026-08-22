@@ -6,6 +6,9 @@
   <title>Getting up early and napping during the day · 2025</title>
   <meta name="description" content="Getting up early and napping during the day">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>Is it better to just power through and not nap until my mind stops steering to that as an option and gets used to it? (like it does steering to eat more after my meal but before noon since it's "allowable") </p>
 <p>This sleep stuff really sucks because it feel like my body wants to get up this early, and I'd probably feel gross going back to more sleep at this point. Sometimes it's like the only time my mind relaxes and the pain in my neck goes away is when it's time for bed. It's really frustrating that calm might only come at that time and I have to meditate and live with anxiety and neck pain otherwise.  I feel like I'm over determining things but I don't know how to stop. </p>
 <p>Edit: A few of you mentioned food intolerance and I think that must be it.  I think it's my whey protein.  I had an inkling that might be an issue for a while but didn't test it out properly.  It's that subtle inner feminine voice that I seem to often miss or ignore, and then stumble around this way and that before I finally listen to them to see that once again, they were right.  It's a very male thing to prioritize thinking, logic, and prior determinations over intuition. </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-m4yw1il">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hrco03/getting_up_early_and_napping_during_the_day/m4yw1il/">Bhikkhu_Anigha</a><span class="when">2025-01-02 05:43 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>If you know you're not tired due to some specific physical reason like recent strenuous activity or some food intolerance, then the problem might be that you're expecting the dull state after the meal not to be there, with the wrong view that "only then" can you practice. That aversion would in turn make the sleepiness worse.</p>
 <p>The hindrance of sloth and torpor is not due to the drowsiness after the meal in and of itself, but due to your <em>ayoniso manasikāra</em> towards it:</p>
 <blockquote>
@@ -50,5 +62,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

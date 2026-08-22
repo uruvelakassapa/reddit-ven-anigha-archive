@@ -6,6 +6,9 @@
   <title>Eating in moderation and working out · 2024</title>
   <meta name="description" content="Eating in moderation and working out">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -35,10 +42,15 @@
 4. Being strong and able to do whatever I need to do, and to generally feel more comfortable in my body.</p>
 <p>How does one navigate eating in moderation and eating to gain muscle at the same time?  I think of the Bodhisattva and his intentions eating Sujata's offering.  To make the body strong and comfortable enough for jhana.  His beauty would have also increased along with this, but that wasn't his intention, it was just a side effect.</p>
 <p>It's a bit more complicated when I  have to eat a lot to gain weight, eating before noon. </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lvwfc8e">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gl3lzv/eating_in_moderation_and_working_out/lvwfc8e/">Bhikkhu_Anigha</a><span class="when">2024-11-07 14:23 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>How does one navigate eating in moderation and eating to gain muscle at the same time?</p>
 </blockquote>
@@ -58,5 +70,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

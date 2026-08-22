@@ -6,6 +6,9 @@
   <title>Guarding the sense doors · 2024</title>
   <meta name="description" content="Guarding the sense doors">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -49,10 +56,15 @@
 <p>&#x200B;</p>
 <p>Does this seem useful, am I missing anything? Any thoughts/feedback would be helpful. </p>
 <p>&#x200B;</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kxq2dia">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bte1mb/guarding_the_sense_doors/kxq2dia/">Bhikkhu_Anigha</a><span class="when">2024-04-02 17:07 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Sense restraint is not about preventing any of the things you listed from arising, which is unsustainable and ultimately impossible. It's about the recognition that <em>what</em> you perceive is not up to you to decide, but that you are certainly responsible for whether you choose to allow your mind to get sucked into those perceptions in such a way that desire or aversion increase.</p>
 <blockquote>
 <p>Having seen a sight with the eye, he doesn’t grasp at signs and features of it on account of which—due to abiding with the eye faculty unrestrained—bad, detrimental phenomena of longing and upset would flow in on him. He practices to restrain that; he guards the eye faculty and brings about the restraint of the eye faculty. </p>
@@ -61,9 +73,9 @@
 <p>Also, sense restraint is always the stage that comes after virtue and seeing the danger in the slightest fault in the <a href="https://suttacentral.net/mn107/en/sujato?lang=en&amp;layout=sidebyside&amp;reference=none&amp;notes=asterisk&amp;highlight=false&amp;script=latin" rel="noopener noreferrer" target="_blank">Gradual Training</a>, so it's impossible to do it properly unless one is already proficient in never transgressing the 8 precepts. Sense restraint will not help you make keeping the precepts easier; it's the other way around: purifying your bodily and verbal actions from desire and aversion <em>first</em> will eventually allow you to discern how, on the subtler mental level that sense restraint operates within, those same defilements arise.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-ky0getd">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bte1mb/guarding_the_sense_doors/ky0getd/">Bhikkhu_Anigha</a><span class="when">2024-04-04 13:50 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to sahassaransi_mw:</strong><br><div class="md-body"><blockquote>
+<article class="comment parent" id="c-kxvlcu2">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bte1mb/guarding_the_sense_doors/kxvlcu2/">sahassaransi_mw</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>Also, sense restraint is always the stage that comes after virtue and seeing the danger in the slightest fault in the <a href="https://suttacentral.net/mn107/en/sujato?lang=en&amp;layout=sidebyside&amp;reference=none&amp;notes=asterisk&amp;highlight=false&amp;script=latin" rel="noopener noreferrer" target="_blank">Gradual Training</a>, so it's impossible to do it properly unless one is already proficient in never transgressing the 8 precepts. Sense restraint will not help you make keeping the precepts easier; it's the other way around: purifying your bodily and verbal actions from desire and aversion <em>first</em> will eventually allow you to discern how, on the subtler mental level that sense restraint operates within, those same defilements arise</p>
 </blockquote>
 <p>Theruwansaranai Bhante!<br />
@@ -77,6 +89,9 @@ I have been keeping the ten precepts, plus the four on speech, to the best of my
 <p>For example:<br />
  Say I see food spilled in the Dana Sala, and have the thought occur to me - "Must it be me who cleans up every time?" (which would be the significance of seeing the food spilled to me) - and yet STILL happen to not feel any anger nor displeasure towards that sight.<br />
 So though that sight WOULD be SIGNIFICANT to me in that it signifies something, it would also be INSIGNIFICANT to me in the sense that because I happened to NOT feel anger in that scenario, the recognition that no one else bothered to clean the spill does not BOTHER me  ... which is the most significant thing to a puthujjana.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ky0getd">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bte1mb/guarding_the_sense_doors/ky0getd/">Bhikkhu_Anigha</a><span class="when">2024-04-04 13:50 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>So ... would the same principle be true for sense restraint? One restrains the impulses of anger and desire they feel, but on the level of thinking out of them instead? And are these impulses what is meant by "nimittas" in sense restraint?</p>
 </blockquote>
@@ -92,9 +107,11 @@ So though that sight WOULD be SIGNIFICANT to me in that it signifies something, 
 <p>Sense restraint prevents you from <em>losing</em> perspective in the first place, but when you have already lost it (i.e., when you find yourself already getting ragdolled by the impulses and obsessions), then the task is to <a href="http://suttas.hillsidehermitage.org/?q=mn20" rel="noopener noreferrer" target="_blank">regain perspective</a> (and obviously  to foresee it next time).</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-l1w0agq">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bte1mb/guarding_the_sense_doors/l1w0agq/">Bhikkhu_Anigha</a><span class="when">2024-04-30 03:24 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to sahassaransi_mw:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-l1ryzy5">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bte1mb/guarding_the_sense_doors/l1ryzy5/">sahassaransi_mw</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>Not quite.[ Impulses arise because of a lack of sense restraint beforehand</p>
 </blockquote>
 <p>Bhante, I have been thinking about this for a while, and I would like to clarify if perhaps our disagreement here may stem from different ways of using the word "impulse." </p>
@@ -103,6 +120,9 @@ So though that sight WOULD be SIGNIFICANT to me in that it signifies something, 
 <p>To take your food example, Bhante: say I was eating something agreeable - certain thoughts, intentions, and memories would pressure me simultaneously to the eating of the food, and I would not give in to those. It would almost be like having a bee buzzing right in front of you, not stinging you yet (because you didn't swat it yet) but also not leaving. Just hovering in front of you, buzzing threateningly.</p>
 <p>In the same way, at times when I restrained myself as such, the pressure of desire could NOT increase (if already arisen), but would simply "hover there." As such, the overall experience of when I HAD to eat certain foods that I desired would simply be awkward and somewhat uncomfortable, with the tension just sitting there, waiting for involvement. It also seemed like I was getting less pleasure out of the experience than I could've if I had engaged. </p>
 <p>Would this explanation be closer to what sense restraint is supposed to be?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-l1w0agq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bte1mb/guarding_the_sense_doors/l1w0agq/">Bhikkhu_Anigha</a><span class="when">2024-04-30 03:24 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>What I'm referring to is when overall, I'm feeling neutral, or even pleasant - and yet, there are more specific pressuring feelings of displeasure or pleasure within that simultaneously - what I meant by "impulses". It's that initially manifested experience that I can't really prevent - a pressuring displeasure WITHIN the neutral feeling that COULD potentially take over if I give in to it. It doesn't seem to constitute a "loss of perspective" yet at that point.</p>
 <p>...perhaps our disagreement here may stem from different ways of using the word "impulse."</p>
@@ -114,6 +134,8 @@ So though that sight WOULD be SIGNIFICANT to me in that it signifies something, 
 <p>That's why it's said that pleasure <a href="https://suttacentral.net/sn36.5/en/bodhi?lang=en&amp;reference=main&amp;highlight=false" rel="noopener noreferrer" target="_blank">should be seen as pain</a>, and that requires the "buzz" to be there to some degree (mentally, of course).</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -122,5 +144,7 @@ So though that sight WOULD be SIGNIFICANT to me in that it signifies something, 
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

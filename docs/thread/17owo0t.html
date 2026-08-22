@@ -6,6 +6,9 @@
   <title>New Essay: &quot;What The Jhānas Actually Are&quot; · 2023</title>
   <meta name="description" content="New Essay: &quot;What The Jhānas Actually Are&quot;">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,11 +34,20 @@
       <h2>New Essay: &quot;What The Jhānas Actually Are&quot;</h2>
       <p class="meta"><a href="https://www.hillsidehermitage.org/what-the-jhanas-actually-are/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"></div></div>
-      <h3>Comments</h3>
-      <article class="comment teacher" id="c-k82c6qd">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k82c6qd/">Bhikkhu_Anigha</a><span class="when">2023-11-06 13:13 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to obobinde:</strong><br><div class="md-body"><p>That is most excellent Bhante ! Very useful in clearing a lot of doubts I had on this matter. By the way, I'm currently reading the academic book "Early Buddhist Meditations" from Keren Arbel and in a scholarly way her analysis supports the understanding of Jhanas you've put forth in your essay.</p>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
+      <article class="comment parent" id="c-k81ug9f">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k81ug9f/">obobinde</a></div>
+  <div class="body"><div class="md-body"><p>That is most excellent Bhante ! Very useful in clearing a lot of doubts I had on this matter. By the way, I'm currently reading the academic book "Early Buddhist Meditations" from Keren Arbel and in a scholarly way her analysis supports the understanding of Jhanas you've put forth in your essay.</p>
 <p>I have a question : in your personal experience or overall in people's experience abiding/practicing in those correct Jhanas, does the experience of each of the four jhanas clearly distinct from one another ? Is there a distinct feel/taste/knowing change when the mind goes from one to another ?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k82c6qd">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k82c6qd/">Bhikkhu_Anigha</a><span class="when">2023-11-06 13:13 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>from Keren Arbel and in a scholarly way her analysis supports the understanding of Jhanas you've put forth in your essay.</p>
 </blockquote>
@@ -52,9 +68,11 @@
 <p>(See also <a href="https://suttacentral.net/an3.94" rel="noopener noreferrer" target="_blank">AN 3.94</a>, which says that a noble disciple cannot be reborn in the sensual realm if he dies while his mind is established in the plane of the first jhana. That's because his citta is <em>already not here</em> while he's alive, so to speak, despite still having the same functioning 5 senses. The jhānas are called <em>"superhuman states"</em> as well, and you lose your monkhood forever if you claim to have them when you know you don't. They're no joke, and they most certainly don't happen by accident during a 10-day retreat).</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k834jpm">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k834jpm/">Bhikkhu_Anigha</a><span class="when">2023-11-06 16:28 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Handsome_God123:</strong><br><div class="md-body"><p>Bhante, after reading the essay I have several questions.</p>
+</div>
+</article>
+<article class="comment parent" id="c-k82nf6s">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k82nf6s/">Handsome_God123</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, after reading the essay I have several questions.</p>
 <p>&#x200B;</p>
 <p>First, I'm confused with explanation number 15.</p>
 <blockquote>
@@ -64,6 +82,9 @@
 <p>&#x200B;</p>
 <p>And second, everytime someone gets the noble attainment, they always claim they know birth is ended, etc. I'm sure during Buddha's time, not all of his student believe in the metaphysical teaching and cosmology or about rebirth etc.</p>
 <p>How do they know their future birth is ended if they didn't believe in rebirth in the first place? What do they see that makes them say their future birth is ended?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k834jpm">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k834jpm/">Bhikkhu_Anigha</a><span class="when">2023-11-06 16:28 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>How do they get to stream entry without being celibate or restraint? I thought it's only possible to attain right view after certain amount of time being restrained. And I thought that's what Ajahn Nyanamoli said too, I've always been confused about this tbh.</p>
 </blockquote>
@@ -83,14 +104,19 @@
 <p>So whoever practiced rightly and got the right view at least initially recognized that they can't be sure, and therefore they better do the things which they can see in this very life lead to less craving and thus less suffering.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k84rvsk">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k84rvsk/">Bhikkhu_Anigha</a><span class="when">2023-11-06 22:19 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Handsome_God123:</strong><br><div class="md-body"><p>Thanks a lot Bhante, like always, you always give satisfying explanation.</p>
+</div>
+</article>
+<article class="comment parent" id="c-k839hhr">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k839hhr/">Handsome_God123</a></div>
+  <div class="body"><div class="md-body"><p>Thanks a lot Bhante, like always, you always give satisfying explanation.</p>
 <blockquote>
 <p>even if you have no recollection whatsoever of previous lives or divine visions.</p>
 </blockquote>
 <p>Few days ago, I watched an old QnA from the channel, Ajahn Nyanamoli was talking about how sometimes in the sutta where they say "meeting 500 arahants" sometimes isn't a concrete number, but just how they say "many arahant" during that time.</p>
 <p>Is it possible that people who recollect past life or gained psychic powers just a saying to mean other thing but not actually meaning they really see their past lives or gain psychic powers?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k84rvsk">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k84rvsk/">Bhikkhu_Anigha</a><span class="when">2023-11-06 22:19 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Is it possible that people who recollect past life or gained psychic powers just a saying to mean other thing but not actually meaning they really see their past lives or gain psychic powers?</p>
 </blockquote>
@@ -101,12 +127,17 @@
 <p>One just has to be careful not to <em>decide</em> that they're false, giving way too much credit and trust to one's present understanding of the world which <em>has</em> to be faulty.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k8x5mdv">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k8x5mdv/">Bhikkhu_Anigha</a><span class="when">2023-11-12 12:37 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to BDistheB:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-k8wgfa4">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k8wgfa4/">BDistheB</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>Yes, I came across that one. It was not bad, relatively speaking. But if you read closely, you'll see that she still thinks "thinking" is somehow in and of itself an obstacle.</p>
 </blockquote>
 <p>Hello bhikkhu. The suttas are clear about jhana developed by a still mind. Your essay is picking, choosing &amp; misinterpreting suttas.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k8x5mdv">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k8x5mdv/">Bhikkhu_Anigha</a><span class="when">2023-11-12 12:37 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>The suttas are clear about jhana developed by a still mind.</p>
 </blockquote>
@@ -116,14 +147,19 @@
 <p>Do also check out the most recent post I made, and if possible, please post your reply there.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k94pq99">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k94pq99/">Bhikkhu_Anigha</a><span class="when">2023-11-13 22:23 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to BDistheB:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-k90m753">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k90m753/">BDistheB</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>I would ask you to show me evidence that the Suttas define "still mind" as the absence of thinking, particularly in the first jhāna which was the main focus of the essay. </p>
 </blockquote>
 <p>And as I remained thus heedful, ardent, &amp; resolute, thinking imbued with harmlessness arose in me. I discerned that 'Thinking imbued with harmlessness has arisen in me; and that leads neither to my own affliction, nor to the affliction of others, nor to the affliction of both. It fosters discernment, promotes lack of vexation, &amp; leads to Unbinding. If I were to think &amp; ponder in line with that even for a night... even for a day... even for a day &amp; night, I do not envision any danger that would come from it, except that thinking &amp; pondering a long time would tire the body. When the body is tired, the mind is disturbed; and a disturbed mind is far from concentration.' So I steadied my mind right within, settled, unified, &amp; concentrated it. Why is that? So that my mind would not be disturbed.</p>
 <p>Unflagging persistence was aroused in me, and unmuddled mindfulness established. My body was calm &amp; unaroused, my mind concentrated &amp; single. Quite withdrawn from sensuality, withdrawn from unskillful mental qualities, I entered &amp; remained in the first jhana: rapture &amp; pleasure born from withdrawal, accompanied by directed thought &amp; evaluation. With the stilling of directed thoughts &amp; evaluations, I entered &amp; remained in the second jhana: rapture &amp; pleasure born of composure, unification of awareness free from directed thought &amp; evaluation — internal assurance. </p>
 <p>Dvedhavitakka Sutta: Two Sorts of Thinking</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k94pq99">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k94pq99/">Bhikkhu_Anigha</a><span class="when">2023-11-13 22:23 UTC</span></div>
   <div class="body"><div class="md-body"><p>Yes, I was pretty much just waiting for someone to bring this up.</p>
 <p>We have addressed this talk multiple times in the past, and essentially the <a href="https://m.youtube.com/watch?v=9voIhZij5Io" rel="noopener noreferrer" target="_blank">"process"</a> of purifying the mind that we always describe is entirely based on this Sutta. (See also <a href="https://m.youtube.com/watch?v=VBiB0W7U6FQ" rel="noopener noreferrer" target="_blank">"Good Thoughts, Bad Thoughts"</a>.</p>
 <p>The first thing to note is that there is an Chinese Agama parallel which gives us a clearer picture of the process that the Sutta is describing:</p>
@@ -167,9 +203,11 @@
 <p>But it cannot be emphasized enough that "sensual thoughts" and "sensual perceptions" here are determined by the way that the <em>citta</em> reacts to the objects of the six senses, and one needs to have grasped the hints of the mind so as to recognize where the sensuality even is. Otherwise, one will only be trying to get rid of objects which does not accomplish anything (while the actual unwholesome remains at back)―and yet even this would ultimately be less harmful than trying to stop thinking altogether.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k9680e5">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k9680e5/">Bhikkhu_Anigha</a><span class="when">2023-11-14 04:41 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to BDistheB:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-k94xaox">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k94xaox/">BDistheB</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>Chinese Agama</p>
 </blockquote>
 <p>Hello. The Buddha did not speak Chinese.</p>
@@ -203,6 +241,9 @@
 <p><strong><em>"Let it occur to you, BDistheB," the Blessed One said.</em></strong>  </p>
 <p><em>"Suppose, lord, that not far from a village or town was a pond. There in it was a crab. Then a number of boys &amp; girls, leaving the village or town, would go to the pond and, on arrival, would go down to bathe in it. Taking the crab out of the water, they would place it on the ground. And whenever the crab extended a leg, the boys or girls would cut it off, break it, and smash it with sticks or stones right there, so that the crab — with all its legs cut off, broken, &amp; smashed — would be unable to get back in the water as before</em>. <strong>In the same way, whatever Anigha the Hillside-son's writhings, capers, &amp; contortions, the Blessed One has cut them off, broken them, and smashed them all, so that Anigha the Hillside-son is now unable to approach the Blessed One again for the purpose of debate</strong>.<em>"</em></p>
 </blockquote></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k9680e5">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k9680e5/">Bhikkhu_Anigha</a><span class="when">2023-11-14 04:41 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Hello. The Buddha did not speak Chinese.</p>
 </blockquote>
@@ -263,12 +304,17 @@
 <p>"anuvitakketi" occurs in Suttas like <a href="https://suttacentral.net/an7.61" rel="noopener noreferrer" target="_blank">AN 7.61</a> with Mahāmoggallāna falling asleep, meaning it is something that would rouse his mind up due to its active quality. <a href="https://suttacentral.net/an3.112" rel="noopener noreferrer" target="_blank">AN 3.112</a> describes how "anuvitakka" would be the sort of thinking directed towards unwholesome states, and it's that same sort that you use to develop renunciation, which is why, as <a href="https://suttacentral.net/mn19" rel="noopener noreferrer" target="_blank">MN 19</a> says, renunciation alone is tiresome compared to "just" vitakkavicāra that doesn't need to be controlled anymore.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k9aecry">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k9aecry/">Bhikkhu_Anigha</a><span class="when">2023-11-15 00:24 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to BDistheB:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-k9aa63q">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k9aa63q/">BDistheB</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>It looks like there isn't much hope to change your mind.</p>
 </blockquote>
 <p>Obviously, Bhikkhu Eḷamūga. Why would an individual such as my good self, free from doubts about the Dhamma, senior to you in the Dhamma, have conviction in your clutching at straws &amp; conviction in your Papanca Guru that struggles to speak a coherent sentence in the English language &amp; has no sati-sampajjana in relation to the body established? It appears the case your obsession with overcoming sensuality shows where your mind is in relation to the Dhamma. Minds that attain what is lofty speak of what is lofty. Those still stuck in the mud speak of getting free from the mud. Your social media errand boy blind faith devotees appear to be spamming the internet with your drivel at the moment. It is very embarrassing to observe; which appears 100% reflective of your personal claims that you know better than Ajahn Brahmavamso &amp; the like. Have you considered disrobing &amp; returning to lay life selling used cars or mobile phones?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k9aecry">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17owo0t/new_essay_what_the_jhānas_actually_are/k9aecry/">Bhikkhu_Anigha</a><span class="when">2023-11-15 00:24 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Obviously, Bhikkhu Eḷamūga. Why would an individual such as my good self, free from doubts about the Dhamma, senior to you in the Dhamma, have conviction in your clutching at straws &amp; conviction in your Papanca Guru that struggles to speak a coherent sentence in the English language &amp; has no sati-sampajjana in relation to the body established? It appears the case your obsession with overcoming sensuality shows where your mind is in relation to the Dhamma. Minds that attain what is lofty speak of what is lofty. Those still stuck in the mud speak of getting free from the mud. Your social media errand boy blind faith devotees appear to be spamming the internet with your drivel at the moment. It is very embarrassing to observe; which appears 100% reflective of your personal claims that you know better than Ajahn Brahmavamso &amp; the like. Have you considered disrobing &amp; returning to lay life selling used cars or mobile phones?</p>
 </blockquote>
@@ -276,6 +322,8 @@
 <p>Unfortunately though, giving him the benefit of the doubt and assuming he has good intentions at least, it's the sort of thing that will lie latent within people no matter how many decades they've committed to his teachings and anything that resembles it (which is almost everything you find today).</p>
 <p>Thanks for indirectly helping me with my "social media errand boy" mission. Real lofty stuff you must be attaining.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -285,5 +333,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Would the monks from HH or Samanadipa consider creating a discord? · 2024</title>
   <meta name="description" content="Would the monks from HH or Samanadipa consider creating a discord?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>Would the monks from HH or Samanadipa consider creating a discord?</h2>
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1h22lue/would_the_monks_from_hh_or_samanadipa_consider/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>This way we can have some guidelines in discourse, a central area for resources, voice channels for sutta study, and maybe even regular Q&amp;A with the monastics. Plus the sense of community might be beneficial.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lzjmw1g">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1h22lue/would_the_monks_from_hh_or_samanadipa_consider/lzjmw1g/">Bhikkhu_Anigha</a><span class="when">2024-11-29 11:17 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>I don't think Discord is as suitable for serious Dhamma discussion. I find the instant messaging style can make one more inclined to type something quickly in the moment instead of deeply reflecting on the topic before posting a reply, and that might encourage pointless conversation and banter much more than the slower-paced, forum-style Reddit format.</p></div></div>
   
 </article>
@@ -42,5 +54,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

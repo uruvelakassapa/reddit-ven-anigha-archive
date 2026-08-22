@@ -6,6 +6,9 @@
   <title>Online forums · 2023</title>
   <meta name="description" content="Online forums">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,19 @@
       <h2>Online forums</h2>
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>Does anyone remember the Venrable’s video that talks about the redundancy of using online forums in discussing Dhamma . It was fairly recent I believe a few months ago</p></div></div>
-      <h3>Comments</h3>
-      <article class="comment teacher" id="c-k4j9tz0">
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
+      <article class="comment parent" id="c-k4abemi">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4abemi/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>That may be true, but overdoing sense deprivation before you are ready will end up being counter productive. A string played too tightly. Some people get caught up with what sounds good and go all in without properly taking stock if they truly are ready for whatever they think sounds worthwhile. This is a gradual path, with a steep drop after a long time of development. I’ve seen plenty of people overdoing things and ending up wasting their time or harming their progress and faith in the path.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k4j9tz0">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4j9tz0/">Bhikkhu_Anigha</a><span class="when">2023-10-12 08:05 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>That may be true, but overdoing sense deprivation before you are ready will end up being counter productive. A string played too tightly. Some people get caught up with what sounds good and go all in without properly taking stock if they truly are ready for whatever they think sounds worthwhile. This is a gradual path, with a steep drop after a long time of development. I’ve seen plenty of people overdoing things and ending up wasting their time or harming their progress and faith in the path.</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>That may be true, but overdoing sense deprivation before you are ready will end up being counter productive.</p>
 </blockquote>
@@ -49,11 +65,16 @@
 </blockquote></div></div>
   
 </article>
-<article class="comment teacher" id="c-k4l17hq">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4l17hq/">Bhikkhu_Anigha</a><span class="when">2023-10-12 16:50 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>What do you think of laypeople who are not ready to stop grasping at forms. Should they cut off their body parts with hot blades? Of course you don’t think so. That’s the point I’m trying to make. Of course we should strive to grasp at no forms, but being able to do this is a gradual development. I think some leeway in sense restraint is acceptable as someone is developing on the path. </p>
+</div>
+</article>
+<article class="comment parent" id="c-k4kggz0">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4kggz0/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>What do you think of laypeople who are not ready to stop grasping at forms. Should they cut off their body parts with hot blades? Of course you don’t think so. That’s the point I’m trying to make. Of course we should strive to grasp at no forms, but being able to do this is a gradual development. I think some leeway in sense restraint is acceptable as someone is developing on the path. </p>
 <p>You do agree that someone can’t usually go from living a life of indulgence to a life of perfect restrain overnight? Should such a person restrain themselves completely, anyway? Since it would be better to be burned by a hot blade than be unrestrained? Should someone clench their fists and grit their teeth in their restraint, or is a gradual approach to restraint more appropriate?</p>
 <p>I do agree that acquiring an injury is better than grasping, since risking a bad birth is much worse than a bodily injury. However, my point is that the development of sense restraint is part of the gradual training and it is counterproductive for someone to expect or even try to implement perfect restraint right away upon reading a sutta similar to the one you shared.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k4l17hq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4l17hq/">Bhikkhu_Anigha</a><span class="when">2023-10-12 16:50 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Of course we should strive to grasp at no forms, but being able to do this is a gradual development. I think some leeway in sense restraint is acceptable as someone is developing on the path. </p>
 </blockquote>
@@ -65,9 +86,14 @@
 <p>With the addiction to sensuality it's even worse of course, because there's a whole thicket of deeply ingrained views ensuring that it's not abandoned. Give yourself a chance not to swim against that torrent as hard as you can, and you're done. It may take you years and you may slip sometimes at first, but you can't <em>not</em> be giving it your 100%, especially as a layperson in modern times flooded with temptations, and still reach the other shore. That'd be wishful thinking, based on not even seeing the magnitude of one's predicament.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-k4l1re1">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4l1re1/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>I don’t disagree with this. But what would you say to an addict who tries to quit cold turkey and becomes severely distraught. Would you tell them to take a step back and approach the issue more gradually? Reduce the amount of addictive substances they are taking and spend more time developing the Eight Fold Path, etc, with the understanding that as one develops, their capacity to let go of the addiction will improve? But then you say there’s a risk of becoming complacent. So how does one strike that balance?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-k4mj834">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4mj834/">Bhikkhu_Anigha</a><span class="when">2023-10-12 22:18 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>I don’t disagree with this. But what would you say to an addict who tries to quit cold turkey and becomes severely distraught. Would you tell them to take a step back and approach the issue more gradually? Reduce the amount of addictive substances they are taking and spend more time developing the Eight Fold Path, etc, with the understanding that as one develops, their capacity to let go of the addiction will improve? But then you say there’s a risk of becoming complacent. So how does one strike that balance?</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>But what would you say to an addict who tries to quit cold turkey and becomes severely distraught. Would you tell them to take a step back and approach the issue more gradually?</p>
 </blockquote>
@@ -82,9 +108,14 @@
 <p>By turning up the sense of urgency to the max, and keeping the eyes on the actual prize, without falling for a prize that presents itself as more accessible. You won't get there right away for sure, but you will not fool yourself, and that's what matters most.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-k4mjows">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4mjows/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>Sure, I agree with developing a high sense of urgency. But I also think it’s counterproductive to expect or force a result that’s not ready to be had. A string played too tightly, as it were. So I say reduce as much as possible with all the urgency you can muster, and then practice other aspects of The Path so that your capacity to reduce increases further. Do you see a flaw in my approach?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-k4moepk">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4moepk/">Bhikkhu_Anigha</a><span class="when">2023-10-12 22:55 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>Sure, I agree with developing a high sense of urgency. But I also think it’s counterproductive to expect or force a result that’s not ready to be had. A string played too tightly, as it were. So I say reduce as much as possible with all the urgency you can muster, and then practice other aspects of The Path so that your capacity to reduce increases further. Do you see a flaw in my approach?</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>But I also think it’s counterproductive to expect or force a result that’s not ready to be had.</p>
 </blockquote>
@@ -101,9 +132,14 @@
 </blockquote></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-k4mrp7m">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4mrp7m/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>So how do you regard the sutta I posted earlier of a layperson who became a stream enterer while drinking alcohol regularly?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-k4nv06n">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4nv06n/">Bhikkhu_Anigha</a><span class="when">2023-10-13 04:03 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>So how do you regard the sutta I posted earlier of a layperson who became a stream enterer while drinking alcohol regularly?</p></div></div>
   <div class="body"><div class="md-body"><p>Yes, I anticipated that common argument. The thing people overlook with it is that all these stream enterer laypeople you read about in the Suttas became enlightened after <em>talking to the Buddha for the first time</em>. They didn't need to spend years building up their practice. That's not due to some magical cause, but because that's how much those people's mind's were already not <em>as</em> passionate for sensual pleasures, which is what determines how well it will "absorb the dye" of the Noble Truths. And if you read closely, you see exactly what the Buddha did before teaching them the core of the Dhamma.</p>
 <blockquote>
 <p>Then the Blessed One gave the householder Upāli progressive instruction, that is, talk on giving, talk on virtue, talk on the heavens; <strong>he explained the danger, degradation, and defilement in sensual pleasures and the blessing of renunciation. When he knew that the householder Upāli’s mind was ready, receptive, free from hindrances</strong>, elated, and confident, he expounded to him the teaching special to the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth with all marks removed would take dye evenly, so too, while the householder Upāli sat there, the spotless immaculate vision of the Dhamma arose in him: “All that is subject to arising is subject to cessation.”<br />
@@ -115,19 +151,29 @@
 <p>Lastly, the Sutta says this man was drinking <em>as</em> a stream enterer. One should not think that a stream enterer's external engagement with sensuality in any way compares to what's happening with a puthujjana internally.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-k4mv1ga">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4mv1ga/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>Okay so give me a concrete set of advice you’d give to someone who’s new to the Dhamma (doesn’t have perfect right view) and deeply addicted to something and not ready to drop it completely.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-k4nxxgg">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4nxxgg/">Bhikkhu_Anigha</a><span class="when">2023-10-13 04:30 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>Okay so give me a concrete set of advice you’d give to someone who’s new to the Dhamma (doesn’t have perfect right view) and deeply addicted to something and not ready to drop it completely.</p></div></div>
   <div class="body"><div class="md-body"><p>What people need to be told is the harsh truth: that the Dhamma is out of bounds for whoever is not willing to give up sensual pleasures. The majority of people will not be able to stomach this, and that's fine, because it means that at least sometime later on, if they ever decide to take up the practice, they will be clear about what it is and won't be cheating themselves with a watered down version of it. </p>
 <p>The people who reject the instruction forever when you tell them this will do so because they were not ready to hear it to begin with, and even then it's better for them to dismiss it and take up some other practice, and at least not forsake the undistorted recognition of Dhamma as Dhamma, whether they agree with it or not. The Buddha didn't teach the Dhamma for the majority—he even refused to teach at all until he saw a handful of beings with little dust in their eyes.</p>
 <p>If someone <em>is</em> able to stomach this, then the strength of their faculties will by itself take care of how quickly they will be able to give up their addiction. It's a much more uncomfortable route than believing the Dhamma is compatible with at least a bit of sensuality, and will involve uncertainty, remorse and internal conflicts more often than not, but that's the comparatively microscopic price to pay for actual liberation.</p>
 <p>Also, when people have mental breakdowns after trying too hard to be restrained, that because they were acting out of craving and impulsiveness, even if they were living naked under a bridge, eating once a month from a dumpster. Correct sense restraint (i.e., with discernment) will result in a lot of (necessary) internal discomfort, but breakdowns and similar would only happen when there's been craving involved. Thus, no amount of it can bring bad results if done properly.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-k4o0f7l">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4o0f7l/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>Is there a sutta that reinforces the notion that the Dhamma is out of bounds for someone who is not willing to give up sensual pleasures?</p>
+<p>Also, are you saying a drug addict who cannot give up their addict cannot make progress on the Dhamma path?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-k4s182n">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4s182n/">Bhikkhu_Anigha</a><span class="when">2023-10-13 23:54 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>Is there a sutta that reinforces the notion that the Dhamma is out of bounds for someone who is not willing to give up sensual pleasures?</p>
-<p>Also, are you saying a drug addict who cannot give up their addict cannot make progress on the Dhamma path?</p></div></div>
   <div class="body"><div class="md-body"><p>The Suttas are abundantly clear about this if one reads them honestly. A few specific examples that stand out:</p>
 <blockquote>
 <p>"Now these three similes occurred to me spontaneously, never heard before. Suppose there were a wet sappy piece of wood lying in water, and a man came with an upper fire-stick, thinking: ‘I shall light a fire, I shall produce heat.’ What do you think, Aggivessana? Could the man light a fire and produce heat by taking the upper fire-stick and rubbing it against the wet sappy piece of wood lying in the water?”</p>
@@ -155,12 +201,19 @@ would reap only weariness and disappointment.”</p>
 <p>And the addict has acquired something worse than the addiction itself if they develop a view that <em>excuses</em> their not giving it up as soon as possible. Even though the person without that view—who transparently acknowledges that no amount of the drug is OK—may initially stumble in their attempts at giving the drug up entirely, it's a completely different situation happening in their mind. As the Buddha said, wrong view is by far the most pernicious of all unwholesome things.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-k4s8yfh">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4s8yfh/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Hello Bhante, your responses are extremely lucid and make topics easy to understand while being extremely well supported by the Suttas. I'm very thankful you spend time here, your responses have been very beneficial to me.</p>
+<p>Since you appear to be quite knowledgeable about the suttas, I'd like to ask: since there are so many suttas to go through and study, how would you suggest one starts exploring them? I've only really read MN, and I don't even know most the suttas there well enough since there are already so many things there. Let alone the SN and AN which have hundreds of suttas. How should I begin familiarizing myself with the suttas? Have you followed a particular order or was it simply through researching by topic?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-k4ssau7">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/173xchs/online_forums/k4ssau7/">Bhikkhu_Anigha</a><span class="when">2023-10-14 03:36 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Hello Bhante, your responses are extremely lucid and make topics easy to understand while being extremely well supported by the Suttas. I'm very thankful you spend time here, your responses have been very beneficial to me.</p>
-<p>Since you appear to be quite knowledgeable about the suttas, I'd like to ask: since there are so many suttas to go through and study, how would you suggest one starts exploring them? I've only really read MN, and I don't even know most the suttas there well enough since there are already so many things there. Let alone the SN and AN which have hundreds of suttas. How should I begin familiarizing myself with the suttas? Have you followed a particular order or was it simply through researching by topic?</p></div></div>
   <div class="body"><div class="md-body"><p>If you don't mind, it might be good to create a new thread for this question. People might otherwise not come across the answer when it's buried deep in here.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -170,5 +223,7 @@ would reap only weariness and disappointment.”</p>
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

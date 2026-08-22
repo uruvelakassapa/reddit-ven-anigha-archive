@@ -6,6 +6,9 @@
   <title>Anagami and Arahants are in constant Jhana? · 2024</title>
   <meta name="description" content="Anagami and Arahants are in constant Jhana?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -58,10 +65,15 @@
 <p>The issue that one is now presented with is the task of reconciling this interpretation with the supposed implication that an anagami is capable of abiding in non-jhana as mentioned in <a href="https://suttacentral.net/an7.53" rel="noopener noreferrer" target="_blank">AN 7.53</a>. After reflecting on the language, one can notice that stating "whenever I want I can remain in the first, second, third, fourth jhana" doesn't imply that one's default abiding is a state that is <em>not</em> those four states.</p>
 <p>For example, humans can rightly state "whenever I want, I can enter and remain on the ground, in the underground, or above the ground"; these would be the only possible states of existence in space for a human with reference to the earth, but that doesn't mean that in stating this I'm existing in an area apart from such spaces.</p>
 <p>Anyways, I certainly need to stop my analysis here otherwise I'll go back into even more of my previous analysis-inclined mind, which would exist in contradiction to heedfulness.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kuodx6c">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bdeya6/anagami_and_arahants_are_in_constant_jhana/kuodx6c/">Bhikkhu_Anigha</a><span class="when">2024-03-13 13:57 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Arahants and Anāgāmis are most certainly not constantly in jhāna. If that were the case, the Suttas wouldn't exist, since<a href="https://suttacentral.net/sn36.11/en/bodhi?lang=en" rel="noopener noreferrer" target="_blank"> speech ceases in the very first jhāna</a></p>
 <p><a href="https://suttacentral.net/sn17.30" rel="noopener noreferrer" target="_blank">SN 17.30</a> also states that an Arahant can lose their "pleasant abiding in the present experience " (<em>diṭṭhadhammasukhavihāra</em>), an epithet for the jhānas, if things that obstruct solitude take up too much of their time.</p>
 <blockquote>
@@ -71,12 +83,15 @@
 <p>But if you don't protect the things that brought the citta to that "invincible" state, i.e., virtue, restraint, and seclusion, it would eventually fade away. An Arahant would not lose the first two, but they would on a daily basis be losing the third, on account of practical necessities like going for alms round.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kuv9mwr">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bdeya6/anagami_and_arahants_are_in_constant_jhana/kuv9mwr/">Bhikkhu_Anigha</a><span class="when">2024-03-14 17:58 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Thank you, that makes sense. My reasoning was imperfect because of not knowing of those jhana factors..</p>
+<article class="comment parent" id="c-kuoicqf">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bdeya6/anagami_and_arahants_are_in_constant_jhana/kuoicqf/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Thank you, that makes sense. My reasoning was imperfect because of not knowing of those jhana factors..</p>
 <p>However, that means my argument above was explicitly wrong. How is one to understand the statement that one with a mind of metta is not devoid of jhana, and its implication that a constant abiding in metta would imply an abiding that's not devoid of jhana?</p>
 <p>The only way in which that can be argued against is if I were to re-evaluate some axioms and perhaps see 'jhana' as an idiom rather than the absolute jhana. Metta appears to be a superior state to the jhanas from what I've gathered in the suttas, so perhaps it would make sense to state one is not devoid of jhana on account of one's development of the citta being already greater than some jhanas, whilst not having all the factors of that jhana.</p>
 <p>Either way, the concern here isn't too relevant anymore since the fear has subsided..</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kuv9mwr">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bdeya6/anagami_and_arahants_are_in_constant_jhana/kuv9mwr/">Bhikkhu_Anigha</a><span class="when">2024-03-14 17:58 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>The only way in which that can be argued against is if I were to re-evaluate some axioms and perhaps see 'jhana' as an idiom rather than the absolute jhana. </p>
 </blockquote>
@@ -84,17 +99,24 @@
 <p>Jhāna literally means "contemplation, reflection" (that is accompanied by pliability of mind and joy arising from burdenlessness), and not "ecstatic, mystical state of altered consciousness", as I pointed out in <a href="https://www.hillsidehermitage.org/what-the-jhanas-actually-are/" rel="noopener noreferrer" target="_blank">this essay.</a></p></div></div>
   
 </article>
-<article class="comment teacher" id="c-ldq835z">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bdeya6/anagami_and_arahants_are_in_constant_jhana/ldq835z/">Bhikkhu_Anigha</a><span class="when">2024-07-18 05:08 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-ldldwh1">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bdeya6/anagami_and_arahants_are_in_constant_jhana/ldldwh1/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>all volition and direct control can only happen through <em>mano</em>.</p>
 </blockquote>
 <p>Bhante, I am having difficulty reconciling this statement with the fact that volition/intention (cetana) is a factor of citta. See this <a href="https://www.reddit.com/r/HillsideHermitage/comments/17s4wti/comment/k9czock/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button" rel="noopener noreferrer" target="_blank">post</a> (<em>So since choice/kamma is always rooted in the citta (connected in Pali to cetana) they would be incapable of consenting.)</em></p>
 <p>Numerous times, it was also said that <em>mano</em> is in Mara's domain - so, by extension, the above would mean that "all volition and direct control" is also in Mara's control? Or, should I read this as follows: when choice/kamma (influenced by citta) occurs, all volition and direct control (verbal/body/mind action) can only happen through mano?  What am I missing?</p>
 <p>Thank you.</p>
 <p>P.S. Please let me know if this question should be a new post.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ldq835z">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bdeya6/anagami_and_arahants_are_in_constant_jhana/ldq835z/">Bhikkhu_Anigha</a><span class="when">2024-07-18 05:08 UTC</span></div>
   <div class="body"><div class="md-body"><p>These are different contexts. You can put it this way: <em>citta</em> starts out defiled owing to one's own past actions, but you cannot directly reverse that. What you do is, having restrained unwholesome acts by body and speech, you also restrain acts of sensuality and aversion by <em>mano</em> (<em>manosañcetana).</em> If you do that properly, with discernment and <em>yoniso manasikāra</em>, the <em>citta</em> is purified, and then what comes through <em>mano</em> no longer matters because it cannot induce defilements regardless of how much it used to. It then becomes clearer that that's also Māra's domain, whereas before it felt like <em>mano</em> is "me".</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -104,5 +126,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

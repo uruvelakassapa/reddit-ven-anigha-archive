@@ -6,6 +6,9 @@
   <title>Lack of samvega · 2023</title>
   <meta name="description" content="Lack of samvega">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>But all this time, I couldn't even establish precepts and sense restraint properly. And this isn't just a slip back here and there but the same sensuality that I delighted in early back, I keep delighting in it even now. In the retrospect, I have gained a lot of theoretical knowledge and wrapped my head somehow around it but honestly I am in the literal same place as I was. The mind is still just as easily disturbed.</p>
 <p>When I tried looking into what is wrong with me, I couldn't even discern my reasons behind why did I take up the dhamma practice. I can't even discern that I have an illness. It's not like I am not bothered by things - recently, something permanently affected one of my tooth and I was deeply affected and anxious due to it. Initially I was able to put this into the context that this is really the nature of suffering and that I really need to put efforts. It worked for sometime but then that thing got psychologized and it no more feels threatening. It doesn't help that certain good worldly things have been happening in my life that blind me even more. I feel hopeless that I will ever be able to take upon the practice as if my life depends even though I intellectually believe it very much does.</p>
 <p>In short, I have been fooling myself and don't have the samvega necessary for the practice. Is there anything I can do so that I constantly "feel" the weight of existence?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ke5jwi5">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/18mb67z/lack_of_samvega/ke5jwi5/">Bhikkhu_Anigha</a><span class="when">2023-12-20 07:47 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Firstly, you want to make sure that your reasons for taking up the practice are clear, because that's the only thing that will keep you going when inspiration fades (which will have to happen because that's just another arisen experience). Try to recognize what the Buddha meant with "being prey to suffering", which is the realization that left people back in the day no choice <em>but</em> to take up the practice. It's not the fact that you <em>are</em> suffering right now, nor that there are any specific events that you know will cause you suffering in the future. It's the fact that <em>if</em> something intensely unpleasant where to happen, you know that you will suffer on account of it, and that possibility looms greater the more pleasures and acquisitions the mind depends on (the higher you go, the harder you will eventually fall, when death comes at the very latest).</p>
 <p>Having said that, it's not about constantly <em>trying</em> to feel the weight of existence, because if that weight is being felt "on your own terms", meaning you are the one bringing it about, it will not be felt on the right level. It will be weighing on where you can carry it, so to speak, because you're fabricating it volitionally. </p>
 <p>You would "feel the weight" on the right level by recognizing how you <em>can't</em> get yourself to feel it all the time, and how the urge to practice comes and goes on its own. That will make you see how you can't even rely on your own moods to aid your practice, and that even that which is closest to you—your own mind—is actually doing it's own thing, not really for your best interest most of the time.</p>
@@ -48,5 +60,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

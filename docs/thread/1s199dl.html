@@ -6,6 +6,9 @@
   <title>Weakening Attachment · 2026</title>
   <meta name="description" content="Weakening Attachment">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1s199dl/weakening_attachment/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>Hello, I am fairly new In my practice trying to put my best in the understanding of the dhamma I keep noticing how an enormous amount of time, effort and energy goes into distractions. I see this as a huge hindrance. I could be directing this energy to a way more profitable strategy long term or just do nothing for the sake of practice, but the attachment is strong. Any real effort is unpleasant, because it's not easy, it doesn't matter how difficult it is, as long as it's not easy it is very unpleasant and provokes a ton of aversion towards the things not going smoothly. I find myself stopping very often to see what is it that the mind is afraid of, same way I stop to contemplate this hindrance of constantly being distracted, it creates a strong emotional response and clearly the mind is not ready to let go, even thinking about letting go of craving is unbearable, like a full stop into a wall. It seems like an abyss in which there cannot be anything good. At least that is the picture the mind is painting.</p>
 <p>I wonder "where do I start?", "why am I still so reluctant to restraint?". Could I be still lagging behind with the five precepts, is that a thing? I expected restraint to become easier as understanding of the dhamma deepens. What could I be doing wrong that is stopping progress?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-oc9mmfn">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1s199dl/weakening_attachment/oc9mmfn/">Sister_Medhini</a><span class="when">2026-03-24 20:11 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>I wonder "where do I start?", "why am I still so reluctant to restraint?"... What could I be doing wrong that is stopping progress?</p>
 </blockquote>
@@ -58,5 +70,7 @@ Therefore you need a very good reason (i.e. a goal that is more important than a
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

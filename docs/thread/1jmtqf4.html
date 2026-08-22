@@ -6,6 +6,9 @@
   <title>Confessing breaches of virtue- why and when? · 2025</title>
   <meta name="description" content="Confessing breaches of virtue- why and when?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,10 +41,15 @@
 <p>Speaking for myself, lately I’ve occasionally been indulging in wrong speech fueled by ill will, in regards to talking about politics— worldly things, bad idea I know— as well as in a strange and difficult coworker situation a little while ago. Out of fear, weakness and defensiveness. </p>
 <p>Nothing too extreme lately, although some past memories of especially shameful immoral behaviors have resurfaced. I’m currently letting them “weigh down on me” and basically just acknowledging, and enduring, the guilt. But since I’m not obsessing about them 24/7, and they don’t seem to be warping my perspective, I’m thinking of sparing my local priest a visit by me. </p>
 <p>I’d be interested to hear if you have any thoughts! Thank you!</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mkhupnl">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jmtqf4/confessing_breaches_of_virtue_why_and_when/mkhupnl/">Bhikkhu_Anigha</a><span class="when">2025-03-30 09:56 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Considering that in the latter case, one does still take virtue and the training seriously, it doesn’t seem like confessing every mistake is essential- except if it’s a grave offense- am I wrong?</p>
 </blockquote>
@@ -53,13 +65,16 @@
 <p>The right sense of shame comes out of a sense of dignity and having high aspirations, and it's not concerned with revolving around the past but with doing better starting right now. If there is a compulsion to turn the acknowledgement of a fault into self-hatred, that's a time to practice the same not giving in to unbeneficial pressures as usual, without covering up that which is true and factual (that you made a mistake and better not repeat it). That would be an example of the middle way.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mkuf4aq">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jmtqf4/confessing_breaches_of_virtue_why_and_when/mkuf4aq/">Bhikkhu_Anigha</a><span class="when">2025-04-01 12:22 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to craveminerals:</strong><br><div class="md-body"><p>Thank you Bhante! You have as always given me plenty to reflect upon. </p>
+<article class="comment parent" id="c-mkigfoi">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jmtqf4/confessing_breaches_of_virtue_why_and_when/mkigfoi/">craveminerals</a></div>
+  <div class="body"><div class="md-body"><p>Thank you Bhante! You have as always given me plenty to reflect upon. </p>
 <p>Does it matter much who I confess to? Apart from calling the local priest again I thought about a virtuous friend, albeit not a Buddhist, or a counselor, or even typing it out online, such as in this forum. But I suppose it’s preferable if it’s in person and maybe even someone who can hold you accountable? </p>
 <p>And how about on the days when I keep the 8 precepts, like on Uposatha day, if I for example eat more than needed and indulge in some form of entertainment, should I confess that to somebody as well?<br />
 When I’ve failed on such days I’ve felt guilty, known it’s a fault and a weakness every time, but I just move on and aim to do better next time. But I would think it’d be better for morale and accountability if I confessed that as well.</p>
 <p>(I’m now realizing how much ‘easier’ it is to simply remain blameless and not have to go through all of this guilt and confessions!)</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mkuf4aq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jmtqf4/confessing_breaches_of_virtue_why_and_when/mkuf4aq/">Bhikkhu_Anigha</a><span class="when">2025-04-01 12:22 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>But I suppose it’s preferable if it’s in person and maybe even someone who can hold you accountable?</p>
 </blockquote>
@@ -71,6 +86,8 @@ When I’ve failed on such days I’ve felt guilty, known it’s a fault and a w
 <p>As for entertainment, yes, that's worth confessing because it's categorically breaking a precept you've undertaken even if only that one day (and, as I wrote, that heightened restraint should naturally bleed into your whole week if you did it rightly).</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -79,5 +96,7 @@ When I’ve failed on such days I’ve felt guilty, known it’s a fault and a w
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Seclusion · 2025</title>
   <meta name="description" content="Seclusion">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -35,10 +42,15 @@
 <p>How did the monks go about it in the Buddha's time? Because in my experience as long as I'm restrained in the precepts and disengaged these things end up coming up on their own. What was their practice? Because if it was about being engaged while trying to be virtuous in the begining they could have remained in lay life yet they ordained yet that monk in <a href="https://suttacentral.net/an9.3" rel="noopener noreferrer" target="_blank">AN 9.3</a> had a bad time just in an afternoon of seclusion and in another sutta (<a href="https://suttacentral.net/an10.99" rel="noopener noreferrer" target="_blank">AN 10.99</a>) the Buddha tells another monk to live with the Sangha and not go into seclusion and mentions that seclusion is for pretty advanced practitioners.</p>
 <p>These are doubts that I have had for a while, hopefully I can get some clarification, I just want to know if I'm on the right track because I'm practicing like this and I see results but then I also see what I'm going against and I'm not sure if I'm doing it the proper way or I'm trying to skip ahead.</p>
 <p>Thank you in advance.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-nbg5mny">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n1r8ir/seclusion/nbg5mny/">Bhikkhu_Anigha</a><span class="when">2025-08-30 06:06 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>And then I might contemplate how I really want to practice and keep the precepts and my mind starts boiling and it gets to a point where I back off because I know who wins the contest.</p>
 </blockquote>
@@ -49,15 +61,20 @@
 <p>No, far from it. Being accomplished in the precepts means that keeping them has become your natural, constant state and no longer requires active effort. It doesn't mean that you will never break them under any <em>unforeseen</em> circumstance.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-nbjp7eq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n1r8ir/seclusion/nbjp7eq/">Naxglazar</a></div>
+  <div class="body"><div class="md-body"><p>I have a hard time remembering precisely but I think what happened was that aversion started coming up while I was walking back and forth and then at some point I contemplated that I wanted to keep the precepts and practice which made it increase "to a boil". Today I tried doing that, contemplating keeping the precepts and practicing and there was some resistance I believe, and also in the past I've thought about keeping the precepts for life and I did feel some apprehension come up. But right now there is no problem contemplating the same I think, and as a baseline I have the intention of keeping them. </p>
+<p>Thank you Bhante 🙏</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-nc1k30q">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n1r8ir/seclusion/nc1k30q/">Bhikkhu_Anigha</a><span class="when">2025-09-02 16:57 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Naxglazar:</strong><br><div class="md-body"><p>I have a hard time remembering precisely but I think what happened was that aversion started coming up while I was walking back and forth and then at some point I contemplated that I wanted to keep the precepts and practice which made it increase "to a boil". Today I tried doing that, contemplating keeping the precepts and practicing and there was some resistance I believe, and also in the past I've thought about keeping the precepts for life and I did feel some apprehension come up. But right now there is no problem contemplating the same I think, and as a baseline I have the intention of keeping them. </p>
-<p>Thank you Bhante 🙏</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>But right now there is no problem contemplating the same I think, and as a baseline I have the intention of keeping them.</p>
 </blockquote>
 <p>Then you need to guard that better state of mind by noticing what are the things that make it liable to "boiling" (anything based on sensual desire or annoyance/irritation) and not engaging with those. If it ends up boiling, it's because you've already been raising the temperature for a while somehow. It can't get to that point suddenly.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -67,5 +84,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

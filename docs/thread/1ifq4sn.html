@@ -6,6 +6,9 @@
   <title>A father&#x27;s perspective · 2025</title>
   <meta name="description" content="A father&#x27;s perspective">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -41,10 +48,15 @@
 <p>So sometimes I think I need to leave my family once the kids are mature. If I am not entangled in their everyday lives then I do not see the liability to suffer on their account arising. But isn't leaving them a form of deprivation/denial/self-mortification? Clearly I am trying to avoid the possibility of unpleasantness arising from their company. Giving up family seems "management". </p>
 <p>But then what does giving up family, friends and relationships mean? Maybe it is about not engaging in worldly actions on account of them. If one is not obligated then one does not have to take up worldly matters - otherwise, abandoning company is an escape, as in abandoning responsibility towards them. My motive is clear to me only. So whatever I choose, only I know whether it is right or not.</p>
 <p>Thoughts and questions are welcome</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mavpbgu">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ifq4sn/a_fathers_perspective/mavpbgu/">Bhikkhu_Anigha</a><span class="when">2025-02-04 06:07 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Dharma and kids are my only two priorities. Whatever worldly engagements arise, arise mostly on account of kids; a lot of my daily life revolves around them.</p>
 </blockquote>
@@ -73,5 +85,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

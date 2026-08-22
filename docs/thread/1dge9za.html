@@ -6,6 +6,9 @@
   <title>Extent of precepts leading to sense restraint · 2024</title>
   <meta name="description" content="Extent of precepts leading to sense restraint">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -37,10 +44,15 @@
 <p>And how, bhikkhus, is there restraint? There are, bhikkhus, forms cognizable by the eye that are desirable, lovely, agreeable, pleasing, sensually enticing, tantalizing. If a bhikkhu does not seek delight in them, does not welcome them, and does not remain holding to them, he should understand this thus: ‘I am not declining away from wholesome states. For this has been called nondecline by the Blessed One.’</p>
 </blockquote>
 <p>Or does understanding "I am not declining away from wholesome" imply that one needs right view to be able to apply (or try to understand) any of this?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-l8q8mgt">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dge9za/extent_of_precepts_leading_to_sense_restraint/l8q8mgt/">Bhikkhu_Anigha</a><span class="when">2024-06-15 14:33 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Can you clarify what the extent of the 8 precepts that needs to be fulfilled is that would "make it worthwhile" to think about how to and apply sense restraint.</p>
 </blockquote>
@@ -48,15 +60,20 @@
 <p>As I mentioned in another post as well, in the beginning there's no problem with "blindly" avoiding seeing or hearing things if it helps you keep the precepts. It's just that one shouldn't fall into a view that that alone is sense restraint, which does require understanding (awareness of the present mental state and how what you choose to deliberately attend to or engage with will influence it).</p></div></div>
   
 </article>
+<article class="comment parent" id="c-l8xq9zz">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dge9za/extent_of_precepts_leading_to_sense_restraint/l8xq9zz/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Bhante,</p>
+<p>No matter how I try and think about it, avoid it, limit it, or distract myself from it, I can not seem to refrain from watching entertainment. I know that it's coming from a place of wanting to be tranquilized and zoned out, not have to attend to uncomfortable feelings, and seeing this activity as something relaxing that I "need" after a lot of work. I also struggle with moderation in eating. I can't seem to tell myself no when it comes to these things. I have a much easier time maintaining celibacy than I do staying away from mindless entertainment and enjoyable foods. Is the best way to get through this to just continue trying and observing my mind and moods before, during, and after I mess up? What else can I do? It feels helpless and I can see how strongly addicted I am to these activities. I know that I make excuses and give permission to myself when craving arises, and it's often at that point that it's like my mind has already stepped off the cliff and there's no going back. It's rare that I can decide in my mind that I will indulge, and then talk myself out of it. What is far more common is deciding that I will refrain, but then turning around and talking myself into indulging in watching tv shows and eating for pleasure.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-l8zc139">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dge9za/extent_of_precepts_leading_to_sense_restraint/l8zc139/">Bhikkhu_Anigha</a><span class="when">2024-06-17 10:22 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Bhante,</p>
-<p>No matter how I try and think about it, avoid it, limit it, or distract myself from it, I can not seem to refrain from watching entertainment. I know that it's coming from a place of wanting to be tranquilized and zoned out, not have to attend to uncomfortable feelings, and seeing this activity as something relaxing that I "need" after a lot of work. I also struggle with moderation in eating. I can't seem to tell myself no when it comes to these things. I have a much easier time maintaining celibacy than I do staying away from mindless entertainment and enjoyable foods. Is the best way to get through this to just continue trying and observing my mind and moods before, during, and after I mess up? What else can I do? It feels helpless and I can see how strongly addicted I am to these activities. I know that I make excuses and give permission to myself when craving arises, and it's often at that point that it's like my mind has already stepped off the cliff and there's no going back. It's rare that I can decide in my mind that I will indulge, and then talk myself out of it. What is far more common is deciding that I will refrain, but then turning around and talking myself into indulging in watching tv shows and eating for pleasure.</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>and seeing this activity as something relaxing that I "need" after a lot of work.</p>
 </blockquote>
 <p>You probably need to check what attitudes you're cultivating  and what sort of environment you find yourself in while you're working. It sounds like your mind has already been inclining in the direction of the unwholesome during that time, and so you end up with a runaway train by the end of it. The pull towards unwholesome actions can only be that strong if you've already been doing other unwholesome actions beforehand, even mentally.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -66,5 +83,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

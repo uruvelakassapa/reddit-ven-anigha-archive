@@ -6,6 +6,9 @@
   <title>&quot;True&quot; Sotapatti vs. &quot;False&quot; Sotapatti: How to Distinguish Between Them? · 2025</title>
   <meta name="description" content="&quot;True&quot; Sotapatti vs. &quot;False&quot; Sotapatti: How to Distinguish Between Them?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -35,10 +42,15 @@
 <p>Of course, I could be wrong in the above insight (though it would be hard to convince me otherwise right now). I don't have that big of an issue in changing my views. My current views are not exactly the subject of this post, I was just mentioning them to provide context regarding how I arrived at the main questions for this post:</p>
 <p>How does one ensure that one <em>is</em> indeed an ariya, and not a "fake" one? What are the chief characteristics of a "true" sotapanna as opposed to a "fake" sotapanna? What qualities can I develop - as a puthujjana - such that I can ensure that I do not deceive myself in regards to my actual status?</p>
 <p>Edit: changed a few sentences to be more precise.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-msu8i4h">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kobp2e/true_sotapatti_vs_false_sotapatti_how_to/msu8i4h/">Bhikkhu_Anigha</a><span class="when">2025-05-17 19:21 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>all of them, on one level or another, regard <em>craving</em> as synonymous with <em>pressure</em> (details may vary about what <em>kind</em> of pressure they regard as craving).</p>
 </blockquote>
@@ -66,7 +78,6 @@
 </article>
 <article class="comment teacher" id="c-mt2symw">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kobp2e/true_sotapatti_vs_false_sotapatti_how_to/mt2symw/">Sister_Medhini</a><span class="when">2025-05-19 05:44 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>What qualities can I develop - as a puthujjana - such that I can ensure that I do not deceive myself in regards to my actual status?</p>
 </blockquote>
@@ -82,5 +93,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

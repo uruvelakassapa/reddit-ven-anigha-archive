@@ -6,6 +6,9 @@
   <title>Is experiencing less suffering the yardstick to judge the efficiency of a buddhist method ? · 2024</title>
   <meta name="description" content="Is experiencing less suffering the yardstick to judge the efficiency of a buddhist method ?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>If I'm not mistaken it's when we experience less suffering thanks to implementing the Buddha's teaching that we can accept it without a doubt. If such is a case, how can we dismiss other buddhist teachings or even non buddhist teachings as dead-ends even though according to numerous autobiographies and testimonies those others methods (Dzogchen/Mahamudra/Advaita) produce an extinction of suffering ? For reference, <a href="https://www.reddit.com/r/HillsideHermitage/comments/1agagmv/possible_explanation_on_how_meditation_methods/" rel="noopener noreferrer" target="_blank">this gem of an answer from Bhikkhu Anigha</a> answers partly this question but doesn't address the suffering aspect which is why I'm posting this.</p>
 <p>&#x200B;</p>
 <p>&#x200B;</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kxv2ase">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bu9apb/is_experiencing_less_suffering_the_yardstick_to/kxv2ase/">Bhikkhu_Anigha</a><span class="when">2024-04-03 15:05 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>No, "experiencing less suffering" is practically speaking not an accurate measure, because that can be achieved through various other means, including other religions, which from a Buddhist point of view are based upon wrong view.</p>
 <p>The way to tell that a teaching works is that it pushes you to first and foremost acknowledge your liability to suffering <em>more</em> instead of less, and frees you from the whole "size" of that liability even while it's there, rather than the opposite way most teachings go of encouraging you to <em>ignore</em> the fact that you're liable to suffering, uncertainty and disappointment by getting absorbed on something that you have greater control over, and then helping you cover up the issue even more by layering various poetic concepts and mystical notions over it.</p>
 <p>For example, a person would be free from attachment towards things they depend on and not suffer if something happens to them because "in ultimate reality" there are no "things" for them anymore, but just a heap of <a href="https://en.wikipedia.org/wiki/Kalapa_(atomism)" rel="noopener noreferrer" target="_blank"><em>kalapas</em></a> *(*or whatever other fancy metaphysical idea their individual approach rests upon), whereas the Buddha's teaching would force you to acknowledge the significance of the things you hold dear and free you from all delight and attachment as well as lamentation and despair <em>while their significance remains.</em> It's like you're no longer frightened by a scary figure because you put a mask over it, instead of <em>actually</em> having become fearless.</p>
@@ -51,5 +63,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

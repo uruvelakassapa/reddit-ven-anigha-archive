@@ -6,6 +6,9 @@
   <title>Anonymity, privacy and taking things personally · 2025</title>
   <meta name="description" content="Anonymity, privacy and taking things personally">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -59,10 +66,15 @@ I might be pushing it with this last reflection, there might be wrong views cree
 <p>By seeing these options spelled out, a question arises: is the subject worth this level of analysis? Imagining choosing each of these options, I feel a different sense of involvement with "things". "Things" being the risks discussed above, but also the impression that I can give to others, how their behaviour could be affected, the positive example (??) that I can give to others, a heightened sense of shame, and its impact on the fear of wrongdoing. These reactions seem to point to something worth taking a decision about, even if tentative or temporary.</p>
 <p>I've already found it quite useful to write my thoughts with the concrete idea of sharing them in the community. In a meta sense, this post is already an exercise in scraping off some of the protective layer against the scrutiny of others.</p>
 <p>Perspectives and counterpoints are welcome. I'm particularly interested in the views of the monastics, also for their experience of receiving a second given name and dealing with two identities, so to speak. Thank you _</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mqopp9t">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kduct1/anonymity_privacy_and_taking_things_personally/mqopp9t/">Bhikkhu_Anigha</a><span class="when">2025-05-05 10:51 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>In and of itself, a wish for anonymity would be at best a secondary symptom of the more fundamental unresolved defilements and mistaken assumptions of ownership. And like any other symptom—such as a strong aversion to physical nakedness or an inability to bear acute physical discomfort—singling it out as something to deal with is likely to distract one from the actual illness. The tendency to single out such symptoms as worth dealing with is itself born out of the illness (lack of clarity about "the right level" where craving manifests).</p>
 <p>Whenever you decide to focus on something of that nature, you immediately beg the question of why you would not choose to go "against the grain" in regard to a whole host of other things. The decision could only ever be arbitrary. And that's exactly how you end up going down the rabbit whole of self-mortification.</p>
 <p>Granted, anonymity can be used for nefarious purposes such as intentional deception, but that's a feature with almost anything, including physical clothing.</p>
@@ -77,5 +89,7 @@ I might be pushing it with this last reflection, there might be wrong views cree
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

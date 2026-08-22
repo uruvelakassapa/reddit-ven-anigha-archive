@@ -6,6 +6,9 @@
   <title>For Ven. Anigha.  What is Pali/Sanskrit term for &quot;Context&quot;? · 2024</title>
   <meta name="description" content="For Ven. Anigha.  What is Pali/Sanskrit term for &quot;Context&quot;?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,10 +38,15 @@
 <p>Is there a pali or sanskrit word? Is there such a concept in the suttas,  Abhidhamma, <em>Abhidharma-kośa</em>, or commentaries (<em>translated to English</em>)?</p>
 <p>Is it <em>avijñaptirūpa</em>?  If "context" isn't a conscious mental state, is it citta-viprayukta-saṃskāra?  Is "context" a specific prāpti  of Sabhāgatā of specific concept  of context?</p>
 <p>Thank you!</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-l9pvnbp">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dlg93a/for_ven_anigha_what_is_palisanskrit_term_for/l9pvnbp/">Bhikkhu_Anigha</a><span class="when">2024-06-22 04:00 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>There's more than one word that semantically corresponds to it, although it isn't a literal rendering of any particular word.</p>
 <p>All the derivatives of <em>anu + pass</em> (<em>anupassī</em> as in satipaṭṭhāna; <em>samanupassanā</em>; <em>samanupassati</em>) are the first that come to mind. A lot of the time that's interpreted as "observation", but you cannot "observe" the 4 Noble Truths in satipaṭṭhāna as the Buddha instructs in the way you would observe a chair. They are contexts.</p>
 <p>"Context" would also correspond to <em>saññā</em> in some cases where it's not being strictly used as one of the aggregates. When the Buddha uses terms like <em>pahānasaññā, virāgasaññā</em> and <em>sabbaloke anabhiratasaññā</em>, he's talking about contexts, just as when he says <em>anicce dukkha</em>, <em>anattasaññā</em>, etc.</p></div></div>
@@ -48,5 +60,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

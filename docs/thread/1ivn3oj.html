@@ -6,6 +6,9 @@
   <title>Seeking Guidance: Stay Close to Family or Embrace Solitude in a Monastery? · 2025</title>
   <meta name="description" content="Seeking Guidance: Stay Close to Family or Embrace Solitude in a Monastery?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -36,10 +43,15 @@
 <li>Or is joining a monastery the right path, even though it might not be the ideal environment if my health worsens?</li>
 </ul>
 <p>I'm relatively new to the practice, so any advice or shared experiences would be incredibly valuable. Thanks for reading, and I look forward to your thoughts!</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-meh9xwr">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ivn3oj/seeking_guidance_stay_close_to_family_or_embrace/meh9xwr/">Bhikkhu_Anigha</a><span class="when">2025-02-24 06:43 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>I would advise making sure you are already fully committed to the practice (keeping the eight precepts, being withdrawn from and not delighting in sensuality and worldly pleasures) before you commit to ordaining. Being committed to that unconditionally is what matters; "staring at the wall" is not necessarily useful.</p>
 <p>If you can't do that, it would show that you're not taking enough responsibility for your practice and are expecting the monastery environment to motivate you to do it. The monastery is not supposed to make you do what you otherwise wouldn't do; it's supposed to support you in doing what you would be doing anyway.</p></div></div>
   
@@ -52,5 +64,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Some questions regarding my practice · 2025</title>
   <meta name="description" content="Some questions regarding my practice">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -50,10 +57,15 @@
 <p>I had a wrong notion that I had to endure at the correct level, and if I did, I would make me free faster... So I would try to endure the sensuality when it is too unsafe to do so. So now I decided to take a less immediate approach to protect the precepts. Like changing environments, predicting where my behaviours are headed, and questioning my motives. So currently I have no immediate experiential resolution to the suffering.</p>
 <p>That should be everything.</p>
 <p>​Thanks for reading.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-npa25et">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1oxgkwp/some_questions_regarding_my_practice/npa25et/">Bhikkhu_Anigha</a><span class="when">2025-11-17 06:45 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>​&gt; But now I am trying to do nothing at all, and I am not sure what to attend to. I often lose context, especially when I get distracted; I'll suddenly find myself already scrolling.</p>
 <p>That might be one of the major issues. Don't try to "do nothing at all," rather focus on ensuring that whatever you do isn't against the precepts. Acting in unwholesome ways is how you truly lose the context, not simply forgetting to think about it for a period of time.</p>
 <blockquote>
@@ -87,9 +99,9 @@
 <p>Deliberately exposing yourself to things you’re lustful for is always a mistake. Even if you don’t act on the lust completely, it’s not a success. You'd keep revolving around the desire and giving it room to linger just by exposing yourself intentionally as some sort of "challenge."</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-nq699mg">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1oxgkwp/some_questions_regarding_my_practice/nq699mg/">Bhikkhu_Anigha</a><span class="when">2025-11-22 10:44 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Consistent-Buy5570:</strong><br><div class="md-body"><p>Hi Bhante,</p>
+<article class="comment parent" id="c-npqtgcy">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1oxgkwp/some_questions_regarding_my_practice/npqtgcy/">Consistent-Buy5570</a></div>
+  <div class="body"><div class="md-body"><p>Hi Bhante,</p>
 <p>This is very helpful. Thank you for answering. I have a few more questions:</p>
 <blockquote>
 <p>That might be one of the major issues. Don't try to "do nothing at all," rather focus on ensuring that whatever you do isn't against the precepts. Acting in unwholesome ways is how you truly lose the context, not simply forgetting to think about it for a period of time.</p>
@@ -107,6 +119,9 @@
 </blockquote>
 <p>Here Bhante, when I refer to "endure sensuality when its unsafe to do so" I refer to not changing environments, such that something like masturbation won't happen rather than purposefully doing something sensual to see if I can bear it or not.</p>
 <p>Many blessings.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-nq699mg">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1oxgkwp/some_questions_regarding_my_practice/nq699mg/">Bhikkhu_Anigha</a><span class="when">2025-11-22 10:44 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>It is just too ambiguos for me to not go a bit crazy or double down a lot into sensuality or distraction, because it feels like a big abyss.</p>
 </blockquote>
@@ -123,6 +138,8 @@
 <p>Even if you don't end up acting sensually through masturbation or similar, deliberately exposing yourself to what you're lustful for is already a lustful act. Willingly subjecting yourself to peril implies not seeing it as peril.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -131,5 +148,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>The Ultimate Choice · 2026</title>
   <meta name="description" content="The Ultimate Choice">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,10 +41,15 @@
 <p>If my understanding is true, from the Buddha’s point of view, the best choice is renunciation. That trading a lesser happiness for a greater happiness is a noble trade. However, I feel conflicted about this choice, and after some intense probing, I realize that the difficulty in this decision lies not in giving up the pursuit of the degree, but in how my family and relatives will respond to my decision. I know I will not use this degree to get a job, for if I graduate, my job will be to seek true happiness. So, the choice here is not about renouncing the degree but about renouncing the need to be understood and renouncing the fear of disappointing others. This means that if I choose to delay my ordination, I’ll have missed out on an opportunity to perfect renunciation. Am I contemplating this in the right way? That even if I do live to be ordained two years from now, I’d still have to perfect the quality of renunciation, and in making the choice to wait to be ordained, I’ll have sown the seed of being liable to what others think of me. On the other hand, I am not one who abandons pursuits lightly, and I recognize the value of education and its benefits for our understanding of the world. If I wait to be ordained, I can still practice at Metta Forest Monastery on the weekends, giving me the best of both worlds while I wait to go forth. But isn’t this a heedless thought? If I were to be diagnosed with a terminal illness tomorrow and told that I had a year left to live, the choice would be clear. If my relatives and family were all gone, I’d drop everything and ordain. So it seems that the root of all of this indecision is a fear of disappointing my family and relatives. Ultimately, only I can make this decision, so my purpose in writing this letter is not to ask you to make it for me, but to gain your perspective on my mind’s contemplations. Thank you once again, and may you be well.</p>
 <p>— Alex </p>
 <p>P.S. Does samanadipa hermitage or hillside hermitage still ordain monks? </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-oelykr5">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1sdos59/the_ultimate_choice/oelykr5/">Bhikkhu_Anigha</a><span class="when">2026-04-06 13:22 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>This means that if I choose to delay my ordination, I’ll have missed out on an opportunity to perfect renunciation. </p>
 </blockquote>
@@ -58,5 +70,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Describing the experience of reality without the self · 2025</title>
   <meta name="description" content="Describing the experience of reality without the self">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,20 +38,28 @@
 <p>For example if I say "all things in my experience are X" I'm assuming an external subject who considers himself not-X .</p>
 <p>It seems to me that there is no way to describe the entirety of my experience without making a step back and observing my experience from a real or hypotetical external point of view. The very act of starting to describe reality in any way seems to create the wrong view of an external observer.</p>
 <p>Should I just "stop thinking" then?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-naxpt4c">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n0fmdu/describing_the_experience_of_reality_without_the/naxpt4c/">Bhikkhu_Anigha</a><span class="when">2025-08-27 12:26 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The sense of self is not there because you think about or describe your experience wrongly. It's there because of the passion that underlies that experience. So, if you want to "undo" or even diminish the self, you do so by starving out your desires through not acting out of them, not by trying to ferret out what the "real," supposedly ignorance-free structure of experience is like.</p>
 <p>Anything you might intellectually land on while the passion underneath remains will have no bearing on your actual sense of self, which you can indirectly gauge by seeing how much fear and resistance there is towards losing things you hold as dear and essential.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-ncomgu0">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n0fmdu/describing_the_experience_of_reality_without_the/ncomgu0/">Bhikkhu_Anigha</a><span class="when">2025-09-06 04:52 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Pretty_Struggle_2777:</strong><br><div class="md-body"><p>Thanks for your answer, Bhante.</p>
+<article class="comment parent" id="c-nck2ofl">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n0fmdu/describing_the_experience_of_reality_without_the/nck2ofl/">Pretty_Struggle_2777</a></div>
+  <div class="body"><div class="md-body"><p>Thanks for your answer, Bhante.</p>
 <p>I understand that our citta is considered almost like an external entity, there's <em>me</em> and <em>my citta</em>, and <em>I</em> am trying to tame <em>my citta</em>, like we are two separate subjects in a constant fight.</p>
 <p>As I understand (correct me if I'm wrong), the <em>passion</em> itself is in the <em>citta,</em> therefore I can't control it, at least not directly, while my only responsability is to make a choice by saying "yes" or "no" to the options offered by the citta, like a sort of switch that stands between the citta and the sense objects.</p>
 <p>By doing this, isn't one reinforcing the idea of a hyper-controlling self which constantly watches and controls everything from above? Or is it a wrong way to see it?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ncomgu0">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n0fmdu/describing_the_experience_of_reality_without_the/ncomgu0/">Bhikkhu_Anigha</a><span class="when">2025-09-06 04:52 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>As I understand (correct me if I'm wrong), the passion itself is in the citta, therefore I can't control it, at least not directly, while my only responsability is to make a choice by saying "yes" or "no" to the options offered by the citta, like a sort of switch that stands between the citta and the sense objects.</p>
 </blockquote>
@@ -56,6 +71,8 @@
 <p>In other words, the assumption of control is due to the untamed citta, not due to some wrong intellectual notion.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -64,5 +81,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

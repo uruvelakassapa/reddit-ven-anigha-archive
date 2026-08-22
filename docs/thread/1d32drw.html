@@ -6,6 +6,9 @@
   <title>Sense restraint, how hard to push, what about when I mess up? · 2024</title>
   <meta name="description" content="Sense restraint, how hard to push, what about when I mess up?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>Lately my Buddhist practice has evolved from very meditation-centric, to now including other aspects of the path. For example, I have been practicing more generosity, kindness, metta, dhana at the monestary, and... sense restraint. I find that I'm very critical of myself when it comes to practicing sense restraint, because in my way of thinking, it's a practice of NOT doing certain things. Whereas, metta, dhana, being kind to others and that sort of thing is a practice of remembering to do things, and even if I just do a little bit I reflect on the goodness of it and that makes me feel good. <br />
 But when it comes to sense restraint, I feel like I'm constantly second guessing my resolve. I determine to refrain from things, the pressure of boredom or craving gets too strong to bare, and I give in sometimes. Then I feel pretty terrible. I feel like I'm now caught in a pattern similar to addiction, and I don't think my approach has been very healthy or helpful to me. Can someone please take the time to explain to me an example of a gradual training in sense restraint? </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-l64x7pj">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/l64x7pj/">Bhikkhu_Anigha</a><span class="when">2024-05-29 05:39 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Unless you see no further work to do in regard to the 8 precepts, you shouldn't be worrying about sense restraint to begin with:</p>
 <blockquote>
 <p><em>When the bhikkhu is virtuous</em>, the Realized One guides him further: ‘Come, bhikkhu, guard your sense doors.</p>
@@ -40,10 +52,13 @@ But when it comes to sense restraint, I feel like I'm constantly second guessing
 <p>These two talks might be useful: <a href="https://www.youtube.com/watch?v=AdYTDYZv7kw&amp;pp=ygUldW5sYXBzaW5nIG9mIHNlbnNlIHJlc3RyYWludCBoaWxsc2lkZQ%3D%3D" rel="noopener noreferrer" target="_blank">Why you keep losing sense restraint?</a>, <a href="https://www.youtube.com/watch?v=SZ0JKWqRTho&amp;pp=ygUldW5sYXBzaW5nIG9mIHNlbnNlIHJlc3RyYWludCBoaWxsc2lkZQ%3D%3D" rel="noopener noreferrer" target="_blank">The Unlapsing of Your Self Restraint</a>.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-l67byrt">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/l67byrt/">craveminerals</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, if I may ask- are you saying that one should master the 8 precepts before attempting sense restraint? If so, why?  </p>
+<p>Thank you!</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-l6aboql">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/l6aboql/">Bhikkhu_Anigha</a><span class="when">2024-05-30 05:36 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to craveminerals:</strong><br><div class="md-body"><p>Bhante, if I may ask- are you saying that one should master the 8 precepts before attempting sense restraint? If so, why?  </p>
-<p>Thank you!</p></div></div>
   <div class="body"><div class="md-body"><p>I referred to the reason in <a href="https://www.hillsidehermitage.org/restraining-the-senses/#" rel="noopener noreferrer" target="_blank">Restraining the Senses</a>:</p>
 <blockquote>
 <p>If you have not—as a prerequisite, not even as a guarantee—indefinitely abandoned the possibility to break these precepts in the future and any openness to acting unskillfully by body and speech<a href="https://www.hillsidehermitage.org/restraining-the-senses/#5784f14f-3600-4f3e-8e7a-c9202dc77d14" rel="noopener noreferrer" target="_blank">^(15)</a>, you <em>will</em> be grasping at the signs and features of things that induce unwholesome states on some level, whether you realize it or not. Your intentions for the future, as in the actions that you are at least <em>open</em> to doing at some undefined point later on, influence every moment of your present, no matter if you’re not planning or dwelling on them at all.</p>
@@ -51,29 +66,46 @@ But when it comes to sense restraint, I feel like I'm constantly second guessing
 <p>That's why in all Gradual Training expositions, the two are always in that order. And in <a href="https://suttacentral.net/dn10" rel="noopener noreferrer" target="_blank">DN 10</a>, the precepts are within the aggregate of virtue, while sense restraint is placed in the aggregate of <em>samādhi</em>.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-l67ymod">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/l67ymod/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Aren't the 8 precepts part of training in sense restraint?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-l6acr7r">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/l6acr7r/">Bhikkhu_Anigha</a><span class="when">2024-05-30 05:48 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Aren't the 8 precepts part of training in sense restraint?</p></div></div>
   <div class="body"><div class="md-body"><p>You could regard them as closely related, but technically sense restraint pertains to a subtler level of subduing unwholesome states (see the reply to u/craveminerals below).</p>
 <p>It's not that sense restraint prevents you from breaking the precepts. You choosing not to break the precepts despite the pressure prevents you from breaking the precepts. And on the basis of that, you can then learn to guard your sense doors</p>
 <p>Taking it the other way around implies the view of management: that you need to do something, in this case sense restraint, to diminish the pressure first in order to not give in to it, thereby absolving you of responsibility to a degree.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-l6agi4y">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/l6agi4y/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Are you saying that the 8 precepts can be upheld through will power and determination alone, and do not require a level of sense restraint mastery for one to uphold them at all times? And basically, the reason I fail at keeping them is because my determinations have been half-hearted, disingenuous, or conditional? </p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-l6f968d">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/l6f968d/">Bhikkhu_Anigha</a><span class="when">2024-05-31 03:02 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Are you saying that the 8 precepts can be upheld through will power and determination alone, and do not require a level of sense restraint mastery for one to uphold them at all times? And basically, the reason I fail at keeping them is because my determinations have been half-hearted, disingenuous, or conditional? </p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Are you saying that the 8 precepts can be upheld through will power and determination alone, and do not require a level of sense restraint mastery for one to uphold them at all times?</p>
 </blockquote>
 <p><a href="https://suttas.hillsidehermitage.org/?q=mn54#mn54:4.2-mn54:4.12" rel="noopener noreferrer" target="_blank">Yes</a>, although not exclusively through will power. Reflection is the one factor that plays a part in every stage of the Gradual Training, including the establishment of virtue. But still, the purpose of reflection is not to diminish the amount of pressure you have to endure when keeping the precepts, but to <em>remind</em> yourself of why you should stand your ground no matter how tempting it is to give in. It won't absolve you of responsibility or do the restraint for you.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-l6fe8q0">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/l6fe8q0/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, would you recommend that I try and take on one of these precepts at a time, rather than all 8? I have been keeping the 5 precepts plus celibacy for about a year (though I have not been 100% successful - but I continue trying and am determined). What I have really been struggling with is over indulging in food and entertainment. I have quite a lot of solitude which I should be taking advantage of and using it as an opportunity to develop my practice and study the dhamma. But more often than not, I am being lazy and negligent. Even if I plan to do better and tell myself in the morning that I will refrain from indulging in food and entertainment, a majority of the time I give in before the day is through. Also, these two things go hand in hand because it's always while I'm watching tv or internet videos that I am being indulgent with food. How do you suggest I go at this? Just like a cold turkey approach, or a more gradual tapering off? Also, could it be possible that I'm not ready for as much solitude as I have yet, and should I make a point to fill my time in other ways?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-l6q52wa">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1d32drw/sense_restraint_how_hard_to_push_what_about_when/l6q52wa/">Bhikkhu_Anigha</a><span class="when">2024-06-02 04:37 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Bhante, would you recommend that I try and take on one of these precepts at a time, rather than all 8? I have been keeping the 5 precepts plus celibacy for about a year (though I have not been 100% successful - but I continue trying and am determined). What I have really been struggling with is over indulging in food and entertainment. I have quite a lot of solitude which I should be taking advantage of and using it as an opportunity to develop my practice and study the dhamma. But more often than not, I am being lazy and negligent. Even if I plan to do better and tell myself in the morning that I will refrain from indulging in food and entertainment, a majority of the time I give in before the day is through. Also, these two things go hand in hand because it's always while I'm watching tv or internet videos that I am being indulgent with food. How do you suggest I go at this? Just like a cold turkey approach, or a more gradual tapering off? Also, could it be possible that I'm not ready for as much solitude as I have yet, and should I make a point to fill my time in other ways?</p></div></div>
   <div class="body"><div class="md-body"><p>Sometimes, you can't rely on your own determination alone, and you need to tailor your environment. So you could try to find ways to ensure you only have access to the internet during specific periods where you need it for practical purposes (if at all). There is hardly a justification for ever switching the TV on if you're aiming for the 8 precepts though.</p>
 <p>There are applications for PCs and mobile phones that allow you to block access to certain or all applications on a scheduled basis.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -83,5 +115,7 @@ But when it comes to sense restraint, I feel like I'm constantly second guessing
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

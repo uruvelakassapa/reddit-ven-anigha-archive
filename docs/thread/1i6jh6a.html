@@ -6,6 +6,9 @@
   <title>Rebirth · 2025</title>
   <meta name="description" content="Rebirth">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>Rebirth</h2>
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1i6jh6a/rebirth/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>When do we get reborn? From my understanding when we go to sleep we leave the body(in sleep body is not there) and in the morning come back into the body for our next cycle of birth. This could create an infinite amount of lifetimes that create the separate experience in the present that we believe to be real. By this logic we are constantly getting reborn inside the body until clearly seeing the noble truths and putting an end to craving and attachment from which we narrate this story of coming from the past and going into the future. I think this is why seeing the dependent origination ends rebirth.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-m8df53c">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1i6jh6a/rebirth/m8df53c/">Bhikkhu_Anigha</a><span class="when">2025-01-21 16:37 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>From my understanding when we go to sleep we leave the body(in sleep body is not there)</p>
 </blockquote>
@@ -50,5 +62,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

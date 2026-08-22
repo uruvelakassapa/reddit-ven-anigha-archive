@@ -6,6 +6,9 @@
   <title>Why is fear not explicity called out as a hindrance ? · 2024</title>
   <meta name="description" content="Why is fear not explicity called out as a hindrance ?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -33,10 +40,15 @@
 <p>I am curious regarding the treatment of fear as a hindrance, and the nature of practice that strikes at the root of it.</p>
 <p>My understanding is that <em>freedom</em> from fear, is synonymous with having attained the deathless - since the likelihood of fear persists as long as death applies (i.e. the phenomena of person-hood still remains). Hence one is free from the fear of death (and consequently <em>any</em> fear), only at the attainment of the final knowledge. </p>
 <p>Kindly correct my understanding if inaccurate.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kwzz1vi">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bo96ek/why_is_fear_not_explicity_called_out_as_a/kwzz1vi/">Bhikkhu_Anigha</a><span class="when">2024-03-28 19:15 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Fear could be considered as being within the fourth hindrance, which is agitation/anxiety in general. It's also the 9th of the 10 fetters, abandoned only by an Arahant.</p></div></div>
   
 </article>
@@ -48,5 +60,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

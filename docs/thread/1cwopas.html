@@ -6,6 +6,9 @@
   <title>[deleted by user] · 2024</title>
   <meta name="description" content="[deleted by user]">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>[deleted by user]</h2>
       <p class="meta"><a href="#">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>[removed]</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-l4yircn">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cwopas/deleted_by_user/l4yircn/">Bhikkhu_Anigha</a><span class="when">2024-05-21 01:15 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>In such situations it's almost always best to avoid proselytizing. A person can only heed admonition or advice if they're already willing to admit that they're making a mistake, and you can't ultimately force someone else into that admission. It has to come from their end.</p>
 <p>What you do have make sure, if you value the practice and developing your mind, is that you don't end up letting their behavior derail <em>your</em> determination to be virtuous, even if that ends up impairing the relationship.</p></div></div>
   
@@ -43,5 +55,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

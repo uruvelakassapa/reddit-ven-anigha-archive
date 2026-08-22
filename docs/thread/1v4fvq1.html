@@ -6,6 +6,9 @@
   <title>Questions on entertainment · 2026</title>
   <meta name="description" content="Questions on entertainment">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,10 +41,15 @@
 </ol>
 <p>One could take these activities as a form of containing one's own mind within a consistent and disciplinized form of activity. Rather than trying to sit in non-activity for 8 hours a day and missing that <em>thats</em> where one's wrong intentions are, one could choose an alternatively mundane activity, but to check whether it is rooted in compulsion here and then. <em>That</em> would have more chances of revealing one's own intentions and whether they are rooted in a desire to distract oneself or not, rather than trying to deny everything</p>
 <p>Likewise, what advice would you have for a student in the summer break who has all the free time in the world? What should I preoccupy my time and efforts with? Should I learn a new hobby? Should I spend more time doing nothing? I have also been trying to not listen to too much instruction so I dont de-value it through over-repetition and over-saturation, but without that I am left without any forms of activity. Is it important that I find something to do that allows me to sketch out some basic routine or discipline, or not so necessarily? Thank you in advance</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ozbe6ag">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1v4fvq1/questions_on_entertainment/ozbe6ag/">Bhikkhu_Anigha</a><span class="when">2026-07-23 16:56 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>It's true that you shouldn't force yourself to do nothing the whole day, but there's a world of difference between doing things that you have to do or will benefit from doing regardless of any passion—like chores and duties—and the type of activities you listed.</p>
 <p>If you don't have any chores to do then pick up something that you don't enjoy but that you know is good for you, and don't lose sight of the mind's attitude towards it in case it starts to develop passion.</p></div></div>
   
@@ -50,5 +62,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

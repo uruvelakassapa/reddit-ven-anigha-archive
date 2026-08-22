@@ -6,6 +6,9 @@
   <title>Is &#x27;Rupa&#x27; external object? · 2023</title>
   <meta name="description" content="Is &#x27;Rupa&#x27; external object?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -49,10 +56,15 @@
 <p>On that I asked this above question on Rupa. and still waiting for answer.</p>
 <p>NOTE : I also think that everyone should contemplate on these discussion. hence sharing this as a separate post.</p>
 <p>&#x200B;</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-k76xxnw">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17kbsa9/is_rupa_external_object/k76xxnw/">Bhikkhu_Anigha</a><span class="when">2023-10-31 05:03 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is the Rupa in NamaRupa,/ PancaKhanda/6 dhatu same thing? or different thing?</p>
 </blockquote>
@@ -70,12 +82,15 @@
 <p>You can't say that rūpa is "out there" or "somewhere" because rūpa is not <strong>in</strong> space. Rather, your experience of rūpa is the foundation for any notion of space whatsover.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k774c8f">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17kbsa9/is_rupa_external_object/k774c8f/">Bhikkhu_Anigha</a><span class="when">2023-10-31 06:21 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to deepcommand21:</strong><br><div class="md-body"><p>Sadhu Sadhu Sadhu... I got my answer to extend I can understand . i.e</p>
+<article class="comment parent" id="c-k772q8i">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17kbsa9/is_rupa_external_object/k772q8i/">deepcommand21</a></div>
+  <div class="body"><div class="md-body"><p>Sadhu Sadhu Sadhu... I got my answer to extend I can understand . i.e</p>
 <p><strong>rūpa has nothing to do with "external objects",</strong></p>
 <p><strong>rūpa is not in space</strong></p>
 <p>I just laugh at  myself, when I read 'notion of space'.. that so true , space is a idea/ manyana.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k774c8f">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17kbsa9/is_rupa_external_object/k774c8f/">Bhikkhu_Anigha</a><span class="when">2023-10-31 06:21 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>I just laugh at  myself, when I read 'notion of space'.. that so true , space is a idea/ manyana.</p>
 </blockquote>
@@ -84,16 +99,23 @@
 <p>You <em>need</em> to have both form and space simultaneously, but each must be put in its "right place", so to speak.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-k774st8">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17kbsa9/is_rupa_external_object/k774st8/">deepcommand21</a></div>
+  <div class="body"><div class="md-body"><p>Ok so you equate perception, ideas etc to space?</p>
+<p>or it is idea/notion  or  perception of space ? as example and I have to discern form as basis  of that idea/perception. ?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-k77k5o3">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17kbsa9/is_rupa_external_object/k77k5o3/">Bhikkhu_Anigha</a><span class="when">2023-10-31 10:04 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to deepcommand21:</strong><br><div class="md-body"><p>Ok so you equate perception, ideas etc to space?</p>
-<p>or it is idea/notion  or  perception of space ? as example and I have to discern form as basis  of that idea/perception. ?</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Ok so you equate perception, ideas etc to space?</p>
 </blockquote>
 <p>It's not that they're the same. Rather, space is experienced within the domain of perception, so perception is more general than space. But practically speaking, if you're trying to understand form, you could say you will find space if you recognize the domain of perceptions (and nāma in general, so contact, intentions and feelings too) as a general phenomenon, and form will be "that because of which" space is there. </p>
 <p>Hence, the form is never "in" space, which is putting things "in the wrong order" as we say.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -103,5 +125,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

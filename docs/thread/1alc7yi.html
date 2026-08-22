@@ -6,6 +6,9 @@
   <title>[deleted by user] · 2024</title>
   <meta name="description" content="[deleted by user]">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>[deleted by user]</h2>
       <p class="meta"><a href="#">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>[removed]</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kpg95or">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1alc7yi/deleted_by_user/kpg95or/">Bhikkhu_Anigha</a><span class="when">2024-02-08 06:27 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>There is no inherent problem in <a href="https://www.youtube.com/watch?v=e_BeJMNM86A" rel="noopener noreferrer" target="_blank">meditating with sensuality</a> from a worldly point of view. In an isolated analysis, it is better than coarser forms of sensuality such as anything that involves breaking the five precepts <strong><em>if</em></strong> it is being done at the expense of those more unwholesome things. If a person totally replaces those things with their "meditation" of choice, it will probably lead to a better rebirth at least. (But even that is quite an achievement; most people do their "meditation" on the side of their coarse sensual engagements. They don't even replace one with the other).</p>
 <p>However, when it does becomes a net negative by far rather than a net positive is when people start thinking that by engaging in such meditation, they are on some level partaking in the Buddha's teaching, and when they start using Buddhist terminology such as jhānas, wisdom, Four Noble Truths, etc., to talk about the experiences that result from those practices. They then start to not only delude themselves, but also others who might've strived for and achieved <em>actual</em> freedom from suffering rather than this bogus version of it that's available for much cheaper.</p>
 <p>If a person's goals are limited to the 4 things you listed, then potentially they can achieve that though doing what almost any "Buddhist" teacher today would instruct them to do. But ideally, if they insist in practicing like that, they better do so with the knowledge that that's not <em>actually</em> the Buddha's teaching, and that the true purification from defilements comes at a higher price than they're currently willing to pay.</p>
@@ -45,5 +57,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

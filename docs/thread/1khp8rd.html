@@ -6,6 +6,9 @@
   <title>Celibacy for sotapatti? · 2025</title>
   <meta name="description" content="Celibacy for sotapatti?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -32,10 +39,15 @@
 <p>Of course I know that at least it’s more likely or faster for one to achieve sotapanna with celibacy. That’s why that is not my question.</p>
 <p>I believe this question to be clear, and so I’d expect an answer to be as clear. A yes or no kind of answer would be optimal.</p>
 <p>Thank you.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mraliwz">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mraliwz/">Bhikkhu_Anigha</a><span class="when">2025-05-08 19:02 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is it possible for one to have become a sotapanna without having previously renounced sexual intercourses with his wife?</p>
 </blockquote>
@@ -45,30 +57,12 @@
 <p>If Isidatta had remained celibate, his higher wisdom would've led him to non-return, while if Pūraṇa had practiced for longer and reached the same level of wisdom as Isidatta, he would've been a non-returner. But neither of them would've reached sotāpatti without cultivating the perception of sensuality as a charcoal pit (which <em>must</em> lead to not engaging in it with any degree of frequency; otherwise it's obviously not truly seen as a charcoal pit).</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mrplx5p">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrplx5p/">Bhikkhu_Anigha</a><span class="when">2025-05-11 06:34 UTC</span></div>
-  
-  <div class="body"><div class="md-body"><blockquote>
-<p>What are the five shackles of mind he has not severed? Firstly, a bhikkhu is not without passion, desire, fondness, thirst, burning, and craving for sensuality. This being so, his mind does not incline to diligence, dedication, persistence, and striving. This is the first shackle of mind he has not severed.</p>
-<p>Furthermore, a bhikkhu is not without passion for the body … This is the second shackle of mind.</p>
-<p>Furthermore, a bhikkhu is not without passion for form … This is the third shackle of mind.</p>
-<p>He eats as much as he likes until his stomach is full, then indulges in the pleasure of sleeping, lying down, and drowsing … This is the fourth shackle of mind.</p>
-<p>He leads the renunciate life for the sake of a certain heavenly existence, thinking: ‘By this precept or observance or fervent austerity or renunciate life, may I become one of the gods!’ This being so, his mind does not incline to diligence, dedication, persistence, and striving. This is the fifth shackle of mind, he has not cut off. These are the five shackles of mind, he has not cut off.</p>
-<p>When a bhikkhu has not abandoned these five obstinacies and cut off these five shackles of mind, it is not possible for him to achieve <strong>growth, improvement, or maturity in this teaching-and-discipline.</strong> </p>
-<p>—<a href="https://suttacentral.net/mn16" rel="noopener noreferrer" target="_blank">MN 16</a></p>
-</blockquote>
-<p>If one wishes to argue that this only applies to monks, <a href="https://suttacentral.net/mn53" rel="noopener noreferrer" target="_blank">MN 53</a>, directed explicitly at a group of Sakyan laypeople, talks about the "practicing trainee":</p>
-<blockquote>
-<p>When a noble disciple is accomplished in virtue, guards the sense doors, is moderate in eating, and is dedicated to vigilance, has seven good qualities, and gets the four jhānas—easeful abidings in the present experience that involve an elevated mind—when they want, without trouble or difficulty, they are called a noble disciple who is a practicing trainee. Their eggs are unspoiled, and they are capable of breaking out of their shell, becoming awakened, and achieving the supreme safety from the yoke. Suppose there was a chicken with eight or ten or twelve eggs. And she properly sat on them to keep them warm and incubated. Even if that chicken doesn’t wish, ‘If only my chicks could break out of the eggshell with their claws and beak and hatch safely!’ Still they can break out and hatch safely.</p>
-<p>In the same way, when a noble disciple is endowed with all these factors, <strong>they are called a noble disciple who is a practicing trainee.</strong> Their eggs are unspoiled, and they are capable of breaking out of their shell, becoming awakened, and achieving the supreme safety from the yoke.</p>
-</blockquote>
-<p>The simile of the hen is the exact same one as in <a href="https://suttacentral.net/mn16" rel="noopener noreferrer" target="_blank">MN 16</a>, and the meaning is the same: without these factors, the eggs will not hatch, i.e., one will not gain supramundane insight. Thus, this Sutta is saying the same thing but applied to an audience of laypeople: without complete withdrawal from sensuality—celibacy being included in "accomplishment in virtue" already, as Isidatta is called "lacking in virtue" in <a href="https://suttacentral.net/an10.75" rel="noopener noreferrer" target="_blank">AN 10.75</a> due to not being celibate—they cannot consider themselves to be <em>practicing</em> even if they are already <em>sekhas</em>, i.e., are at least sotāpannas. Thus, as per <a href="https://suttacentral.net/mn16" rel="noopener noreferrer" target="_blank">MN 16</a>, they are not capable of further growth in the Dhamma.</p>
-<p>The same requirement for progress in the Dhamma would apply to a puthujjana aiming for sotāpatti—even more so today, without the Buddha's direct instruction, and with more proximity to sensuality than people back then could even imagine.</p></div></div>
-  
-</article>
+<article class="comment parent" id="c-mr9076s">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mr9076s/">RaajuuTedd</a></div>
+  <div class="body"><div class="md-body"><p>a little similar question but is it necessary to remain single too for sotapatti ? i think remaining single is more conducive for the practice but still want to hear more from this sub ( although i have heard the talk "unwholesomeness of relationships" where ajahn said about you cant be attached and then also talk about dispassion and dhamma but it wasnt clearly stated it was for sotapatti attainment or maybe i am misunderstanding the talk which could be the case</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mran1uz">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mran1uz/">Bhikkhu_Anigha</a><span class="when">2025-05-08 19:10 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to RaajuuTedd:</strong><br><div class="md-body"><p>a little similar question but is it necessary to remain single too for sotapatti ? i think remaining single is more conducive for the practice but still want to hear more from this sub ( although i have heard the talk "unwholesomeness of relationships" where ajahn said about you cant be attached and then also talk about dispassion and dhamma but it wasnt clearly stated it was for sotapatti attainment or maybe i am misunderstanding the talk which could be the case</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>a little similar question but is it necessary to remain single too for sotapatti ?</p>
 </blockquote>
@@ -76,21 +70,31 @@
 <p>And if one tries to argue that if one is celibate, then the relationship is not sensual, then that would only hold true if the other person's gender and bodily features do not matter at all—which would generally mean it's not actually a romantic relationship.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mr9onmm">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mr9onmm/">kellerdellinger</a></div>
+  <div class="body"><div class="md-body"><p>The way I have heard both Ajahn Ñāṇamoli and Ven. Anīgha teach, the five precepts are simply a life preserver. According to HH teachers, the five precepts will keep your head above water, but in order to make meaningful progress towards the Right View if you don't have it or the higher noble attainments if you do, a lifestyle thoroughly divested of sensuality is a requirement. In the Suttas the only laypeople who ever attained the Right View did it immediately upon having a conversation with the Buddha. All others are described as having attained after going forth and training while a bhikkhu, or not attaining at all. There is no account of any layperson pondering on the Buddha's words they previously heard while practicing a breathing focusing technique and otherwise still going about their sensual householder business and then attaining stream-entry later. This evidence seems to indicate that there were some few laypeople who were "ripe" on account of renunciate effort in previous lives and the quite rigorous virtue that was also practiced in laylife by some in the Buddha's culture, but that if you are not ripe like they were (being someone who is Sutta-literate but still a puthujjana), a sensual lifestyle is not compatible with developing yourself to the level of ripeness that those laypeople were born with, both in terms of their innate faculties and the renunciate ethos present in the Indian culture of that time.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mrasdzt">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrasdzt/">Bhikkhu_Anigha</a><span class="when">2025-05-08 19:36 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to kellerdellinger:</strong><br><div class="md-body"><p>The way I have heard both Ajahn Ñāṇamoli and Ven. Anīgha teach, the five precepts are simply a life preserver. According to HH teachers, the five precepts will keep your head above water, but in order to make meaningful progress towards the Right View if you don't have it or the higher noble attainments if you do, a lifestyle thoroughly divested of sensuality is a requirement. In the Suttas the only laypeople who ever attained the Right View did it immediately upon having a conversation with the Buddha. All others are described as having attained after going forth and training while a bhikkhu, or not attaining at all. There is no account of any layperson pondering on the Buddha's words they previously heard while practicing a breathing focusing technique and otherwise still going about their sensual householder business and then attaining stream-entry later. This evidence seems to indicate that there were some few laypeople who were "ripe" on account of renunciate effort in previous lives and the quite rigorous virtue that was also practiced in laylife by some in the Buddha's culture, but that if you are not ripe like they were (being someone who is Sutta-literate but still a puthujjana), a sensual lifestyle is not compatible with developing yourself to the level of ripeness that those laypeople were born with, both in terms of their innate faculties and the renunciate ethos present in the Indian culture of that time.</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>There is no account of any layperson pondering on the Buddha's words they previously heard while practicing a breathing focusing technique and otherwise still going about their sensual householder business and then attaining stream-entry later. </p>
 </blockquote>
 <p>True, but just to be clear (since some people try to argue otherwise), it's not like trying to implement what the Suttas actually teach instead of following modern approaches would somehow make up for not being celibate and potentially lead to the Right View after all.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mrd6nha">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrd6nha/">Bhikkhu_Anigha</a><span class="when">2025-05-09 04:05 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to RaajuuTedd:</strong><br><div class="md-body"><p>I hope it’s alright to ask a small follow-up for my own understanding.</p>
+</div>
+</article>
+<article class="comment parent" id="c-mrbo8ls">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrbo8ls/">RaajuuTedd</a></div>
+  <div class="body"><div class="md-body"><p>I hope it’s alright to ask a small follow-up for my own understanding.</p>
 <p>Let’s say someone got into a romantic relationship before they became serious about Dhamma practice, but now they’re celibate and genuinely trying to develop dispassion—though still technically in that relationship. Would such a person still be obstructed from stream entry just because the relationship began from sensual desire in the past?</p>
 <p>Or is it that what matters is the present mindset—whether there’s still craving or emotional attachment tied to it now, even if celibacy is being practiced?<br />
 Thank you again.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mrd6nha">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrd6nha/">Bhikkhu_Anigha</a><span class="when">2025-05-09 04:05 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Or is it that what matters is the present mindset—whether there’s still craving or emotional attachment tied to it now, even if celibacy is being practiced? </p>
 </blockquote>
@@ -98,24 +102,36 @@ Thank you again.</p></div></div>
 <p>But the fact that probably the majority of relationships today are founded primarily on pleasure does mean that many times the relationship itself wouldn't survive if one of them becomes very committed to the practice.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mrcpl4g">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrcpl4g/">Anemone1k</a></div>
+  <div class="body"><div class="md-body"><p>It doesn't appear to be mandatory in every case.</p>
+<p>See <a href="https://suttacentral.net/pli-tv-kd1/en/brahmali?lang=en&amp;layout=plain&amp;reference=none&amp;notes=asterisk&amp;highlight=false&amp;script=latin" rel="noopener noreferrer" target="_blank">Mahākhandhaka</a>, Verse 11 (The account of the fine group of people). Could be an edge case, but you asked if it was mandatory not whether it is highly recommended and the safer bet.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mrd8vg9">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrd8vg9/">Bhikkhu_Anigha</a><span class="when">2025-05-09 04:22 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Anemone1k:</strong><br><div class="md-body"><p>It doesn't appear to be mandatory in every case.</p>
-<p>See <a href="https://suttacentral.net/pli-tv-kd1/en/brahmali?lang=en&amp;layout=plain&amp;reference=none&amp;notes=asterisk&amp;highlight=false&amp;script=latin" rel="noopener noreferrer" target="_blank">Mahākhandhaka</a>, Verse 11 (The account of the fine group of people). Could be an edge case, but you asked if it was mandatory not whether it is highly recommended and the safer bet.</p></div></div>
   <div class="body"><div class="md-body"><p>Those stories are not proof that celibacy isn't mandatory. They simply prove that a person's mind theoretically could become established in the attitude of celibacy and withdrawal very quickly by understanding the perils of sensuality. </p>
 <p>But regardless of how quickly that attitude arises, it's not optional. And if a person has not yet decided to be celibate, they cannot at the same time pretend like they are cultivating that attitude.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mrddqsm">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrddqsm/">Anemone1k</a></div>
+  <div class="body"><div class="md-body"><p>Sure, but it's likely the OP's question is taken to mean a celibate lifestyle (as in celibacy over a long period of time), especially considering he was talking about his wife. This does not appear to be mandatory, unless we consider an afternoon or a few hours to be enough to become established in a lifestyle sufficient enough for right view.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mrdfxeh">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrdfxeh/">Bhikkhu_Anigha</a><span class="when">2025-05-09 05:21 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Anemone1k:</strong><br><div class="md-body"><p>Sure, but it's likely the OP's question is taken to mean a celibate lifestyle (as in celibacy over a long period of time), especially considering he was talking about his wife. This does not appear to be mandatory, unless we consider an afternoon or a few hours to be enough to become established in a lifestyle sufficient enough for right view.</p></div></div>
   <div class="body"><div class="md-body"><p>It <em>is</em> mandatory in the sense that those people were not expecting to be celibate only for one afternoon. If you're seeing sensuality as a charcoal pit, which is the necessary basis for development to happen, you automatically intend to live a celibate lifestyle indefinitely. </p>
 <p>One can fall from celibacy (as a non-anagāmi obviously) only once that perception weakens due to not cultivating it enough, as happened with the layman Isidatta. <a href="https://suttas.hillsidehermitage.org/?q=mn16#mn16:13.1" rel="noopener noreferrer" target="_blank">At that point, one is not practicing anymore</a>.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mre5wdr">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mre5wdr/">Bhikkhu_Anigha</a><span class="when">2025-05-09 09:46 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to jareb:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-mrdrkdc">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrdrkdc/">jareb</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <blockquote>
 <p>Is it possible for one to have become a sotapanna without having previously renounced sexual intercourses with his wife?</p>
 </blockquote>
@@ -126,6 +142,9 @@ Thank you again.</p></div></div>
 <p>After getting the Right View and a bit further (sakadāgāmi), Isidatta chose to be content with that attainment and wasn't celibate anymore...</p>
 </blockquote>
 <p>So his understanding of sensuality has become even worse after he has attained the right view than it was before he attained it?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mre5wdr">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mre5wdr/">Bhikkhu_Anigha</a><span class="when">2025-05-09 09:46 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>is it enough to be uninvolved in sex and sensuality at the moment of attainment?</p>
 </blockquote>
@@ -137,25 +156,40 @@ Thank you again.</p></div></div>
 <p>What people often don't understand is that one can be <em>completely</em> disenchanted with sensuality and not want anything to do with it at all—not just "suppress" it through distraction as with contemporary techniques—and yet that doesn't mean that sensual desire will never return. It just means overcoming the five hindrances.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mrggypu">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrggypu/">jareb</a></div>
+  <div class="body"><div class="md-body"><p>Semantics aside, is it necessary to first completely renounce wife and sex and become celibate in order to attain sotopati, or is it sufficient to be abstinent from sex at the time of attainment?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mrj9gwv">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrj9gwv/">Bhikkhu_Anigha</a><span class="when">2025-05-10 03:48 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to jareb:</strong><br><div class="md-body"><p>Semantics aside, is it necessary to first completely renounce wife and sex and become celibate in order to attain sotopati, or is it sufficient to be abstinent from sex at the time of attainment?</p></div></div>
   <div class="body"><div class="md-body"><p>The former. One has to have been celibate (realistically speaking, for years) for the mind to be in the position to <a href="https://suttacentral.net/sn56.45/en/bodhi?lang=en&amp;reference=none&amp;highlight=false" rel="noopener noreferrer" target="_blank">understand the four noble truths</a>.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mrk2v7h">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrk2v7h/">jareb</a></div>
+  <div class="body"><div class="md-body"><p>Could you please quote a single sutta in which the Buddha specifies the abandonment of family and ethical sexual relations as a necessary condition for the arriving to the right views, i.e. as a factor for entering the stream?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mrkluu3">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrkluu3/">Bhikkhu_Anigha</a><span class="when">2025-05-10 11:22 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to jareb:</strong><br><div class="md-body"><p>Could you please quote a single sutta in which the Buddha specifies the abandonment of family and ethical sexual relations as a necessary condition for the arriving to the right views, i.e. as a factor for entering the stream?</p></div></div>
   <div class="body"><div class="md-body"><p>I doubt there is one that states it explicitly in those terms, but many strongly imply it (like <a href="https://suttacentral.net/mn36" rel="noopener noreferrer" target="_blank">MN 36</a>, which I already cited). Likewise, there are none that explicitly say the five precepts are sufficient for sotāpatti. There are many things never explicitly stated in the Suttas that people have no trouble believing because, apart from being self-evident, they don't have a personal stake in the alternative scenario. </p>
 <p>And this is one such self-evident point. Nobody who looked at the issue without a costly stake in the race—an existing sexual relationship being the most common one—would have trouble accepting this point. No amount of convincing rational arguments will undo such a person's resistance to the idea.</p>
 <p>The worst obstruction of all is the wrong view that is actively cultivated when a person purports to be practicing towards right view despite not being celibate. It means they will indefinitely avoid looking at where their suffering actually comes from and maintain the view that the problem is elsewhere than where the craving is (meditation techniques being just a very coarse example of this). Thus, they will never see the noble truths.</p>
 <p>Continuing to engage in intercourse but accepting that one is not practicing as a result would do less harm in the long run, since it's wrong view that is the most malignant thing of all, as the Buddha said.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mrkpmqo">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrkpmqo/">jareb</a></div>
+  <div class="body"><div class="md-body"><p>So there is not a single sutta in which the Buddha mentions such a crucial obstacle for lay followers to progress in the teaching in the form of attaining the right view and entering the stream?</p>
+<p>But perhaps there is a single sutta in which the Buddha describes having a legitimate spouse and having sexual relations with them as a violation of a virtue and a wrong way of life for lay people?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mrkw1xl">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrkw1xl/">Bhikkhu_Anigha</a><span class="when">2025-05-10 12:39 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to jareb:</strong><br><div class="md-body"><p>So there is not a single sutta in which the Buddha mentions such a crucial obstacle for lay followers to progress in the teaching in the form of attaining the right view and entering the stream?</p>
-<p>But perhaps there is a single sutta in which the Buddha describes having a legitimate spouse and having sexual relations with them as a violation of a virtue and a wrong way of life for lay people?</p></div></div>
   <div class="body"><div class="md-body"><p>Actually, the point <em>is</em> explicitly stated in a number of places in the Chinese Āgamas, which in general tend to flesh out the importance of renunciation more than the Pāli, where it often stands out less due to extensive redaction over a longer period and adherence to stock formulas:</p>
 <p><a href="https://suttacentral.net/sa1042/lzh/taisho?lang=en" rel="noopener noreferrer" target="_blank">SĀ 1042</a>:</p>
 <blockquote>
@@ -199,14 +233,19 @@ they’d not transgress with another’s partner.</p>
 <p>There might be other examples in the Chinese canon that I haven't discovered yet.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mrmjgvo">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrmjgvo/">Bhikkhu_Anigha</a><span class="when">2025-05-10 18:16 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to WassaMattaMe:</strong><br><div class="md-body"><p>Bhante, I commend you for your tireless work in communicating the truth in this channel. I would also like to put into context, for many of the readers here, the strength of the stream that one would have to swim against in order to practice the Dhamma correctly today.</p>
+</div>
+</article>
+<article class="comment parent" id="c-mrlh3jf">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrlh3jf/">WassaMattaMe</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, I commend you for your tireless work in communicating the truth in this channel. I would also like to put into context, for many of the readers here, the strength of the stream that one would have to swim against in order to practice the Dhamma correctly today.</p>
 <p>For this, I will use an example to illustrate a broader concept. On the weekend edition today, the Wall Steet Journal has a story about a typical day trip at one of the Disney theme parks. It details the exorbitant costs for a family of four for the privilege of slogging through a 15-hour visit, <em>seven</em> of which spent just staying in line for attractions. There was even a long line to visit “Tiana”, basically coming face to face with a person (a park’s employee) dressed as a princess (that’s it.) At the end of the day, there wasn’t enough time for the author to visit all the attractions on his list, prompting various tips for more audacious readers planning to visit the parks.</p>
 <p>It would be simplistic to dismiss this story as just an example of American consumerism run amok (Europeans also have their own idiosyncratic manifestations (symptoms) of the same illness.) It would be also a mistake to think that all that endeavor is done for the sake of the kids, as adults are just as complicit in partaking blindly in the madness. Reading the comments section – presumably written by adult subscribers – one the common themes is the bemoaning of the high costs of today’s parks and entertainment in general. Which is an irony that escapes all of those writing those things, because in spite of the costs, the parks (like other venues) are fully crowded, which not only justifies the high prices but also highlights the questionable behavior of the visitors (consumers) that, in turn, cause the high prices in a vicious cycle.</p>
 <p>As far as I know, that might very well be the proverbial tip of the iceberg. I only have second-hand knowledge of what might be written in other publications of more general consumption, let alone what goes on in platforms like Tik-Tok or other Reddit channels. Regardless, the moral is most likely lost on most people who haven’t had any practice with sense restraint (and who would nowadays, without a good enough reason?), which is, on a general level, why even partake in such a madness in the first place? Those in this channel who practice seriously might have glimpsed the answer, which is that sensuality is the most fundamental intoxicant, within which all other more particular intoxications take place. Without that enduring context, all of what is now considered a “normal” life is taken for granted, with no questioning whatsoever. And the more we “progress” as a species, the more entrenched (or mired) people become within that general intoxication of sensuality. In a word, complete and utter <em>decadence</em>, even from a mundane point of view.</p>
 <p>Just to be clear, for those who might misread this comment, this is not a call to fix the “world”. If anything, this is a recognition that for many, detaching from sensuality implicitly entails leaving the “world” behind. For a human (as most animals), leaving the “tribe” is from an evolutionary standpoint one of the things closely resembling the perception of death. So a helpful contemplation might be, why would one want to be part of such a tribe?</p>
 <p>Finally, I'm aware that this post is about "celibacy". But given how proliferated sensuality is today, with such a virtually endless array of options, I wonder if celibacy, while necessary, is even effective enough as it was in past eras.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mrmjgvo">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrmjgvo/">Bhikkhu_Anigha</a><span class="when">2025-05-10 18:16 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>But given how proliferated sensuality is today, with such a virtually endless array of options, I wonder if celibacy, while necessary, is even effective enough as it was in past eras.</p>
 </blockquote>
@@ -217,10 +256,35 @@ they’d not transgress with another’s partner.</p>
 <p>So rather than waiting for the latter type of suffering to start building the bridge, at which point it will very likely be too late, uncompromising virtue and renunciation (of the right things) create a much safer basis for the same training.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment teacher" id="c-mrplx5p">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrplx5p/">Bhikkhu_Anigha</a><span class="when">2025-05-11 06:34 UTC</span></div>
+  <div class="body"><div class="md-body"><blockquote>
+<p>What are the five shackles of mind he has not severed? Firstly, a bhikkhu is not without passion, desire, fondness, thirst, burning, and craving for sensuality. This being so, his mind does not incline to diligence, dedication, persistence, and striving. This is the first shackle of mind he has not severed.</p>
+<p>Furthermore, a bhikkhu is not without passion for the body … This is the second shackle of mind.</p>
+<p>Furthermore, a bhikkhu is not without passion for form … This is the third shackle of mind.</p>
+<p>He eats as much as he likes until his stomach is full, then indulges in the pleasure of sleeping, lying down, and drowsing … This is the fourth shackle of mind.</p>
+<p>He leads the renunciate life for the sake of a certain heavenly existence, thinking: ‘By this precept or observance or fervent austerity or renunciate life, may I become one of the gods!’ This being so, his mind does not incline to diligence, dedication, persistence, and striving. This is the fifth shackle of mind, he has not cut off. These are the five shackles of mind, he has not cut off.</p>
+<p>When a bhikkhu has not abandoned these five obstinacies and cut off these five shackles of mind, it is not possible for him to achieve <strong>growth, improvement, or maturity in this teaching-and-discipline.</strong> </p>
+<p>—<a href="https://suttacentral.net/mn16" rel="noopener noreferrer" target="_blank">MN 16</a></p>
+</blockquote>
+<p>If one wishes to argue that this only applies to monks, <a href="https://suttacentral.net/mn53" rel="noopener noreferrer" target="_blank">MN 53</a>, directed explicitly at a group of Sakyan laypeople, talks about the "practicing trainee":</p>
+<blockquote>
+<p>When a noble disciple is accomplished in virtue, guards the sense doors, is moderate in eating, and is dedicated to vigilance, has seven good qualities, and gets the four jhānas—easeful abidings in the present experience that involve an elevated mind—when they want, without trouble or difficulty, they are called a noble disciple who is a practicing trainee. Their eggs are unspoiled, and they are capable of breaking out of their shell, becoming awakened, and achieving the supreme safety from the yoke. Suppose there was a chicken with eight or ten or twelve eggs. And she properly sat on them to keep them warm and incubated. Even if that chicken doesn’t wish, ‘If only my chicks could break out of the eggshell with their claws and beak and hatch safely!’ Still they can break out and hatch safely.</p>
+<p>In the same way, when a noble disciple is endowed with all these factors, <strong>they are called a noble disciple who is a practicing trainee.</strong> Their eggs are unspoiled, and they are capable of breaking out of their shell, becoming awakened, and achieving the supreme safety from the yoke.</p>
+</blockquote>
+<p>The simile of the hen is the exact same one as in <a href="https://suttacentral.net/mn16" rel="noopener noreferrer" target="_blank">MN 16</a>, and the meaning is the same: without these factors, the eggs will not hatch, i.e., one will not gain supramundane insight. Thus, this Sutta is saying the same thing but applied to an audience of laypeople: without complete withdrawal from sensuality—celibacy being included in "accomplishment in virtue" already, as Isidatta is called "lacking in virtue" in <a href="https://suttacentral.net/an10.75" rel="noopener noreferrer" target="_blank">AN 10.75</a> due to not being celibate—they cannot consider themselves to be <em>practicing</em> even if they are already <em>sekhas</em>, i.e., are at least sotāpannas. Thus, as per <a href="https://suttacentral.net/mn16" rel="noopener noreferrer" target="_blank">MN 16</a>, they are not capable of further growth in the Dhamma.</p>
+<p>The same requirement for progress in the Dhamma would apply to a puthujjana aiming for sotāpatti—even more so today, without the Buddha's direct instruction, and with more proximity to sensuality than people back then could even imagine.</p></div></div>
+  
+</article>
+<article class="comment parent" id="c-mrpqyok">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrpqyok/">jareb</a></div>
+  <div class="body"><div class="md-body"><p>Venerable, I am sorry, but in my opinion, with how strong and categorical your statements on the subject are, your supporting arguments from the suttas need to be even stronger and more categorical, but what has been presented here is not only not strong, it is non-existent, vague and highly questionable in the line of reasoning. All this, spiced with the non-answers to the direct and simple questions about your arguments - let's put it this way - with all due respect, it doesn't look good, it doesn't look right, and it doesn't look correct. </p>
+<p>I'll stop here.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mrrngyd">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrrngyd/">Bhikkhu_Anigha</a><span class="when">2025-05-11 16:06 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to jareb:</strong><br><div class="md-body"><p>Venerable, I am sorry, but in my opinion, with how strong and categorical your statements on the subject are, your supporting arguments from the suttas need to be even stronger and more categorical, but what has been presented here is not only not strong, it is non-existent, vague and highly questionable in the line of reasoning. All this, spiced with the non-answers to the direct and simple questions about your arguments - let's put it this way - with all due respect, it doesn't look good, it doesn't look right, and it doesn't look correct. </p>
-<p>I'll stop here.</p></div></div>
   <div class="body"><div class="md-body"><p>That's fine. I am not trying to change your or OP's mind in particular; that didn't seem like a realistic scenario from the outset.</p>
 <blockquote>
 <p>All this, spiced with the non-answers to the direct and simple questions about your arguments</p>
@@ -232,20 +296,27 @@ they’d not transgress with another’s partner.</p>
 <p>I am confident that any reasonably unbiased person reading this will be able to see that the latter conclusion rests on much feebler ground, and that's all I've been aiming for. And that's also as far as one can often go with "proving" things with Sutta quotes; a degree of interpretation is always required, and a person will have room to reject one's premises if they really want to. That's how even leading Pāli experts are sometimes able to wriggle out of the obvious meaning of explicit statements made in the Suttas to accommodate their existing worldview.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mruxtfq">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mruxtfq/">Bhikkhu_Anigha</a><span class="when">2025-05-12 03:49 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Organic_Category7646:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-mrsai6d">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mrsai6d/">Organic_Category7646</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>Speaking solely from that angle, there is zero chance that someone will attain what <em>we</em> regard as stream-entry without being celibate.</p>
 </blockquote>
 <p>Bhante, to what extent should this be seen as a genuine <em>categorical</em> statement?</p>
 <p>From my understanding, it seems totally technically possible that someone may attain the Right View while not being physically celibate and while still engaging in sensual pleasures if they have particularly strong faculties and have been personally guided to see the peril of sensual pleasures, while taking refuge in the Triple Gem.</p>
 <p>By being temporarily secluded during the duration of that discussion and being pointed to the nature of their experience with great accuracy, it seems possible that they may genuinely see all sensuality as akin to a charcoal pit at least for that time, giving rise to the Right View right there and then. They then may decide to still go back to their worldly life.</p>
 <p>Of course, this does not change your general point that for a person today who has access to all the suttas yet does not understand the Four Noble Truths, they must seriously take on the task of abandoning all traces of sensuality while contemplating their harm in order to attain stream-entry.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mruxtfq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1khp8rd/celibacy_for_sotapatti/mruxtfq/">Bhikkhu_Anigha</a><span class="when">2025-05-12 03:49 UTC</span></div>
   <div class="body"><div class="md-body"><p>There is <strong>no difference</strong> between "genuinely seeing all sensuality as akin to a charcoal pit" and permanently resolving upon a celibate and aloof lifestyle. If a person thinks withdrawing the mind from sensuality entails anything less than the latter, then the peril in sensuality is for them a partly abstract idea that has not sunk in on the right level, and therefore, that understanding of the peril will not be a sufficient basis for the Right View to arise. </p>
 <p>So, it is a categorical statement: what somebody who currently indulges in sensual pleasures to any extent has to do in order to get the Right View (or further noble attainments up to anāgāmi) is get their citta to genuinely resolve upon permanent celibacy, without the slightest prospect of ever returning. There is no other way. And this is something that monastics of several decades' standing have not necessarily achieved yet and generally never do, even if they in the end pass away without ever disrobing. So, <a href="https://suttas.hillsidehermitage.org/?q=mn36#mn36:18.11_mn36:18.12" rel="noopener noreferrer" target="_blank">living physically disengaged for one's whole lifetime—even not thinking about sensuality much at all—is, in and of itself, <em>below</em> the level of withdrawal from sensuality that is required</a>.</p>
 <p>Now, whether that resolve for celibacy will actually last forever post sotāpatti is another matter—and one that indeed cannot be stated categorically. From the Suttas we can see that for many people, it didn't, because the <em>fetter</em> of sensuality had not been overcome yet, and they were satisfied with their current attainment.</p>
 <p>Edit: Added link to <a href="https://suttacentral.net/mn36" rel="noopener noreferrer" target="_blank">MN 36</a>.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -255,5 +326,7 @@ they’d not transgress with another’s partner.</p>
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

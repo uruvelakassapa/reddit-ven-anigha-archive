@@ -6,6 +6,9 @@
   <title>Contact is just “contact” for the Arahant? · 2023</title>
   <meta name="description" content="Contact is just “contact” for the Arahant?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -33,10 +40,15 @@
 <p>Did I understand this correctly?<br />
 Thank you</p>
 <p>Edit: corrected the title of the talk</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kbyamih">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/18aix9a/contact_is_just_contact_for_the_arahant/kbyamih/">Bhikkhu_Anigha</a><span class="when">2023-12-04 13:48 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>You could say that "contact is just contact" for the mind (citta) of the Arahant, but as far as the senses go, pressure remains pressure like before. As <a href="https://suttacentral.net/sn35.228" rel="noopener noreferrer" target="_blank">SN 35.228</a> explains, the Arahant, the one who has "gone beyond", has done so because they <em>withstand</em> the current of the 6 oceans, not because there is no current anymore. The latter is what people tend to implicitly misunderstand with the phrase "X is just X for an Arahant", which in theory is not wrong in itself, but  being a puthujjana <em>means</em> not being able to even fathom what an Arahant is, so one must not forget that whatever explanation of an Arahant one hears will not be truly seen until one has the Right View.</p>
 <p>Without the Right View, one cannot see the Middle Way, so if one hears that "there is no pressure for an Arahant", one will "overshoot" one's abandonment of the pressure to the point of interfering with phenomena that are not unwholesome, whereas if one hears "there is still pressure for an Arahant", the opposite will happen, and one will not be recognizing impurities as impurities.</p>
 <p>So in the end, what matters most is to not take one's present understanding for granted, not to have the right idea right off the bat, which is impossible without seeing the Dhamma for oneself.</p></div></div>
@@ -50,5 +62,7 @@ Thank you</p>
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Citta &quot;being-in-relation-to&quot; phenomena · 2024</title>
   <meta name="description" content="Citta &quot;being-in-relation-to&quot; phenomena">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,30 +41,40 @@
 <p>How should this be understood in reference to 'Mano pubbangama dhamma'. Since the mind is the forerunner of all phenomena, does this not imply that it is the phenomena that are 'in-relation-to' the Citta rather than the other way ?</p>
 <p>Also, wouldn't 'Citto pubbangama dhamma' be a more accurate phrase to describe the relationship? Or is this verse just an example of where mano and citta are used synonymously.</p>
 <p>Thanks in advance for your clarification 🙏</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lc11qte">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dxabl7/citta_beinginrelationto_phenomena/lc11qte/">Bhikkhu_Anigha</a><span class="when">2024-07-07 11:58 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Or is this verse just an example of where mano and citta are used synonymously.</p>
 </blockquote>
 <p>It is. The verse refers to the fact that taking an external point of view to your own experience is impossible; every phenomenon you can conceivably cognize has to exist with your mano as basis, both as a mere sense base (as you wouldn't be able to see sights without your eyes) and also in the sense of citta (there cannot <em>not</em> be an attitude of greed or non-greed, aversion or non-aversion, and delusion or non-delusion in relation to every phenomenon, and that attitude also precedes them and is more general than them). There is no "outside" to this, not even in the farthest corners of the universe.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-lc594u0">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dxabl7/citta_beinginrelationto_phenomena/lc594u0/">Bhikkhu_Anigha</a><span class="when">2024-07-08 04:20 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to upasakatrainee:</strong><br><div class="md-body"><p>Thank you for your prompt response Bhante !</p>
+<article class="comment parent" id="c-lc1d4ox">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dxabl7/citta_beinginrelationto_phenomena/lc1d4ox/">upasakatrainee</a></div>
+  <div class="body"><div class="md-body"><p>Thank you for your prompt response Bhante !</p>
 <blockquote>
 <p>and that attitude also precedes them and is more general than them).</p>
 </blockquote>
 <p>I am not entirely clear here. How is it to be understood, that an attitude that exists in relation to phenomena; <strong><em>precedes</em></strong> the phenomena.</p>
 <p>Since the attitude in relationship to <strong><em>any</em></strong> phenomena; <strong><em>can only</em></strong> be that of the presence or absence of the 3 poisons - that potential for any <em>arisen</em> attitude is always <em>generic</em> (i.e. either with craving or without craving) -- regardless of the <em>specifics</em> of the phenomena.  So in that sense, the attitude 'precedes' the phenomena;  but not in a temporal sense.</p>
 <p>Am I right in stating it this way ?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lc594u0">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dxabl7/citta_beinginrelationto_phenomena/lc594u0/">Bhikkhu_Anigha</a><span class="when">2024-07-08 04:20 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>So in that sense, the attitude 'precedes' the phenomena; but not in a temporal sense.</p>
 </blockquote>
 <p>Yes, I didn't mean it temporally. And which determines which depends on which point of view you take. So if you're looking at an arisen thing, the attitude towards it is the counterpart that it cannot not exist without. But if then you start regarding that background attitude as some sort of higher privileged entity, you see that there could be no background attitude without something to harbor an attitude in regard to. So neither of the two can rightly be called the master of the other one, and that's the point of <em>paṭiccasamuppāda</em>.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -67,5 +84,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

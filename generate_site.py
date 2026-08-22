@@ -9,13 +9,13 @@ import json
 import re
 import shutil
 import sys
-from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Dict, List, Optional, Sequence
+from typing import Dict, List, Sequence
 
 import markdown as md_lib
 
 import db
+from threads import ThreadNode, build_comment_threads
 
 SITE_DIR_DEFAULT = "docs"
 BOOKS_DIR_DEFAULT = "books"
@@ -117,6 +117,15 @@ footer.site a { color: var(--link); }
   cursor: pointer;
 }
 .search-box button { background: var(--accent); color: #fff; border-color: var(--accent); }
+.offline-bar {
+  margin: 0.7rem 0 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+header.site .offline-bar .chip { color: var(--fg); }
+#offline-status { font-size: 0.88rem; opacity: 0.9; }
 #search-status { color: var(--muted); font-size: 0.9rem; margin-bottom: 0.5rem; }
 #search-results .list li { background: var(--card); border: 1px solid var(--border);
   border-radius: 8px; padding: 0.75rem 1rem; margin-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
@@ -140,7 +149,7 @@ footer.site a { color: var(--link); }
 }
 .comment .who { font-weight: 600; }
 .comment .when { color: var(--muted); font-size: 0.88rem; margin-left: 0.35rem; }
-.comment .body, .op, .parent-quote .md-body { margin-top: 0.6rem; }
+.comment .body, .op { margin-top: 0.6rem; }
 .md-body p { margin: 0 0 0.75rem; }
 .md-body p:last-child { margin-bottom: 0; }
 .md-body a { word-break: break-word; }
@@ -169,14 +178,48 @@ footer.site a { color: var(--link); }
 .md-body strong { font-weight: 700; }
 .md-body em { font-style: italic; }
 .md-body hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
-.parent-quote {
-  margin: 0.6rem 0 0.85rem;
-  padding: 0.5rem 0.75rem;
-  border-left: 3px solid #cbbfae;
-  color: var(--muted);
-  font-size: 0.95rem;
-}
 .children { margin-left: 1rem; padding-left: 0.5rem; border-left: 2px solid var(--border); }
+.comments-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin: 1.25rem 0 0.5rem;
+}
+.comments-head h3 { margin: 0; }
+.parent-toggle {
+  font-size: 0.9rem;
+  color: var(--muted);
+  cursor: pointer;
+  user-select: none;
+}
+.parent-toggle input { margin-right: 0.35rem; }
+.comment.parent {
+  border: none;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+}
+.comment.parent > :not(.children) { display: none; }
+.comment.parent > .children {
+  margin-left: 0;
+  padding-left: 0;
+  border-left: none;
+}
+html.show-parents .comment.parent {
+  margin: 1rem 0;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card);
+}
+html.show-parents .comment.parent > :not(.children) { display: block; }
+html.show-parents .comment.parent > .children {
+  margin-left: 1rem;
+  padding-left: 0.5rem;
+  border-left: 2px solid var(--border);
+}
 .books-table {
   width: 100%;
   border-collapse: collapse;
@@ -296,18 +339,182 @@ _SEARCH_JS = """\
 })();
 """
 
+CACHE_NAME = "va-archive-v3"
 
-@dataclass
-class ThreadNode:
-    id: str
-    parent_id: Optional[str]
-    user: str
-    content: str
-    url: str
-    created_at: float
-    parent_user: Optional[str] = None
-    parent_content: Optional[str] = None
-    children: List["ThreadNode"] = field(default_factory=list)
+_PARENTS_JS = """\
+(function () {
+  const KEY = "va-show-parents";
+  const box = document.getElementById("show-parents");
+  if (!box) return;
+  if (!document.querySelector(".comment.parent")) {
+    const wrap = box.closest(".parent-toggle");
+    if (wrap) wrap.hidden = true;
+    return;
+  }
+  function apply(on) {
+    document.documentElement.classList.toggle("show-parents", on);
+    box.checked = on;
+  }
+  let stored = false;
+  try { stored = localStorage.getItem(KEY) === "1"; } catch (e) {}
+  apply(stored);
+  box.addEventListener("change", function () {
+    const on = box.checked;
+    try { localStorage.setItem(KEY, on ? "1" : "0"); } catch (e) {}
+    apply(on);
+  });
+})();
+"""
+
+_SW_JS = f"""\
+const CACHE = "{CACHE_NAME}";
+
+self.addEventListener("install", () => self.skipWaiting());
+self.addEventListener("activate", (event) => {{
+  event.waitUntil((async () => {{
+    const keys = await caches.keys();
+    await Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k)));
+    await self.clients.claim();
+  }})());
+}});
+
+async function fromCache(request) {{
+  const cache = await caches.open(CACHE);
+  const match = await cache.match(request);
+  if (match) return match;
+  const ignored = await cache.match(request, {{ ignoreSearch: true }});
+  if (ignored) return ignored;
+  const url = new URL(request.url);
+  if (url.pathname.endsWith("/")) {{
+    return cache.match(new URL("index.html", url).href);
+  }}
+  return undefined;
+}}
+
+self.addEventListener("fetch", (event) => {{
+  const req = event.request;
+  if (req.method !== "GET") return;
+  const url = new URL(req.url);
+  if (url.origin !== self.location.origin) return;
+
+  event.respondWith((async () => {{
+    const cached = await fromCache(req);
+    const network = fetch(req).then((resp) => {{
+      if (resp && resp.ok) {{
+        caches.open(CACHE).then((cache) => cache.put(req, resp.clone()));
+      }}
+      return resp;
+    }}).catch(() => undefined);
+    if (cached) {{
+      void network;
+      return cached;
+    }}
+    const resp = await network;
+    if (resp) return resp;
+    return new Response("Offline", {{
+      status: 503,
+      headers: {{ "Content-Type": "text/plain" }},
+    }});
+  }})());
+}});
+"""
+
+_OFFLINE_JS = f"""\
+(function () {{
+  const CACHE = "{CACHE_NAME}";
+  const script = document.currentScript;
+  const rootAttr = (script && script.getAttribute("data-root")) || "./";
+  const siteRoot = new URL(rootAttr, location.href);
+  const bar = document.querySelector(".offline-bar");
+  const btn = document.getElementById("offline-save");
+  const status = document.getElementById("offline-status");
+  if (!bar || !btn || !status) return;
+  if (!("serviceWorker" in navigator) || !("caches" in window)) return;
+
+  bar.hidden = false;
+
+  function setStatus(text) {{
+    status.textContent = text || "";
+  }}
+
+  function markSaved() {{
+    btn.hidden = true;
+    setStatus("Available offline");
+  }}
+
+  navigator.serviceWorker
+    .register(new URL("sw.js", siteRoot), {{ updateViaCache: "none" }})
+    .catch(function () {{}});
+
+  async function fileList() {{
+    const resp = await fetch(new URL("offline-files.json", siteRoot));
+    if (!resp.ok) throw new Error("Could not load file list");
+    return resp.json();
+  }}
+
+  async function alreadySaved(files) {{
+    try {{
+      const n = localStorage.getItem("va-offline-n");
+      if (!(n && Number(n) >= files.length)) return false;
+      const cache = await caches.open(CACHE);
+      const keys = await cache.keys();
+      return keys.length >= files.length;
+    }} catch (e) {{
+      return false;
+    }}
+  }}
+
+  fileList()
+    .then(async function (files) {{
+      if (await alreadySaved(files)) markSaved();
+    }})
+    .catch(function () {{}});
+
+  btn.addEventListener("click", async function () {{
+    btn.disabled = true;
+    setStatus("Saving\\u2026");
+    try {{
+      const files = await fileList();
+      const cache = await caches.open(CACHE);
+      let done = 0;
+      let failed = 0;
+      const total = files.length;
+      const chunk = 8;
+      for (let i = 0; i < files.length; i += chunk) {{
+        const batch = files.slice(i, i + chunk);
+        await Promise.all(batch.map(async function (file) {{
+          const url = new URL(file, siteRoot).href;
+          try {{
+            const hit = await cache.match(url);
+            if (!hit) {{
+              const resp = await fetch(url, {{ credentials: "same-origin" }});
+              if (!resp.ok) throw new Error(String(resp.status));
+              await cache.put(url, resp);
+            }}
+          }} catch (e) {{
+            failed += 1;
+          }}
+          done += 1;
+          setStatus("Saving " + done + "/" + total + "\\u2026");
+        }}));
+      }}
+      try {{
+        localStorage.setItem("va-offline-n", String(total - failed));
+      }} catch (e) {{}}
+      if (failed) {{
+        btn.disabled = false;
+        btn.hidden = false;
+        setStatus("Saved " + (total - failed) + "/" + total + " \\u2014 retry to finish");
+      }} else {{
+        markSaved();
+      }}
+    }} catch (e) {{
+      btn.disabled = false;
+      setStatus("Could not save offline.");
+    }}
+  }});
+}})();
+"""
 
 
 def format_timestamp(timestamp: float) -> str:
@@ -322,34 +529,6 @@ def group_submissions_by_year(submissions) -> Dict[int, list]:
         year = datetime.datetime.fromtimestamp(sub["created_at"], datetime.UTC).year
         by_year.setdefault(year, []).append(sub)
     return by_year
-
-
-def build_comment_threads(comments) -> List[ThreadNode]:
-    nodes: Dict[str, ThreadNode] = {}
-    for row in comments:
-        nodes[row["id"]] = ThreadNode(
-            id=row["id"],
-            parent_id=row["parent_id"],
-            user=row["author"] or "[deleted]",
-            content=row["comment_body"] or "",
-            url=row["permalink"] or "#",
-            created_at=row["created_utc"] or 0,
-            parent_user=row["parent_author"],
-            parent_content=row["parent_body"],
-        )
-
-    top_level: List[ThreadNode] = []
-    orphans: List[ThreadNode] = []
-    for node in nodes.values():
-        if node.parent_id and node.parent_id in nodes:
-            nodes[node.parent_id].children.append(node)
-        elif not node.parent_id:
-            top_level.append(node)
-        else:
-            orphans.append(node)
-
-    top_level.sort(key=lambda n: n.created_at)
-    return top_level + orphans
 
 
 def _sutta_repl(match: re.Match) -> str:
@@ -400,6 +579,7 @@ def page_shell(
     root: str = "",
     description: str = "Archive of Reddit discussions with Ven. Anīgha and Sister Medhini.",
 ) -> str:
+    site_root = root if root else "./"
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -408,6 +588,9 @@ def page_shell(
   <title>{html.escape(title)}</title>
   <meta name="description" content="{html.escape(description)}">
   <link rel="stylesheet" href="{root}assets/style.css">
+  <script>
+    try {{ if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); }} catch (e) {{}}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -420,6 +603,10 @@ def page_shell(
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -431,6 +618,8 @@ def page_shell(
       · <a href="{REPO_URL}" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="{root}assets/offline.js" data-root="{html.escape(site_root, quote=True)}"></script>
+  <script src="{root}assets/parents.js"></script>
 </body>
 </html>
 """
@@ -446,40 +635,39 @@ def teachers_in_comments(comments) -> List[str]:
 
 
 def render_comment(node: ThreadNode) -> str:
-    classes = "comment teacher" if node.user in TEACHERS else "comment"
+    if node.user in TEACHERS:
+        classes = "comment teacher"
+    else:
+        classes = "comment parent"
     who = html.escape(node.user)
-    when = html.escape(format_timestamp(node.created_at))
-    url = html.escape(node.url, quote=True)
+    url = html.escape(node.url, quote=True) if node.url and node.url != "#" else ""
 
-    parent_html = ""
-    if node.parent_id and node.parent_user and node.parent_content is not None:
-        parent_html = (
-            f'<div class="parent-quote"><strong>In reply to '
-            f"{html.escape(node.parent_user)}:</strong><br>"
-            f"{body_to_html(node.parent_content)}</div>"
-        )
-    elif node.parent_id:
-        parent_html = (
-            '<div class="parent-quote"><em>In reply to a comment not available</em></div>'
-        )
+    if url:
+        who_html = f'<a class="who" href="{url}">{who}</a>'
+    else:
+        who_html = f'<span class="who">{who}</span>'
+    when_html = ""
+    if not node.synthetic:
+        when_html = f'<span class="when">{html.escape(format_timestamp(node.created_at))}</span>'
+
+    body = body_to_html(node.content)
+    if node.synthetic and not (node.content or "").strip():
+        body = '<div class="md-body"><p><em>Comment not available</em></p></div>'
 
     children_html = ""
     if node.children:
-        kids = "\n".join(
-            render_comment(c) for c in sorted(node.children, key=lambda n: n.created_at)
-        )
+        kids = "\n".join(render_comment(c) for c in node.children)
         children_html = f'<div class="children">\n{kids}\n</div>'
 
     return f"""<article class="{classes}" id="c-{html.escape(node.id)}">
-  <div><a class="who" href="{url}">{who}</a><span class="when">{when}</span></div>
-  {parent_html}
-  <div class="body">{body_to_html(node.content)}</div>
+  <div>{who_html}{when_html}</div>
+  <div class="body">{body}</div>
   {children_html}
 </article>"""
 
 
 def render_thread_page(sub, comments, *, year: int) -> str:
-    roots = build_comment_threads(comments)
+    roots = build_comment_threads(comments, include_missing_parents=True)
     comments_html = "\n".join(render_comment(r) for r in roots) or "<p class=\"meta\">No comments archived.</p>"
     title = sub["title"] or "(untitled)"
     author = sub["author"] or "[deleted]"
@@ -493,7 +681,13 @@ def render_thread_page(sub, comments, *, year: int) -> str:
       <h2>{html.escape(title)}</h2>
       <p class="meta"><a href="{html.escape(link, quote=True)}">Original on Reddit</a></p>
       <div class="op">{body_to_html(sub["body"] or "")}</div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       {comments_html}
     </article>"""
     return page_shell(f"{title} · {year}", body, root="../", description=title)
@@ -574,8 +768,11 @@ def render_home(
       <strong>Bhikkhu Anīgha</strong> and <strong>Sister Medhini</strong>
       (chiefly r/HillsideHermitage). See also
       <a href="{HH_URL}" rel="noopener noreferrer" target="_blank">Hillside Hermitage</a>.
-      Thread pages include full context; citations like MN 44 are linked to
-      SuttaCentral on this site only.</p>
+      Thread pages show teacher replies; turn on
+      <strong>Show full user replies</strong> for the comments they answered.
+      Citations like MN 44 are linked to SuttaCentral on this site only.
+      Use <strong>Save offline</strong> in the header to keep browse and search
+      on this device.</p>
       <p class="meta">{thread_count} threads across {len(years)} year(s).
       Source: <a href="{REPO_URL}" rel="noopener noreferrer" target="_blank">github.com/uruvelakassapa/reddit-ven-anigha-archive</a>.</p>
     </section>
@@ -604,11 +801,35 @@ def render_home(
     return page_shell("Ven Anīgha Reddit Archive", body, root="")
 
 
+def collect_offline_files(site_dir: Path) -> List[str]:
+    """Relative paths the offline cache should store (not EPUB/PDF books)."""
+    files = [
+        "index.html",
+        "assets/style.css",
+        "assets/search.js",
+        "assets/offline.js",
+        "assets/parents.js",
+        "search-index.json",
+        "sw.js",
+        "offline-files.json",
+    ]
+    year_dir = site_dir / "year"
+    thread_dir = site_dir / "thread"
+    if year_dir.is_dir():
+        files.extend(f"year/{p.name}" for p in sorted(year_dir.glob("*.html")))
+    if thread_dir.is_dir():
+        files.extend(f"thread/{p.name}" for p in sorted(thread_dir.glob("*.html")))
+    return files
+
+
 def write_assets(site_dir: Path) -> None:
     assets = site_dir / "assets"
     assets.mkdir(parents=True, exist_ok=True)
     (assets / "style.css").write_text(_CSS, encoding="utf-8")
     (assets / "search.js").write_text(_SEARCH_JS, encoding="utf-8")
+    (assets / "offline.js").write_text(_OFFLINE_JS, encoding="utf-8")
+    (assets / "parents.js").write_text(_PARENTS_JS, encoding="utf-8")
+    (site_dir / "sw.js").write_text(_SW_JS, encoding="utf-8")
 
 
 def copy_books(books_dir: Path, site_dir: Path) -> Dict[int, Dict[str, int]]:
@@ -641,6 +862,8 @@ def generate_site(conn, site_dir: Path, books_dir: Path) -> None:
             "epub",  # legacy path
             "index.html",
             "search-index.json",
+            "sw.js",
+            "offline-files.json",
         ):
             path = site_dir / name
             if path.is_dir():
@@ -718,9 +941,17 @@ def generate_site(conn, site_dir: Path, books_dir: Path) -> None:
         json.dumps(search_index, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
+    offline_files = collect_offline_files(site_dir)
+    (site_dir / "offline-files.json").write_text(
+        json.dumps(offline_files, separators=(",", ":")),
+        encoding="utf-8",
+    )
     # Helpful for GitHub Pages / local servers
     (site_dir / ".nojekyll").write_text("", encoding="utf-8")
-    print(f"Finished: {len(submissions)} threads, {len(search_index)} search entries.")
+    print(
+        f"Finished: {len(submissions)} threads, {len(search_index)} search entries, "
+        f"{len(offline_files)} offline files."
+    )
 
 
 def parse_args() -> argparse.Namespace:

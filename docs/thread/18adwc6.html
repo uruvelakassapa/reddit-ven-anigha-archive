@@ -6,6 +6,9 @@
   <title>breath is default object!! · 2023</title>
   <meta name="description" content="breath is default object!!">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,10 +38,15 @@
 <p>is that ok. or some kind of delusion.?</p>
 <p>&#x200B;</p>
 <p>&#x200B;</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kbxv8et">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/18adwc6/breath_is_default_object/kbxv8et/">Bhikkhu_Anigha</a><span class="when">2023-12-04 11:15 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>As you put it, this is "breath observation", which is an entirely different thing from Anapanasati. It's "OK" for as long as you don't think that that's getting you any closer to understanding the Dhamma, but that's not usually the view people have. They think they're practicing Anapanasati/satipaṭṭhānas by doing that, and <em>that</em> is the delusion.</p>
 <p>Anapanasati is about discerning the body, feelings, mind and thoughts while you are breathing, not about observing your breath or bodily sensations (although of course those things come up on their own; the point is to not think they're somehow important). The former is yoniso manasikāra; the latter is the opposite. The former is the <a href="https://suttacentral.net/sn54.11/en/sujato?lang=en&amp;layout=linebyline&amp;reference=none&amp;notes=sidenotes&amp;highlight=false&amp;script=latin" rel="noopener noreferrer" target="_blank">abiding of the Tathāgata</a>; the latter can perfectly well be taught by a mere psychotherapist.</p>
 <p>&#x200B;</p>
@@ -49,5 +61,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

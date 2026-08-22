@@ -6,10 +6,10 @@ import argparse
 import datetime
 import os
 import sys
-from dataclasses import dataclass, field
-from typing import Dict, List, Optional
+from typing import Dict
 
 import db
+from threads import ThreadNode, build_comment_threads
 
 MARKDOWN_DIR_DEFAULT = "markdown_files"
 
@@ -37,19 +37,6 @@ pdf-engine: xelatex
 """
 
 
-@dataclass
-class ThreadNode:
-    id: str
-    parent_id: Optional[str]
-    user: str
-    content: str
-    url: str
-    created_at: float
-    parent_user: Optional[str] = None
-    parent_content: Optional[str] = None
-    children: List["ThreadNode"] = field(default_factory=list)
-
-
 def group_submissions_by_year(submissions) -> Dict[int, list]:
     by_year: Dict[int, list] = {}
     for sub in submissions:
@@ -58,62 +45,26 @@ def group_submissions_by_year(submissions) -> Dict[int, list]:
     return by_year
 
 
-def build_comment_threads(comments) -> List[ThreadNode]:
-    """Build nested threads from a flat comment list; return ordered roots."""
-    nodes: Dict[str, ThreadNode] = {}
-    for row in comments:
-        nodes[row["id"]] = ThreadNode(
-            id=row["id"],
-            parent_id=row["parent_id"],
-            user=row["author"],
-            content=row["comment_body"],
-            url=row["permalink"],
-            created_at=row["created_utc"],
-            parent_user=row["parent_author"],
-            parent_content=row["parent_body"],
-        )
-
-    top_level: List[ThreadNode] = []
-    orphans: List[ThreadNode] = []
-    for node in nodes.values():
-        parent_id = node.parent_id
-        if parent_id and parent_id in nodes:
-            nodes[parent_id].children.append(node)
-        elif not parent_id:
-            top_level.append(node)
-        else:
-            orphans.append(node)
-
-    top_level.sort(key=lambda n: n.created_at)
-    return top_level + orphans
-
-
 def format_timestamp(timestamp: float) -> str:
     return datetime.datetime.fromtimestamp(timestamp, datetime.UTC).strftime(
         "%Y-%m-%d %H:%M:%S"
     )
 
 
-def _indent_block(text: str, indent: str, *, quote: bool = False) -> str:
-    """Indent paragraphs; optionally as a Markdown blockquote."""
-    prefix = f"{indent}> " if quote else indent
-    blank = f"{indent}>" if quote else ""
-    paragraphs = text.split("\n\n")
+def _indent_block(text: str, indent: str) -> str:
+    """Indent paragraphs as nested list content (not a Markdown blockquote)."""
+    paragraphs = (text or "").split("\n\n")
     indented = [
-        "\n".join(f"{prefix}{line}" for line in paragraph.split("\n"))
+        "\n".join(f"{indent}{line}" for line in paragraph.split("\n"))
         for paragraph in paragraphs
     ]
-    joiner = f"\n{blank}\n" if quote else "\n\n"
-    return joiner.join(indented)
+    return "\n\n".join(indented)
 
 
-def format_parent_info_full(node: ThreadNode, indent: str) -> str:
-    if not node.parent_id:
-        return ""
-    if node.parent_user and node.parent_content is not None:
-        quoted = _indent_block(node.parent_content, indent, quote=True)
-        return f"\n\n{indent}*(In reply to {node.parent_user}):*\n{quoted}\n"
-    return f"\n\n{indent}*(In reply to a comment not available)*\n"
+def _who_markdown(node: ThreadNode) -> str:
+    if node.url and node.url != "#":
+        return f"**[{node.user}]({node.url})**"
+    return f"**{node.user}**"
 
 
 def format_comment_markdown(node: ThreadNode, *, include_parents: bool, level: int) -> str:
@@ -121,27 +72,22 @@ def format_comment_markdown(node: ThreadNode, *, include_parents: bool, level: i
     content_indent = "    " * (level + 1)
     indented_content = _indent_block(node.content, content_indent)
 
-    parent_info_md = ""
-    if include_parents:
-        parent_info_md = format_parent_info_full(node, content_indent)
-    elif level > 0 and node.parent_id:
-        parent_info_md = " *(in reply to a comment not included)*"
-
-    comment_time = format_timestamp(node.created_at)
-    title_base = f"**[{node.user}]({node.url})** _{comment_time}_"
-
-    if not include_parents and parent_info_md:
-        comment_title = f"{title_base}{parent_info_md}"
-        parent_info_md = ""
+    who = _who_markdown(node)
+    if node.synthetic:
+        comment_title = who
     else:
-        comment_title = title_base
+        comment_title = f"{who} _{format_timestamp(node.created_at)}_"
 
-    if include_parents:
-        markdown = f"{indent_str}- {comment_title}:{parent_info_md}\n{indented_content}\n"
-    else:
-        markdown = f"{indent_str}- {comment_title}:\n\n{indented_content}\n"
+    extra = ""
+    if not include_parents and not node.synthetic and level == 0 and node.parent_id:
+        if node.parent_user:
+            extra = f" *(in reply to {node.parent_user})*"
+        else:
+            extra = " *(in reply to a comment not included)*"
 
-    for child in sorted(node.children, key=lambda n: n.created_at):
+    markdown = f"{indent_str}- {comment_title}{extra}:\n\n{indented_content}\n"
+
+    for child in node.children:
         markdown += format_comment_markdown(
             child, include_parents=include_parents, level=level + 1
         )
@@ -156,7 +102,9 @@ def generate_submission_markdown(conn, submission, *, include_parents: bool) -> 
 
     comments = db.fetch_comments_for_submission(conn, submission["id"])
     if comments:
-        for root in build_comment_threads(comments):
+        for root in build_comment_threads(
+            comments, include_missing_parents=include_parents
+        ):
             md += format_comment_markdown(root, include_parents=include_parents, level=0)
 
     return md + "\n---\n\n"

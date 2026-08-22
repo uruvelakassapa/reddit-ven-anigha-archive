@@ -13,7 +13,7 @@ Related: [Hillside Hermitage](https://www.hillsidehermitage.org/)
 | SQLite | `reddit_comments.db` | Source of truth |
 | Markdown | `markdown_files/` | Yearly `standard` and `full` |
 | EPUB + PDF | `books/` | From full Markdown via Pandoc (+ XeLaTeX for PDF) |
-| Web site | `docs/` | Browse, search, SuttaCentral links — live at the URL above |
+| Web site | `docs/` | Browse, search, Save offline, optional full user replies — live at the URL above |
 
 The site is published with **GitHub Pages** from the `docs/` folder on `main`.
 

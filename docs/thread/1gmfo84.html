@@ -6,6 +6,9 @@
   <title>Taking things for anxiety · 2024</title>
   <meta name="description" content="Taking things for anxiety">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -38,10 +45,15 @@ I think understanding this framework of others is important.  I'm trying to stop
 <p>Edit: down vote if you feel it's appropriate, but consider leaving a comment with your thoughts instead.  If the answer to a question is worth knowing, the question has value, and the Buddha encourages the asking of questions. </p>
 <p>Given the honest history I laid out above, I think I'll continue to proceed with caution. I was considering buying some ashwagandha again to see if that would help with this horrible neck tension, but I'll put that on hold.  I still don't know where the milder things I listed above like magnesium and catnip fit. </p>
 <p>It might be that part or all of the problem lies in looking for, valuing, and assuming a solution that isn't instead about letting go of the problem.  There is a place where I stop "making the problem" but it's hard to find.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lw7js7p">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gmfo84/taking_things_for_anxiety/lw7js7p/">Bhikkhu_Anigha</a><span class="when">2024-11-09 05:44 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>As long as something isn't an intoxicant, it's fine in itself. Everyone inevitably engages in management to some degree. It's wrong if (1) the management takes you outside the precepts or (2) you fall into the view that managing the circumstances that <em>trigger</em> your liability to suffering is the way to liberate yourself from suffering. But if you draw the line of allowable management somewhere (the precepts being the most fundamental "line"), and then move on to doing the actual work of undoing the liability, you won't get sidetracked.</p></div></div>
   
 </article>
@@ -53,5 +65,7 @@ I think understanding this framework of others is important.  I'm trying to stop
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

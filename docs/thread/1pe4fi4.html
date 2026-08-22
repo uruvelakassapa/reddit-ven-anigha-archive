@@ -6,6 +6,9 @@
   <title>Useful &quot;Minimum&quot; Duration of Celibacy for Temporary Ordination · 2025</title>
   <meta name="description" content="Useful &quot;Minimum&quot; Duration of Celibacy for Temporary Ordination">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>I'm in a relationship that is quite healthy (and ironically, sometimes a powerful tool against lust for me), but I plan to take temporary ordination at some point soon (and likely at various points in my life).</p>
 <p>While monastic life will offer me a plethora of benefits, I see the biggest change from my regular life will be in celibacy. Given that, what duration would you all say is the minimum useful time to take on celibacy for, in order to really allow mental/energetic shifts and defense mechanisms to establish themselves?</p>
 <p>I respectfully ask that this thread doesn't turn into a debate on the requirement of celibacy for stream-entry (as much respect I have for the general HH position). Thank you for your time and thoughts.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-nsenkxj">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pe4fi4/useful_minimum_duration_of_celibacy_for_temporary/nsenkxj/">Bhikkhu_Anigha</a><span class="when">2025-12-05 11:14 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>First of all I wouldn't recommend temporary ordination. <br />
 It erodes the significance of the robe for yourself. That significance is important because it creates some friction between desires that will inevitably arise and the decision to give up the training. You will have a lot less of that friction if you ever decide to ordain permanently having already disrobed before.</p>
 <p>Above all, don't go for bhikkhu ordination. Firstly because it's dishonest: at the end of the ordination procedure, you accept that you will not engage in intercourse and the other <em>pārājikas</em> for the rest of your life (which, incidentally, sets the context for every Sutta addressed to bhikkhus, which is most of them). Secondly because never having been a bhikkhu would keep at least one line that you haven't crossed before, to maintain that friction I referred to.</p>
@@ -49,5 +61,7 @@ It erodes the significance of the robe for yourself. That significance is import
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Satipatthana - internal, external, both internal and external. · 2024</title>
   <meta name="description" content="Satipatthana - internal, external, both internal and external.">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -51,10 +58,15 @@
 <p>Obviously, I am very keen to find out what Bhikkhu Anigha's interpretation is - unfortunately, he does not elaborate in that post, and I could not find any elsewhere (of course, I might have missed it.)</p>
 <p>Also - why the "both internal and external", as expressed multiple times in the refrain? I mean, one can contemplate "internally", or "externally" (whatever their definition), but why add the "both" as a separate method in and all of itself?  As it is often pointed out, the fact that some phrases or words are repeated multiple times in a sutta, it is an indication of the importance the Buddha placed on those instructions, and, as a natural implication, they should be understood.</p>
 <p>As always, I am very grateful for any elucidation, May you all be well.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-le1kiq0">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e79wsy/satipatthana_internal_external_both_internal_and/le1kiq0/">Bhikkhu_Anigha</a><span class="when">2024-07-20 05:29 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>I hadn't considered the passage in <a href="https://suttacentral.net/dn18" rel="noopener noreferrer" target="_blank">DN 18</a>. However, it doesn't actually say that one is mindful externally as a <em>practice</em>. It says that one gives rise to knowledge and vision of the body, feelings, etc. of others externally as a result of practice.</p>
 <p>The more useful way of interpreting it is that <em>ajjhattaṃ</em> means "implicitly", <em>bahiddhā</em> means "explicitly". Or, "peripheral" and "actual".</p>
 <p>So, at certain times, you need to be making effort to explicitly think about the body, feelings, etc.; at other times the recollection is "behind" your direct thinking and attention, by itself. This internal aspect becomes most palpable in <em>samādhi</em> (and becoming established in virtue is the most basic form of it), and it's why prior to jhānas the Suttas so often state that the mind <a href="https://suttas.hillsidehermitage.org/?q=sn35.246#sn35.246:3.13-sn35.246:3.14" rel="noopener noreferrer" target="_blank">becomes established, settled and composed internally</a> (this was the central point of my <a href="https://www.reddit.com/r/theravada/comments/1e2sv0t/on_thinking_about_jhāna_by_ven_thanissaro/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button" rel="noopener noreferrer" target="_blank">most recent post</a>). It's also how an Arahant is always mindful effortlessly, despite it being as impossible as before to keep their attention fixed on a particular object forever.</p>
@@ -71,5 +83,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

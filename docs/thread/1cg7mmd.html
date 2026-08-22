@@ -6,6 +6,9 @@
   <title>What about the so called &quot;arupa jhanas&quot;? · 2024</title>
   <meta name="description" content="What about the so called &quot;arupa jhanas&quot;?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>I'm talking about the dimension of infinite consciousness, of nothingness, of neither perception nor not perception etc. What is HH stance on these things? I'm asking because it seems that these things are very important according to some suttas, and, at the same time, I personally wasn't able to find any talk about the "arupas".</p>
 <p>I'm also wandering if they are connected with modern meditation techniques. For example, Ajahn Brahm teaches a kind of meditation where a practitioner loses the perception of the body, 5 senses (he excludes the 6 sense for some reason) etc., which sounds similar to the two latter "arupa jhanas".</p>
 <p>Thanks.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-l1w2mjs">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cg7mmd/what_about_the_so_called_arupa_jhanas/l1w2mjs/">Bhikkhu_Anigha</a><span class="when">2024-04-30 03:42 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>I personally wasn't able to find any talk about the "arupas".</p>
 </blockquote>
@@ -43,9 +55,12 @@
 <p>Most definitely not. The ārupa attainments (they're not "jhānas") come about through developing the same principle as the 4 jhānas but on an even subtler plane (where, indeed, you wouldn't be perceiving objects of the five senses, but for the complete opposite reason of being "absorbed" or "concentrated"; instead, you <em>widened</em> your perspective and context way past that domain). Hence it's even more impossible for a person to attain any of those states "accidentally" or through a meditation technique, and they will remain completely out of reach just like the jhānas if one hasn't fulfilled the previous steps of the Gradual Training to a T. As shown by <a href="https://suttacentral.net/mn106" rel="noopener noreferrer" target="_blank">MN 106</a>, it all invariably starts with the abandonment of sensuality and the world.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-l3mlk63">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cg7mmd/what_about_the_so_called_arupa_jhanas/l3mlk63/">Belozersky</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, I've reread your answer and I have the following question: it seems that you are describing jhanas and arupa attainments as something progressive and connected ("developing the same principle as the 4 jhānas but on an even subtler plane"). How would you explain the memory of the Buddha's jhana attainment in the childhood? He didn't resort to remembering his practice of arupa attainments, memories of which certainly were way more vivid. What's so liberative in jhanas but not in arupa attainments if they both use the same principle? Thanks.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-l41cv7r">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cg7mmd/what_about_the_so_called_arupa_jhanas/l41cv7r/">Bhikkhu_Anigha</a><span class="when">2024-05-14 18:13 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Belozersky:</strong><br><div class="md-body"><p>Bhante, I've reread your answer and I have the following question: it seems that you are describing jhanas and arupa attainments as something progressive and connected ("developing the same principle as the 4 jhānas but on an even subtler plane"). How would you explain the memory of the Buddha's jhana attainment in the childhood? He didn't resort to remembering his practice of arupa attainments, memories of which certainly were way more vivid. What's so liberative in jhanas but not in arupa attainments if they both use the same principle? Thanks.</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>it seems that you are describing jhanas and arupa attainments as something progressive and connected</p>
 </blockquote>
@@ -57,6 +72,8 @@
 <p>But he did have enough discernment by that point to realize that the pleasure he experienced as a child from the first jhāna was not in fact unwholesome, and that brought him to recognize the Middle Way, i.e., change his view, and then basically start working his way up from the right starting point.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -65,5 +82,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

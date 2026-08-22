@@ -6,6 +6,9 @@
   <title>Praise and blame · 2023</title>
   <meta name="description" content="Praise and blame">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>I realized right now I’ve always hated being wrong because I always associated being wrong with blame from others. And the same is true for why I’ve loved being right; an implicit love for praise. I used to go out my way to get praised by others, at least that coarse level of behavior is not longer present in me. But love for right and hate for wrong are still really just disguises for praise and blame.</p>
 <p>How to overcome praise and blame? What are the drawbacks, danger, and escape with regards to praise and blame? How does one see them? I can list the drawbacks on a mundane level, but I’m tired of mundane stuff.</p>
 <p>Wanting praise and not wanting blame are still sensuality, so I suppose seeing the danger in sensuality would have to result in overcoming praise and blame?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-k9ga47j">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17vmmyz/praise_and_blame/k9ga47j/">Bhikkhu_Anigha</a><span class="when">2023-11-16 03:03 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Wanting praise and not wanting blame are still sensuality, so I suppose seeing the danger in sensuality would have to result in overcoming praise and blame?</p>
 </blockquote>
@@ -74,5 +86,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

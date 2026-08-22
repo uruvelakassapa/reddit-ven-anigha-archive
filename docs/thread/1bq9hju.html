@@ -6,6 +6,9 @@
   <title>Sankhara as an attitude? · 2024</title>
   <meta name="description" content="Sankhara as an attitude?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -39,10 +46,15 @@
 <li>Why is that "regarding" an activity?</li>
 <li>It makes sense for that "regarding" to be an attitude: I simply <em>find</em> myself already having appropriat<em>ed</em> this experience as a whole <em>for me</em>. But this understanding of that "regarding" as an attitude seems incompatible with that "regarding" being an activity. One is implicit (attitude), whilst the other is explicit (activity).</li>
 </ol></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kx3q24x">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bq9hju/sankhara_as_an_attitude/kx3q24x/">Bhikkhu_Anigha</a><span class="when">2024-03-29 12:59 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <ol>
 <li>
@@ -58,9 +70,9 @@
 <p>* The attitude will feel implicit to the extent that it's not understood. But the more the "dust" that is obscuring it is cleared out (<a href="https://suttacentral.net/an10.61/en/sujato?lang=en&amp;layout=sidebyside&amp;reference=none&amp;notes=asterisk&amp;highlight=false&amp;script=latin" rel="noopener noreferrer" target="_blank">through none other than virtue and sense restraint</a>), the attitude gradually begins to become more explicit. Once there is not a trace of doubt about what the attitude is, the attitude will be gone, and that's stream-entry. Then, for a stream-enterer or higher, taking things as "mine" (the subtler <em>asmimāna</em> as opposed to the coarse <em>sakkāyadiṭṭhi</em> of the puthujjana) <em>is</em> in a sense a matter of explicit choice, which is why they're instructed not to do so in <a href="https://suttacentral.net/mn1" rel="noopener noreferrer" target="_blank">MN 1</a> and throughout the discourses.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kxd39j3">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bq9hju/sankhara_as_an_attitude/kxd39j3/">Bhikkhu_Anigha</a><span class="when">2024-03-31 06:00 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Thank you, that clarified a lot. I'll try to communicate my current understanding.</p>
+<article class="comment parent" id="c-kx660mw">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bq9hju/sankhara_as_an_attitude/kx660mw/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Thank you, that clarified a lot. I'll try to communicate my current understanding.</p>
 <p>I remember reading §25 in the Note on PS and at that time only thought of it as an abstract description of ignorance:</p>
 <blockquote>
 <p>Non-knowledge of knowledge of the four noble truths is non-knowledge of vijjā, and non-knowledge of vijjā is failure to recognize <strong>avijjā as avijjā</strong></p>
@@ -74,6 +86,9 @@
 <p>It is because of that lack of endurance and infatuation with particulars that there is maintainence of avijja, regardless of if I get all of this correct in theory.</p>
 <p>Is this correct?</p>
 <p>Also, I notice <a href="https://www.hillsidehermitage.org/the-infinity-of-the-mind-notes-on-an-1-51/" rel="noopener noreferrer" target="_blank">Ajahn</a> as well as <a href="https://www.reddit.com/r/HillsideHermitage/comments/17v0cqw/comment/k9kf5u6/" rel="noopener noreferrer" target="_blank">yourself</a> talk about the reflexive hierarchy being the citta. If this isn't too unnecessarily technical of a question, could you elaborate on how the reflexive hierarchy is the citta? I wonder whether there's something I'm misunderstanding regarding the citta on account of which I'm unable to understand the relation. The reflexive hierarchy is in essence degrees of knowledge of what is present, but what does this hierarchical knowledge have to do with the citta which holds the <em>attitudes</em>?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kxd39j3">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bq9hju/sankhara_as_an_attitude/kxd39j3/">Bhikkhu_Anigha</a><span class="when">2024-03-31 06:00 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>With the ignoring of that arisen notion, there is conceiving of what is perceived (perceived is not recognized as 'just' perceived). Conceiving what is perceived there is the notion of seperation (self and the world are different), unity (self and the world are the same), seperation-and-unity, neither-seperation-nor-unity. </p>
 </blockquote>
@@ -95,6 +110,8 @@
 <p>That's the entire principle of purification of the mind, without exception. And, of course, when you act out of body and speech, there is 0 possibility of discerning any of this, as you're already swimming far past the origin of the stream, so to speak. That's why virtue comes first.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -103,5 +120,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

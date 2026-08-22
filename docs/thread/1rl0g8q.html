@@ -6,6 +6,9 @@
   <title>Question about virtue, entertainment, and understanding the emphasis on celibacy · 2026</title>
   <meta name="description" content="Question about virtue, entertainment, and understanding the emphasis on celibacy">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -46,15 +53,26 @@
 <p>My other question concerns <strong>understanding the mind more deeply</strong>. Sometimes I find it difficult to imagine how seeing the “signs of the mind” could appear fundamentally different from how experience already presents itself now, aside from removing distractions like entertainment. At times I even feel unsure what further shift in understanding would actually look like. I’ve occasionally experienced states of seclusion from sensuality when abstaining from entertainment for extended periods, accompanied by a kind of steady and collected thinking, secluded from sensuality, which sometimes seems similar to how the suttas describe jhāna. But even with experiences like that, I’m not sure how they relate to genuine progress on the path.</p>
 <p>So I suppose my underlying question is simply whether my perspective here is missing something important about the nature of virtue or about what insight into the Four Noble Truths actually involves.</p>
 <p>I would very much appreciate any clarification or correction if my understanding here is mistaken.</p></div></div>
-      <h3>Comments</h3>
-      <article class="comment teacher" id="c-o8uimex">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1rl0g8q/question_about_virtue_entertainment_and/o8uimex/">Sister_Medhini</a><span class="when">2026-03-05 20:52 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Global_Ad_7891:</strong><br><div class="md-body"><p>I guess in a way I'm asking, could I conceivably be close to stream entry? Kind of a cringey question to ask such a serious community, but I want to understand more about why Bhikkhu Anigha stresses becoming first established in celibacy as a priority in the wiki.</p>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
+      <article class="comment parent" id="c-o8ok9cd">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1rl0g8q/question_about_virtue_entertainment_and/o8ok9cd/">Global_Ad_7891</a></div>
+  <div class="body"><div class="md-body"><p>I guess in a way I'm asking, could I conceivably be close to stream entry? Kind of a cringey question to ask such a serious community, but I want to understand more about why Bhikkhu Anigha stresses becoming first established in celibacy as a priority in the wiki.</p>
 <p>edit: Also, I find eating enjoyable still, is that a hindrance to stream entry?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-o8uimex">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1rl0g8q/question_about_virtue_entertainment_and/o8uimex/">Sister_Medhini</a><span class="when">2026-03-05 20:52 UTC</span></div>
   <div class="body"><div class="md-body"><p>One of the reasons that celibacy is said to be a priority is that many people's deeply-held views about the world, life, happiness and their own existence are, unbeknownst to themselves, bound up with non-celibacy - as a "normal and good part of life and who I am." There is a sense of safety in it. This creates, in many, a visceral resistance when it comes to giving it up that is on a different level to the mere sensual addiction. </p>
 <p>Not everyone carries this particular view in regards to celibacy to the same degree. But pretty much everyone will have a personal sense of safety in something or other that they are by default refusing to undermine or question. This is the reason they are not overcoming the first three fetters. </p>
 <p>Basically, not actually trying to follow the <em>whole</em> of the instruction to the best of one's ability, leaving out aspects you don't like or don't want to do, equates to the attitude that the Dhamma is a sort of semi-optional side-project. It implies lack of faith.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -64,5 +82,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

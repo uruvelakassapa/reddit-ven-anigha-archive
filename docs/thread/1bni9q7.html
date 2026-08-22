@@ -6,6 +6,9 @@
   <title>Not acting out of any feeling · 2024</title>
   <meta name="description" content="Not acting out of any feeling">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,25 +35,33 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1bni9q7/not_acting_out_of_any_feeling/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>I was reading the article by Sister Medhini about fixed views vs unfixed certainties (https://www.hillsidehermitage.org/fixed-views-vs-unfixed-certainties) and towards the end she says "if you train towards not acting out of feeling to any extent at all...." <br />
 This seems amazing to me. Is this how we should train?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kwlzdi6">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bni9q7/not_acting_out_of_any_feeling/kwlzdi6/">Bhikkhu_Anigha</a><span class="when">2024-03-26 07:18 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>There is a difference between acting "with" a feeling and acting "out of" a feeling. The latter means that your action is rooted in either desire to increase a pleasant feeling or resistance to an unpleasant feeling. But if you make an action without either of those attitudes regarding the feeling that is there, you didn't act "out" of it.</p>
 <p>For this to make sense, it must be understood that "feeling" is always a broad mental phenomenon, and it's, to put it roughly, what you're referring you when replying to the question "how are you doing right now?".  A feeling is emphatically not a physical sensation.</p>
 <p>When you're hungry, there would normally be both an unpleasant feeling (i.e., a mental uneasiness), and a physical sensation in your stomach. An action of eating would be "acting out" of the present feeling if you eat in order to get rid of the mental displeasure, as opposed to just the physical phenomenon of hunger. In other words, if your motivation behind eating is emotional. You would know that it is because there's some particular food that you want, for instance, as opposed to just about anything that will quell the physiological hunger.</p>
 <p>With any feeling, there is an endless range of things that you can do which would not be a form of acting "out of it". If your mind is obsessed by the pleasant feeling of some sensual object, you can do chores, go for a walk, read, think about other things—pretty much anything that does not entail engaging with that object by body, speech, or mind. So "never acting out of feelings" does not entail locking yourself up in a dark cave and never moving a limb ever again.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kwuab3e">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bni9q7/not_acting_out_of_any_feeling/kwuab3e/">Bhikkhu_Anigha</a><span class="when">2024-03-27 19:03 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Bhante, you say:</p>
+<article class="comment parent" id="c-kwmlf2r">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bni9q7/not_acting_out_of_any_feeling/kwmlf2r/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, you say:</p>
 <blockquote>
 <p>it must be understood that "feeling" is always a broad mental phenomenon</p>
 </blockquote>
 <p>However, this seems to state that there is only <em>a</em> feeling. But, isn’t there feeling associated with each sense base?</p>
 <p>This was how I understood how I could have a pleasant experience of eating something nice whilst being in pain physically. Is the physical pain and “niceness” of eating something good only perception?</p>
 <p>I used to have great difficulty, and still do, in distinguishing between perception and feeling. It’s almost as though perception = feeling all the time, but when I recognize that perception and feeling are separate but always occur together, I still don’t know <em>what</em> is perception and <em>what</em> is feeling so that I can figure out “what” to not act out of. Sometimes it feels the feeling is just entirely invisible, so how do I determine whether I’ve acted out or not..? Maybe I’m overthinking this..</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kwuab3e">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bni9q7/not_acting_out_of_any_feeling/kwuab3e/">Bhikkhu_Anigha</a><span class="when">2024-03-27 19:03 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>However, this seems to state that there is only <em>a</em> feeling. But, isn’t there feeling associated with each sense base?</p>
 </blockquote>
@@ -61,10 +76,15 @@ This seems amazing to me. Is this how we should train?</p></div></div>
 <p>Edit: You can think of perception as encompassing things like (for each of the 6 senses respectively): blue, yellow, red; high pitch, low pitch; petrichor, lavender (smells); salty, sweet, etc.; hard, soft, cold, hot, etc., and finally the endless array of content of mental images. Feeling, on the other hand, is only "nice", "not nice", or neither.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-kwuhvqh">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bni9q7/not_acting_out_of_any_feeling/kwuhvqh/">obobinde</a></div>
+  <div class="body"><div class="md-body"><p>So this is where I kinda get lost. Let's say I'm feeling neutral and then out of the blue I'm starting to feel lustful. If vedana/feeling can only be pleasant/unpleasant and neutral, being lustful here would be what ? and would it be a particular or a broad vedana ? Maybe I'm making this complicated when it's not ... sorry if that's the case.</p>
+<p>Also does this understanding of having two kinds of vedana (the broad one and the particular one) is based only on the satipatthana (vedana within vedana...) or is it a natural understanding coming from disparate suttas showing both broad and particular vedana being taught by the Buddha ?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-kwzur4h">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bni9q7/not_acting_out_of_any_feeling/kwzur4h/">Bhikkhu_Anigha</a><span class="when">2024-03-28 18:51 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to obobinde:</strong><br><div class="md-body"><p>So this is where I kinda get lost. Let's say I'm feeling neutral and then out of the blue I'm starting to feel lustful. If vedana/feeling can only be pleasant/unpleasant and neutral, being lustful here would be what ? and would it be a particular or a broad vedana ? Maybe I'm making this complicated when it's not ... sorry if that's the case.</p>
-<p>Also does this understanding of having two kinds of vedana (the broad one and the particular one) is based only on the satipatthana (vedana within vedana...) or is it a natural understanding coming from disparate suttas showing both broad and particular vedana being taught by the Buddha ?</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Let's say I'm feeling neutral and then out of the blue I'm starting to feel lustful. If vedana/feeling can only be pleasant/unpleasant and neutral, being lustful here would be what ? and would it be a particular or a broad vedana ? Maybe I'm making this complicated when it's not ... sorry if that's the case.</p>
 </blockquote>
@@ -76,6 +96,8 @@ This seems amazing to me. Is this how we should train?</p></div></div>
 <p>(The same principle is also echoed in <a href="https://suttacentral.net/an6.55" rel="noopener noreferrer" target="_blank">AN 6.55</a> on the section about the Arahant's citta (i.e., his general feeling) remaining unmoved regarding the feelings of the 6 senses).</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -84,5 +106,7 @@ This seems amazing to me. Is this how we should train?</p></div></div>
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

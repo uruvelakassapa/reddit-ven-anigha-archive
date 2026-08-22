@@ -6,6 +6,9 @@
   <title>After Recognizing Sensuality as Bait for Hindrances : Right Effort to protect one from that sinking feeling. · 2026</title>
   <meta name="description" content="After Recognizing Sensuality as Bait for Hindrances : Right Effort to protect one from that sinking feeling.">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -32,10 +39,15 @@
 <p>Are there any interesting hobbies you guys have inculcated that reinforce wholesome states of mind ? Something that mitigates dependent behavior tendencies while also reinforcing a sense of meaning.</p>
 <p>Which brings me to another query : If one is through conduct, abandon the aggregates, with the intention of abandoning ownership of a self, is there no room for Self-Worth ? Wouldn't this line of thinking create a void that exacerbates vulnerability to the hindrances ?</p>
 <p>Warm regards. </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ny1cml6">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1q5c59g/after_recognizing_sensuality_as_bait_for/ny1cml6/">Bhikkhu_Anigha</a><span class="when">2026-01-06 17:04 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>However, I now find myself overly vigilant, guilty and a little helpless and restless. If conditional experiences are unsatisfactory and impermanent, what am I to extract a subtler more refined form of peace (Joy) from ?</p>
 </blockquote>
@@ -51,5 +63,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

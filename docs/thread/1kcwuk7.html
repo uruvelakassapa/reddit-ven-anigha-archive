@@ -6,6 +6,9 @@
   <title>Mindstream kleshas question · 2025</title>
   <meta name="description" content="Mindstream kleshas question">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,19 +35,33 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1kcwuk7/mindstream_kleshas_question/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>Can the defilements of the mindstream be distinguished in any way from the defilements of the mind? Or observed as part of the internal relationship? </p>
 <p>If not, is there any conceptualization of what does come from it available that can be reliably pointed to as an example?</p></div></div>
-      <h3>Comments</h3>
-      <article class="comment teacher" id="c-mqdquev">
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
+      <article class="comment parent" id="c-mq7f2d8">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kcwuk7/mindstream_kleshas_question/mq7f2d8/">Little_Carrot6967</a></div>
+  <div class="body"><div class="md-body"><p>I'm asking what if any contribution the mindstream makes in the You/Animal relationship as taught by HH.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mqdquev">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kcwuk7/mindstream_kleshas_question/mqdquev/">Bhikkhu_Anigha</a><span class="when">2025-05-03 15:07 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Little_Carrot6967:</strong><br><div class="md-body"><p>I'm asking what if any contribution the mindstream makes in the You/Animal relationship as taught by HH.</p></div></div>
   <div class="body"><div class="md-body"><p>Thinking in terms of a "mindstream"—a wrong view that arose with later non-canonical texts and contradicts basic principles of phenomenology—will destroy any chances of seeing that relationship.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mqhfxhj">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kcwuk7/mindstream_kleshas_question/mqhfxhj/">Bhikkhu_Anigha</a><span class="when">2025-05-04 04:06 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Little_Carrot6967:</strong><br><div class="md-body"><p>That's interesting because Ajahn Nyanamoli Thero has used that term as a reference for instruction in at least one of his videos. Are you saying he has wrong view?</p>
+</div>
+</article>
+<article class="comment parent" id="c-mqer431">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kcwuk7/mindstream_kleshas_question/mqer431/">Little_Carrot6967</a></div>
+  <div class="body"><div class="md-body"><p>That's interesting because Ajahn Nyanamoli Thero has used that term as a reference for instruction in at least one of his videos. Are you saying he has wrong view?</p>
 <p>Also, if mindstream is wrong view, could you explain how? </p>
 <p>Anyway the Buddha said that in order to be born a mind must be present. In order for a mind to be present though, that mind would have to be both ignorant and crave toward experience. If both of those things are true (regardless of any reality of the existence of a stream of mind) then there should be some kind of klesha interaction going on that affects the self to animal relationship. </p>
 <p>If that's true then even if it can't be observed there should be some way to conceptualize it or some interaction that can be attributed to it or referred to.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mqhfxhj">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kcwuk7/mindstream_kleshas_question/mqhfxhj/">Bhikkhu_Anigha</a><span class="when">2025-05-04 04:06 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>That's interesting because Ajahn Nyanamoli Thero has used that term as a reference for instruction in at least one of his videos. Are you saying he has wrong view?</p>
 </blockquote>
@@ -54,6 +75,8 @@
 <p>(Also, just to be clear, "self" in the sense of <em>sakkāya</em>, is also a result of the animal not only being untamed but also not understood. Self—an <em>assumption</em> based on craving—is not the same as agency, however).</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -62,5 +85,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

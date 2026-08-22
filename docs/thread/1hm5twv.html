@@ -6,6 +6,9 @@
   <title>How should a layperson approach food choices and cooking according to the Dhamma? · 2024</title>
   <meta name="description" content="How should a layperson approach food choices and cooking according to the Dhamma?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,10 +41,15 @@
 <p>On the other hand, there is the issue of how to cook the food or which recipes to choose. It's not the same to prepare boiled chicken with spices, serve it with a salad and yogurt, as it is to use the same ingredients to make a homemade kebab/shawarma, or simply roast the chicken (which is usually much tastier than boiled chicken). Here, too, the dilemma arises between the option of "self-mortification" and yielding to the "desire" to cook something more flavorful.</p>
 <p>How should a layperson proceed according to the Dhamma in these cases?</p>
 <p>Thanks in advance for your help.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-m3tleid">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hm5twv/how_should_a_layperson_approach_food_choices_and/m3tleid/">Bhikkhu_Anigha</a><span class="when">2024-12-26 02:40 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Put aside any considerations of aste, either for gratification or avoidance, and choose what's most nutritious, easiest to prepare, and most affordable. From there, it would be a matter of standing your ground against the mind trying to either use the food for gratification or pressure you to doubt your choices and avoid things you know you didn't choose out of lust, just because they happen to be agreeable. Both entail falling from the context of sustaining the body to buy more time to practice and instead concerning yourself with how you feel.</p></div></div>
   
 </article>
@@ -49,5 +61,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

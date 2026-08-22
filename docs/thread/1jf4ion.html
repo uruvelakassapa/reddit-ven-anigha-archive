@@ -6,6 +6,9 @@
   <title>If we&#x27;re trying to remove the ownership of the sense of self, who or what is doing the removing ? What or who is owning the sense of self ? Is it the puggala/individual ? · 2025</title>
   <meta name="description" content="If we&#x27;re trying to remove the ownership of the sense of self, who or what is doing the removing ? What or who is owning the sense of self ? Is it the puggala/individual ?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>If we&#x27;re trying to remove the ownership of the sense of self, who or what is doing the removing ? What or who is owning the sense of self ? Is it the puggala/individual ?</h2>
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1jf4ion/if_were_trying_to_remove_the_ownership_of_the/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>I'm a bit unclear on those... As I understand it the puggala is what remains when sakkaya ditthi has been removed. But it feels a bit circular since I feel <strong>I'm</strong> doing the decisions to practice sense restraint to remove <strong>my</strong>  ownership of sense of self...   So the sense of self is doing the undermining of the clinging to the sense of self ??</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mir3v4f">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jf4ion/if_were_trying_to_remove_the_ownership_of_the/mir3v4f/">Bhikkhu_Anigha</a><span class="when">2025-03-20 05:53 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>So the sense of self is doing the undermining of the clinging to the sense of self ??</p>
 </blockquote>
@@ -46,5 +58,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

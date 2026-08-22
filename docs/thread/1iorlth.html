@@ -6,6 +6,9 @@
   <title>Can I deal with craving this way? · 2025</title>
   <meta name="description" content="Can I deal with craving this way?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -36,10 +43,15 @@
 <p>Is this a right form of renunciation, and should I continue do that whenever trouble arise? Or is this management?</p>
 <p>If this is right, does that mean I'm more developed towards irritation than the other hindrances, and the others will eventually come to subside as quickly?</p>
 <p>And please, let me know if something is off in what I'm describing, in regard to the Dhamma that is.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mcv0m3w">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iorlth/can_i_deal_with_craving_this_way/mcv0m3w/">Bhikkhu_Anigha</a><span class="when">2025-02-15 05:51 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>You only need to worry about never going beyond the "non-crystalized possibilities." Contemplate the danger if the mind starts to move in those directions again, just to get back to the possibilities and enduring them at that level. If you were to "stay" there long enough, a subtler engagement with the possibilities <em>as such</em>—prior to any particular giving in and proliferating—will become apparent, and with that you automatically realize that you can stop that engagement too. And only then can you truly go beyond the hindrances, not just keep them in check.</p>
 <p>Don't fall into the trap of expecting the hindrances to disappear quickly even if they sometimes do. Your responsibility is only to stop engaging with them, not to destroy them. They are destroyed only when the fuel for them has completely drained away on account of your heedfulness in not crystallizing them regardless of their pressure. And that's important because when trying to "manually" destroy a hindrance, you will be acting upon another hindrance inevitably (thus maintaining craving as a whole).  As long as you maintain craving as a whole, you maintain the possibility for every hindrance, so even the one you want to get rid of the most will be ready to come back when you get tired of pushing it away. </p>
 <p>Also, ill will is the quickest one to fade and the easiest one to overcome. It's not a coincidence that almost all traditions unanimously praise the giving up of ill will (or rather the last-minute management of it), but it's much rarer to find someone who encourages, let alone attempts, to give up sensuality equally and <em>across the board</em>, even through superficial management. But you need to be just as apprehensive of it because it will keep you liable to ill will no matter how quickly you can get rid of the latter. The true safety from ill will is in destroying the liability permanently, not in a perfect management of particular instances. And for that sensuality needs to completely go as well.</p>
@@ -54,5 +66,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

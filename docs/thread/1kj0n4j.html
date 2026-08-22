@@ -6,6 +6,9 @@
   <title>Is chronic illness a rare opportunity to develop Right View? · 2025</title>
   <meta name="description" content="Is chronic illness a rare opportunity to develop Right View?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,10 +38,15 @@
 <p>And honestly, if I never got sick, I don’t think I would have ever started practicing seriously. I’m 25, and I probably would have just kept chasing jhanas or pleasant states, thinking I was doing something spiritual, when in reality I would have died one day having never truly understood anything. But this illness—because it hasn’t yet incapacitated me—feels like a rare and oddly precious window. I can still think, walk, read, meditate. I can engage with the Dhamma deeply. Yet I’m constantly aware that this window won’t be open forever.</p>
 <p>Isn’t that a gift, in a way? Not a pleasant one, but a gift nonetheless?</p>
 <p>Would love to hear from anyone else who’s experienced something similar or has thoughts on illness as a context for practice.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mrpf7jn">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kj0n4j/is_chronic_illness_a_rare_opportunity_to_develop/mrpf7jn/">Bhikkhu_Anigha</a><span class="when">2025-05-11 05:30 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Isn’t that a gift, in a way? Not a pleasant one, but a gift nonetheless?</p>
 </blockquote>
@@ -50,5 +62,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

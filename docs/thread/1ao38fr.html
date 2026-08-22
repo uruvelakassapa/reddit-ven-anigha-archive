@@ -6,6 +6,9 @@
   <title>Metta abandons only ill will ? · 2024</title>
   <meta name="description" content="Metta abandons only ill will ?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -43,10 +50,15 @@
 <p>Does desire here mean sensual desire? When practicing brahmaviharas, does one have to develop their mind all the way to equanimity to be free from sensual desire? if so, Why is that? I cant see how one does not abandon sensuality alongside ill will.</p>
 <p>Also is ill will and sensuality abandoned immediately by someone with the right view after establishing mind on metta or jhana and thus becoming anagami or is that a gradual turning away of the mind? Also, do you have to do further contemplations on the disgust of sensuality or the peril of ill will in order to free yourself once after you've established your mind on this greater context or is this process automatic?</p>
 <p>Sorry to bother you with so many questions. This has been bugging me for a while</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kpwwuy3">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ao38fr/metta_abandons_only_ill_will/kpwwuy3/">Bhikkhu_Anigha</a><span class="when">2024-02-11 10:59 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is metta a practice just to overcome ill will? That makes no sense to me, How is it possible to overcome ill will without simultaneously overcoming sensuality? I know the approach to both practices are different and the themes you contemplate also vary but shouldn't diminishing ill will also diminish sensuality?</p>
 </blockquote>
@@ -75,9 +87,9 @@
 <p>Those contemplations <em>are</em> what would establish the mind on that greater context and strengthen it once it's already there. That's what it means to "steady your mind" in jhāna and "make much of it" for example: clarify the danger of sensuality even more by reflecting on it, which indirectly increases the wholesome joy of withdrawal. It doesn't mean "get <em>absorbed on this object</em> even more".</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kq3ga02">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ao38fr/metta_abandons_only_ill_will/kq3ga02/">Bhikkhu_Anigha</a><span class="when">2024-02-12 15:57 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Appropriate_Bear_840:</strong><br><div class="md-body"><blockquote>
+<article class="comment parent" id="c-kpx6p1g">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ao38fr/metta_abandons_only_ill_will/kpx6p1g/">Appropriate_Bear_840</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>Yes and no. As per <a href="https://suttacentral.net/an3.94" rel="noopener noreferrer" target="_blank">AN 3.94</a>, a sotāpanna who dies while the mind is free from hindrances would essentially die as an anāgāmi</p>
 </blockquote>
 <p>Can a sotapanna abiding in jhana become an arahat by cultivating dispassion to that wholesome experience without technically becoming an anagami first (considering his mind hasnt turned away completely)?</p>
@@ -93,6 +105,9 @@
 </blockquote>
 <p>Sorry for picking your words like this, but by repeated, you do mean the length of time one abides in the states has to be of a sufficient duration and not that one has to restablish his mind in this state multiple times after falling away to make the state permanent right.  </p>
 <p>Does discerning higher states of samadhi make the process of turning away faster?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kq3ga02">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ao38fr/metta_abandons_only_ill_will/kq3ga02/">Bhikkhu_Anigha</a><span class="when">2024-02-12 15:57 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Can a sotapanna abiding in jhana become an arahat by cultivating dispassion to that wholesome experience without technically becoming an anagami first (considering his mind hasnt turned away completely)?</p>
 </blockquote>
@@ -115,6 +130,8 @@
 <p>Not that it's "faster" as if you're waiting for some magical click to happen. Higher states of samādhi allow for the ordinary state of no samādhi to be understood and penetrated with wisdom even more clearly. (That's why "absorption" is so wrong; it <em>disassociates</em> you from your ordinary experience, and so it is useless in helping you overcome anything permanently).</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -123,5 +140,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

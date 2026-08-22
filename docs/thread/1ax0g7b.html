@@ -6,6 +6,9 @@
   <title>New discussion with Ven. Anīgha! · 2024</title>
   <meta name="description" content="New discussion with Ven. Anīgha!">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,13 +34,22 @@
       <h2>New discussion with Ven. Anīgha!</h2>
       <p class="meta"><a href="#">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>[deleted]</p></div></div>
-      <h3>Comments</h3>
-      <article class="comment teacher" id="c-krt6lvs">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ax0g7b/new_discussion_with_ven_anīgha/krt6lvs/">Bhikkhu_Anigha</a><span class="when">2024-02-23 19:30 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to GachiOnFire:</strong><br><div class="md-body"><p>If one wanted to come to live in accordance with the Dhamma and eventually enter the stream or even achieve a higher "stage of awakening" without needing to/wanting to/having the ability to wrap their head around the theory and make the theory fit in their experience (knowing the theory about upadana, the satipatthanas, yoniso manasikara, ...), would solely focusing on doing one thing - staying endurant (or patient) in regard to any feelings so as to not try to change them, not get push or pull by them, but simply work with it/live with it/stay passive about it (??) - in a day-to-day moment-to-moment basis be enough to get them far without knowing what these expressions listed above relate to?</p>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
+      <article class="comment parent" id="c-krqmw52">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ax0g7b/new_discussion_with_ven_anīgha/krqmw52/">GachiOnFire</a></div>
+  <div class="body"><div class="md-body"><p>If one wanted to come to live in accordance with the Dhamma and eventually enter the stream or even achieve a higher "stage of awakening" without needing to/wanting to/having the ability to wrap their head around the theory and make the theory fit in their experience (knowing the theory about upadana, the satipatthanas, yoniso manasikara, ...), would solely focusing on doing one thing - staying endurant (or patient) in regard to any feelings so as to not try to change them, not get push or pull by them, but simply work with it/live with it/stay passive about it (??) - in a day-to-day moment-to-moment basis be enough to get them far without knowing what these expressions listed above relate to?</p>
 <p>Assuming the one doing it is serious about wanting to free themself from the liability to suffering</p>
 <p>&#x200B;</p>
 <p>Edit: Actually, I believe that's what the restrained people in Buddha's time who only needed to hear one sentence from him to become enlightened had done right? So very little theory would still be needed at one point to achieve seeing the five assumed aggregates as not-self, right?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-krt6lvs">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ax0g7b/new_discussion_with_ven_anīgha/krt6lvs/">Bhikkhu_Anigha</a><span class="when">2024-02-23 19:30 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>but simply work with it/live with it/stay passive about it</p>
 </blockquote>
@@ -42,9 +58,14 @@
 <p>It's the concrete, "lived" understanding of the Middle Way that you wouldn't lose even after death, whereas all the theory and information would get erased.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-krx0u5n">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ax0g7b/new_discussion_with_ven_anīgha/krx0u5n/">iurileao</a></div>
+  <div class="body"><div class="md-body"><p>Can anyone help with the references to the suttas cited in the video? There are two in the beginning, I guess the first one is the Ovāda-pāṭimokkha Gāthā, but I couldn’t find the one about having khanti towards the senses. And there’s the one cited at around 29:15 which I found very inspiring. Thank you.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-krxv91t">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ax0g7b/new_discussion_with_ven_anīgha/krxv91t/">Bhikkhu_Anigha</a><span class="when">2024-02-24 16:55 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to iurileao:</strong><br><div class="md-body"><p>Can anyone help with the references to the suttas cited in the video? There are two in the beginning, I guess the first one is the Ovāda-pāṭimokkha Gāthā, but I couldn’t find the one about having khanti towards the senses. And there’s the one cited at around 29:15 which I found very inspiring. Thank you.</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>but I couldn’t find the one about having khanti towards the senses</p>
 </blockquote>
@@ -55,6 +76,8 @@
 <p><a href="https://suttacentral.net/an6.52" rel="noopener noreferrer" target="_blank">AN 6.52</a></p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -63,5 +86,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

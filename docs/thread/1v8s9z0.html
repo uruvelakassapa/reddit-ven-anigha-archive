@@ -6,6 +6,9 @@
   <title>Being surrounded by beautiful women · 2026</title>
   <meta name="description" content="Being surrounded by beautiful women">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,21 +35,31 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>I will start a new degree this fall in a class where 75% are women. I will have to interact with a lot of attractive women on a daily basis. I would guess a lot of people here also live in cities or work in places where they see attractive women every day.</p>
 <p>Is this a major hindrance even if one refrains from the pressure to engage in sex, flirt, seek it out, masturbate or act in any way that relieves the pressure?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-p09x2xf">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/p09x2xf/">Bhikkhu_Anigha</a><span class="when">2026-07-28 14:50 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is this a major hindrance even if one refrains from the pressure to engage in sex, flirt, seek it out, masturbate or act in any way that relieves the pressure?</p>
 </blockquote>
 <p>You can keep the precepts and so on, even avoid speaking to them, but since you're already not sure to what extent it would be a hindrance, the chance that you will be giving in to the pressure at least mentally—i.e., fall prey to the hindrance—is basically 100% (see the AN quote in that other comment). And for as long as that's the case, you can't take for granted that you won't act out in coarser ways when the opportunity arises.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-p16y96f">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/p16y96f/">titikshakshanti</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, is this principle you are describing above applicable to only the precept against non-celibacy or sexual misconduct or is it applicable to other precepts as well like precept against intoxication and entertainment? Is physical proximity to opportunities for such violations of other precepts are too be avoided similarly?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-p17j91c">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/p17j91c/">Bhikkhu_Anigha</a><span class="when">2026-08-02 06:34 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to titikshakshanti:</strong><br><div class="md-body"><p>Bhante, is this principle you are describing above applicable to only the precept against non-celibacy or sexual misconduct or is it applicable to other precepts as well like precept against intoxication and entertainment? Is physical proximity to opportunities for such violations of other precepts are too be avoided similarly?</p></div></div>
   <div class="body"><div class="md-body"><p>It applies universally only to the third precept.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -52,5 +69,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

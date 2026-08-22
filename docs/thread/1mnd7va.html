@@ -6,6 +6,9 @@
   <title>Can an action be rooted in both a wholesome and unwholesome intention? · 2025</title>
   <meta name="description" content="Can an action be rooted in both a wholesome and unwholesome intention?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1mnd7va/can_an_action_be_rooted_in_both_a_wholesome_and/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>Here's an example. I was considering having coffee, which is something I normally abstain from. I was tired and thought that if I had some coffee I'd be more alert and could study the dhamma better. However, I also noticed a desire for the taste and for the caffeine buzz. </p>
 <p>Is this an example of having wholesome and unwholesome intentions? Or, do I need to reflect more clearly and see which is the true intention?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-n8f4ep4">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1mnd7va/can_an_action_be_rooted_in_both_a_wholesome_and/n8f4ep4/">Bhikkhu_Anigha</a><span class="when">2025-08-13 05:27 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The "true intention" is not something you reason out; it's where the affective compulsion is. So you don't need to sit down and try to figure out what the intention is; you just need to admit to yourself what's already there and not act out of it if it's clearly unwholesome (desire for a specific taste being such an instance).</p>
 <p>On that front, intentions can only be either wholesome or unwholesome (i.e., they will either feed the already arisen craving or starve it).</p></div></div>
   
@@ -44,5 +56,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

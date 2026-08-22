@@ -6,6 +6,9 @@
   <title>New Essay: Pervading the World with Friendliness · 2024</title>
   <meta name="description" content="New Essay: Pervading the World with Friendliness">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>New Essay: Pervading the World with Friendliness</h2>
       <p class="meta"><a href="https://www.hillsidehermitage.org/pervading-the-world-with-friendliness/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ksutbkd">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/ksutbkd/">Bhikkhu_Anigha</a><span class="when">2024-03-01 14:34 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>u/foowfoowfoow </p>
 <blockquote>
 <p>equating this passive harmlessness with active intentional goodwill is an error.</p>
@@ -46,15 +58,18 @@
 <blockquote></blockquote></div></div>
   
 </article>
-<article class="comment teacher" id="c-ksuxbou">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/ksuxbou/">Bhikkhu_Anigha</a><span class="when">2024-03-01 14:59 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to AlexCoventry:</strong><br><div class="md-body"><p>I think HH has <a href="https://www.youtube.com/watch?v=PFmaQjYvCqU" rel="noopener noreferrer" target="_blank">a different interpretation of <a href="https://suttacentral.net/mn118" rel="noopener noreferrer" target="_blank">MN 118</a></a>, FWIW.</p>
+<article class="comment parent" id="c-kst9te3">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/kst9te3/">AlexCoventry</a></div>
+  <div class="body"><div class="md-body"><p>I think HH has <a href="https://www.youtube.com/watch?v=PFmaQjYvCqU" rel="noopener noreferrer" target="_blank">a different interpretation of <a href="https://suttacentral.net/mn118" rel="noopener noreferrer" target="_blank">MN 118</a></a>, FWIW.</p>
 <p>I'm curious about their intrerpretation of <a href="https://www.dhammatalks.org/suttas/MN/MN101.html" rel="noopener noreferrer" target="_blank"><a href="https://suttacentral.net/mn101" rel="noopener noreferrer" target="_blank">MN 101</a></a>:</p>
 <blockquote>
 <p>“And how is striving fruitful, how is exertion fruitful? There is the case where a monk, when not loaded down, does not load himself down with pain, nor does he reject pleasure that accords with the Dhamma, although he is not infatuated on that pleasure. He discerns that ‘When I exert a [physical, verbal, or mental] fabrication against this cause of stress, then from the fabrication of exertion there is dispassion [<a href="https://suttacentral.net/mn101/en/sujato?lang=en&amp;layout=sidebyside&amp;reference=none&amp;notes=asterisk&amp;highlight=false&amp;script=latin#mn101:23.5" rel="noopener noreferrer" target="_blank"><em>dukkhanidānassa saṅkhāraṁ padahato saṅkhārappadhānā virāgo hoti</em></a>]. When I look on with equanimity at that cause of stress, then from the development of equanimity there is dispassion.’ So he exerts a fabrication against the cause of stress for which dispassion comes from the fabrication of exertion, and develops equanimity with regard to the cause of stress for which dispassion comes from the development of equanimity. Thus the stress coming from the cause of stress where there is dispassion from the fabrication of exertion is exhausted, and the stress coming from the cause of stress where there is dispassion from the development of equanimity is exhausted.</p>
 </blockquote>
 <p>I would guess the only valid exertion in their interpretation is resistance against the pressure of craving, but I'm interested to know.</p>
 <p>Cc: u/Bhikkhu_Anigha</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ksuxbou">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/ksuxbou/">Bhikkhu_Anigha</a><span class="when">2024-03-01 14:59 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>‘When I exert a [physical, verbal, or mental] fabrication against this cause of stress, then from the fabrication of exertion there is dispassion [<a href="https://suttacentral.net/mn101/en/sujato?lang=en&amp;layout=sidebyside&amp;reference=none&amp;notes=asterisk&amp;highlight=false&amp;script=latin#mn101:23.5" rel="noopener noreferrer" target="_blank">dukkhanidānassa saṅkhāraṁ padahato saṅkhārappadhānā virāgo hoti</a>]. When I look on with equanimity at that cause of stress, then from the development of equanimity there is dispassion.’ </p>
 </blockquote>
@@ -64,22 +79,32 @@
 <p>That is why there is wrong effort in the eightfold wrong path, culminating in wrong liberation, and all of it is based on wrong view (i.e., as to what the cause of suffering is). It cannot be taken for granted that as long as you're trying to overcome the defilement <em>somehow</em>, you're   going in the right direction.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-ksvskf7">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/ksvskf7/">AlexCoventry</a></div>
+  <div class="body"><div class="md-body"><p>Would another way to put it be "There is no effective striving until stream entry, outside of sense restraint?"</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-ksypk4u">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/ksypk4u/">Bhikkhu_Anigha</a><span class="when">2024-03-02 05:15 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to AlexCoventry:</strong><br><div class="md-body"><p>Would another way to put it be "There is no effective striving until stream entry, outside of sense restraint?"</p></div></div>
   <div class="body"><div class="md-body"><p>No, there certainly would have to be effort involved in attaining stream entry, But the key is that any effort would have to take place within the context that at any given time there is a high probability of not only falling into wrong effort, but of not knowing wrong effort as wrong effort. Not forgetting that the mind has a deeply rooted tendency for management that could creep in at any time.  Having that context, which is basically the right-est type of sati one can have initially, changes things completely because it makes the efforts be relentlessly self-critical and self-adjusting as opposed to being taken at face value. It also makes the whole thing more unpleasant, as the weight of ignorance and the lack of any safe ground to stand on is being rightly acknowledged.</p>
 <p>There are things that a puthujjana does that take them closer to stream entry and things that don't, but they will only know that in hindsight when they get the Right View and thus the ability to clearly know right as right, or Dhamma as Dhamma. And one thing for sure is that whenever something seems to "work" in eliminating your suffering and yet having discovered that somehow didn't turn you into a sotapanna, it's not the right direction, but still the old management in a new form.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-ksyr2q9">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/ksyr2q9/">Bhikkhu_Anigha</a><span class="when">2024-03-02 05:30 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to foowfoowfoow:</strong><br><div class="md-body"><p>thank you for your observations bhante. </p>
+</div>
+</article>
+<article class="comment parent" id="c-kswsvwy">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/kswsvwy/">foowfoowfoow</a></div>
+  <div class="body"><div class="md-body"><p>thank you for your observations bhante. </p>
 <p>i don’t disagree that metta practice can be practiced after one has broken the fetters of ill will. </p>
 <p>however, i think it’s a complete error to consider that one cannot practice it effectively until they have some sort of noble attainment. </p>
 <p>to think this way effectively puts lie to the buddha’s teaching that countless beings have previously attained rebirth in the formless realms, or in the bahama realms, or as maha brahma himself, as a result of metta practice. most of these individuals currently residing in these spheres attained there through metta practice <em>before</em> the buddha was even born. </p>
 <p>thus, the highest level of metta practice, and the highest worldly benefit available from metta, is available to individuals who have never even heard of the buddha. </p>
 <p>these beings have not conquered ill will - they have not broken the fetters. they have just put aside ill will and practiced metta, and accordingly attained the highest worldly benefit.</p>
 <p>metta practice existed before the buddha attained enlightenment - the only difference between before and after his enlightenment is that he taught how to use that practice and end samsara. this is the mettacetovimutti that the buddha teaches that is additional to the worldly practice of metta - using metta as a means of complete and entire liberation of mind.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ksyr2q9">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/ksyr2q9/">Bhikkhu_Anigha</a><span class="when">2024-03-02 05:30 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>i don’t disagree that metta practice can be practiced after one has broken the fetters of ill will.</p>
 </blockquote>
@@ -91,9 +116,11 @@
 <p>That means that it's of no relevant benefit.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kt0b0n8">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/kt0b0n8/">Bhikkhu_Anigha</a><span class="when">2024-03-02 15:05 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to foowfoowfoow:</strong><br><div class="md-body"><p>bhante, when you say "until the tendency for will has been actually abandoned" it certainly sounds like you're saying the fetter needs to be broken (given the fetters are tendencies). if this is what you are inferring, i don't believe this would be correct according to the suttas.</p>
+</div>
+</article>
+<article class="comment parent" id="c-kszqwgq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/kszqwgq/">foowfoowfoow</a></div>
+  <div class="body"><div class="md-body"><p>bhante, when you say "until the tendency for will has been actually abandoned" it certainly sounds like you're saying the fetter needs to be broken (given the fetters are tendencies). if this is what you are inferring, i don't believe this would be correct according to the suttas.</p>
 <p>if on the other hand, you simply mean that when a person starts to practice metta, they must simply put aside all thoughts of ill will when they initially start to practice, and while they continues to practice, then i would agree with you. this does appear to be the correct interpretation according to the suttas.</p>
 <blockquote>
 <p>The point is that there can be no mind of metta until the tendency for will has been actually abandoned</p>
@@ -107,6 +134,9 @@
 <p>compare that with the person who just practices on the cushion, but not in daily life, or the other (foolish) person, who decides to wait until the tendency for ill will has been entirely abandoned. they could be waiting a long long time ...</p>
 <p>this metta is a practice of 'start where you are and build from there'. the more we practice and the more earnestly we practice, the quicker we iwll attain a mind of metta.</p>
 <p>in terms of meeting aversive situations, i actually advocate for people to practice loving kindness mindfulness towards themselves ('may i be free from ... may i be well and happy in every way'). people need to be able to master this much, because it is the way to meet aversion. it's not metta as the buddha teaches it (outwardly directer towards other beings), but it is mindfulness of mind - being sensitive to the mind, and gladdening the mind. this meets the 'displeasure' of daily life and eases it away with mindfulness.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kt0b0n8">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b36ieh/new_essay_pervading_the_world_with_friendliness/kt0b0n8/">Bhikkhu_Anigha</a><span class="when">2024-03-02 15:05 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>bhante, when you say "until the tendency for will has been actually abandoned" it certainly sounds like you're saying the fetter needs to be broken (given the fetters are tendencies). if this is what you are inferring, i don't believe this would be correct according to the suttas.</p>
 <p>if on the other hand, you simply mean that when a person starts to practice metta, they must simply put aside all thoughts of ill will when they initially start to practice, and while they continues to practice, then i would agree with you. this does appear to be the correct interpretation according to the suttas.</p>
@@ -129,6 +159,8 @@
 <p>Yes, it takes practice to increase your skill in management, but that's not what I'm referring to. The management method you are describing is not training you to lift heavier weights; it's all about making the weights lighter so that you can lift them. Making yourself like and have affection for the person you previously found unpleasant takes all the "weight" off, so you're not making your mind stronger at all, but quite the opposite.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -137,5 +169,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

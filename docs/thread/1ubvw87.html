@@ -6,6 +6,9 @@
   <title>Seemingly contradicting statements by Ajahn Nyanamoli and Bhikku Anigha on meditation (as far as I can tell) · 2026</title>
   <meta name="description" content="Seemingly contradicting statements by Ajahn Nyanamoli and Bhikku Anigha on meditation (as far as I can tell)">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -66,10 +73,15 @@
 <p>Everyone seems to be contradicting each other, as far as I can tell.</p>
 <p>And I personally don't really see what's wrong with trying to set up peripheral awareness or mindfulness when I sit in solitude. How can that be unbeneficial or unwholesome? Seems like the fastest way to progress to me, since mindfulness is the endgame.</p>
 <p>If I am missing something, I'm happy to be corrected. I want to reconcile everything here, I am very confused. I also apologize for the very messy format, the questions are all over the place.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ot2nudv">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/ot2nudv/">Bhikkhu_Anigha</a><span class="when">2026-06-22 05:18 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>How can that be unbeneficial or unwholesome? </p>
 </blockquote>
@@ -78,9 +90,9 @@
 <p>So there isn't a contradiction in the different statements you quoted; you will even find plenty of instances AN saying similar things as what I wrote, and vice versa. That's because both angles need to be incorporated simultaneously: "I don't see what the right effort is, but I will inevitably be making some sort of effort. Thus, within that effort, let me try and understand what makes certain efforts right and others wrong."</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-otbw8n4">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/otbw8n4/">Bhikkhu_Anigha</a><span class="when">2026-06-23 14:17 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Agreeable_Range_8732:</strong><br><div class="md-body"><p>So if puthujjanas were never meant to practice mindfulness, then why does Ajahn even mention mindfulness in a book for beginners, let alone describe how it's to be done? </p>
+<article class="comment parent" id="c-ot3dtwq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/ot3dtwq/">Agreeable_Range_8732</a></div>
+  <div class="body"><div class="md-body"><p>So if puthujjanas were never meant to practice mindfulness, then why does Ajahn even mention mindfulness in a book for beginners, let alone describe how it's to be done? </p>
 <p>And I still don't understand how simply trying to be mindful can be unwholesome. When I just sit there in solitude, I have no intentions to do anything. My only intention is to just sit there. While intentions to stand up and go do something, or some other unwholesome intentions do come up, I don't act out of them, neither do I push them away. I simply endure them until they leave. So, up until now, neither have I done anything unwholesome, neither have I entertained any unwholesome intention in my mind, neither were there any unwholesome intentions to start the practice (for example, practicing for mystical experiences). Then I simply try to set up peripheral awareness, of the breath or of mood/feelings or of any other anchor, as best as I can. </p>
 <p>My primary intention of even doing this practice is to simply be aware of unwholesome intentions in my mind, so that I can be rid of them. Ajahn even mentions in the same excerpt I gave, that you can carry this practice off the cushion as well, spreading it out over your entire day.</p>
 <p>How is any of this unwholesome? I'm genuinely trying to grasp how this practice can be detrimental.</p>
@@ -88,6 +100,9 @@
 <p>And why should the effort should be centered on understanding what wholesome states are in the first place? You never gave an explanation as to why it's to be done first.</p>
 <p>And if that is the case, then you cannot even start the precepts because you'll be assuming that the practice of precepts is correct/wholesome. You also said, "Not seeing how it could be unwholesome is what will make it unwholesome." I definitely do not see how precepts can be unwholesome, so does that mean following the precepts becomes unwholesome?</p>
 <p>My attempts to purify my mind using precepts are also informed by tradition, hearsay, reasoning, etc., rather than on the actual decrease of their defilements. </p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-otbw8n4">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/otbw8n4/">Bhikkhu_Anigha</a><span class="when">2026-06-23 14:17 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>My primary intention of even doing this practice is to simply be aware of unwholesome intentions in my mind, so that I can be rid of them.  Ajahn even mentions in the same excerpt I gave, that you can carry this practice off the cushion as well, spreading it out over your entire day.</p>
 </blockquote>
@@ -95,14 +110,21 @@
 <p>As I already said, you will have to be doing <em>something</em> in the name of practice, and whatever it is (including complete abstinence from practice) will be tainted with ignorance until you're a <em>sotāpanna</em>. The hindrance is not to merely <em>be</em> in the wrong, but rather to not acknowledge the initial wrongness (which is the same attitude that would stop you from gaining true expertise in anything, not just the Dhamma).</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-otc1fn2">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/otc1fn2/">Agreeable_Range_8732</a></div>
+  <div class="body"><div class="md-body"><p>I think I understand to some extent. What I understood from this was that I can keep practicing the way I've been doing (precepts, trying to discern intentions before acting out of them in daily life) <strong><em>including</em></strong> peripheral awareness, but I have to acknowledge that whatever practice I do will be somewhat incorrect. So always intending to upgrade to a superior version of the practice. Is this right, or have I misunderstood? </p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-oth0bf3">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/oth0bf3/">Bhikkhu_Anigha</a><span class="when">2026-06-24 05:23 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Agreeable_Range_8732:</strong><br><div class="md-body"><p>I think I understand to some extent. What I understood from this was that I can keep practicing the way I've been doing (precepts, trying to discern intentions before acting out of them in daily life) <strong><em>including</em></strong> peripheral awareness, but I have to acknowledge that whatever practice I do will be somewhat incorrect. So always intending to upgrade to a superior version of the practice. Is this right, or have I misunderstood? </p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>So always intending to upgrade to a superior version of the practice. Is this right, or have I misunderstood?</p>
 </blockquote>
 <p>In essence, yes. But there needs to be a sense of genuine urgency and doubt behind that, through seeing how you continue to be liable to suffering one way or the other, despite your best attempts to overcome that liability. Not just an arms-length intention for improvement that virtually every practitioner has while ultimately continuing to take their core views for granted.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -112,5 +134,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

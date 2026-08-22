@@ -6,6 +6,9 @@
   <title>The deathless (Thanissaro)  · 2024</title>
   <meta name="description" content="The deathless (Thanissaro) ">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>What is your opinion of Thanissaro's description of the deathless in the following video (first 10min):</p>
 <p>https://youtu.be/ef1vxDMt-7k?si=8AcqPMTf6t8ocQgI</p>
 <p>It sounds to me like he is taking consciousness to be nibbana. Am I missing something? </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lo6pc0z">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lo6pc0z/">Bhikkhu_Anigha</a><span class="when">2024-09-21 09:59 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The problem with this view is not only the obvious contradiction of positing <em>something</em> that lies outside the five aggregates—whether you call it consciousness or something else doesn’t really matter—but also the implication that Nibbāna is an <em>experience</em>. That’s what the Buddha called “conceiving Nibbāna” in <a href="https://suttacentral.net/mn1" rel="noopener noreferrer" target="_blank">MN 1</a>:</p>
 <blockquote>
 <p>They perceive Nibbāna as Nibbāna. Having perceived Nibbāna as Nibbāna, they conceive Nibbāna, they conceive in Nibbāna, they conceive apart from Nibbāna, they conceive ‘Nibbāna is mine’, they delight in Nibbāna. Why is that? Because they haven’t fully understood it, I say.</p>
@@ -44,9 +56,9 @@
 <p>One who fully understands and is free from all passion has no conceiving, appropriation, or delight in regard to <strong><em>anything—</em></strong><a href="https://suttas.hillsidehermitage.org/?q=mn1#mn1:75.1-mn1:98.4" rel="noopener noreferrer" target="_blank">no matter if it's utterly mundane like earth and water, or the most sublime and transcendental experience of "Nibbāna"</a>—and that’s what true Nibbāna is.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-loblze3">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/loblze3/">Bhikkhu_Anigha</a><span class="when">2024-09-22 05:33 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to thereisaway2022:</strong><br><div class="md-body"><p>Increasingly, as I read the views of different teachers - within whatever religion or spiritual teaching - and the way they debate with one another, it is becomes clearer and clearer: much of the dialogue that the follower of these teachings engage in with one another, is saying "This is a more accurate summery, a more accurate discernment of Truth"; yet really, their words run around the same tree, calling it a different name.</p>
+<article class="comment parent" id="c-loa95ci">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/loa95ci/">thereisaway2022</a></div>
+  <div class="body"><div class="md-body"><p>Increasingly, as I read the views of different teachers - within whatever religion or spiritual teaching - and the way they debate with one another, it is becomes clearer and clearer: much of the dialogue that the follower of these teachings engage in with one another, is saying "This is a more accurate summery, a more accurate discernment of Truth"; yet really, their words run around the same tree, calling it a different name.</p>
 <p>Why do I say this underneath your own comment, Bhikkhu Anigha?</p>
 <p>It is because of this article that Ven. Thanissaro has written, called, "<a href="https://www.dhammatalks.org/books/uncollected/Beam_ofLight.html" rel="noopener noreferrer" target="_blank">A Beam of Light that Doesn't Land</a>", where clearly, you two conclude, for all practical purposes, the same overarching point:</p>
 <blockquote>
@@ -61,6 +73,9 @@
 <p>"(Anigha) One who fully understands and is free from all passion has no conceiving, appropriation, or delight in regard to <strong><em>anything</em></strong>. (Thanissaro) This requires a willingness to thoroughly abandon passion for any and all forms of consciousness—no matter how luminous or immeasurable—allowing them all to cease."</p>
 <p>If I may say, for all those that see many spiritual teachers and leaders seemingly contradict one another, just as for myself:</p>
 <p>let us simply practice, after discerning what we can, and then, by real faith, and by our own experience, truly, look and see, where what we practice has led us. Then let us amend, let us further discern and follow what is Good. Let us not wander in aimless discussions, let us practice - even to discern which way does not work. If we come with sincerity, then I say with conviction, it must be that we will come about the True Way.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-loblze3">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/loblze3/">Bhikkhu_Anigha</a><span class="when">2024-09-22 05:33 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>This requires a willingness to thoroughly abandon passion for any and all forms of consciousness—no matter how luminous or immeasurable—allowing them all to cease</p>
 </blockquote>
@@ -68,9 +83,11 @@
 <p>So, I'm afraid this really isn't "the same tree with a different name". It's the same name ("Nibbāna" or "consciousness without surface") being applied to a very different tree, in quite blatant contradiction with the Suttas, and based on the assumption that the Buddha was clumsy with his chosen terminology.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-locw1xz">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/locw1xz/">Bhikkhu_Anigha</a><span class="when">2024-09-22 13:20 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to thereisaway2022:</strong><br><div class="md-body"><p>Bhikkhu Anigha,</p>
+</div>
+</article>
+<article class="comment parent" id="c-lobza4u">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lobza4u/">thereisaway2022</a></div>
+  <div class="body"><div class="md-body"><p>Bhikkhu Anigha,</p>
 <p>I don’t believe I have had the privilege to tell you that I have found great wisdom in your writings, and truly, it has been of much, much practical use to me, what you write and your (in my estimation) thorough knowing, explanation and clarifying of the Dhamma. This is especially so of the essay, “<a href="https://www.hillsidehermitage.org/sila-is-samadhi/" rel="noopener noreferrer" target="_blank">Sila is Samadhi</a>”, which is very easily among the most insightful, crystal-clear and practically helpful things I have ever read. Truly, it was for myself a revelation, “of course, it <em>is</em> this way!”. That essay for me was truly life-changing, for there was not anything in me that could find an iota of fault with what was written. How “one stage flows into the next”, how “one stage fills up the next”, as the Buddha said, is so clearly exemplified in that piece of writing, that it is impossible to not practice in that Good Way of Virtue of body, speech and mind. And indeed, the results, the fruition of peace, are just as one would expect.</p>
 <p>So, now, I may thank-you deeply, for I can say without doubt that was a gift given me, to be given the eyes to see Virtue as the true foundation of the Way, and practice rightly. To be free of the “splitting of the soul”, and instead become recollected in a three-fold purity, inclusive of body and speech, rather than an overfixation on mind - thank-you deeply.</p>
 <p>***</p>
@@ -79,6 +96,9 @@
 <p>Instead, he says the very opposite: approach any consciousness by the means of “smashing, scattering and demolishing… making it unfit for play.” The only way that this consciousness without surface could undergo this rough treatment he prescribed is if it is not categorized as special when found, but approached in the same way as any other consciousness. </p>
 <p>Then - and only then- if this consciousness without surface, having been abandoned, the craving for it extinguished, sets itself apart from all else, could it be considered Truth.  </p>
 <p>This, from my view, is a very sensible statement from him. Rather than long deliberations, we simply, each of us, practice for the cessation of the lust for any consciousness whatsoever, just as with any phenomena whatsoever. If we come about a consciousness that truly “stands up” to this test, in his words, without inner self-deceit or secret clinging, then we can assume it is the “Deathless element”. With the utter cessation of our inner lust for anything at all, what is left, by the very definition, must be Nibbana - whatever that may or may not be, by whatever name. </p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-locw1xz">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/locw1xz/">Bhikkhu_Anigha</a><span class="when">2024-09-22 13:20 UTC</span></div>
   <div class="body"><div class="md-body"><p>Glad to hear that you’ve benefitted from my writings.</p>
 <blockquote>
 <p>Instead, he says the very opposite: approach any consciousness by the means of “smashing, scattering and demolishing… making it unfit for play.” The only way that this consciousness without surface could undergo this rough treatment he prescribed is if it is not categorized as special when found, but approached in the same way as any other consciousness. </p>
@@ -88,20 +108,30 @@
 <p>Nibbāna is the <a href="https://suttas.hillsidehermitage.org/?q=snp4.4" rel="noopener noreferrer" target="_blank">total cessation of all such tendencies for glorification</a>, in all possible forms. Not finding safety in anything whatsoever is the only true, unfailing safety. Not regarding anything as pure is the only true purity. When one has fully understood and is steady in that attitude, nothing can find a footing in consciousness, hence it’s “<em>anidassana”.</em></p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-loe77j4">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/loe77j4/">AlexCoventry</a></div>
+  <div class="body"><div class="md-body"><p>Where can I read more about the distinction between consciousness-without-surface and nibbana?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-lohafkf">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lohafkf/">Bhikkhu_Anigha</a><span class="when">2024-09-23 04:41 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to AlexCoventry:</strong><br><div class="md-body"><p>Where can I read more about the distinction between consciousness-without-surface and nibbana?</p></div></div>
   <div class="body"><div class="md-body"><p>I'm not necessarily saying that they're not the same. I'm saying that they're not meditative experiences (most especially not the focusing type). They are the perpetual mode of being of an Arahant owing to non-conceiving and dispassion towards all experience whatsoever, and they cannot be arrived at suddenly, but through gradual training. </p>
 <p>Saying that an experience can be intrinsically pure and unfabricated for anyone who has it is like saying that a sentence can be intrinsically heard by anyone in the vicinity. Fabrication is on "your" side of the equation, not on the side of the experience, and <em>that's why</em> Nibbāna cannot be taken away. Not because it's an experience that has indestructibility as an inherent characteristic.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-lohgmg7">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lohgmg7/">Bhikkhu_Anigha</a><span class="when">2024-09-23 05:40 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>What you are saying seems to make sense, but how then does one interpret "anantaṁ sabbatopabhaṁ" in that context below translated as "without end, luminous all around"? Such terminology might seem to give credence to Nibbāna-as-a-special-type-of-consciousness-experience. </p>
+</div>
+</article>
+<article class="comment parent" id="c-lofmpf3">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lofmpf3/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>What you are saying seems to make sense, but how then does one interpret "anantaṁ sabbatopabhaṁ" in that context below translated as "without end, luminous all around"? Such terminology might seem to give credence to Nibbāna-as-a-special-type-of-consciousness-experience. </p>
 <blockquote>
 <p>“Consciousness without surface, without end, luminous all around: Here water, earth, fire, &amp; wind have no footing..." <a href="https://suttacentral.net/dn11" rel="noopener noreferrer" target="_blank">DN 11</a></p>
 </blockquote>
 <p>Edit: changed that last compound word for the sake of clarity.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lohgmg7">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lohgmg7/">Bhikkhu_Anigha</a><span class="when">2024-09-23 05:40 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Such terminology might seem to give credence to Nibbāna-as-a-special-type-of-consciousness</p>
 </blockquote>
@@ -109,19 +139,26 @@
 <p>A puthujjana's consciousness can be "luminous"', but never <em>all around</em>, since there are dark spots of ignorance that he's not even aware of and thus cannot take into account.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-lohl6d4">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lohl6d4/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Would it be fair to say the putthujana’s consciousness is not all around precisely because of its inherent “surfaces” (read: passion for objects/aggregates)? In other words because non Arahants emphasize attending to and delighting in the things they are passionate for, the consciousness gets narrowed and restricted (onto the objects, intentions, etc). </p>
+<p>Whereas when craving fades and true knowledge arises, the consciousness aggregate becomes radiant and all around because craving is not establishing it anywhere, not even on a perception of boundlessness or radiance?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-lohmjqc">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lohmjqc/">Bhikkhu_Anigha</a><span class="when">2024-09-23 06:44 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Would it be fair to say the putthujana’s consciousness is not all around precisely because of its inherent “surfaces” (read: passion for objects/aggregates)? In other words because non Arahants emphasize attending to and delighting in the things they are passionate for, the consciousness gets narrowed and restricted (onto the objects, intentions, etc). </p>
-<p>Whereas when craving fades and true knowledge arises, the consciousness aggregate becomes radiant and all around because craving is not establishing it anywhere, not even on a perception of boundlessness or radiance?</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>the consciousness aggregate becomes radiant and all around because craving is not establishing it anywhere, not even on a perception of boundlessness or radiance?</p>
 </blockquote>
 <p>Exactly, and that's why saying or even indirectly implying that <em>viññāṇa anidassana</em> is a specific experience—as opposed to the <em>manner</em> in which all experiences, regardless of their particulars, inevitably arise for an Arahant—is a straight contradiction in terms. "I am pure because of <em>this</em>".</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-loi64n1">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/loi64n1/">Bhikkhu_Anigha</a><span class="when">2024-09-23 10:31 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to thereisaway2022:</strong><br><div class="md-body"><p>“The mere act of regarding any experience as pure and ultimate—<strong><em>even if it’s somehow factually indestructible</em></strong>—makes that experience fabricated and subject to passion, even though one’s definition of what fabrication and passion are may be too narrow to see that… Not finding safety in anything whatsoever is the only true, unfailing safety.“     </p>
+</div>
+</article>
+<article class="comment parent" id="c-lofz2qp">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lofz2qp/">thereisaway2022</a></div>
+  <div class="body"><div class="md-body"><p>“The mere act of regarding any experience as pure and ultimate—<strong><em>even if it’s somehow factually indestructible</em></strong>—makes that experience fabricated and subject to passion, even though one’s definition of what fabrication and passion are may be too narrow to see that… Not finding safety in anything whatsoever is the only true, unfailing safety.“     </p>
 <p>This is quite true. Thank-you for sharing it in words I understand, borne of your patience.    </p>
 <p>Indeed it really is so - even if an experience or phenomena were truly “indestructible” and partook in the Ultimate Reality, any yearning, passion, lust, thirst or hunger for it would be an obstacle, more so - any conceptualization of it as the “Ultimate” would be a hinderance, provocative of the arising of lust in some manner, or a buried, secret lust presently hidden. Only when this view of such a phenomena through the six senses is given up as the Ultimate, would one say the lust for it has been given up. One could say this is the very definition of real faith - to trust with conviction that the Safety, the Island, the Refuge, as described by the Buddha, is unknowable through the six senses, but having given up all lust for all that could be known, the Other Shore may be “directly known”.     </p>
 <p>As an aside, although one could conclude, that the quality of wisdom, to see that there is no safety in anything, is paramount and necessary, I would say, that there is the sheer and indestructible quality of true Faith which may bring one to the same conclusion.          </p>
@@ -129,16 +166,24 @@
 <p>Thus, upon hearing from the Blessed One, that “nothing is worth adhering to” (<a href="https://suttacentral.net/mn37" rel="noopener noreferrer" target="_blank">MN 37</a>), may we partake in discernment, but also real faith, as the suttas say, “One who has conviction and belief that these phenomena are this way is called a faith-follower: one who has entered the orderliness of rightness…”    </p>
 <p>I do have one question to pose to you, Bhikkhu Anigha: would you say that one who has truly understood what is written in the sutta Sister Medhini and yourself have commented upon (which you have linked in the last comment) - whereby all conceiving whatsoever is understood on the most fundamental, gut level as leading away from Nibbana - would this understanding, if truly seen, be the equivalent of Right View?</p>
 <p>Peace to you.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-loi64n1">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/loi64n1/">Bhikkhu_Anigha</a><span class="when">2024-09-23 10:31 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>would this understanding, if truly seen, be the equivalent of Right View?</p>
 </blockquote>
 <p>Yes. Or more accurately, knowing for oneself what conceiving even is and the way to abandon it is the Right View. That's what sets a <em>sekha</em> apart from a <em>puthujjana</em> as per <a href="https://suttacentral.net/mn1" rel="noopener noreferrer" target="_blank">MN 1</a>.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-losv2gv">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/losv2gv/">thereisaway2022</a></div>
+  <div class="body"><div class="md-body"><p>What is conceiving and how is conceiving abandoned, Bhikkhu Anigha? Could you explain, even shortly, or point me to resources where you or other monks you deem trustworthy speak on the matter with clarity? </p>
+<p>This sutta (https://suttacentral.net/<a href="https://suttacentral.net/sn22.64" rel="noopener noreferrer" target="_blank">SN 22.64</a>/en/sujato?lang=en&amp;layout=plain&amp;reference=none&amp;notes=asterisk&amp;highlight=false&amp;script=latin) seems to point to something that would be useful if understood </p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-lp4xjxs">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lp4xjxs/">Bhikkhu_Anigha</a><span class="when">2024-09-27 04:21 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to thereisaway2022:</strong><br><div class="md-body"><p>What is conceiving and how is conceiving abandoned, Bhikkhu Anigha? Could you explain, even shortly, or point me to resources where you or other monks you deem trustworthy speak on the matter with clarity? </p>
-<p>This sutta (https://suttacentral.net/<a href="https://suttacentral.net/sn22.64" rel="noopener noreferrer" target="_blank">SN 22.64</a>/en/sujato?lang=en&amp;layout=plain&amp;reference=none&amp;notes=asterisk&amp;highlight=false&amp;script=latin) seems to point to something that would be useful if understood </p></div></div>
   <div class="body"><div class="md-body"><p>Looking at the description in <a href="https://suttacentral.net/mn1" rel="noopener noreferrer" target="_blank">MN 1</a>, you need to start dealing with the grossest level of the problem that you still have, which for most people will be delight, and start undoing it in reverse order.</p>
 <p>Sutta Nipāta 5.5 gives a concise but clear description of the extent to which delight should be abandoned:</p>
 <p><em>“Whatever you are aware of—</em></p>
@@ -152,11 +197,16 @@
 <p>As always, the obvious first step to that would be virtue and sense restraint.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-lwdo8vi">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lwdo8vi/">Bhikkhu_Anigha</a><span class="when">2024-11-10 07:21 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Bhante, if I may follow up with another question that has arisen on this topic. </p>
+</div>
+</article>
+<article class="comment parent" id="c-lw9j6ph">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lw9j6ph/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, if I may follow up with another question that has arisen on this topic. </p>
 <p>If we take the consciousness aggregate as it is defined as the consciousness that associated with space and time in <a href="https://suttacentral.net/sn22.48" rel="noopener noreferrer" target="_blank">SN 22.48</a>, how can such consciousness (with or without craving) be said to be without location, as Nibbāna is said to be?</p>
 <p>I’m wondering if the confusion is resolved by simply not conflating consciousness anidassana and Nibbāna. The former is the condition of the arahant’s consciousness aggregate (before death) and the latter is the total absence of craving associated with any of his aggregates. But the suttas do say that Nibbāna itself is anidassana (in <a href="https://suttacentral.net/sn43" rel="noopener noreferrer" target="_blank">SN 43</a>), so I hesitate to draw this line.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lwdo8vi">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1flgwfh/the_deathless_thanissaro/lwdo8vi/">Bhikkhu_Anigha</a><span class="when">2024-11-10 07:21 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>If we take the consciousness aggregate as it is defined as the consciousness that associated with space and time in <a href="https://suttacentral.net/sn22.48" rel="noopener noreferrer" target="_blank">SN 22.48</a></p>
 </blockquote>
@@ -168,6 +218,8 @@
 <p>At the same time, the Arahant doesn't delight even in that consciousness or in any of the other pleasant and lofty "side effects" of the absence of craving, as doing so would remove the very condition that enables those effects.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -176,5 +228,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>What is craving? · 2024</title>
   <meta name="description" content="What is craving?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -39,10 +46,15 @@
 <li>An evaluation of my understanding of craving/delight and the practice described in the 2nd last paragraph and beyond.</li>
 <li>How it is that one <em>sees</em> that A implies B and B implies A. Or in another words, (1) what it is that obstructs the seeing of that; (2) why it is that that obstructs the seeing of that; and (3) what it is that leads to the removal of those obstructions.</li>
 </ol></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lzijahu">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/lzijahu/">Bhikkhu_Anigha</a><span class="when">2024-11-29 04:34 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>But there's that extra force present in that situation which feels almost as if it's pushing me to act and say something back, and I thought that this force is the craving, and what needs to be removed.</p>
 </blockquote>
@@ -56,9 +68,9 @@
 <p>(3) No longer acting out of any "intentions to resist" by following the Gradual Training long and diligently enough.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-lzuulwb">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/lzuulwb/">Bhikkhu_Anigha</a><span class="when">2024-12-01 11:22 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Thank you for the reply Bhante. It has cleared up a lot of things especially in regards to why the hindrances hinder.</p>
+<article class="comment parent" id="c-lzkdile">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/lzkdile/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Thank you for the reply Bhante. It has cleared up a lot of things especially in regards to why the hindrances hinder.</p>
 <p>When you say:</p>
 <blockquote>
 <p>You could also say that this [the force] too is "an intention to resist", or craving or delight.</p>
@@ -68,6 +80,9 @@
 <p>In (2) you state that the reason why the hindered citta prevents us from seeing the fact that it's not the hindered citta which is the problem but rather, what one does on account of it being hindered, is that when the citta is hindered, we overlook our own intention. Overlooking our intentions means by definition not seeing our intentions as the problem. So we simply abstain from appropriating the citta and going towards what it wants, and doing that gradually enough whilst maintaining the perspective on why the intention to resist is dangerous; this <em>is</em> the undoing of our previous values, and when undone to the adequate extent, one cannot but see that its the intention and intention only which is the problem, and that would be the understanding which constitutes Right View?</p>
 <p>I don't understand (3). The question was "what it is that leads to the removal of those obstructions", so that means, we're trying to make the citta unhindered? But why are we trying to make the <em>citta</em> unhindered? Isn't that inadvertently saying that it's the citta pressuring us which is still the issue, and not, as we established before, our own intention?</p>
 <p>Sorry for introducing citta in this picture when it wasn't so previously. Ajahn seems to be giving very acute descriptions of citta, while I'm failing to see why it needs to even be seen. I've just been really confused by its relevance to the whole picture of suffering, so I want to see what the relationship between the citta and suffering is.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lzuulwb">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/lzuulwb/">Bhikkhu_Anigha</a><span class="when">2024-12-01 11:22 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>I had overlooked this aspect. However, it seems you're trying to say that that force is the citta, or the wild animal/child we're paired up with as recent HH videos have been discussing. Am I correct?</p>
 </blockquote>
@@ -91,9 +106,11 @@
 <p>Another point that's important to consider is what a tamed <em>citta</em> actually is. It doesn't mean it's focused on a single object and doesn't "move" at all, which is more like a temporarily lulled <em>citta</em>. It means it no longer pressures you regardless of which objects you attend to, and that's what <em>samādhi</em> is.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-lzx6l56">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/lzx6l56/">Bhikkhu_Anigha</a><span class="when">2024-12-01 20:00 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Bhante, but my main question remains unanswered. <em>Why</em> are we to regard the hindered citta as a problem?</p>
+</div>
+</article>
+<article class="comment parent" id="c-lzvh2ir">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/lzvh2ir/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, but my main question remains unanswered. <em>Why</em> are we to regard the hindered citta as a problem?</p>
 <blockquote>
 <p>Whatever harm an enemy may do to an enemy, or a hater to a hater, an ill-directed mind inflicts on oneself a greater harm.</p>
 <p>Dhp 42 (cittavagga)</p>
@@ -102,6 +119,9 @@
 <hr />
 <p>Edit: I suppose we could just say that "harm" is the five hindrances. That which harbors them, thus, inflicts harm. So it seems the question of "greater harm" isn't really getting to the heart of the issue I'm facing here since even I'm able to answer it. The issue, more accurately, is <em>why is it that it's the citta which harbors the five hindrances</em>? And I know this is in fact the issue because I can't answer it and set it aside so easily.</p>
 <p>So will it be correct to say if I understand what the five hindrances are, I will understand the citta? Because if I were to understand the five hindrances, I would have to understand where they are and why they are there and not elsewhere. To understand "where they are", I would have to understand the nature of the citta.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lzx6l56">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1h0lda6/what_is_craving/lzx6l56/">Bhikkhu_Anigha</a><span class="when">2024-12-01 20:00 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>In other words, what is the "greater harm" that the ill-directed mind inflicts on us? Why should we tame this animal that isn't ours?</p>
 </blockquote>
@@ -124,6 +144,8 @@
 <p>And here we arrive at the reason why virtue and restraint from sensuality and ill will are on no account negotiable, <a href="https://suttas.hillsidehermitage.org/?q=mn24#mn24:15.1_mn24:15.2" rel="noopener noreferrer" target="_blank">and are the prequisite for purifying/taming the citta</a> (which is in turn the prerequisite for purification of view). Only if you have been enduring the pressure of the citta long enough by not spilling out into certain actions on account of it can you start to get acquainted with what a hindrance actually is—you will "feel" it whether you like it or not—and that familiarity gets refined as you ascend the stages of the gradual training.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -132,5 +154,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

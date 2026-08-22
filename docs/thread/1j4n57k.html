@@ -6,6 +6,9 @@
   <title>jhana and jhana or jhana · 2025</title>
   <meta name="description" content="jhana and jhana or jhana">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,10 +38,15 @@
 Ajahn Nyanamoli said that whoever teaches jhana different from Buddhist jhana just couldn't get the Buddhist one, which sounds a bit like an assumption to be fair considering we don't know all the people who didn't become monks and their motives, but what is that "buddhist jhana"? Are there different types of jhanas beyond the eight jhanas, like eight Buddhist jhanas and eight lay jhanas?<br />
 I realise there is some level of justifying staying in the world here, but the topic is valid anyway, I think</p>
 <p><strong>For people who just read, downvote and move on I want to say that every question is valid if approached correctly, it's not me who should to stay silent, its you who should keep your hands and judgements to yourself</strong></p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mgh3crn">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgh3crn/">Bhikkhu_Anigha</a><span class="when">2025-03-07 07:18 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>but what is that "buddhist jhana"?</p>
 </blockquote>
@@ -42,16 +54,24 @@ I realise there is some level of justifying staying in the world here, but the t
 <p>Hence, whatever "jhāna" people who still enjoy sensuality can obtain is not what was originally meant with the word "jhāna." Jhāna was not widely taught to householders in the Buddha's time precisely for that reason.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-mgiwftd">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgiwftd/">25thNightSlayer</a></div>
+  <div class="body"><div class="md-body"><p>I’ve realized I cannot follow the teachings if it means I have to renounce the world physically. I’ll be satisfied with Brahm and Brasington jhanas.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mgjh9ds">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgjh9ds/">Bhikkhu_Anigha</a><span class="when">2025-03-07 17:16 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to 25thNightSlayer:</strong><br><div class="md-body"><p>I’ve realized I cannot follow the teachings if it means I have to renounce the world physically. I’ll be satisfied with Brahm and Brasington jhanas.</p></div></div>
   <div class="body"><div class="md-body"><p>That's not a problem as long as you don't forget that that isn't what the Buddha taught as jhāna, nor does it lead to what jhāna is supposed to when made much of (not returning to sensual pleasures again, and disinterest in the world in general).</p>
 <p>And even if it's difficult to fully follow, you can still see value in the <em>direction</em> of renunciation and try to gradually go towards it more. You would then partake in at least a bit of Buddhist peace, and maybe you would one day notice the difference for yourself and decide to pursue that direction further.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mgjlitf">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgjlitf/">25thNightSlayer</a></div>
+  <div class="body"><div class="md-body"><p>The thing is it seems like the jhanas taught in contemporary Buddhism lead to unbinding and nibanna. For me to discount the experiences of teachers of Brahm, Brasington, Shaila Catherine, Beth Upton, Burbea, Chah, Suzuki Roshi, Shinzen Young, Khema, Mirghafori, etc. doesn’t really make sense when they say they’ve experienced vast benefit of what the Buddha taught.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mgjsmxs">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgjsmxs/">Bhikkhu_Anigha</a><span class="when">2025-03-07 18:10 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to 25thNightSlayer:</strong><br><div class="md-body"><p>The thing is it seems like the jhanas taught in contemporary Buddhism lead to unbinding and nibanna. For me to discount the experiences of teachers of Brahm, Brasington, Shaila Catherine, Beth Upton, Burbea, Chah, Suzuki Roshi, Shinzen Young, Khema, Mirghafori, etc. doesn’t really make sense when they say they’ve experienced vast benefit of what the Buddha taught.</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>the jhanas taught in contemporary Buddhism lead to unbinding and nibanna.</p>
 </blockquote>
@@ -61,9 +81,14 @@ I realise there is some level of justifying staying in the world here, but the t
 <p>Now, people are totally free to regard the Buddhist unbinding as undesirable and not pursue it. But instead of doing that, they often instead redefine what the Buddhist unbinding is. Probably because it looks and feels much better when you can assimilate the weight and authority that Buddhism has accumulated, and also because few people read the early texts widely or with enough openness to reconsider their established beliefs about the practice and the goal.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mgk44cs">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgk44cs/">25thNightSlayer</a></div>
+  <div class="body"><div class="md-body"><p>Stream-enteres glimpse nibanna. Full nibanna is the ultimate goal yes. I haven’t seen enough evidence to claim that the instructions taught by these teachers don’t lead to nibanna. What’s the difference between true nibanna and the redefinition of nibanna that you claim they’re making?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mgn9yn1">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgn9yn1/">Bhikkhu_Anigha</a><span class="when">2025-03-08 06:34 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to 25thNightSlayer:</strong><br><div class="md-body"><p>Stream-enteres glimpse nibanna. Full nibanna is the ultimate goal yes. I haven’t seen enough evidence to claim that the instructions taught by these teachers don’t lead to nibanna. What’s the difference between true nibanna and the redefinition of nibanna that you claim they’re making?</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Stream-enteres glimpse nibanna</p>
 </blockquote>
@@ -75,26 +100,38 @@ I realise there is some level of justifying staying in the world here, but the t
 <p>And that's why more often than not there is little to no talk about permanent and final Arahantship (unless it's been redefined not to signify complete renunciation and destruction of craving), since it's about perpetually chasing after greater and deeper experiences and insights, hoping for the ultimate thing that will fill the ever-lingering void perfectly instead of destroying the void itself once and for all.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mgq8ptg">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgq8ptg/">25thNightSlayer</a></div>
+  <div class="body"><div class="md-body"><p>Didn’t the Buddha come to insight through a meditative experience though?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mgsolm0">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgsolm0/">Bhikkhu_Anigha</a><span class="when">2025-03-09 03:36 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to 25thNightSlayer:</strong><br><div class="md-body"><p>Didn’t the Buddha come to insight through a meditative experience though?</p></div></div>
   <div class="body"><div class="md-body"><p>Not quite. According to the the Suttas, <a href="https://suttas.hillsidehermitage.org/?q=mn36#mn36:42.1_mn36:43.3" rel="noopener noreferrer" target="_blank">insight arose because he reflected on the four noble truths on the basis of the fourth jhāna</a>. That description is extremely common and is agreed to be the "standard" path to awakening in the early texts. </p>
 <p>That's not a "meditative experience," but something that you could contemplate at any time, and that indeed many people managed to do to a degree just from talking to the Buddha and without jhāna, <a href="https://suttas.hillsidehermitage.org/?q=mn56#mn56:18.1_mn56:18.8" rel="noopener noreferrer" target="_blank">which is how they entered the stream</a>. Doing it with the mind of the fourth jhāna—<a href="https://suttas.hillsidehermitage.org/?q=an9.41" rel="noopener noreferrer" target="_blank">which arises from giving up sensuality and then taking the same principle further, not from a meditation technique</a>—simply makes the contemplation much more powerful and penetrative.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mgwsmy5">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgwsmy5/">Bhikkhu_Anigha</a><span class="when">2025-03-09 20:34 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to WassaMattaMe:</strong><br><div class="md-body"><p>Bhante, I wonder if you could give me your opinion on a question about this topic, but it's not urgent at all, nor important for the practice. So please feel free to disregard if not useful in your estimation.</p>
+</div>
+</article>
+<article class="comment parent" id="c-mgv7g2j">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgv7g2j/">WassaMattaMe</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, I wonder if you could give me your opinion on a question about this topic, but it's not urgent at all, nor important for the practice. So please feel free to disregard if not useful in your estimation.</p>
 <p>I know those circles that 25thNightSlayer is talking about (maybe you do as well.) My initial acquaintance with the <em>dhamma</em> started because of the writings of some of those people, to whom, for that reason, I am very grateful. Fortunately, I quickly realized how far off those teachings were from the Buddha's own.</p>
 <p>Since I still get their marketing mailings, it is noticeable how misleading those claims are. While their teachings are centered around their own arbitrary opinions (attachments) to what is important (climate change, venting about current US politics, (trans)gender equality and pronouns, and most other feel-good psychobabble. not to mention their interpretations of <em>jhanas</em>), they still specifically identify those "classes" as the Buddha's teachings, and in fact fundraise with the motivation or pretext of spreading and keeping the "dhamma" or "dharma" alive.</p>
 <p>The suttas warned about this future danger, and Ajhan N. made a specific comment how, even done unknowingly, that type of misrepresentation can be of much detriment and bad kamma all around. That would be quite terrifying, since those topics can have some beneficial mundane value, and their intention might be misguided but not necessarily evil.</p>
 <p>Still, what is your opinion?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mgwsmy5">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1j4n57k/jhana_and_jhana_or_jhana/mgwsmy5/">Bhikkhu_Anigha</a><span class="when">2025-03-09 20:34 UTC</span></div>
   <div class="body"><div class="md-body"><p>Well, when we talk about "bad kamma," it's important to remember that it's not some sort of judgment cast upon you by an external force. It's about what you're doing to your own mind, in this case through something that's very harmful to others too.</p>
 <p>If someone knowingly misrepresents the Dhamma with fully conscious, malicious intention for the sake of gain, renown, and the like, then that's on another level where one is breaking the fourth precept in the worst possible way. But I'm optimistic that this  is very uncommon, and misrepresentation is generally not deliberate.</p>
 <p>Still, unintentional misrepresentation it's still quite bad because both in oneself and others, one reinforces wrong views and makes them even harder to remove later on. It's worse if a teacher confidently tries to give the impression that what they teach is the same as what's in the Suttas without having sincerely investigated whether that's the case (most would start noticing glaring discrepancies if they did). The only reason one would do such a thing is valuing gain and renown over the truth.</p>
 <p>Even worse than the misguided emphases you listed is actively discouraging students from <a href="https://suttacentral.net/an4.202/en/sujato?lang=en&amp;layout=sidebyside&amp;reference=none&amp;notes=asterisk&amp;highlight=true&amp;script=latin" rel="noopener noreferrer" target="_blank">taking on faith anything they don't yet see for themselves, feeling ashamed and regretful (hiriottappā) of their unwholesome actions, studying the Suttas, and tenaciously going against the grain of their defilements even if it's unpleasant</a> (not to mention forms of sati and paññā that would be much closer to the right ones). The rejection of at least some of these basic wholesome qualities is very common in Western Buddhism.</p>
 <p>It's an unwholesome principle already to baselessly display certainty about anything, and the fact that it's about Dhamma and one is profoundly influencing people's lives and choices, sometimes actively taking them away from what's actually the Buddhist path while making them believe the opposite, makes it a lot worse.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -104,5 +141,7 @@ I realise there is some level of justifying staying in the world here, but the t
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

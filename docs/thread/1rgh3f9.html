@@ -6,6 +6,9 @@
   <title>How to clearly see the first noble truth? · 2026</title>
   <meta name="description" content="How to clearly see the first noble truth?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -35,10 +42,15 @@
 <p>Im beggining to understand the unsatisfactory nature of sense desires, hence i do not wish to rely on them for my satisfaction/hapinnes, and this has been the primary reason why im doing what im doing.</p>
 <p>When i think of my main goal with this, i think about findind unconditioned and true satisfaction with my life, wich cannot be obtained through craving and satisfying my craving, but i have to make an repetitive effort to think about Dukkha.</p>
 <p>I wonder if my practice is rooted in the right reasons. If not, how can i see things more clearly?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-o7tz3i2">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1rgh3f9/how_to_clearly_see_the_first_noble_truth/o7tz3i2/">Bhikkhu_Anigha</a><span class="when">2026-02-28 05:19 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Whether you focus on wanting better satisfaction or not wanting dissatisfaction doesn't really matter, since either way the need for striving is recognized.</p>
 <p>What's more important is to remain transparent about what is taking you away from the right satisfaction and toward suffering (i.e., your own actions), so that you don't start thinking that you can get to the right satisfaction through some kind of shortcut.</p></div></div>
   
@@ -51,5 +63,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

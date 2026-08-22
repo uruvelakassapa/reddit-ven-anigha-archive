@@ -6,6 +6,9 @@
   <title>Question Regarding the Fourth Precept · 2025</title>
   <meta name="description" content="Question Regarding the Fourth Precept">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,10 +41,15 @@ However, I noticed the intention behind the utterance was to protect my image, i
 <p>I don't know whether or not to regard this as a transgression due to the unwholesome intention which happened to have a convenient, partially-true excuse, based in external circumstances, no less. </p>
 <p>Am I overanalyzing this? If so, how do I see the danger in the slightest fault without falling into recursive spirals of <a href="https://suttacentral.net/an7.11/en/thanissaro?lang=en&amp;reference=none&amp;highlight=false" rel="noopener noreferrer" target="_blank">obsessive uncertainty (<a href="https://suttacentral.net/an7.11" rel="noopener noreferrer" target="_blank">AN 7.11</a>)</a>?</p>
 <p>Any feedback is appreciated.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mrvcd6k">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kk957v/question_regarding_the_fourth_precept/mrvcd6k/">Bhikkhu_Anigha</a><span class="when">2025-05-12 05:55 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>I don't know whether or not to regard this as a transgression due to the unwholesome intention which happened to have a convenient, partially-true excuse, based in external circumstances, no less.</p>
 </blockquote>
@@ -45,16 +57,21 @@ However, I noticed the intention behind the utterance was to protect my image, i
 <p>It is certain that when you take up the precepts, you will be swinging between the extremes of anxious concern with every little action and lax carelessness (where you might only keep the very strict letter of a precept but ignore the spirit). And you should regard falling for either of those extremes as a symptom of still not recognizing your own intentions clearly. Keeping the precepts externally without any compromises creates the necessary basis for you to train that discernment. When it's trained, there will come a point where "not acting out of defilements" will for you automatically mean perfect precepts, without any room for doubts. And that's what "accomplishment in virtue" means.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-ms7rmii">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kk957v/question_regarding_the_fourth_precept/ms7rmii/">Bhikkhu_Anigha</a><span class="when">2025-05-14 04:07 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to craveminerals:</strong><br><div class="md-body"><p>Bhante, may I ask, what about certain jokes? </p>
+<article class="comment parent" id="c-ms1xo9a">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kk957v/question_regarding_the_fourth_precept/ms1xo9a/">craveminerals</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, may I ask, what about certain jokes? </p>
 <p>For example I made a little joke when we found a spider at work and the others said we should kill it. I said “it’ll start raining if we do that” (it’s a common ‘folk myth’ in my country that almost nobody believes) <br />
 Saying things like that is untrue, but it’s not like one would have any intent of deception or expecting that anybody will believe it.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ms7rmii">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kk957v/question_regarding_the_fourth_precept/ms7rmii/">Bhikkhu_Anigha</a><span class="when">2025-05-14 04:07 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>but it’s not like one would have any intent of deception or expecting that anybody will believe it.</p>
 </blockquote>
 <p>Exactly, so it doesn't break the fourth precept then.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -64,5 +81,7 @@ Saying things like that is untrue, but it’s not like one would have any intent
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

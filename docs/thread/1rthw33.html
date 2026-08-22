@@ -6,6 +6,9 @@
   <title>Concussive contemplations · 2026</title>
   <meta name="description" content="Concussive contemplations">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -45,10 +52,15 @@
 <p>"It’s like the vessels made by potters. Whatever kind they are, whether baked or unbaked, all of them are liable to break apart." <a href="https://suttacentral.net/sn3.22" rel="noopener noreferrer" target="_blank">SN 3.22</a></p>
 <p>"Realizing that this body is as fragile as a clay pot, and fortifying this mind like a well-fortified city, fight out Mara with the sword of wisdom." Dhp 40</p>
 <p>Thank you for reading.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-oaj82ty">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/oaj82ty/">Sister_Medhini</a><span class="when">2026-03-15 06:56 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>A good post which reminds me of this: </p>
 <blockquote>
 <p>A dying man can only rely upon his wisdom, if he developed it. Wisdom is not dependent upon any phenomenon originated upon six senses. It is developed on the basis of the discernment of the same. That’s why when one’s senses start to wither and die, the knowledge of their nature remains unaffected. When there is no wisdom, there will be despair, in the face of death. Breathing Towards Death. </p>
@@ -59,9 +71,9 @@ The sankhāras are there in ignorance. Not understanding that one's actions and 
 <p>I.e., it is one thing to have the idea 'even every upādāna is impermanent'; it is another thing to become actually aware of that very phenomenon of 'taking up' what cannot be taken up, finding it in concrete standpoints and paths of thought. (You mentioned some examples.) The former does nothing to free you from that upādāna; the latter is the direct way to undo it.  Avoid abstract thinking like the plague.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-oan1awi">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/oan1awi/">Sister_Medhini</a><span class="when">2026-03-15 21:14 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to LotusOfUpekkha:</strong><br><div class="md-body"><p>Thank you Ayye.</p>
+<article class="comment parent" id="c-oajzurl">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/oajzurl/">LotusOfUpekkha</a></div>
+  <div class="body"><div class="md-body"><p>Thank you Ayye.</p>
 <blockquote>
 <p>it can definitely be the right way to think, <strong>as long as that thinking does not become abstract</strong>.... Avoid abstract thinking like the plague.</p>
 </blockquote>
@@ -75,6 +87,9 @@ The sankhāras are there in ignorance. Not understanding that one's actions and 
 </blockquote>
 <p>This is basically what bhava is, right? By conceiving direct access to that which cannot ever be accessed, one maintains/increases/fuels their (sense of) being - an existence/being - that is real as such- is conceived due to one's assumption of 'the external' to that which is its source/foundation/origin? And so something that doesn't need "life" (is gratuitous) is given a life that it doesn't actually have - it only exists as such due to one's conceiving which contradicts the nature of things?</p>
 <p>So practically speaking (in an attempt to make it more concrete): if one's head feels like a strong man is tightening a tough leather strap around it, and there's an unpleasant feeling simultaneously enduring - if there's still <em>any leaning whatsoever</em> of citta (which would be an activity - a sankhāra) there would simultaneously also always be bhava there - one cannot 'exist' without the other - an existence of some kind HAS to be there always as long as leaning is not fully uprooted. Does that make sense?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-oan1awi">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/oan1awi/">Sister_Medhini</a><span class="when">2026-03-15 21:14 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>What is concrete thinking? </p>
 </blockquote>
@@ -118,6 +133,8 @@ Doing so would be already coming out of craving, so any 'training' you try and d
 <p>The last question I will put aside for now because it is in a slightly different topic that is not as practically relevant, and this is already quite a lot. </p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -126,5 +143,7 @@ Doing so would be already coming out of craving, so any 'training' you try and d
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

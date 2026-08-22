@@ -6,6 +6,9 @@
   <title>Is absorption always a problem? · 2024</title>
   <meta name="description" content="Is absorption always a problem?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>Maybe I've misunderstood the talks I've heard and things I've read, but is it correct that if I'm meditating and become very absorbed into a pleasant feeling or a sensation or sight, then I'm no longer meditating correctly?</p>
 <p>Can someone please tell me if there is any room for absorption on the Buddha's path?</p>
 <p>To be completely upfront, I enjoy these states very much, but have been refraining lately because I've noticed they put my mind in a strong state of dullness and laziness, even when I'm not meditating. </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-m0nlj0g">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1h7qjcy/is_absorption_always_a_problem/m0nlj0g/">Bhikkhu_Anigha</a><span class="when">2024-12-06 03:55 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is it wrong meditation to become absorbed into experiences while sitting?</p>
 </blockquote>
@@ -49,5 +61,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

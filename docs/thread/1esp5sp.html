@@ -6,6 +6,9 @@
   <title>Enduring the pressure correctly · 2024</title>
   <meta name="description" content="Enduring the pressure correctly">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -35,10 +42,15 @@
 <li>One thing I have contemplated for a while is that, given that the entire body(1) (and hence, my body(2) experience as a whole -- using the terminology bhante Anigha used in his Yoniso Manasikhara essay, where body(1) is the more fundamental object in the world) is subject to death and thus directly unownable, it is possible that no thinking and pondering, no sensations, nothing on that body(2) level can actually be my action on an immediate level, my action is something that comes <em>after</em> that.  But does it have to be volitional?  On what level do I <em>choose</em> to make this or that action, what is the threshold?  So is it just that assumption or ayoniso attention that turns natural thinking and pondering into the <em>act</em> of thinking and pondering?  Or is it that, since you implicitly can say no to thoughts, can turn your direction elsewhere, you are acting simply by experiencing them?  Without understanding the line of action more clearly, I'm having a lot of trouble enduring the hindrances, even though I see how terrible and often unbearable the pressure of sensuality actually is.  It really is exactly like racketeering, it's honestly very horrific because pretty much every single thing I habitually "want" to do has this exact same dynamic, this exact same pressure underlying it.  It's like my world is made of sharp stones.</li>
 </ol>
 <p>To rephrase what I said above - when I'm met with an unpleasant abiding, I know that it's wrong to act towards ignoring it or trying to get rid of it.  What happens is that since I don't understand the line between acting and not acting with enough clarity, my ability to endure without actually acting chips away as the perception that I am implicitly acting out due to the arising of phenomena grows stronger.  If I had to guess, I would say that perhaps I just need to endure that too, and I'm still not acting out until I make a conscious choice.  But I could easily be wrong.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-licrph3">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1esp5sp/enduring_the_pressure_correctly/licrph3/">Bhikkhu_Anigha</a><span class="when">2024-08-16 04:03 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>It sounds like you're severely overthinking things and are not realizing that you've already gone down the rabbit hole of restlessness and doubt. Even if the ideas you arrive at are theoretically correct, they won't be so <em>internally</em> because they're coming through a mind of doubt.</p>
 <p>What you should do is not try to stop feeling the pressure or stop thinking, but see the whole barrage of doubts, uncertainties, and questions that present themselves as being of the utmost importance as <em>one thing</em> that's trying to bait you away from the right context, and then let that pressure endure for as long as it wants without going out to welcome it <em>or</em> fight with it at any point. <a href="https://suttacentral.net/sn35.240/en/sujato?lang=en&amp;layout=plain&amp;reference=none&amp;notes=none&amp;highlight=false&amp;script=latin" rel="noopener noreferrer" target="_blank">Like a tortoise that draws its limbs into its shell when the jackal comes to eat it.</a></p>
 <p><a href="https://www.youtube.com/watch?v=qJMDsnQ79Cc&amp;t=1s&amp;pp=ygUZaXNsYW5kIGhpbGxzaWRlIGhlcm1pdGFnZQ%3D%3D" rel="noopener noreferrer" target="_blank">This talk</a> goes into this in more detail.<a href="https://www.youtube.com/watch?v=7wOb8e7OS2g&amp;pp=ygUddGhlIGlzbGFuZCBvZiBzYWZldHkgaGlsbHNpZGU%3D" rel="noopener noreferrer" target="_blank"> "The Island of Safety" </a>is also very connected.</p></div></div>
@@ -52,5 +64,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

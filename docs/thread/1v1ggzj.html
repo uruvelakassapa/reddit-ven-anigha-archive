@@ -6,6 +6,9 @@
   <title>Repressing anger is inevitable for an ordinary person, in order to not act out. · 2026</title>
   <meta name="description" content="Repressing anger is inevitable for an ordinary person, in order to not act out.">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1v1ggzj/repressing_anger_is_inevitable_for_an_ordinary/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>I might be wrong. But sometimes when anger gets too strong, it feels almost impossible to just let go. First I might repress it, to keep my precept, then I might channel the anger into more productive activities, albeit worldly ones, like exercising, reading books, or even contemplating anger. <br />
 Am I doing it wrong? Please give me advice to deal with anger? Maybe more sense restraint? Stay in seclusin? Manage my environment? Patiently endure? I am a puthujanna,  I still don't know how to endure without resisting/repressing it at all. </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-oyok8qz">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1v1ggzj/repressing_anger_is_inevitable_for_an_ordinary/oyok8qz/">Bhikkhu_Anigha</a><span class="when">2026-07-20 14:45 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The fact that anger arises and doesn't go away is not at all "wrong." It's what supposed to happen. By not acting out of that anger that stays nor managing it—which is what any "letting go" that a puthujjana can wrap their head around will be—you will eventually be able to understand it and thus uproot it (by removing the resistance to unpleasant feeling, not the feeling itself).</p></div></div>
   
 </article>
@@ -43,5 +55,7 @@ Am I doing it wrong? Please give me advice to deal with anger? Maybe more sense 
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

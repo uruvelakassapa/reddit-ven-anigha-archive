@@ -6,6 +6,9 @@
   <title>Clarification regarding HH descriptions of MN10 · 2024</title>
   <meta name="description" content="Clarification regarding HH descriptions of MN10">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -46,10 +53,15 @@
 <p>Is my interpretation accurate? I would say that it still kind of clashes with my understanding of what is described in [Recollectedness of Breathing | Revisiting Anapanasati Meditation Practice], but is the most concordant with my own experiences. Because we really do have a direct level of control, the point is just that the particulars of our experience MUST be arising due to more primary physical processes. Hence, "breath-watching," despite being legitimately the most refined type of sensuality (and so in a mundane sense, for the average worldly person, being quite a good and even elevated thing) is really just hiding from and maintaining your own liability to acting out of / appropriating disagreeable, on a more fundamental level. That type of practice essentially says "the problem is in the objects" when the problem is really craving and one's continued liability to it. For somebody with no interest in going beyond, the problem more or less is in the objects, since they don't want to face them or endure them, it's just all about feeling good right now and forever, all the time.</p>
 <p>So this practice of calming the body is really just the healthiest way to establish the mind in terms of letting your body relax, it's more effective for calming than absorption (it has to be, if you can't go further than your intention) and doesn't require your direct sense of control in the domain of particular sense objects (another reason why it would have greater efficacy). Perhaps what was meant in the first video is that, as you are aware of calming, you are aware of calm as a phenomena. But the explanation seemed to be closer to: you attend to the calm, and disregard the not-calm. But I don't think this is what was meant.</p>
 <p>So overall, it seems like we have two categories of "calming" 1) The sutta description, which refers to calming the body and its events - might also include attending to the presence of calm in the body, which I would take to mean being recollected of the fact that as you have this or that unpleasant experience arise, you simultaneously know that the majority of your body is totally calm, kind of putting the discomfort into a greater perspective. 2) Calming of endurance, which is a mental calming, not a bodily calming.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-l9pstoi">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dlb8gi/clarification_regarding_hh_descriptions_of_mn10/l9pstoi/">Bhikkhu_Anigha</a><span class="when">2024-06-22 03:36 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>If you're keen on approaching the right view by trying to understand how APS is properly practiced, I would strongly advise sticking to the instructions on the topic found in Ajahn Nyanamoli's two books. If they seem overly terse or somehow inadequate, it's only because they haven't been sufficiently understood, not because anything was omitted.</p>
 <blockquote>
 <p>The knowledge of breathing in and out doesn’t require any special effort.</p>
@@ -72,5 +84,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Practice advice · 2026</title>
   <meta name="description" content="Practice advice">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -45,10 +52,15 @@
 <p>- Should I reflect on danger/drawbacks, impermanence, etc? At times mind does takes on these topics(not to avoid anything specifically) and it’s not just on an intellectual level, I am definitely able to feel the implications of my contemplation. But im still trying to discern when its appropriate, how often to do so etc.</p>
 <p>For sense pleasures , ex- longing for something, how do i reflect on the danger in that? The danger must be independent of the content and of sense pleasures as a whole, or specifically relating to the thought? I am still at the stage where I am just enduring and not steering the mind in the right direction towards dispassion with sense pleasures and making it learn for itself. Sometimes thoughts like “this is impermanent” or other stock phrases will arise, not to push the longing away(or it could be and im mistaken) but as I understand these are still surface level and aren’t actually talking directly to the citta. Any advice for this?</p>
 <p>Thank you for any guidance you’re willing to offer.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-nzva26l">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1qdgogu/practice_advice/nzva26l/">Bhikkhu_Anigha</a><span class="when">2026-01-16 05:11 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Should I reflect on danger/drawbacks, impermanence, etc?</p>
 </blockquote>
@@ -57,11 +69,14 @@
 <p>To be clear, you're not looking for some positive announcement from your mind that the precepts will never be broken. You simply see that when you <a href="https://suttas.hillsidehermitage.org/?q=mn8#mn8:12.1_mn8:12.45" rel="noopener noreferrer" target="_blank">bring up the intention never to engage in misconduct again</a>, resistance and reservations no longer arise. That means the citta is obedient to that extent (the internal enemies are defeated).</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-nzwg5zj">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1qdgogu/practice_advice/nzwg5zj/">Bhikkhu_Anigha</a><span class="when">2026-01-16 11:11 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Embarrassed-Box6857:</strong><br><div class="md-body"><p>Thank you for your reply Bhante, I will reflect on the danger of breaking the precepts. The only things I still occasionally give in to or have not 100% said no to in terms of never giving in for the rest of my life are using Dhamma as a soothing tool(especially for doubt) and to relax/enjoy, likewise with food.</p>
+<article class="comment parent" id="c-nzvkwlx">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1qdgogu/practice_advice/nzvkwlx/">Embarrassed-Box6857</a></div>
+  <div class="body"><div class="md-body"><p>Thank you for your reply Bhante, I will reflect on the danger of breaking the precepts. The only things I still occasionally give in to or have not 100% said no to in terms of never giving in for the rest of my life are using Dhamma as a soothing tool(especially for doubt) and to relax/enjoy, likewise with food.</p>
 <p>About my other questions, about endurance on the “right level” and the body posture context, am I on the right track? And likewise for finding the line with proliferation of thoughts and mere observation.</p>
 <p>Thank you once again Bhante. Your help is greatly appreciated 🙏</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-nzwg5zj">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1qdgogu/practice_advice/nzwg5zj/">Bhikkhu_Anigha</a><span class="when">2026-01-16 11:11 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>The only things I still occasionally give in to or have not 100% said no to in terms of never giving in for the rest of my life are using Dhamma as a soothing tool(especially for doubt) and to relax/enjoy, likewise with food.</p>
 </blockquote>
@@ -73,6 +88,8 @@
 <p>The right level is not something you do or create; it's when what you will <em>not</em> do (because it's unwholesome) is crystal clear, and abstaining from it is effortless because the mind has been trained to that degree.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -81,5 +98,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

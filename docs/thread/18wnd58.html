@@ -6,6 +6,9 @@
   <title>The mechanism of doubt · 2024</title>
   <meta name="description" content="The mechanism of doubt">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>Maybe I'm confabulating because the only HH's video on the topic I'm able to find now is the one with a nearly opposite account on it (the one titled "The Pain of Doubt") - Ajahn Nyanamoli advices there a thorough examination as a way for resolving any doubts.</p>
 <p>In a sense I'm not only interested in recalling the name of the exact video in question (although I would be glad if someone could point me to it), but I would also like to hear some of the possible takes on these two seemingly different approaches dealing with doubt, especially since both seem very sound to me.</p>
 <p>Should doubts be faced by interrogating them until nothing of them remains, or they should be seen as Mara's baits with which any contact necessarily leads to just further entanglements and more doubts?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kfzn3pi">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/18wnd58/the_mechanism_of_doubt/kfzn3pi/">Bhikkhu_Anigha</a><span class="when">2024-01-02 15:57 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>This morning I've tried to dig out certain HH video concerning the workings of doubt, the one, if I remember correctly, in which the resolution of doubts is said to be found in starving them out by not feeding (into) them. Basically, an interrogation of doubts was recognized as the food for their growth and sustenance.  </p>
 <p>Maybe I'm confabulating because the only HH's video on the topic I'm able to find now is the one with a nearly opposite account on it (the one titled "The Pain of Doubt") -</p>
@@ -65,5 +77,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

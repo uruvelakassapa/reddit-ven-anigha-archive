@@ -6,6 +6,9 @@
   <title>Resistance is suffering · 2024</title>
   <meta name="description" content="Resistance is suffering">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -55,30 +62,40 @@
 <li>Stop resisting the feeling and it will stop it hurting so there is no need to gratify it anymore</li>
 <li>We are left with only the current feeling</li>
 </ol></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kqiz7e6">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1aqk4ob/resistance_is_suffering/kqiz7e6/">Bhikkhu_Anigha</a><span class="when">2024-02-15 12:52 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>So roughly speaking are these the steps to see the way out of kamupadana and eventually free oneself from tanha all together after refinement?</p>
 </blockquote>
 <p>Yes, but point #3 is where the vast majority of the work lies. Learning how to stop resisting feelings without that turning into a subliminal attempt to get rid of them is what takes a long time.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-krls8rt">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1aqk4ob/resistance_is_suffering/krls8rt/">Bhikkhu_Anigha</a><span class="when">2024-02-22 13:34 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to GachiOnFire:</strong><br><div class="md-body"><p>Bhante, in dependent origination, specifically "with contact feeling is, with feeling craving is", from there I understand that the craving there in relation to the feeling is what the pressure is.</p>
+<article class="comment parent" id="c-krkxd45">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1aqk4ob/resistance_is_suffering/krkxd45/">GachiOnFire</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, in dependent origination, specifically "with contact feeling is, with feeling craving is", from there I understand that the craving there in relation to the feeling is what the pressure is.</p>
 <p>Is the first and the second arrow contained in this small expression of paticassamupada?</p>
 <p>So far I understood that with contact from the sense-base with the sense-object, feeling(1) is manifested, with feeling(1), craving is manifested, with craving feeling(2) is manifested. Here feeling(1) would be the first arrow, and craving and feeling(2) would be the second arrow which is in itself felt as a second layer of feeling (unpleasant at its core but pleasant and delightful at the prospect of doing away with it) added on top of the first one.</p>
 <p>By listening to this talk on <a href="https://youtu.be/6LSjoBSqK3A?si=-sjD-Zjlc7Y1epGD" rel="noopener noreferrer" target="_blank">overcoming the pressure</a>, the Ajahn seems to emphasize that in the previous expression of dependent origination, pressure is actually why pleasure and pain are there and that without ignorance of pressure pleasure and pain wouldn't be there.</p>
 <p>Is the Ajahn talking about craving and the feeling(2) on the emotionnal level and not saying that without ignorance of the pressure even feeling(1) wouldn't be there?</p>
 <p>Again, because I still feel like I don't have a solid grasp on these things I am just looking for confirmation, if you have some time at one point.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-krls8rt">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1aqk4ob/resistance_is_suffering/krls8rt/">Bhikkhu_Anigha</a><span class="when">2024-02-22 13:34 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Is the first and the second arrow contained in this small expression of paticassamupada?</p>
 </blockquote>
 <p>No, that's not really how PS works. Paṭiccasamuppāda is not giving you an "explanation" of how everyone's experience comes to be, like a sort of quasi-scientific universal principle of the mind. It's a description of a puthujjana's suffering—of his <em>assumed</em> aggregates and what they depend on. It's a description of the second arrow alone.</p>
 <p>When there is no suffering, it's because the entire thing did not take place at all, starting with ignorance. The feeling that is there on the basis of contact is already suffering because it already involves ignorance. The five aggregates free from assumption, i.e., that are not dukkha, are not within paṭiccasamuppāda.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -88,5 +105,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

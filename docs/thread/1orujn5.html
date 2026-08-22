@@ -6,6 +6,9 @@
   <title>A few reflections · 2025</title>
   <meta name="description" content="A few reflections">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -47,10 +54,15 @@ However, with this, I sometimes get unsure if I am just bullshitting myself.<br 
 But lately, I would then recognize unsureness as doubt (as it would often lead to a tendency to start becoming absorbed in thoughts of "<em>Should I do it</em>?" and "<em>No, you're acting out"</em> etc. and then refraining from proliferating that further.</p>
 <p>I know this is a lot but this is just something that's been on my mind lately. Feel free to also adress the stuff that wasn't marked with a bullet point.</p>
 <p>I'd appreciate to also get a perspective on all this from one of the venerables.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-no2o6rd">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1orujn5/a_few_reflections/no2o6rd/">Bhikkhu_Anigha</a><span class="when">2025-11-10 07:57 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is recognzing this tendency to become absorbed and then maintaining (i.e. refusing to let oneself get 'pulled back into' what had captivated you) part of seeing the signs of the mind/abandoning the hindrances?</p>
 </blockquote>
@@ -77,5 +89,7 @@ But lately, I would then recognize unsureness as doubt (as it would often lead t
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

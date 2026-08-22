@@ -6,6 +6,9 @@
   <title>What is the precise definition of sensuality? · 2024</title>
   <meta name="description" content="What is the precise definition of sensuality?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -55,10 +62,15 @@
 <p>The issue is, I simply do not see myself "wanting sensual desire". If in theory a button existed to remove sensual desire, I would not hesitate. I mean, wasn't the point of the video on the fact that <a href="https://youtu.be/Y5_57craCak?si=Qh3ovTQjGkT1yGgK" rel="noopener noreferrer" target="_blank">sensuality is not wanted</a> precisely the fact that people do <em>not</em> want sensual desire? It was precisely after watching this that I had come to realize that I do not want the desire.</p>
 <p>But at the same time, Ajahn is stating that we want sensual desire in the "Stop Wanting the Wanting of Sensuality" video? How is this not a contradiction?</p>
 <p>Going back to the quote from <a href="https://suttacentral.net/mn13" rel="noopener noreferrer" target="_blank">MN 13</a>, removing and giving up desire-and-passion for "sensual desire" (if we take sensuality to mean sensual desire here) also implies there is desire-and-passion for sensual desire, but I just cannot see it at all for myself.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lxk3w8e">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxk3w8e/">Bhikkhu_Anigha</a><span class="when">2024-11-17 06:36 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>But the implication of this would be the removal of desirable objects, i.e., the removal of things in the world. But that's clearly not what the Buddha's teaching; it's craving that's the root of suffering, not the world.</p>
 </blockquote>
@@ -67,9 +79,9 @@
 <p>So, technically, for one who is free from sensuality, desirable objects too have ceased, similar to how feelings, not just craving, are said to cease in an Arahant. It's just that if you tell that to someone who isn't free from sensuality, they'll usually end up thinking that suppressing the desire that's actually still there is the escape. They won't know how to actually uproot it.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-lxpzvt9">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxpzvt9/">Bhikkhu_Anigha</a><span class="when">2024-11-18 06:59 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Thank you for the reply Bhante.</p>
+<article class="comment parent" id="c-lxl8efe">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxl8efe/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Thank you for the reply Bhante.</p>
 <p>So if I understand you correctly desire and desirable objects are simply different sides of the same coin that is sensuality? Would it then be correct to say that we can define sensuality as the world-experienced-through-desire? By the world here, I mean one's experience of the six on account of desire. When there is desire, one is infatuated through the world as it appears through that desire; it is that entire experience of desire, which includes the desire and the thing desired, that one wishes to protect because of the mistaken assumption that that in its entirety provides safety from suffering.</p>
 <p>With this, the sutta somewhat makes sense:</p>
 <blockquote>
@@ -90,6 +102,9 @@
 </blockquote>
 <p>It is because form-and-feeling are the main things via which the-world-experienced-through-desire is manifest; if there were no forms there could not be sensual desire towards those forms, and if there were no feeling, there would not be the experience of pleasantness on account of the desire. One could equally target the the 5 senses and develop dispassion towards that, I suppose, to remove the infatuation with the-world-experienced-through-desire. I had always found this mention of the gratification-danger-escape of form and feeling quite odd in this sutta considering the Buddha never went into the other 3 aggregates, but now it makes sense.</p>
 <p>Is my understanding correct?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lxpzvt9">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxpzvt9/">Bhikkhu_Anigha</a><span class="when">2024-11-18 06:59 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Is my understanding correct?</p>
 </blockquote>
@@ -97,20 +112,32 @@
 <p>Edit: One point I forgot to mention is that the "for the sake of" is actually Ven. Sujato's rendering, which I originally did not think worth modifying. But now I changed it to "on account of [sensuality]", which is more in line with the Pāli and probably avoids some confusion.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-lxs738g">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxs738g/">Difficult-Strain-580</a></div>
+  <div class="body"><div class="md-body"><p>And so you undo it by taming the mind? So that you undo the habit of engaging with it by training the mind to not want that wanting? Eventually, the mind gets used to not engaging with sensuality? Am I understanding it correctly?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-lxw6egl">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxw6egl/">Bhikkhu_Anigha</a><span class="when">2024-11-19 07:22 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Difficult-Strain-580:</strong><br><div class="md-body"><p>And so you undo it by taming the mind? So that you undo the habit of engaging with it by training the mind to not want that wanting? Eventually, the mind gets used to not engaging with sensuality? Am I understanding it correctly?</p></div></div>
   <div class="body"><div class="md-body"><p>Yes, you undo it by getting the mind (citta) to fully understand that wanting what the senses want—"forms cognizable by the eye that <em>are agreeable, likeable...</em>"—is like putting its head under a guillotine that could fall at any moment Dealing with what the senses want directly is dealing with circumstances. That can only remove particular sensual cravings, like a game of "Whac-A-Mole", never solving the <em>liability</em> to sensuality. But for that uprooting to be possible, you do need to have actually, physically stopped engaging with the senses, thus sense restraint comes first.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-lxt38np">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxt38np/">NecessaryNo3053</a></div>
+  <div class="body"><div class="md-body"><p>Regarding the video talk you gave on Hillside hermitage about stream entry, where you talk about internally devaluing of sensuality as oppose to just for a moment or externally restraining from it. Would this devaluing come from seeing the danger that naturally comes (in a sense of potential suffering, or not even potential but guaranteed) with every prospect of delight. As if it is bound. By sensuality (delighting in it) it is implied suffering?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-lxwqca9">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gsp1m7/what_is_the_precise_definition_of_sensuality/lxwqca9/">Bhikkhu_Anigha</a><span class="when">2024-11-19 11:00 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to NecessaryNo3053:</strong><br><div class="md-body"><p>Regarding the video talk you gave on Hillside hermitage about stream entry, where you talk about internally devaluing of sensuality as oppose to just for a moment or externally restraining from it. Would this devaluing come from seeing the danger that naturally comes (in a sense of potential suffering, or not even potential but guaranteed) with every prospect of delight. As if it is bound. By sensuality (delighting in it) it is implied suffering?</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Would this devaluing come from seeing the danger that naturally comes (in a sense of potential suffering, or not even potential but guaranteed) with every prospect of delight. As if it is bound. By sensuality (delighting in it) it is implied suffering?</p>
 </blockquote>
 <p>Yes. It needs to fully sink in that the very <em>presence</em> of delight is a compromise to your safety, and means that suffering is <em>already there</em>, regardless of what ends up happening afterward.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -120,5 +147,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

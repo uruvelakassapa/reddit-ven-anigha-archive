@@ -6,6 +6,9 @@
   <title>Why ever eat sweets? · 2025</title>
   <meta name="description" content="Why ever eat sweets?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -35,10 +42,15 @@ No topping up the body with what the 21st century thinks is normal to consume, o
 <p>Edit: Eating them as part of the one meal is definitely the optimal way to go. Eating sweets as part of a meal is always better for your teeth too. Venerable Subhara brings up some legitimate points about the food situation in monasteries in Asia(although I don't think curd being available justifies adding jaggery to it).  And having been able to previously fully give up sugar, I can say that there is a huge difference with the way "the animal" behaves if you're eating even a little sugar and your mind is able to expect it each day(and get "topped up") and not eating any.  The mind expecting something sweet at the end of it all is the main problem with Samsara after all, but it's just suffering arising and ceasing. I will say that this has been a point of pride for me, not eating sugar--until I fell from that one day a few months ago and over-indulged and have been struggling with it like an addiction since then.  It was a good point of learning at least, seeing that I basically didn't train the mind at all in regard to it before, I just kept it pinned down until it gave up.  As a former drug addict, I can see that the mindset of looking or hoping for a high has remained and its just shifted its object.  A few times now when I've had shifts in my attitudes towards food and its purpose, those nights I would dream about drugs.</p>
 <p>Edit 2: My thoughts about healthy and unhealthy could use some recalibration. All these veggies are so unnecessary spiced anyway and I often genuinely go for sweeter things because they're generally easier to digest. It needs to be approached with discernment each time.  I can also trust my gut when it doesn't want something. If my stomach is telling me a bad feeling when I look at and consider certain foods I shouldn't eat them because my stomach is always right and I will feel uncomfortable or get sick from them. It doesn't necessarily follow everything it says "yes" to is good for me to eat, though.</p>
 <p>A temporary break is also probably a good idea. </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mjlp3fd">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjlp3fd/">Bhikkhu_Anigha</a><span class="when">2025-03-25 04:03 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>If you feel that for you personally the mind cannot remain stable when eating sugary foods (or engage in any particular action that isn't against the precepts), then sure, avoid that <em>for the time being</em>. But that's not a justification to develop the view that those things have to be rooted in craving. By holding such views, you obstruct yourself from concretely understanding what craving is and realizing that, for example, craving for sweets can come and go and is not a fixed phenomenon. Seeing craving as something that will always be there in regard to certain things implies thinking about it in near complete abstraction, a common mistake that is the main underpinning of self-mortification, i.e., the same problen in a new costume.</p>
 <p>Apart from the precepts, progress is not measured by how many things you never do but by how little your mind cares about doing anything in particular. That doesn't mean you will never do anything, but that whatever you do will never be rooted in obsession internally and <em>thus</em> always be moderate and dispassionate.</p>
 <p>So consumption of sweets (or of anything) would be fine if and only if your mind is internally uninvested and not by externally having a "justification" like being sick or famished (obsession can still be there regardless of that justification, and one would then feel absolved from restraining it). And people make mistakes on both accounts: they assume their mind can remain internally uninvested <em>always</em> and thus stop actually inspecting whether that's the case on every occasion, or they assume that the external reasons are the measure, and equally stop inspecting their minds internally.</p></div></div>
@@ -46,7 +58,6 @@ No topping up the body with what the 21st century thinks is normal to consume, o
 </article>
 <article class="comment teacher" id="c-mjn5bfi">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjn5bfi/">Sister_Medhini</a><span class="when">2025-03-25 12:22 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>To add a point that gets often overlooked, the mental and emotional preoccupation around such issues as craving for specific foods can easily become a bigger hindrance than those issues in themselves. </p>
 <p>Someone could theoretically be overweight, eating chocolate and drinking coffee every day out of habit, but by not developing or holding dogmatic ideas about it, or hating themselves or others on account of it, they could still quite conceivably become accomplished in virtue on the level that matters in terms of understanding the four noble truths. </p>
 <p>Meanwhile examples abound of people who eat only unprocessed whole foods and vegetables, intermittant fast or eat one meal a day, have a perfect body composition, have completely overcome sugar cravings and are utterly without either wisdom or virtue. Obsession with health is just another way to be identified with the body. </p>
@@ -55,13 +66,16 @@ No topping up the body with what the 21st century thinks is normal to consume, o
 <p>You should be more concerned about not seeing 'the animal' clearly enough, than addressing what you think of as the animal's misbehaviour, because it bothers you.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mjs0xs1">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjs0xs1/">Bhikkhu_Anigha</a><span class="when">2025-03-26 03:39 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Ok-Addition-7759:</strong><br><div class="md-body"><p>Thank you bhante. A break sounds like a great idea.</p>
+<article class="comment parent" id="c-mjmyuzu">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjmyuzu/">Ok-Addition-7759</a></div>
+  <div class="body"><div class="md-body"><p>Thank you bhante. A break sounds like a great idea.</p>
 <p>It occurred to me when considering intentions that healthiness really is an external standard.  Arahants might do the most unhealthy thing, suicide, but they don't do it with any unwholesome intentions present.  In that light, even though it might seem to be blatantly unwholesome to choose unhealthier options, it just isn't the case.  </p>
 <p>I've also heard the instruction from HH to avoid unsuitable food.  Unsuitability could be a lot of different things.  Olive oil seems to make me sleepy, so it seems unsuitable that way, physically.  Pork seems fine when I eat it, but some time after eating it I might be struck by strong sexual desire, or have sexual dreams that night.  I've had the same thing with milk, I didn't drink it for the longest time, but nowadays it's consistently caused wet dreams.  How would one go about determining the mental unsuitability of things?  I don't know why pork does what it does, except that it does seem to be associated with fulfilling some hunter archetype from images and oblivion-dreams of giving pigs and pork to women.  With milk the associated images are also often corrupted by (sexualized) human breasts.  If I am considering some food, there are often quiet thoughts bearing the mark of the feminine advising restraint and sensibility. The thoughts are easy to miss or ignore, but if listened to become easier to discern.  At other times, only when the food I'm considering is something I crave, a sexualized image of a woman will often appear, like the mind is trying to drive me in that direction.  Like a daughter of Mara.  These aren't the signs of the mind, right?  They're just the objects of Mano, and the attitudes and movements in regard to them are the signs, right?  Is there a way to purify these images?  (virtue and restraint is obviously the starting point). Would results like sexual or wet dreams from consuming those foods be grounds to consider them unsuitable, as I have in the past? If so, are they forever and always determined as unsuitable?  </p>
 <p>More on the image thing.  I don't do absorption meditation as part of my practice, but there have been a couple of times that I've decided to mess around and absorb myself into trees. When I did so, I encountered images of beautiful women.  This sort of thing is the "grasping at signs and features" that we're exactly not supposed to do, right?  The realm of images is endless and I can see why people would pursue that wrong meditation if they don't know any better, and why it could yield innumerable results(that aren't relevant to the practice).  It's hard enough as it is trying not to interpret them, or to not think of them as relating to some sort underlying mental structure, like being the appearance of a "real and existing but outside of experience" subconscious thing.  A psychological understanding based on not seeing the correct order that's been difficult to dislodge.</p>
 <p>This whole comment has made me realize I still involve myself with images way more than I should.  Is this the stuff I shouldn't "crystallize" or "give centre stage"?  The images just manifest so clearly to me. </p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mjs0xs1">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjs0xs1/">Bhikkhu_Anigha</a><span class="when">2025-03-26 03:39 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>I've also heard the instruction from HH to avoid unsuitable food.</p>
 </blockquote>
@@ -84,15 +98,22 @@ No topping up the body with what the 21st century thinks is normal to consume, o
 <p>Such directions would also count as "opening the door" for the images and thus need to be restrained as well.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mjy8ttc">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjy8ttc/">Bhikkhu_Anigha</a><span class="when">2025-03-27 02:54 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Anemone1k:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-mjuzta1">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjuzta1/">Anemone1k</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>In general, make sure you're not trying to forcefully make them go away, as they're clearly not your direct doing. All you have to do is let your attention rest everywhere else but <em>there</em> for as long as such images are forcing themselves on you. And it doesn't matter how much they're forcing themselves on you; what matters is that <em>you</em> don't welcome them (and thereby implicitly ask them to stay).</p>
 </blockquote>
 <p>Is there any danger in continuing to broaden that purification to images not rooted in unwholesome, not because you don't want them there but because non-engagement is more preferable?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mjy8ttc">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jiuowv/why_ever_eat_sweets/mjy8ttc/">Bhikkhu_Anigha</a><span class="when">2025-03-27 02:54 UTC</span></div>
   <div class="body"><div class="md-body"><p>At some point you have to upgrade your notion of unwholesome images to anything that is coming from the pressure of a hindrance, not just things rooted in blatant lust or ill will. And in order to be right, the non-engagement would have to be directed towards the hindrance aspect and not just be a blanket preference for less activity, since that preference itself could well be rooted in a hindrance.</p>
 <p>When you take it far enough, that's basically how you end up practicing absorption rather than overcoming the hindrances: valuing less activity in and of itself with little to no discernment of what the unwholesome activities are.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -102,5 +123,7 @@ No topping up the body with what the 21st century thinks is normal to consume, o
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

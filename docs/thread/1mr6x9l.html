@@ -6,6 +6,9 @@
   <title>Revenge of the hindrances, restraint and not acting out vs active contemplations / asubha · 2025</title>
   <meta name="description" content="Revenge of the hindrances, restraint and not acting out vs active contemplations / asubha">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -37,10 +44,15 @@
 <p>In any case, it's clear that I can't *get rid* of *that* in the immediate sense, it's something I am subjected to. Still and again. In some way it seems like it's the same pressure that continues, that I am under, that I am enclosed by. Day after day. Even if superficially it's alleged objects that pretend that they would relieve me of it, it seems like the "same" pressure.</p>
 <p>And I suppose this is also where (again?) faith comes in, because it seems like whatever way of mindfulness/contemplation I choose, I could only apply it over and over again without any immediately visible results. And that raises the question of how (if?) I can be sure beyond doubt that I am doing it correctly.</p>
 <p>Thank you for reading, I would appreciate any advice.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-n94o4o9">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1mr6x9l/revenge_of_the_hindrances_restraint_and_not/n94o4o9/">Bhikkhu_Anigha</a><span class="when">2025-08-17 05:07 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is it normal for hindrances to come back in waves or is it necessarily something I did to cause that?</p>
 </blockquote>
@@ -61,5 +73,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Discerning the body · 2023</title>
   <meta name="description" content="Discerning the body">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -38,10 +45,15 @@
 <p>I tend to think that if Ajahn Nyanamoli puts it in those specific terms of "body" and "sense organs" and not of "mind" that's for a good reason, but I would like opinions from people more expert than me on the subject</p>
 <p>&#x200B;</p>
 <p>Edit: After putting it in writing, pondering about it gets easier and I'm starting to wonder if that was just too nebulous for me, because when I give the example of not giving up when doing physical exercises and that it gets difficult and physical pain arises, this is the mind not giving up by discerning the body as an individual entity going through a painful process, not the mind not giving up by discerning the mind feeling a painful process, right? I'm lost  😅</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kbc8kkg">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/186pkeq/discerning_the_body/kbc8kkg/">Bhikkhu_Anigha</a><span class="when">2023-11-30 00:40 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>So I would just like to know if this is a mistake and if this is important that I recalibrate this way of perceiving things to not possibly get things wrong as I go further into the practice</p>
 </blockquote>
@@ -57,12 +69,15 @@
 <p>You could say either, but with the latter you would need to say that the first mind is citta while the second is mano, i.e. part of the body still (though way subtler, of course).</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kbdypjm">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/186pkeq/discerning_the_body/kbdypjm/">Bhikkhu_Anigha</a><span class="when">2023-11-30 10:35 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to GachiOnFire:</strong><br><div class="md-body"><p>Thank you, I wasn't aware of the distinction made between <em>citta</em> and <em>mano</em>.</p>
+<article class="comment parent" id="c-kbdqxln">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/186pkeq/discerning_the_body/kbdqxln/">GachiOnFire</a></div>
+  <div class="body"><div class="md-body"><p>Thank you, I wasn't aware of the distinction made between <em>citta</em> and <em>mano</em>.</p>
 <p>Is <em>mano</em> the sixth sense organ? If so, I thought it was only sensitive to mental phenomenas not bodily ones.. unless that's part of a chain of events I don't clearly discern yet, where bodily phenomenas leads to mental phenomenas being then sensed by <em>mano</em></p>
 <p>&#x200B;</p>
 <p>Does anyone know of a resource on the subject, defining the outlines of <em>mano</em>, <em>citta</em> and <em>vinnana,</em> and maybe the relationship between the 3 please? I found <a href="https://www.dhammawheel.com/viewtopic.php?t=18316" rel="noopener noreferrer" target="_blank">this one on dhammawheel</a> but it seems to be disputed</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kbdypjm">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/186pkeq/discerning_the_body/kbdypjm/">Bhikkhu_Anigha</a><span class="when">2023-11-30 10:35 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Is <em>mano</em> the sixth sense organ?  </p>
 </blockquote>
@@ -114,9 +129,11 @@ This is a path followed by inferior people; it is not the path followed by super
 <p>This illustrates also how purification does not involve stopping one's thinking (as in getting rid of the phenomena perceived by mano), as it's clearly saying that what one restrains is the <strong>citta</strong>,  away from the phenomena cognizable by mano, whose arising is not, on the level that matters, <a href="https://suttacentral.net/sn4.19/en/sujato?lang=en" rel="noopener noreferrer" target="_blank">in one's control</a>.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kbeyrfs">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/186pkeq/discerning_the_body/kbeyrfs/">Bhikkhu_Anigha</a><span class="when">2023-11-30 15:44 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to GachiOnFire:</strong><br><div class="md-body"><p>Thank you, as you said in your recent stream-entry video, it looks like we carry some heavy baggages that get in the way.</p>
+</div>
+</article>
+<article class="comment parent" id="c-kbebfdd">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/186pkeq/discerning_the_body/kbebfdd/">GachiOnFire</a></div>
+  <div class="body"><div class="md-body"><p>Thank you, as you said in your recent stream-entry video, it looks like we carry some heavy baggages that get in the way.</p>
 <p>I've got some questions arising from all this..</p>
 <p>&#x200B;</p>
 <blockquote>
@@ -133,6 +150,9 @@ This is a path followed by inferior people; it is not the path followed by super
 <p>Bhikkhus, if in any bhikkhu or bhikkhunı̄ desire or lust or hatred or delusion or aversion of <strong>mind</strong> should arise in regard to phenomena cognizable (viññāṇa) by the mind (mano), such a one should rein in the mind (citta) from them thus: ‘This path is fearful, dangerous, strewn with thorns, covered by jungle, a deviant path, an evil path, a way beset by scarcity. This is a path followed by inferior people; it is not the path followed by superior people. This is not for you.’ In this way the mind (citta) should be held back from phenomena cognizable by the mind (mano)...</p>
 </blockquote>
 <p>Here (the "mind" put in bold) I notice that you didn't make the distinction between mano or citta, and I don't see either of those in the pali version, and I was wondering why? Can these mental formations be cognizable by mano but not arising "from" mano or citta? Are these conditionned thoughts and feelings arising "on their own"?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kbeyrfs">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/186pkeq/discerning_the_body/kbeyrfs/">Bhikkhu_Anigha</a><span class="when">2023-11-30 15:44 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Here the "corresponding [conscious] engagement" is contact between mano and the sense object, right?</p>
 </blockquote>
@@ -147,6 +167,8 @@ This is a path followed by inferior people; it is not the path followed by super
 <p>Actually, I should have highlighted perhaps even more than everything else but I missed it. "cetaso" is the genitive of citta, so that's what it's referring to there. It already implies that one needs to be able to discern the difference between <em>aversion of citta</em>, which is always defilement for sure, and an unpleasant phenomenon pertaining to <em>mano</em>, which in itself will bring intentions of "shying away" with it, so to speak. As in, even for an Arahant, the displeasure of a grave illness has the same directionality that points him to look for a potential cure, so one needs to be able to differentiate <em>that</em>, which is fine (as when Buddha himself sought treament when ill) and <em>aversion</em>, which is the assumption that you're entitled not to experience unpleasant feelings, and you <em>suffer</em> if you're not able to resolve the situation as soon as you desire.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -155,5 +177,7 @@ This is a path followed by inferior people; it is not the path followed by super
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

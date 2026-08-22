@@ -6,6 +6,9 @@
   <title>Trying to grasp how to not act out on a mental level (inspired by the recent video) · 2024</title>
   <meta name="description" content="Trying to grasp how to not act out on a mental level (inspired by the recent video)">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,23 +38,33 @@
 <p>(Sorry for somewhat clumsy description, just want to understand how to practice).</p>
 <p>&#x200B;</p>
 <p>&#x200B;</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kvotgqo">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bipw6q/trying_to_grasp_how_to_not_act_out_on_a_mental/kvotgqo/">Bhikkhu_Anigha</a><span class="when">2024-03-20 04:24 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>So, is this the correct way of restraint on the mental level? Thanks</p>
 </blockquote>
 <p>Yes, in theory. But if it's not already resulting in the first jhāna by itself, it means that there's still some form of inaccuracy present (either still welcoming the thoughts somewhat or still denying them somewhat), and this would be  maintained by lack of restraint on the physical and verbal level. If that isn't impeccable, then it might <em>seem</em> like one is discerning the mental level correctly while actually one isn't. Discerning mental unwholesome actions correctly and restraining them would have to result in the impossibility of unwholesome bodily and verbal actions, not in simply repressing them or forgetting about the possibility to do them.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-kw7h9g9">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bipw6q/trying_to_grasp_how_to_not_act_out_on_a_mental/kw7h9g9/">upasakatrainee</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, as a corollary to NOT welcoming / NOT attending / NOT giving centerstage to the arisen unwholesome mental images ; would it then be correct to state that GIVING centerstage to arisen <em>wholesome</em> mental images (i.e. thoughts of generosity, goodwill, renunciation etc.) constitute a practice of cultivating them further, bringing about their plenitude ?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-kwc5uxu">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bipw6q/trying_to_grasp_how_to_not_act_out_on_a_mental/kwc5uxu/">Bhikkhu_Anigha</a><span class="when">2024-03-24 13:42 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to upasakatrainee:</strong><br><div class="md-body"><p>Bhante, as a corollary to NOT welcoming / NOT attending / NOT giving centerstage to the arisen unwholesome mental images ; would it then be correct to state that GIVING centerstage to arisen <em>wholesome</em> mental images (i.e. thoughts of generosity, goodwill, renunciation etc.) constitute a practice of cultivating them further, bringing about their plenitude ?</p></div></div>
   <div class="body"><div class="md-body"><p>As long as it's not being done to replace/override the other images, then yes, that is how the right thoughts are cultivated. That is subtler than it sounds; everyone starts with a natural tendency to try to sort out the unwholesome thoughts by just pasting the wholesome ones on top of them (e.g., the popular "loving-kindness" meditation), and for as long as that is the case, the whole effort will be rooted in aversion and will not lead to right samādhi. </p>
 <p>That's why reflection requires "endurance". You direct the mind to wholesome thoughts <em>while</em> the other images are still lurking around pressuring you to think them intentionally, and you refrain just from that final deliberate engagement (which is where all unwholesome states are to be found, not before that). </p>
 <p>It's as if someone is asking you to sign a contract, but you simply don't do it, no matter how long they stand there trying to coerce you with threats. The purpose of the wholesome thoughts is to keep reminding yourself why <em>you</em> shouldn't sign, not to keep telling the person to go away (which doesn't work because <a href="https://www.hillsidehermitage.org/living-under-an-authority/" rel="noopener noreferrer" target="_blank">he's actually your boss</a>).</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -57,5 +74,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

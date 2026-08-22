@@ -6,6 +6,9 @@
   <title>Only an anagami removes hindrance of doubt?! · 2024</title>
   <meta name="description" content="Only an anagami removes hindrance of doubt?!">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,17 +41,22 @@
 <p>Please explain.</p>
 <p>Thank you.</p>
 <p>&#x200B;</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kwg2uhn">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bmy2w6/only_an_anagami_removes_hindrance_of_doubt/kwg2uhn/">Bhikkhu_Anigha</a><span class="when">2024-03-25 05:04 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>A sotāpanna is beyond doubt regarding the Triple Gem and regarding their own understanding, but they are still subject to resisting displeasure on a subtler level. The five hindrances are simply five alternative ways in which that tendency can manifest; they're not fundamentally different from each other, so you can't have three or four of them instead of five. If one of them is there, all the others are there by implication. So without fully having transcended the hindrance of sensuality for example, which a sotāpanna hasn't, the hindrance of doubt cannot but be there too.</p>
 <p>The fetter of doubt is not on the same level as this—it's not doubt about this or that. It's specifically about how the puthujjana lacks certainty about what the way out of suffering is. So, in other words, if a sotāpanna is not diligent enough in recollecting the same understanding that already freed them from the fetter of doubt and that they cannot doubt, the hindrance of doubt will be lingering; if he does make effort, the hindrance will necessarily fade. But the puthujjana is still in the woods about his understanding to begin with, so that he may not even be able to give up the hindrance of doubt no matter how hard he tries. That is due to the fetter of doubt.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kwh8cwk">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bmy2w6/only_an_anagami_removes_hindrance_of_doubt/kwh8cwk/">Bhikkhu_Anigha</a><span class="when">2024-03-25 12:46 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to VitakkaVicara:</strong><br><div class="md-body"><p>Bhante,</p>
+<article class="comment parent" id="c-kwh2z6f">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bmy2w6/only_an_anagami_removes_hindrance_of_doubt/kwh2z6f/">VitakkaVicara</a></div>
+  <div class="body"><div class="md-body"><p>Bhante,</p>
 <p>Thank you for your reply!</p>
 <p>&#x200B;</p>
 <blockquote>
@@ -61,11 +73,16 @@
 </blockquote>
 <p>So, his liberation from the fetter is temporary/occasional??</p>
 <p>Thats not what I have read in the suttas and everywhere else...</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kwh8cwk">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bmy2w6/only_an_anagami_removes_hindrance_of_doubt/kwh8cwk/">Bhikkhu_Anigha</a><span class="when">2024-03-25 12:46 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Hindrance of doubt is manifestation of fetter of doubt. How can sotapanna be hindered by doubt in the Buddha, Dhamma etc?</p>
 </blockquote>
 <p>It's not doubt about the Dhamma, as I pointed out. It's the natural, inherent uncertainty in everything else that is there even for an Arahant,  and which carries an unpleasantness that the sotāpanna might fail to fully withstand, and thus they end up acting to get rid of that unpleasantness at least mentally (= hindrance of doubt). Hence I mentioned that it's on the same level as sensuality. If you have desire for something, the uncertainty that it might get taken away by somebody else or that you won't get it will emotionally affect you (= hindrance of doubt), etc.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -75,5 +92,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

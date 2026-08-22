@@ -6,6 +6,9 @@
   <title>Intrusive thoughts · 2026</title>
   <meta name="description" content="Intrusive thoughts">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>Say I have a desire to go on bike rides with a romantic partner, but I can't do that because I don't have a romantic partner, so that frustrated desire will present as aversion. At random times during the day, a thought like "I can't go on bike rides with a romantic partner" will come up, which is then immediately followed up by a feeling of aversion, and will soon be followed up by other related thoughts that will generate more aversion or desire, if I don't consciously intervene. My reaction may go like this:</p>
 <p>I notice that this thought is predicated on craving and will lead to further craving, so I stop myself from engaging with it. This basically amounts to forcefully cutting it off, because the citta really wants me to think that thought right now. When the thought is gone, I notice the aversion that the thought generated and make sure not to resist it. I stay peripherally aware of that aversion until it is gone.</p>
 <p>Is that the right way to react?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-oey39py">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1se6pjp/intrusive_thoughts/oey39py/">Bhikkhu_Anigha</a><span class="when">2026-04-08 06:00 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>I notice that this thought is predicated on craving and will lead to further craving, so I stop myself from engaging with it. This basically amounts to forcefully cutting it off, because the citta really wants me to think that thought right now. When the thought is gone, I notice the aversion that the thought generated and make sure not to resist it. I stay peripherally aware of that aversion until it is gone.</p>
 </blockquote>
@@ -49,5 +61,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Avoiding Pride From Attainments · 2023</title>
   <meta name="description" content="Avoiding Pride From Attainments">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>Avoiding Pride From Attainments</h2>
       <p class="meta"><a href="/r/theravada/comments/17qnsse/avoiding_pride_from_attainments/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-k8gf3gg">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8gf3gg/">Bhikkhu_Anigha</a><span class="when">2023-11-09 03:34 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Regarding your comment above:</p>
 <blockquote>
 <p>As far as my arguments go, I realized very early in my interactions here that my views are not welcome and can not be defended. </p>
@@ -42,12 +54,15 @@
 <p>Also, I can't speak for everyone, but I'd venture to say that people would be more open to hearing and engaging in an argument when it's well supported, even if it contradicts their beliefs.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k8h9foq">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8h9foq/">Bhikkhu_Anigha</a><span class="when">2023-11-09 08:56 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>Very well, thank you for the clarification. Perhaps I will find cause to share my views again in the future. However, I did not say that my views cannot be defended here because I felt attacked or rejected in some way. I generally don’t act in reaction to negativity. I was simply trying to say that upon seeing that my views are not in alignment with the views that this community shared, I decided they are better left unshared. I made this choice not out of aversion, but out of wisdom. </p>
+<article class="comment parent" id="c-k8gsu7b">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8gsu7b/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>Very well, thank you for the clarification. Perhaps I will find cause to share my views again in the future. However, I did not say that my views cannot be defended here because I felt attacked or rejected in some way. I generally don’t act in reaction to negativity. I was simply trying to say that upon seeing that my views are not in alignment with the views that this community shared, I decided they are better left unshared. I made this choice not out of aversion, but out of wisdom. </p>
 <p>There are some suttas where the Buddha avoids talking to people whom he knows wont listen. Not to compare my views to the Buddha’s necessarily, but to compare my decision not to share my views with his decision not to share his in certain circumstances. </p>
 <p>At any rate, I appreciate your invitation to have me continue to participate in this community. I run a community too and I welcome those who challenge my views in a respectful way. I’m sure you see it the same. </p>
 <p>Do you have any thoughts on the sutta I posted? Have you encountered those who fall for the mistake that the Buddha is highlighting? Have you fallen for that mistake before? I surely have on many occasions.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k8h9foq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8h9foq/">Bhikkhu_Anigha</a><span class="when">2023-11-09 08:56 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>At any rate, I appreciate your invitation to have me continue to participate in this community. I run a community too and I welcome those who challenge my views in a respectful way. I’m sure you see it the same. </p>
 </blockquote>
@@ -73,11 +88,16 @@
 <p>And, as <a href="https://suttacentral.net/mn26" rel="noopener noreferrer" target="_blank">MN 26</a> and others say, knowledge of what is the path is intimately linked with knowledge of what is <em>not</em> the path, so discussion of the latter is equally if not more important, and falls squarely within the topic of the Four Noble Truths. Provided it's not done in the unbeneficial manner described above.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k8i8msm">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8i8msm/">Bhikkhu_Anigha</a><span class="when">2023-11-09 14:42 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>Great, well said. So to summarize, the Buddha is saying that followers of the path should speak in positive regarding what is the path, rather in the negative of what others believe is the path but is not the path? If that is the case, then maybe I have some reflecting to do on how I think and speak about others. Although I don’t do it often, there may be times when I tell somebody that their practice or understanding has flaws.</p>
+</div>
+</article>
+<article class="comment parent" id="c-k8i1gz5">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8i1gz5/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>Great, well said. So to summarize, the Buddha is saying that followers of the path should speak in positive regarding what is the path, rather in the negative of what others believe is the path but is not the path? If that is the case, then maybe I have some reflecting to do on how I think and speak about others. Although I don’t do it often, there may be times when I tell somebody that their practice or understanding has flaws.</p>
 <p>Also, would this be contrasted in explaining flaws of a view to a third party? The Buddha says not to tell someone they do not see while I see, but what does he say about telling a third party that someone else doesn’t see while I see? </p>
 <p>You mentioned that laypeople can attain the first three stages of attainment. So then is it the case that sense restraint need not be perfected for a layperson who has gained one of these attainments?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k8i8msm">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8i8msm/">Bhikkhu_Anigha</a><span class="when">2023-11-09 14:42 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>So to summarize, the Buddha is saying that followers of the path should speak in positive regarding what is the path, rather in the negative of what others believe is the path but is not the path?</p>
 </blockquote>
@@ -107,18 +127,30 @@
 <p>—<a href="https://suttacentral.net/sn35.98" rel="noopener noreferrer" target="_blank">SN 35.98</a></p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-k8i94ou">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8i94ou/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>So if I understand correctly, you’re referring to simply denigrating someone in relation to the teachings and practice, rather than having a constructive conversation regarding what is and isn’t the Dhamma?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-k8ibdlh">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8ibdlh/">Bhikkhu_Anigha</a><span class="when">2023-11-09 15:00 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>So if I understand correctly, you’re referring to simply denigrating someone in relation to the teachings and practice, rather than having a constructive conversation regarding what is and isn’t the Dhamma?</p></div></div>
   <div class="body"><div class="md-body"><p>Yes, and "simply denigrating" is measured by the launching of personal attacks and talking in terms of "me and you", not by very forcefully tackling whatever viewpoint the person is expressing. To argue with reasoning alone, this is essentially the only way that the idea of the Buddha and notable Arahants like Ven. Mahākassapa having perfect mettā can be reconciled with their being so seemingly overbearing in their presentation of the Dhamma.</p>
 <p>On the other hand, "constructive conversation" is measured by the ability of the questioner to express their viewpoint clearly, and by that of the responder to show counterarguments for it that are coherent and well-justified. Not by how much the questioner may feel offended if, as said above, they have developed an unjustifiable attachment to a view. A conversation that fails to expose that "sore" when it's there would be of very little value to the questioner themselves.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-k8idzv8">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8idzv8/">Self_Reflector</a></div>
+  <div class="body"><div class="md-body"><p>Well said, I agree. May you be well :)</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-k8kgrmh">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17qnt8c/avoiding_pride_from_attainments/k8kgrmh/">Bhikkhu_Anigha</a><span class="when">2023-11-09 22:49 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Self_Reflector:</strong><br><div class="md-body"><p>Well said, I agree. May you be well :)</p></div></div>
   <div class="body"><div class="md-body"><p>Likewise.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -128,5 +160,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

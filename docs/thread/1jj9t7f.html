@@ -6,6 +6,9 @@
   <title>Question about the 8 Precepts &amp; Hunger from Asthma Medication · 2025</title>
   <meta name="description" content="Question about the 8 Precepts &amp; Hunger from Asthma Medication">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -33,10 +40,15 @@
 <p>On one hand, it feels like I’m genuinely hungry at times, and eating a second small meal (late morning or early afternoon) seems like it would relieve a physical need rather than indulge a craving. On the other hand, I don’t want to start bending the rules and convincing myself of exceptions every time something gets uncomfortable — especially if that discomfort is workable with patient endurance.</p>
 <p>Is there a way to distinguish between eating to relieve a medication-induced hunger and eating out of desire? Can one eat twice a day without falling into craving, or is that considered a violation of the precept in formal practice regardless of the reason?</p>
 <p>Appreciate any guidance or reflections on how to skillfully navigate this.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mjlrzq6">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jj9t7f/question_about_the_8_precepts_hunger_from_asthma/mjlrzq6/">Bhikkhu_Anigha</a><span class="when">2025-03-25 04:26 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>If the hunger is medication-induced, then it doesn't signify that your body actually requires calories, so you could just see it as harmless discomfort to learn how not to resist. </p>
 <p>But I wouldn't try to be perfectly strict with this precept yet, especially if you don't see yourself being fully established in all the other, much more essential ones. There's also nothing about dawn and noon that directly relates to virtue; the time in between was most likely just the most easily recognizable, reasonably-sized period back when there were no clocks. And even for monastics, any amount of meals is technically allowable within that period.</p>
 <p>On top of that, monks initially ate all throughout the day, and a higher percentage of them were Arahants compared to later times (which is precisely why rules had to be introduced). That doesn't mean you shouldn't strive to keep the food precept, but it just goes to show that there's nothing inherently unwholesome about eating at any time of the day. It's just more likely to lead to wholesome states to not do so.</p></div></div>
@@ -50,5 +62,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

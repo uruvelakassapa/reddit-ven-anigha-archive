@@ -6,6 +6,9 @@
   <title>Another yoniso manisikara question... · 2024</title>
   <meta name="description" content="Another yoniso manisikara question...">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>So it was thinking. What is the existential manifestation of yoniso manisikara? So I thought let's say I have the hinderance of remorse arise I have two smoke a cigarette or don't smoke and just endure it the way it's supposed to be endured (from the not personal point of view which can be bodily activity)... so sister medhini said in a video before that a non sensual thought is the thought of the danger of sensuality. As in the good thought is manifested negatively not as an object you can attend to.</p>
 <p>So I was thinking yoniso may not be so different. </p>
 <p>Back to the example. A hinderance has arisen, I know if I cover it up il I won't address the issue I would just be putting my attention somewhere else( attending things unfit for attention) so instead I know the arisen hinderance and pressure to get rid of it I don't give in because I know this is not the escape. Then since trying to cover it up is not escape would restraint be the stepping outside while inside.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ljyu592">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1f0rgyl/another_yoniso_manisikara_question/ljyu592/">Bhikkhu_Anigha</a><span class="when">2024-08-26 04:40 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>A hinderance has arisen, I know if I cover it up il I won't address the issue I would just be putting my attention somewhere else( attending things unfit for attention) so instead I know the arisen hinderance and pressure to get rid of it I don't give in because I know this is not the escape.</p>
 </blockquote>
@@ -47,5 +59,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

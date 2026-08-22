@@ -6,6 +6,9 @@
   <title>What is the difference between &quot;hindrance&quot; vs &quot;fetter&quot;? · 2024</title>
   <meta name="description" content="What is the difference between &quot;hindrance&quot; vs &quot;fetter&quot;?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>What is the difference between &quot;hindrance&quot; vs &quot;fetter&quot;?</h2>
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1fje0cn/what_is_the_difference_between_hindrance_vs_fetter/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>I was listening to the recent YouTube video on "Q&amp;A - Freedom through the Right precepts", and around the <a href="https://youtu.be/wPr59OHLcrk?si=6XyHXC3rfomQJsVK&amp;t=3092" rel="noopener noreferrer" target="_blank">51:32 mark</a>, Ajahn Nanamoli was talking about hindrance vs fetter, but I'm still not really following, other than the point that hindrances are more "fundamental", and hence fetters fall off first.  Can someone please clarify?  Thank you!</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lnvwo7n">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fje0cn/what_is_the_difference_between_hindrance_vs_fetter/lnvwo7n/">Bhikkhu_Anigha</a><span class="when">2024-09-19 12:21 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>An important difference would be that you have no direct input on the fetters, whereas the entire practice—the whole Gradual Training going from virtue to jhānas—takes place with reference to the five hindrances. Those are the pressuring, unwholesome mental states that you can be presently aware of and not give in to, and doing that sufficiently weakens the fetters.</p></div></div>
   
 </article>
@@ -42,5 +54,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

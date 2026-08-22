@@ -6,6 +6,9 @@
   <title>Not really sure what to make of AN 4.166 · 2024</title>
   <meta name="description" content="Not really sure what to make of AN 4.166">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -40,19 +47,29 @@ For more context if you’re interested, <a href="https://suttacentral.net/an4.1
 (3) And what is practice that is pleasant with sluggish direct knowledge? Here, someone by nature is not strongly prone to lust and does not often experience pain and dejection born of lust. By nature he is not strongly prone to hatred and does not often experience pain and dejection born of hatred. By nature he is not strongly prone to delusion and does not often experience pain and dejection born of delusion. These five faculties arise in him feebly: the faculty of faith … the faculty of wisdom. Because these five faculties are feeble in him, he sluggishly attains the immediacy condition for the destruction “of the taints. This is called practice that is pleasant with sluggish direct knowledge.<br />
 (4) And what is practice that is pleasant with quick direct knowledge? Here, someone by nature is not strongly prone to lust … hatred … delusion and does not often experience pain and dejection born of delusion. These five faculties arise in him prominently: the faculty of faith … the faculty of wisdom. Because these five faculties are prominent in him, he quickly attains the immediacy condition for the destruction of the taints. This is called practice that is pleasant with quick direct knowledge.“These, bhikkhus, are the four modes of practice.”</p>
 <p>(Bhikkhu Bodhi)</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lp4ylxp">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fqbb5c/not_really_sure_what_to_make_of_an_4166/lp4ylxp/">Bhikkhu_Anigha</a><span class="when">2024-09-27 04:30 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The part that shouldn’t be overlooked here is that in neither case (speed or pleasantness) is it a matter of choice.</p>
 <p>If you have weak passion, aversion, and delusion—which you would judge not by what your intuition tells you, but by whether your mind rebels in the face of the eight precepts, sense restraint, and solitude—either by nature or because you’re already far along the path, the practice won’t be unpleasant; quite the opposite. As the Buddha said, the joy of sensuality is excrement compared to the joy of renunciation, which is not only great in itself, but also pushes you further on the path simply by virtue of cultivating it.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-lpa8hui">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fqbb5c/not_really_sure_what_to_make_of_an_4166/lpa8hui/">devot3e</a></div>
+  <div class="body"><div class="md-body"><p>Sadhu Bhante, but the first practice, even with weak greed/hatred/delusion, is still considered painful here?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-lpapr86">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fqbb5c/not_really_sure_what_to_make_of_an_4166/lpapr86/">Bhikkhu_Anigha</a><span class="when">2024-09-28 04:51 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to devot3e:</strong><br><div class="md-body"><p>Sadhu Bhante, but the first practice, even with weak greed/hatred/delusion, is still considered painful here?</p></div></div>
   <div class="body"><div class="md-body"><p>Not sure I understand the question. The first and second practice are with strong defilements and thus unpleasant, and the third and fourth are with weak defilements and thus pleasant.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -62,5 +79,7 @@ For more context if you’re interested, <a href="https://suttacentral.net/an4.1
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

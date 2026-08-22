@@ -8,6 +8,9 @@
   <meta name="description" content="A question about moderation and secular living.
 ">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -20,6 +23,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,10 +38,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1fz5kd6/a_question_about_moderation_and_secular_living/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>Hello. Let's assume I'm an ordinary person and I don't have a strict ambition to achieve stream entry. As a lay person, is it necessary for me to follow the 8 precepts? What if a given person is interested in Buddhism as something that is to constitute his spirituality as a form of defense against complete absorption by "worldly things", but at the same time does not see the power of renunciation. I think Buddha also gave some advice for this type of person, such as collecting "merits", "generosity", eradicating traits that harm other people?</p>
 <p>In short, I mean how do you see the approach to life for such an ordinary person. In Buddhist countries there are often millions of people who declare themselves to be Buddhists, what compromise do you see for them?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lr29u4p">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fz5kd6/a_question_about_moderation_and_secular_living/lr29u4p/">Bhikkhu_Anigha</a><span class="when">2024-10-09 08:28 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Let's assume I'm an ordinary person and I don't have a strict ambition to achieve stream entry. As a lay person, is it necessary for me to follow the 8 precepts? What if a given person is interested in Buddhism as something that is to constitute his spirituality as a form of defense against complete absorption by "worldly things", but at the same time does not see the power of renunciation.</p>
 </blockquote>
@@ -53,5 +65,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

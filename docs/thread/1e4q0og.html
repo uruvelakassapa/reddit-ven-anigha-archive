@@ -6,6 +6,9 @@
   <title>My circumstances, and ordination. Gratefully asking for advice. · 2024</title>
   <meta name="description" content="My circumstances, and ordination. Gratefully asking for advice.">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -38,10 +45,15 @@
 <p>My brother thinks I should ordain in a UK monastery as he knows how awful thai ones can be. Was wondering if anyone has experience with english monasteries or heard of what they are like?</p>
 <p>Some people have recommended a partially renounced lay lifestyle before considering ordination but I'm not sure why that it is and would appreciate everyone's perspective on this.</p>
 <p>Thank you for reading, sorry for the long post, I appreciate any comments or pointers in the right direction.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ldkfalz">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e4q0og/my_circumstances_and_ordination_gratefully_asking/ldkfalz/">Bhikkhu_Anigha</a><span class="when">2024-07-17 05:16 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>My brother thinks I should ordain in a UK monastery as he knows how awful thai ones can be.</p>
 </blockquote>
@@ -49,9 +61,9 @@
 <p>The sheer amount of monasteries in Thailand means that at least a few should be good enough, even if most of them are inadequate for various reasons. All you really need is a place where the Vinaya is kept, you have some free time in seclusion and are not overburdened with duties and activities, and you won't get punished just for having a different view than the seniors as long as you're otherwise a good monk. It's not a dealbreaker if you lose internet access for as long as you don't get in trouble for using the "wrong" Dhamma resources.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-ldmiln1">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e4q0og/my_circumstances_and_ordination_gratefully_asking/ldmiln1/">Bhikkhu_Anigha</a><span class="when">2024-07-17 15:40 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to like_a_raft_2:</strong><br><div class="md-body"><blockquote>
+<article class="comment parent" id="c-ldl4sn3">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e4q0og/my_circumstances_and_ordination_gratefully_asking/ldl4sn3/">like_a_raft_2</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>That may not work. Apparently, you can get in trouble at English Ajahn Chah monasteries to the point of being denied ordination simply due to expressing interest in HH, even if you're polite and well-behaved.</p>
 </blockquote>
 <p>This leaves A) a bitter taste in my mouth B) then it gets cleared C) then a different bitter taste D) then that gets cleared as well.</p>
@@ -63,6 +75,9 @@ Maybe I should face this and text him? Can I put the Dhamma "first" as a puthujj
 <p>B) Theravada Buddhism in the West could take the role of the university of Buddhism, where practice, pondering and thinking are the leading principles. Where healthy skepticism and debate are understood as useful tools. Truth before tradition. It doesn't seem to be going in that direction. In just one generation, from Ajahn Chah to current monasteries, it seems to be tradition before truth, structure and community before individual investigation. But thinking about it, it makes sense for them to support those values. They think they have the right answers. Just as much as we do and basically any other group/religion/etc. Then they create an environment in line with those ideas. As soon as you create an institution or multiple of them, and you start having a structure with significant flows of monks, lay people, money, events...you need to set rules, and an orthodoxy. Even the smallest of structures has to be intolerant to some extent.</p>
 <p>C) The follow-up bitter taste comes from the loss of discussion, the loss for fruitful interaction between different traditions/groups. There are brilliant monks, with kind hearts in those monasteries, and it seems that there can't truly be a conversation with HH (also looking at Dhamma forums). Also looking at so many monks, so much potential, led astray. The comfortable practice and monasteries will be very appealing to European (and not only) monks likely for decades to come. What is not to like, for a young, determined monk assessing his options for monkhood? I saw guys just like me ordaining, with high motivation and inspiration coming from the tight and warm community. And once you are in, it seems much harder to stay open to radically different approaches to thing.</p>
 <p>D) This said, a life in a Western Ajahn Chah monastery is still a much superior choice to any regular lay life, and even in monastic contexts you could do worse, the Vinaya is taken very seriously, as far as I know. HH is slowly getting more popular, as EBT are. And this is not about increasing the number of followers or anything of the sort, just about bigger chances for whoever is interested to get in contact with the teachings. The things are out there, it's possible that there was never a better time to be interested in Buddhism in the West. If Nietzsche were to be born today, he could end up a Buddhist, while back then there was no chance considering how the teachings were translated/understood in Europe.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ldmiln1">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e4q0og/my_circumstances_and_ordination_gratefully_asking/ldmiln1/">Bhikkhu_Anigha</a><span class="when">2024-07-17 15:40 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>I want to show gratitude, but I don't want to create a tense situation out of having to say thank you.</p>
 </blockquote>
@@ -83,11 +98,18 @@ Maybe I should face this and text him? Can I put the Dhamma "first" as a puthujj
 <p>I'd say it largely depends on which monastery. Even putting aside the whole subject of views, at some of them you may find yourself spending more time in company than as a layperson but now having genuinely no say in it, owing to meaningless but mandatory activities. And not that much more withdrawn from sensuality, the opposite sex, and worldly affairs, either.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-ldrlafq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e4q0og/my_circumstances_and_ordination_gratefully_asking/ldrlafq/">serculis</a></div>
+  <div class="body"><div class="md-body"><p>Well I wouldn't be explicitly expressing my rather 'heretic' interests, I would just be generically expressing deep interest in the original suttas. I wasn't aware that HH is that widely known?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-ldw1iux">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e4q0og/my_circumstances_and_ordination_gratefully_asking/ldw1iux/">Bhikkhu_Anigha</a><span class="when">2024-07-19 06:01 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to serculis:</strong><br><div class="md-body"><p>Well I wouldn't be explicitly expressing my rather 'heretic' interests, I would just be generically expressing deep interest in the original suttas. I wasn't aware that HH is that widely known?</p></div></div>
   <div class="body"><div class="md-body"><p>Not sure if it's "widely known", but it definitely would be in UK monasteries because Ajahn Nyanamoli ordained there.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -97,5 +119,7 @@ Maybe I should face this and text him? Can I put the Dhamma "first" as a puthujj
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

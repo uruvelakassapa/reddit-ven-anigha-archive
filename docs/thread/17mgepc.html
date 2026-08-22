@@ -6,6 +6,9 @@
   <title>Arahantship being put to the test? · 2023</title>
   <meta name="description" content="Arahantship being put to the test?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>If we were to approach Dhamma from a purely phenomenological/existential standpoint and be only concered with its immidiate utility - namely, ceasing of suffering, without dealing with it being an appropriate wider model of reality <em>in toto</em> - it strikes me then that for a such approach to hold water it needs to yield concrete, palpable results. I.e. it needs to produce individuals clearly and observably unable to suffer in circumstances normally conducive to suffering of the pathujjanas (torture, immolation, pathological conditions, skinning, starvation, etc.). Personally I'm unaware of any such examples (but there are sadly familiar counterexamples - the suicide due to chronic pain of Ven Ñāṇavīra Thera, noted representative of existentialist Theravada). If any of you on contrary are informed of such instances it would be of the great consolation to me to be proven wrong.</p>
 <p>On the other hand, if we were to think of Dhamma as an objectively accurate world model regardless of the number of its recent or current successful applications, in other words good medicine just without skillful enough doctor to apply it or error-free instruction manual without attentive enough user to go through it, how would it then Dhamma meaningfully differ from usual faith-based religions? Because, it seems to me, only with the leap of faith would it be possible for one to maintain their confidence in the value of Dhamma in such scenario (or am I overlooking something?).</p>
 <p>What are your thoughts?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-k7ndemc">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17mgepc/arahantship_being_put_to_the_test/k7ndemc/">Bhikkhu_Anigha</a><span class="when">2023-11-03 13:39 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>it strikes me then that for a such approach to hold water it needs to yield concrete, palpable results. I.e. it needs to produce individuals clearly and observably unable to suffer</p>
 </blockquote>
@@ -63,5 +75,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

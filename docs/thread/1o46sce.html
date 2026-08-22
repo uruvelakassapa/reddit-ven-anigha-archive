@@ -6,6 +6,9 @@
   <title>Duty toward others vs. Generosity · 2025</title>
   <meta name="description" content="Duty toward others vs. Generosity">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>I’m sure there are all sorts of philosophical approaches to this situation, but I’m only interested in those that involve the Dhamma. </p>
 <p>And no surprise, I think that perhaps this issue is cloudy for me because I am not yet secure in virtue or sense restraint. If I were, then the craving that blocks true generosity would be greatly diminished or gone.</p>
 <p>I will guess that true generosity praised by the Buddha is probably free from fear of any loss or fear of inconvenience to the giver? So, it’s beyond virtue and sense restraint.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-njaq7mz">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1o46sce/duty_toward_others_vs_generosity/njaq7mz/">Bhikkhu_Anigha</a><span class="when">2025-10-13 16:37 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>"True generosity" (or rather, "giving up," which is what <em>cāga</em> literally means) is about giving something up with the aim of training your mind to abandon craving. </p>
 <p>It doesn't matter if there if there is fear or resistance. It will be beneficial as long as it's an act of giving something up against the grain of the mind's worldly desires, and it's through that practice that that fear or resistance would eventually subside. The fact that your giving up might also help others is just a bonus, and is not a measure of its efficacy.</p></div></div>
   
@@ -46,5 +58,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

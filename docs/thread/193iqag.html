@@ -6,6 +6,9 @@
   <title>Craving for being and non-being · 2024</title>
   <meta name="description" content="Craving for being and non-being">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,10 +38,15 @@
 <p>And what is the origin of suffering? It is craving, which brings renewal of being, is accompanied by delight and lust, and delights in this and that; that is, craving for sensual pleasures, craving for being, and craving for non-being. This is called the origin of suffering. </p>
 </blockquote>
 <p>Here, should one understand "craving for being, and craving for non-being" as only craving for <em>being</em> and <em>non-being</em>, or is it rather to be understood in the sense of craving for <em>being this</em>, or not <em>being that</em>, for example being smarter, or not being hypocritical?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-khbswpb">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/193iqag/craving_for_being_and_nonbeing/khbswpb/">Bhikkhu_Anigha</a><span class="when">2024-01-11 06:09 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>For a mind that is not free from sensuality, wanting to be this or not wanting to be that, which many people might take <em>not</em> to be sensual craving but the other two, is accompanied by the same type of craving that would be there toward coarse sense pleasures. <em>Every</em> single experience they have is enveloped within that.</p>
 <p>On the other hand, for a mind that is free from sensuality, an intention-toward or intention-against the same things (excluding sexual intercourse and food) would be accompanied by craving for being or for non-being. For an Arahant, an intention-toward or intention-against the same things, excluding what is against celibacy and the precepts which they are incapable of, does not entail any craving at all.</p>
 <p>For example, even things like the wish for others to respect them and not despise them would come within sensuality for a puthujjana, whereas for an anāgāmi, that <em>same intention</em> would always be the subtler type of craving for being and non-being, which is why the suffering they would experience on account of that vastly subtler craving is practically nil. So it's not, as is widely viewed, that some intentions are <em>in themselves</em> sensual (apart from what is abandoned through the precepts) and some are the other two, and that as a puthujjana you can have either one or the other. That would be the quintessential mistake of placing the defilements in the experiences rather than the mind beneath them. The defiled mind of one still subject to sensual craving follows every experience like a wheel follows the ox's foot (Dhammapada 1).</p>
@@ -43,15 +55,18 @@
 <p>Edit: Life and death, often taken to be being and non-being, are in themselves phenomena, so that's only one of the things an anāgāmi would crave for or against respectively (though every other desire would be subordinate to that). For a puthujjana, the desire to live and not die is necessarily a sensual desire, and thus they experience that much more anxiety in the face of death, and that much more suffering when death actually comes.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-khd2uip">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/193iqag/craving_for_being_and_nonbeing/khd2uip/">Bhikkhu_Anigha</a><span class="when">2024-01-11 14:06 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to GachiOnFire:</strong><br><div class="md-body"><p>Thanks Bhante!</p>
+<article class="comment parent" id="c-khccglj">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/193iqag/craving_for_being_and_nonbeing/khccglj/">GachiOnFire</a></div>
+  <div class="body"><div class="md-body"><p>Thanks Bhante!</p>
 <p>I think I still have a bad habit of understanding "sensuality" or "sensual pleasures" as "that of the flesh", or "of the five senses", but is what I'm missing : the fact that it includes the sixth sense that is encompassing craving towards anything of the flesh, and also anything of the mind, so basically craving towards anything that makes you human?</p>
 <p>&#x200B;</p>
 <blockquote>
 <p>That would be the quintessential mistake of placing the defilements in the experiences rather than the mind beneath them. The defiled mind of one still subject to sensual craving follows every experience like a wheel follows the ox's foot (Dhammapada 1).</p>
 </blockquote>
 <p>Right, I need to be careful with that, its not the intentions that are unwholesome it is the underlying context of these intentions</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-khd2uip">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/193iqag/craving_for_being_and_nonbeing/khd2uip/">Bhikkhu_Anigha</a><span class="when">2024-01-11 14:06 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>I think I still have a bad habit of understanding "sensuality" or "sensual pleasures" as "that of the flesh", or "of the five senses", but is what I'm missing : the fact that it includes the sixth sense that is encompassing craving towards anything of the flesh, and also anything of the mind</p>
 </blockquote>
@@ -63,6 +78,8 @@
 <p>One must stop acting toward specific things like the obvious physical pleasures, but that's only so that the actual craving at its root can be recognized, which is much more general and deeply rooted than any particular sensual objects you restrain yourself from.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -71,5 +88,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

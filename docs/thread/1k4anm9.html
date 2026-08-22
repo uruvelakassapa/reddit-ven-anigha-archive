@@ -6,6 +6,9 @@
   <title>Why is this sub tending towards intellectual proliferation? · 2025</title>
   <meta name="description" content="Why is this sub tending towards intellectual proliferation?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -43,10 +50,15 @@ Maybe they met at parks, or at the well, and discussed super intrictate details 
 <p>But that didn't really seem to be the case - somehow even a humble farmer or a householder could understand it back then, immediately, from hearing a single discourse by the Buddha. Supposedly thanks to the fact that<a href="https://www.youtube.com/watch?v=W12XNZU-tMg" rel="noopener noreferrer" target="_blank"> they had less 'dust in their eyes'</a>, less desire and hindrances overwhelming their minds, as well as more awareness of the basic truths of life- particularly of suffering, danger, and death. All of which enabled them to be granted a seemingly simple but groundbreaking insight; ''Whatever has the nature of arising, has the nature of ceasing.'' &amp;  ''If this exists, that exists; if this ceases to exist, that also ceases to exist.''</p>
 <p>So it seems to me one doesn't necessarily need to proliferate much at all, just do the work, live simply, keep the precepts, study a few suttas, investigate your experience, and you'll get to where you want to go. And while it can be helpful in certain ways, it's easy to see how too much talking and thinking about these things can lead one to become like a spider caught in its own web of ideas and intricate systems of thought.</p>
 <p>What do you think? Do you have any thoughts on this matter?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-moks9an">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1k4anm9/why_is_this_sub_tending_towards_intellectual/moks9an/">Bhikkhu_Anigha</a><span class="when">2025-04-23 08:42 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is a lot of intellectual proliferation necessary though? </p>
 </blockquote>
@@ -67,5 +79,7 @@ Maybe they met at parks, or at the well, and discussed super intrictate details 
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

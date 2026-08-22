@@ -6,6 +6,9 @@
   <title>Signs and features &amp; hints of the mind · 2024</title>
   <meta name="description" content="Signs and features &amp; hints of the mind">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -35,10 +42,15 @@
 <p>But I understand the "hints/signs of the mind" as rather associated with the state of mind, as what is giving away the current state of mind: a certain inclination towards certain types of thought, the speed and flow of these thoughts, even certain types of perceptions/feelings that are usually connected with a certain state of mind, the type of pressure and towards what it is pressuring me,  ..</p>
 <p>But I also think that the definition of the former, namely <code>[the signs and features are] also the entire “world” of significances, feelings, memories, associations, ideas, and intentions associated with it</code> could be used in regard to the state of mind, in the sense that with a certain state of mind enduring there will be a certain feeling that will be more often present than another, certain memories/associations/ideas/intentions that will be more proeminent than others; or in other words: with a certain state of mind enduring, the mind as the tendency to grasp at certains signs and features rather than others.</p>
 <p>How should it be understood?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-l8l0s33">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1dfnthv/signs_and_features_hints_of_the_mind/l8l0s33/">Bhikkhu_Anigha</a><span class="when">2024-06-14 14:18 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>They're the same in principle, just that one grasping of signs has to stop and the other has to begin (and the stopping of the former is what allows the starting of the latter).</p>
 <p>When an unrestrained person perceives something they have strong lust or aversion for, their experience is overtaken by the significances and further characteristics and features related to that thing (what they would like to do with it, fantasies, etc.) Conversely, when someone tries to put their finger on what their mind actually is in the present experence—i.e., concretely and not in theory—there is either a total barrenness and lack of clarity, or abstract ideas that totally miss the mark. There are no “tokens” or characteristics they’re aware of by which they could confidently and without doubt say “this is how my mind is disposed at this moment”. Or, when they think they’re seeing the characteristics of their mind they actually aren’t, and are instead looking at secondary thoughts and sense objects.</p>
 <p>And <a href="https://suttas.hillsidehermitage.org/?q=mn10#mn10:34.1-mn10:34.17" rel="noopener noreferrer" target="_blank">these</a> are the ways the mind can be disposed—it's as simple as that. Any more detailed or intricate theoretical explanations would correspond to sense objects and ideas, not to the mind that is present “behind” them there and then. “Grasping” those signs means knowing the indirect characteristics that would define a mind as passionate, averse, etc., and no longer mistakenly relying on the particular content of experience to determine that.</p>
@@ -53,5 +65,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

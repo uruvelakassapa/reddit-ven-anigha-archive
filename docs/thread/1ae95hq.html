@@ -6,6 +6,9 @@
   <title>How is Stream Entry not a “special experience?” · 2024</title>
   <meta name="description" content="How is Stream Entry not a “special experience?”">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,22 +34,32 @@
       <h2>How is Stream Entry not a “special experience?”</h2>
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1ae95hq/how_is_stream_entry_not_a_special_experience/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>I’ve read this sentiment a couple times recently.  It seems to me that the moment one achieves this that it would be quite special!</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kk963th">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ae95hq/how_is_stream_entry_not_a_special_experience/kk963th/">Bhikkhu_Anigha</a><span class="when">2024-01-30 13:23 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>What u/no_thingness  wrote is essentially correct:</p>
 <p>There can be a "special experience" of joy and relief on account of <em>recognizing</em> stream-entry, but stream-entry in itself is not an experience; it's an <em>understanding</em> of the nature of all experience. So no matter how lofty and sublime the realization that one now sees the Four Noble Truths is, <em>that</em> experience is also known as impermanent, suffering, and unownable, so in that sense it's not more "special" than the experience of any other feeling which has been understood in that same way. The usual view is that one understands the nature of things <em>because</em> of getting some experience, and that's completely the wrong way round.</p>
 <p>It's thought that stream-entry is achieved by getting a "glimpse" of Nibbāna, and therefore the <em>experience</em> of that glimpse <em>is</em> the breakthrough. But that's plain absurd because if you forgot about that glimpse, in just the same way as you would forget some experience that happened in your childhood that was <em>at the time</em> really special, you would lose your sotāpatti.</p>
 <p>It's irrelevant whether people then claim that "No no, <strong><em>this</em></strong> experience is different from all others and you can never forget it". That's just a testament to how they haven't at all understood how "<em>everything</em> that is of the nature to arise is of the nature to cease".</p></div></div>
   
 </article>
+<article class="comment parent" id="c-kp01kn3">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ae95hq/how_is_stream_entry_not_a_special_experience/kp01kn3/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Is it not special in the sense that one becomes safe from being born in realms below that of human?  And/or in the remaining suffering compared to before?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-kp04rqc">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ae95hq/how_is_stream_entry_not_a_special_experience/kp04rqc/">Bhikkhu_Anigha</a><span class="when">2024-02-05 09:12 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Is it not special in the sense that one becomes safe from being born in realms below that of human?  And/or in the remaining suffering compared to before?</p></div></div>
   <div class="body"><div class="md-body"><p>The point is not that <em>stream entry</em>, i.e. understanding the Four Noble Truths, is not special because that would be ridiculous, but that this understanding is not measured by an "experience" or special "glimpse" that you get one evening which suddenly turns you into a sotāpanna, which is generally the sort of result people expect.</p>
 <p>"Experiences" are irrelevant; the understanding of the <em>nature</em> of any experience is what is "special" and a puthujjana needs to strive for.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -52,5 +69,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

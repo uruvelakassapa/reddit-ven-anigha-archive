@@ -6,6 +6,9 @@
   <title>Uneasiness as Indicator for Right Ideas · 2025</title>
   <meta name="description" content="Uneasiness as Indicator for Right Ideas">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1jsrc3i/uneasiness_as_indicator_for_right_ideas/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>I was wondering if arisen uneasiness is actually a valid indicator for a contemplation hitting the right spot. For example, if I contemplate the inaccessibility and impermanence of the senses (or the impermanence of my dear ones, possessions, etc.), would a level of anxiety be a sign that the contemplation is earnest, or can Mara trick one by "inducing" that unpleasantness, while one's assumption of ownership hides untouched in an obscured spot? If so, how would one be able to discern if one is tricked? Can this even be done while contemplating, or only inferred by honestly questioning oneself in day-to-day life if the overall level of pressure due to attachments is decreasing?</p>
 <p>I would also like to expand that question to the broader scope of the practice as a whole. I am currently under the assumption that a subtle level of uneasiness is the natural emotional state for a puthujjana finding out about his situation and even useful for being more alert and authentic. So the same question applies here: are such emotions a valid measure for being on the right path? Or would it be better to refrain from any idea of "measuring" one's practice and instead acknowledge the uncertainty regarding ones notions about practice—which in turn would give rise to new uneasiness and, of course, could thus again be taken for granted as being a correct idea.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mlv7c28">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1jsrc3i/uneasiness_as_indicator_for_right_ideas/mlv7c28/">Bhikkhu_Anigha</a><span class="when">2025-04-07 14:16 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Or would it be better to refrain from any idea of "measuring" one's practice and instead acknowledge the uncertainty regarding ones notions about practice—which in turn would give rise to new uneasiness and, of course, could thus again be taken for granted as being a correct idea.</p>
 </blockquote>
@@ -49,5 +61,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

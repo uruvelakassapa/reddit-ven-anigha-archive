@@ -6,6 +6,9 @@
   <title>The extent of sense restraint · 2025</title>
   <meta name="description" content="The extent of sense restraint">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -36,10 +43,15 @@
 <p>Mental-faculty-consciousness arises dependent on the mental faculty and phenomena. The meeting of the three is pressure. With pressure as basis, feeling. What one feels, one perceives. What one perceives, one thinks about. What one thinks about, one proliferates. What one proliferates is the cause for perceptions and considerations born of proliferation besetting one in regard to sights cognizable by the eye pertaining to the past, present, and future. -- <a href="https://suttas.hillsidehermitage.org/?q=mn18#mn18:16.6" rel="noopener noreferrer" target="_blank"><a href="https://suttacentral.net/mn18" rel="noopener noreferrer" target="_blank">MN 18</a></a></p>
 </blockquote>
 <p>I tend to understand that being accomplished in sense restraint would <strong>only</strong> remove that last step of proliferation, would it be correct?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ma5q7bi">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1idoq0p/the_extent_of_sense_restraint/ma5q7bi/">Bhikkhu_Anigha</a><span class="when">2025-01-31 07:10 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is this the case? And when well developped is it resulting in not grasping at any significance more than another one in regard to anything in my experience?</p>
 </blockquote>
@@ -54,5 +66,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

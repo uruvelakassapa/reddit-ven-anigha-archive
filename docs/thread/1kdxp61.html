@@ -6,6 +6,9 @@
   <title>Am I understanding correctly the purpose of developing perceptions? · 2025</title>
   <meta name="description" content="Am I understanding correctly the purpose of developing perceptions?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -33,10 +40,15 @@
 <p>So when this bag of skin is fully understood to be empty of a self, there's simply the experience of this body standing in the world on its own terms, heart beating, lungs breathing, "you" completely out of the picture now. These invisible sense faculties are finally seen as being the necessary counterpart for any sense objects occurring within experience.</p>
 <p>Lastly, if this bag of skin is seen as empty of a self, whatever arises is whatever it ineffably is. "chair", "table", "people", "world" are understood as constructs by the mind, not the factual state of sense objects labelled by "you", and designations fade away over time through dispassion and non-identification. The concept of "emptiness" is a perception itself that leads to its own cessation when seen correctly. A final conventional label that points to the ultimate reality.</p>
 <p>Sorry if this is an unstructured ramble, but am I on the right track here? Is this why the buddha specifically used the word emptiness and instructed monks to develop the perception of emptiness?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mqtyn0s">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kdxp61/am_i_understanding_correctly_the_purpose_of/mqtyn0s/">Bhikkhu_Anigha</a><span class="when">2025-05-06 04:18 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>This seems to be much better language to accurately point to there being the image of the body, but the image of the body belonging to that body. Or in other words, you stop saying "the self doesn't exist" but rather recognise the feeling of being a self as belonging to that body, and that anything that is designated as self (literally anything in experience) is actually not-self.</p>
 </blockquote>
@@ -49,12 +61,15 @@
 <p>Making such contrasts between the "conventional" and the "ultimate" only serves to maintain <em>attavāda</em> under the pretext of removing it.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mr6fiki">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kdxp61/am_i_understanding_correctly_the_purpose_of/mr6fiki/">Bhikkhu_Anigha</a><span class="when">2025-05-08 02:19 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to serculis:</strong><br><div class="md-body"><p>Thank you for your response, good to know I got some of it right.</p>
+<article class="comment parent" id="c-mqu5bmq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kdxp61/am_i_understanding_correctly_the_purpose_of/mqu5bmq/">serculis</a></div>
+  <div class="body"><div class="md-body"><p>Thank you for your response, good to know I got some of it right.</p>
 <p>Do you mean to say that, saying "the conventional labels point to the ultimate reality", are still very real designations as such, and none of the words themselves are more significantly more real than the other? So when one isn't careful, saying "ultimate reality" is itself a designation, but for someone untrained, they misconceive those words as actually being the ultimate reality?</p>
 <p>Yes, in my experience right now, the idea of conventional reality being a low resolution representation of the "real" reality, is a view that I find very pleasing. I started learning about the role of designations and how they "point beyond themselves" and it's satisfying to learn about. I find safety in being right. Maybe this explains why I was terrified of actually receiving a response on here... I'm guessing this is very common along the path that comes with the attitude of "if I just search for all the correct answers, then I'll be free" - a view that eventually needs to be overcome once you, you know, understand the correct answers.</p>
 <p>But going back to what you said, for any passion to still be present in regards to a view, even if that view is correct, there has to be 'me' and has to be that thing, which subtly maintains the attavāda. Is this correct?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mr6fiki">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1kdxp61/am_i_understanding_correctly_the_purpose_of/mr6fiki/">Bhikkhu_Anigha</a><span class="when">2025-05-08 02:19 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>and none of the words themselves are more significantly more real than the other?</p>
 </blockquote>
@@ -70,6 +85,8 @@
 <p>Yes, but that would be more on the level of the subtler conceit (<em>asmimāna</em>) than <em>attavāda</em>. <em>attavāda</em> is when the view itself is irreparably wrong (i.e., inherently incompatible with dispassion) on top of one being passionate about it, which would be the case here.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -78,5 +95,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

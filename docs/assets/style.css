@@ -83,6 +83,15 @@ footer.site a { color: var(--link); }
   cursor: pointer;
 }
 .search-box button { background: var(--accent); color: #fff; border-color: var(--accent); }
+.offline-bar {
+  margin: 0.7rem 0 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+header.site .offline-bar .chip { color: var(--fg); }
+#offline-status { font-size: 0.88rem; opacity: 0.9; }
 #search-status { color: var(--muted); font-size: 0.9rem; margin-bottom: 0.5rem; }
 #search-results .list li { background: var(--card); border: 1px solid var(--border);
   border-radius: 8px; padding: 0.75rem 1rem; margin-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
@@ -106,7 +115,7 @@ footer.site a { color: var(--link); }
 }
 .comment .who { font-weight: 600; }
 .comment .when { color: var(--muted); font-size: 0.88rem; margin-left: 0.35rem; }
-.comment .body, .op, .parent-quote .md-body { margin-top: 0.6rem; }
+.comment .body, .op { margin-top: 0.6rem; }
 .md-body p { margin: 0 0 0.75rem; }
 .md-body p:last-child { margin-bottom: 0; }
 .md-body a { word-break: break-word; }
@@ -135,14 +144,48 @@ footer.site a { color: var(--link); }
 .md-body strong { font-weight: 700; }
 .md-body em { font-style: italic; }
 .md-body hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
-.parent-quote {
-  margin: 0.6rem 0 0.85rem;
-  padding: 0.5rem 0.75rem;
-  border-left: 3px solid #cbbfae;
-  color: var(--muted);
-  font-size: 0.95rem;
-}
 .children { margin-left: 1rem; padding-left: 0.5rem; border-left: 2px solid var(--border); }
+.comments-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin: 1.25rem 0 0.5rem;
+}
+.comments-head h3 { margin: 0; }
+.parent-toggle {
+  font-size: 0.9rem;
+  color: var(--muted);
+  cursor: pointer;
+  user-select: none;
+}
+.parent-toggle input { margin-right: 0.35rem; }
+.comment.parent {
+  border: none;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+}
+.comment.parent > :not(.children) { display: none; }
+.comment.parent > .children {
+  margin-left: 0;
+  padding-left: 0;
+  border-left: none;
+}
+html.show-parents .comment.parent {
+  margin: 1rem 0;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card);
+}
+html.show-parents .comment.parent > :not(.children) { display: block; }
+html.show-parents .comment.parent > .children {
+  margin-left: 1rem;
+  padding-left: 0.5rem;
+  border-left: 2px solid var(--border);
+}
 .books-table {
   width: 100%;
   border-collapse: collapse;

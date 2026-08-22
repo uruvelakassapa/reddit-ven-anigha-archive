@@ -6,6 +6,9 @@
   <title>Citta is Where the Heart Is? · 2024</title>
   <meta name="description" content="Citta is Where the Heart Is?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>Citta is Where the Heart Is?</h2>
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1fzr6n9/citta_is_where_the_heart_is/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>In Hillside Hermitage's latest talk <a href="https://www.youtube.com/watch?v=3E276FZat1s" rel="noopener noreferrer" target="_blank">Learning the Language of the Mind</a> it is mentioned near the end that citta is where the heart is. For me this doesn't compute. Like, at all. I have been trying to see citta as the container of the experience as a whole such as the mood or the shape of experience, but this citta being located where the heart is making me doubt I even know up from down anymore. Anyone able to shed more light on the heart being talked about here?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lr7gktp">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fzr6n9/citta_is_where_the_heart_is/lr7gktp/">Bhikkhu_Anigha</a><span class="when">2024-10-10 04:42 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>I have been trying to see citta as the container of the experience as a whole such as the mood or the shape of experience</p>
 </blockquote>
@@ -44,18 +56,23 @@
 <p>(<a href="https://www.youtube.com/watch?v=hB9dQFtXMKs" rel="noopener noreferrer" target="_blank">This discussion</a> is also relevant to the topic).</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-lrig79w">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fzr6n9/citta_is_where_the_heart_is/lrig79w/">Bhikkhu_Anigha</a><span class="when">2024-10-12 02:51 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Anemone1k:</strong><br><div class="md-body"><blockquote>
+<article class="comment parent" id="c-lr8t6dw">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fzr6n9/citta_is_where_the_heart_is/lr8t6dw/">Anemone1k</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>The mind is also a sense base, so even if you don't misconceive the body as sensations, you can start descending into and proliferating abstract notions about the body.</p>
 </blockquote>
 <p>Thank you, Bhante. This warning rang true and is a definite blindspot for me. I have had enough instruction to know that I need to practice including these abstract theories within the impersonal base that my situation is rooted within. My question is, is there any danger of going too far with this inclusion? In other words, can I "over" include to the point where I miss the mark? My concern is that it would just end up being an infinite inclusion and there would be no basis for any sort of effortful practice since that effort would be just as ridiculous as the effort of sensuality. I assume that's why the practice would eventually be effortless, but I guess I don't know why it would really be a practice then. (And, no, the contradiction that I decided to not include those concerns and assumptions and decided to take them up and ask for clarification instead is not lost on me...)</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lrig79w">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1fzr6n9/citta_is_where_the_heart_is/lrig79w/">Bhikkhu_Anigha</a><span class="when">2024-10-12 02:51 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>My question is, is there any danger of going too far with this inclusion? In other words, can I "over" include to the point where I miss the mark?</p>
 </blockquote>
 <p>Yes, that can and often does happen, in the form of the view that all thinking is bad, and it's about "just being mindful", etc.</p>
 <p>You do need to think, ponder, and clarify when you have evidently lost the clarity, i.e., when you catch yourself starting to incline towards carelessness and unwholesome actions even on a mental level. Then you "refresh" the contexts and contemplations, but only to the extent that there is a practical purpose for it (i.e., a direct connection with abandoning unwholesome states here and now) and not more than that.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -65,5 +82,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

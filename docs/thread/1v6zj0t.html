@@ -6,6 +6,9 @@
   <title>Where does my responsibility end? · 2026</title>
   <meta name="description" content="Where does my responsibility end?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,10 +41,15 @@
 <p>In case of the child: Due to my influence it may make some decisions that I then regret. If it wouldn't have made those decisions if I had spoken to the child in a different manner or tone or used different words, is it then not clear that it is within my responsibility? And where does it end then?</p>
 <p>To me it seems that my responsibility in fact is almost endless. I think that I cannot even fathom the extent of what I may be responsible for in this world. My influence, no matter how small it may be in the grand scheme, may have impact on generations. So I see no end of my responsibility. And I cannot "not" act, not even as a monk in solitude, but certainly not when I e.g. am a parent or a teacher, a husband or a wife or in any other way living in an exchange with others.</p>
 <p>So how can I take responsibility, if my responsibility seems so endless, if I cannot control what my actions may cause in others and what they may cause others to do in consequence of it?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-p09q1nv">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1v6zj0t/where_does_my_responsibility_end/p09q1nv/">Bhikkhu_Anigha</a><span class="when">2026-07-28 14:19 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>All of the "responsibilities" you refer to are real from a worldly standpoint but irrelevant when it comes to the Dhamma. What you're responsible for in that context is your own suffering, which is due to the craving that you are here and now either fueling or undercutting. </p>
 <p>Putting first your failure to meet the worldly responsibilities will distract you from that internal responsibility (which is worth prioritizing because it's precisely due to suffering that you care about everything else).</p></div></div>
   
@@ -50,5 +62,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

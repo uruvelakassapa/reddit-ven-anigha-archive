@@ -6,6 +6,9 @@
   <title>mindfulness of external situations. · 2025</title>
   <meta name="description" content="mindfulness of external situations.">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>mindfulness of external situations.</h2>
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1imjjyv/mindfulness_of_external_situations/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>I am friends with a monk who tends to include mindfulness as being related with situational awareness. For example if someone is clumsy that means they are not being mindful, if someone doesn't see something in there external environment like a stump on the ground or something and trips on it that means they are not being mindful. Are there any suttas that support this way of thinking about mindfulness, because for me mindfulness and things of that nature that i just listed are completely different.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mc58s29">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1imjjyv/mindfulness_of_external_situations/mc58s29/">Bhikkhu_Anigha</a><span class="when">2025-02-11 06:53 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Not being aware of what's actually going on around you would be a symptom of unmindfulness, a sign that became overly preoccupied with somehthing specific and lost sight of your overall situation. So in a way yes, "situational awareness" would be an accurate description of mindfulness as long as we qualify that you don't develop that by trying to focus and become hyperaware of the stumps on the ground, the movements of your feet, sensations in your body, and so on, which is the direction people tend to go when trying to develop mindfulness. That's just becoming unmindful on the basis of a different sense door. You would thereby start ignoring a whole range of things, including your intention behind engaging in that practice in the first place.</p>
 <p>So indeed, one should not be immersed in mental proliferation and daydreaming, but being immersed in physical sensations is not an improvement at all. Right mindfulness is when the mind is<a href="https://suttas.hillsidehermitage.org/?q=an11.9" rel="noopener noreferrer" target="_blank"> unfocused and unabsorbed in regard to everything, no exceptions.</a> That's the only way to be aware of your entire situation instead of prioritizing some specific aspect of it gratuitously.</p></div></div>
   
@@ -43,5 +55,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

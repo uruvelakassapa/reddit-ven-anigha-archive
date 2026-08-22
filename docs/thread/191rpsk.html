@@ -6,6 +6,9 @@
   <title>How to understand Ven. Ñānavīra on PS in light of SN 12.2? · 2024</title>
   <meta name="description" content="How to understand Ven. Ñānavīra on PS in light of SN 12.2?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -35,10 +42,15 @@
 <p>Vibhanga suttas such as this aim to definitively clarify the main terms of their subject. So, these descriptions should be viewed as quite significant and central to our understanding of PS. However, the seem difficult to rectify with Ven Ñānavīra’s interpretation of PS as they describe literal birth and death rather than the view of having a self which is susceptible to birth and death, as Ñānavīra claims.</p>
 <p>I would greatly appreciate the help of those in this community who have greater knowledge and understanding of these matters than me in clarifying how to rectify these two texts. </p>
 <p>My thanks 🙏🙏🙏</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kh0j91o">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/191rpsk/how_to_understand_ven_ñānavīra_on_ps_in_light_of/kh0j91o/">Bhikkhu_Anigha</a><span class="when">2024-01-09 05:38 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Thus, the cessation of these nidānā refer not to the cessation of literal birth and death, but rather the cessation of the attavāda which leads one to the view that they have a self which is subject to birth and death.</p>
 </blockquote>
@@ -77,5 +89,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

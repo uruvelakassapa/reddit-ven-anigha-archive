@@ -6,6 +6,9 @@
   <title>[deleted by user] · 2024</title>
   <meta name="description" content="[deleted by user]">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>[deleted by user]</h2>
       <p class="meta"><a href="#">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>[removed]</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kpqo4xe">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1amq0y1/deleted_by_user/kpqo4xe/">Bhikkhu_Anigha</a><span class="when">2024-02-10 04:23 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>In this context, as a <em>prerequisite</em> for going in to solitude, it would simply mean that one should have reached the point where breaking the 8 precepts takes more effort than keeping them.</p>
 <p>Solitude and seeing the signs of the mind on the basis of that would eventually result in the <a href="https://www.youtube.com/watch?v=eLRRaga5a2s" rel="noopener noreferrer" target="_blank">"accomplishment in virtue"</a>, which is the Right View (the ability to be virtuous without <em>sīlabbataparamāsa).</em></p></div></div>
   
@@ -43,5 +55,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

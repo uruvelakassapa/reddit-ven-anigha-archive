@@ -6,6 +6,9 @@
   <title>Beings are owners of their actions · 2023</title>
   <meta name="description" content="Beings are owners of their actions">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>In a way it’s funny the Buddha had to mention that beings are owners of their actions since beings normally regard the aggregates as mine, but this ownership doesn’t fully apply to their actions. Or rather, their ownership applies to their actions but there’s a kind of hiding mechanism from that ownership. It’s like the example Nanavira gave of the Judge giving death penalty (I think this was the example?), but excusing it as not <em>really their</em> action, since they’re just playing the role of their job. But in doing this, they forget that they were the ones who chose the job, and very well could’ve not. So the excuse doesn’t work.</p>
 <p>Since the Buddha had to explicitly mention to us to see we genuinely <em>are</em> owners of our actions and their results, it means we <em>haven’t</em> been owning up to the full extent and are hiding the fact of our ownership somehow. I’m wondering, what are all the ways in which ownership of actions can be hidden from? Is there <em>a single</em> particular thing at fault which leads to hiding from it?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-k5wirv7">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/k5wirv7/">Bhikkhu_Anigha</a><span class="when">2023-10-22 00:13 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is there <em>a single</em> particular thing at fault which leads to hiding from it?</p>
 </blockquote>
@@ -45,9 +57,9 @@
 <p>And, to be a broken record, seeing the signs of the mind through the Gradual Training is the first step towards "training the dog". Before that, you haven't even discerned what exactly its wild behavioral patterns are, and will just be blindly wrestling against the secondary pain that's already the <em>byproduct</em> of those patterns—potentially pissing off the dog even more while it's still not properly tied onto the leash.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k5xpr4h">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/k5xpr4h/">Bhikkhu_Anigha</a><span class="when">2023-10-22 06:36 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Thank you for the response. You mention:</p>
+<article class="comment parent" id="c-k5x6ypw">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/k5x6ypw/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Thank you for the response. You mention:</p>
 <blockquote>
 <p>That's because it is only possible to avoid responsibility by assuming that you have an external escape in any shape or form from that displeasure, which will automatically entail trying to use that assumed direction of escape to avoid that feeling.</p>
 </blockquote>
@@ -65,6 +77,9 @@
 </blockquote>
 <p>Sometimes, the pressure is so strong, there is so much mental chaos, confusion, uncertainty, pain, that it feels I'm forced to act out, that there is no other option apart from acting out. That all of a sudden my intention itself changes to act out to 'save myself'. I find myself intending to not give in, and then the next moment I find myself already engaging in that act and the intention already "changed on its own". But this doesn't just happen suddenly, it almost always occurs after I've been delighting in this sensual option for a while (over the time of some hours, or days), in some subtle sense, and then there needs to be like the right mixture of loss of context of the importance of restraint and certain level of pressure of the sensual option for this "automatic" shift in intention to occur. In these instances, I don't really feel the one responsible for acting out, yet it's precisely in these instances, as I understand what you said above, that I can truly acknowledge my responsibility/ownership of my actions; that it is entirely on me to <em>choose</em> to give in and <em>choose</em> to <em>not</em> do all the other possible things (including abstain from that choice of giving in) I could instead be doing.</p>
 <p>Is this correct?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k5xpr4h">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/k5xpr4h/">Bhikkhu_Anigha</a><span class="when">2023-10-22 06:36 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>When a sensual option has arisen for  me, and I can pursue it, I <em>know</em> I can get rid of the pressure, even if it's temporary, by pursuing it. There genuinely <em>does</em> seem like an escape externally, how does this escape not exist?</p>
 </blockquote>
@@ -99,14 +114,19 @@ It always has to be because of the little, at the time seemingly harmless, delig
 <p>"Inclining to thoughts of sensual desire" here doesn't mean the sensual <em>objects</em> arising on their own, as if the goal was to get rid of them and focus on something else to forget they exist. It means the pressure you begin to experience to act out of such objects.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k5xqlmj">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/k5xqlmj/">Bhikkhu_Anigha</a><span class="when">2023-10-22 06:46 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Handsome_God123:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-k5xldxe">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/k5xldxe/">Handsome_God123</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>That "result" of past actions is not about some linear chain of cause-&amp;-effect that has led you to your current external circumstances of being sick, poor, or something like that. The "result" is on the level of the wildness of the citta—how strongly it shies away from pain, and how fiercely it pulls towards the offers of pleasure.</p>
 </blockquote>
 <p>Bhante what do you mean by this? Isn't being born in a bad environment also result from bad karma?</p>
 <p>&#x200B;</p>
 <p>I agree with your whole explanation but this part confuses me, maybe I misunderstood something.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k5xqlmj">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/k5xqlmj/">Bhikkhu_Anigha</a><span class="when">2023-10-22 06:46 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Isn't being born in a bad environment also result from bad karma?</p>
 </blockquote>
@@ -115,13 +135,18 @@ It always has to be because of the little, at the time seemingly harmless, delig
 <p>And if you were going in the direction of renunciation, you will suffer less if you are born in unfortunate circumstances.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k619z1e">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/k619z1e/">Bhikkhu_Anigha</a><span class="when">2023-10-22 23:33 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to SevenCoils:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-k5zn4gp">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/k5zn4gp/">SevenCoils</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>When you experience sensual desire, what you are actually wanting is to be free from pain and disturbance. So when you have a desire and you go on to "escape" the pressure through giving in, do you actually feel at ease in the way your desire was promising you, or is there a sense that when the next thing comes, you will feel even more pressure to go for it (or even that this same thing of which "just one bite" seemed like all you'd ever need, is now not enough)? Is there a sense that unpleasant things you experience are now even more harassing than before you had given in to the pressure? Do you feel safe or do you feel more vulnerable?</p>
 </blockquote>
 <p>Thank you, Bhante. This in particular was really helpful to read. My current lay situation has recently become much more conducive to solitude and restraint than it has ever been since taking up the practice, and I have been taking advantage of it as if my head were afire. Still, there are the occasional lapses, but I am noticing the lapses don't have the "staying power" they once did. In particular, I recently figured there'd be very little harm in sitting down to watch a movie, much as I have done in my more compromising past. Upon doing so, however, I was immediately anxious; I found it impossible to abandon myself to the movie out of some lurking, vague fear. My heart rate was up, I was agitated, and I felt a persistent need <em>to keep looking over my shoulder</em>. I felt totally, inexplicably vulnerable.</p>
 <p>Using the simile of the wild elephant, when I lapse like this I'm essentially like a foolish trainer who is dragging the tamed (to a degree) elephant back into the wilderness to let it relax and have a bit of fun. But the elephant, through the training, no longer prefers that degree of exposure. It's as if at a certain point the elephant knows what is unskillful more thoroughly than the trainer knows it himself; the trainer becomes the trained in a certain respect. But the trainer can see now that the training is working and that it's possible to loosen the taming straps a bit, while not forgetting that there's work yet to be done. And that work would be seeing the hints of agitation present in the elephant when the prospect of a sensual act <em>is even considered</em>, let alone acted upon. This is what will eventually lead to these acts completely falling away as possibilities; the training should be leading to the trainer becoming completely redundant.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k619z1e">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17d2y6a/beings_are_owners_of_their_actions/k619z1e/">Bhikkhu_Anigha</a><span class="when">2023-10-22 23:33 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>My heart rate was up, I was agitated, and I felt a persistent need <em>to keep looking over my shoulder</em>. I felt totally, inexplicably vulnerable.</p>
 </blockquote>
@@ -132,6 +157,8 @@ It always has to be because of the little, at the time seemingly harmless, delig
 <p>Yes, and that's also how you start to see for yourself that "action is intention", as the Buddha said. You realize that this vulnerability only arises when <em>you</em> choose to go and pursue or delight in the pleasure. Eventually it becomes impossible to fall into self-mortification, where you think the <em>objects</em> are the problem, to any degree of subtletly (which one does in the beginning, even if one doesn't explicitly think of it that way), and equally impossible to compromise your own safety through actions.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -140,5 +167,7 @@ It always has to be because of the little, at the time seemingly harmless, delig
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

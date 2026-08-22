@@ -6,6 +6,9 @@
   <title>Is the assumption of sensuality fractal ? · 2025</title>
   <meta name="description" content="Is the assumption of sensuality fractal ?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>So, let's say I have a sudden desire for going to a music festival. Delight in the thought of it already provides pleasure on account of alleviating the pain of being pressured by this desire which is felt unpleasantly.</p>
 <p>The question is, where does the more general unpleasant/neutral feeling fits ?</p>
 <p>Is the pleasure felt <strong>ONLY</strong> a by-product of relieving the pressure related to this particular phenomena ? or is there another layer where a more general pressure, one born of a more general unpleasant/neutral feeling, one usually unnoticed but the actual source of the desire to listen to music as a way to alleviate/distract from the pain, getting relieved too ?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-n6dq3tc">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1mdbz4i/is_the_assumption_of_sensuality_fractal/n6dq3tc/">Bhikkhu_Anigha</a><span class="when">2025-08-01 17:02 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is the pleasure felt ONLY a by-product of relieving the pressure related to this particular phenomena ? </p>
 </blockquote>
@@ -54,5 +66,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

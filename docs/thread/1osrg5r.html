@@ -6,6 +6,9 @@
   <title>Thought for Food - Eating in Moderation · 2025</title>
   <meta name="description" content="Thought for Food - Eating in Moderation">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -39,10 +46,15 @@
 <h1>Background - on Eating</h1>
 <p>I have been on Intermittent Fasting since late 2018 - experimenting with various eating-windows and times of the day - finally settling for 5-6 hours from 10 to 4. All my life I have struggled with food and weight, always been over weight, though not obese. Exercise has kept my health in check but in past few years I began to see the danger of not training my mind to rein in my eating-habits: if I cannot exercise - because of illness, injury or some other circumstances, my eating indulgence will lead me to obesity, high-BP, diabetes, etc.</p>
 <p>Mundane-right-view convinced me to keep the 5 precepts - and later on, 8 precepts. 5 were easy for me because of my lifestyle but when I extended it to 8 there was struggle. It has been the right kind of striving to keep the precepts. I now see what perfecting the precepts mean. With food, I have now gone beyond the rules - the hours, food-choice, etc do not matter - when I know that the beast is tamed. When the beast is tamed, maintaining precepts becomes easy-peasy. I only must not get careless and return to sensuality again - "dont provoke the beast".</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-no4aua4">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1osrg5r/thought_for_food_eating_in_moderation/no4aua4/">Bhikkhu_Anigha</a><span class="when">2025-11-10 15:26 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>The thoughts are not from my lived-past - longings, incidents, real-life experiences, etc. - I keep a check on those. But I am not able to stop proliferating the thoughts around past-entertainment. I believe I need to upgrade my sensitivity and start seeing danger in these "benign" thoughts that often take me for a ride into proliferation.</p>
 </blockquote>
@@ -62,5 +74,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

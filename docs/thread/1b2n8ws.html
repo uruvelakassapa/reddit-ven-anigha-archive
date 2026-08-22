@@ -6,6 +6,9 @@
   <title>&quot;Rightly discerning aggregates is like penetrating a hair-tip with an arrow&quot;.. why? · 2024</title>
   <meta name="description" content="&quot;Rightly discerning aggregates is like penetrating a hair-tip with an arrow&quot;.. why?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -43,10 +50,15 @@
 <p>Now the other issue here is discerning consciousness; it cannot even be discerned because it escapes any attempts at discernment. Consciousness necessarily has to come first for there to be any discernment anyways, the fact that there is discernment means there is consciousness. Everything affirms the existence of consciousness (it is the that-because-of-which-everything-is) and there's an idea of permanence associated with it partly due to this fact.</p>
 <p>Well, maybe I should reflect on what I mean by 'discerning' since perhaps this is in some sense its discernment. But either way, I cannot <em>observe</em> by any means, the change in consciousness. I can indirectly relate the presence of consciousness (through their even being the discernment of this body) to this enduring body, but then question whether consciousness and body really co-exist? Could it not be the case that this consciousness is more fundamental than the body and when the body ceases, there is only consciousness left?</p>
 <p>I'm unsure. Maybe such a "subtle thing" is about "including the sense of self" into the picture as it is often discussed?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ksnw5m8">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b2n8ws/rightly_discerning_aggregates_is_like_penetrating/ksnw5m8/">Bhikkhu_Anigha</a><span class="when">2024-02-29 07:01 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>I'm unsure. Maybe such a "subtle thing" is about "including the sense of self" into the picture as it is often discussed? </p>
 </blockquote>
@@ -66,5 +78,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Looking for a practical model. · 2025</title>
   <meta name="description" content="Looking for a practical model.">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -55,10 +62,15 @@
 <p>Now, I should perhaps also give further context for where I currently am in the gradual training. I keep the five precepts and am celibate; I do not listen to music (the inclination towards that has been largely dropped), I do not engage in coarse entertainment (shows, movies, shopping, etc.) and only have subtle entertainment left (getting derailed while on the internet trying to study). I do not eat for the sake of pleasure, however, I haven't put a maximum on how many times I can eat yet because I currently need to eat to gain more physical strength; I do not have adequate enough physical strength to do a lot of things. Once I've stabilized my weight to where I have enough energy to do the day-to-day things, I will start fasting on Saturday/Sundays by eating once a day and hopefully, from there, expand if the body allows. I do not sleep on the floor yet, but I intend on doing that once I have enough strength.</p>
 <p>I do not have a lot of friends now because I'm fairly content being by myself and don't need to look for others.</p>
 <p>I'm fairly well-established in what I've mentioned above.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mf7hkp3">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mf7hkp3/">Bhikkhu_Anigha</a><span class="when">2025-02-28 05:47 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>My concern now is in simply anchoring myself in a practical model that is able to provide a value for the precepts and sense restraint, which I can hold on to till I gain mastery in them.</p>
 </blockquote>
@@ -66,9 +78,9 @@
 <p>If there's resistance towards that lack of control, that's a remnant of the same neuroticism you described and ultimately an expression of the view of self (assuming control over your experience from the outside). So you would need to include <em>that</em> as something to give up and not act out of within whichever model you're using at the time.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mf93dpm">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mf93dpm/">Sister_Medhini</a><span class="when">2025-02-28 14:03 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to kellerdellinger:</strong><br><div class="md-body"><p>Coming from an amateur background in computer science, mathematics, and philosophy, contemplating a personal conversation with Ven. Anīgha wherein he emphasized the fact that the Dhamma is <strong>timeless</strong> yielded the following fruit.</p>
+<article class="comment parent" id="c-mf1x6fa">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mf1x6fa/">kellerdellinger</a></div>
+  <div class="body"><div class="md-body"><p>Coming from an amateur background in computer science, mathematics, and philosophy, contemplating a personal conversation with Ven. Anīgha wherein he emphasized the fact that the Dhamma is <strong>timeless</strong> yielded the following fruit.</p>
 <p>That the Dhamma does "not involve time" and is "beyond mere reasoning" are two qualities listed in the Suttas that are highly related.</p>
 <p>There is a common Platonic assumption present among mathematicians that the process of doing mathematics grants access to timeless truths that are independent of the thinking process used to uncover them. Kant called knowledge of this kind the analytic <em>a priori</em>, and (to extend Kant's vocabulary further) we might call the "objects" of this knowledge the noumena of mathematical intuition. The "noumen-icity" assumed to exist "behind" or "underneath" mathematics would correspond to that knowledge's supposed <em>a priori</em> character, the <em>apriori</em>'s metaphysical correlate: "true by definition even before anyone ever thought about it." Kant contrasted analytic <em>a priori</em> knowledge with his famous interest in synthetic <em>a priori</em> knowledge, knowledge that is not true by definition <em>per se</em>, but is nonetheless permanently, universally true without qualification and without any particular need for verification.</p>
 <p>Quine later called this synthetic-analytic distinction into question, arguing that there is, in fact, no real difference between the two. I'll summarize the gist of Quine by drawing attention to the "true by definition" definition of analytic knowledge. As 20th century philosophers came to lament, rigorous and clear definitions are quite difficult to manufacture. Moreover, to define something is an <strong>activity</strong>, an <strong>activity</strong> that is inevitably on-going. After philosophers like Nietzsche and (more rigorously) Heidegger called the Platonic noumena into question, a forever-on-going definitional Wittgenstein-ian language-game was all that remained of the analytic, a negotiation <strong>activity</strong> that no longer seems much different in character from the time-bound empirical investigations that were supposed to be the sole domain of the synthetic.</p>
@@ -95,6 +107,9 @@
     else:
         sensuality.sensuality()
 </code></pre></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mf93dpm">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mf93dpm/">Sister_Medhini</a><span class="when">2025-02-28 14:03 UTC</span></div>
   <div class="body"><div class="md-body"><p>A lot of this is going in the right direction and the points about the fallacy of relying on rational models are quite correct, but some of it sounds like it could be going a bit too far to the other extreme (if I understand you correctly.) I will offer a few comments in case they are of use:</p>
 <p>The main gist of what you're saying appears to be that truths of 'reason' are all ultimately relative, time-bound and unstable, there is no intuition or logical principle that cannot be doubted. The dhamma is timeless and beyond mere reason and thus requires Faith. </p>
 <blockquote>
@@ -119,9 +134,11 @@
 <p>But you'll never arrive at it unless you first require yourself to be rigorously truthful in regard to what you already know here and now, and do not allow yourself to plug the gaps or unresolved nagging aspects of it with words from others - or deny the possibility of clarity about it to begin with.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mfmqhsx">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mfmqhsx/">Sister_Medhini</a><span class="when">2025-03-02 16:58 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to kellerdellinger:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-mfcn8wv">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mfcn8wv/">kellerdellinger</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>but some of it sounds like it could be going a bit too far to the other extreme</p>
 <p>denying the possibility of clarity about it to begin with.</p>
 </blockquote>
@@ -135,6 +152,9 @@
 </blockquote>
 <p>in my comment, it was only the common, presumptuous, metaphysical conceptions of truth that were my target.</p>
 <p>The kind of truthfulness and clarity that you accurately and carefully described is something I hold more sacred than anything else.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mfmqhsx">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mfmqhsx/">Sister_Medhini</a><span class="when">2025-03-02 16:58 UTC</span></div>
   <div class="body"><div class="md-body"><p>I'm glad we seem to not disagree on the main issue, although I am still not quite sure whether we mean the same by this: </p>
 <blockquote>
 <p>the qualification I agree with and would add to my comment myself</p>
@@ -147,9 +167,11 @@
 <p>Good, and just in case it doesn't go without saying, none of that last part was directed personally at you or something, just a general observation on a relevant point thst seems to get overlooked surprisingly often.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mfxrkh3">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mfxrkh3/">Sister_Medhini</a><span class="when">2025-03-04 10:13 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to kellerdellinger:</strong><br><div class="md-body"><p>This is my understanding at present, which (I have faith) will be improved with time.</p>
+</div>
+</article>
+<article class="comment parent" id="c-mfoyon6">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mfoyon6/">kellerdellinger</a></div>
+  <div class="body"><div class="md-body"><p>This is my understanding at present, which (I have faith) will be improved with time.</p>
 <p>The difference I see between the ordinary intuition and <em>yoniso-manasikāra</em> is that ordinary intuition carries with it the assumption that the power granted by ordinary intuition to act in the world is stable, and that the results of those actions are of primary importance (emphasizing the content over the context). Ordinary intuition has to engineer computational processes, oversee all the symbolic manipulation while it is underway, and then tap its feet while it waits for a result that it can rip hot off of the press just to turn around and feed into yet another Turing Machine. I would say that intuition is thus <strong>made</strong> ordinary by its implementation. Ordinary intuition is when the clarity of vision granted by previously developed <em>yoniso-manasikāra</em> is weaponized. This weaponization inadvertently requires the limitation and dilution of <em>yoniso-manasikāra</em>; it would not be possible for a person to think it worthwhile to use their powers of dexterity and perception to shoot guns while retaining in mind the memory of the fragility of their gun-metal, their hands and eyes, and the military-industrial complex as a whole. </p>
 <p><em>Yoniso-manasikāra</em> in its purity makes no such demands on the future, a quality it gains by virtue of already "seeing the future" within the present. Ordinary intuition yearns to bring that future into the present, whereas <em>yoniso-manasikāra</em> recognizes the futility of such yearning: "it's already here." <em>Yoniso-manasikāra</em> does not assume itself to be stable (even if it is so stable) because it carries within itself the recognition that stability is irrelevant; regardless of whether or not something will continue to be, it <strong>is</strong>, which is the only guarantee that reality grants. "AB implies A" can be recognized as an intuition that is true in the sense that it is factually operative in the present, regardless of whether it remains operative in the future. The only problem with ordinary intuition is that it anxiously <strong>requires</strong> that AB imply A in the future so that it may continue to interpret the results of its computations in the way that it likes rather than seeing all of its hard work turn to meaningless mush, rendered uninterpretable by a change of the intuitive guard.</p>
 <p>So in the case of</p>
@@ -159,6 +181,9 @@
 <p>I would say that these things are indeed arbitrary in the sense that their form, function, and results could always be otherwise. But in any given present, while they are what they are and not otherwise, they are of course the exact opposite of arbitrary. In their own present they are as meaningful as they can be, but the mistake as I see it is conflating meaningfulness with reliability. <em>Sabbe saṇkhārā aniccā</em> is in my mind another way of saying that "all that is meaningful is unreliable" <strong>simply by virtue of being meaningful</strong>. Meaningfulness is an implication, and all implications involve time (or at least they dangle time in front of our eyes), and time is not my friend.</p>
 <p>My faith (I don't know about others) is that if I keep indefinitely refraining from weaponizing my intuition and thereby assuming it to harbor even the slightest trace of noumenal reliability, eventually I will become incapable of holding a weapon ever again, that all power-seeking and power-using intuitions will permanently cease. To the extent that a weapon (faith) is involved in the disarmament process, it is the gun that I hold to my head every time I sense myself reaching for the cold steel of power. For me currently, faith (I have faith) involves assuming some bonus reliability to the words of Dhamma I have heard, which I accept only to the extent that I simply can't help it. I cannot help injecting a noumena into the Dhamma, so I tolerate it as long as that noumena is helping to keep me restrained.</p>
 <p>In summary, my perspective is that intuition is reliable only to the extent that it includes its future within its own present. "AB implies A" includes its own future when it (and its future) are recognized as a phenomena valid and reliable as such, but no more valid and reliable than that. Assuming intuition to have a reliability in the future "beyond the present" as opposed to the future "within the present" is the Platonic mistake. But undoing that mistake requires time, which as a matter of expediency requires an assumption of the reliability of the Dhamma: faith. Faith that the "beyond the present" can be completely eradicated, faith (in the god of) Uncertainty is indeed an idolatry that is contrary to the Dhamma in the ultimate sense, but all puthujjanas are idolatrous to the core so they better just worship an idol that will at least eventually lead them to the abandonment of idolatry rather than remain slave-worshippers forever. That is my model, a model that continually prompts me to refrain from harboring any expectation that this model will eventually Halt and spit out a Cookie---renunciation for its own sake and for no other.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mfxrkh3">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mfxrkh3/">Sister_Medhini</a><span class="when">2025-03-04 10:13 UTC</span></div>
   <div class="body"><div class="md-body"><p>This makes it a good bit clearer. Aside from incidental differences in definition, the only point where I would disagree (which is fairly subtle and may or may not be important depending on a person) is essentially the same as in the original comment, but I can put it more precisely now:</p>
 <p>There's a difference between an experience being unstable and a principle being unstable in the sense that it might not apply to other (future) experiences.* When you say that an intuition (such as AB implies A) is</p>
 <blockquote>
@@ -176,9 +201,11 @@
 <p>*Edited the phrasing here slightly ('thing as an arisen phenomenon/experience' =&gt; 'experience') to avoid potential ambiguity between 'thing' and 'experience'</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mg7wger">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mg7wger/">Sister_Medhini</a><span class="when">2025-03-05 21:27 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to kellerdellinger:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-mg18a4b">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mg18a4b/">kellerdellinger</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>This is already rather long</p>
 </blockquote>
 <p>Thank you for taking the time to write it, Ayye. This exchange has been quite stimulating and, especially after this most recent comment of yours, I am very grateful for it.</p>
@@ -188,6 +215,9 @@
 <p>My next concern is that the words "thing" and "principle" can both be reverse-translated to <em>dhamma</em>. If you are familiar with Heidegger's terminology, <em>dhamma</em> thus seems to encompass both the ontic and the ontological. I do believe (I live it) that there are stable ontological truths, though I cannot intellectually justify that stability to myself beyond my lifestyle. The yoni does factually change, and for my great benefit---I have been "pushing my yoni back" like my life depends on it, because the more I push it back the more I can see that <strong>it does</strong> depend on it. So if the Dhamma <em>qua</em> fundamental ontology as opposed to the ontic manifestation of thought "resides" within the yoni, it doesn't seem to follow that it is stable by virtue of that "lived" yoni-ness, especially given that bringing about changes in that yoni domain is the sole purpose of my entire existence at this point.</p>
 <p>Again, this is frustrating because everything you wrote inspires trust. It feels right. I believe it is. But I cannot justify the stability of the Dhamma to myself theoretically. I imagine that that is because the only stability I have any understanding of is the noumenal, metaphysical variety. Though I remain true to my Nietzschean heritage by railing against it and (ostensibly, in public) refraining from conceiving the Dhamma in any such terms, clearly I am still bound (as Nietzsche also was) by the metaphysical because when I turn down the haughty denigration of it, metaphysics is still all I know how to do. I fall right back in for lack of understanding how to fall anywhere else, and so I don't even know where to take the conversation from here. I'm just lost, though you seem to have confirmed that being lost or not lost <strong>in that way</strong> is mostly irrelevant so long as I continue to live properly.</p>
 <p>At least the more frustrated I become the more I gain faith that what I am being led towards, that I want to understand but do not, is nothing other than the True Dhamma. If you have any more clarity to add in response to address my concerns and confusion I would be even more grateful than I already am. You will need to completely take the reins from here if you choose to do so; I am out of my depth.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mg7wger">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mg7wger/">Sister_Medhini</a><span class="when">2025-03-05 21:27 UTC</span></div>
   <div class="body"><div class="md-body"><p>Practical points first, technical theoretical points afterwards :)  </p>
 <blockquote>
 <p>I took Ven. Anīgha's quoted words to mean that I will never know for sure and began practicing accordingly... </p>
@@ -216,31 +246,6 @@
   <div class="children">
 <article class="comment teacher" id="c-mg805cl">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mg805cl/">Sister_Medhini</a><span class="when">2025-03-05 21:44 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Sister_Medhini:</strong><br><div class="md-body"><p>Practical points first, technical theoretical points afterwards :)  </p>
-<blockquote>
-<p>I took Ven. Anīgha's quoted words to mean that I will never know for sure and began practicing accordingly... </p>
-</blockquote>
-<p>Just to briefly clarify this so it’s understood I’m not contradicting what he said there: what you most certainly will never find, and can safely give up any expectation of, is anything even remotely corresponding to a flashing sign in neon lights popping up before you saying ‘This Is It. You Have Arrived.’ Whether you can have or should expect ‘confirmation’, clarity, or knowledge of what you know to <em>any</em> degree, and of what kind, is another question. But, practically speaking, you can only really find the answer to this question by understanding the dhamma for yourself and developing that clarity and knowledge on the correct level, which is the level of liability to suffering and escape from it.                                                     </p>
-<blockquote>
-<p>It seems I latched onto the idea that I need to practice the <em>anupubbasikkha</em> without even expecting the Dhamma to be confirm-ably true, or lasting, or to ever give me any of the security or safety that I want out of it...which is what I now see to be what I took to be true, lasting, and a source of security and safety.                                                                       </p>
-</blockquote>
-<p>This is a very accurate description of the main problem. The mistake is that, when you have been genuinely way out of balance in one extreme (in this case rationalising and seeking some ‘confirmation that will make you know for sure’); you hear an instruction that makes you realise your mistake and stop maintaining that wrong direction, and this results in a factual ‘balance’. But because of not recognising that balance as such, you then naturally fix on the direction of the instruction that lead you to it <em>at the time</em> as ‘Aha, so <em>that’s</em> the Way To Go’ and of course then topple over into the other extreme.</p>
-<blockquote>
-<p>I am terrified of getting this wrong again</p>
-</blockquote>
-<p>That’s very good, and not losing sight of that is what will make sure that you do not get it wrong again as long as you understand what it was you were ‘getting wrong’.</p>
-<p>The answer to that is embedded in what you wrote there: <em>finding safety in things</em> is the heart of the unbalance. And that is what it is because of the ATTITUDE of finding safety, not by WHAT you are finding safety in (e.g. answers vs non-answers, knowing vs never knowing, etc). There is NO behaviour, instruction, direction, principle, absence of principle, or, literally, anything that can be thought or designated, that can justifiably be taken as a refuge even for a fingersnap. And that is never because WHAT you are latching onto as a refuge is a problem, but only because latching onto something as a refuge is universally rooted in suffering. </p>
-<p>(This should also address your concern about ‘fearing making timeless principles into Brahman’ – there is no problem with timeless principles (I will explain more about timelessness below); it’s finding safety in them that makes them into Brahman. Practically speaking, whatever you are finding safety in is thereby made into Brahman.)                                                                                       </p>
-<p>If you don’t suffer in the first place, you don’t need to look for any safety or refuge: not even the gradual training; not even ‘not finding safety in anything.’ (And then you’d truly be practicing the gradual training without needing to ‘practice’ it, and truly not finding safety in anything.) </p>
-<p>So then how do you not suffer in the first place: by seeing as it is that ‘resting on’ things or ‘latching on’ things greedily, aversely or carelessly is the root of suffering in each and every case, past, present and future. And the only way to understand that is by learning to discern that attitude of ‘fixing on’ in regard to whatever the mind is ‘resting on’ or ‘latching onto’ NOW - whether by way of wanting it, shrinking from it or carelessly disregarding it.  </p>
-<p>Which, in turn, is only possible in virtue of refraining from any action by body, speech, or mind that is stemming from and coming out of suffering, of any kind and in any degree. That’s the only way to make it possible to see the nature of that suffering, liability to it and freedom from it.</p>
-<p>In practice this will indeed sometimes (how often depends on a person) translate to ‘giving up trying to be free from suffering’ because at some points, all the restraint you’re doing and effort you’re making is under the umbrella of a mental action of ‘trying desperately to be free from suffering’ which is stemming from and coming out of suffering already (and whatever is already rooted in suffering can NEVER result in freedom from it.)</p>
-<p>But the point is to then learn to not-do <strong>only that action</strong>, and <strong>only because of what it is rooted in</strong>. In other words you give up <em>that</em> ‘trying to be free from suffering’ there and then, but without making ‘giving up trying to be free from suffering’ into a universal policy. (And certainly without abandoning the restraint that you were practicing within that overall mental action, because non-restraint would equally be necessarily coming out of suffering.)</p>
-<p>A semi-theoretical point that might nonetheless be helpful in terms of understanding timelessness practically: is because of that kind of ‘stability’ (= timelessness) that it is possible to be free from <strong>liability</strong> to suffering (and to know this beyond doubt).  Where there is liability to suffering, that liability is not IN the present such that it may or may not be IN the future. That would not be  'liability', but simply an experience of pain. But it would equally not be accurate to say ‘it will definitely be IN the future as it is IN the present. As a liability, it is not measured by time at all, (which is also why it is possible for this to be the only failsafe reference point for what is dhamma and not dhamma and whether you are understanding it or not). To the <em>extent</em> that you are liable to suffering now, to that <em>extent</em> you have been in the past, and will be in the future. The exact same applies to the freedom from that liability, which is the same thing without ignorance.                            </p>
-<blockquote>
-<p>being lost or not lost in that way is mostly irrelevant so long as I continue to live properly. </p>
-</blockquote>
-<p>Yes, just as long as this is not taken to mean (though I don’t think you are, I’ll mention it anyway): ‘I’ll just keep the precepts and do what I’m supposed to do and everything will work out.’ ‘Living properly’ strictly speaking means living without contradictions, and the only one who lives totally without contradictions is an arahant 🙃.</p></div></div>
   <div class="body"><div class="md-body"><p>Adding the theoretical bit here separately for the sake of clarity:</p>
 <p>First a brief side note about theory generally:</p>
 <blockquote>
@@ -276,9 +281,14 @@ That’s why it doesn’t say ‘sabbe dhamma anicca’ but ‘sabbe <strong>san
 </article>
 </div>
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mg8oegd">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mg8oegd/">Additional_Fix8417</a></div>
+  <div class="body"><div class="md-body"><p>Dear Sister, I’d just like to point out that Heidegger’s distinction between the ontic and the ontological is valid (as clarified in my <a href="https://www.reddit.com/r/HillsideHermitage/s/H2rAxDnKzJ" rel="noopener noreferrer" target="_blank">reply</a> to him), insofar as it is interpreted rightly, that is, as a study of being (ontology) rather than ‘(noumenal) reality’ (metaphysics)—the latter of which seems to be the interpretation that Ven. Subhara leans towards.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mgb9s4i">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mgb9s4i/">Sister_Medhini</a><span class="when">2025-03-06 11:31 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Additional_Fix8417:</strong><br><div class="md-body"><p>Dear Sister, I’d just like to point out that Heidegger’s distinction between the ontic and the ontological is valid (as clarified in my <a href="https://www.reddit.com/r/HillsideHermitage/s/H2rAxDnKzJ" rel="noopener noreferrer" target="_blank">reply</a> to him), insofar as it is interpreted rightly, that is, as a study of being (ontology) rather than ‘(noumenal) reality’ (metaphysics)—the latter of which seems to be the interpretation that Ven. Subhara leans towards.</p></div></div>
   <div class="body"><div class="md-body"><p>Yes, that was how I understood it and that was the distinction I was saying was invalid - fundamentally speaking. </p>
 <p>Of course, from Heideggar's point of view and anyone's point of view to the extent that they still have conceit, it is indeed very valid in the sense that this is how things will genuinely appear to us, and it's a very accurate description of that, which is what you have to start with. The only problem is to then think 'that's how it seems to me and Heideggar therefore that's How It Is' and read that view into all the suttas as a result, meaning that all the suttas teach you is a more refined version of your own point of view; you never go beyond Heideggar.</p>
 <p>Again as I said I haven't read Heideggar myself so this is just on the basis of what you and Ven. Subhara said, but my point above was that if 'ontic vs ontological' corresponds to any degree to a distinction between 'things' vs 'principles', fundamentally the distinction is invalid. The 'being' of things is not different from a 'thing'. You could say a 'principle' is just a more general 'thing'. </p>
@@ -289,22 +299,32 @@ That’s why it doesn’t say ‘sabbe dhamma anicca’ but ‘sabbe <strong>san
 <p>Again, all this has to be qualified heavily by what I wrote above about the danger in understanding things abstractly, it's a very problematic trap. </p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mgg36cj">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mgg36cj/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>[deleted]</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mggsxz0">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mggsxz0/">Sister_Medhini</a><span class="when">2025-03-07 05:48 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>[deleted]</p></div></div>
   <div class="body"><div class="md-body"><p>What I meant there was closer to the second way you phrased it. The practical difference is that questioning and doubting things you do not have faith in does not require courage. Questioning and doubting that which you have faith in requires a lot of courage, which can only be supplied by the sufficient degree and quality of faith. </p>
 <p>It is an extension of the other things I wrote about faith that you quoted above: whether faith is blind or not blind.<br />
 Someone who has faith in God, for example, will always know 'deep down' that if they question and doubt the basis of that faith enough, it will cause them to lose their faith in God. (Because God is a contradiction and faith in it is equally so, and therefore can only be a blind faith.) Faith in God can thus never give you the courage to go beyond faith. </p>
 <p>Faith in the dhamma can give you the courage to go beyond that faith, but only if the faith is not blind. Otherwise, though you might say you have faith in the dhamma, for you it's just another God.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mghgy9t">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mghgy9t/">Sister_Medhini</a><span class="when">2025-03-07 09:36 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to kellerdellinger:</strong><br><div class="md-body"><p>After reading and re-reading and contemplating and re-contemplating your comment I began to have difficulty discerning what our actual disagreement was. It seemed to me that much of what you wrote in this comment was something I had previously written or at least alluded to in this thread in different words. But I think I may have reached the heart of the matter and will summarize below what I think it is you've been trying to communicate to me for confirmation.</p>
+</div>
+</article>
+<article class="comment parent" id="c-mgglrbf">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mgglrbf/">kellerdellinger</a></div>
+  <div class="body"><div class="md-body"><p>After reading and re-reading and contemplating and re-contemplating your comment I began to have difficulty discerning what our actual disagreement was. It seemed to me that much of what you wrote in this comment was something I had previously written or at least alluded to in this thread in different words. But I think I may have reached the heart of the matter and will summarize below what I think it is you've been trying to communicate to me for confirmation.</p>
 <p>Where it seems I went wrong is inadvertently equating dependence on <strong>arising</strong> (and therefore also dependence on ceasing, i.e. <em>anicca</em>) with dependence on <strong>time</strong>, when the truth is the exact opposite. Saying that things are dependent on arising is in fact the same as saying that they are <strong>independent</strong> of time, and that situation applies not just to "principles" that might be magically conceived to be above and beyond time in the metaphysical sense (which is conceiving that they are independent of <strong>arising</strong> in the more proper sense) but to all things in general.</p>
 <p>What you called the stability or timelessness of things is what I was alluding to in my comment about the fullness of the meaning and truth of things "in their own time," but that verbage was chosen based on my mistake: I was still equating arising with temporality. I should have written "in their own <strong>arising</strong>," because things do not, as you wrote, arise <strong>in</strong> time. They do not have "their own time," they do not "carry" time with themselves. To the contrary, total independence from time is intrinsic to the thing-ness of things.</p>
 <p>And in a sense that mistake was something I was authentically trying to get away from by repetitively "including within" as we are all often instructed. I was including things (especially that thing which now holds the most emotional energy for me, the Dhamma and my attempt to understand it) "within their own time" in order to try to avoid conceiving them to be permanent sources of satisfaction to latch onto as you discussed. I thought to escape Māra by giving him even the whole of my future and the hypothetical enlightenment that might occur within it, forsaking all hope of future understanding or safety in the hope that that might be what does eventually grant me the understanding and safety I do desire. But by "radically" allowing for the possibility that the truth value of the Dhamma might forever bounce back and forth between 0 and 1; true, then false, then true again, false again; yet still "humbly" submitting myself to living as if it were true no matter what so as to somehow make? it permanently true and thereby Arrive at Ultimate Dispassion and independence of time, triumphing over Māra by just handing him over the whole deck of cards---all of that was still conceiving the truth of things to be "out there", within and dependent on time, amendable to permanence. After pulling back from yearning for The Dhamma Out There In The Future I still landed in a place where I was placing the Dhamma out there in the future in a more subtle way, out there in the future "but only maybe." "I'll live it even if it isn't truly out there in the future" still allowed for the possibility that it was truly out there in the future. I was trying to include everything within the yoni, trying to make sure I didn't think of the Dhamma as a permanent truth independent of the yoni so as to make it into something to latch onto, but I was still thinking of that yoni as the time and space that things exist within, which ensured that I was still inadvertently thinking of the Dhamma as independent of the actual yoni. I was thinking of impermanence as dependence on time rather than seeing impermanence proper, the eternal impermanence of eternal things eternally independent of space and time. </p>
 <p>Which is something I have faith that I still don't see by virtue of not being free from suffering, but hopefully via this conversation I have moved a bit closer to it. I hope at least that I have understood you in a superficial, theoretical way. Please let me know if I still have not yet arrived even at that.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mghgy9t">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iz4w6r/looking_for_a_practical_model/mghgy9t/">Sister_Medhini</a><span class="when">2025-03-07 09:36 UTC</span></div>
   <div class="body"><div class="md-body"><p>Yes, that sounds right. It was pretty much what I was getting when I wrote that it's not necessary to think of The Dhamma as in any sense different, separate, above, special or apart from <em>any</em> dhamma (thing). (Which was obviously not what you were saying or explicitly thinking, but it was what was implied in it. [i.e. on the level of 'intention behind the action'.])  </p>
 <p>In a sense the theoretical 'disagreement' as I said before at a couple of points, is not necessarily a very important one; depending on how much weight you give to the views vs the non-acting-out of craving. Rather than, say, 'trying to put this new understanding into practice,' you could, (and would probably be safest to) basically put all of it aside, keep it at the back of the mind leaving a kind of 'potential gap' for it to be upgraded, and just see (allow to be what it is) the intention that is <strong>behind</strong> whatever you are doing whether on a broad or particular level. And not act out of craving. That's the most relevant 'yoni'. </p>
 <p>Otherwise, the one significant point you didn't mention here which is probably worth mentioning:   </p>
@@ -314,6 +334,8 @@ Someone who has faith in God, for example, will always know 'deep down' that if 
 <p>So, really, it would be more accurate from your point of view to think of general natures/principles of things <em>as actually independent of arising</em>, and <strong>allow them to be there</strong> as such, because for you that IS how they are. Only by sufficiently allowing that 'outsideness' of them to be what it is, can that factual 'outsideness' be UNDERSTOOD on its own terms, such that all the above theory actually 'lands' in the way that makes you unable to suffer even if you want to.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -322,5 +344,7 @@ Someone who has faith in God, for example, will always know 'deep down' that if 
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

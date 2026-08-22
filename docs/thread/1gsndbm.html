@@ -6,6 +6,9 @@
   <title>Meditation/Contemplation prior to Stream Entry · 2024</title>
   <meta name="description" content="Meditation/Contemplation prior to Stream Entry">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -36,10 +43,15 @@
 <p>Is it still practically viable to be mindful of hindrances in mind or is it better to wait on that one. Also I do know there was a video about isolating mind and hindrance and "seeing it" in play and over time mind will become tame. I f someone can point me to that or give a good explanation on it I would be grateful.</p>
 <p>Thanks all,</p>
 <p>Eric T</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lxk84c5">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1gsndbm/meditationcontemplation_prior_to_stream_entry/lxk84c5/">Bhikkhu_Anigha</a><span class="when">2024-11-17 07:17 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Just to be clear, there aren't any contemplations or practices that will lead you to stream entry just because you do them, inasmuch as there isn't a magical food that will get cooked even if the pan that you put it in is cold. What leads to stream entry, or any noble attainment, is purifying your mind from obstructions, from the "dust" that blocks clear seeing (greed, aversion, and distraction). If you have sufficiently removed that, any basic reflection—say, of how you're liable to sickness, aging, and death whether you like it or not—would reveal and signify the Dhamma.</p>
 <p>The problem of a <em>puthujjana</em> (assuming he's had plenty of instruction, as you say you have) isn't that he doesn't know what to contemplate. It's that whatever he contemplates won't sink in deeply enough because there's too much dust in his eyes still (or, in another simile, <a href="https://suttas.hillsidehermitage.org/?q=mn36#mn36:17.1_mn36:17.13" rel="noopener noreferrer" target="_blank">the log is still too wet to light a fire</a>). Therefore, <a href="https://suttas.hillsidehermitage.org/?q=mn24" rel="noopener noreferrer" target="_blank">purification of view hinges on purification of mind, which in turn hinges on purification of virtue.</a></p>
 <p>If you have at least the information about what needs to be understood, understanding will arise on its own if the work of abandoning the hindrances in every aspect of your life has been sufficiently completed (which takes years).</p>
@@ -54,5 +66,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

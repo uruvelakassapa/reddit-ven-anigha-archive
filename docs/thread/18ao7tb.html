@@ -6,6 +6,9 @@
   <title>Why is it that greed, aversion, delusion will go away with the right context? · 2023</title>
   <meta name="description" content="Why is it that greed, aversion, delusion will go away with the right context?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/18ao7tb/why_is_it_that_greed_aversion_delusion_will_go/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>In various talks, it has been expressed that if one were contemplating the nature of things in the right order/context, then greed, aversion, delusion will naturally subside, given that one is already practicing sense restraint, keeping the 8 precepts, etc. (apologies for any poor paraphrasing).  Why/how is this the case?  Is it because with the right context in mind, the "I-making" / "self-making" is (gradually) reduced, resulting in decreasing appropriation of sensual pleasures and concomitant increase in dispassion?</p>
 <p>And is it fair to say that as long as there is greed, aversion, and delusion, then one is definitely not practicing with the right context?  Or does greed, aversion, and delusion take time to diminish even if one is practicing right context correctly?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kc33po5">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/18ao7tb/why_is_it_that_greed_aversion_delusion_will_go/kc33po5/">Bhikkhu_Anigha</a><span class="when">2023-12-05 12:20 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>It's because greed, aversion, and delusion (rāga-dosa-moha) all have their roots in ignorance (avijjā), so when there is knowledge instead of ignorance, they cannot remain. Those 3 things are basically just <em>symptoms</em> of ignorance, which is the core illness.</p>
 <p>In the case you mention of sensual pleasures, it's the ignorance of their true nature, as impermanent and unsatisfactory, that makes one have lust for them in the first place. So that's why one should not be trying to get rid of lust directly, but only re-establish the right context regarding whatever one is lustful about, and so, again, treat the illness of ignorance instead of its symptoms.</p>
 <blockquote>
@@ -48,5 +60,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

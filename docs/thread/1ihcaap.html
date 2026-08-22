@@ -6,6 +6,9 @@
   <title>What about tears from sadness or joy ? · 2025</title>
   <meta name="description" content="What about tears from sadness or joy ?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>The right attitude towards instances of aversion or craving as enduring the pressure without either giving in or managing it and with no hope for it to disappear seems pretty straightforward. Still, concerning tearing up out of joy or grief or just because a fleeting moment of sadness swells up unexpectedly I wonder what would be the right attitude.</p>
 <p>Indeed, I can't really pinpoint where the resistance is and so not resisting more or less ends up meaning letting it out and letting the tears flow. Also, a corner of my mind won't let go of the common knowledge that at least in the grief process, tearing up is in fact considered part of a healing process. It is often cathartic for people who repressed it and finally let it out and end up feeling a weight has been lift up from them. FYI, I'm not grieving at the moment.</p>
 <p>What do you think would be the right attitude ?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mawdott">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ihcaap/what_about_tears_from_sadness_or_joy/mawdott/">Bhikkhu_Anigha</a><span class="when">2025-02-04 10:06 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>The right attitude towards instances of aversion or craving as enduring the pressure without either giving in or managing it and with no hope for it to disappear seems pretty straightforward. </p>
 </blockquote>
@@ -44,14 +56,19 @@
 <p>Perhaps. But the Dhamma is not about "healing"; it's about never getting hurt in the first place.</p></div></div>
   
 </article>
+<article class="comment parent" id="c-mawhv9m">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ihcaap/what_about_tears_from_sadness_or_joy/mawhv9m/">obobinde</a></div>
+  <div class="body"><div class="md-body"><p>Thank you Bhante ! So to be clear, if tears swell up for whatever reason (joy, grief...) would it be a correct observation to acknowledge first that this is because at the root there must have been unaddressed accumulated craving and then recollect that this body brings all of those reactions (tears) and feelings without my say into it ?</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-max3znh">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ihcaap/what_about_tears_from_sadness_or_joy/max3znh/">Bhikkhu_Anigha</a><span class="when">2025-02-04 13:36 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to obobinde:</strong><br><div class="md-body"><p>Thank you Bhante ! So to be clear, if tears swell up for whatever reason (joy, grief...) would it be a correct observation to acknowledge first that this is because at the root there must have been unaddressed accumulated craving and then recollect that this body brings all of those reactions (tears) and feelings without my say into it ?</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>recollect that this body brings all of those reactions (tears) and feelings without my say into it ?</p>
 </blockquote>
 <p>Even if in theory you don't have a say in it at that time, it's because you yourself set the ball rolling already and now it's too late to immediately stop it. So don't try to gain relief from the pain in the moment by acknowleding and recollecting something or the other—which is looking for safety in management. Instead, now that you've been forcefully reminded of the undesirable consequences that doing so brings, use that to strengthen your resolve not to act out of craving from now onwards, regardless of whether things are going well or not. Recollect what will happen when you notice yourself getting heedless again.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -61,5 +78,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Root of hindrances · 2024</title>
   <meta name="description" content="Root of hindrances">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -39,10 +46,15 @@
 <p>Or should one work on these expectations and free themselves from it so that the hindrances can't appear because of it in the first place?</p>
 <p>&#x200B;</p>
 <p>I come to you essentially because I don't exclude that there is a possibility the hindrances were already there and that it could be why circumstances not meeting expectations resulted in symptoms of ill-will and agitation, since this doesn't appear to me to be the case I might have it completely backward and the task could then be more daunting than what I thought.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kojiso4">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1afe5du/root_of_hindrances/kojiso4/">Bhikkhu_Anigha</a><span class="when">2024-02-02 04:02 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Is there a need to keep digging at the root of the hindrances after or during the process?</p>
 </blockquote>
@@ -51,9 +63,9 @@
 <p>So, it's not the expectations that you have about other people, or anything else that you could be aware of by <em>trying</em> to be aware of it by choice. It's something that will eventually become apparent by itself only once the mind  has become steady at the level where there is no further work to be done regarding body and speech. And that alone should result in a certain degree of<a href="https://www.youtube.com/watch?v=uoOIYwY39eE" rel="noopener noreferrer" target="_blank"> "blameless ease".</a></p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kokzzp7">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1afe5du/root_of_hindrances/kokzzp7/">Bhikkhu_Anigha</a><span class="when">2024-02-02 13:16 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to GachiOnFire:</strong><br><div class="md-body"><p>Thank you Bhante.</p>
+<article class="comment parent" id="c-kokc0mb">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1afe5du/root_of_hindrances/kokc0mb/">GachiOnFire</a></div>
+  <div class="body"><div class="md-body"><p>Thank you Bhante.</p>
 <p>&#x200B;</p>
 <p>So were I mixed things up is that one doesn't have to restraint themselves until they are able to recognize when their intentions are rooted in the hindrances, but rather until they are able to recognize when their intentions are rooted in taṇhā in relation to contact/feeling <strong>resulting</strong> in them acting out in the form of the hindrances?</p>
 <p>&#x200B;</p>
@@ -66,6 +78,9 @@
 <p>And I'm wondering if this isn't because I didn't develop enough the contentment in the virtuous behavior, so when big pressure is there the choice going with the thoughts "why should I resist and make myself feel so bad? Clearly acting out will release me from that unpleasant moment" takes over the other one "let's not give in but take pleasure in being able to renounce this unvirtuous behavior".</p>
 <p>&#x200B;</p>
 <p>Edit: Or maybe I just didn't resist those actions enough time so the trench digged by water isn't filled up enough yet and water still just flows naturally there to take a simile I heard from the Ajahn, but I feel like I've been seeing this for years, trying to resist the urge more or less succesfully, and the trench is still there though slightly less deep.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kokzzp7">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1afe5du/root_of_hindrances/kokzzp7/">Bhikkhu_Anigha</a><span class="when">2024-02-02 13:16 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>So were I mixed things up is that one doesn't have to restraint themselves until they are able to recognize when their intentions are rooted in the hindrances, but rather until they are able to recognize when their intentions are rooted in taṇhā in relation to contact/feeling <strong>resulting</strong> in them acting out in the form of the hindrances?</p>
 </blockquote>
@@ -86,6 +101,8 @@ Seeing perfectly well what I could do, there is then a pressure as if this is wh
 <p>—<a href="https://suttacentral.net/an8.19" rel="noopener noreferrer" target="_blank">AN 8.19</a></p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -94,5 +111,7 @@ Seeing perfectly well what I could do, there is then a pressure as if this is wh
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

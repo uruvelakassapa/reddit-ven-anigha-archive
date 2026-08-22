@@ -6,6 +6,9 @@
   <title>Question about discerning wholesome from unwholesome action · 2023</title>
   <meta name="description" content="Question about discerning wholesome from unwholesome action">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -32,10 +39,15 @@
 <p>Example: You identified sexual intercourse above as antithetical to wholesome conduct, and obviously celibacy is a part of monastic life. On the other hand, I frequently see on the posted videos Ajahn Nyanamoli and others engaged in playing with and petting the dogs around the hermitage.  Now, obviously, sexual intercourse and caring for or playing with animals bear little resemblance in most ways. But, since I'm drawing the comparison in order to try to tease out the <strong>principle criterion</strong> by  which one judges such actions: Both involve voluntary interactions between two living entities that seemingly derive enjoyment from the interaction, get beneficial exercise from the act, and (assuming a  healthy relationship) sustain no obvious harm aside from potentially becoming accustomed to it in a way that would be unpleasant if the opportunity were removed.</p>
 <p>Would the play with the dogs be unwholesome if one were to crave it and feel a loss when it's unavailable, and would consensual sex remain harmless if one were okay taking it or leaving it... or are there other factors that come into play? (If you find it inappropriate to discuss sex in the way this  question requires, please swap another example such as listening to music or anything else in its place). Thank you!</p>
 <p>&#x200B;</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-k7axyp7">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17kezz0/question_about_discerning_wholesome_from/k7axyp7/">Bhikkhu_Anigha</a><span class="when">2023-11-01 00:23 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>How are we to judge  whether an action or intention is skillful/wholesome rather than the opposite, when it seems like <strong>anything other than sitting perfectly still  and dispassionately awaiting starvation and death necessarily entails  some manner of discomfort avoidance or expectation of pleasantness?</strong> </p>
 </blockquote>
@@ -71,9 +83,9 @@
 <p>Sure, that itch can be present with almost any other action as well, including the dog example, but the point is, it doesn't <em>have</em> to be, and one thing for sure, scratching any other itch will not be as hindering to the application of the cure to the skin condition.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-k7c9j7b">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17kezz0/question_about_discerning_wholesome_from/k7c9j7b/">Bhikkhu_Anigha</a><span class="when">2023-11-01 08:22 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Handsome_God123:</strong><br><div class="md-body"><p>Bhante thank you for the answer. I also always have this question in my mind, also thanks to the OP for asking it.</p>
+<article class="comment parent" id="c-k7c4xtj">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17kezz0/question_about_discerning_wholesome_from/k7c4xtj/">Handsome_God123</a></div>
+  <div class="body"><div class="md-body"><p>Bhante thank you for the answer. I also always have this question in my mind, also thanks to the OP for asking it.</p>
 <p>&#x200B;</p>
 <p>You being in this subreddit is something we are really grateful for Bhante. I don't really speak English that good so I miss some things Ajahn Nyanamoli say in videos. You being here helps clarifying lots of the teachings.</p>
 <p>&#x200B;</p>
@@ -81,6 +93,9 @@
 <p>In the example of the dogs, if you know internally that you will not be affected if those dogs die or are taken from you the next moment, there is no problem at all, and it is perfectly possible for the mind to be dispassionate during that action, regardless of how it looks to others who still don't know what dispassion is.</p>
 </blockquote>
 <p>Bhante what about if it's platonic relationship with parents, siblings or friends where we seem passionate and hug each other a lot. Can we be not affected with them dying like we do with the dogs or is it unavoidable like lust being present in sexual relationship?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-k7c9j7b">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17kezz0/question_about_discerning_wholesome_from/k7c9j7b/">Bhikkhu_Anigha</a><span class="when">2023-11-01 08:22 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Bhante what about if it's platonic relationship with parents, siblings or friends where we seem passionate and hug each other a lot. Can we be not affected with them dying like we do with the dogs or is it unavoidable like lust being present in sexual relationship?</p>
 </blockquote>
@@ -93,6 +108,8 @@
 <p>(The things that a purified mind categorically cannot have any interest in are the specific actions listed in <a href="https://suttacentral.net/an9.7" rel="noopener noreferrer" target="_blank">AN 9.7</a>).</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -101,5 +118,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

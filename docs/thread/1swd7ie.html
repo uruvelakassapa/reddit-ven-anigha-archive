@@ -6,6 +6,9 @@
   <title>Storage, items and Monks · 2026</title>
   <meta name="description" content="Storage, items and Monks">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>Storage, items and Monks</h2>
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/1swd7ie/storage_items_and_monks/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>What degree of personal items is allowable or a good idea for someone who is considering becoming a monk? The HH monks seem to have phones, maybe even laptops, cameras, audio equipment, have presumably used tickets, probably have medicines etc. What is reasonable? I have read that the rules about personal possession of even medicine like frankincense is very restricted, you couldn't have 200 grams on your person it seems without breaking a rule. Ofc many monks even use money which is unambiguously bad. What should I get for myself? Can I get a tent and a nice backpack? An e-ink-tablet? A small camera? Some pens? An Mp3/4? </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-oii4gds">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1swd7ie/storage_items_and_monks/oii4gds/">Bhikkhu_Anigha</a><span class="when">2026-04-27 04:49 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>I have read that the rules about personal possession of even medicine like frankincense is very restricted, you couldn't have 200 grams on your person it seems without breaking a rule. </p>
 </blockquote>
@@ -46,5 +58,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

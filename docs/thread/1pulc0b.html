@@ -6,6 +6,9 @@
   <title>Sloth and sensual pleasures? · 2025</title>
   <meta name="description" content="Sloth and sensual pleasures?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>Hello,</p>
 <p>I have a question regarding practice. Basically i'm doing quite well to sense restraint and keep the precepts when I can actively feel that I don't feel very (sensually) good -- so in cases like boredom, anxiety or when I have some sensual cravings but overall don't feel calm and well. The problem arise when I dwell in sensual pleasure  (like upon watching a movie that generated various positive emotions/sensations or I felt sort of identification with the story) and I feel overall "good" and "at ease". When that happens it's harder to me to be motivated for sense restraint and seeking freedom from the sensual pleasures because this state feels good. And basically I go to some sloth-state when I'm not really motivated to change much at that moment.</p>
 <p>So my question is what should I do to not lose that motivation and not be "baited" so easily by sensual pleasures?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-nvtq5vp">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pulc0b/sloth_and_sensual_pleasures/nvtq5vp/">Sister_Medhini</a><span class="when">2025-12-25 04:33 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>The problem arise when I dwell in sensual pleasure  (like upon watching a movie that generated various positive emotions/sensations or I felt sort of identification with the story) and I feel overall "good" and "at ease".</p>
 <p>So my question is what should I do to not lose that motivation and not be "baited" so easily by sensual pleasures?</p>
@@ -42,13 +54,16 @@
 <p>If you start restraining on this level you will have no shortage of anxiety and unease coming up while learning to tune it properly. That should keep you sufficiently motivated.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-nvvng0l">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pulc0b/sloth_and_sensual_pleasures/nvvng0l/">Sister_Medhini</a><span class="when">2025-12-25 15:15 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Dhingy1996:</strong><br><div class="md-body"><p>Hello Ayya,</p>
+<article class="comment parent" id="c-nvvhptw">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pulc0b/sloth_and_sensual_pleasures/nvvhptw/">Dhingy1996</a></div>
+  <div class="body"><div class="md-body"><p>Hello Ayya,</p>
 <p>I’ve heard Ajahn talk about how one should reflect on whether the mind is still liable to passion and aversion during seclusion if one finds that there’s not much bothering one. A way to bring out the defilements in a more controlled manner. </p>
 <p>For example, would it be beneficial to bring up certain content that used to stir up lust or aversion in one? To check if the mind “leaps up at sensuality”.</p>
 <p>I ask this because I’m unsure if there are certain things that are always unbeneficial to bring up and should be avoided. For instance, would deliberately bringing up a sexual memory to check if the mind remains composed or not be counterproductive?</p>
 <p>I also realize that this could indeed also become another activity one does during their seclusion as a way to have something to do—to avoid the pain of boredom or doubt. Is there a way to tell when it’s productive to reflect on “agitating content” in this way and when it’s better to just patiently be watchful and “watch the cows”?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-nvvng0l">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pulc0b/sloth_and_sensual_pleasures/nvvng0l/">Sister_Medhini</a><span class="when">2025-12-25 15:15 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>reflect on whether the mind is still liable to passion and aversion </p>
 </blockquote>
@@ -68,6 +83,8 @@
 <p>The right agitating content to reflect on are things like sickness, ageing, losing loved ones or dear things, your comfort zones being threatened. If these become too agitating, reflect on the value of being free from suffering and whether your day to day actions are in accordance with it.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -76,5 +93,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

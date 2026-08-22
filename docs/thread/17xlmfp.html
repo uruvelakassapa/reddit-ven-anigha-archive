@@ -6,6 +6,9 @@
   <title>Question about this HH video ??? · 2023</title>
   <meta name="description" content="Question about this HH video ???">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -28,10 +35,15 @@
       <p class="meta"><a href="https://www.reddit.com/r/HillsideHermitage/comments/17xlmfp/question_about_this_hh_video/">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>At the 58 minute mark in this absolute gem of a Dhamma discussion they go really deep about not assuming an external self to your present experience. Upon repeated listens I think I’m starting to get it. But can someone give me a good example of a typical wrong assumption of an external self that I’m sure we all have the habit of doing. If I’m making any sense here?? lol</p>
 <p>https://youtu.be/wZoIwMQHoc4?si=7ZCPesLcsIApAeL0</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-k9qmeo4">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17xlmfp/question_about_this_hh_video/k9qmeo4/">Bhikkhu_Anigha</a><span class="when">2023-11-18 06:50 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>I think I’m starting to get it. </p>
 </blockquote>
@@ -73,5 +85,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

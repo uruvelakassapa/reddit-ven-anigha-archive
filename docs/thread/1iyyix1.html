@@ -6,6 +6,9 @@
   <title>Renouncing the renunciation, question for HH and a possible critique · 2025</title>
   <meta name="description" content="Renouncing the renunciation, question for HH and a possible critique">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -35,10 +42,15 @@
 <li>In the <strong>Sigalovada Sutta</strong> (<em><a href="https://suttacentral.net/dn31" rel="noopener noreferrer" target="_blank">DN 31</a></em>), which addresses householders, the Buddha provides guidance on how to conduct relationships ethically, indicating that sexual conduct within a marriage is considered acceptable for laypeople.</li>
 </ol>
 <p>So this gives me a picture that "yes I can still be a sotapanna and it doesn't matter what anyone says", but if on the other hand I am wrong and don't see it I'd rather know</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mf2ddfx">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mf2ddfx/">Bhikkhu_Anigha</a><span class="when">2025-02-27 13:22 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Thinking in terms of how many precepts to follow depending on what type of person you are externally means remaining bound to silabbataparamasa, rather than your actions being guided by direct insight of kusala and akusala, which is what defines a sotapanna.</p>
 <p>The fact that the Suttas mention the five precepts for laypeople doesn't mean that they went about their lives doing whatever they wanted except those five things, while somehow practicing the Dhamma nevertheless. It means that was the lowest common denominator that they would not go below even in their most heedless moments. When they made efforts in the practice, they would have to have developed the exact same right intention (of renunciation, non-aversion, and non-cruelty) as monks. </p>
 <p>It's one thing to not be able to fulfill renunciation all at once, and entirely another to redefine what the goal is so that renunciation becomes optional. Even if you then call it "Dhamma" and "noble eightfold path," it's something else now.</p>
@@ -58,14 +70,17 @@ so they’re bound to children, spouses, and wealth.</p>
 <p>(Edit: Note also that the lay disciples the Buddha <a href="https://suttacentral.net/an4.176/en/sujato?lang=en&amp;layout=sidebyside&amp;reference=none&amp;notes=asterisk&amp;highlight=true&amp;script=latin" rel="noopener noreferrer" target="_blank">established as role models</a> were anāgamis, i.e. had abandoned sensuality).</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mf7ewrz">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mf7ewrz/">Bhikkhu_Anigha</a><span class="when">2025-02-28 05:26 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Ok_Watercress_4596:</strong><br><div class="md-body"><p>What if the entire Pali Canon is just a load of random concepts that we can then interpret however we like, hypothetically of course.<br />
+<article class="comment parent" id="c-mf2wu0f">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mf2wu0f/">Ok_Watercress_4596</a></div>
+  <div class="body"><div class="md-body"><p>What if the entire Pali Canon is just a load of random concepts that we can then interpret however we like, hypothetically of course.<br />
 What you're saying sounds like all these sotapannas were 100% focused on renunciation, but as soon as sotapatti they just regressed back to the 5 precepts which does not sound right. If they really took anagamis as example they would be able to get sakadagami at least, the picture of them you create indeed does not seem authentic. I can take the arahant as example, but if i dont act like an arahant when will i become one? If they took anagamis as example they'd get higher than stream-entry.<br />
 If sotapanna is UNABLE to do those 5 things, same as Arahant is unable to come back and live in the world that is actually a better framework of what is possible without creating false expectations, setting people up for failure because the only goal must be nibbana, even though its not the only goal a person can have, while some degree of awakening is good for everyone and benefits the world and reduces suffering.<br />
 It means exactly that they went about their lives doing whatever they wanted within the 5 precepts, because they were UNABLE to break them.<br />
 Attachment and non-attachment are two opposite directions, but people define what is what differently and this is the crucial point. I'm starting to believe that it is possible to practice non attachment and overcoming the bondage within the world, because the bondage is not in the world and worldly things. <br />
 Sorry if it's a bit unstructured, it's hard to read and answer from the phone</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mf7ewrz">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mf7ewrz/">Bhikkhu_Anigha</a><span class="when">2025-02-28 05:26 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>setting people up for failure because the only goal must be nibbana, even though its not the only goal a person can have, while some degree of awakening is good for everyone and benefits the world and reduces suffering</p>
 </blockquote>
@@ -83,24 +98,36 @@ Sorry if it's a bit unstructured, it's hard to read and answer from the phone</p
 <p>There's no shame in admitting that actually giving up craving is difficult and you don't feel like doing it. Almost nobody does. But twisting the Dhamma so that you can reconcile sensuality with it is not a good move, and there's no justification for it. Nobody's forcing you to practice the Dhamma.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mfx9niy">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mfx9niy/">Bhikkhu_Anigha</a><span class="when">2025-03-04 07:08 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to timedrapery:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-mfsqlxy">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mfsqlxy/">timedrapery</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>Furthermore, what if, hypothetically, all those stories of householders attaining sotapatti were actually made up to make Buddhism more appealing to the common layperson? You can't know for sure. </p>
 </blockquote>
 <p>Why not extend this logic further and make the same statement regarding arahantship and monastics...? I mean, there's likely a substantial reason why those hearers of the discourse described within <a href="https://suttacentral.net/mn1" rel="noopener noreferrer" target="_blank">MN 1</a> close it out with, "<a href="https://suttacentral.net/mn1/en/sujato?lang=en&amp;layout=plain&amp;reference=none&amp;notes=none&amp;highlight=false&amp;script=latin" rel="noopener noreferrer" target="_blank">... the mendicants did not approve what the Buddha said.</a>"</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mfx9niy">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mfx9niy/">Bhikkhu_Anigha</a><span class="when">2025-03-04 07:08 UTC</span></div>
   <div class="body"><div class="md-body"><p>Sure, it's not like every monastic was an Arahant or even an ariya. Even the Suttas don’t claim otherwise. And the reason would have been the same as for laypeople who failed to attain anything despite hearing the Dhamma many times: <a href="https://suttas.hillsidehermitage.org/?q=mn36#mn36:18.11_mn36:18.12" rel="noopener noreferrer" target="_blank">a mind still obstructed by passion</a>.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-mfy1a6b">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mfy1a6b/">Belozersky</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, that sutta talks about supreme awakening, and AFAIK stream entry is not a supreme awakening.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-mfydrzp">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mfydrzp/">Bhikkhu_Anigha</a><span class="when">2025-03-04 13:12 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Belozersky:</strong><br><div class="md-body"><p>Bhante, that sutta talks about supreme awakening, and AFAIK stream entry is not a supreme awakening.</p></div></div>
   <div class="body"><div class="md-body"><p>The point is everywhere in the Suttas, not just there. The stock description of people seeing the Dhamma always involves <a href="https://suttas.hillsidehermitage.org/?q=mn56#mn56:18.1_mn56:18.8" rel="noopener noreferrer" target="_blank">their minds turning away from sensuality first</a>, upon recognizing its peril.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mg3s483">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mg3s483/">Bhikkhu_Anigha</a><span class="when">2025-03-05 06:06 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to timedrapery:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-mg1ojcd">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mg1ojcd/">timedrapery</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>You can't know for sure.  </p>
 </blockquote>
 <p>again, this simply <em>is not accurate</em>... you <em>will</em> know <em>for sure</em> if you <em>look</em> and <em>see</em>  </p>
@@ -131,6 +158,9 @@ Sorry if it's a bit unstructured, it's hard to read and answer from the phone</p
 <p>thank you very much for your attention and your time, i really appreciate the opportunity to discuss the dhamma with you here in this setting and I very much look forward to reading your responses  </p>
 <p>please take care and enjoy what you're doing  </p>
 <p>🙏</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mg3s483">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mg3s483/">Bhikkhu_Anigha</a><span class="when">2025-03-05 06:06 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>would you please explain why you made this statement that appears, to me, to not be in accordance with the two characteristics of the buddha's dhamma that i've included below?</p>
 </blockquote>
@@ -141,9 +171,11 @@ Sorry if it's a bit unstructured, it's hard to read and answer from the phone</p
 <p>The Dhamma itself is independent of time, but the <em>realization</em> of the Dhamma <a href="https://suttacentral.net/an8.19/en/sujato?lang=en&amp;layout=plain&amp;reference=main&amp;notes=asterisk&amp;highlight=false&amp;script=latin#10.6" rel="noopener noreferrer" target="_blank">is gradual and requires time</a>.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mg4g21b">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mg4g21b/">Bhikkhu_Anigha</a><span class="when">2025-03-05 10:00 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to timedrapery:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-mg49vda">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mg49vda/">timedrapery</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>And as I think I made clear, the statement was mainly rhetorical.  </p>
 </blockquote>
 <p>You did not at all make that clear, most of the reason it wasn't clear is I do not understand what you could've possibly been attempting to persuade your audience towards or away from by employing that talking point in a rhetorical manner  </p>
@@ -165,6 +197,9 @@ Sorry if it's a bit unstructured, it's hard to read and answer from the phone</p
 <p>If not, why bother with it when looking, seeing, changing, congratulating, and remembering to do these things again and again all <em>do</em> bring about an immediate relief from dissatisfaction without even requiring basic literacy in a modern language, much less Pāḷi  </p>
 <p>Thank you again for your time and your engagement with me on this, I really appreciate you and what you're doing  </p>
 <p>I look forward to hearing from you again soon, in the meantime I hope you really enjoy whatever you find yourself doing</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mg4g21b">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1iyyix1/renouncing_the_renunciation_question_for_hh_and_a/mg4g21b/">Bhikkhu_Anigha</a><span class="when">2025-03-05 10:00 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Why make this rhetorical statement if that's indeed what you were doing? I really want to understand where you're coming from</p>
 </blockquote>
@@ -179,6 +214,8 @@ Sorry if it's a bit unstructured, it's hard to read and answer from the phone</p
 <p>No, and I never claimed otherwise. I do agree that the end of dissatisfaction comes from a fundamentally different kind of knowledge, and that knowledge and the path to attaining it are the subject of many of the discussions on this forum. On the other hand, I strongly disagree that the "immediate result" produced by the practice you propose is the true ending of dissatisfaction. That said, you seem quite convinced—so to each their own.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -187,5 +224,7 @@ Sorry if it's a bit unstructured, it's hard to read and answer from the phone</p
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

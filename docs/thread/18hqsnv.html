@@ -6,6 +6,9 @@
   <title>What are the light and visions of forms talked about in MN 128 ? · 2023</title>
   <meta name="description" content="What are the light and visions of forms talked about in MN 128 ?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -31,10 +38,15 @@
 <p>“Well, sir, while meditating diligent, keen, and resolute, we perceive both light and vision of forms. But before long the light and the vision of forms vanish. We haven’t worked out the reason for that.”</p>
 <p>“Well, you should work out the reason for that. Before my awakening—when I was still unawakened but intent on awakening—I too perceived both light and vision of forms. But before long my light and vision of forms vanished. It occurred to me: ‘What’s the cause, what’s the reason why my light and vision of forms vanish?’ It occurred to me: ‘Doubt arose in me, and because of that my immersion fell away. When immersion falls away, the light and vision of forms vanish. I’ll make sure that doubt will not arise in me again.’</p>
 <p>The way it's framed though, make it seem like the light and visions of forms are a good thing that may disappear on account of various mental faults. It also reminds me of the orthodox understanding of the nimitta. Any idea how we should interpret it ?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kdb8dz0">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/18hqsnv/what_are_the_light_and_visions_of_forms_talked/kdb8dz0/">Bhikkhu_Anigha</a><span class="when">2023-12-14 12:19 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>https://www.youtube.com/watch?v=3P-Z3RvBY_c&amp;ab_channel=HillsideHermitage</p></div></div>
   
 </article>
@@ -46,5 +58,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

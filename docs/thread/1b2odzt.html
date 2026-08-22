@@ -6,6 +6,9 @@
   <title>How to abandon deeply rooted views/goals · 2024</title>
   <meta name="description" content="How to abandon deeply rooted views/goals">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -36,10 +43,15 @@
 <li>Pain from that suppression.</li>
 </ol>
 <p>How do I remove this habit from my mind, and in general other bad (habitual/automatic) habits? </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ksyv576">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1b2odzt/how_to_abandon_deeply_rooted_viewsgoals/ksyv576/">Bhikkhu_Anigha</a><span class="when">2024-03-02 06:10 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>You don't need to remove the habit directly. You just have to recognize that now, while that habit its taking place, you have a choice to simply recognize the "mind that wants to suppress" as "mind that wants to suppress", and simply not act out of it. That's how you would actually remove the fuel that's feeding that mental state.</p>
 <p>If you try to suppress the intention to suppress, you are actually feeding exactly the same habit in the name of overcoming it.</p>
 <blockquote>
@@ -59,5 +71,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

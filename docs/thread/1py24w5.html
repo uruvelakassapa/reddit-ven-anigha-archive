@@ -6,6 +6,9 @@
   <title>Sense restraint prior to virtue. · 2025</title>
   <meta name="description" content="Sense restraint prior to virtue.">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -32,10 +39,15 @@
 <p>Edit:</p>
 <p><a href="https://suttacentral.net/sn46.6" rel="noopener noreferrer" target="_blank">SN 46.6</a> was the sutta I was looking for.</p>
 <p>The talk is thus: <a href="https://www.youtube.com/watch?v=LeDJTm93QLA" rel="noopener noreferrer" target="_blank">No restraint, No Satipatthana</a>, posted 6 months ago.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-nwi7mv9">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1py24w5/sense_restraint_prior_to_virtue/nwi7mv9/">Bhikkhu_Anigha</a><span class="when">2025-12-29 06:49 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>expounded by a nun to a layman.</p>
 </blockquote>
@@ -51,5 +63,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

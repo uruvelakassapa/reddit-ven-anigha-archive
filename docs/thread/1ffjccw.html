@@ -6,6 +6,9 @@
   <title>Seeing things as things  · 2024</title>
   <meta name="description" content="Seeing things as things ">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>All things stand on equal footing, that is to say they are manifest. What ever is does not reach beyond that. What ever seems otherwise is not seen in its nature rather it's content is taken to be that which it implies.</p>
 <p>For some time I have been trying to understand yoniso manasikara yet whatever attempt I made it was just another liner investigation assuming what is to be understood is at the end of that investigation. Overlooking what is and what could not be otherwise is already right here.</p>
 <p>I am wondering is this what is meant by "seeing a thing as a thing" phenomenology or yoniso manasikara?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lmvl8l7">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ffjccw/seeing_things_as_things/lmvl8l7/">Bhikkhu_Anigha</a><span class="when">2024-09-13 03:46 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>I am wondering is this what is meant by "seeing a thing as a thing" phenomenology or yoniso manasikara?</p>
 </blockquote>
@@ -40,12 +52,15 @@
 <p>On the other hand, the mind has no problem acknowledging random sense objects as just things, so contemplating that is of no real use.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-lmwd452">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ffjccw/seeing_things_as_things/lmwd452/">Bhikkhu_Anigha</a><span class="when">2024-09-13 08:25 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to dhamma_:</strong><br><div class="md-body"><p>Bhante if I may follow up with a question.</p>
+<article class="comment parent" id="c-lmvs0rx">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ffjccw/seeing_things_as_things/lmvs0rx/">dhamma_</a></div>
+  <div class="body"><div class="md-body"><p>Bhante if I may follow up with a question.</p>
 <p>When it is said things you regard as special, they should be seen as things. </p>
 <p>It seems at the moment that such a pursuit doesn't make sense. It seems like a binary mode of attending; either the totality is seen as an arisen thing(s) or one is engaged with a particular phenomena which is creates a lack phenomena being understood as phenomena.</p>
 <p>So could it be said that it's about maintaining the perspective rather than seeking these things out which are dear?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lmwd452">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ffjccw/seeing_things_as_things/lmwd452/">Bhikkhu_Anigha</a><span class="when">2024-09-13 08:25 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>So could it be said that it's about maintaining the perspective rather than seeking these things out which are dear?</p>
 </blockquote>
@@ -53,6 +68,8 @@
 <p>At certain times, if it seems like the mind is mostly calm and established in the context, you can make effort to bring to mind those things that would tend to threaten/pressure it (i.e., that it wants to treat as more than just phenomena, not on equal footing as everything else). If it gets perturbed, then it wasn’t the right type of calm. But, you can strive towards it by seeing <em>that perturbation</em> as a phenomenon, without trying to suppress it.</p>
 <p>Right equanimity is when <em>the mind</em> is, as the Suttas say, "boundless". The mind cannot be toppled by whichever phenomena arise, even if one wishes it, while the phenomena themselves remain the same as they were before. Wrong equanimity is making everything "smaller" (i.e., less pressuring), or even non-existent, so that it no longer challenges the mind, and that’s what you get out of most mainstream meditation practices.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -62,5 +79,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

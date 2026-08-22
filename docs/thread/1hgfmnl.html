@@ -6,6 +6,9 @@
   <title>[deleted by user] · 2024</title>
   <meta name="description" content="[deleted by user]">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,10 +34,15 @@
       <h2>[deleted by user]</h2>
       <p class="meta"><a href="#">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>[removed]</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-m2j7h7e">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/deleted_by_user/m2j7h7e/">Bhikkhu_Anigha</a><span class="when">2024-12-17 18:38 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>But how does this work along with "enduring the thoughts"? What exactly am I not supposed to let the mind get into and what exactly am I supposed to endure?</p>
 </blockquote>
@@ -40,9 +52,9 @@
 <p>It will take time and repeated attempts—provided all the prerequisites are in place—to become fully familiar with where the "line" between you thinking "out of" an arisen pressure and the pressure being there on its own is, but that's how you start to see the Middle Way very concretely.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-m2m0xoi">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/deleted_by_user/m2m0xoi/">Bhikkhu_Anigha</a><span class="when">2024-12-18 04:31 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to foowfoowfoow:</strong><br><div class="md-body"><p>when i was younger i practiced sense restraint as endurance of painful unpleasant stimuli. i would sit for hours in painful poses to see aversion arise in my mind, and i’d try to endure it - akin to what i’ve read here about ‘enduring pressure’. </p>
+<article class="comment parent" id="c-m2jvn51">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/deleted_by_user/m2jvn51/">foowfoowfoow</a></div>
+  <div class="body"><div class="md-body"><p>when i was younger i practiced sense restraint as endurance of painful unpleasant stimuli. i would sit for hours in painful poses to see aversion arise in my mind, and i’d try to endure it - akin to what i’ve read here about ‘enduring pressure’. </p>
 <p>i’d do this until the aversion went away - though i could never be sure that the aversion had disappeared. </p>
 <p>after practicing like this for some time, i realised that all i was doing was damaging my knees. i wasn’t getting any more adept at recognising aversion as it arose and it wasn’t leading to any greater insight, and my mind wasn’t becoming any more pliable or responsive to that pressure. i changed my practice accordingly. </p>
 <p>i don’t think endurance of painful or unpleasant stimuli leads to any special knowledge or insight. </p>
@@ -56,6 +68,9 @@
 <p>there’s a wisdom and a skill in being able to let go like this. the mind is training to become responsive, compliant, directed - a thoroughbred. </p>
 <p>to me, the issue you’re having is because of poorly established mindfulness in the first place - like a garden that weeds aren’t plucked out of, you’re finding yourself surrounded by weeds when you go to sit down. it’s through developing mindfulness that the weeds cease to arise. i’d suggest you figure out what it means to establish and sustain mindfulness of body and see if that changes your practice. </p>
 <p>best wishes - be well.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-m2m0xoi">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/deleted_by_user/m2m0xoi/">Bhikkhu_Anigha</a><span class="when">2024-12-18 04:31 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>i don’t think endurance of painful or unpleasant stimuli leads to any special knowledge or insight.</p>
 </blockquote>
@@ -64,9 +79,11 @@
 <p>It's <a href="https://suttas.hillsidehermitage.org/?q=an5.113" rel="noopener noreferrer" target="_blank">also said</a> that someone who is unable to endure (<em>khamati</em>, as in <em>khanti</em> or patience) the pressure of their five senses—which is what leads one to indulge in sensual desires—cannot attain right samādhi.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-m2z2h4k">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/deleted_by_user/m2z2h4k/">Bhikkhu_Anigha</a><span class="when">2024-12-20 12:39 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to noobknoob:</strong><br><div class="md-body"><p>Thank you so much Bhante for a very clear answer. Very grateful to have your guidance 🙏</p>
+</div>
+</article>
+<article class="comment parent" id="c-m2r5j6l">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/deleted_by_user/m2r5j6l/">noobknoob</a></div>
+  <div class="body"><div class="md-body"><p>Thank you so much Bhante for a very clear answer. Very grateful to have your guidance 🙏</p>
 <p>Could you also please provide an answer to the question about taking up virtue and sense restraint at the same time? </p>
 <p>I am by no means established in the 8 precepts, not even 5. Right now, I lack the strength/conviction to commit to them forever and I kinda just "do what I can" and restrain myself as long as I can before I start indulging again, and the cycle repeats. I do hope to build up that strength throught gradual effort. Is this hope misplaced and am I delusional for thinking like this? I've heard your discussion in the video "Time and Timelessness" countless times, and the conclusion that I came to was that all I can do is restrain myself right now from acting out of pressure starting with the coarsest level and that's where the work is. </p>
 <p>On the days that I am restraining, I don't engage in distractions/sensuality through entertainment, intoxicants or sexual activity (pornography/ masturbation). I mostly sit alone not doing anything (bodily and verbally) and take walks by myself trying to endure the pain of my proliferated sensuality. I can afford to do this as I have very little duties/responsibilities professionally and personally. Although sometimes it feels like I'm actively avoiding things I should be doing to sit idle, but I'm not really sure and enduring feels like a priority. After doing this for a couple of days, I start seeing some mindfulness getting established and seems like the opportunity to practice sense restraint (on the mental level) starts opening up. Would you advise practicing sense restraint like this whenever I can? I'm worried that by practicing sense restraint like this with very limited virtue, I'll inevitably be fueling aversion, and by not practicing it I'll be fueling sensuality which will make me break my virtue even sooner.</p>
@@ -74,11 +91,16 @@
 <p>I understand that virtue needs to be established beforehand to practice sense restraint properly, but I'm struggling with that very first step. In-fact, I lack confidence in myself to such an extent that I can't even commit to it. I guess it's because I already know that even if I do commit, it's not gonna work and just mechanically committing to never break a precept again feels like being inauthentic.</p>
 <p>Do you have any broader advice on my general situation? </p>
 <p>Thank you 🙏</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-m2z2h4k">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hgfmnl/deleted_by_user/m2z2h4k/">Bhikkhu_Anigha</a><span class="when">2024-12-20 12:39 UTC</span></div>
   <div class="body"><div class="md-body"><p>My advice would be to first establish the 5 precepts unconditionally. Determine to keep them no matter the discomfort you have to endure as a result of it.</p>
 <p>It might feel mechanical initially, and that's not because of the precepts, but because you're not sufficiently clear about their purpose. And you'll be able to see their purpose for yourself when you've been keeping them unconditionally long enough. </p>
 <p>Once the five precepts become easy, you do the exact same thing to upgrade to eight, and <em>then</em> you'll be able to practice sense restraint all the time, which is what you should really be aiming for. </p>
 <p>It's possible to practice sense restraint temporarily if at least for that time you have resolved not to break the main precepts, but that is as effective as putting bread in the oven but closing the door only for one minute out of every 5—it won't get properly baked. Certainly not within the timeframe you need, at least.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -88,5 +110,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

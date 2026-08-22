@@ -6,6 +6,9 @@
   <title>[deleted by user] · 2025</title>
   <meta name="description" content="[deleted by user]">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,24 +34,32 @@
       <h2>[deleted by user]</h2>
       <p class="meta"><a href="#">Original on Reddit</a></p>
       <div class="op"><div class="md-body"><p>[removed]</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-m6ef4q8">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hxx76h/deleted_by_user/m6ef4q8/">Bhikkhu_Anigha</a><span class="when">2025-01-10 13:40 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>I don't understand - doesn't this imply that free will isn't an illusion?</p>
 </blockquote>
 <p>Why would it be? The Buddha certainly never said that. At least not if we define free will simply as the ability to exert intentions or refrain from doing so, and differentiate that from the ability to achieve desired results.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-m6fjdg1">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hxx76h/deleted_by_user/m6fjdg1/">Bhikkhu_Anigha</a><span class="when">2025-01-10 17:12 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Belozersky:</strong><br><div class="md-body"><blockquote>
+<article class="comment parent" id="c-m6ey59r">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hxx76h/deleted_by_user/m6ey59r/">Belozersky</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>the ability to exert intentions or refrain from doing so</p>
 </blockquote>
 <p>A determinist would say that all your intentions and refraining are caused by prior conditions which you didn't have control over e.g., all causes of your actions can be traced back to the state of the world prior to your birth. Obviously, you didn't have control over the world's state when you yourself didn't exist.</p>
 <p>Asserting that there are actions which are ultimately caused by <em>you</em> would imply that you are some kind of primordial unconditioned entity, which is problematic for Buddhism.</p>
 <p>What do you think?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-m6fjdg1">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hxx76h/deleted_by_user/m6fjdg1/">Bhikkhu_Anigha</a><span class="when">2025-01-10 17:12 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>A determinist would say that all your intentions and refraining are caused by prior conditions which you didn't have control over i.e., any of your actions can be traced back to the state of the world prior to your birth.</p>
 </blockquote>
@@ -55,11 +70,16 @@
 <p>That's quite a leap. You wouldn't feel like you're a "primordial unconditioned entity" if someone locked you into a cell even if they let you move freely within it, would you? That's what the power of choice is: the ability to put one of the options given to you above the others, never to actually create new things from nothing. Even on the mental plane, you can't think a thought that wasn't already available before you thought it. Otherwise you would never forget things.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-m6jgitz">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hxx76h/deleted_by_user/m6jgitz/">Bhikkhu_Anigha</a><span class="when">2025-01-11 06:32 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Your choices making a difference isn’t evidence for them not being pre-determined. </p>
+</div>
+</article>
+<article class="comment parent" id="c-m6hfb1j">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hxx76h/deleted_by_user/m6hfb1j/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Your choices making a difference isn’t evidence for them not being pre-determined. </p>
 <p>Determinism doesn’t mean someone just takes the path of least resistance all the time. Let’s say someone is deciding between eating an apple and a donut. If they go to grab the donut, but then hesitate and restrain and instead take the apple, that doesn’t mean they have some free will independent of the flow of conditions, it just means that the current flow of conditions INCLUDES their wisdom from choosing the donut in the past and INCLUDES their current degree of ability to restrain.</p>
 <p>Saying people only support determinism because they don’t want to take responsibility is a cop-out from those that are worried it might be true.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-m6jgitz">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1hxx76h/deleted_by_user/m6jgitz/">Bhikkhu_Anigha</a><span class="when">2025-01-11 06:32 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Your choices making a difference isn’t evidence for them not being pre-determined. </p>
 </blockquote>
@@ -71,6 +91,8 @@
 <p>The Buddha's teaching is ultimately about the way things manifest to you and your suffering on account of those manifestations, not about hidden metaphysical truths. Even if actually and in truth your choices and your development in restraint were "not real", that will make no difference to your ability to practice the Dhamma and free yourself within the supposed "illusion". Whether it's an illusion or not, you suffer, and experience shows you that there are "illusory" choices that either go with the grain of craving, or not. That's all that matters.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -79,5 +101,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>In DN 21 and AN 9.3 what is the cutting of thought and reflexion referring to ? · 2024</title>
   <meta name="description" content="In DN 21 and AN 9.3 what is the cutting of thought and reflexion referring to ?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p><a href="https://preview.redd.it/4h2anxgkebpc1.png?width=1812&amp;format=png&amp;auto=webp&amp;s=e73b0633fcae7924060be01dcd27c6ddfe59250a" rel="noopener noreferrer" target="_blank"><a href="https://suttacentral.net/dn21" rel="noopener noreferrer" target="_blank">DN 21</a></a></p>
 <p><a href="https://preview.redd.it/a0o1frfuebpc1.png?width=1564&amp;format=png&amp;auto=webp&amp;s=53857f5560342444aa915d57f12e96bb61c247b2" rel="noopener noreferrer" target="_blank"><a href="https://suttacentral.net/an9.3" rel="noopener noreferrer" target="_blank">AN 9.3</a></a></p>
 <p>&#x200B;</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kvor3lx">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1bioaco/in_dn_21_and_an_93_what_is_the_cutting_of_thought/kvor3lx/">Bhikkhu_Anigha</a><span class="when">2024-03-20 04:04 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Firstly, it's easy to overlook what the Buddha states as coming before those four practices at the end:</p>
 <blockquote>
 <p>...<br />
@@ -60,5 +72,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

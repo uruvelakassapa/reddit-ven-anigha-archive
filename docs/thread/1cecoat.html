@@ -6,6 +6,9 @@
   <title>8 Precepts · 2024</title>
   <meta name="description" content="8 Precepts">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -32,10 +39,15 @@
 <p>In terms of deodorants and cologne, how strict should I be? I don’t want to come to work smelling badly but I kind of feel that I’m definitely not following the spirit of the precept. </p>
 <p>I have relatively little problem with the other precepts (although I have found myself singing along with my seven year old at times). </p>
 <p>I think I already know the answers to my questions but I would appreciate your comments. </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-l1hw6nz">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cecoat/8_precepts/l1hw6nz/">Bhikkhu_Anigha</a><span class="when">2024-04-27 13:16 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Due to my schedule it can be hard to get my eating in before solar noon. Provided I am limiting my eating to a certain time period (e.g. 11am to 7pm) would that be considered in keeping with the precept or should I train myself further until I can stop eating after noon?</p>
 </blockquote>
@@ -44,19 +56,24 @@
 <p>As for deodorants, even of the scented kind if nothing else is available, I wouldn't consider that a breach of the 7th precept if the intention behind it is simply to not smell bad as opposed to smelling good. Same with laundry detergents and so on.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-l1l6jrv">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cecoat/8_precepts/l1l6jrv/">Bhikkhu_Anigha</a><span class="when">2024-04-28 02:27 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to GachiOnFire:</strong><br><div class="md-body"><blockquote>
+<article class="comment parent" id="c-l1ik6qh">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cecoat/8_precepts/l1ik6qh/">GachiOnFire</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>As for deodorants, even of the scented kind if nothing else is available, I wouldn't consider that a breach of the 7th precept <strong>if the intention behind it is simply to not smell bad as opposed to smelling good</strong>. Same with laundry detergents and so on.</p>
 </blockquote>
 <p>What if the intention behind it is not to smell good and be appealing but to not smell bad yes, but at the question "Would my mind be calm if I come to stink in public?" the answer is "No, the shame and pressure of worry about disturbing people (underlied by how they might judge me and how they could act) will be hard to withstand", should one still continue using deodorants?</p>
 <p>I'm thinking one might continue using it while being clear about the fact that one is still not at ease with that and should work on cutting the attachments that are causing the resistance, say social status in this case, but I'm worried it could open the door to a kind of dangerous double standard if one is not authentic enough. What do you think?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-l1l6jrv">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cecoat/8_precepts/l1l6jrv/">Bhikkhu_Anigha</a><span class="when">2024-04-28 02:27 UTC</span></div>
   <div class="body"><div class="md-body"><p>Until you're at least anāgāmi, it's much more important that you focus your effort on disregarding other people's expectations and social conventions when it comes to sensual, aversive, and distracting things (i.e., not just the actions against the 8 precepts but also pointless company, frivolous speech, etc.).</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-l1olkxr">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cecoat/8_precepts/l1olkxr/">Bhikkhu_Anigha</a><span class="when">2024-04-28 19:30 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to sahassaransi_mw:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-l1mda7x">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cecoat/8_precepts/l1mda7x/">sahassaransi_mw</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>eating after noon is not one of the [things an Arahant is incapable</p>
 </blockquote>
 <p>"As long as they live, the perfected ones eat in one part of the day, abstaining from eating at night and from food at the wrong time. I, too, for this day and night, will eat in one part of the day, abstaining from eating at night and food at the wrong time. I will observe the sabbath by doing as the perfected ones do in this respect." Uposatha Sutta, <a href="https://suttacentral.net/an3.70" rel="noopener noreferrer" target="_blank">AN 3.70</a></p>
@@ -64,6 +81,9 @@
 <p>Also, in the Kitagiri Sutta, when the Buddha says: <br />
 "When someone feels this kind of pleasant feeling, unskillful qualities grow and skillful qualities decline.’ Since this is so, that’s why I say: ‘You should give up this kind of pleasant feeling,"<br />
 - surely that doesn't mean that the pleasant feeling (or any feeling) associated with an evening meal is by default unwholesome?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-l1olkxr">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1cecoat/8_precepts/l1olkxr/">Bhikkhu_Anigha</a><span class="when">2024-04-28 19:30 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Although the Arahants may be capable of eating after noon, surely there would be some reason they would choose to abstain from it for life?</p>
 </blockquote>
@@ -80,6 +100,8 @@
 <p>And it's not saying that food entering your mouth during the night is inherently unwholesome regardless of the context surrounding it. It's that unwholesome qualities would tend to increase <em>as a result</em> of engaging with that pleasant feeling. Like spending most of your day in company instead of in seclusion.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -88,5 +110,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

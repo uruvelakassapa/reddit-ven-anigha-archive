@@ -6,6 +6,9 @@
   <title>Spreading a heart full of love · 2024</title>
   <meta name="description" content="Spreading a heart full of love">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -39,10 +46,15 @@ And what is the expansive release of the heart? It’s when a mendicant meditate
 <p>Now, I don’t know how relevant it is to the practice of ultimate liberation to think about what kind of god one could become in a future birth. But I can’t help but wonder if those ‘forcefully practicing’ metta, in exclusion of ‘real practice’, may be on the path towards the gods of corrupted radiance..</p>
 <p>Anyhow my question is- ‘spreading and radiating’ does seem to be a practice, and one which bears certain results, unless I’m misunderstanding something? <br />
 I suppose that the friendly disposition which Venerable Nyanamoli described doesn’t exclude anything whatsoever, but it apparently lacks the ‘radiating’.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kjj891q">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/kjj891q/">Bhikkhu_Anigha</a><span class="when">2024-01-25 17:53 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>There's a few widespread distortions in translation to clear up:</p>
 <p>Firstly, <em>mettā</em> is not "love". "Love" is <em>pema,</em> and this needs to be <a href="https://suttacentral.net/an4.200/en/sujato?lang=en&amp;layout=plain&amp;reference=none&amp;notes=asterisk&amp;highlight=false&amp;script=latin" rel="noopener noreferrer" target="_blank">"abandoned, cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. "</a></p>
 <blockquote>
@@ -86,13 +98,16 @@ I suppose that the friendly disposition which Venerable Nyanamoli described does
 <p>Edit: You can't arrive at that "whole world", "immeasurable" level by simply adding up every part of it. That "whole" has to be discerned as <em>one phenomenon</em> and then the attitude directed towards <em>that</em> (See for an example of this the "others might attack that bhikkhu" passage in <a href="https://suttacentral.net/mn28" rel="noopener noreferrer" target="_blank">MN 28</a>). The whole is not the sum if its parts in this case.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kjoufnj">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/kjoufnj/">Bhikkhu_Anigha</a><span class="when">2024-01-26 18:09 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to craveminerals:</strong><br><div class="md-body"><p>Thank you Bhikkhu Anigha for your thorough response- and for clearing up a lot of common assumptions, misconceptions and nuances around metta! The references and links are also very helpful. </p>
+<article class="comment parent" id="c-kjn3heq">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/kjn3heq/">craveminerals</a></div>
+  <div class="body"><div class="md-body"><p>Thank you Bhikkhu Anigha for your thorough response- and for clearing up a lot of common assumptions, misconceptions and nuances around metta! The references and links are also very helpful. </p>
 <p>So you've made clear that whatever a worldling thinks metta is - most likely isn't, and whatever lofty things they try to do &amp; achieve before having done the preliminary work of training and correctly discerning their mind-- just turns out wrong.  <br />
 But let's say that someone who is more developed, who has attained right view, who knows what is defiling them and what is not, and has uncovered metta as an <em>inherent quality</em> of their mind. Is there a ''practice of metta'' for such a person? Or are they already pervading, suffusing <em>''the world''</em> with it, so to speak? </p>
 <p>Judging by the Anuruddhasutta it still sounds like a sort of doing -- or an effortless action perhaps. <br />
 I'm confused why the Buddha would emphasize ''the entire world'' so often. Or as in the sutta I mentioned- through step by step enlarging it's range, with the help of visualizing tree roots, villages, kingdoms, etc.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kjoufnj">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/kjoufnj/">Bhikkhu_Anigha</a><span class="when">2024-01-26 18:09 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>So you've made clear that whatever a worldling thinks metta is - most likely isn't, and whatever lofty things they try to do &amp; achieve before having done the preliminary work of training and correctly discerning their mind-- just turns out wrong.</p>
 </blockquote>
@@ -121,9 +136,11 @@ I'm confused why the Buddha would emphasize ''the entire world'' so often. Or as
 <p>That's a different practice though. That's why it says that "these two things are different both in meaning and in phrasing". And it doesn't say "visualizing". It's pretty much exactly the opposite direction of that: widening the context of your mind (hence "expansive"), by recognizing that everything you're experiencing, even thoughts and "visualizations", is happening <em>within</em> that root of a tree, within that village, within that kingdom etc. Establishing the "right order" by putting that surrounding context first, and whatever is happening in your body and mind second (meaning you see one as the foundation for the other while both are present). It's not about other beings and your attitude towards them unlike the brahmavihāras.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kjpncy8">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/kjpncy8/">Bhikkhu_Anigha</a><span class="when">2024-01-26 20:54 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to sahassaransi_mw:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-kjo68b6">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/kjo68b6/">sahassaransi_mw</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>"<strong><em>...dwells/abides having pervaded/suffused (pharitvā viharati)</em></strong> with a mind of friendliness the first, second, third and fourth direction</p>
 </blockquote>
 <p>I do admit having barely any familiarity with Pali so please correct me where I am mistaken, but the "pharitva viharati" is something that would probably (indicated by the -tva ending ) count as an absolutive ...</p>
@@ -141,6 +158,9 @@ I'm confused why the Buddha would emphasize ''the entire world'' so often. Or as
 </blockquote>
 <p>Most usually things seem to be described in the Suttas in terms of negatives.  .... non hate, non desire, non ill-will. But the word  "metta" seems more of a positive thing (as opposed to abyāpāda,or even nekkhamma, for instance) , which may be why people interpret it as a fabricated thing. If metta was simply non-ill will, why call it "friendliness", and differentiate it from simple non-hate and non-aversion? Why make it a seperate thing? </p>
 <p>Perhaps the entire destruction of lust, HATE, and delusion is only for the Buddha's noble disciples, but (I mentioned this in a comment in an HH vid which implied brahmaviharas require Right View) in the Suttas, there are plenty of examples of non-ariyas practicing the Brahmaviharas, meaning that metta is something on a different, simpler level than the destruction of hate and ill-will.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kjpncy8">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/kjpncy8/">Bhikkhu_Anigha</a><span class="when">2024-01-26 20:54 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>and can ALSO actually indicate two actions CONCURRENT with one another: (the common (wrong?) translation you mention ) "One dwells SUFFUSING"...so whilst one meditates/dwells, one is also simultaneously pervading.</p>
 <p>Another common example of that concurrency in absolutives found in Pali is "having dispelled all darkness, the sun shines". Which wouldn't literally mean the sun first removes the darkness and THEN shines. I've seen some even interpret the standard phrase "having abandoned the hindrances, he abides in jhana" in the same way - as in the abandoning being simultaneous with the jhana (something I find personally questionable, since this would render the "purification of mind" in the gradual training that preceeds Jhana useless).</p>
@@ -166,9 +186,11 @@ I'm confused why the Buddha would emphasize ''the entire world'' so often. Or as
 <p>Edit: Also, there's one thing people would tend to forget which those non-ariyas did <em>before</em> they attained the liberation through mettā: they went forth. They were all renunciates, and Sunetta was free from sensuality. See what needs to be abandoned <em>before</em> mettā can be practiced in <a href="https://suttacentral.net/an8.63" rel="noopener noreferrer" target="_blank">AN 8.63</a>; the very thing without which the Buddha says Mahānāma wouldn't be a householder anymore in <a href="https://suttacentral.net/mn14" rel="noopener noreferrer" target="_blank">MN 14</a>. If even lay <em>sotāpannas</em> didn't fulfill the precondition for succeeding in mettā, what is to be said of those today who aren't even that, and to boot aren't <em>at least</em> taking their virtue and restraint very seriously?</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kjrqnqg">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/kjrqnqg/">Bhikkhu_Anigha</a><span class="when">2024-01-27 05:25 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to zdrsindvom:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-kjp3wan">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/kjp3wan/">zdrsindvom</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>It's pretty much exactly the opposite direction of that: widening the context of your mind (hence "expansive"), by recognizing that everything you're experiencing, even thoughts and "visualizations", is happening <em>within</em> that root of a tree, within that village, within that kingdom etc. Establishing the "right order" by putting that surrounding context first, and whatever is happening in your body and mind second (meaning you see one as the foundation for the other while both are present).</p>
 </blockquote>
 <p>Bhante, if you'll indulge me, I would like to ask something about this "widening", though I'm still kind of groping around what exactly I'm trying to ask, but there's something that's persistently been bugging me. </p>
@@ -179,6 +201,9 @@ I'm confused why the Buddha would emphasize ''the entire world'' so often. Or as
 3) The world at the very least <em>might</em> persist past the body, but hey, it seems to be pretty much always present throughout my life, so who is to say it won't continue... and boom, eternalism</p>
 <p>But then in any case, there seems to be an immediate problem with 2), in that it assumes the persistence of the world outside of what we can know from within our senses / within the context of being subject to death and not knowing what exactly death entails. And then the 3) also is basically just an assumption that is unverifiable given our mortality. </p>
 <p>I really appreciate your presence in this subreddit and your writings, thank you for all that you do.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kjrqnqg">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/19f6kyr/spreading_a_heart_full_of_love/kjrqnqg/">Bhikkhu_Anigha</a><span class="when">2024-01-27 05:25 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>It seems to me, that taking the world to be more fundamental instead would (probably) lead to some form of eternalism about the world, because if it goes something along the lines of</p>
 <p>For the body to persist, the world has to persist</p>
@@ -192,6 +217,8 @@ I'm confused why the Buddha would emphasize ''the entire world'' so often. Or as
 <p>When a puthujjana tries to see this, the "here" will inevitably involve the self in some tacit way that they can't see, and the "yonder" will imply the assumption of an "outside world". If those assumptions were even <em>seen</em> as they are, they wouldn't be there anymore, so they wouldn't be puthujjanas.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -200,5 +227,7 @@ I'm confused why the Buddha would emphasize ''the entire world'' so often. Or as
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

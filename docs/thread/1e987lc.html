@@ -6,6 +6,9 @@
   <title>What does &quot;self&quot; mean? · 2024</title>
   <meta name="description" content="What does &quot;self&quot; mean?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -35,10 +42,15 @@
 <p>Is there anything else that demonstrates a self? What does self really mean?</p>
 <p>My clearest most rational definition is that I don't choose to suffer, therefore suffering is no-self. Anything that I choose that doesn't increase suffering can be self/no-self doesn't matter how you define it, but suffering is <strong>always</strong> no-self, as I never wish for it. Therefore to me, suffering is no-self. Hence dukkha <em>in</em> anicca, anatta <em>in</em> dukkha.</p>
 <p>So if someone insists that they have a self, all I have to ask is "do you get bored? Do you suffer?", if they say yes then I ask them "why do you choose to suffer?"</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ledokws">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1e987lc/what_does_self_mean/ledokws/">Bhikkhu_Anigha</a><span class="when">2024-07-22 13:43 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Maybe it specifically has to do with control over feelings? Perhaps self means control over mental suffering and feelings? That if one indulges in something pleasant, bad feelings which are "mine" can be eliminated, and good feelings which are "mine" can be arisen. I.e. "I am" feeling bored, therefore if I eat a snack, I will feel pleasant, and no longer bored. So this is a level of confidence of control over feelings, and eliminating suffering like boredom.</p>
 </blockquote>
@@ -62,5 +74,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

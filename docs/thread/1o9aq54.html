@@ -6,6 +6,9 @@
   <title>Would you tell the truth no matter what? (When to stay silent?) · 2025</title>
   <meta name="description" content="Would you tell the truth no matter what? (When to stay silent?)">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -39,10 +46,15 @@
 </li>
 </ol>
 <p>Thank you 🙏 </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-nkh84fj">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1o9aq54/would_you_tell_the_truth_no_matter_what_when_to/nkh84fj/">Bhikkhu_Anigha</a><span class="when">2025-10-20 16:06 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The topic of lying is something that I see  many people overthinking in a way that only serves as a distraction from actual faults that they probably haven't overcome.</p>
 <p>There is a certain baseline of truthfulness that you need to have always, which is what is often described in the Suttas: when explicitly asked something that you know to be true, don't try to convey that it is false, or vice versa. Doing so would always be unwholesome.</p>
 <p>If you feel the need to more "truthful" than that, ask yourself why. If it's just a sense of external moral obligation, that's not the right motivation, and it will be rooted in some sort of compulsion. You will never reach the goal of virtue (a tamed mind) by following that direction no matter how far, since it maintains the same problem through the very attempt to solve it.</p></div></div>
@@ -56,5 +68,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

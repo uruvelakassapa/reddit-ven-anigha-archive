@@ -6,6 +6,9 @@
   <title>Some thoughts and reflections on my difficulties with keeping the precepts · 2026</title>
   <meta name="description" content="Some thoughts and reflections on my difficulties with keeping the precepts">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -37,10 +44,15 @@
 <p>EDIT:</p>
 <p>One thing that helped was this video by a former addict and former MMA fighter Bas Rutten - <a href="https://youtu.be/VFyN-2MW2FI" rel="noopener noreferrer" target="_blank">https://youtu.be/VFyN-2MW2FI</a></p>
 <p>Any comments, observations, judgements, on my practice, or reflections on your own practice are welcome.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-o8qknmq">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1rkpvz3/some_thoughts_and_reflections_on_my_difficulties/o8qknmq/">Bhikkhu_Anigha</a><span class="when">2026-03-05 06:33 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>In the past, I was pretty successful with the no entertainment precept. I gave up video games, music, movies, TV, books, and so on. But, I did it in the wrong order as I wasn't celibate. So I am hopeful that if I can finally figure out celibacy, the rest of the precepts will be easier.</p>
 </blockquote>
@@ -55,5 +67,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

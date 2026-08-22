@@ -6,6 +6,9 @@
   <title>Wakefulness, and the watches of the night · 2025</title>
   <meta name="description" content="Wakefulness, and the watches of the night">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -41,18 +48,23 @@
 <p>4) the lion's posture is something repeated again and again. Yet, I have not seen almost any discussion on it. I assume the goal is to keep protecting our own body posture and to not get loose even in sleep.</p>
 <p>Is this proper lion's posture? <a href="https://www.vineobstacleszen.com/content/images/2023/07/EPSON582-2.jpg" rel="noopener noreferrer" target="_blank">https://www.vineobstacleszen.com/content/images/2023/07/EPSON582-2.jpg</a></p>
 <p>Is this what a perfect lion's posture looks like? <a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/3X/6/0/606de3046905bea12aca968eeacc02a2127185b7.jpeg" rel="noopener noreferrer" target="_blank">https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/3X/6/0/606de3046905bea12aca968eeacc02a2127185b7.jpeg</a></p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-mdnk2v7">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/mdnk2v7/">Bhikkhu_Anigha</a><span class="when">2025-02-19 18:05 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>Apart from what u/no_thingness replied, it's also useful to remember that <a href="https://suttacentral.net/sn12.41/en/bodhi?lang=en&amp;reference=main&amp;highlight=false#8.1" rel="noopener noreferrer" target="_blank">being fully established in the precepts with the right attitude</a>, and <a href="https://suttas.hillsidehermitage.org/?q=mn9#mn9:3.1_mn9:3.2" rel="noopener noreferrer" target="_blank">being able to recognize—in regard to oneself, not in abstraction—which things are beneficial and which are not</a> already constitutes stream entry. </p>
 <p>The "right attitude" means any sense of duty in regard to the precepts has completely disappeared, and yet one does not break them no matter what, because there is a direct and absolutely immovable discernment of those actions being <em>in themselves</em> categorically harmful the instant one intends to perform them, irrespective of any subsequent consequences and effects on other people.</p>
 <p>A simple question to ask oneself is: "if I were to receive an indisputable guarantee that I can attain Nibbāna without keeping any precepts at all and doing whatever I want, would I feel even the slightest elation at that prospect, and would I stop keeping <em>any</em> of them?" Until one can answer "no" to that question with perfect confidence, one's main task is to perfect not only one's external virtue (which anyone can do while remaining equally ignorant) but also the attitude and views behind it. Any practices the Buddha gave <a href="https://suttas.hillsidehermitage.org/?q=dn2#dn2:63.4_dn2:63.5" rel="noopener noreferrer" target="_blank">subsequent to the aggregate of noble virtue</a> should not be taken on in a fixed manner until then, because one is very likely to undertake them wrongly (i.e., still with a sense of duty behind it rather than direct recognition of wholesome and unwholesome).</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mdrzuvx">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/mdrzuvx/">Bhikkhu_Anigha</a><span class="when">2025-02-20 09:48 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to meshinthesky:</strong><br><div class="md-body"><p>Bhante, excuse me, but there is an issue with u/no_thingness and your reply; you both avoided to answer the questions. Those questions are about understanding the instructions of the Buddha to put them in practice.</p>
+<article class="comment parent" id="c-mdrtfc6">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/mdrtfc6/">meshinthesky</a></div>
+  <div class="body"><div class="md-body"><p>Bhante, excuse me, but there is an issue with u/no_thingness and your reply; you both avoided to answer the questions. Those questions are about understanding the instructions of the Buddha to put them in practice.</p>
 <p>I appreciate your reply. I am answering back, and hope you can share some light on my situation:</p>
 <p>...</p>
 <p>I've been following the gradual training (according to my understanding), basically combining the steps of <a href="https://suttacentral.net/dn2" rel="noopener noreferrer" target="_blank">DN 2</a> with the steps of <a href="https://suttacentral.net/mn39" rel="noopener noreferrer" target="_blank">MN 39</a>. Not matter what I were to write in a post, even exerting myself to be as self honest as possible, since I am subject to ignorance, I am a delusional being, therefore it seems impossible to me to have perfect confidence in how I gauge myself and my attitude towards the training...</p>
@@ -73,6 +85,9 @@
 <p>It is clear that restrain one's external behavior, body and speech, are the initial stages of the training. It seems that guarding body posture is one of the aims in keeping the lion's posture - as explicitly told in <em><a href="https://suttacentral.net/an4.246" rel="noopener noreferrer" target="_blank">AN 4.246</a></em>. My guess is that one of the aims of not sleeping too much is not to rely on sensual enjoyment to be content, to be energetic. After all, is not sleep but kind of miccha samadhi and absorption... [Incidentally, sleeping is the only kind of sensual enjoyment I engage right now - unless we count walking and drinking water...].</p>
 <p>...</p>
 <p>I understand why you avoided to answer. I wonder if you could kindly give a general guidelines for what you reckon is too much sleep and too little sleep (for someone who is dedicating to wakefulness)?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mdrzuvx">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/mdrzuvx/">Bhikkhu_Anigha</a><span class="when">2025-02-20 09:48 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>There is a noticeable pattern: the more I sleep; the more I dream; the more the mind creates its dream movies, the more the mind, as a sense, gets loose, and pasture in unwholesome fields. So, I kinda think that starting with the next step "dedicate to wakefulness" right now would help me with the "restraining the sense doors"...</p>
 </blockquote>
@@ -87,9 +102,11 @@
 <p>So I would put it this way: disregarding sleep duration altogether, if you catch yourself sleeping in when you're not really tired at all , and it's clear that it's rooted in laziness and nothing else, that's something you should try to restrain. But it would be a problem because of acting out of craving there and then, not because it would later create unwholesome tendencies through some unknown mechanism. Beyond refraining from that, which you could consider to be on the level of virtue, I wouldn't advise trying to predetermine a sleep schedule/procedure yet because it simply won't be coming from the right place, and it would mean acting as if you already completed the much more foundational work when you in fact did not.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mdth9hf">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/mdth9hf/">Bhikkhu_Anigha</a><span class="when">2025-02-20 15:47 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to meshinthesky:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-mds7bho">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/mds7bho/">meshinthesky</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>Just like eating, sleeping is sensual enjoyment <em>when</em> it is done with sensual motivations [...] if you catch yourself sleeping in when you're not really tired at all , and it's clear that it's rooted in laziness and nothing else, that's something you should try to restrain</p>
 </blockquote>
 <p>Now it's clearer.</p>
@@ -105,6 +122,9 @@
 <p>Dreams happens between deep sleep states. Yes, dreams are projections of the mind, they do not come from the sleep.</p>
 <p>The problem I saw is not so much in whether the directions are unwholesome or not - in this, dreams are really helpful to know the real extent of one's mind purity. But that in dreaming the mind gains momentum in proliferating.</p>
 <p>Before, during the day the mind used to get excited, and in the night settle down. Now it tends to be the opposite, during the day the mind gets calm, and during the night gets more agitated.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mdth9hf">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/mdth9hf/">Bhikkhu_Anigha</a><span class="when">2025-02-20 15:47 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>... or that I should go back to focus on external virtue until that habit gets strong enough to bring a chance for itself?</p>
 </blockquote>
@@ -117,9 +137,11 @@
 <p>See <a href="https://reddit.com/comments/1ipbw3u/comment/mda3owr" rel="noopener noreferrer" target="_blank">this recent discussion</a> for an idea of what that would look like.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-mdyqc7i">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/mdyqc7i/">Bhikkhu_Anigha</a><span class="when">2025-02-21 10:01 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to meshinthesky:</strong><br><div class="md-body"><blockquote>
+</div>
+</article>
+<article class="comment parent" id="c-mdy0mhy">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/mdy0mhy/">meshinthesky</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>"Virtue" refers to acting with a mind free from greed, aversion, and delusion.</p>
 </blockquote>
 <p>From the three sections of the virtue from <a href="https://suttacentral.net/dn2" rel="noopener noreferrer" target="_blank">DN 2</a>, it seemed to me that being accomplished in virtue was about external behaviour; I could avoid all those unwholesome actions listed there, and yet, spend most of the time thinking unwholesome thoughts. That's why I said that.</p>
@@ -137,6 +159,9 @@
 <p>(a) one is virtuous when one acts, speaks, and thinks virtuously in a natural and effortless way - the senses, including the mind, may want this or avoid that, but one does not need to fight with them to keep the virtue in body, speech, and thought. (Regarding the <a href="https://suttacentral.net/mn19" rel="noopener noreferrer" target="_blank">MN 19</a> simile, is when <em>the cowherd would guard his cows while staying at the root of a tree or out in the open</em>)</p>
 <p>(b) one is sense restrained when on their own accord the senses do not anymore want this or avoid that - thus they are said to be pacified.</p>
 <p>In light of what you said, I am still developing virtue, as the mind does not act virtuous on its own. The delusional habit of generating unwholesome thoughts, it may have been decreased a big deal, yet it is still far from being eradicated.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-mdyqc7i">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1it0d3d/wakefulness_and_the_watches_of_the_night/mdyqc7i/">Bhikkhu_Anigha</a><span class="when">2025-02-21 10:01 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>(a) one is virtuous when one acts, speaks, and thinks virtuously in a natural and effortless way - the senses, including the mind, may want this or avoid that, but one does not need to fight with them to keep the virtue in body, speech, and thought.</p>
 </blockquote>
@@ -148,6 +173,8 @@
 <p>But it's important to remember the presence of defilements or craving is determined by the mental state at the time, <em>not</em> by the specific objects. So at one point, <em>because</em> you're in an angry mood, thinking about someone's faults or about something you dislike can be unwholesome because it will make that state worse. On another occasion, if the mind is more neutral or even content, and you're able to keep it so, those same thoughts would not be a problem at all. Hence what matters is the the state of mind, as you quoted. And if you adhered to that principle, you would be unable to break any of the fundamental precepts, since that would have to come out of a defiled mind. That's how the early Saṅgha lived without any rules for a good while.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -156,5 +183,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

@@ -6,6 +6,9 @@
   <title>Reflection on Conceit and Speech · 2024</title>
   <meta name="description" content="Reflection on Conceit and Speech">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -40,10 +47,15 @@
 <p>Perhaps this is the nature of craving as a whole, but it just became clear as day to me right now, and only in the instance of speech. Perhaps the whole notion of "moving with the grain" is just this constant mindlessness and zombie-like behavior?</p>
 <p>But more specifically, when I analyze my speech (internal &amp; external), it's entirely composed of "I" or "others"; the <em>exact</em> same permutations mentioned in the sutta above. More precisely, the locus here is "I" against which there are "others"; every discussion of how others are, are not, is related to how I am, or am not. So the fundamental basis for this verbalization is as the sutta points out, the notion of "I am". Even right now, I have a tendency to unnecessarily provide details and examples about <strong>me</strong>.</p>
 <p>My reason for restraining this currently is simply because it's unnecessary. But I wish to know what the sutta means here so that I can reflect on a better reason. It seems to be positing some relationship between craving and conceit, and I've never been able to understand this relationship. I understand (theoretically) the relationship between craving and the sense of "mine", but what does craving have to do with "me or I am"? Why are those verbalizations particularly <em>craving</em>-verbalizations? It seems to imply that the removal of craving would also annihilate such manners of thinking; why? What is the danger in regarding something as "me" or thinking in terms of the various permutations of "I am"?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-krbe2nx">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1av8m05/reflection_on_conceit_and_speech/krbe2nx/">Bhikkhu_Anigha</a><span class="when">2024-02-20 17:05 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The Pāli is <em>taṇhāvicarita</em>, which means literally "craving-roaming" or "craving-wandering", not "craving-verbalization".</p>
 <p>What's being referred to here is the <em>context</em> behind your thinking, whether or not you ever verbalize the words "I" or "mine". Having such contexts present more strongly might <em>result</em> in a person talking about themselves a lot, but that would be one of the many secondary symptoms of appropriation that can be superficially managed and suppressed; it's not the illness itself.</p>
 <p>These tendencies can only be overcome if one has recognized the sense of self as a phenomenon rightly and learned to put it second, which makes there be no need to micromanage your speech. You would naturally talk less about yourself without actively trying, while still freely using the words "I" and "mine" when necessary, and without any of these permutations of craving being there.</p>
@@ -58,5 +70,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

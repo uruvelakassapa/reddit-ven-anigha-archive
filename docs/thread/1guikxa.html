@@ -6,6 +6,9 @@
   <title>What is the state that Ajahn Brahm is calling jhana? · 2024</title>
   <meta name="description" content="What is the state that Ajahn Brahm is calling jhana?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -38,10 +45,15 @@
 <p>I heard of a sutta where the Buddha is asked if someone is practicing arupa jhana correctly because they can still feel their body, and he says not quite (sorry, I don't know the source, but maybe someone remembers it?) Could AB's experience be an arupa jhana (and if so, why is it describes as being so much more blissful than other states?)</p>
 <p>Thank you!</p>
 <p>Final note: please do not speak rudely of any teachers on this post. Even if we disagree we should still be respectful to senior monastics (and everyone for that matter.) It is wise to speak straightforwardly but kindly.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-lxwkvl5">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/lxwkvl5/">Bhikkhu_Anigha</a><span class="when">2024-11-19 10:02 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>I wouldn't expect to find anything in the Suttas matching the "absorbed state" that Ajahn Brahm teaches. It's a very common misconception that no longer experiencing the body (which the Suttas do say is the case in arūpa states) must mean "absorption", and it's equally wrong to think that just because the body disappears in a certain state, it must correspond to the arūpa states taught in the Suttas.</p>
 <p>You can become unaware of sensory input by entering a state of trance in various ways (including not only meditation techniques but also certain drugs), <em>or</em> by developing so much clarity about the general aspects of your experience that transcend the multiplicity of the five senses to the point that this multiplicity disappears (and that's how you enter arūpa states). The latter is like someone who doesn’t hear the conversations happening in the area because they’re surveying the entire terrain from above, considering aspects that are way more fundamental. The former is like someone who also doesn’t hear the voices but for a different reason—because they’re engrossed in a movie playing at full volume while wearing noise-cancelling headphones.</p>
 <p>A listener may think that the state is the same just because of what's absent, but one of them is training the type of qualities and ways of seeing experience that lead to Nibbāna, and the other one isn't. Thus, the criterion should be <em>how one arrived at it</em>, and that's why that's what the Suttas put the most emphasis on (and it is never absorption).</p>
@@ -52,14 +64,17 @@
 <p>Edit: Also, if AB's state is supposed to contain points 1 and 2 simultaneously, it can be neither the jhānas nor the formless attainments since arūpa states (as defined in the Suttas) are not blissful, they're neutral, and the five senses/body doesn't disappear <a href="https://suttas.hillsidehermitage.org/?q=mn39#mn39:18.1_mn39:18.3" rel="noopener noreferrer" target="_blank">even in the fourth jhana</a>, let alone the very first one.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-ly1yw05">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly1yw05/">Bhikkhu_Anigha</a><span class="when">2024-11-20 05:06 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Anemone1k:</strong><br><div class="md-body"><blockquote>
+<article class="comment parent" id="c-ly1kpa0">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly1kpa0/">Anemone1k</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>You can become <strong>unaware</strong> of sensory input...by developing so much clarity about the general aspects of your experience that transcend the multiplicity of the five senses to the point that this multiplicity disappears (and that's how you enter arūpa states). (Emphasis added)</p>
 <p>[this state] is training the type of qualities and ways of seeing experience that lead to Nibbāna.</p>
 </blockquote>
 <p>The qualities and ways of seeing that lead to Nibbāna include unawareness?</p>
 <p>If I attend the fundamentals at the expense of the particulars that is still ignoring a necessary aspect of experience any way you slice it.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ly1yw05">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly1yw05/">Bhikkhu_Anigha</a><span class="when">2024-11-20 05:06 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>The qualities and ways of seeing that lead to Nibbāna include unawareness?</p>
 </blockquote>
@@ -70,11 +85,16 @@
 <p>Indeed, which is why you don't "ignore" anything; that's how you would fall into absorption. If something falls off, it has to do so on its own because it has become too coarse, not because you were intentionally trying to remove it by attending to something else. The latter would be acting out of the five hindrances already.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-ly27i2f">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly27i2f/">Bhikkhu_Anigha</a><span class="when">2024-11-20 06:19 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Thank you for the straightforward explanation. Of course I want to develop so much clarity about the general aspects of their experience to transcend the multiplicity of the five senses to the point that that multiplicity disappears; how does this, as entry to the arupa states, differ from how we're working toward jhana? </p>
+</div>
+</article>
+<article class="comment parent" id="c-ly19hbj">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly19hbj/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Thank you for the straightforward explanation. Of course I want to develop so much clarity about the general aspects of their experience to transcend the multiplicity of the five senses to the point that that multiplicity disappears; how does this, as entry to the arupa states, differ from how we're working toward jhana? </p>
 <p>I have a hang-up. One of the criteria for Ajahn Brahm's jhana is that this state brings piercing, present-moment, and direct clarity. In his description of the experience, the clarity also lasts after exiting the state and allows deeper seeing when doing reflections and questioning the nature of reality. I'm not suggesting that this means the state is jhana. But wouldn't that be useful? I came to meditation as a means to develop clarity and see Dhamma better, not because I'm particularly interested in blissful or pseudo-spiritual states. And I am often befuddled by my own haziness and confusion of mind, something intellectual pursuits and simply sitting with the experience fail to use effectively. Too good to be true?<br />
 Is there an alternative method to arriving at a sharp and clear mind with which to investigate?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ly27i2f">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly27i2f/">Bhikkhu_Anigha</a><span class="when">2024-11-20 06:19 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>how does this, as entry to the arupa states, differ from how we're working toward jhana?</p>
 </blockquote>
@@ -94,10 +114,15 @@ Is there an alternative method to arriving at a sharp and clear mind with which 
 <p>The Gradual Training that the Suttas describe. The fact that people who haven't given up sensuality and acting out of hindrances in their daily lives—which is the true cause of muddledness according the Suttas—can succeed in Ajahn Brahm's method shows that it's not the type of clarity worth striving for. The issue is that what actually leads to the right type of sharpness and tranquility, the Gradual Training, is of course difficult and prolonged, and the results aren't nearly as immediate, palpable, and gratifying.</p></div></div>
   
 </article>
+</div>
+</article>
+<article class="comment parent" id="c-ly5tigc">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly5tigc/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>Oh, PS- while I too find "jhana junkie" an annoying term, there's precedent for that in the suttas. <a href="https://suttacentral.net/dn29" rel="noopener noreferrer" target="_blank">DN 29</a>. "There are, Cunda, these 4 kinds of life devoted to pleasure which are entirely conducive to disenchantment, dispassion, cessation, tranquility, realisation, enlightenment, Nibbana. [Describes 4 jhanas.] So if wanderers from other sects should say that the followers from the Sakyan are addicted to these 4 forms of pleasure seeking, they should be told "yes"....They can expect four fruits, four benefits: [the four phala]. </p>
+<p>This is where Ajahn Brahm is using that phrase. If his practice isn't jhana, though, then it doesn't apply and that's a problem.</p></div></div>
+  <div class="children">
 <article class="comment teacher" id="c-ly7jngp">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly7jngp/">Bhikkhu_Anigha</a><span class="when">2024-11-21 05:32 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>Oh, PS- while I too find "jhana junkie" an annoying term, there's precedent for that in the suttas. <a href="https://suttacentral.net/dn29" rel="noopener noreferrer" target="_blank">DN 29</a>. "There are, Cunda, these 4 kinds of life devoted to pleasure which are entirely conducive to disenchantment, dispassion, cessation, tranquility, realisation, enlightenment, Nibbana. [Describes 4 jhanas.] So if wanderers from other sects should say that the followers from the Sakyan are addicted to these 4 forms of pleasure seeking, they should be told "yes"....They can expect four fruits, four benefits: [the four phala]. </p>
-<p>This is where Ajahn Brahm is using that phrase. If his practice isn't jhana, though, then it doesn't apply and that's a problem.</p></div></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>So if wanderers from other sects should say that the followers from the Sakyan are addicted to these 4 forms of pleasure seeking, they should be told "</p>
 </blockquote>
@@ -105,11 +130,16 @@ Is there an alternative method to arriving at a sharp and clear mind with which 
 <p>"Addiction" and "indulgence" have to be abandoned in order to attain the pleasure of the first jhāna to begin with, since that pleasure comes precisely from <a href="https://suttas.hillsidehermitage.org/?q=mn39#mn39:14.29_mn39:14.30" rel="noopener noreferrer" target="_blank">abandoning all such compulsions and dependencies</a>. It's not only the coarse seeking of external sense objects that constitutes the first hindrance, which is frequently listed as "longing" (<em>abhijjhā</em>) in the Suttas. Also, the Buddha emphasized that <a href="https://suttacentral.net/an1.316-332/en/sujato?lang=en&amp;layout=plain&amp;reference=main&amp;notes=none&amp;highlight=false&amp;script=latin#an1.328_1.1" rel="noopener noreferrer" target="_blank">even a tiny speck of <em>bhava</em> should not be welcomed</a>, and it is only through that sort of attitude that the hindrances can be truly surmounted. That's why the pleasure of jhāna is wholesome and leads to Nibbāna whether one wishes for it or not; its very presence implies thorough dispassion and relinquishment and the <em>absence</em> of "addiction". Thus, by all means, one should live devoted to it.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-ly9du4v">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly9du4v/">Bhikkhu_Anigha</a><span class="when">2024-11-21 15:23 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to [deleted]:</strong><br><div class="md-body"><p>I'm still struggling to understand what you've written about yonisomanasikara as simultaneous knowing. I definitely get that any state of being is still taken in via perception, and I've read about that in Hiriko's book about Bhante Ñanadipa- he used the word "background". But I tried to practice that but have no idea what I'm doing. As I experience it, there's only ever one thing arising and passing at any given moment. </p>
+</div>
+</article>
+<article class="comment parent" id="c-ly7u8cv">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly7u8cv/">[deleted]</a></div>
+  <div class="body"><div class="md-body"><p>I'm still struggling to understand what you've written about yonisomanasikara as simultaneous knowing. I definitely get that any state of being is still taken in via perception, and I've read about that in Hiriko's book about Bhante Ñanadipa- he used the word "background". But I tried to practice that but have no idea what I'm doing. As I experience it, there's only ever one thing arising and passing at any given moment. </p>
 <p>Ajahn Brahm sometimes talks about nibbana and wisdom as a subtracted quality rather than something added on, but other times when he speaks, as you've pointed out, it sounds like he's talking about a new experience or insight. </p>
 <p>I may comment again after some time and re-reading again. These things just font click in my brain sometimes.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ly9du4v">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/ly9du4v/">Bhikkhu_Anigha</a><span class="when">2024-11-21 15:23 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>As I experience it, there's only ever one thing arising and passing at any given moment. </p>
 </blockquote>
@@ -119,12 +149,17 @@ Is there an alternative method to arriving at a sharp and clear mind with which 
 <p>But, as we (and the Suttas) so often repeat, the practice doesn't begin with samadhi or meditation. The "simultaneous knowing" is developed through virtue and sense restraint first and foremost.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-lyjmy44">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/lyjmy44/">Bhikkhu_Anigha</a><span class="when">2024-11-23 07:07 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to Pallantinus:</strong><br><div class="md-body"><p>Building on the OP's question, I’d like to ask you about something I’ve been pondering for a while regarding this approach to meditation.</p>
+</div>
+</article>
+<article class="comment parent" id="c-lygov9j">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/lygov9j/">Pallantinus</a></div>
+  <div class="body"><div class="md-body"><p>Building on the OP's question, I’d like to ask you about something I’ve been pondering for a while regarding this approach to meditation.</p>
 <p>Ajahn Brahm, as mentioned, emphasizes sensuality starting from the third stage of his meditation instructions. However, the first two stages seem quite different: <em>"Sustained attention on the present moment"</em> and <em>"Silent awareness of the present moment"</em> (you can find them here: <a href="https://www.dhammatalks.net/Books/Ajahn_Brahm_Basic_Method_of_Meditation.htm" rel="noopener noreferrer" target="_blank">Ajahn Brahm's Basic Method of Meditation</a>).</p>
 <p>My question is: do these first two stages steer away from sensuality and instead align more closely with the Buddha’s teachings on taming the mind through gradual training—avoiding aversion, desire, or delusion—perhaps resembling <em>right sense restraint</em> as described in the gradual path?</p>
 <p>Thank you in advance for taking the time to share your thoughts!</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-lyjmy44">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1guikxa/what_is_the_state_that_ajahn_brahm_is_calling/lyjmy44/">Bhikkhu_Anigha</a><span class="when">2024-11-23 07:07 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>do these first two stages steer away from sensuality and instead align more closely with the Buddha’s teachings on taming the mind through gradual training—avoiding aversion, desire, or delusion—perhaps resembling <em>right sense restraint</em> as described in the gradual path?</p>
 </blockquote>
@@ -140,6 +175,8 @@ Is there an alternative method to arriving at a sharp and clear mind with which 
 <p>This of course doesn't mean you should go out of your way to perceive things that could give rise to unwholesome states. It will inevitably happen unless you actively try to cocoon your mind as described above, which amounts to avoiding defeat by not showing up to the match in the first place.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -148,5 +185,7 @@ Is there an alternative method to arriving at a sharp and clear mind with which 
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

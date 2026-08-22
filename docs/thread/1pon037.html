@@ -6,6 +6,9 @@
   <title>Intentionality and External Circumstances · 2025</title>
   <meta name="description" content="Intentionality and External Circumstances">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -29,10 +36,15 @@
       <div class="op"><div class="md-body"><p>Recently I was conversating with my brother and a topic that came up was the ethicality of harming someone else in the case of defending another person. I said that in no scenario is it justified for someone to enact physical harm on somebody since the mind-state behind such action has to be rooted in ill-will and passion, thus, from the perspective of one trying to practice the dhamma, retaliating with physical violence should be avoided.</p>
 <p>My brother responded by saying that in such a scenario one's intention is to protect, thus one could potentially not be acting out of ill will, but out of the former intention. I then said that the intention of ill will is implicit when one decides to engage in physical violence regardless of the circumstances, thus that intention supersedes any other "valid" justifications one might have.</p>
 <p>Now, my question is whether my understanding is correct; in that an act of violence can never be rooted in anything else but ill will and passion? Or can one have passion, but not ill will if they are doing such action to protect someone (which I infer to be no)?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-nv8g1pe">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pon037/intentionality_and_external_circumstances/nv8g1pe/">Bhikkhu_Anigha</a><span class="when">2025-12-21 18:11 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Now, my question is whether my understanding is correct; in that an act of violence can never be rooted in anything else but ill will and passion? </p>
 </blockquote>
@@ -40,14 +52,17 @@
 <p>What makes anything you do unwholesome is the perversion that happens when you're passionate about someone (including yourself) and out of that bias lose all concern for the welfare of a being that's attacking them. Such biases are <a href="https://suttas.hillsidehermitage.org/?q=an9.7" rel="noopener noreferrer" target="_blank">what Arahants are incapable of</a>, and the mere use of physical force doesn't necessarily imply them (in the same as forceful speech does't necessarily imply ill will). An attempt at killing absolutely does.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-nvo3d3i">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pon037/intentionality_and_external_circumstances/nvo3d3i/">Bhikkhu_Anigha</a><span class="when">2025-12-24 04:52 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to gradua1_training:</strong><br><div class="md-body"><p>So physical force is merely the vehicle that allows one to express their ill-will, but in what cases could one use physical force without their being ill-will. Piggybacking off of u/spiffyhandle's example. Could their be a deer hunter who hunts deer out of sport/food while somehow not having ill-will?</p>
+<article class="comment parent" id="c-nv9nrt2">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pon037/intentionality_and_external_circumstances/nv9nrt2/">gradua1_training</a></div>
+  <div class="body"><div class="md-body"><p>So physical force is merely the vehicle that allows one to express their ill-will, but in what cases could one use physical force without their being ill-will. Piggybacking off of u/spiffyhandle's example. Could their be a deer hunter who hunts deer out of sport/food while somehow not having ill-will?</p>
 <p>Furthermore, if lets say one decides to restrain someone non-lethally using self-defense, while still causing a degree of harm. In such situation, could one engage in any form of self-defense (excluding evading/running away) while not somehow not wishing harm on the recipient.</p>
 <p>P.S. On an unrelated note what does the passage quoted below exactly mean</p>
 <blockquote>
 <p>store up pleasures for the sake of enjoyment like he did before when living at home.’</p>
 </blockquote></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-nvo3d3i">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pon037/intentionality_and_external_circumstances/nvo3d3i/">Bhikkhu_Anigha</a><span class="when">2025-12-24 04:52 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>but in what cases could one use physical force without their being ill-will. </p>
 </blockquote>
@@ -66,6 +81,8 @@
 <p>It means storing up things like food, drink, and possessions in general with sensual enjoyment as the purpose.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -74,5 +91,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

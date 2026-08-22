@@ -6,6 +6,9 @@
   <title>Looking for clarification on faith and dhamma followers · 2025</title>
   <meta name="description" content="Looking for clarification on faith and dhamma followers">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -36,10 +43,15 @@
 <p>As I understand it, the main difference between a faith or dhamma follower and a stream winner is that while the follower believes the correct things, the stream winner has gone beyond belief and directly knows. There are also suttas that point out that a stream winner has almost completely eliminated suffering (7 pebbles remaining vs. what was formerly a mountain).</p>
 <p>My confusion is, if faith and dhamma followers are incapable of experiencing the second arrow, how do they not know they are ariyas? Wouldn't it be extremely obvious? </p>
 <p>Second, if faith and dhamma followers have removed the second arrow, how much of a difference in suffering is there between them and a sotapanna?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-nw1f6z1">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pu7is6/looking_for_clarification_on_faith_and_dhamma/nw1f6z1/">Bhikkhu_Anigha</a><span class="when">2025-12-26 15:55 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>As I understand it, the main difference between a faith or dhamma follower and a stream winner is that while the follower believes the correct things, the stream winner has gone beyond belief and directly knows. </p>
 </blockquote>
@@ -53,9 +65,9 @@
 <p>The <em>recognition</em> of achievement ("knowing that you know") is what the fruit of stream entry is, and that recognition is what stands out as a milestone. It's the same as when many Suttas describe a monk not just having a liberated mind after completing the Gradual Training, but <em>knowing</em> that his mind is liberated.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-nw58mjy">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pu7is6/looking_for_clarification_on_faith_and_dhamma/nw58mjy/">Bhikkhu_Anigha</a><span class="when">2025-12-27 05:18 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to spiffyhandle:</strong><br><div class="md-body"><blockquote>
+<article class="comment parent" id="c-nw2x5ca">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pu7is6/looking_for_clarification_on_faith_and_dhamma/nw2x5ca/">spiffyhandle</a></div>
+  <div class="body"><div class="md-body"><blockquote>
 <p>No, that's a common misinterpretation that (conveniently) turns almost every Buddhist into a faith- or Dhamma-follower. </p>
 </blockquote>
 <p>When I said "believe the correct things", I meant understand the teachings well enough so it's possible for them to believe them. Many people could miss the mark with a belief like, "Oh yes I believe in impermanence because electrons are constantly moving so everything changes".</p>
@@ -71,6 +83,9 @@
 <p>It sounds like you're picturing it as a sudden transformation that would stand out, but the simile of the adze handle makes it clear that the wearing away of the fetters doesn't work like that. You recognize afterwards that you've passed the threshold without ever being able to know exactly when you passed it, because you under no circumstances can objectively examine your own understanding like an outside observer. Every such attempt is squarely guided by your current understanding.</p>
 </blockquote>
 <p>Does this mean that if a putthujana is practicing correctly (or reasonably correctly), they are weakening the 2nd arrow? Eventually, when they reach faith- or Dhamma-follower, the second arrow is completely gone? And since it was a gradual weakening of the second arrow, that's why the -followers don't recognize themselves as -followers?</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-nw58mjy">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1pu7is6/looking_for_clarification_on_faith_and_dhamma/nw58mjy/">Bhikkhu_Anigha</a><span class="when">2025-12-27 05:18 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>When I said "believe the correct things", I meant understand the teachings well enough so it's possible for them to believe them. Many people could miss the mark with a belief like, "Oh yes I believe in impermanence because electrons are constantly moving so everything changes".</p>
 </blockquote>
@@ -91,6 +106,8 @@
 <p>Yes, you could put it that way. And practicing correctly means progressing in the Gradual Training, of course. Taming your mind through the right restrictions so that it becomes incapable of seeing action, be it internal management or external indulgence, as a valid escape from suffering. That, not intellectualization, is what destroys the view of self as well, i.e. the view of a privileged agent that can prevent <em>dukkha</em> by choosing things.</p></div></div>
   
 </article>
+</div>
+</article>
     </article>
   </main>
   <footer class="site">
@@ -99,5 +116,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

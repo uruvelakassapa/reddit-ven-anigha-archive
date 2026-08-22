@@ -6,6 +6,9 @@
   <title>The Non Sensual .. Thought ? · 2023</title>
   <meta name="description" content="The Non Sensual .. Thought ?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -45,10 +52,15 @@
 <hr />
 <p>I will have to mention that all of this may be due to my lack of clarity in regards to Sensual thoughts and what they really are, as well. Maybe this is all wrong and neither the Non-Sensual Thought NOR the Sensual Thought even - are defined by the object of the thought, but simply by the presence/absence of desire? This would seem to sort out the issue? </p>
 <p>I do apologize for my long question and if it is unclear. Thank you!</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-kbdoftf">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1878ut3/the_non_sensual_thought/kbdoftf/">Bhikkhu_Anigha</a><span class="when">2023-11-30 08:13 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>What the "wholesome thoughts" are cannot be understood accurately in theory alone because wholesomeness on that level that <em>arises on its own</em> is rooted in the present state of mind, which is not in your direct control. On that level, you can't at the same time relate to unwholesome thoughts <em>and</em> wholesome thoughts—it has to be one of the two that you exist within at the time. That "level" is what determines where the mind will go if you just relax and don't make any effort. </p>
 <p>A background unwholesome citta is facing the direction of unwholesome actions by default, including by manokamma, and restraining yourself from that "pull" will be painful. A fully established wholesome state of mind, on the other hand, makes unwholesome actions impossible even if you try to commit them, because losing the perspective of danger is inconceivable for as long as that state lasts, and it makes not acting out of the pull be joyful and satisfying in a way that involves no craving. </p>
 <p>For instance, choosing to eat the most delicious food instead of something simple could not possibly be rooted in sensual desire at that time unlike before, where you'd have to be extra careful to the point of abstaining from it if the mind is craving for the pleasure, or making sure that there is a valid practical reason for consuming it. You'd be able to experience the full "size" of the pleasure of the delicious food and still see it as a charcoal pit and not crave for it at all, and same with thoughts and memories about sense pleasures in general. (Sexual engagement of any kind remains perpetually and categorically out of bounds though).</p>
@@ -86,5 +98,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

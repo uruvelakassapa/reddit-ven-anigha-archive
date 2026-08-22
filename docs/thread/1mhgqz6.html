@@ -6,6 +6,9 @@
   <title>So I think I understand what I need to do now. · 2025</title>
   <meta name="description" content="So I think I understand what I need to do now.">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -30,10 +37,15 @@
 <p>Doing this will require heightened mindfulness so I'll have to do nothing but sit there watching mind for as long as it takes which may be days. </p>
 <p>To be honest I actually started doing it last week for a couple hours. I didn't go all the way because I wanted to wait till after my family visits. I thought at the end of the year I would make the big push. Now however I think I'm out of time. That first stroke probably won't be the last. Although, NGL it would be hilarious if it didn't happen and I just showed up next week being like "hey guys!"</p>
 <p>Anyway, I wanted people to know what I did just in case I don't survive it.</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-n700qyy">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1mhgqz6/so_i_think_i_understand_what_i_need_to_do_now/n700qyy/">Bhikkhu_Anigha</a><span class="when">2025-08-05 04:45 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>Every time cetasika of dosa or cetasika of lobha arises, I need to recollect the same thing that I just thought but without those cetasikas. </p>
 </blockquote>
@@ -48,5 +60,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

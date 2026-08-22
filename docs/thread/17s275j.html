@@ -6,6 +6,9 @@
   <title>meaning · 2023</title>
   <meta name="description" content="meaning">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -33,10 +40,15 @@
 <p>So what is the correct meaning according to the Buddha? </p>
 <p>And what criteria are used to understand that a perception is a wrong perception? </p>
 <p>How does meaning become a tool or one of a vehicle toward right view?</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-k8pxclj">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/17s275j/meaning/k8pxclj/">Bhikkhu_Anigha</a><span class="when">2023-11-11 00:16 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>It can be said that in the beginning we give meaning to everything, especially when we were a new born baby, a child and do not know even the meaning of the language we use.</p>
 </blockquote>
@@ -70,5 +82,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

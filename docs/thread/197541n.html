@@ -6,6 +6,9 @@
   <title>Understanding not-self in not-self · 2024</title>
   <meta name="description" content="Understanding not-self in not-self">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -40,10 +47,15 @@
 <p>There is seeing "in not self" which are the aggregates that are their on their own, but then there also is a need to not see the I-element in this not-self, or otherwise it would be seeing self in not-self, it would be attavada, right? Even if this is only a sense of self?</p>
 <p>So is it wrong to think that because there are those aggregates that were already there on their own, that's why this sense of self arose, in the sense that it is "generated" by those aggregates that come together and are "working" together? I feel like this is not seeing "self in [aggregate]" but rather "because aggregates, sense of self", or "self in the sensed/cognized" but rather "because sensed/cognized are there, sense of self is there".</p>
 <p>&#x200B;</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ki381al">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/197541n/understanding_notself_in_notself/ki381al/">Bhikkhu_Anigha</a><span class="when">2024-01-16 06:10 UTC</span></div>
-  
   <div class="body"><div class="md-body"><blockquote>
 <p>It will be clear that when there is avijjā there is avijjā in both parts of our experience, the immediate and the reflexive; for though, in reflexion, experience is divided within itself, it is still one single, even if complex, structure. The effect of this may be seen from the Sabbāsavasutta (Majjhima i,2 <M.i,8>) wherein certain wrong views are spoken of. Three of them are: Attanā va attānam sañjānāmī ti; Attanā va anattānam sañjānāmī ti; and Anattanā va attānam sañjānāmī ti. ('With self I perceive self; With self I perceive not-self; With not-self I perceive self.')  </p>
 <p>A man with avijjā, practising reflexion, may identify 'self' with both reflexive and immediate experience, or with reflexive experience alone, or with immediate experience alone. He does not conclude that neither is 'self', and the reason is clear: it is not possible to get outside avijjā by means of reflexion alone; <strong><em>for however much a man may 'step back' from himself to observe himself he cannot help taking avijjā with him. There is just as much avijjā in the self-observer as there is in the self-observed.</em></strong>  </p>
@@ -63,9 +75,9 @@
 <p>The only direct choice one can make that could eventually make the sense of self apparent is that of not acting out of hindrances when they are recognized to be the motivation behind one's action, in this case the attempt to figure out the principle in question.</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-kiel6om">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/197541n/understanding_notself_in_notself/kiel6om/">Bhikkhu_Anigha</a><span class="when">2024-01-18 07:07 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to plucesiar:</strong><br><div class="md-body"><p>Is this in essence what Bhikkhu Ninoslav Ñāṇamoli was talking about when he wrote the following? (Source: https://www.hillsidehermitage.org/appearance-and-existence/)</p>
+<article class="comment parent" id="c-kiay9kf">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/197541n/understanding_notself_in_notself/kiay9kf/">plucesiar</a></div>
+  <div class="body"><div class="md-body"><p>Is this in essence what Bhikkhu Ninoslav Ñāṇamoli was talking about when he wrote the following? (Source: https://www.hillsidehermitage.org/appearance-and-existence/)</p>
 <blockquote>
 <p>The attitude has undergone a considerable change, from a puthujjana not even being aware of his own existence, over the notion that things appear because they exist, up to now, where ‘to appear’ and ‘to exist’ means just the same. Although this is certainly far better than anything before, nevertheless this attitude doesn’t quite yet free the puthujjana from suffering. He has to continue, but this is as far as he can go on his own. <strong>No matter how hard he tries to understand the existence, any attempt to do so will throw him onto the appearance, and vice versa—whenever he looks at the appearance all he is going to see is the existence.</strong> In one way or another, the puthujjana will not be able to prevent himself from falling into a view that ‘appearance’ and ‘existence’ are the same, or—since the difference is perceived between them—he might think that they are different. But then the ‘sameness’ is still there, so perhaps they are both-the-same-and-different. Consequently, he can negate the whole thing and think that they are neither-the-same-nor-different. In either case, he remains ignorant in regard to the two; he remains a puthujjana. If he is to change this, he needs help from the outside; it has to come to him externally. <strong>The puthujjana is not able (i.e. it is structurally impossible) to “step out” of his experience, and see his situation of ‘being-a-puthujjana’ as a whole. No matter how far he steps back, he carries his ignorance with him.</strong> Only coming across the Buddha’s Teaching can offer him an outside perspective of himself, which if cultivated can ‘turn him’ into a non-puthujjana.</p>
 </blockquote>
@@ -74,6 +86,9 @@
 <p>It is the appearance that <em>exists</em>, by him <em>assuming</em> it (or by being <em>ignorant</em> in regard to it.) <strong>The existence, in order to be, requires <em>maintaining</em> (hence <em>upādānapaccāya bhavo</em>).</strong> In this way a new perspective has emerged on the relationship between existence and appearance, which reveals that, initially, the puthujjana had the whole picture upside-down.</p>
 </blockquote>
 <p>The application of the "wrong order" of things is an active (albeit subtle) ongoing activity, and if I'm understanding this correctly, the oft-mentioned "appropriation"/"ownership" that a puthujjana perpetrates, so to speak, is the act of "assuming" followed by "maintaining" that assumption from moment to moment that Bhikkhu Ninoslav Ñāṇamoli is talking about here.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-kiel6om">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/197541n/understanding_notself_in_notself/kiel6om/">Bhikkhu_Anigha</a><span class="when">2024-01-18 07:07 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>The application of the "wrong order" of things is an active (albeit subtle) ongoing activity, and if I'm understanding this correctly, the oft-mentioned "appropriation"/"ownership" that a puthujjana perpetrates, so to speak, is the act of "assuming" followed by "maintaining" that assumption from moment to moment that Bhikkhu Ninoslav Ñāṇamoli is talking about here.</p>
 </blockquote>
@@ -81,6 +96,8 @@
 <p>Also, it's not like the assumption is being maintained "moment to moment", implying that you could "catch" it and temporarily be free from assumption. That's exactly why we translate it as "assumption" (which is also etymologically accurate) rather than "clinging". You can choose to not cling and then later on end up clinging to the same thing again, but the abandonment of an assumption is a permanent, one-shot deal.</p>
 <p>There cannot be a single instant, from the moment the puthujjana begins to practice the Dhamma up to when they become a sotāpanna, that the assumption of self was not present.</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -90,5 +107,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

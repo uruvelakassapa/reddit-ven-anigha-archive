@@ -6,6 +6,9 @@
   <title>Question About Hindrances and Mental States · 2025</title>
   <meta name="description" content="Question About Hindrances and Mental States">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -34,10 +41,15 @@
 <p>I could have never discerned the aversion toward the hindrance if I had stayed with the hindrance itself as the background. Or is this not important at all, and is it only important <em>not to act out</em> of the hindrance  rather than to discern the state of mind in regard to that hindrance itself?</p>
 <p><strong>Question 2:</strong></p>
 <p>How does one pick any of the “wombs,” and when is it skillful to switch from one womb to the other? Are the things that one is attending to of importance in this choice of recollection? </p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-max28ut">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1ifv7p1/question_about_hindrances_and_mental_states/max28ut/">Bhikkhu_Anigha</a><span class="when">2025-02-04 13:26 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>The are hindrances first and foremost abandoned through the development of steadfast virtue (i.e., conduct free from greed, aversion, and delusion/carelessness). What you are asking about pertains to a much subtler level of refinement that only becomes applicable once the hindrances have been abandoned at that coarser level. </p>
 <blockquote>
 <p>Or is this not important at all, and is it only important not to act out of the hindrance rather than to discern the state of mind in regard to that hindrance itself?</p>
@@ -54,5 +66,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

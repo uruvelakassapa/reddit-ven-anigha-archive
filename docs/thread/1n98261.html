@@ -6,6 +6,9 @@
   <title>Fear and Anger as Counterparts? · 2025</title>
   <meta name="description" content="Fear and Anger as Counterparts?">
   <link rel="stylesheet" href="../assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -32,10 +39,15 @@
 <p>I also notice that when fear is exposed, there is often a recoil. Anger seems to be one way of covering over that recoil. Lately I am working on not avoiding the recoil, but enduring it, taming it. I can see this dynamic fairly clearly, but I still feel the pressure of it. I wonder what this tells you about my practice, and what I should focus on. I would also be grateful if you could advise me on what I can sharpen in my practice, and what I might tighten further.</p>
 <p>Finally, I notice that when fear is present, there is a tendency to recall: “Here is fear; here is what needs to be done (or not done); here is what Bhante has taught regarding this situation.” I wonder if even this recollection is a subtle form of seeking stable-ground, rather than staying with the raw presence of fear itself. How should I relate to this tendency?</p>
 <p>Thank you!</p></div></div>
-      <h3>Comments</h3>
+      <div class="comments-head">
+        <h3>Comments</h3>
+        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          Show full user replies
+        </label>
+      </div>
       <article class="comment teacher" id="c-ndebsox">
   <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n98261/fear_and_anger_as_counterparts/ndebsox/">Bhikkhu_Anigha</a><span class="when">2025-09-10 05:23 UTC</span></div>
-  
   <div class="body"><div class="md-body"><p>All of these states are just various manifestations of the same thing.</p>
 <p>What you need to sharpen is the clarity of where your direct responsibility lies. It's not in the arising of the fear but in the careless acceptance of what it's pushing you to do (be it to get angry or whatever else offers itself to cover up the fear).</p>
 <blockquote>
@@ -44,16 +56,21 @@
 <p>Make sure that that remains the case. The fear takes root and expands to the degree that you do things in order to not feel its pressure (similar to scratching an itch).</p></div></div>
   
 </article>
-<article class="comment teacher" id="c-ndf3j3j">
-  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n98261/fear_and_anger_as_counterparts/ndf3j3j/">Bhikkhu_Anigha</a><span class="when">2025-09-10 09:48 UTC</span></div>
-  <div class="parent-quote"><strong>In reply to upasakatrainee:</strong><br><div class="md-body"><p>Thank you, Bhante.</p>
+<article class="comment parent" id="c-ndf0lq8">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n98261/fear_and_anger_as_counterparts/ndf0lq8/">upasakatrainee</a></div>
+  <div class="body"><div class="md-body"><p>Thank you, Bhante.</p>
 <p>I've noticed that in my precepts as well, speech born out of irritation is where I most often spill over. </p>
 <p>Insofar as this is conditioning the '<em>animal'</em> to view irritated speech as a legitimate and acceptable outlet (regardless of whether fear was present or not); I have been trying harder to restrain this type of erring - <em>even though</em> it may not have come out of fear in <em>that</em> particular instance.</p></div></div>
+  <div class="children">
+<article class="comment teacher" id="c-ndf3j3j">
+  <div><a class="who" href="https://www.reddit.com/r/HillsideHermitage/comments/1n98261/fear_and_anger_as_counterparts/ndf3j3j/">Bhikkhu_Anigha</a><span class="when">2025-09-10 09:48 UTC</span></div>
   <div class="body"><div class="md-body"><blockquote>
 <p>Insofar as this is conditioning the 'animal' to view irritated speech as a legitimate and acceptable outlet (regardless of whether fear was present or not)</p>
 </blockquote>
 <p>Just for the sake of clarity, the problem is not "irritated speech" in terms of the tone or choice of words. That's besides the point. What matters is the fact that it is serving as an outlet for something. Hence the gentlest and most polite speech in the world is equally unwholesome if it's a way of scratching an internal itch that you don't want to endure (passive-aggressiveness being the coarsest example).</p></div></div>
   
+</article>
+</div>
 </article>
     </article>
   </main>
@@ -63,5 +80,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="../assets/offline.js" data-root="../"></script>
+  <script src="../assets/parents.js"></script>
 </body>
 </html>

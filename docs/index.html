@@ -6,6 +6,9 @@
   <title>Ven Anīgha Reddit Archive</title>
   <meta name="description" content="Archive of Reddit discussions with Ven. Anīgha and Sister Medhini.">
   <link rel="stylesheet" href="assets/style.css">
+  <script>
+    try { if (localStorage.getItem("va-show-parents") === "1") document.documentElement.classList.add("show-parents"); } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="site">
@@ -18,6 +21,10 @@
         </nav>
       </div>
       <p>Comments by Bhikkhu Anīgha &amp; Sister Medhini</p>
+      <p class="offline-bar" hidden>
+        <button type="button" class="chip" id="offline-save">Save offline</button>
+        <span id="offline-status" role="status" aria-live="polite"></span>
+      </p>
     </div>
   </header>
   <main>
@@ -27,8 +34,11 @@
       <strong>Bhikkhu Anīgha</strong> and <strong>Sister Medhini</strong>
       (chiefly r/HillsideHermitage). See also
       <a href="https://www.hillsidehermitage.org/" rel="noopener noreferrer" target="_blank">Hillside Hermitage</a>.
-      Thread pages include full context; citations like MN 44 are linked to
-      SuttaCentral on this site only.</p>
+      Thread pages show teacher replies; turn on
+      <strong>Show full user replies</strong> for the comments they answered.
+      Citations like MN 44 are linked to SuttaCentral on this site only.
+      Use <strong>Save offline</strong> in the header to keep browse and search
+      on this device.</p>
       <p class="meta">616 threads across 4 year(s).
       Source: <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">github.com/uruvelakassapa/reddit-ven-anigha-archive</a>.</p>
     </section>
@@ -58,10 +68,10 @@
       <table class="books-table">
         <thead><tr><th>Year</th><th>EPUB</th><th>PDF</th></tr></thead>
         <tbody>
-        <tr><td class="yr">2026</td><td><a href="books/ven_anigha_reddit_archive_2026.epub">EPUB</a><span class="size">154 KB</span></td><td><a href="books/ven_anigha_reddit_archive_2026.pdf">PDF</a><span class="size">536 KB</span></td></tr>
-        <tr><td class="yr">2025</td><td><a href="books/ven_anigha_reddit_archive_2025.epub">EPUB</a><span class="size">564 KB</span></td><td><a href="books/ven_anigha_reddit_archive_2025.pdf">PDF</a><span class="size">1.9 MB</span></td></tr>
-        <tr><td class="yr">2024</td><td><a href="books/ven_anigha_reddit_archive_2024.epub">EPUB</a><span class="size">617 KB</span></td><td><a href="books/ven_anigha_reddit_archive_2024.pdf">PDF</a><span class="size">2.1 MB</span></td></tr>
-        <tr><td class="yr">2023</td><td><a href="books/ven_anigha_reddit_archive_2023.epub">EPUB</a><span class="size">380 KB</span></td><td><a href="books/ven_anigha_reddit_archive_2023.pdf">PDF</a><span class="size">1.4 MB</span></td></tr>
+        <tr><td class="yr">2026</td><td><a href="books/ven_anigha_reddit_archive_2026.epub">EPUB</a><span class="size">156 KB</span></td><td><a href="books/ven_anigha_reddit_archive_2026.pdf">PDF</a><span class="size">579 KB</span></td></tr>
+        <tr><td class="yr">2025</td><td><a href="books/ven_anigha_reddit_archive_2025.epub">EPUB</a><span class="size">568 KB</span></td><td><a href="books/ven_anigha_reddit_archive_2025.pdf">PDF</a><span class="size">1.9 MB</span></td></tr>
+        <tr><td class="yr">2024</td><td><a href="books/ven_anigha_reddit_archive_2024.epub">EPUB</a><span class="size">621 KB</span></td><td><a href="books/ven_anigha_reddit_archive_2024.pdf">PDF</a><span class="size">2.1 MB</span></td></tr>
+        <tr><td class="yr">2023</td><td><a href="books/ven_anigha_reddit_archive_2023.epub">EPUB</a><span class="size">380 KB</span></td><td><a href="books/ven_anigha_reddit_archive_2023.pdf">PDF</a><span class="size">1.3 MB</span></td></tr>
         </tbody>
       </table>
     </section>
@@ -73,5 +83,7 @@
       · <a href="https://github.com/uruvelakassapa/reddit-ven-anigha-archive" rel="noopener noreferrer" target="_blank">Source on GitHub</a>
     </div>
   </footer>
+  <script src="assets/offline.js" data-root="./"></script>
+  <script src="assets/parents.js"></script>
 </body>
 </html>
