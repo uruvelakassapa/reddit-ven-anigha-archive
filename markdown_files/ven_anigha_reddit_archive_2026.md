@@ -9,6 +9,27 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by HoldenVJ _2026-08-19 01:58:37_
+### [Fail to escape from sensuality](https://www.reddit.com/r/HillsideHermitage/comments/1vs8zs5/fail_to_escape_from_sensuality/)
+
+I have watch a ton of videos of the teachig of Hillside. I have a lot of faith in Ajahn teaching. I have try my best to avoid sensuality. I know that it is beginning of the path. Unless one can keep 8 precepts there is no further development on Dhamma. I didnt manage to quit sensual desire yet but I try to keep it at minimum.
+
+Yesterday we found out that my mother got ovariaon cancer. I am experiencing a lot of suffering. I know that I should't try to manage the suffering. I should endure it as Ajahn said. But I can't find a way out of this pain. I still rely on sensuality to cope with this pain. I know its just a distraction. But I dont have no where else to go to. I shouldnt use method like watching  nostril or watching sensation to calm my self down either. 
+
+What is your advice in situation like this?
+
+I figure the best answer might be something like "just endure it". But I really can't right now. I'm not that skillfull yet.
+
+Thank you
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vs8zs5/fail_to_escape_from_sensuality/p4rmcsc/)** _2026-08-20 05:20:54_:
+
+    > What is your advice in situation like this? 
+
+    Keep your ways of managing the pain within the precepts. You won't realistically be able to not manage it at all from day one.
+
+---
+
 **r/HillsideHermitage** | Posted by titikshakshanti _2026-08-17 01:57:51_
 ### [Kosambiya Sutta and fostering harmony](https://suttacentral.net/mn48/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)
 
@@ -164,6 +185,40 @@ Can the Venerables accomplish this task?
     I would also recommend considering how much your hesitation is being influenced by a gut feeling that surely, such people must be able to succeed without abandoning those compromises because the alternative would be too grim.
 
     If you're not emotionally prepared to accept a scenario, distrust whatever reasoning you find to reject it, since the weight of that reasoning will absolutely be inflated in a way that you don't realize.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4oyw0j/)** _2026-08-19 20:34:56_ *(in reply to account-7)*:
+
+    > But if your argument is that it's highly improbable that someone in a compromised cannot fully, completely, let go unless their external situation changes - that's fair.
+
+    Not quite. My point is that remaining in the compromised situation is a choice the person makes with full volition—that it is hard not to make it cannot remove that fact—and that choice it itself attachment. No letting go within that choice can override its significance, namely that one continues to perceive a charcoal pit as other than that (it's the only way to accept staying in it).
+
+    It's not that one needs to take on permanent celibacy all at once or there is no hope. One can certainly build it up gradually, which was the point of that video we discussed earlier. But you need to be aware that making the compromise *is* being under the hindrances, and so you're practicing to make your mind strong and confident enough to *actually stop making the compromise.* Only then is stream-entry possible, but the efforts one makes within the compromise obviously still count.
+
+    >  Instead, it comes across to me like an ad hominem argument. 
+
+    An ad hominem is not automatically invalid in a Dhamma discussion. The Dhamma is to be realized (and craving/suffering overcome) in relation to one's personal situation, not in abstraction. 
+
+    So if anything, failing to address the listener's personal circumstances makes any exchange less accurate and less likely to land deep enough, and I should've brought up that angle from the beginning.
+
+    > Though secondly, this is something I've seen here and I feel is not really a fair way to engage with someone because it's unfalsifiable
+
+    It's not unfair because this was never a competition, and the point I made is directly relevant in conveying what I've been trying to convey all along.
+
+    > emotionally accepting a scenario is different than pragmatically choosing one on account of the perceived harm you'd cause. 
+
+    Taking the perception of harm caused to another as sufficient reason to not abandon sensuality is still an emotional decision rooted in one's own attachment, shown by how one wouldn't hesitate nearly as much if the "harmed" person was a complete stranger (and in that less invested scenario, causing displeasure would be more clearly seen as separate from causing harm).
+
+    The distortion of perspective is not just in full blown lust and sensual addiction. It's in accepting the charcoal pit for *any* reason.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4rlbfc/)** _2026-08-20 05:12:54_ *(in reply to account-7)*:
+
+    > Where we ultimately differ comes down to how we interpret the early texts regarding the minimum baseline required for stream-entry versus the higher training. Not by lowering its structural requirements, which as you've said is what you think I'm subtly doing, but by making those internal requirements more externally demanding than I find the early texts to warrant. Namely, from the oft referenced suttas I immediately think of: An 5.179, Mn 73, An 4.55, An 6.44, etc. 
+
+    As I've noted before, all that these oft referenced examples show is that someone who's already entered the stream (or who hasn't even started the path) won't always be celibate. They cannot prove anything about the path itself.
+
+    On the other hand, the Buddha does speak decisively and in structural terms about what is required for insight and progress in the Dhamma (e.g., SN 45.24, MN 36, MN 16, AN 4.5).
+
+    > Namely, that complete celibacy, or more generally a total lack of circumstantial compromises in favor of an ideal practice/renunciation environment, isn't an absolute, categorical prerequisite for stream-entry.
+
+    We've never said one needs to obtain an "ideal practice/renunciation environment" in order to succeed. All that can be applied to every individual is the celibacy part, due to sexuality being the one thing that must always be sensual. From then on, it's up each individual to honestly question themselves as to the sensual intentions, emotional pressures, and attachments behind whatever they do and choose to maintain within celibacy.
 
 ---
 
