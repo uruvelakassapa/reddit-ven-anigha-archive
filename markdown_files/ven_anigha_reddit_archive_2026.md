@@ -9,6 +9,151 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by upasakatrainee _2026-09-03 16:33:25_
+### [Question on Recent Video "Is Stream Entry an Event"](https://www.reddit.com/r/HillsideHermitage/comments/1w6cg5g/question_on_recent_video_is_stream_entry_an_event/)
+
+u/Bhikkhu_Anigha  
+Hello Bhante. Could I ask a couple of clarifications on your most recent video (https://www.youtube.com/watch?v=BnQrGm\_Lxks)
+
+**1. Regarding the memory of the “event of realization” (of the adze-handle having indeed worn out), and the analogy with understanding Calculus:**
+
+With the Calculus analogy, is it not correct that one can know with certainty that one *now understands* something which one *previously did not understand*, while nevertheless being unable to identify the *precise point* *in time* at which the transition from not-understanding to understanding occurred?
+
+If so, is the analogy intended to *apply fully* (as above) to the "event of realization" as well — i.e. that one can subsequently remember having realized, without that memory necessarily identifying a **definite crossover point** in time?
+
+Or, is it the case that there is simply a limitation to the analogy here, such that the “event of realization” **is in fact** a phenomenologically identifiable **precise crossover point**, which one can remember as having occurred **at a particular time**, even though the Calculus analogy would not capture this?
+
+In other words, I am wondering whether the uncertainty about *when* the transition occurred, is part of the phenomenology of realization itself, or merely a limitation of the Calculus analogy.  
+
+
+**2. Regarding the Buddha’s former teachers and other ascetics having “wrong practice”:**
+
+I was wondering about the precise sense in which you are using the word “wrong.”
+
+Is it meant in the **full and literal sense** that their practice was fundamentally misguided and wayward (to the same extent as the 6 ascetics with wrong views referred to by King Ajātasattu in DN2), despite whatever virtue, restraint, collectedness, etc. they had developed? Or is the point that their practice was “wrong” specifically because it lacked the **decisive element** of Right View, while **nevertheless** **containing substantial development** in other respects?
+
+I ask because these seem like rather different possibilities which listeners might infer. Also, “ascetic practice” could easily be understood as referring to self-mortification of the sort practised by the Jains, whereas Āḷāra Kālāma and Uddaka Rāmaputta, for example, had developed very refined forms of samādhi (The Buddha’s consideration of Āḷāra and Uddaka as having “little dust in their eyes” also seems relevant here). 
+
+And relatedly, isn't there a significant distinction here between those who had **not yet heard the Dhamma**, and practitioners today **who have access to it**, but nevertheless pursue practices incompatible with it?   
+  
+Examples such as Koṇḍañña, Bāhiya, and Uruvelā Kassapa also come to mind, where they **did give up** their former practice once the Buddha pointed out where to look. Is it not reasonable to understand their prior development as having been an important condition for their ability to recognize and follow what the Buddha was pointing out (which would make it possible to say that they weren't **entirely** wrong).
+
+So I was wondering whether you **intentionally meant** that their practice was simply “wrong” without such qualification, or is it again simply a semantic limitation of the word?
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w6cg5g/question_on_recent_video_is_stream_entry_an_event/p7sa8ab/)** _2026-09-04 14:25:25_:
+
+    > If so, is the analogy intended to apply fully (as above) to the "event of realization" as well — i.e. that one can subsequently remember having realized, without that memory necessarily identifying a definite crossover point in time? 
+
+    It does apply fully, and that was precisely the point of the analogy. 
+
+    > the “event of realization” is in fact a phenomenologically identifiable precise crossover point
+
+    Certainly not. It's not like there is a "switch" that could have flipped without you noticing it (which is what the "precise crossover point" idea allows for), because the realization itself *is the noticing.* Stream-entry is *knowing that you know.* 
+
+    Similarly, nothing along the lines of "my experience changed in such and such a way" can ever be a measure of stream-entry. Even "my suffering has uninterruptedly lessened to almost zero for the last X amount of years" is not *understanding*, and can certainly happen without it. You would be *inferring* that understanding occurred because of the change, and inference is diametrically opposed to *knowing that you know.* 
+
+    > So I was wondering whether you intentionally meant that their practice was simply “wrong” without such qualification, or is it again simply a semantic limitation of the word? 
+
+    If something misleads you regarding freedom from suffering then it is wrong. When you're comparing practices as an external observer then you can talk about "more wrong" and less "wrong." But internally, as an authentic individual who is committed to something for the sake of liberation—which was the context of my statement—that something is either correct or not, and you will give it up if you recognize it as the latter. You would not knowingly settle for "less wrong."
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w6cg5g/question_on_recent_video_is_stream_entry_an_event/p7z5hbh/)** _2026-09-05 14:11:59_ *(in reply to upasakatrainee)*:
+
+    > It is an “event” in the sense of a distinctly knowable occurrence, such that one can remember with certainty that “this happened; before this, I didn’t know it; now I do,” while the precise temporal coordinates and circumstantial details may later fade away like any other memory. Does that sound right? 
+
+    There is no "this happened." One realizes that one's understanding is no longer subject to doubt by directly seeing that it is no longer subject to doubt; that certainty is not inferred from any kind of event or occurrence.
+
+    What one can remember is the occasion on which one first confirmed that one's understanding had overcome doubt: despite arousing a genuine sense of uncertainty by trying to doubt it, that uncertainty poses no threat at all to one's clarity. 
+
+    It is not that no uncertainty arises and therefore one is certain. The absence of uncertainty merely means that one has *decided* to hold back on questioning.
+
+---
+
+**r/HillsideHermitage** | Posted by EmptinessInForm _2026-08-30 12:04:30_
+### [Deconstructing the Non-Technique Fallacy: Why Neuroscience Proves Focused Attention Doesn't "Corrupt" Background Awareness, and why Backround (peripheral) vs foreground attention is a false dichotomy (article)](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/)
+
+Hey,
+
+Psychology student here.
+
+First of all I want to say that I highly respect Hillside Hermitage. However, I believe some of their interpretations are based on a false dichotomy in regards to how the mind actually works to create reality, so I decided to write an article. I hope this might contribute to bring the meditation space forward towards higher understanding. Also, I hope I haven't misrepresented HH.
+
+For years, a central dogma of the non-technique meditation movement—most aggressively championed by groups like Hillside Hermitage—has been that intentional focused attention is an artificial distortion that "corrupts" a pristine, unconstructed background awareness. But when scrutinized through modern cognitive neuroscience, this rigid separation between a foreground spotlight and a peripheral background collapses into a complete false dichotomy.
+
+Your "background context" isn't a passive, unmanaged space—it is an actively manufactured product built millisecond-by-millisecond by the exact same sub-attentional machinery that powers focus.
+
+Core Arguments Breakdown:
+
+Visual and bodily neuroscience demonstrates that even during gaze fixation, the brain executes automatic, involuntary microsaccades (1–3 Hz) alongside covert spatial polling to constantly refresh your peripheral baseline. Without this underlying micro-attention, the subjective sense of an "enduring bodily background" completely collapses (as seen in clinical conditions like hemispatial neglect).
+
+Single Computational Resource (Load Theory): Nilli Lavie’s Load Theory shows that background awareness is simply spare processing capacity spilling over from your primary target. Foreground and background do not run on two separate engines; they share the same attentional pool.
+
+Effort vs. Direction: What causes "attentional blinks" and cognitive tunneling isn't the *presence* of intentional focus, but the *intensity of cognitive effort*. A high-load vise-like focus blinds you to context, whereas a relaxed, low-effort anchor leaves ample processing capacity open to illuminate the broader background.
+
+Ego-Suppression via Top-Down Control: Goal-directed focus recruits the Dorsal Attention Network (DAN), which actively down-regulates the Default Mode Network (DMN)—the brain's primary hub for self-referential narrative. Far from fabricating an artificial "doer," top-down low-load focus actually quiets the narrative self.
+
+Because the brain relies on continuous, sub-attentional feature-sampling to generate the sensation of a bodily background in the first place, intentional focus does not introduce an artificial intruder into a pristine field. By intentionally holding a light, low-effort anchor, we harness the brain’s natural mechanics to achieve both crystal-clear discernment and panoramic, contextual stillness.
+
+[*https://medium.com/@EmptinessInForm/the-cognitive-mechanics-of-attention-in-meditation-an-attempt-to-reconcile-intentional-focus-with-40339c52fae0?sharedUserId=EmptinessInForm*](https://medium.com/@EmptinessInForm/the-cognitive-mechanics-of-attention-in-meditation-an-attempt-to-reconcile-intentional-focus-with-40339c52fae0?sharedUserId=EmptinessInForm)
+
+TL;DR: Background awareness isn't a passive, unconstructed ground—it's actively maintained millisecond-by-millisecond by sub-conscious attentional sampling. Because foreground focus and peripheral context share the exact same cognitive engine, holding a low-effort anchor doesn't corrupt your awareness; it simply stabilizes the mind while leaving spare capacity open to illuminate the background.
+
+Edit:
+
+I definitely would drop words like pristine and unconstructed background if I were to write this up again; that's a mischaracterisation of HH. I think it would be better to say that the background that HH refers to is:
+
+"The unchosen, structural dimension of experience that endures simultaneously alongside whatever is currently being directly attended to."
+
+My article is an attempt to assess the fact that awareness of said background requires attention, thus discriminating it as strictly a "background" is a false dichotomy. Attending thus does not reduce the sight of this background, because attending is a necessary basis for the background to exist in the first place. You cannot separate foreground and background as 1. a place where attention exists, and 2. a place where attention does not exist, unless you make background into siimply a philosophical idea.
+
+I hope this cleared up misunderstandings.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6sujbk/)** _2026-08-30 14:41:40_:
+
+    There are two main issues with this:
+
+    1. As even mundane phenomenologists like Husserl and Sartre pointed out, phenomenology requires you to set aside the scientific outlook from the outset. You simply cannot expect science to "prove" anything about our phenomenological experience without already having abandoned the ability to understand experience on its own terms.
+
+    Understanding experience on their own terms—from the "inside" rather than through an external lens like that of science, or even Buddhist quasi-science like the Abhidhamma—is what the Dhamma is about. That is why no Arahant or noble disciple ever *could* turn to science to support his insights; that very attempt takes those insights outside of the only domain where they apply, and he would be thoroughly aware of that by that point.
+
+    2. Whatever "processes" were being observed in the subjects of the studies you refer to are not what we refer to as peripheral awareness (or *yoniso manasikāra,* more accurately). Quite unlike an "automatic proprioceptive sampling" that happens on its own, yoniso manasikāra requires a lot of work to achieve. It does not exist for most practitioners, let alone the completely worldly people that would've participated in those studies. It is possible to achieve only internally—i.e., phenomenologically—for those who have taken on the precepts, withdrawn from sensuality, contemplated the danger in it, abandoned modern wrong views about the practice, etc.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6t8347/)** _2026-08-30 15:45:39_ *(in reply to EmptinessInForm)*:
+
+    > Cogsci is just phenomenology that also actually correlates with behavioural results that confirm said phenomenology.
+
+    Correlating with behavioral/experimental results means applying a third-person point of view over experience, so that can't be phenomenology by definition:
+
+    > [Phenomenology is the study of structures of consciousness as experienced **from the first-person point of view.**](https://plato.stanford.edu/entries/phenomenology/).
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6te7xq/)** _2026-08-30 16:13:40_ *(in reply to EmptinessInForm)*:
+
+    > I didn’t say cogsci is phenomenology - I said it is phenomenology + behavioural experiments. 
+
+    And my point is that if you try to combine these two, there is no proper phenomenology anymore.
+
+    > In that case, I would be highly motivated to come to Samandipa to attempt some experiments. 
+
+    I'm afraid we wouldn't consent to that, as it would only reinforce the misconception that science and the Dhamma can even speak about the same things, let alone "agree" with each other. That view needs to be given up in order to meet the Dhamma where it is.
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6zoay2/)** _2026-08-31 14:50:49_ *(in reply to blimpyway)*:
+
+    Nothing in a wrench makes it inherently necessary to put all screwdrivers aside, so that's a false analogy.
+
+---
+
+**r/HillsideHermitage** | Posted by ApprehensiveWriter23 _2026-08-27 15:26:47_
+### [Right livelihood as a musician](https://www.reddit.com/r/HillsideHermitage/comments/1vzx4yl/right_livelihood_as_a_musician/)
+
+I am a musician, a violinist. I have been living by the five precepts for three years, and for the past year, I have added celibacy (I am married, but my partner agrees).
+The purpose of my practice is freedom from suffering, or at least to develop my mind as much as possible in this lifetime.
+My question focuses on right livelihood: I mostly make a living by teaching music, and very occasionally by performing live. Generally, I reduce my consumption of recorded or live music to almost nothing, except for the occasional specific reference regarding the interpretation of a piece I need to teach a student.
+I know that in order to progress I should give up this activity. But I need help understanding the necessity, as it is not entirely obvious to me.
+Should I abandon this livelihood/profession, I would need to look for a job in cleaning, transportation, or some similar service. Personally, I am not afraid of that change, but I am afraid of the opinions of my family and wife, who would likely see it as something wrong.
+
+- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vzx4yl/right_livelihood_as_a_musician/p6qtlrz/)** _2026-08-30 05:57:41_:
+
+    Whenever you willingly exposure yourself (or others) to music, even if with a relatively disinterested attitude initially, you have opened the door the possibility of passion, and that choice is by itself a defilement (a kind of delusion/non-clarity) even if no acute passion ends up materializing. 
+
+    It is one of those cases where the thing in question does not appear like an inherent obstacle, but it becomes an obstacle when not given up simply due to the implications of the choice to maintain it (MN 66).
+
+---
+
 **r/HillsideHermitage** | Posted by HoldenVJ _2026-08-19 01:58:37_
 ### [Fail to escape from sensuality](https://www.reddit.com/r/HillsideHermitage/comments/1vs8zs5/fail_to_escape_from_sensuality/)
 
