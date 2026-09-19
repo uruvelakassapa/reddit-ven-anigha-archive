@@ -33,11 +33,13 @@ def _node_from_row(row) -> ThreadNode:
     )
 
 
-def _synthetic_parent(row) -> ThreadNode:
+def _synthetic_parent(row, known_ids) -> ThreadNode:
     body = row["parent_body"]
+    # Link the user's reply back to the teacher comment it answered, when we know it.
+    grandparent = row["parent_parent_id"] if "parent_parent_id" in row.keys() else None
     return ThreadNode(
         id=row["parent_id"],
-        parent_id=None,
+        parent_id=grandparent if grandparent in known_ids else None,
         user=row["parent_author"] or "[deleted]",
         content="" if body is None else body,
         url=row["parent_permalink"] or "#",
@@ -62,11 +64,12 @@ def build_comment_threads(
         nodes[row["id"]] = _node_from_row(row)
 
     if include_missing_parents:
+        real_ids = set(nodes)
         for row in comments:
             pid = row["parent_id"]
             if not pid or pid in nodes:
                 continue
-            nodes[pid] = _synthetic_parent(row)
+            nodes[pid] = _synthetic_parent(row, real_ids)
 
     top_level: List[ThreadNode] = []
     orphans: List[ThreadNode] = []

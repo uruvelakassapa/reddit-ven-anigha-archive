@@ -1,5 +1,5 @@
 (function () {
-  const CACHE = "va-archive-v3";
+  const CACHE = "va-archive-v4";
   const script = document.currentScript;
   const rootAttr = (script && script.getAttribute("data-root")) || "./";
   const siteRoot = new URL(rootAttr, location.href);

@@ -24,6 +24,13 @@ def _env_bool(name: str, default: bool = True) -> bool:
     return raw.strip().lower() in ("1", "true", "yes", "on")
 
 
+def grandparent_comment_id(fullname: Optional[str]) -> Optional[str]:
+    """'t1_abc' -> 'abc'; None for a submission ('t3_...') or missing."""
+    if fullname and fullname.startswith("t1_"):
+        return fullname[3:]
+    return None
+
+
 def _build_reddit() -> praw.Reddit:
     return praw.Reddit(
         client_id=os.getenv("CLIENT_ID"),
@@ -78,6 +85,7 @@ def fetch_user_comments(
                         "author": parent_author_obj.name if parent_author_obj else "[deleted]",
                         "body": getattr(parent, "body", "[unavailable]"),
                         "permalink": f"https://www.reddit.com{getattr(parent, 'permalink', '')}",
+                        "parent_parent_id": grandparent_comment_id(getattr(parent, "parent_id", None)),
                     }
             except Exception as e:
                 print(f"Warning: Could not fetch parent for comment {comment.id}. Error: {e}")

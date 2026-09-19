@@ -1,4 +1,4 @@
-const CACHE = "va-archive-v3";
+const CACHE = "va-archive-v4";
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => {

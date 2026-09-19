@@ -178,7 +178,21 @@ header.site .offline-bar .chip { color: var(--fg); }
 .md-body strong { font-weight: 700; }
 .md-body em { font-style: italic; }
 .md-body hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
-.children { margin-left: 1rem; padding-left: 0.5rem; border-left: 2px solid var(--border); }
+.rail { margin: 1rem 0; }
+.rail .comment { margin: 0 0 0 1.1rem; position: relative; }
+.rail .comment + .comment { margin-top: 0.6rem; }
+/* one conversation = one rail: an elbow into each card, a spine down to the next */
+.rail .comment + .comment::before {
+  content: ""; position: absolute; left: -0.85rem; top: -0.6rem; bottom: 50%; width: 0.5rem;
+  border-left: 2px solid var(--border); border-bottom: 2px solid var(--border); border-radius: 0 0 0 6px;
+}
+.rail .comment:has(~ .comment)::after {
+  content: ""; position: absolute; left: -0.85rem; top: 50%; bottom: -0.6rem;
+  border-left: 2px solid var(--border);
+}
+.rail .rt { font-size: 0.82rem; margin-left: 0.6rem; color: var(--muted); text-decoration: none; }
+.rail .rt:hover { text-decoration: underline; }
+.comment:target { outline: 2px solid var(--accent); outline-offset: 2px; }
 .comments-head {
   display: flex;
   align-items: baseline;
@@ -195,31 +209,11 @@ header.site .offline-bar .chip { color: var(--fg); }
   user-select: none;
 }
 .parent-toggle input { margin-right: 0.35rem; }
-.comment.parent {
-  border: none;
-  background: transparent;
-  padding: 0;
-  margin: 0;
-}
-.comment.parent > :not(.children) { display: none; }
-.comment.parent > .children {
-  margin-left: 0;
-  padding-left: 0;
-  border-left: none;
-}
-html.show-parents .comment.parent {
-  margin: 1rem 0;
-  padding: 0.85rem 1rem;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  background: var(--card);
-}
-html.show-parents .comment.parent > :not(.children) { display: block; }
-html.show-parents .comment.parent > .children {
-  margin-left: 1rem;
-  padding-left: 0.5rem;
-  border-left: 2px solid var(--border);
-}
+.comment.parent { scroll-margin-top: 0.75rem; }
+html:not(.show-parents) .comment.parent { display: none; }
+/* with user replies hidden, the rail spans only the visible cards */
+html:not(.show-parents) .rail .teacher:not(.rail .teacher ~ .teacher)::before { display: none; }
+html:not(.show-parents) .rail .comment:not(:has(~ .teacher))::after { display: none; }
 .books-table {
   width: 100%;
   border-collapse: collapse;
@@ -339,14 +333,15 @@ _SEARCH_JS = """\
 })();
 """
 
-CACHE_NAME = "va-archive-v3"
+CACHE_NAME = "va-archive-v4"
 
 _PARENTS_JS = """\
 (function () {
   const KEY = "va-show-parents";
   const box = document.getElementById("show-parents");
   if (!box) return;
-  if (!document.querySelector(".comment.parent")) {
+  const parents = document.querySelectorAll(".comment.parent");
+  if (!parents.length) {
     const wrap = box.closest(".parent-toggle");
     if (wrap) wrap.hidden = true;
     return;
@@ -358,10 +353,26 @@ _PARENTS_JS = """\
   let stored = false;
   try { stored = localStorage.getItem(KEY) === "1"; } catch (e) {}
   apply(stored);
+  // a "replying to" link may point at a hidden user reply: reveal it
+  function revealTarget() {
+    const t = location.hash && document.querySelector(location.hash);
+    if (t && t.classList.contains("parent") && !box.checked) {
+      apply(true);
+      t.scrollIntoView({ block: "start" });
+    }
+  }
+  revealTarget();
+  window.addEventListener("hashchange", revealTarget);
   box.addEventListener("change", function () {
     const on = box.checked;
     try { localStorage.setItem(KEY, on ? "1" : "0"); } catch (e) {}
     apply(on);
+    if (!on) return;
+    const first = parents[0];
+    const r = first.getBoundingClientRect();
+    if (r.top < 0 || r.top > window.innerHeight * 0.45) {
+      first.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
   });
 })();
 """
@@ -634,7 +645,13 @@ def teachers_in_comments(comments) -> List[str]:
     return seen
 
 
-def render_comment(node: ThreadNode) -> str:
+def _flatten(node: ThreadNode, depth: int = 0):
+    yield node, depth
+    for child in node.children:
+        yield from _flatten(child, depth + 1)
+
+
+def render_comment(node: ThreadNode, reply_to: ThreadNode | None = None) -> str:
     if node.user in TEACHERS:
         classes = "comment teacher"
     else:
@@ -649,31 +666,67 @@ def render_comment(node: ThreadNode) -> str:
     when_html = ""
     if not node.synthetic:
         when_html = f'<span class="when">{html.escape(format_timestamp(node.created_at))}</span>'
+    rt_html = ""
+    if reply_to is not None:
+        rt_html = (
+            f' <a class="rt" href="#c-{html.escape(reply_to.id)}">'
+            f"↳ replying to {html.escape(reply_to.user)}</a>"
+        )
 
     body = body_to_html(node.content)
     if node.synthetic and not (node.content or "").strip():
         body = '<div class="md-body"><p><em>Comment not available</em></p></div>'
 
-    children_html = ""
-    if node.children:
-        kids = "\n".join(render_comment(c) for c in node.children)
-        children_html = f'<div class="children">\n{kids}\n</div>'
-
     return f"""<article class="{classes}" id="c-{html.escape(node.id)}">
-  <div>{who_html}{when_html}</div>
+  <div class="hd">{who_html}{when_html}{rt_html}</div>
   <div class="body">{body}</div>
-  {children_html}
 </article>"""
+
+
+def render_thread(root: ThreadNode) -> str:
+    """One conversation: full-width cards in reading order, joined by a rail.
+
+    A "replying to" label appears only where the tree branches, i.e. when a
+    comment's parent is not the card directly above it.
+    """
+    by_id = {n.id: n for n, _ in _flatten(root)}
+    cards = []
+    prev = None
+    for node, _ in _flatten(root):
+        branch = prev is not None and node.parent_id != prev.id
+        cards.append(render_comment(node, by_id.get(node.parent_id) if branch else None))
+        prev = node
+    return '<div class="rail">\n' + "\n".join(cards) + "\n</div>"
+
+
+def count_parent_nodes(nodes: Sequence[ThreadNode]) -> int:
+    n = 0
+    for node in nodes:
+        if node.user not in TEACHERS:
+            n += 1
+        n += count_parent_nodes(node.children)
+    return n
 
 
 def render_thread_page(sub, comments, *, year: int) -> str:
     roots = build_comment_threads(comments, include_missing_parents=True)
-    comments_html = "\n".join(render_comment(r) for r in roots) or "<p class=\"meta\">No comments archived.</p>"
+    comments_html = "\n".join(render_thread(r) for r in roots) or "<p class=\"meta\">No comments archived.</p>"
     title = sub["title"] or "(untitled)"
     author = sub["author"] or "[deleted]"
     subreddit = sub["subreddit"] or ""
     when = format_timestamp(sub["created_at"])
     link = sub["link"] or "#"
+    n_parents = count_parent_nodes(roots)
+    if n_parents == 1:
+        toggle_label = "Show 1 user reply"
+    else:
+        toggle_label = f"Show {n_parents} user replies"
+    toggle_html = ""
+    if n_parents:
+        toggle_html = f"""        <label class="parent-toggle">
+          <input type="checkbox" id="show-parents">
+          {toggle_label}
+        </label>"""
 
     body = f"""    <nav class="crumbs"><a href="../index.html">Home</a> · <a href="../year/{year}.html">{year}</a></nav>
     <article>
@@ -683,10 +736,7 @@ def render_thread_page(sub, comments, *, year: int) -> str:
       <div class="op">{body_to_html(sub["body"] or "")}</div>
       <div class="comments-head">
         <h3>Comments</h3>
-        <label class="parent-toggle">
-          <input type="checkbox" id="show-parents">
-          Show full user replies
-        </label>
+{toggle_html}
       </div>
       {comments_html}
     </article>"""
@@ -769,7 +819,7 @@ def render_home(
       (chiefly r/HillsideHermitage). See also
       <a href="{HH_URL}" rel="noopener noreferrer" target="_blank">Hillside Hermitage</a>.
       Thread pages show teacher replies; turn on
-      <strong>Show full user replies</strong> for the comments they answered.
+      <strong>Show user replies</strong> for the comments they answered.
       Citations like MN 44 are linked to SuttaCentral on this site only.
       Use <strong>Save offline</strong> in the header to keep browse and search
       on this device.</p>

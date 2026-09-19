@@ -71,11 +71,15 @@ def init_schema(conn: sqlite3.Connection) -> None:
             parent_author TEXT,
             parent_body TEXT,
             parent_permalink TEXT,
+            parent_parent_id TEXT,
             updated_at REAL,
             FOREIGN KEY (submission_id) REFERENCES submissions (id)
         );
         """
     )
+    cols = {r[1] for r in conn.execute("PRAGMA table_info(comments)")}
+    if "parent_parent_id" not in cols:
+        conn.execute("ALTER TABLE comments ADD COLUMN parent_parent_id TEXT")
     conn.commit()
 
 
@@ -124,14 +128,16 @@ def upsert_fetched_data(
             parent_author = parent_info["author"] if parent_info else None
             parent_body = parent_info["body"] if parent_info else None
             parent_permalink = parent_info["permalink"] if parent_info else None
+            parent_parent_id = parent_info.get("parent_parent_id") if parent_info else None
 
             c.execute(
                 f"""
                 INSERT INTO comments (
                     id, submission_id, author, created_utc, parent_id, permalink,
-                    comment_body, parent_author, parent_body, parent_permalink, updated_at
+                    comment_body, parent_author, parent_body, parent_permalink,
+                    parent_parent_id, updated_at
                 )
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON CONFLICT(id) DO UPDATE SET
                     submission_id=excluded.submission_id,
                     author={_sql_preserve_if_tombstone("author")},
@@ -142,6 +148,7 @@ def upsert_fetched_data(
                     parent_author={_sql_preserve_if_tombstone("parent_author")},
                     parent_body={_sql_preserve_if_tombstone("parent_body")},
                     parent_permalink={_sql_preserve_if_tombstone("parent_permalink")},
+                    parent_parent_id=COALESCE(excluded.parent_parent_id, comments.parent_parent_id),
                     updated_at=excluded.updated_at
                 """,
                 (
@@ -155,6 +162,7 @@ def upsert_fetched_data(
                     parent_author,
                     parent_body,
                     parent_permalink,
+                    parent_parent_id,
                     now,
                 ),
             )
@@ -191,7 +199,7 @@ def fetch_comments_for_submission(
         conn.execute(
             """
             SELECT id, author, created_utc, parent_id, permalink, comment_body,
-                   parent_author, parent_body, parent_permalink
+                   parent_author, parent_body, parent_permalink, parent_parent_id
             FROM comments
             WHERE submission_id = ?
             ORDER BY created_utc

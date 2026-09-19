@@ -5,10 +5,14 @@ import tempfile
 
 from generate_archive import format_comment_markdown
 from generate_site import (
+    _CSS,
+    _PARENTS_JS,
     body_to_html,
     collect_offline_files,
+    count_parent_nodes,
     page_shell,
     render_comment,
+    render_thread,
     render_thread_page,
 )
 from threads import build_comment_threads
@@ -23,6 +27,7 @@ def _row(
     parent_author=None,
     parent_body=None,
     parent_permalink=None,
+    parent_parent_id=None,
     created=1.0,
 ):
     return {
@@ -35,6 +40,7 @@ def _row(
         "parent_author": parent_author,
         "parent_body": parent_body,
         "parent_permalink": parent_permalink,
+        "parent_parent_id": parent_parent_id,
     }
 
 
@@ -60,6 +66,8 @@ def test_offline_and_shell() -> None:
     assert 'src="assets/parents.js"' in home
     assert 'id="offline-save"' in home
     assert "va-show-parents" in home
+    assert "html:not(.show-parents) .comment.parent { display: none; }" in _CSS
+    assert "scrollIntoView" in _PARENTS_JS
 
     thread = page_shell("T", "    <p>hi</p>", root="../")
     assert 'data-root="../"' in thread
@@ -121,8 +129,9 @@ def test_synthetic_parents_and_no_quote_prefix() -> None:
     assert parent.user == "layperson"
     assert [c.id for c in parent.children] == ["a1", "a2"]
 
-    html = render_comment(parent)
+    html = render_thread(parent)
     assert 'class="comment parent"' in html
+    assert 'class="hd"' in html
     assert "parent-quote" not in html
     assert "the whole parent question" in html
     assert 'class="comment teacher"' in html
@@ -130,6 +139,7 @@ def test_synthetic_parents_and_no_quote_prefix() -> None:
     assert "<blockquote>" in html
     assert "selected" in html
     assert "my reply" in html
+    assert count_parent_nodes(roots) == 1
 
     child = render_comment(without[0].children[0])
     assert "parent-quote" not in html
@@ -149,8 +159,25 @@ def test_synthetic_parents_and_no_quote_prefix() -> None:
         year=2025,
     )
     assert 'id="show-parents"' in page
-    assert "Show full user replies" in page
+    assert "Show 1 user reply" in page
     assert page.count('class="comment parent"') == 1
+    assert "html:not(.show-parents) .comment.parent { display: none; }" in _CSS
+    assert 'classList.toggle("show-parents", on)' in _PARENTS_JS
+
+    teachers_only = render_thread_page(
+        {
+            "title": "T",
+            "author": "op",
+            "subreddit": "r/x",
+            "created_at": 1,
+            "link": "https://reddit.com/t",
+            "body": "op body",
+        },
+        [_row("a3", body="top-level")],
+        year=2025,
+    )
+    assert 'id="show-parents"' not in teachers_only
+    assert 'class="comment parent"' not in teachers_only
 
 
 def test_full_markdown_nests_parent_not_blockquote() -> None:
@@ -173,11 +200,35 @@ def test_full_markdown_nests_parent_not_blockquote() -> None:
     assert md.index("question") < md.index("Bhikkhu_Anigha")
 
 
+def test_synthetic_parent_nests_under_known_grandparent() -> None:
+    comments = [
+        _row("t1", body="teacher first", created=1),
+        _row("t2", body="teacher again", parent_id="u1", parent_author="user",
+             parent_body="follow-up question", parent_parent_id="t1", created=3),
+        # grandparent not archived -> stays a root
+        _row("t3", body="elsewhere", parent_id="u2", parent_author="user",
+             parent_body="other question", parent_parent_id="zzz", created=5),
+    ]
+    roots = build_comment_threads(comments, include_missing_parents=True)
+    assert [n.id for n in roots] == ["t1", "u2"]
+    assert [c.id for c in roots[0].children] == ["u1"]
+    assert [c.id for c in roots[0].children[0].children] == ["t2"]
+
+    # linear chain: no branch labels; a real branch gets one
+    assert "replying to" not in render_thread(roots[0])
+    comments.append(_row("t4", body="side reply", parent_id="t1", created=4))
+    roots = build_comment_threads(comments, include_missing_parents=True)
+    page = render_thread(roots[0])
+    assert page.count("replying to") == 1
+    assert 'href="#c-t1">↳ replying to Bhikkhu_Anigha' in page
+
+
 def main() -> None:
     test_offline_and_shell()
     test_body_to_html_quotes()
     test_synthetic_parents_and_no_quote_prefix()
     test_full_markdown_nests_parent_not_blockquote()
+    test_synthetic_parent_nests_under_known_grandparent()
     print("ok")
 
 
