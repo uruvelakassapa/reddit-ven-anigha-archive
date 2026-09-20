@@ -40,30 +40,32 @@ Examples such as Koṇḍañña, Bāhiya, and Uruvelā Kassapa also come to mind
 
 So I was wondering whether you **intentionally meant** that their practice was simply “wrong” without such qualification, or is it again simply a semantic limitation of the word?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w6cg5g/question_on_recent_video_is_stream_entry_an_event/p7sa8ab/)** _2026-09-04 14:25:25_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w6cg5g/question_on_recent_video_is_stream_entry_an_event/p7sa8ab/)** _2026-09-04 14:25:25_
 
-    > If so, is the analogy intended to apply fully (as above) to the "event of realization" as well — i.e. that one can subsequently remember having realized, without that memory necessarily identifying a definite crossover point in time? 
+> If so, is the analogy intended to apply fully (as above) to the "event of realization" as well — i.e. that one can subsequently remember having realized, without that memory necessarily identifying a definite crossover point in time? 
 
-    It does apply fully, and that was precisely the point of the analogy. 
+It does apply fully, and that was precisely the point of the analogy. 
 
-    > the “event of realization” is in fact a phenomenologically identifiable precise crossover point
+> the “event of realization” is in fact a phenomenologically identifiable precise crossover point
 
-    Certainly not. It's not like there is a "switch" that could have flipped without you noticing it (which is what the "precise crossover point" idea allows for), because the realization itself *is the noticing.* Stream-entry is *knowing that you know.* 
+Certainly not. It's not like there is a "switch" that could have flipped without you noticing it (which is what the "precise crossover point" idea allows for), because the realization itself *is the noticing.* Stream-entry is *knowing that you know.* 
 
-    Similarly, nothing along the lines of "my experience changed in such and such a way" can ever be a measure of stream-entry. Even "my suffering has uninterruptedly lessened to almost zero for the last X amount of years" is not *understanding*, and can certainly happen without it. You would be *inferring* that understanding occurred because of the change, and inference is diametrically opposed to *knowing that you know.* 
+Similarly, nothing along the lines of "my experience changed in such and such a way" can ever be a measure of stream-entry. Even "my suffering has uninterruptedly lessened to almost zero for the last X amount of years" is not *understanding*, and can certainly happen without it. You would be *inferring* that understanding occurred because of the change, and inference is diametrically opposed to *knowing that you know.* 
 
-    > So I was wondering whether you intentionally meant that their practice was simply “wrong” without such qualification, or is it again simply a semantic limitation of the word? 
+> So I was wondering whether you intentionally meant that their practice was simply “wrong” without such qualification, or is it again simply a semantic limitation of the word? 
 
-    If something misleads you regarding freedom from suffering then it is wrong. When you're comparing practices as an external observer then you can talk about "more wrong" and less "wrong." But internally, as an authentic individual who is committed to something for the sake of liberation—which was the context of my statement—that something is either correct or not, and you will give it up if you recognize it as the latter. You would not knowingly settle for "less wrong."
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w6cg5g/question_on_recent_video_is_stream_entry_an_event/p7z5hbh/)** _2026-09-05 14:11:59_ *(in reply to upasakatrainee)*:
+If something misleads you regarding freedom from suffering then it is wrong. When you're comparing practices as an external observer then you can talk about "more wrong" and less "wrong." But internally, as an authentic individual who is committed to something for the sake of liberation—which was the context of my statement—that something is either correct or not, and you will give it up if you recognize it as the latter. You would not knowingly settle for "less wrong."
 
-    > It is an “event” in the sense of a distinctly knowable occurrence, such that one can remember with certainty that “this happened; before this, I didn’t know it; now I do,” while the precise temporal coordinates and circumstantial details may later fade away like any other memory. Does that sound right? 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w6cg5g/question_on_recent_video_is_stream_entry_an_event/p7z5hbh/)** _2026-09-05 14:11:59_ *(in reply to upasakatrainee)*
 
-    There is no "this happened." One realizes that one's understanding is no longer subject to doubt by directly seeing that it is no longer subject to doubt; that certainty is not inferred from any kind of event or occurrence.
+> It is an “event” in the sense of a distinctly knowable occurrence, such that one can remember with certainty that “this happened; before this, I didn’t know it; now I do,” while the precise temporal coordinates and circumstantial details may later fade away like any other memory. Does that sound right? 
 
-    What one can remember is the occasion on which one first confirmed that one's understanding had overcome doubt: despite arousing a genuine sense of uncertainty by trying to doubt it, that uncertainty poses no threat at all to one's clarity. 
+There is no "this happened." One realizes that one's understanding is no longer subject to doubt by directly seeing that it is no longer subject to doubt; that certainty is not inferred from any kind of event or occurrence.
 
-    It is not that no uncertainty arises and therefore one is certain. The absence of uncertainty merely means that one has *decided* to hold back on questioning.
+What one can remember is the occasion on which one first confirmed that one's understanding had overcome doubt: despite arousing a genuine sense of uncertainty by trying to doubt it, that uncertainty poses no threat at all to one's clarity. 
+
+It is not that no uncertainty arises and therefore one is certain. The absence of uncertainty merely means that one has *decided* to hold back on questioning.
+
 
 ---
 
@@ -106,34 +108,38 @@ My article is an attempt to assess the fact that awareness of said background re
 
 I hope this cleared up misunderstandings.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6sujbk/)** _2026-08-30 14:41:40_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6sujbk/)** _2026-08-30 14:41:40_
 
-    There are two main issues with this:
+There are two main issues with this:
 
-    1. As even mundane phenomenologists like Husserl and Sartre pointed out, phenomenology requires you to set aside the scientific outlook from the outset. You simply cannot expect science to "prove" anything about our phenomenological experience without already having abandoned the ability to understand experience on its own terms.
+1. As even mundane phenomenologists like Husserl and Sartre pointed out, phenomenology requires you to set aside the scientific outlook from the outset. You simply cannot expect science to "prove" anything about our phenomenological experience without already having abandoned the ability to understand experience on its own terms.
 
-    Understanding experience on their own terms—from the "inside" rather than through an external lens like that of science, or even Buddhist quasi-science like the Abhidhamma—is what the Dhamma is about. That is why no Arahant or noble disciple ever *could* turn to science to support his insights; that very attempt takes those insights outside of the only domain where they apply, and he would be thoroughly aware of that by that point.
+Understanding experience on their own terms—from the "inside" rather than through an external lens like that of science, or even Buddhist quasi-science like the Abhidhamma—is what the Dhamma is about. That is why no Arahant or noble disciple ever *could* turn to science to support his insights; that very attempt takes those insights outside of the only domain where they apply, and he would be thoroughly aware of that by that point.
 
-    2. Whatever "processes" were being observed in the subjects of the studies you refer to are not what we refer to as peripheral awareness (or *yoniso manasikāra,* more accurately). Quite unlike an "automatic proprioceptive sampling" that happens on its own, yoniso manasikāra requires a lot of work to achieve. It does not exist for most practitioners, let alone the completely worldly people that would've participated in those studies. It is possible to achieve only internally—i.e., phenomenologically—for those who have taken on the precepts, withdrawn from sensuality, contemplated the danger in it, abandoned modern wrong views about the practice, etc.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6t8347/)** _2026-08-30 15:45:39_ *(in reply to EmptinessInForm)*:
+2. Whatever "processes" were being observed in the subjects of the studies you refer to are not what we refer to as peripheral awareness (or *yoniso manasikāra,* more accurately). Quite unlike an "automatic proprioceptive sampling" that happens on its own, yoniso manasikāra requires a lot of work to achieve. It does not exist for most practitioners, let alone the completely worldly people that would've participated in those studies. It is possible to achieve only internally—i.e., phenomenologically—for those who have taken on the precepts, withdrawn from sensuality, contemplated the danger in it, abandoned modern wrong views about the practice, etc.
 
-    > Cogsci is just phenomenology that also actually correlates with behavioural results that confirm said phenomenology.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6t8347/)** _2026-08-30 15:45:39_ *(in reply to EmptinessInForm)*
 
-    Correlating with behavioral/experimental results means applying a third-person point of view over experience, so that can't be phenomenology by definition:
+> Cogsci is just phenomenology that also actually correlates with behavioural results that confirm said phenomenology.
 
-    > [Phenomenology is the study of structures of consciousness as experienced **from the first-person point of view.**](https://plato.stanford.edu/entries/phenomenology/).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6te7xq/)** _2026-08-30 16:13:40_ *(in reply to EmptinessInForm)*:
+Correlating with behavioral/experimental results means applying a third-person point of view over experience, so that can't be phenomenology by definition:
 
-    > I didn’t say cogsci is phenomenology - I said it is phenomenology + behavioural experiments. 
+> [Phenomenology is the study of structures of consciousness as experienced **from the first-person point of view.**](https://plato.stanford.edu/entries/phenomenology/).
 
-    And my point is that if you try to combine these two, there is no proper phenomenology anymore.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6te7xq/)** _2026-08-30 16:13:40_ *(in reply to EmptinessInForm)*
 
-    > In that case, I would be highly motivated to come to Samandipa to attempt some experiments. 
+> I didn’t say cogsci is phenomenology - I said it is phenomenology + behavioural experiments. 
 
-    I'm afraid we wouldn't consent to that, as it would only reinforce the misconception that science and the Dhamma can even speak about the same things, let alone "agree" with each other. That view needs to be given up in order to meet the Dhamma where it is.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6zoay2/)** _2026-08-31 14:50:49_ *(in reply to blimpyway)*:
+And my point is that if you try to combine these two, there is no proper phenomenology anymore.
 
-    Nothing in a wrench makes it inherently necessary to put all screwdrivers aside, so that's a false analogy.
+> In that case, I would be highly motivated to come to Samandipa to attempt some experiments. 
+
+I'm afraid we wouldn't consent to that, as it would only reinforce the misconception that science and the Dhamma can even speak about the same things, let alone "agree" with each other. That view needs to be given up in order to meet the Dhamma where it is.
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1w2fs8t/deconstructing_the_nontechnique_fallacy_why/p6zoay2/)** _2026-08-31 14:50:49_ *(in reply to blimpyway)*
+
+Nothing in a wrench makes it inherently necessary to put all screwdrivers aside, so that's a false analogy.
+
 
 ---
 
@@ -146,11 +152,12 @@ My question focuses on right livelihood: I mostly make a living by teaching musi
 I know that in order to progress I should give up this activity. But I need help understanding the necessity, as it is not entirely obvious to me.
 Should I abandon this livelihood/profession, I would need to look for a job in cleaning, transportation, or some similar service. Personally, I am not afraid of that change, but I am afraid of the opinions of my family and wife, who would likely see it as something wrong.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vzx4yl/right_livelihood_as_a_musician/p6qtlrz/)** _2026-08-30 05:57:41_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vzx4yl/right_livelihood_as_a_musician/p6qtlrz/)** _2026-08-30 05:57:41_
 
-    Whenever you willingly exposure yourself (or others) to music, even if with a relatively disinterested attitude initially, you have opened the door the possibility of passion, and that choice is by itself a defilement (a kind of delusion/non-clarity) even if no acute passion ends up materializing. 
+Whenever you willingly exposure yourself (or others) to music, even if with a relatively disinterested attitude initially, you have opened the door the possibility of passion, and that choice is by itself a defilement (a kind of delusion/non-clarity) even if no acute passion ends up materializing. 
 
-    It is one of those cases where the thing in question does not appear like an inherent obstacle, but it becomes an obstacle when not given up simply due to the implications of the choice to maintain it (MN 66).
+It is one of those cases where the thing in question does not appear like an inherent obstacle, but it becomes an obstacle when not given up simply due to the implications of the choice to maintain it (MN 66).
+
 
 ---
 
@@ -167,11 +174,12 @@ I figure the best answer might be something like "just endure it". But I really 
 
 Thank you
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vs8zs5/fail_to_escape_from_sensuality/p4rmcsc/)** _2026-08-20 05:20:54_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vs8zs5/fail_to_escape_from_sensuality/p4rmcsc/)** _2026-08-20 05:20:54_
 
-    > What is your advice in situation like this? 
+> What is your advice in situation like this? 
 
-    Keep your ways of managing the pain within the precepts. You won't realistically be able to not manage it at all from day one.
+Keep your ways of managing the pain within the precepts. You won't realistically be able to not manage it at all from day one.
+
 
 ---
 
@@ -202,20 +210,22 @@ My question is: Have I understood the teachings of this and similar suttas corre
 
 It would be great if a whole sutta study like talk is made on this topic. 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vqf6ci/kosambiya_sutta_and_fostering_harmony/p45xcvu/)** _2026-08-17 05:24:11_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vqf6ci/kosambiya_sutta_and_fostering_harmony/p45xcvu/)** _2026-08-17 05:24:11_
 
-    You seem to be reading into the Sutta something that it never says: that kind and "positive" actions are *part of the training*. They are not, and that's why we don't talk about them. Not because one should refrain from them altogether.
+You seem to be reading into the Sutta something that it never says: that kind and "positive" actions are *part of the training*. They are not, and that's why we don't talk about them. Not because one should refrain from them altogether.
 
-    Plus, the friendly conduct that the Sutta describes naturally arises as a byproduct of having trained the mind away from intentions of ill-will, so it's not even like one has to make that into a "practice" of its own. Trying to do so only serves to indicate that one is not overcoming ill-will but instead artificially overriding it (and those are mutually exclusive).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vqf6ci/kosambiya_sutta_and_fostering_harmony/p482crx/)** _2026-08-17 14:18:32_ *(in reply to titikshakshanti)*:
+Plus, the friendly conduct that the Sutta describes naturally arises as a byproduct of having trained the mind away from intentions of ill-will, so it's not even like one has to make that into a "practice" of its own. Trying to do so only serves to indicate that one is not overcoming ill-will but instead artificially overriding it (and those are mutually exclusive).
 
-    > There are many Vinaya rules and stories about such actions that foster harmony.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vqf6ci/kosambiya_sutta_and_fostering_harmony/p482crx/)** _2026-08-17 14:18:32_ *(in reply to titikshakshanti)*
 
-    Sure. That still doesn't mean it's on par with the restraint of actions out of ill-will. Harmony is a mundane but still quite important concern especially in the context of the Saṅgha.
+> There are many Vinaya rules and stories about such actions that foster harmony.
 
-    >  I was not clear but underlying thought process was something like that: I will obey precepts against wrong speech and wrong actions and refrain from active kind and positive actions. It
+Sure. That still doesn't mean it's on par with the restraint of actions out of ill-will. Harmony is a mundane but still quite important concern especially in the context of the Saṅgha.
 
-    That reasoning is the problem then. You shouldn't blindly try to avoid those actions as if they are bad in themselves. You should just not put them anywhere near on the same level as the precepts and sense restraint, because then you would exempt them from questioning and overlook when they are rooted in delight in company and similar.
+>  I was not clear but underlying thought process was something like that: I will obey precepts against wrong speech and wrong actions and refrain from active kind and positive actions. It
+
+That reasoning is the problem then. You shouldn't blindly try to avoid those actions as if they are bad in themselves. You should just not put them anywhere near on the same level as the precepts and sense restraint, because then you would exempt them from questioning and overlook when they are rooted in delight in company and similar.
+
 
 ---
 
@@ -234,136 +244,148 @@ Apparently, many people are confused, and in some cases, become discouraged to p
 
 Can the Venerables accomplish this task?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3o09cz/)** _2026-08-14 15:38:13_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3o09cz/)** _2026-08-14 15:38:13_
 
-    > Create an entire series strictly for laypeople in how to practice the Buddha’s teachings.
+> Create an entire series strictly for laypeople in how to practice the Buddha’s teachings.
 
-    This is what all of the published talks are already geared towards. 
+This is what all of the published talks are already geared towards. 
 
-    > Apparently, many people are confused, and in some cases, become discouraged to practice due to the beliefs of how to practice as a layperson regarding Sotapatti attainment. 
+> Apparently, many people are confused, and in some cases, become discouraged to practice due to the beliefs of how to practice as a layperson regarding Sotapatti attainment. 
 
-    How do you propose preventing such discouragement?
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3oo08r/)** _2026-08-14 17:21:15_ *(in reply to AwakenTheWisdom)*:
+How do you propose preventing such discouragement?
 
-    I don't think we can make it any clearer that it's the former.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3sg6bq/)** _2026-08-15 05:33:37_ *(in reply to account-7)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3oo08r/)** _2026-08-14 17:21:15_ *(in reply to AwakenTheWisdom)*
 
-    The answer is B. It's a structural necessity rather than a pragmatic one.
+I don't think we can make it any clearer that it's the former.
 
-    What seems to confuse people (and make them think we're contradicting the Suttas) is that they hear "you won't get the Right View unless you've been celibate for a long time" when we say "celibacy is indispensable." But how long a person has been celibate does not by itself tell you anything about how they relate to sensuality internally (i.e., they might still not be striving to categorically break away from it).
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3sg6bq/)** _2026-08-15 05:33:37_ *(in reply to account-7)*
 
-    Unconditional celibacy is simply the result of a person striving to categorically abandon sensuality and seeing the peril in it, and success in *that* is what makes insight possible (as the Suttas clearly show).
+The answer is B. It's a structural necessity rather than a pragmatic one.
 
-    Now, how long it will take for that striving to succeed (for the mind to be free from the hindrances), you cannot say in advance. And *here* is where I would make a pragmatic rather than categorical statement: for most people it will probably take years of unconditional celibacy (and of the further restraints that only become possible within that).
+What seems to confuse people (and make them think we're contradicting the Suttas) is that they hear "you won't get the Right View unless you've been celibate for a long time" when we say "celibacy is indispensable." But how long a person has been celibate does not by itself tell you anything about how they relate to sensuality internally (i.e., they might still not be striving to categorically break away from it).
 
-    And by the way, the reason why it has to be *unconditional* celibacy and not just "I'll be celibate until I get the Right View" is that the intention to return to sensuality after the right view, or at any point, [is a categorical hindrance *in the present.*](https://suttas.hillsidehermitage.org/?q=mn16#mn16:12.4_mn16:13.1) It means the danger is being altogether dismissed.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3uw1u6/)** _2026-08-15 15:37:43_ *(in reply to account-7)*:
+Unconditional celibacy is simply the result of a person striving to categorically abandon sensuality and seeing the peril in it, and success in *that* is what makes insight possible (as the Suttas clearly show).
 
-    >  Because irrespective of my (and anyone’s) personal opinion of whether right view is a tangible possibility without years of unbroken celibacy, I think greater separation being made between the structural requirement and the practical reality you have seen/believe in would serve to help the community and prevent discouragement. 
+Now, how long it will take for that striving to succeed (for the mind to be free from the hindrances), you cannot say in advance. And *here* is where I would make a pragmatic rather than categorical statement: for most people it will probably take years of unconditional celibacy (and of the further restraints that only become possible within that).
 
-    If you think this separation would make the pill easier to swallow, you're underestimating what I mean by "unconditional celibacy" and the internal abandonment of sensuality. The massive gap between the number of stream-enterers and lifelong monks proves that being celibate for decades is a far more accessible achievement than true internal renunciation.
+And by the way, the reason why it has to be *unconditional* celibacy and not just "I'll be celibate until I get the Right View" is that the intention to return to sensuality after the right view, or at any point, [is a categorical hindrance *in the present.*](https://suttas.hillsidehermitage.org/?q=mn16#mn16:12.4_mn16:13.1) It means the danger is being altogether dismissed.
 
-    Said differently, if "I need to be celibate for years" causes discouragement, true internal renunciation will be even more unpalatable.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3z5aj3/)** _2026-08-16 05:37:08_ *(in reply to account-7)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3uw1u6/)** _2026-08-15 15:37:43_ *(in reply to account-7)*
 
-    >  Did I misinterpret what Ajahn said? 
+>  Because irrespective of my (and anyone’s) personal opinion of whether right view is a tangible possibility without years of unbroken celibacy, I think greater separation being made between the structural requirement and the practical reality you have seen/believe in would serve to help the community and prevent discouragement. 
 
-    Yes, if you understood it as "you can stop there and that'll be good enough." That would mean not actually accepting the situation as compromised (and sensuality as dangerous and painful) and so being fine with settling within it (and *not* doing this was in fact the whole point of the talk).
+If you think this separation would make the pill easier to swallow, you're underestimating what I mean by "unconditional celibacy" and the internal abandonment of sensuality. The massive gap between the number of stream-enterers and lifelong monks proves that being celibate for decades is a far more accessible achievement than true internal renunciation.
 
-    If you took the five precepts and occasional eight with the right outlook, you would still be seeing every bit of sensuality as something to be abandoned and actively striving towards that ideal (and eventually achieving it if you indeed get the Right View). Meaning, you would still feel very much compelled to achieve unbroken celibacy and sense restraint, and would be unable to be content with less than that.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p45v8ql/)** _2026-08-17 05:07:50_ *(in reply to account-7)*:
+Said differently, if "I need to be celibate for years" causes discouragement, true internal renunciation will be even more unpalatable.
 
-    > Which I assume if someone manages to succeed in this disadvantaged position, then either by the end of one's life or in subsequent rebirth a celibate lifestyle must and willingly will be undertaken on account of attaining the right view. 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p3z5aj3/)** _2026-08-16 05:37:08_ *(in reply to account-7)*
 
-    The celibate lifestyle must be undertaken to attain the right view, not after it. That was the point of my earlier comment. All I conceded is that a person can *start* with five precepts and occasional eight, but it is impossible for one's mind to be freed from the hindrances (the prerequisite for the right view) unless one's mind has let go of sensuality categorically and unconditionally. The person who properly took on the practice towards right view would be aware of this from the beginning, and hence they would be working towards it even if gradually.
+>  Did I misinterpret what Ajahn said? 
 
-    So just to reiterate, nothing has changed from my first answer in this thread. Without undertaking permanent celibacy and taming the mind to be content with that, one will not get the Right View.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p48qp41/)** _2026-08-17 16:08:11_ *(in reply to account-7)*:
+Yes, if you understood it as "you can stop there and that'll be good enough." That would mean not actually accepting the situation as compromised (and sensuality as dangerous and painful) and so being fine with settling within it (and *not* doing this was in fact the whole point of the talk).
 
-    > Not in regards to doctrine or the general structure, but it seems primarily in regards to the possibility for a mind to be truly freed from the hindrances in a shorter duration of time and in more flexible of circumstances than you say.
+If you took the five precepts and occasional eight with the right outlook, you would still be seeing every bit of sensuality as something to be abandoned and actively striving towards that ideal (and eventually achieving it if you indeed get the Right View). Meaning, you would still feel very much compelled to achieve unbroken celibacy and sense restraint, and would be unable to be content with less than that.
 
-    This is most probably because we're not on the same page about what the hindrances are. Knowing them for what they are would show why any trace of non-celibate intentions—even mere doubt about the unconditionality of one's celibate resolve—is inseparable from them.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p45v8ql/)** _2026-08-17 05:07:50_ *(in reply to account-7)*
 
-    > So in the future outside this thread, I'll keep this opinion off this sub since I don't want to place any undue conflict on your teachings. 
+> Which I assume if someone manages to succeed in this disadvantaged position, then either by the end of one's life or in subsequent rebirth a celibate lifestyle must and willingly will be undertaken on account of attaining the right view. 
 
-    That's not necessary. Even people who are in full agreement with our position and are already celibate can benefit from these discussions.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4a8s7w/)** _2026-08-17 19:59:49_ *(in reply to account-7)*:
+The celibate lifestyle must be undertaken to attain the right view, not after it. That was the point of my earlier comment. All I conceded is that a person can *start* with five precepts and occasional eight, but it is impossible for one's mind to be freed from the hindrances (the prerequisite for the right view) unless one's mind has let go of sensuality categorically and unconditionally. The person who properly took on the practice towards right view would be aware of this from the beginning, and hence they would be working towards it even if gradually.
 
-    > So if I'm following this correctly, then you mean "hindrance" is defined broadly enough that any residual sensual intention counts, correct?
+So just to reiterate, nothing has changed from my first answer in this thread. Without undertaking permanent celibacy and taming the mind to be content with that, one will not get the Right View.
 
-    Yes. And even without explicit sensual intention, any elation or zeal toward the prospect of sense pleasures counts. It means the danger is not seen.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p48qp41/)** _2026-08-17 16:08:11_ *(in reply to account-7)*
 
-    So freedom from the hindrance of sensuality is not "I have no thoughts about sensual pleasures at the moment", which anyone can achieve even without any real precepts through misguided practices. It's "No zeal arises even when I openly imagine the most alluring pleasures because the danger is clear."
+> Not in regards to doctrine or the general structure, but it seems primarily in regards to the possibility for a mind to be truly freed from the hindrances in a shorter duration of time and in more flexible of circumstances than you say.
 
-    > So by that metric, then "freedom from hindrances requires categorical celibacy" becomes true by definition, not by argument.
+This is most probably because we're not on the same page about what the hindrances are. Knowing them for what they are would show why any trace of non-celibate intentions—even mere doubt about the unconditionality of one's celibate resolve—is inseparable from them.
 
-    Exactly. Hence anyone demanding further argument or Sutta evidence is failing to see what freedom from the hindrances means.
+> So in the future outside this thread, I'll keep this opinion off this sub since I don't want to place any undue conflict on your teachings. 
 
-    > And that is why you would find it highly unlikely that anyone who hasn't been celibate for years could get there?
+That's not necessary. Even people who are in full agreement with our position and are already celibate can benefit from these discussions.
 
-    Yes, but again, the claim that celibacy is required has nothing to do with this pragmatic duration issue. It's because nothing short of permanent, unconditional celibacy and sense restraint is a sufficient condition for freedom from the hindrances. Without that, you remain settled in the infinitely more comfortable status quo of *some* sensuality compared to none at all, so the mind has no incentive to go past that—to internalize the danger and abandon sensuality at the fundamental level of the hindrances.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4a8s7w/)** _2026-08-17 19:59:49_ *(in reply to account-7)*
 
-    > The explanation then given for the suttas seeming counterexamples would be, as I believe you've said, that the Buddha (and noble disciples) remarkable and singular ability to see the mind of the person they are talking to and navigate it more skillfully than anyone could today.
+> So if I'm following this correctly, then you mean "hindrance" is defined broadly enough that any residual sensual intention counts, correct?
 
-    Yes. Their minds let go far more quickly than usual once confined to permanent non-sensuality because the Buddha was able to directly convey to them the benefit of that total confinement—and the danger of trespassing it—purely through a well-tailored teaching (which obviously would've been much more lengthy and detailed compared to what you find in the text). But whether the Buddha is teaching you or you are doing the work yourself, the confinement must be the same, and the mind must equally lose its desire to go out of it in order to be ready to understand. How long that takes and how difficult it is—and whether you're even able to get the Right View from one or even numerous conversations; countless people did not—depends on how dependent on sensuality you were.
+Yes. And even without explicit sensual intention, any elation or zeal toward the prospect of sense pleasures counts. It means the danger is not seen.
 
-    On the subject of the extent of dependence, one thing I've pointed out in the past but is worth repeating is that none of those accounts actually prove what people who resist celibacy want them to. Whatever sensuality those people engaged in happened either before they even knew the path existed, or after they reaped its fruits and suspended it due to complacency. Thinking one is on the path while still allowing oneself to enjoy sensuality even as a prospect, *despite already hearing about its dangers extensively*, is a very different internal situation that indicates not just a greater dependence on sensuality, but also heedlessness, stubbornness, and lack of faith in the actual teaching. 
+So freedom from the hindrance of sensuality is not "I have no thoughts about sensual pleasures at the moment", which anyone can achieve even without any real precepts through misguided practices. It's "No zeal arises even when I openly imagine the most alluring pleasures because the danger is clear."
 
-    That essentially sums up the categorical obstacles to growth in the Dhamma listed in [MN 16](https://suttas.hillsidehermitage.org/?q=mn16).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4czi37/)** _2026-08-18 05:00:08_ *(in reply to account-7)*:
+> So by that metric, then "freedom from hindrances requires categorical celibacy" becomes true by definition, not by argument.
 
-    > Because it feels clear that a mind - once at least modestly weened off of sensuality and dispelled of a good number of wrong views - is still capable of letting go quickly, of rapidly letting go of intentions and all zeal for sensuality given the right environment. 
+Exactly. Hence anyone demanding further argument or Sutta evidence is failing to see what freedom from the hindrances means.
 
-    This is again based on underestimating the hindrances. The attitude "I should be able to do it in X amount of time" automatically implies an end date to the confinement and thus dismantles its unconditionality. Unless returning to sensuality is altogether out of the question, the mind will not let go of it.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4h9p1k/)** _2026-08-18 19:32:13_ *(in reply to account-7)*:
+> And that is why you would find it highly unlikely that anyone who hasn't been celibate for years could get there?
 
-    > Still, I see it as underestimating the mind’s ability to let go very deeply, very rapidly in the right conditions (imo, still wholly possible in the present).
+Yes, but again, the claim that celibacy is required has nothing to do with this pragmatic duration issue. It's because nothing short of permanent, unconditional celibacy and sense restraint is a sufficient condition for freedom from the hindrances. Without that, you remain settled in the infinitely more comfortable status quo of *some* sensuality compared to none at all, so the mind has no incentive to go past that—to internalize the danger and abandon sensuality at the fundamental level of the hindrances.
 
-    It does seem you're overlooking that even the mildest intentions to return to sensuality at some point very much exist in the present (they can't be anywhere else). On the scale that matters, one's letting go remains superficial as long as those intentions remain.
+> The explanation then given for the suttas seeming counterexamples would be, as I believe you've said, that the Buddha (and noble disciples) remarkable and singular ability to see the mind of the person they are talking to and navigate it more skillfully than anyone could today.
 
-    > Please don’t think I mean the superficial, isolated states of calm people can find on most kinds of retreats either.
+Yes. Their minds let go far more quickly than usual once confined to permanent non-sensuality because the Buddha was able to directly convey to them the benefit of that total confinement—and the danger of trespassing it—purely through a well-tailored teaching (which obviously would've been much more lengthy and detailed compared to what you find in the text). But whether the Buddha is teaching you or you are doing the work yourself, the confinement must be the same, and the mind must equally lose its desire to go out of it in order to be ready to understand. How long that takes and how difficult it is—and whether you're even able to get the Right View from one or even numerous conversations; countless people did not—depends on how dependent on sensuality you were.
 
-    I wasn't thinking that. That's only the very tip of the iceberg when it comes to underestimating the hindrances.
+On the subject of the extent of dependence, one thing I've pointed out in the past but is worth repeating is that none of those accounts actually prove what people who resist celibacy want them to. Whatever sensuality those people engaged in happened either before they even knew the path existed, or after they reaped its fruits and suspended it due to complacency. Thinking one is on the path while still allowing oneself to enjoy sensuality even as a prospect, *despite already hearing about its dangers extensively*, is a very different internal situation that indicates not just a greater dependence on sensuality, but also heedlessness, stubbornness, and lack of faith in the actual teaching. 
 
-    > I’m speaking to sincere practitioners in compromised life circumstances. 
+That essentially sums up the categorical obstacles to growth in the Dhamma listed in [MN 16](https://suttas.hillsidehermitage.org/?q=mn16).
 
-    I would also recommend considering how much your hesitation is being influenced by a gut feeling that surely, such people must be able to succeed without abandoning those compromises because the alternative would be too grim.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4czi37/)** _2026-08-18 05:00:08_ *(in reply to account-7)*
 
-    If you're not emotionally prepared to accept a scenario, distrust whatever reasoning you find to reject it, since the weight of that reasoning will absolutely be inflated in a way that you don't realize.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4oyw0j/)** _2026-08-19 20:34:56_ *(in reply to account-7)*:
+> Because it feels clear that a mind - once at least modestly weened off of sensuality and dispelled of a good number of wrong views - is still capable of letting go quickly, of rapidly letting go of intentions and all zeal for sensuality given the right environment. 
 
-    > But if your argument is that it's highly improbable that someone in a compromised cannot fully, completely, let go unless their external situation changes - that's fair.
+This is again based on underestimating the hindrances. The attitude "I should be able to do it in X amount of time" automatically implies an end date to the confinement and thus dismantles its unconditionality. Unless returning to sensuality is altogether out of the question, the mind will not let go of it.
 
-    Not quite. My point is that remaining in the compromised situation is a choice the person makes with full volition—that it is hard not to make it cannot remove that fact—and that choice it itself attachment. No letting go within that choice can override its significance, namely that one continues to perceive a charcoal pit as other than that (it's the only way to accept staying in it).
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4h9p1k/)** _2026-08-18 19:32:13_ *(in reply to account-7)*
 
-    It's not that one needs to take on permanent celibacy all at once or there is no hope. One can certainly build it up gradually, which was the point of that video we discussed earlier. But you need to be aware that making the compromise *is* being under the hindrances, and so you're practicing to make your mind strong and confident enough to *actually stop making the compromise.* Only then is stream-entry possible, but the efforts one makes within the compromise obviously still count.
+> Still, I see it as underestimating the mind’s ability to let go very deeply, very rapidly in the right conditions (imo, still wholly possible in the present).
 
-    >  Instead, it comes across to me like an ad hominem argument. 
+It does seem you're overlooking that even the mildest intentions to return to sensuality at some point very much exist in the present (they can't be anywhere else). On the scale that matters, one's letting go remains superficial as long as those intentions remain.
 
-    An ad hominem is not automatically invalid in a Dhamma discussion. The Dhamma is to be realized (and craving/suffering overcome) in relation to one's personal situation, not in abstraction. 
+> Please don’t think I mean the superficial, isolated states of calm people can find on most kinds of retreats either.
 
-    So if anything, failing to address the listener's personal circumstances makes any exchange less accurate and less likely to land deep enough, and I should've brought up that angle from the beginning.
+I wasn't thinking that. That's only the very tip of the iceberg when it comes to underestimating the hindrances.
 
-    > Though secondly, this is something I've seen here and I feel is not really a fair way to engage with someone because it's unfalsifiable
+> I’m speaking to sincere practitioners in compromised life circumstances. 
 
-    It's not unfair because this was never a competition, and the point I made is directly relevant in conveying what I've been trying to convey all along.
+I would also recommend considering how much your hesitation is being influenced by a gut feeling that surely, such people must be able to succeed without abandoning those compromises because the alternative would be too grim.
 
-    > emotionally accepting a scenario is different than pragmatically choosing one on account of the perceived harm you'd cause. 
+If you're not emotionally prepared to accept a scenario, distrust whatever reasoning you find to reject it, since the weight of that reasoning will absolutely be inflated in a way that you don't realize.
 
-    Taking the perception of harm caused to another as sufficient reason to not abandon sensuality is still an emotional decision rooted in one's own attachment, shown by how one wouldn't hesitate nearly as much if the "harmed" person was a complete stranger (and in that less invested scenario, causing displeasure would be more clearly seen as separate from causing harm).
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4oyw0j/)** _2026-08-19 20:34:56_ *(in reply to account-7)*
 
-    The distortion of perspective is not just in full blown lust and sensual addiction. It's in accepting the charcoal pit for *any* reason.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4rlbfc/)** _2026-08-20 05:12:54_ *(in reply to account-7)*:
+> But if your argument is that it's highly improbable that someone in a compromised cannot fully, completely, let go unless their external situation changes - that's fair.
 
-    > Where we ultimately differ comes down to how we interpret the early texts regarding the minimum baseline required for stream-entry versus the higher training. Not by lowering its structural requirements, which as you've said is what you think I'm subtly doing, but by making those internal requirements more externally demanding than I find the early texts to warrant. Namely, from the oft referenced suttas I immediately think of: An 5.179, Mn 73, An 4.55, An 6.44, etc. 
+Not quite. My point is that remaining in the compromised situation is a choice the person makes with full volition—that it is hard not to make it cannot remove that fact—and that choice it itself attachment. No letting go within that choice can override its significance, namely that one continues to perceive a charcoal pit as other than that (it's the only way to accept staying in it).
 
-    As I've noted before, all that these oft referenced examples show is that someone who's already entered the stream (or who hasn't even started the path) won't always be celibate. They cannot prove anything about the path itself.
+It's not that one needs to take on permanent celibacy all at once or there is no hope. One can certainly build it up gradually, which was the point of that video we discussed earlier. But you need to be aware that making the compromise *is* being under the hindrances, and so you're practicing to make your mind strong and confident enough to *actually stop making the compromise.* Only then is stream-entry possible, but the efforts one makes within the compromise obviously still count.
 
-    On the other hand, the Buddha does speak decisively and in structural terms about what is required for insight and progress in the Dhamma (e.g., SN 45.24, MN 36, MN 16, AN 4.5).
+>  Instead, it comes across to me like an ad hominem argument. 
 
-    > Namely, that complete celibacy, or more generally a total lack of circumstantial compromises in favor of an ideal practice/renunciation environment, isn't an absolute, categorical prerequisite for stream-entry.
+An ad hominem is not automatically invalid in a Dhamma discussion. The Dhamma is to be realized (and craving/suffering overcome) in relation to one's personal situation, not in abstraction. 
 
-    We've never said one needs to obtain an "ideal practice/renunciation environment" in order to succeed. All that can be applied to every individual is the celibacy part, due to sexuality being the one thing that must always be sensual. From then on, it's up each individual to honestly question themselves as to the sensual intentions, emotional pressures, and attachments behind whatever they do and choose to maintain within celibacy.
+So if anything, failing to address the listener's personal circumstances makes any exchange less accurate and less likely to land deep enough, and I should've brought up that angle from the beginning.
+
+> Though secondly, this is something I've seen here and I feel is not really a fair way to engage with someone because it's unfalsifiable
+
+It's not unfair because this was never a competition, and the point I made is directly relevant in conveying what I've been trying to convey all along.
+
+> emotionally accepting a scenario is different than pragmatically choosing one on account of the perceived harm you'd cause. 
+
+Taking the perception of harm caused to another as sufficient reason to not abandon sensuality is still an emotional decision rooted in one's own attachment, shown by how one wouldn't hesitate nearly as much if the "harmed" person was a complete stranger (and in that less invested scenario, causing displeasure would be more clearly seen as separate from causing harm).
+
+The distortion of perspective is not just in full blown lust and sensual addiction. It's in accepting the charcoal pit for *any* reason.
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1vo9dcp/i_have_a_request_for_hillside/p4rlbfc/)** _2026-08-20 05:12:54_ *(in reply to account-7)*
+
+> Where we ultimately differ comes down to how we interpret the early texts regarding the minimum baseline required for stream-entry versus the higher training. Not by lowering its structural requirements, which as you've said is what you think I'm subtly doing, but by making those internal requirements more externally demanding than I find the early texts to warrant. Namely, from the oft referenced suttas I immediately think of: An 5.179, Mn 73, An 4.55, An 6.44, etc. 
+
+As I've noted before, all that these oft referenced examples show is that someone who's already entered the stream (or who hasn't even started the path) won't always be celibate. They cannot prove anything about the path itself.
+
+On the other hand, the Buddha does speak decisively and in structural terms about what is required for insight and progress in the Dhamma (e.g., SN 45.24, MN 36, MN 16, AN 4.5).
+
+> Namely, that complete celibacy, or more generally a total lack of circumstantial compromises in favor of an ideal practice/renunciation environment, isn't an absolute, categorical prerequisite for stream-entry.
+
+We've never said one needs to obtain an "ideal practice/renunciation environment" in order to succeed. All that can be applied to every individual is the celibacy part, due to sexuality being the one thing that must always be sensual. From then on, it's up each individual to honestly question themselves as to the sensual intentions, emotional pressures, and attachments behind whatever they do and choose to maintain within celibacy.
+
 
 ---
 
@@ -372,13 +394,14 @@ Can the Venerables accomplish this task?
 
 Often renunciation is presented as a sacrifice, but what should one do when they experience craving towards it? For example, what if one feels aversion towards being in the company of others, or the burden of acquiring and maintaining family and material possessions? Though the inclination away from these things seem to be directionally inline with the Dhamma, what if the impulse behind it is aversion towards pressure?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v9kgqn/distinguishing_between_samvega_and_aversion/p0w8w26/)** _2026-07-31 15:43:20_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v9kgqn/distinguishing_between_samvega_and_aversion/p0w8w26/)** _2026-07-31 15:43:20_
 
-    > what if the impulse behind it is aversion towards pressure?
+> what if the impulse behind it is aversion towards pressure?
 
-    It will be to some extent. The whole path is based on "aversion" if you define it as simply not wanting something (i.e., suffering).
+It will be to some extent. The whole path is based on "aversion" if you define it as simply not wanting something (i.e., suffering).
 
-    What you then have to make sure is that avoiding company and acquisitions doesn't become a goal in itself: that the extent of that avoidance remains fully determined by what you personally need to keep your mind away from to subdue its craving, rather than blindly shunning this or that thing per se.
+What you then have to make sure is that avoiding company and acquisitions doesn't become a goal in itself: that the extent of that avoidance remains fully determined by what you personally need to keep your mind away from to subdue its craving, rather than blindly shunning this or that thing per se.
+
 
 ---
 
@@ -389,14 +412,16 @@ I will start a new degree this fall in a class where 75% are women. I will have 
 
 Is this a major hindrance even if one refrains from the pressure to engage in sex, flirt, seek it out, masturbate or act in any way that relieves the pressure?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/p09x2xf/)** _2026-07-28 14:50:20_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/p09x2xf/)** _2026-07-28 14:50:20_
 
-    > Is this a major hindrance even if one refrains from the pressure to engage in sex, flirt, seek it out, masturbate or act in any way that relieves the pressure?
+> Is this a major hindrance even if one refrains from the pressure to engage in sex, flirt, seek it out, masturbate or act in any way that relieves the pressure?
 
-    You can keep the precepts and so on, even avoid speaking to them, but since you're already not sure to what extent it would be a hindrance, the chance that you will be giving in to the pressure at least mentally—i.e., fall prey to the hindrance—is basically 100% (see the AN quote in that other comment). And for as long as that's the case, you can't take for granted that you won't act out in coarser ways when the opportunity arises.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/p17j91c/)** _2026-08-02 06:34:42_ *(in reply to titikshakshanti)*:
+You can keep the precepts and so on, even avoid speaking to them, but since you're already not sure to what extent it would be a hindrance, the chance that you will be giving in to the pressure at least mentally—i.e., fall prey to the hindrance—is basically 100% (see the AN quote in that other comment). And for as long as that's the case, you can't take for granted that you won't act out in coarser ways when the opportunity arises.
 
-    It applies universally only to the third precept.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v8s9z0/being_surrounded_by_beautiful_women/p17j91c/)** _2026-08-02 06:34:42_ *(in reply to titikshakshanti)*
+
+It applies universally only to the third precept.
+
 
 ---
 
@@ -405,28 +430,30 @@ Is this a major hindrance even if one refrains from the pressure to engage in se
 
 I have committed to the 5 precepts for life, but I'm hesitating committing to celibacy and non-entertainment for life. I know it's the right thing to do, and I've tried to convince myself with tons of HH videos and contemplation, but to no avail. I need to see the benefits first hand. And to do that, I need to progress in the practice, but is there any progression whatsoever without having made the clear intention to keep the 8 precepts forever? 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v89e8g/can_i_keep_the_precepts_as_a_trial_for_a_few/p09ugpm/)** _2026-07-28 14:38:54_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v89e8g/can_i_keep_the_precepts_as_a_trial_for_a_few/p09ugpm/)** _2026-07-28 14:38:54_
 
-    What's more important than committing for X amount of time is to change your view regarding the precepts: the point is not to figure out why you must keep them, but to confine your mind within them. No matter how clear and confident about your determination you were initially, that will fade once the mind starts feeling the confinement and trying to get out again. You have to be able to withstand even the most convincing feeling of "this is pointless" in order to succeed, because that's how much influence over your perception an untamed mind has.
+What's more important than committing for X amount of time is to change your view regarding the precepts: the point is not to figure out why you must keep them, but to confine your mind within them. No matter how clear and confident about your determination you were initially, that will fade once the mind starts feeling the confinement and trying to get out again. You have to be able to withstand even the most convincing feeling of "this is pointless" in order to succeed, because that's how much influence over your perception an untamed mind has.
 
-    If that's clear then sure, you can start out with a few months (but still unconditionally) before taking on the precepts for life.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v89e8g/can_i_keep_the_precepts_as_a_trial_for_a_few/p0bdm08/)** _2026-07-28 18:29:25_ *(in reply to wandering-on)*:
+If that's clear then sure, you can start out with a few months (but still unconditionally) before taking on the precepts for life.
 
-    > It can be helpful to recognize the other side of it, that the "confinement" of renunciation, of keeping the precepts, is in fact a joy, a bliss, a gift, a medicine, for the mind that sees rightly.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v89e8g/can_i_keep_the_precepts_as_a_trial_for_a_few/p0bdm08/)** _2026-07-28 18:29:25_ *(in reply to wandering-on)*
 
-    That will remain on the level of wishful thinking when the mind is obsessed with getting out of the confinement, and emphasizing it out of a sense that "renunciation shouldn't be unpleasant" will realistically result in compromising the confinement. The unpleasantness is not something you get to decide; it depends on how wild the mind is.
-    
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v89e8g/can_i_keep_the_precepts_as_a_trial_for_a_few/p0bj69k/)** _2026-07-28 18:52:47_ *(in reply to Agreeable_Range_8732)*:
+> It can be helpful to recognize the other side of it, that the "confinement" of renunciation, of keeping the precepts, is in fact a joy, a bliss, a gift, a medicine, for the mind that sees rightly.
 
-    > Won't my mind get an escape route if I don't intend to keep them forever?
+That will remain on the level of wishful thinking when the mind is obsessed with getting out of the confinement, and emphasizing it out of a sense that "renunciation shouldn't be unpleasant" will realistically result in compromising the confinement. The unpleasantness is not something you get to decide; it depends on how wild the mind is.
 
-    If you're preemptively making plans to break them during the few months then yes, that would be the escape route. So you just don't give the mind any confirmation that you will break the precepts at any point until the period is over (and that keeps fully open the possibility that the confinement will continue beyond that). That's also how the Uposatha should be kept.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v89e8g/can_i_keep_the_precepts_as_a_trial_for_a_few/p0bj69k/)** _2026-07-28 18:52:47_ *(in reply to Agreeable_Range_8732)*
 
-    > The ideal scenario in my mind was to keep the precepts for a while, and progress enough in the practice for me to want to keep the precepts for life, instead of forcing myself to. I mean, I would still be forcing myself, but having seen enough of the drawbacks of sensuality, have enough sense to naturally not give in. Is that possible?
+> Won't my mind get an escape route if I don't intend to keep them forever?
 
-    Not quite. Until the mind is fully tamed you will always be forcing the restraint to some degree, which is why the Dhamma goes "against the grain." What diminishes is how much the mind kicks back at you in response.
+If you're preemptively making plans to break them during the few months then yes, that would be the escape route. So you just don't give the mind any confirmation that you will break the precepts at any point until the period is over (and that keeps fully open the possibility that the confinement will continue beyond that). That's also how the Uposatha should be kept.
 
-    But if you commit steadfastly for a long-ish period in the above way then it is very possible that the worst of the mind's rebellions will over by the end of it.
+> The ideal scenario in my mind was to keep the precepts for a while, and progress enough in the practice for me to want to keep the precepts for life, instead of forcing myself to. I mean, I would still be forcing myself, but having seen enough of the drawbacks of sensuality, have enough sense to naturally not give in. Is that possible?
+
+Not quite. Until the mind is fully tamed you will always be forcing the restraint to some degree, which is why the Dhamma goes "against the grain." What diminishes is how much the mind kicks back at you in response.
+
+But if you commit steadfastly for a long-ish period in the above way then it is very possible that the worst of the mind's rebellions will over by the end of it.
+
 
 ---
 
@@ -449,11 +476,12 @@ To me it seems that my responsibility in fact is almost endless. I think that I 
 
 So how can I take responsibility, if my responsibility seems so endless, if I cannot control what my actions may cause in others and what they may cause others to do in consequence of it?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v6zj0t/where_does_my_responsibility_end/p09q1nv/)** _2026-07-28 14:19:32_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v6zj0t/where_does_my_responsibility_end/p09q1nv/)** _2026-07-28 14:19:32_
 
-    All of the "responsibilities" you refer to are real from a worldly standpoint but irrelevant when it comes to the Dhamma. What you're responsible for in that context is your own suffering, which is due to the craving that you are here and now either fueling or undercutting. 
+All of the "responsibilities" you refer to are real from a worldly standpoint but irrelevant when it comes to the Dhamma. What you're responsible for in that context is your own suffering, which is due to the craving that you are here and now either fueling or undercutting. 
 
-    Putting first your failure to meet the worldly responsibilities will distract you from that internal responsibility (which is worth prioritizing because it's precisely due to suffering that you care about everything else).
+Putting first your failure to meet the worldly responsibilities will distract you from that internal responsibility (which is worth prioritizing because it's precisely due to suffering that you care about everything else).
+
 
 ---
 
@@ -467,33 +495,36 @@ I would also like to request some clarification for what i actually should be do
 
 \*not literally. i make me angry. or, "anger happens".
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4xl0y/just_a_couple_of_questions/p09j6le/)** _2026-07-28 13:48:39_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4xl0y/just_a_couple_of_questions/p09j6le/)** _2026-07-28 13:48:39_
 
-    > If i am not successfully keeping the precepts, is there any point of abiding in non-activity, or is it wasted effort?
+> If i am not successfully keeping the precepts, is there any point of abiding in non-activity, or is it wasted effort?
 
-    It is highly inefficient and potentially counterproductive effort. It implies you still have coarser things to deal with, and thus you won't have the experience of taming your own mind that is required to properly understand what non-activity means. 
+It is highly inefficient and potentially counterproductive effort. It implies you still have coarser things to deal with, and thus you won't have the experience of taming your own mind that is required to properly understand what non-activity means. 
 
-    A lot of people hear the talks on "non-activity" and take it as some kind of "HH-approved sitting practice" that can be done instead of mainstream forms, but you actually need to abandon that whole attitude of wanting something to perform, however subtle, in order to understand what is even meant with "non-activity". Otherwise you'll be maintaining precisely the activities that need to be abandoned because you don't even see them. And you can forget about successfully abandoning the subtle attitude of depending on activity if the coarser attitude of non-virtue is still there.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4xl0y/just_a_couple_of_questions/p0m6wnw/)** _2026-07-30 05:44:36_ *(in reply to Objective-Work-3133)*:
+A lot of people hear the talks on "non-activity" and take it as some kind of "HH-approved sitting practice" that can be done instead of mainstream forms, but you actually need to abandon that whole attitude of wanting something to perform, however subtle, in order to understand what is even meant with "non-activity". Otherwise you'll be maintaining precisely the activities that need to be abandoned because you don't even see them. And you can forget about successfully abandoning the subtle attitude of depending on activity if the coarser attitude of non-virtue is still there.
 
-    At least caffeine is not sensuality nor a precept violation in itself; the issue might just be the attitude with which you resort to it (and the amount is a byproduct of that).
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4xl0y/just_a_couple_of_questions/p0m6wnw/)** _2026-07-30 05:44:36_ *(in reply to Objective-Work-3133)*
 
-    > whose abandonment is a necessary prerequisite for my being able to reasonably expect any understanding of what even needs to be done as far as non-activity is concerned.
+At least caffeine is not sensuality nor a precept violation in itself; the issue might just be the attitude with which you resort to it (and the amount is a byproduct of that).
 
-    The precepts are just the very beginning.  "Non-activity" is quite far ahead of that. It's basically abandoning the hindrances (which, it's worth emphasizing, has nothing to do with sitting motionless).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4xl0y/just_a_couple_of_questions/p14r8oe/)** _2026-08-01 20:21:30_ *(in reply to Dhingy1996)*:
+> whose abandonment is a necessary prerequisite for my being able to reasonably expect any understanding of what even needs to be done as far as non-activity is concerned.
 
-    Caffeine cannot make you more inclined towards sensuality; it just puts you in an energetic state of mind which, when the mind is ignorant of the danger in sensuality and is not sufficiently trained in sense restraint, becomes a basis for sensual proliferation. In the same way as being excited leads a dog *that's not trained* to start knocking things over.
+The precepts are just the very beginning.  "Non-activity" is quite far ahead of that. It's basically abandoning the hindrances (which, it's worth emphasizing, has nothing to do with sitting motionless).
 
-    Even actual intoxicants like alcohol can't induce defilements. It's just that you lose the perspective necessary to notice and restrain the defilements that were already there. Caffeine still leaves you with plenty of opportunity to do that.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4xl0y/just_a_couple_of_questions/p14r8oe/)** _2026-08-01 20:21:30_ *(in reply to Dhingy1996)*
 
-    > It seems to me that the main reason I would drink it is because I don’t want to endure the unpleasant feeling that’s already there.
+Caffeine cannot make you more inclined towards sensuality; it just puts you in an energetic state of mind which, when the mind is ignorant of the danger in sensuality and is not sufficiently trained in sense restraint, becomes a basis for sensual proliferation. In the same way as being excited leads a dog *that's not trained* to start knocking things over.
 
-    That's not automatically the case just because lack of energy is unpleasant and caffeine removes it. That logic would make virtually every choice to sleep or eat unwholesome. 
+Even actual intoxicants like alcohol can't induce defilements. It's just that you lose the perspective necessary to notice and restrain the defilements that were already there. Caffeine still leaves you with plenty of opportunity to do that.
 
-    If you are resisting the lack of energy on the mental level already (you need to see this first and foremost, independently of any particular action) and the prospect of drinking coffee arises *in that light*, then you would be acting out of resistance by drinking coffee. You then wouldn't do it until the action presents itself to the mind in a different light.
+> It seems to me that the main reason I would drink it is because I don’t want to endure the unpleasant feeling that’s already there.
 
-    That said, don't worry about resistance to lethargy when the mind is still in a sensual orientation. In fact, drinking coffee at that point might even be beneficial so that it's harder to confuse training the mind with controlling its moods.
+That's not automatically the case just because lack of energy is unpleasant and caffeine removes it. That logic would make virtually every choice to sleep or eat unwholesome. 
+
+If you are resisting the lack of energy on the mental level already (you need to see this first and foremost, independently of any particular action) and the prospect of drinking coffee arises *in that light*, then you would be acting out of resistance by drinking coffee. You then wouldn't do it until the action presents itself to the mind in a different light.
+
+That said, don't worry about resistance to lethargy when the mind is still in a sensual orientation. In fact, drinking coffee at that point might even be beneficial so that it's harder to confuse training the mind with controlling its moods.
+
 
 ---
 
@@ -513,11 +544,12 @@ Likewise, what advice would you have for a student in the summer break who has a
 
 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4fvq1/questions_on_entertainment/ozbe6ag/)** _2026-07-23 16:56:49_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v4fvq1/questions_on_entertainment/ozbe6ag/)** _2026-07-23 16:56:49_
 
-    It's true that you shouldn't force yourself to do nothing the whole day, but there's a world of difference between doing things that you have to do or will benefit from doing regardless of any passion—like chores and duties—and the type of activities you listed.
+It's true that you shouldn't force yourself to do nothing the whole day, but there's a world of difference between doing things that you have to do or will benefit from doing regardless of any passion—like chores and duties—and the type of activities you listed.
 
-    If you don't have any chores to do then pick up something that you don't enjoy but that you know is good for you, and don't lose sight of the mind's attitude towards it in case it starts to develop passion.
+If you don't have any chores to do then pick up something that you don't enjoy but that you know is good for you, and don't lose sight of the mind's attitude towards it in case it starts to develop passion.
+
 
 ---
 
@@ -526,13 +558,14 @@ Likewise, what advice would you have for a student in the summer break who has a
 
 [removed]
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v3z1kd/how_do_we_know_whether_were_uprooting_suffering/oz8nq0z/)** _2026-07-23 07:54:22_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v3z1kd/how_do_we_know_whether_were_uprooting_suffering/oz8nq0z/)** _2026-07-23 07:54:22_
 
-    > Is the liability being uprooted when painful feeling can remain without resistance, appropriation, or the urge to escape? Or could “enduring without reacting” itself become another subtle way of managing the experience?
+> Is the liability being uprooted when painful feeling can remain without resistance, appropriation, or the urge to escape? Or could “enduring without reacting” itself become another subtle way of managing the experience?
 
-    Prior to attaining the right view, you *will* be conflating those two to some extent. You don't clearly understand feelings as they are yet.
+Prior to attaining the right view, you *will* be conflating those two to some extent. You don't clearly understand feelings as they are yet.
 
-    So the "clearest" and only reliable sign is that you became a sotāpanna: you're free from the second arrow whether you practice or not,  you're beyond doubt about how that came about and how to develop it further, and by extension, you're incapable of seeing any value in a practice other than that one.
+So the "clearest" and only reliable sign is that you became a sotāpanna: you're free from the second arrow whether you practice or not,  you're beyond doubt about how that came about and how to develop it further, and by extension, you're incapable of seeing any value in a practice other than that one.
+
 
 ---
 
@@ -559,25 +592,28 @@ The key takeaway and moral of this sutta that the Buddha is trying to convey is 
 
 Edit: Hey, sorry I meant Sakadagami, not Anagami. My bad. Corrected now.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2mvvo/an_644_directly_opposes_bhikku_anighas_claim_that/oz15vgt/)** _2026-07-22 07:29:14_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2mvvo/an_644_directly_opposes_bhikku_anighas_claim_that/oz15vgt/)** _2026-07-22 07:29:14_
 
-    We've discussed this Sutta many times before and refuted the strawmans presented along with it.
+We've discussed this Sutta many times before and refuted the strawmans presented along with it.
 
-    > What my claim is not: That celibacy isn’t helpful, it surely is helpful for the path.
+> What my claim is not: That celibacy isn’t helpful, it surely is helpful for the path.
 
-    What defines the *puthujjana* is not that they utterly abhor celibacy and withdrawal from sensuality. It's that, at minimum, they see it as merely "helpful" rather than *necessarily* part of the path. Not seeing the four noble truths, they deep down feel that some amount of craving can be had and acted out of without automatically hurting themselves. 
+What defines the *puthujjana* is not that they utterly abhor celibacy and withdrawal from sensuality. It's that, at minimum, they see it as merely "helpful" rather than *necessarily* part of the path. Not seeing the four noble truths, they deep down feel that some amount of craving can be had and acted out of without automatically hurting themselves. 
 
-    So that's why, as we've repeatedly clarified, our position is not "you will never get the right view unless your celibacy has been perfect for years" (that *would* be refuted by plenty of Suttas). It's also not "someone with right view will never engage in sensuality." Rather, it's "the path begins with (and remains based on) abandoning sensuality; anything outside of that is not the path." There's a huge gap between those.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2mvvo/an_644_directly_opposes_bhikku_anighas_claim_that/oz2sh8f/)** _2026-07-22 13:51:38_ *(in reply to Representative-Age18)*:
+So that's why, as we've repeatedly clarified, our position is not "you will never get the right view unless your celibacy has been perfect for years" (that *would* be refuted by plenty of Suttas). It's also not "someone with right view will never engage in sensuality." Rather, it's "the path begins with (and remains based on) abandoning sensuality; anything outside of that is not the path." There's a huge gap between those.
 
-    > No I fully agree that sensuality is hurtful
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2mvvo/an_644_directly_opposes_bhikku_anighas_claim_that/oz2sh8f/)** _2026-07-22 13:51:38_ *(in reply to Representative-Age18)*
 
-    Well, [there is no (right) path at all](https://suttas.hillsidehermitage.org/?q=sn45.24) and no deeper realization of that insight unless you *live* that view instead of simply "agreeing" with it—which means taking on celibacy/non-sensuality, AKA right intention. That's why it's not enough to merely "not deny" the usefulness of celibacy.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2mvvo/an_644_directly_opposes_bhikku_anighas_claim_that/oz8hdto/)** _2026-07-23 07:02:52_ *(in reply to Representative-Age18)*:
+> No I fully agree that sensuality is hurtful
 
-    It doesn't matter whether you're actually celibate or not. The mere view that sensuality is not automatically an obstruction to the path is by itself a bigger obstruction than seeing celibacy as indispensable and taking it on, yet stumbling from time to time. 
+Well, [there is no (right) path at all](https://suttas.hillsidehermitage.org/?q=sn45.24) and no deeper realization of that insight unless you *live* that view instead of simply "agreeing" with it—which means taking on celibacy/non-sensuality, AKA right intention. That's why it's not enough to merely "not deny" the usefulness of celibacy.
 
-    That's because the whole point of the practice (no matter what stage you're in) is to train your mind so that it can't *return* to sensuality and craving, not just to not have it in the moment. If your view sees it as not inherently a problem—for yourself here and now, not just an arms-length "yes, eventually sensuality must be given up to become an *anāgāmi*"— then you're already not trying to abandon it as a possibility. [Hence the Buddha rebuked Ariṭṭha so strongly](https://suttas.hillsidehermitage.org/?q=mn22) despite the fact that, as a bhikkhu, he was not engaging in sensuality himself.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2mvvo/an_644_directly_opposes_bhikku_anighas_claim_that/oz8hdto/)** _2026-07-23 07:02:52_ *(in reply to Representative-Age18)*
+
+It doesn't matter whether you're actually celibate or not. The mere view that sensuality is not automatically an obstruction to the path is by itself a bigger obstruction than seeing celibacy as indispensable and taking it on, yet stumbling from time to time. 
+
+That's because the whole point of the practice (no matter what stage you're in) is to train your mind so that it can't *return* to sensuality and craving, not just to not have it in the moment. If your view sees it as not inherently a problem—for yourself here and now, not just an arms-length "yes, eventually sensuality must be given up to become an *anāgāmi*"— then you're already not trying to abandon it as a possibility. [Hence the Buddha rebuked Ariṭṭha so strongly](https://suttas.hillsidehermitage.org/?q=mn22) despite the fact that, as a bhikkhu, he was not engaging in sensuality himself.
+
 
 ---
 
@@ -588,36 +624,36 @@ I saw a post here recently in which the OP was presenting the idea that "the HH 
 
 I myself has felt that sometimes and thought that discussion might be useful. Can anyone explain why that post was deleted?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2ftx0/about_a_recent_post_that_has_been_deleted/oz0ta1j/)** _2026-07-22 05:49:19_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2ftx0/about_a_recent_post_that_has_been_deleted/oz0ta1j/)** _2026-07-22 05:49:19_
 
-    I must have been deleted either by the OP or by Reddit, not by a mod.
+I must have been deleted either by the OP or by Reddit, not by a mod.
 
-    As for the argument itself: it may appear "non-conducive" if one assumes that precept-observance is the end goal—in which case a "gentler" approach might indeed produce the desired external behavior in more people. But that misses the point. The goal is not the precepts by themselves but precisely to develop [shame regarding unwholesome states](https://suttas.hillsidehermitage.org/?q=mn53#mn53:12.1). 
+As for the argument itself: it may appear "non-conducive" if one assumes that precept-observance is the end goal—in which case a "gentler" approach might indeed produce the desired external behavior in more people. But that misses the point. The goal is not the precepts by themselves but precisely to develop [shame regarding unwholesome states](https://suttas.hillsidehermitage.org/?q=mn53#mn53:12.1). 
 
-    A person who is anchored in that sense of shame will be progressing at some rate even if they keep stumbling in their precepts until the day they die, whereas one whose behavior is utterly pure from day one but does not develop shame is not practicing at all. They'll remain at the level of [an infant](https://suttacentral.net/mn78/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#8.8).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2ftx0/about_a_recent_post_that_has_been_deleted/ozbc895/)** _2026-07-23 16:48:48_ *(in reply to noobknoob)*:
+A person who is anchored in that sense of shame will be progressing at some rate even if they keep stumbling in their precepts until the day they die, whereas one whose behavior is utterly pure from day one but does not develop shame is not practicing at all. They'll remain at the level of [an infant](https://suttacentral.net/mn78/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#8.8).
 
-    >  Would you say that even for a puthujjunna, there's wrong shame and less wrong shame?
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2ftx0/about_a_recent_post_that_has_been_deleted/ozbc895/)** _2026-07-23 16:48:48_ *(in reply to noobknoob)*
 
-    Yes, but it's shame about having actually broken the precepts—rather than not meeting some projected standard beyond that—then it's universally right enough and should not be covered up.
+>  Would you say that even for a puthujjunna, there's wrong shame and less wrong shame?
 
-    > I heard in one of your discussions that the way to distinguish between these two is to see if your conduct improves over time. If it does, then it's the right type of shame.
+Yes, but it's shame about having actually broken the precepts—rather than not meeting some projected standard beyond that—then it's universally right enough and should not be covered up.
 
-    Yes, but the timeframe will generally be longer than you expect it to be. It could take years, weeks, or days from the point that you start feeling ashamed of misconduct to the point that you finally give it up. And even that will not be a permanent abandonment until non-return, which is why shame remains one of the faculties driving a noble disciple's progress.
+> I heard in one of your discussions that the way to distinguish between these two is to see if your conduct improves over time. If it does, then it's the right type of shame.
 
-    > Would you say that the goal is to feel healthy shame in regards to misconduct?
+Yes, but the timeframe will generally be longer than you expect it to be. It could take years, weeks, or days from the point that you start feeling ashamed of misconduct to the point that you finally give it up. And even that will not be a permanent abandonment until non-return, which is why shame remains one of the faculties driving a noble disciple's progress.
 
-    Not quite. Shame is shame, and it's not healthy or unhealthy in itself. The unhealthiness comes from what the person decides to do with the impetus born out of shame (i.e., further unwholesome things like revolving around self-hatred or even abandoning restraint altogether).
+> Would you say that the goal is to feel healthy shame in regards to misconduct?
 
-    > And what are your thoughts on using psychoanalysis insights to help with addictions and to improve overall well-being in general?
+Not quite. Shame is shame, and it's not healthy or unhealthy in itself. The unhealthiness comes from what the person decides to do with the impetus born out of shame (i.e., further unwholesome things like revolving around self-hatred or even abandoning restraint altogether).
 
-    It should be seen as a compromise rather than as an aid to the real practice.
+> And what are your thoughts on using psychoanalysis insights to help with addictions and to improve overall well-being in general?
 
-    
-    
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2ftx0/about_a_recent_post_that_has_been_deleted/ozbcjr9/)** _2026-07-23 16:50:07_ *(in reply to interested-in-dhamma)*:
+It should be seen as a compromise rather than as an aid to the real practice.
 
-    No, as long as it's still used to commit to restraint in the future.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v2ftx0/about_a_recent_post_that_has_been_deleted/ozbcjr9/)** _2026-07-23 16:50:07_ *(in reply to interested-in-dhamma)*
+
+No, as long as it's still used to commit to restraint in the future.
+
 
 ---
 
@@ -650,35 +686,37 @@ Btw, I'm closer alligned to the HH position than the other schools, and believe 
 
 HH is a breath of fresh air in the Dhamma community, because bypassing is like the foundation of most dhamma nowadays. However, their position can cause a lot of tension in householder follower's hearts, as HH has a very strict 8 precepts cutoff for gaining noble wisdom, making the dhamma essentially impossible to develop for laypeople and all attempts at developing becomes "A managment technique, escape" or similar. This is why I find it important to push back.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v1hgho/an_854_a_layperson_can_develop_liberating_wisdom/oyof8qa/)** _2026-07-20 14:22:10_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v1hgho/an_854_a_layperson_can_develop_liberating_wisdom/oyof8qa/)** _2026-07-20 14:22:10_
 
-    > Here the Buddha is telling a layperson to develop wisdom that may cultivate in the complete ending of suffering with ONLY THE FIVE PRECEPTS as the basis.
+> Here the Buddha is telling a layperson to develop wisdom that may cultivate in the complete ending of suffering with ONLY THE FIVE PRECEPTS as the basis.
 
-    The discourse doesn't say "wisdom can be developed based on these other three things"; it says "these four things are very beneficial." We know that it *cannot* be saying the former because in other Suttas (MN 16, MN 36) the Buddha says that simply harboring desire for sensuality internally is an obstruction to development in the Dhamma. The Chinese version of MN 41 makes it even more explicit:
+The discourse doesn't say "wisdom can be developed based on these other three things"; it says "these four things are very beneficial." We know that it *cannot* be saying the former because in other Suttas (MN 16, MN 36) the Buddha says that simply harboring desire for sensuality internally is an obstruction to development in the Dhamma. The Chinese version of MN 41 makes it even more explicit:
 
-    > “If one wishes to cut off the three fetters and attain the fruits of stream-entry, once-returning, and non-returning, the unlimited supernormal powers, the divine ear, the knowledge of others’ minds, the knowledge of past lives, the knowledge of death and rebirth, and the knowledge of the destruction of the contaminants, they will all obtain them. Why is that? Because of Dharma practice and right practice, **maintaining virtue and being free from desire,** what is wished for will certainly be obtained.”
-    > —SĀ 1042
+> “If one wishes to cut off the three fetters and attain the fruits of stream-entry, once-returning, and non-returning, the unlimited supernormal powers, the divine ear, the knowledge of others’ minds, the knowledge of past lives, the knowledge of death and rebirth, and the knowledge of the destruction of the contaminants, they will all obtain them. Why is that? Because of Dharma practice and right practice, **maintaining virtue and being free from desire,** what is wished for will certainly be obtained.”
+> —SĀ 1042
 
-    Only a person who sees noble wisdom as something other than the abandonment of craving—i.e., who is headed in a completely different trajectory than Nibbāna—would think that engaging with sensuality can coexist with attempts to develop wisdom.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v1hgho/an_854_a_layperson_can_develop_liberating_wisdom/oyom5cd/)** _2026-07-20 14:53:43_ *(in reply to Representative-Age18)*:
+Only a person who sees noble wisdom as something other than the abandonment of craving—i.e., who is headed in a completely different trajectory than Nibbāna—would think that engaging with sensuality can coexist with attempts to develop wisdom.
 
-    > Why would he teach this layperson 4 things, but only 3 of them are actually relevant to him? 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v1hgho/an_854_a_layperson_can_develop_liberating_wisdom/oyom5cd/)** _2026-07-20 14:53:43_ *(in reply to Representative-Age18)*
 
-    It's not irrelevant to him, because he (and every other householder) *can* develop wisdom if they start striving for the cessation of craving—which begins with the most obvious one, namely sensuality.
+> Why would he teach this layperson 4 things, but only 3 of them are actually relevant to him? 
 
-    > Notice he is telling this layperson in the same breath as he is telling him to keep FIVE precepts, to develop wisdom that is “noble”.
+It's not irrelevant to him, because he (and every other householder) *can* develop wisdom if they start striving for the cessation of craving—which begins with the most obvious one, namely sensuality.
 
-    Sure. That doesn't mean the Buddha thinks he will be able to do that *with* five precepts.
+> Notice he is telling this layperson in the same breath as he is telling him to keep FIVE precepts, to develop wisdom that is “noble”.
 
-    You can tell someone "get a degree and become an astronaut." Does that imply that the degree is all they need? Of course not, and unless they were seriously deluded about what being an astronaut requires, it would be obvious to them as well.
+Sure. That doesn't mean the Buddha thinks he will be able to do that *with* five precepts.
 
-    > But he also does not deny that NOBLE WISDOM IS POSSIBLE for someone who isn’t fully seperated from sensuality.
+You can tell someone "get a degree and become an astronaut." Does that imply that the degree is all they need? Of course not, and unless they were seriously deluded about what being an astronaut requires, it would be obvious to them as well.
 
-    He very much does in the Suttas I cited above.
+> But he also does not deny that NOBLE WISDOM IS POSSIBLE for someone who isn’t fully seperated from sensuality.
 
-    > Sensuality and wisdom are opposites, but they exist on spectrums.
+He very much does in the Suttas I cited above.
 
-    Yes, and nobody denies this. That's why we advise people who struggle with celibacy to start with the five precepts and build gradually towards the eight. But it's quite something else to say that while having settled on one end of the spectrum, one can nevertheless arrive at the other.
+> Sensuality and wisdom are opposites, but they exist on spectrums.
+
+Yes, and nobody denies this. That's why we advise people who struggle with celibacy to start with the five precepts and build gradually towards the eight. But it's quite something else to say that while having settled on one end of the spectrum, one can nevertheless arrive at the other.
+
 
 ---
 
@@ -688,9 +726,10 @@ HH is a breath of fresh air in the Dhamma community, because bypassing is like t
 I might be wrong. But sometimes when anger gets too strong, it feels almost impossible to just let go. First I might repress it, to keep my precept, then I might channel the anger into more productive activities, albeit worldly ones, like exercising, reading books, or even contemplating anger.   
 Am I doing it wrong? Please give me advice to deal with anger? Maybe more sense restraint? Stay in seclusin? Manage my environment? Patiently endure? I am a puthujanna,  I still don't know how to endure without resisting/repressing it at all. 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v1ggzj/repressing_anger_is_inevitable_for_an_ordinary/oyok8qz/)** _2026-07-20 14:45:05_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1v1ggzj/repressing_anger_is_inevitable_for_an_ordinary/oyok8qz/)** _2026-07-20 14:45:05_
 
-    The fact that anger arises and doesn't go away is not at all "wrong." It's what supposed to happen. By not acting out of that anger that stays nor managing it—which is what any "letting go" that a puthujjana can wrap their head around will be—you will eventually be able to understand it and thus uproot it (by removing the resistance to unpleasant feeling, not the feeling itself).
+The fact that anger arises and doesn't go away is not at all "wrong." It's what supposed to happen. By not acting out of that anger that stays nor managing it—which is what any "letting go" that a puthujjana can wrap their head around will be—you will eventually be able to understand it and thus uproot it (by removing the resistance to unpleasant feeling, not the feeling itself).
+
 
 ---
 
@@ -703,11 +742,12 @@ But if one needs to be free from the 5 hindrances to get right view, doesn't tha
 
 It seems like Anigha's answer on [Post #2](https://www.reddit.com/r/HillsideHermitage/comments/1lungsj/does_becoming_a_sotapanna_require_removing_the/) is saying that one can be free from the hindrances  temporarily but still not be in 1st jhana, because 1st jhana would involve being good at abandoning hindrances.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uzr769/do_you_need_to_be_free_from_the_5_hindrances_ie/oyaqjhx/)** _2026-07-18 14:45:39_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uzr769/do_you_need_to_be_free_from_the_5_hindrances_ie/oyaqjhx/)** _2026-07-18 14:45:39_
 
-    > But if one needs to be free from the 5 hindrances to get right view, doesn't that mean one must get the 1st jhana to get right view, since the 1st jhana is being free from the 5 hindrances?
+> But if one needs to be free from the 5 hindrances to get right view, doesn't that mean one must get the 1st jhana to get right view, since the 1st jhana is being free from the 5 hindrances?
 
-    No, because the first jhāna is one of the things that a mind without hindrances can realize; it's not the freedom from hindrances itself. The first jhāna always comes *after* freedom from hindrances in the Suttas, and [sometimes](https://suttacentral.net/dn25/en/tw-caf_rhysdavids?lang=en&reference=main&highlight=false#pts-cs18) the monk doesn't enter jhāna but other states like the brahmavihāras. But this is often overlooked due to the prevalent misconception that jhāna/samādhi is some sort of absorbed or concentrated state, and that that's what removes the hindrances.
+No, because the first jhāna is one of the things that a mind without hindrances can realize; it's not the freedom from hindrances itself. The first jhāna always comes *after* freedom from hindrances in the Suttas, and [sometimes](https://suttacentral.net/dn25/en/tw-caf_rhysdavids?lang=en&reference=main&highlight=false#pts-cs18) the monk doesn't enter jhāna but other states like the brahmavihāras. But this is often overlooked due to the prevalent misconception that jhāna/samādhi is some sort of absorbed or concentrated state, and that that's what removes the hindrances.
+
 
 ---
 
@@ -718,16 +758,18 @@ I started wondering recently why certain contemplations that are related to the 
 
 Contemplations such as: "Who is writing?" "To whom does this issue concern?" "Who is speaking?", "Who am I?", "Who am I then?" and plenty of other questions that pop up to anybody investigating their experience
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uu7o1n/the_sense_of_self/ox3zppb/)** _2026-07-12 16:39:27_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uu7o1n/the_sense_of_self/ox3zppb/)** _2026-07-12 16:39:27_
 
-    Because all those questions are pointless speculations that treat the sense of self as if it's some sort of illusory appearance instead of a pernicious attitude. They are even explicitly called out as *ayoniso manasikāra* in MN 2.
+Because all those questions are pointless speculations that treat the sense of self as if it's some sort of illusory appearance instead of a pernicious attitude. They are even explicitly called out as *ayoniso manasikāra* in MN 2.
 
-    Rather than asking such questions, ask yourself why you suffer when you can't get pleasure or avoid pain. That's where the actual sense of self (i.e., assumption of ownership) is.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uu7o1n/the_sense_of_self/oy1m16m/)** _2026-07-17 06:44:49_ *(in reply to [deleted])*:
+Rather than asking such questions, ask yourself why you suffer when you can't get pleasure or avoid pain. That's where the actual sense of self (i.e., assumption of ownership) is.
 
-    > So as a puthujjana my sense of self experiences pleasure and pain, but if that sense of self diminishes then so does the ability to experience pleasure and pain?
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uu7o1n/the_sense_of_self/oy1m16m/)** _2026-07-17 06:44:49_ *(in reply to [deleted])*
 
-    No, what diminishes is your suffering on account of not experiencing pleasure or experiencing pain (the second arrow).
+> So as a puthujjana my sense of self experiences pleasure and pain, but if that sense of self diminishes then so does the ability to experience pleasure and pain?
+
+No, what diminishes is your suffering on account of not experiencing pleasure or experiencing pain (the second arrow).
+
 
 ---
 
@@ -765,82 +807,81 @@ Q10. Why is the  knowledge of a sottapana “whatever  has the nature to arise h
 
 Q11. How does one practically contemplate the arrow sutta since a puttujana can never experience the first arrow without the second? How does one even recognise either in that case? It seems impossible to me, you only have “this” which is either both arrows or none…
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/owg7anp/)** _2026-07-09 07:55:22_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/owg7anp/)** _2026-07-09 07:55:22_
 
-    1.
-    > What exactly is the extent to which one needs to understand dukkha.
+1.
+> What exactly is the extent to which one needs to understand dukkha.
 
-    To the extent that you no longer look past it and expect it to find it where it isn't. For example, if you can't see any suffering but you're not sure if you're actually suffering, that vague uncertainty is already suffering. You need to get used to seeing it on that level without it feeling "insufficient" and needing something coarsee and more particular.
+To the extent that you no longer look past it and expect it to find it where it isn't. For example, if you can't see any suffering but you're not sure if you're actually suffering, that vague uncertainty is already suffering. You need to get used to seeing it on that level without it feeling "insufficient" and needing something coarsee and more particular.
 
-    2.
-    > so i guess that’s why the Buddha dosent say ”understand craving“ but abandon it- only dukkha is to be understood. Is that because craving cannot be “understood” like dukkha can?
+2.
+> so i guess that’s why the Buddha dosent say ”understand craving“ but abandon it- only dukkha is to be understood. Is that because craving cannot be “understood” like dukkha can?
 
-    Yes. You can't "understand" craving because craving can only exist in the dark. It can't be there while you're actually seeing it. Hence the whole mass of suffering begins with ignorance, not with craving.
+Yes. You can't "understand" craving because craving can only exist in the dark. It can't be there while you're actually seeing it. Hence the whole mass of suffering begins with ignorance, not with craving.
 
-    3. 
-    > For a stream enter who has confirmed knowledge that nibbana is the cessation of bhava(SN 12.68) how does one actually get that knowledge?
+3. 
+> For a stream enter who has confirmed knowledge that nibbana is the cessation of bhava(SN 12.68) how does one actually get that knowledge?
 
-    By understanding craving and its cessation. Being is the inseparable byproduct of craving, not something that exists on its own. And yes, being is the result of the mind (not you volitionally) assuming certain things as refuge/safety in the broadest sense. That's why you have different types of bhava.
+By understanding craving and its cessation. Being is the inseparable byproduct of craving, not something that exists on its own. And yes, being is the result of the mind (not you volitionally) assuming certain things as refuge/safety in the broadest sense. That's why you have different types of bhava.
 
-    4.
+4.
 
-    "Convincingness" is a suitable basis for craving to become established, but it's not craving per se (see AN 6.55). Craving is the mind taking the convincingness at face value and not fully seeing it as a bait.
+"Convincingness" is a suitable basis for craving to become established, but it's not craving per se (see AN 6.55). Craving is the mind taking the convincingness at face value and not fully seeing it as a bait.
 
-    5.
+5.
 
-    > but the actual felt emotional signifcance of things one is experienced with craving otherwise things are just things…. 
+> but the actual felt emotional signifcance of things one is experienced with craving otherwise things are just things…. 
 
-    Not really. See the above.
+Not really. See the above.
 
-    Also, what you're describing as a "pressureless" experience is not genuine absence of pressure; it's an absence of pleasant and unpleasant pressure, i.e. neutrality, which is the third kind of *phassa.* That too is pressuring you, just not as coarsely.
+Also, what you're describing as a "pressureless" experience is not genuine absence of pressure; it's an absence of pleasant and unpleasant pressure, i.e. neutrality, which is the third kind of *phassa.* That too is pressuring you, just not as coarsely.
 
-    6. Yes, trying to "isolate" it is bound to lead you astray, because a feeling will always be more general and undefined compared to things that you can neatly pinpoint with your senses and intellect. So for example, when you find yourself being unsure of what a feeling is and not being able to pinpoint it, how does that *whole experience* feel? That's what
-     the feeling is; not whatever you're expecting to find with your direct attention.
+6. Yes, trying to "isolate" it is bound to lead you astray, because a feeling will always be more general and undefined compared to things that you can neatly pinpoint with your senses and intellect. So for example, when you find yourself being unsure of what a feeling is and not being able to pinpoint it, how does that *whole experience* feel? That's what
+ the feeling is; not whatever you're expecting to find with your direct attention.
 
-    7. You can have *less* craving in regard to an unpleasant feeling as a puthujjana. That's in fact the natural result of keeping the precepts and so on. But that's not going to free you by itself because as I already wrote, ignorance, not craving per se, is the root of the whole thing. So even if your craving factually lessens, you are not free for as long as your understanding overlooks the true extent of craving.
+7. You can have *less* craving in regard to an unpleasant feeling as a puthujjana. That's in fact the natural result of keeping the precepts and so on. But that's not going to free you by itself because as I already wrote, ignorance, not craving per se, is the root of the whole thing. So even if your craving factually lessens, you are not free for as long as your understanding overlooks the true extent of craving.
 
-    8. You might be misjudging what calm is by only considering very coarse forms of agitation.  But even if you were factually calm, craving is still going to be there because as I said, neutrality too is a kind of pressure, and the ignorant mind is going to be dragged into craving by that pressure too.
+8. You might be misjudging what calm is by only considering very coarse forms of agitation.  But even if you were factually calm, craving is still going to be there because as I said, neutrality too is a kind of pressure, and the ignorant mind is going to be dragged into craving by that pressure too.
 
-    9. *Sakkāyadiṭṭhi* is the byproduct of not understanding suffering and craving. By not seeing the extent of their own feelings and their mental attitudes in regard to those (i.e., craving), they automatically assume (inadvertently obviously) some part their experience as a whole to be independent of both of those things. And that's where they assume a self, no matter how strong their conviction is that there isn't one.
+9. *Sakkāyadiṭṭhi* is the byproduct of not understanding suffering and craving. By not seeing the extent of their own feelings and their mental attitudes in regard to those (i.e., craving), they automatically assume (inadvertently obviously) some part their experience as a whole to be independent of both of those things. And that's where they assume a self, no matter how strong their conviction is that there isn't one.
 
-    That's why one should think in terms of "I inadvertently assume a self for as long as I'm not a sotāpanna" rather than "there is no self because the Buddha said so," as if it was ever a matter of what you believe to be the case.
+That's why one should think in terms of "I inadvertently assume a self for as long as I'm not a sotāpanna" rather than "there is no self because the Buddha said so," as if it was ever a matter of what you believe to be the case.
 
-    10. Both descriptions point to the same thing, although the "whatever has the nature of arising . . ." one highlights more directly what the puthujjana's blind spot is. It's not that they have absolutely no concept of what suffering and craving are, but that they don't see the true extent of certain aspects of their experience (their feelings for instance). Thus, they don't see how 
-    those aspects are actually liable to arise and cease on their own, which means they are automatically "trapped" in acting out of their feelings, dealing with and managing them one way or the other.
+10. Both descriptions point to the same thing, although the "whatever has the nature of arising . . ." one highlights more directly what the puthujjana's blind spot is. It's not that they have absolutely no concept of what suffering and craving are, but that they don't see the true extent of certain aspects of their experience (their feelings for instance). Thus, they don't see how 
+those aspects are actually liable to arise and cease on their own, which means they are automatically "trapped" in acting out of their feelings, dealing with and managing them one way or the other.
 
-    11. As the Arrow Sutta describes, the puthujjana is struck by the second arrow due to their ignorance of feelings. So you don't become a sotāpanna by learning to prevent the second arrow as some people believe—which is really just management of the first one—but by understanding the experience of suffering. And you can only do that if, as we often say, you don't automatically try to get rid of *any* of iti—ncluding what you would wrongly take to be the second arrow—in the name of "practice."
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/ox1ozpm/)** _2026-07-12 08:03:43_ *(in reply to Embarrassed-Box6857)*:
+11. As the Arrow Sutta describes, the puthujjana is struck by the second arrow due to their ignorance of feelings. So you don't become a sotāpanna by learning to prevent the second arrow as some people believe—which is really just management of the first one—but by understanding the experience of suffering. And you can only do that if, as we often say, you don't automatically try to get rid of *any* of iti—ncluding what you would wrongly take to be the second arrow—in the name of "practice."
 
-    > According to PS a puttujana is always suffering? 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/ox1ozpm/)** _2026-07-12 08:03:43_ *(in reply to Embarrassed-Box6857)*
 
-    Yes, just to different extents. 
+> According to PS a puttujana is always suffering? 
 
-    > This makes alot of sense. What exactly do you mean by when one is actually seeing it? Do you mean that through repeated restraint/endurance one is already seeing it, or do you mean that it is only fully “seen” at the moment one becomes an ariya?
+Yes, just to different extents. 
 
-    An ariya is defined by the ability to discern craving correctly. Craving cannot exist while it is discerned (which doesn't mean that an ariya discerns it constantly).
+> This makes alot of sense. What exactly do you mean by when one is actually seeing it? Do you mean that through repeated restraint/endurance one is already seeing it, or do you mean that it is only fully “seen” at the moment one becomes an ariya?
 
-    There is no "moment" of becoming an ariya in the sense of a some novel dimension suddenly opening up. Stream-entry means recognizing beyond doubt that you now have the right view, in the same way as you would recognize after a period of training that you have rightly understood something that you didn't understand before.
+An ariya is defined by the ability to discern craving correctly. Craving cannot exist while it is discerned (which doesn't mean that an ariya discerns it constantly).
 
-    > How do you not overlook the extent of craving, is it similar to not overlooking suffering?
+There is no "moment" of becoming an ariya in the sense of a some novel dimension suddenly opening up. Stream-entry means recognizing beyond doubt that you now have the right view, in the same way as you would recognize after a period of training that you have rightly understood something that you didn't understand before.
 
-    By not taking for granted your notion of what craving is until you're a sotāpanna. That entire notion is really the issue, not that you see "only a part" of craving's manifestation.
+> How do you not overlook the extent of craving, is it similar to not overlooking suffering?
 
-    > Im confused with feelings— Can there be multiple feelings at the same time- one general and many particular? 
+By not taking for granted your notion of what craving is until you're a sotāpanna. That entire notion is really the issue, not that you see "only a part" of craving's manifestation.
 
-    [No](https://suttacentral.net/mn74/en/nyanamoli-thera?lang=en&reference=main&highlight=false#nya10). 
+> Im confused with feelings— Can there be multiple feelings at the same time- one general and many particular? 
 
-    Hunger is not unpleasant if being hungry is giving you something you're very happy about. The sensations of hunger or even damage to the body are not unpleasant in themselves.
+[No](https://suttacentral.net/mn74/en/nyanamoli-thera?lang=en&reference=main&highlight=false#nya10). 
 
-    > So this is the reason why the more restrained one is the deeper one can understand the Dhamma? Because what one has to understand can only be “visible” after restraining?
+Hunger is not unpleasant if being hungry is giving you something you're very happy about. The sensations of hunger or even damage to the body are not unpleasant in themselves.
 
-    Yes, you need to contain your ways of acting out of suffering because those are what perpetuates your non-seeing of that very suffering, let alone its origin, etc.
+> So this is the reason why the more restrained one is the deeper one can understand the Dhamma? Because what one has to understand can only be “visible” after restraining?
 
-    
+Yes, you need to contain your ways of acting out of suffering because those are what perpetuates your non-seeing of that very suffering, let alone its origin, etc.
 
-    
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/ox9s0l0/)** _2026-07-13 13:35:20_ *(in reply to CelibateAromas)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uquwfh/questioning_my_views/ox9s0l0/)** _2026-07-13 13:35:20_ *(in reply to CelibateAromas)*
 
-    Yes, I am aware of that. I now see that there is a reason why the Buddha described it as he did in MN 74. It's a more precise description because it stays purely at the level where suffering actually is.
+Yes, I am aware of that. I now see that there is a reason why the Buddha described it as he did in MN 74. It's a more precise description because it stays purely at the level where suffering actually is.
+
 
 ---
 
@@ -855,20 +896,22 @@ Btw, I understand metta better as friendly (non illwill) bodily, verbal and ment
 
 Should I make it a serious focus of my practice to not only never harm, but also do kind acts to other beings, charity and generosity and train the mind in friendly attitude? 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uhusy3/metta_to_calm_aversion_not_get_rid_of_pressure/oubg38a/)** _2026-06-28 14:22:54_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uhusy3/metta_to_calm_aversion_not_get_rid_of_pressure/oubg38a/)** _2026-06-28 14:22:54_
 
-    You can practice generosity, but don't think that you are calming aversion and developing *mettā* if you don't have the right view yet (even if you were keeping all the precepts perfectly).
+You can practice generosity, but don't think that you are calming aversion and developing *mettā* if you don't have the right view yet (even if you were keeping all the precepts perfectly).
 
-    In order to cultivate a friendly mind, you need to see your mind first, i.e., have the right view (for which virtue is necessary). If you don't, whatever friendliness you commit to will be tainted by a mind that wants to get rid of unpleasant pressures (aversion) even if you think that's not what you're aiming for.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uhusy3/metta_to_calm_aversion_not_get_rid_of_pressure/ouggn8q/)** _2026-06-29 06:57:35_ *(in reply to Representative-Age18)*:
+In order to cultivate a friendly mind, you need to see your mind first, i.e., have the right view (for which virtue is necessary). If you don't, whatever friendliness you commit to will be tainted by a mind that wants to get rid of unpleasant pressures (aversion) even if you think that's not what you're aiming for.
 
-    > So generosity and kindness is pointless before sottapatti and won’t help you develop right view?
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1uhusy3/metta_to_calm_aversion_not_get_rid_of_pressure/ouggn8q/)** _2026-06-29 06:57:35_ *(in reply to Representative-Age18)*
 
-    No, it's not pointless. It can indirectly contribute to right view provided one is doing everything else properly, i.e., virtue, sense restraint, and having enough faith and urgency to be ready to question all of one's views.
+> So generosity and kindness is pointless before sottapatti and won’t help you develop right view?
 
-    > In this video, Ajahn also says that Metta won’t take deep roots until the mind is tamed BUT he says that one should still practice metta meditation with an untamed mind
+No, it's not pointless. It can indirectly contribute to right view provided one is doing everything else properly, i.e., virtue, sense restraint, and having enough faith and urgency to be ready to question all of one's views.
 
-    A mind that hasn't been sufficiently tamed by virtue is not the same as a mind that is *bypassing* virtue. It sounds like the latter is what you're going for, and that will inevitably be superficial management of discomfort while actual defilements are left unchecked.
+> In this video, Ajahn also says that Metta won’t take deep roots until the mind is tamed BUT he says that one should still practice metta meditation with an untamed mind
+
+A mind that hasn't been sufficiently tamed by virtue is not the same as a mind that is *bypassing* virtue. It sounds like the latter is what you're going for, and that will inevitably be superficial management of discomfort while actual defilements are left unchecked.
+
 
 ---
 
@@ -923,16 +966,18 @@ EDIT 2: **My main concern is having the appropriate sub-goals and goals.** If th
 
 The things I've tried, are just my attempts at what might help with the sub-goal of keeping the precepts. I don't know what works, but you can probably infer a rationale behind them.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ug59uo/what_flaws_do_you_see_in_my_understanding_of/oube6dg/)** _2026-06-28 14:13:13_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ug59uo/what_flaws_do_you_see_in_my_understanding_of/oube6dg/)** _2026-06-28 14:13:13_
 
-    It seems like you think you need a strategy that diminishes the challenge of keeping the precepts in order to reliably keep them. That attitude is going to make your virtue conditional (and thus not a proper container for training the mind).
+It seems like you think you need a strategy that diminishes the challenge of keeping the precepts in order to reliably keep them. That attitude is going to make your virtue conditional (and thus not a proper container for training the mind).
 
-    It's not inherently wrong to make some effort to diminish the difficulty, such as changing your environment to reduce overwhelming temptations (though as we've said before, management techniques distract you too much from where the actual work happens in order to be useful). But in the end, you will keep falling off the wagon unless you are ready to not give in even when it's most challenging, because the strong pressure to act out will always return eventually.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ug59uo/what_flaws_do_you_see_in_my_understanding_of/ounxhgi/)** _2026-06-30 07:46:39_ *(in reply to spiffyhandle)*:
+It's not inherently wrong to make some effort to diminish the difficulty, such as changing your environment to reduce overwhelming temptations (though as we've said before, management techniques distract you too much from where the actual work happens in order to be useful). But in the end, you will keep falling off the wagon unless you are ready to not give in even when it's most challenging, because the strong pressure to act out will always return eventually.
 
-    > Basically, **I am trying to find the reasons that will cause me to always choose celibacy and to not forget those reasons.**
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ug59uo/what_flaws_do_you_see_in_my_understanding_of/ounxhgi/)** _2026-06-30 07:46:39_ *(in reply to spiffyhandle)*
 
-    Sure, developing that clarity is part of the picture. But my point is that the "bedrock" is not that clarity, but rather the resolve that you will not act out even when you completely forget those reasons (which will happen no matter how hard you try to prevent it, because the strength and clarity of the context will not be permanent).
+> Basically, **I am trying to find the reasons that will cause me to always choose celibacy and to not forget those reasons.**
+
+Sure, developing that clarity is part of the picture. But my point is that the "bedrock" is not that clarity, but rather the resolve that you will not act out even when you completely forget those reasons (which will happen no matter how hard you try to prevent it, because the strength and clarity of the context will not be permanent).
+
 
 ---
 
@@ -1019,27 +1064,30 @@ And I personally don't really see what's wrong with trying to set up peripheral 
 
 If I am missing something, I'm happy to be corrected. I want to reconcile everything here, I am very confused. I also apologize for the very messy format, the questions are all over the place.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/ot2nudv/)** _2026-06-22 05:18:58_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/ot2nudv/)** _2026-06-22 05:18:58_
 
-    > How can that be unbeneficial or unwholesome? 
+> How can that be unbeneficial or unwholesome? 
 
-    Not seeing how it could be unwholesome is what will make it unwholesome. It means you will be assuming a certain practice (whatever that is) to be correct because of *what* it is, independently of whether you're doing it out of longing, aversion, restlessness, etc. And that's precisely why a puthujjana cannot simply dedicate themselves to "practicing mindfulness." The definition of being a puthujjana is not clearly seeing those unwholesome states in their own mind, which means their attempts to purify their mind are guaranteed to be informed by tradition, hearsay, reasoning, etc., rather than on the actual decrease of their defilements.
+Not seeing how it could be unwholesome is what will make it unwholesome. It means you will be assuming a certain practice (whatever that is) to be correct because of *what* it is, independently of whether you're doing it out of longing, aversion, restlessness, etc. And that's precisely why a puthujjana cannot simply dedicate themselves to "practicing mindfulness." The definition of being a puthujjana is not clearly seeing those unwholesome states in their own mind, which means their attempts to purify their mind are guaranteed to be informed by tradition, hearsay, reasoning, etc., rather than on the actual decrease of their defilements.
 
-    That doesn't mean that a puthujjana is automatically doing something wrong if they try to develop wholesome states (unless they are doing so on the basis of incomplete precepts and sense restraint). But if they are ever to cease to be a puthujjana, that effort should be centered on understanding what wholesome states are in the first place, not developing whatever impression of wholesome states they currently have (which, again, will inevitably be based on external standpoints). That automatically rules out every single "method" you could ever come across, including anything you could try to extract from HH teachings.
+That doesn't mean that a puthujjana is automatically doing something wrong if they try to develop wholesome states (unless they are doing so on the basis of incomplete precepts and sense restraint). But if they are ever to cease to be a puthujjana, that effort should be centered on understanding what wholesome states are in the first place, not developing whatever impression of wholesome states they currently have (which, again, will inevitably be based on external standpoints). That automatically rules out every single "method" you could ever come across, including anything you could try to extract from HH teachings.
 
-    So there isn't a contradiction in the different statements you quoted; you will even find plenty of instances AN saying similar things as what I wrote, and vice versa. That's because both angles need to be incorporated simultaneously: "I don't see what the right effort is, but I will inevitably be making some sort of effort. Thus, within that effort, let me try and understand what makes certain efforts right and others wrong."
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/otbw8n4/)** _2026-06-23 14:17:15_ *(in reply to Agreeable_Range_8732)*:
+So there isn't a contradiction in the different statements you quoted; you will even find plenty of instances AN saying similar things as what I wrote, and vice versa. That's because both angles need to be incorporated simultaneously: "I don't see what the right effort is, but I will inevitably be making some sort of effort. Thus, within that effort, let me try and understand what makes certain efforts right and others wrong."
 
-    > My primary intention of even doing this practice is to simply be aware of unwholesome intentions in my mind, so that I can be rid of them.  Ajahn even mentions in the same excerpt I gave, that you can carry this practice off the cushion as well, spreading it out over your entire day.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/otbw8n4/)** _2026-06-23 14:17:15_ *(in reply to Agreeable_Range_8732)*
 
-    That's fine in principle. The point to remember is that not having the ability to discern unwholesome intentions [is why you're not a *sotāpanna*](https://suttas.hillsidehermitage.org/?q=mn9). Then you won't be assuming that you found the way to "abandon unwholesome intentions," and you will be more focused on learning what that actually means than on doing what you think it means (some extent of the latter is inevitable, but the priority remains on the former).
+> My primary intention of even doing this practice is to simply be aware of unwholesome intentions in my mind, so that I can be rid of them.  Ajahn even mentions in the same excerpt I gave, that you can carry this practice off the cushion as well, spreading it out over your entire day.
 
-    As I already said, you will have to be doing *something* in the name of practice, and whatever it is (including complete abstinence from practice) will be tainted with ignorance until you're a *sotāpanna*. The hindrance is not to merely *be* in the wrong, but rather to not acknowledge the initial wrongness (which is the same attitude that would stop you from gaining true expertise in anything, not just the Dhamma).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/oth0bf3/)** _2026-06-24 05:23:47_ *(in reply to Agreeable_Range_8732)*:
+That's fine in principle. The point to remember is that not having the ability to discern unwholesome intentions [is why you're not a *sotāpanna*](https://suttas.hillsidehermitage.org/?q=mn9). Then you won't be assuming that you found the way to "abandon unwholesome intentions," and you will be more focused on learning what that actually means than on doing what you think it means (some extent of the latter is inevitable, but the priority remains on the former).
 
-    > So always intending to upgrade to a superior version of the practice. Is this right, or have I misunderstood?
+As I already said, you will have to be doing *something* in the name of practice, and whatever it is (including complete abstinence from practice) will be tainted with ignorance until you're a *sotāpanna*. The hindrance is not to merely *be* in the wrong, but rather to not acknowledge the initial wrongness (which is the same attitude that would stop you from gaining true expertise in anything, not just the Dhamma).
 
-    In essence, yes. But there needs to be a sense of genuine urgency and doubt behind that, through seeing how you continue to be liable to suffering one way or the other, despite your best attempts to overcome that liability. Not just an arms-length intention for improvement that virtually every practitioner has while ultimately continuing to take their core views for granted.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1ubvw87/seemingly_contradicting_statements_by_ajahn/oth0bf3/)** _2026-06-24 05:23:47_ *(in reply to Agreeable_Range_8732)*
+
+> So always intending to upgrade to a superior version of the practice. Is this right, or have I misunderstood?
+
+In essence, yes. But there needs to be a sense of genuine urgency and doubt behind that, through seeing how you continue to be liable to suffering one way or the other, despite your best attempts to overcome that liability. Not just an arms-length intention for improvement that virtually every practitioner has while ultimately continuing to take their core views for granted.
+
 
 ---
 
@@ -1056,20 +1104,22 @@ I feel like someone who is faithful to the spirit of the Vinaya could reasonably
 
 So if many of these rules are basically historical fossils, and they are not directly relevant to the practice (as is hinted at in the Suttas and the Vinaya itself many times), how should Westerners who are concerned about authenticity interpret them? For example, it is not uncommon for me to be offered small things like garlic, berries, chocolate, etc. in the evening. My guess would be that by a strictly academic reading of the Vinaya, these would not be allowable. But why would I go through the social awkwardness of turning these offers down and risking a discussion about the Vinaya if I know it isn’t even unwholesome for me to accept it? Trying to draw strict lines here creates many silly results, such as debating at what point milk turns into buttermilk, or not being allowed by your monastery to drink milk in the afternoon but still being allowed to eat some solid foods. I feel like even a faithful EBT reading of the Vinaya could fall into the same trap of ridiculous legalism that the Commentaries fell into many times. It feels to me like dealing with these boundaries is more unrelated to the actual intentions present in one’s mind than practicing with the boundaries of the 8 precepts as a householder. Obviously I would take the 10 precepts as fundamental to the life of a monastic (if vikāla bhojana is defined as not eating a proper meal after noon, in order to avoid all the nitpicking I mentioned before), but I am unsure how to deal with the minor rules. Thank you!
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1u66nk4/how_to_interpret_the_vinaya/os18l21/)** _2026-06-16 18:28:30_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1u66nk4/how_to_interpret_the_vinaya/os18l21/)** _2026-06-16 18:28:30_
 
-    > My problem is that many of the rules in the Vinaya are not relevant to the actual practice of training the mind
+> My problem is that many of the rules in the Vinaya are not relevant to the actual practice of training the mind
 
-    True, but the fact is that you will often be more inconvenienced by dismissing them than by simply keeping them, as even in the West you will still often be perceived in a bad light by those with EBT knowledge if you dismiss even minor rules. And those rules certainly don't *interfere* with the training of the mind either.
+True, but the fact is that you will often be more inconvenienced by dismissing them than by simply keeping them, as even in the West you will still often be perceived in a bad light by those with EBT knowledge if you dismiss even minor rules. And those rules certainly don't *interfere* with the training of the mind either.
 
-    So you end up in basically the same situation as the elders in the same council: the Buddha did say the minor rules could be dismissed, but trying to implement that allowance will just create unnecessary criticism from laity and arguments within the Sangha.
+So you end up in basically the same situation as the elders in the same council: the Buddha did say the minor rules could be dismissed, but trying to implement that allowance will just create unnecessary criticism from laity and arguments within the Sangha.
 
-    That also means that it's not terribly relevant for you as an individual whether a certain rule or custom is "EBT-based," or developed through commentaries or Asian culture. Back then they had to do things to cater to people's arbitrary expectations. Nowadays it's the same, just that the ones holding the expectations happen to be Buddhist.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1u66nk4/how_to_interpret_the_vinaya/os8f5eo/)** _2026-06-17 18:34:02_ *(in reply to Formal_Breath_2026)*:
+That also means that it's not terribly relevant for you as an individual whether a certain rule or custom is "EBT-based," or developed through commentaries or Asian culture. Back then they had to do things to cater to people's arbitrary expectations. Nowadays it's the same, just that the ones holding the expectations happen to be Buddhist.
 
-    > But does that mean that when I am offered small pieces of food in the evening like chocolate or garlic, or the five tonics even when I’m not sick — things that I know would probably not be acceptable under the original framework of the Vinaya but are for some reason considered so by my tradition now — it is okay to accept them for the sake of non-conflict?
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1u66nk4/how_to_interpret_the_vinaya/os8f5eo/)** _2026-06-17 18:34:02_ *(in reply to Formal_Breath_2026)*
 
-    If greed is the motivation (i.e., the arisen state of your mind at the time, not a theoretical inference) then you shouldn't accept the tonics even if they are fully allowable. As long as you never compromise on that, everything else is secondary. And you will be distracted from that criterion if you put the technicalities first and think that you are "more pure" simply by following "the original framework" (which is an easy trap to fall into).
+> But does that mean that when I am offered small pieces of food in the evening like chocolate or garlic, or the five tonics even when I’m not sick — things that I know would probably not be acceptable under the original framework of the Vinaya but are for some reason considered so by my tradition now — it is okay to accept them for the sake of non-conflict?
+
+If greed is the motivation (i.e., the arisen state of your mind at the time, not a theoretical inference) then you shouldn't accept the tonics even if they are fully allowable. As long as you never compromise on that, everything else is secondary. And you will be distracted from that criterion if you put the technicalities first and think that you are "more pure" simply by following "the original framework" (which is an easy trap to fall into).
+
 
 ---
 
@@ -1078,13 +1128,14 @@ So if many of these rules are basically historical fossils, and they are not dir
 
 [deleted]
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toeqdc/venerable_anigha_and_venerable_medhini_please/ooeuqbn/)** _2026-05-28 17:36:46_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toeqdc/venerable_anigha_and_venerable_medhini_please/ooeuqbn/)** _2026-05-28 17:36:46_
 
-    > In my doubt, last night, I decided to see what it would feel like to have that pressure endure. So I thought up some lustful images, and started masturbating to the point where I was close to ejaculation, and I had to absorb myself in the fantasies to keep going. I stopped and observed what would happen in my mind. There was an urge to keep going, and as soon as I stopped willfully ignoring it, it stopped pressuring me. I went to bed without trouble.
+> In my doubt, last night, I decided to see what it would feel like to have that pressure endure. So I thought up some lustful images, and started masturbating to the point where I was close to ejaculation, and I had to absorb myself in the fantasies to keep going. I stopped and observed what would happen in my mind. There was an urge to keep going, and as soon as I stopped willfully ignoring it, it stopped pressuring me. I went to bed without trouble.
 
-    Enduring the pressure on the right level means not thinking up the lustful images to begin with, let alone masturbating. Whatever change of course happens after those choices is really just containing the defeat, not victory.
+Enduring the pressure on the right level means not thinking up the lustful images to begin with, let alone masturbating. Whatever change of course happens after those choices is really just containing the defeat, not victory.
 
-    So it sounds like you just have to take the precepts and celibacy more seriously. From where you are standing, that will undoubtedly lead to covering up/suppressing things less, and there is no point in worrying about subtler cover ups until that's sorted.
+So it sounds like you just have to take the precepts and celibacy more seriously. From where you are standing, that will undoubtedly lead to covering up/suppressing things less, and there is no point in worrying about subtler cover ups until that's sorted.
+
 
 ---
 
@@ -1108,76 +1159,74 @@ Questions I have (apart from post title):
 1. Do you think that going through with surgeries and such to modify the body will permanently increase attachment to it in the long run and/or obstruct the right view?
 2. If medical transition is a poor idea because of the above, what should I do instead (keeping in mind that this isn't an identity issue of "I feel like \[preferred gender\]." It manifests as often intense distress that has in the past compelled me to desire death)?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/oo1cxag/)** _2026-05-26 20:06:15_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/oo1cxag/)** _2026-05-26 20:06:15_
 
-    There is no doubt that these interventions constitute acting out of craving (and the intense dread you experience at the prospect of stopping them only proves it further). Pursuing them is reinforcing the deep-seated assumption that the escape from suffering lies in changing the circumstances.
+There is no doubt that these interventions constitute acting out of craving (and the intense dread you experience at the prospect of stopping them only proves it further). Pursuing them is reinforcing the deep-seated assumption that the escape from suffering lies in changing the circumstances.
 
-    The thing is that, going by what you describe, it's likely not realistic to stop it all at once. It may be too much pressure for you to withstand at this point, and you may well end up in a worse position in the aftermath of quitting too rapidly.
+The thing is that, going by what you describe, it's likely not realistic to stop it all at once. It may be too much pressure for you to withstand at this point, and you may well end up in a worse position in the aftermath of quitting too rapidly.
 
-    The more realistic course of action is to gradually cut back on the interventions, while also starting to challenge all the emotional attitudes driving you to them rather than taking them for granted and justifying them.
+The more realistic course of action is to gradually cut back on the interventions, while also starting to challenge all the emotional attitudes driving you to them rather than taking them for granted and justifying them.
 
-    The fact that there could be a minimum degree of treatment necessary to prevent yourself from falling apart—at this time, due to insufficient training of the mind—doesn't mean that you have to accept other measures that build on top of that. And it is almost certain that you are currently doing more than that bare minimum. 
+The fact that there could be a minimum degree of treatment necessary to prevent yourself from falling apart—at this time, due to insufficient training of the mind—doesn't mean that you have to accept other measures that build on top of that. And it is almost certain that you are currently doing more than that bare minimum. 
 
-    By going closer to that minimum, the aversion will come up in a more manageable degree, and that will create some basis for training and going against the grain. Up until you can finally abandon the whole thing when the aversion in regard to *that* isn't strong enough to completely overwhelm you as it might now.
+By going closer to that minimum, the aversion will come up in a more manageable degree, and that will create some basis for training and going against the grain. Up until you can finally abandon the whole thing when the aversion in regard to *that* isn't strong enough to completely overwhelm you as it might now.
 
-    
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/oo6lqj5/)** _2026-05-27 14:51:37_ *(in reply to Emergency_Win_3698)*
 
-    
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/oo6lqj5/)** _2026-05-27 14:51:37_ *(in reply to Emergency_Win_3698)*:
+> Why is that diagnostic? Are you saying that the severity of the condition is what justifies withdrawing the treatment?
 
-    > Why is that diagnostic? Are you saying that the severity of the condition is what justifies withdrawing the treatment?
+The severity of suffering shows the extent of craving (that's how it works across the board).
 
-    The severity of suffering shows the extent of craving (that's how it works across the board).
+> Couldn't this charge be leveled at any form of medicine that is treating a condition that causes suffering?
 
-    > Couldn't this charge be leveled at any form of medicine that is treating a condition that causes suffering?
+Not in the same way. The crucial difference is that most conditions can exist independently of craving and suffering, whereas gender dysphoria cannot. That means that treating it externally can never be a neutral choice from a Dhamma perspective.
 
-    Not in the same way. The crucial difference is that most conditions can exist independently of craving and suffering, whereas gender dysphoria cannot. That means that treating it externally can never be a neutral choice from a Dhamma perspective.
+> Is there any way that I could continue to intervene without acting out of it/fueling the craving, like how one could take pain medication with a mind of craving without the intention being itself rooted in craving?
 
-    > Is there any way that I could continue to intervene without acting out of it/fueling the craving, like how one could take pain medication with a mind of craving without the intention being itself rooted in craving?
+Therefore, no. 
 
-    Therefore, no. 
+But just to repeat, this doesn't mean that you must stop the interventions overnight if that has a high risk of overwhelming you. The point is to start valuing and moving in the opposite direction, not to immediately arrive at its end.
 
-    But just to repeat, this doesn't mean that you must stop the interventions overnight if that has a high risk of overwhelming you. The point is to start valuing and moving in the opposite direction, not to immediately arrive at its end.
+> I'm not sure how exactly to go about doing this.
 
-    > I'm not sure how exactly to go about doing this.
+Reflecting on the condition as objectively as you can until you see with more certainty that it is directly tied to unwholesome states of mind, and is not something you can simply accept and try to develop wholesome states on top of. Essentially, getting to the point where intellectually at least, you see that abandoning the treatments is what is in your ultimate welfare.
 
-    Reflecting on the condition as objectively as you can until you see with more certainty that it is directly tied to unwholesome states of mind, and is not something you can simply accept and try to develop wholesome states on top of. Essentially, getting to the point where intellectually at least, you see that abandoning the treatments is what is in your ultimate welfare.
+Then, weaning off the treatments will still be unpleasant and doubts about the decision might still arise from time to time, but you will have grounds for sticking to it regardless.
 
-    Then, weaning off the treatments will still be unpleasant and doubts about the decision might still arise from time to time, but you will have grounds for sticking to it regardless.
+> I am looking into getting some surgeries, which would likely put a dent in it (but not get rid of all the aversion either per se, as some things cannot be easily fixed or at all).
 
-    > I am looking into getting some surgeries, which would likely put a dent in it (but not get rid of all the aversion either per se, as some things cannot be easily fixed or at all).
+That could be a way of going beyond the bare minimum. It's definitely going beyond what you currently have, which will only make reversing direction more difficult.
 
-    That could be a way of going beyond the bare minimum. It's definitely going beyond what you currently have, which will only make reversing direction more difficult.
+> But I would say that it's not very manageable right now because I am in constant pain and discomfort over it and it causes significant dysfunction.
 
-    > But I would say that it's not very manageable right now because I am in constant pain and discomfort over it and it causes significant dysfunction.
+What I mean with "manageable" can still be quite unpleasant. If you can sustain it without having a mental breakdown then it's manageable.
 
-    What I mean with "manageable" can still be quite unpleasant. If you can sustain it without having a mental breakdown then it's manageable.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/oobahog/)** _2026-05-28 04:52:15_ *(in reply to Emergency_Win_3698)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/oobahog/)** _2026-05-28 04:52:15_ *(in reply to Emergency_Win_3698)*
 
-    > What makes gender dysphoria special in this regard?
+> What makes gender dysphoria special in this regard?
 
-    The fact that the condition itself (rather than a consequence of it) is called "dysphoria"—meaning unease/dissatisfaction/unhappiness—highlights what makes it different.
+The fact that the condition itself (rather than a consequence of it) is called "dysphoria"—meaning unease/dissatisfaction/unhappiness—highlights what makes it different.
 
-    >  but could not there be a baseline of pre-cognitive disagreeableness (like the disturbance of the six sense bases) or a kind of perceptual mismatch that would persist even in an arahant with it?
+>  but could not there be a baseline of pre-cognitive disagreeableness (like the disturbance of the six sense bases) or a kind of perceptual mismatch that would persist even in an arahant with it?
 
-    No, because such disagreeableness would require the mind [still having concern for the body](https://suttacentral.net/an6.83/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin).
+No, because such disagreeableness would require the mind [still having concern for the body](https://suttacentral.net/an6.83/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin).
 
-    > So, it seems like the only reason it is manageable at present is the fact that I am working toward surgeries, and ceasing those efforts would therefore increase the likelihood of having a mental breakdown and of the suicidal thoughts returning full force.
+> So, it seems like the only reason it is manageable at present is the fact that I am working toward surgeries, and ceasing those efforts would therefore increase the likelihood of having a mental breakdown and of the suicidal thoughts returning full force.
 
-    That's possible. But you have to realize that no amount of displeasure produces those reactions by itself. In other words, you have to take full responsibility for them.
+That's possible. But you have to realize that no amount of displeasure produces those reactions by itself. In other words, you have to take full responsibility for them.
 
-    See how that goes before deciding to go for the surgeries.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/ooewd8p/)** _2026-05-28 17:43:49_ *(in reply to Emergency_Win_3698)*:
+See how that goes before deciding to go for the surgeries.
 
-    You cease to see yourself as a victim in despair and renounce the bittersweet gratification that comes from that attitude (which is the direction every mind tends to go whenever something is highly unpleasant). You maintain the context that despairing is a choice, and that it only worsens the displeasure.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/ooi9ikh/)** _2026-05-29 04:09:45_ *(in reply to Hard_Tack4)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/ooewd8p/)** _2026-05-28 17:43:49_ *(in reply to Emergency_Win_3698)*
 
-    > Are you saying that arahants don't feel any sense of disagreability? 
+You cease to see yourself as a victim in despair and renounce the bittersweet gratification that comes from that attitude (which is the direction every mind tends to go whenever something is highly unpleasant). You maintain the context that despairing is a choice, and that it only worsens the displeasure.
 
-    No. A dislike for the given body's male/female features and a desire for the opposite is not just a neutral and unavoidable disagreeability on the level of hunger or physical illness. It's a symptom of mental affinity towards the body, similar to what [this Sutta](https://suttacentral.net/an7.51/en/sujato) describes.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1toai1y/is_treating_gender_dysphoria_through_medical/ooi9ikh/)** _2026-05-29 04:09:45_ *(in reply to Hard_Tack4)*
 
-    
-    
+> Are you saying that arahants don't feel any sense of disagreability? 
+
+No. A dislike for the given body's male/female features and a desire for the opposite is not just a neutral and unavoidable disagreeability on the level of hunger or physical illness. It's a symptom of mental affinity towards the body, similar to what [this Sutta](https://suttacentral.net/an7.51/en/sujato) describes.
+
 
 ---
 
@@ -1192,19 +1241,20 @@ Or is it more just a generalized concern for the preservation of the dhamma in i
 
 Thank you for your time!
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1tjpqzn/question_on_the_nature_of_hhs_critique_of_other/on6sfsn/)** _2026-05-22 04:34:40_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1tjpqzn/question_on_the_nature_of_hhs_critique_of_other/on6sfsn/)** _2026-05-22 04:34:40_
 
-    > HH position that alternative frameworks are structurally incapable of producing liberation because they operate on a fundamental misconception?
+> HH position that alternative frameworks are structurally incapable of producing liberation because they operate on a fundamental misconception?
 
-    Yes, it's a structural issue whereby those frameworks cannot lead to *anything but* pitfalls. Becoming accomplished in them puts one in a worse position than one started in (see below). 
+Yes, it's a structural issue whereby those frameworks cannot lead to *anything but* pitfalls. Becoming accomplished in them puts one in a worse position than one started in (see below). 
 
-    A less ideal or efficient framework leading the same goal would not warrant dismissal. 
+A less ideal or efficient framework leading the same goal would not warrant dismissal. 
 
-    > And in this case, would their "attainments" just be chalked up to maintaining refined states of samadhi?
+> And in this case, would their "attainments" just be chalked up to maintaining refined states of samadhi?
 
-    [Wrong samādhi, wrong knowledge, and wrong liberation](https://suttacentral.net/sn45.26/en/bodhi?lang=en&reference=none&highlight=false#2.2). In simple terms that means: not experiencing (perceptible) dukkha because the circumstances that trigger it have been altered, not because craving in regard to all possible circumstances has diminished. And that is what delusion, the most insidious of the three defilements, boils down to. 
+[Wrong samādhi, wrong knowledge, and wrong liberation](https://suttacentral.net/sn45.26/en/bodhi?lang=en&reference=none&highlight=false#2.2). In simple terms that means: not experiencing (perceptible) dukkha because the circumstances that trigger it have been altered, not because craving in regard to all possible circumstances has diminished. And that is what delusion, the most insidious of the three defilements, boils down to. 
 
-    Of course, this need not be the stated mechanism of operation of a certain practice in order to be the actual mechanism. That mechanism can be embedded in an endless array of different narratives and descriptions.
+Of course, this need not be the stated mechanism of operation of a certain practice in order to be the actual mechanism. That mechanism can be embedded in an endless array of different narratives and descriptions.
+
 
 ---
 
@@ -1253,13 +1303,14 @@ The course/series could be divided in 3/4th part to the positive part, and 1/4th
 
 This would just be one among many ways of presenting HH's central views. But I personally think this would help save much time on both HH's part as well as on the viewers' part due to the clarity it can bring.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1tdj5ge/request_sequential_series_for_beginners/olyfytm/)** _2026-05-15 14:30:31_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1tdj5ge/request_sequential_series_for_beginners/olyfytm/)** _2026-05-15 14:30:31_
 
-    I'm sure we will continue to refine our approach to teaching, but the lack of a "course-like structure"—and the lack of hand-holding of the listener in general—is deliberate and will continue to be that way. It's the least we can do for an distant audience to keep them on the side of seeing (or at least trying to see) for themselves the experiential truths that our material is grounded in, rather than being distracted by intellectual connections with ideas they've heard before (including from us).
+I'm sure we will continue to refine our approach to teaching, but the lack of a "course-like structure"—and the lack of hand-holding of the listener in general—is deliberate and will continue to be that way. It's the least we can do for an distant audience to keep them on the side of seeing (or at least trying to see) for themselves the experiential truths that our material is grounded in, rather than being distracted by intellectual connections with ideas they've heard before (including from us).
 
-    Giving in to the hunger for neatly presented information that newcomers will naturally have is a misstep rooted in yourself not understanding what the Dhamma is and how it is realized. What that actually achieves is helping people fall into the trap of [thinking that they understand what they don't](https://suttas.hillsidehermitage.org/?q=an5.152). They start to feel that the teachings "make sense" to them while their life and mental habits continue in the same trajectory as before, and that's a worse position than not having heard the teachings at all.
+Giving in to the hunger for neatly presented information that newcomers will naturally have is a misstep rooted in yourself not understanding what the Dhamma is and how it is realized. What that actually achieves is helping people fall into the trap of [thinking that they understand what they don't](https://suttas.hillsidehermitage.org/?q=an5.152). They start to feel that the teachings "make sense" to them while their life and mental habits continue in the same trajectory as before, and that's a worse position than not having heard the teachings at all.
 
-    Merely making our teachings publicly available inevitably allows a number of people to fall into this trap, and we wouldn't want to increase that number.
+Merely making our teachings publicly available inevitably allows a number of people to fall into this trap, and we wouldn't want to increase that number.
+
 
 ---
 
@@ -1270,11 +1321,12 @@ If you sit or lie down with eyes closed and just rest for long enough, eventuall
 
 Does Hillside Hermitage support such meditation? In my experience it
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1tc3sr4/doing_nothing_meditation/olp9mj6/)** _2026-05-14 04:21:42_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1tc3sr4/doing_nothing_meditation/olp9mj6/)** _2026-05-14 04:21:42_
 
-    > Does Hillside Hermitage support such meditation? 
+> Does Hillside Hermitage support such meditation? 
 
-    No. Such practices play no role whatsoever on the path, and we have extensively explained why (as well as what samādhi actually is) in our teachings.
+No. Such practices play no role whatsoever on the path, and we have extensively explained why (as well as what samādhi actually is) in our teachings.
+
 
 ---
 
@@ -1297,13 +1349,14 @@ My own answer to some of these questions would be:
 
 The purpose of these types of contemplations is to develop the right context, so that one does not act out in body, speech, or mind when one is pressured by sensuality. If these reflections lead to a temporary reduction in the pressure, or some temporary sense of freedom, that is fine, but that is not the point. Trying to decrease the pressure, or even trying to increase the pressure, is besides the point - the goal is not management, but the fundamental change in view, which means putting things in the right order, so that sensuality is first seen as dangerous and *never* worth engaging in.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1t4v8sg/the_right_peace_before_stream_entry/oke5hhe/)** _2026-05-07 05:18:35_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1t4v8sg/the_right_peace_before_stream_entry/oke5hhe/)** _2026-05-07 05:18:35_
 
-    > Continuing that train of thought, in general, if certain contemplations reduce the pressure, is that bad?
+> Continuing that train of thought, in general, if certain contemplations reduce the pressure, is that bad?
 
-    What is bad is to develop an association that restraint ought to be supported by peace, rather than being non-negotiable regardless of how painful it becomes. 
+What is bad is to develop an association that restraint ought to be supported by peace, rather than being non-negotiable regardless of how painful it becomes. 
 
-    That association will obstruct right view even if the peace you're describing is along the right lines because it means you continue to ignore the true nature of craving (which applies regardless of how you currently feel).
+That association will obstruct right view even if the peace you're describing is along the right lines because it means you continue to ignore the true nature of craving (which applies regardless of how you currently feel).
+
 
 ---
 
@@ -1338,17 +1391,18 @@ I built this for my own practice and for laypeople like me who want something gr
 
 With respect, Kapil
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1t4f2c2/i_have_created_a_free_sutta_companion_app_to/oke90vc/)** _2026-05-07 05:47:04_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1t4f2c2/i_have_created_a_free_sutta_companion_app_to/oke90vc/)** _2026-05-07 05:47:04_
 
-    The app looks great software-wise, although there some issues with the "Practice settings" section:
+The app looks great software-wise, although there some issues with the "Practice settings" section:
 
-    (1) In the first step of the Gradual Training, the third precept is celibacy, not just abstaining from sensual misconduct.   
-      
-    (2) Pinpointing the specific sense base in the sense restraint section is unnecessary and will likely lead to overthinking.   
-      
-    (3) In the Samādhi section, it shows the suggestion "30 min ānāpanasati, aiming for first jhāna," clearly reflecting the common wrong view that jhāna is an absorbed state that "comes to you" after a certain period of some attentional exercise.
+(1) In the first step of the Gradual Training, the third precept is celibacy, not just abstaining from sensual misconduct.   
+  
+(2) Pinpointing the specific sense base in the sense restraint section is unnecessary and will likely lead to overthinking.   
+  
+(3) In the Samādhi section, it shows the suggestion "30 min ānāpanasati, aiming for first jhāna," clearly reflecting the common wrong view that jhāna is an absorbed state that "comes to you" after a certain period of some attentional exercise.
 
-    More generally, the act of logging per se—for anything beyond the precepts, which *are* clear-cut— is a strong indicator that a person is approaching the practice as just another technique/mechanical performance, and that means they are certainly not doing any of the right work on the mental level.
+More generally, the act of logging per se—for anything beyond the precepts, which *are* clear-cut— is a strong indicator that a person is approaching the practice as just another technique/mechanical performance, and that means they are certainly not doing any of the right work on the mental level.
+
 
 ---
 
@@ -1366,19 +1420,18 @@ i feel like ive had more than enough information about how to practice the Dhamm
 its like yeah its his choice that frees him but that doesnt mean he wont relapse, like at the same time tha wild animal gets compared to a strong animal like a wild bull elephant while we are the weaker animal that has to tame it smart. like we cannot just overpower it by sheer will, or can we? is the ability to consciously choose just a muscle that has to be trained as much a possible, so that when unwholesome desire arises we can stay clear from acting out? if so how to prevent burning out and relapse?  
  
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1t095pg/right_restraint_or_wrong_restraint/ojmgtcl/)** _2026-05-03 04:04:45_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1t095pg/right_restraint_or_wrong_restraint/ojmgtcl/)** _2026-05-03 04:04:45_
 
-    > why do i have to stop my bodily behavior, which is way down the line of giving in and acting out of craving,
+> why do i have to stop my bodily behavior, which is way down the line of giving in and acting out of craving,
 
-    Because intentional bodily actions are the coarsest mental actions you can do.
+Because intentional bodily actions are the coarsest mental actions you can do.
 
-    > so a fully addicted drug addict for >10 years or other type of addict can just stop when he decides?
+> so a fully addicted drug addict for >10 years or other type of addict can just stop when he decides?
 
-    Yes, because his body simply can't take the drug on its own; he has to mentally choose that.
+Yes, because his body simply can't take the drug on its own; he has to mentally choose that.
 
-    Each time he takes the drug again, he is deciding that stopping the pains of withdrawal is more important than eventually being free from the addiction. So, he must abstain from making that decision no matter what (which is very straightforward, just not easy in the beginning).
+Each time he takes the drug again, he is deciding that stopping the pains of withdrawal is more important than eventually being free from the addiction. So, he must abstain from making that decision no matter what (which is very straightforward, just not easy in the beginning).
 
-    
 
 ---
 
@@ -1391,21 +1444,22 @@ However, I realized upon introspection that I can’t figure out what the self-l
 
 I want to curb this tendency because it distracts me from doing the necessary work to (at least partly) put things back together again. Not to mention that it is deeply unpleasant to think in this way.
 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1swdqd8/tendency_to_fixate_on_regret_over_past_what_can/oioyvz4/)** _2026-04-28 05:11:15_:
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1swdqd8/tendency_to_fixate_on_regret_over_past_what_can/oioyvz4/)** _2026-04-28 05:11:15_
 
-    >The past, at least phenomenologically/in the sense that matters, is dead and gone. And that entity that I hate so much is gone with it. All that remains is this, which isn’t that entity. The only thing that connects me to it, essentially, is memory traces, which are reconstructions anyway and thus representational. Am I on the right track with this, or is it the wrong way to think about it?
+>The past, at least phenomenologically/in the sense that matters, is dead and gone. And that entity that I hate so much is gone with it. All that remains is this, which isn’t that entity. The only thing that connects me to it, essentially, is memory traces, which are reconstructions anyway and thus representational. Am I on the right track with this, or is it the wrong way to think about it?
 
-    It is good to want to curb the tendency of self-loathing, but this is not the right way to go about it. The problem is that the past is perfectly real as such here and now, and what was done in the past is real here and now, and you *are* connected to it, because you are affected by it here and now. So it doesn't help to deny the reality of your past self or past actions, or your connection to it.  
+It is good to want to curb the tendency of self-loathing, but this is not the right way to go about it. The problem is that the past is perfectly real as such here and now, and what was done in the past is real here and now, and you *are* connected to it, because you are affected by it here and now. So it doesn't help to deny the reality of your past self or past actions, or your connection to it.  
 
-    Fundamentally, what connects you to it are present actions rooted in greed, actions rooted in aversion, actions rooted in distraction. Whatever wrong was done in the past was because of the same greed, aversion and distraction of the mind, which you would be maintaining in the present through behaviours and choices. And it is also because of this that you would continue to feel the results of those past actions in the present. 
+Fundamentally, what connects you to it are present actions rooted in greed, actions rooted in aversion, actions rooted in distraction. Whatever wrong was done in the past was because of the same greed, aversion and distraction of the mind, which you would be maintaining in the present through behaviours and choices. And it is also because of this that you would continue to feel the results of those past actions in the present. 
 
-    To whatever extent you give up and do not do those actions, to that extent you will be truly disconnecting yourself from it. 
+To whatever extent you give up and do not do those actions, to that extent you will be truly disconnecting yourself from it. 
 
-    On a more immediate level: the thought/phenomenon of a past wrong action is something that arises on its own as part of your reality, with its full significance and unpleasantness. And the mind will be pressuring you with directions of self-hating thought in regard to it. But the act of thinking those thoughts and giving them attention is something you unnecessarily do. It is this mental act that fuels aversion and makes you suffer.  
+On a more immediate level: the thought/phenomenon of a past wrong action is something that arises on its own as part of your reality, with its full significance and unpleasantness. And the mind will be pressuring you with directions of self-hating thought in regard to it. But the act of thinking those thoughts and giving them attention is something you unnecessarily do. It is this mental act that fuels aversion and makes you suffer.  
 
-    These specific mental acts can be restrained in the same way you restrain your behaviour - but only if you have been training in restraining behaviour beforehand. If you haven't, that aspect of your responsibility on the mental level will be blurred, and attempts at restraint will usually end up becoming a form of denial.  
+These specific mental acts can be restrained in the same way you restrain your behaviour - but only if you have been training in restraining behaviour beforehand. If you haven't, that aspect of your responsibility on the mental level will be blurred, and attempts at restraint will usually end up becoming a form of denial.  
 
-    Therefore, the precepts have to come first. If you aren't already, what will have by far the most impact is to simply train to keep the eight precepts seriously. If some of them are too difficult to maintain all the time, keep them at least one day a week and work up from there. In the meantime, try and literally just bear the self-loathing as best you can, without giving in to it too much or denying it too much. There is unfortunatly no quick or easy solution. 
+Therefore, the precepts have to come first. If you aren't already, what will have by far the most impact is to simply train to keep the eight precepts seriously. If some of them are too difficult to maintain all the time, keep them at least one day a week and work up from there. In the meantime, try and literally just bear the self-loathing as best you can, without giving in to it too much or denying it too much. There is unfortunatly no quick or easy solution.
+
 
 ---
 
@@ -1414,13 +1468,14 @@ I want to curb this tendency because it distracts me from doing the necessary wo
 
 What degree of personal items is allowable or a good idea for someone who is considering becoming a monk? The HH monks seem to have phones, maybe even laptops, cameras, audio equipment, have presumably used tickets, probably have medicines etc. What is reasonable? I have read that the rules about personal possession of even medicine like frankincense is very restricted, you couldn't have 200 grams on your person it seems without breaking a rule. Ofc many monks even use money which is unambiguously bad. What should I get for myself? Can I get a tent and a nice backpack? An e-ink-tablet? A small camera? Some pens? An Mp3/4? 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1swd7ie/storage_items_and_monks/oii4gds/)** _2026-04-27 04:49:50_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1swd7ie/storage_items_and_monks/oii4gds/)** _2026-04-27 04:49:50_
 
-    > I have read that the rules about personal possession of even medicine like frankincense is very restricted, you couldn't have 200 grams on your person it seems without breaking a rule. 
+> I have read that the rules about personal possession of even medicine like frankincense is very restricted, you couldn't have 200 grams on your person it seems without breaking a rule. 
 
-    There is no such rule in the Vinaya. Every monk is personally responsible for checking his motivations for possessing things.
+There is no such rule in the Vinaya. Every monk is personally responsible for checking his motivations for possessing things.
 
-    With certain things, no matter how externally "luxurious", you can harbor no internal desire and not be significantly bothered if they are lost, whereas there can be "modest" and inexpensive things (and living beings as well) that you would passionately protect even though they are not strictly necessary to survive and to practice. That passion, not the things, is the problem, and you will be unable to address that problem if your focus is on the level of what and how much you have.
+With certain things, no matter how externally "luxurious", you can harbor no internal desire and not be significantly bothered if they are lost, whereas there can be "modest" and inexpensive things (and living beings as well) that you would passionately protect even though they are not strictly necessary to survive and to practice. That passion, not the things, is the problem, and you will be unable to address that problem if your focus is on the level of what and how much you have.
+
 
 ---
 
@@ -1456,61 +1511,64 @@ It is discouraging that I had to leave the monastery early. If I stayed, maybe t
 
 *If* goal directed behavior is a trigger, how am I supposed to practice for nibbana and avoid full blown manic episodes?
 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/ohhltdx/)** _2026-04-21 18:24:53_:
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/ohhltdx/)** _2026-04-21 18:24:53_
 
-    >how am I supposed to avoid a manic episode if I'll have perpetually higher energy 
+>how am I supposed to avoid a manic episode if I'll have perpetually higher energy 
 
-    
-    By doing the same thing you were doing - not breaking the precepts, not acting out of the irrational thoughts if they come up. 
 
-    
-    If lack of sleep and energy spikes come from indulgence in sensuality, then that is what would more likely lead to manic thoughts that drive you to manic behaviour, which is how the whole thing would become a manic episode. Because it's based on a starting point that is already of the same nature. The energy is just a byproduct of the whole state, not what causes it in itself. 
+By doing the same thing you were doing - not breaking the precepts, not acting out of the irrational thoughts if they come up. 
 
-    
-    So if energy is coming from restraint and patient endurance, you probably don't have to worry about that kind of energy. Even if the manic thoughts were to arise in that context, they would not be automatically driving you to manic behaviour, because the energy is in this case based on a genuine 'strength' of not acting out, no matter the pressure. 
 
-    
-    But either way, regardless of energy and where it comes from - if you start to lose perspective, it is because you willingly chose to give in at some point. If this were not true, freedom from suffering would not be possible.   
+If lack of sleep and energy spikes come from indulgence in sensuality, then that is what would more likely lead to manic thoughts that drive you to manic behaviour, which is how the whole thing would become a manic episode. Because it's based on a starting point that is already of the same nature. The energy is just a byproduct of the whole state, not what causes it in itself. 
 
-    
-    So the main thing is to maintain the strength of mind, based on keeping the precepts, which enables you to not act out. Mad thoughts cannot make you mad, only mad actions. 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/ohu6623/)** _2026-04-23 15:33:04_ *(in reply to spiffyhandle)*:
 
-    Regarding the question in the edits: 
+So if energy is coming from restraint and patient endurance, you probably don't have to worry about that kind of energy. Even if the manic thoughts were to arise in that context, they would not be automatically driving you to manic behaviour, because the energy is in this case based on a genuine 'strength' of not acting out, no matter the pressure. 
 
-    >If goal directed behavior is a trigger, how am I supposed to practice for nibbana and avoid full blown manic episodes?
 
-    There is indeed nothing more goal-directed than practice of Nibbana - no higher goal, and nothing that demands more commitment to it.
+But either way, regardless of energy and where it comes from - if you start to lose perspective, it is because you willingly chose to give in at some point. If this were not true, freedom from suffering would not be possible.   
 
-    So if it is true that goal-directed behaviour (or energy spikes for that matter) leads to manic episodes, then you certainly can't practice for Nibbana.
 
-    In fact, for anyone who has any kind of psychiatric illness or disorder, some aspect of the practice for Nibbana will inevitably be a trigger for that illness. Practice for Nibbana is fundamentally incompatible with management of mental illness.
+So the main thing is to maintain the strength of mind, based on keeping the precepts, which enables you to not act out. Mad thoughts cannot make you mad, only mad actions.
 
-    So, either the practice for Nibbana is only accessible to only those who don't have a psychiatric illness - or, the problem and the fuel of the illness is not actually the trigger; but rather something that you are responsible for in between the trigger and the illness.
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/ohu6623/)** _2026-04-23 15:33:04_ *(in reply to spiffyhandle)*
 
-    (This is certainly not saying the illness is not real; or that it is not biological. It's just that it is included within the mass of dukkha that can be uprooted if the necessary effort is made. If a person is able to understand the suttas and restrain his actions, he is capable of making the necessary effort. Whether one does so or not is up to a oneself.)
+Regarding the question in the edits: 
 
-    You can't have a guarantee about this from the start beyond the Buddha's direct words, but what is sure is that if you aren't willing to take on the genuine risk of facing the triggers sooner or later, you won't be practicing for Nibbana, and you'll never know whether you could have attained it.
+>If goal directed behavior is a trigger, how am I supposed to practice for nibbana and avoid full blown manic episodes?
 
-    Yet, again, even within the reality of such risk, it is worth remembering that no matter how bad or extreme things might become, there would still be containment as long as you do not do the few obvious things that can't happen by accident: lie to yourself, lie to others, kill, steal, take intoxicants or indulge in sensuality. 
+There is indeed nothing more goal-directed than practice of Nibbana - no higher goal, and nothing that demands more commitment to it.
 
-    
-    Edit -to add something that should go without saying and should give reassurance: 'goal-directed behaviour' that is rooted in manic state of mind and results in loss of perspective, is sensual goal-seeking by definition. And as such it is not the Dhamma. Same as energy that comes from calming the mind is different in nature from energy that comes from winding it up.  
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/ohzg2vq/)** _2026-04-24 09:56:16_ *(in reply to spiffyhandle)*:
+So if it is true that goal-directed behaviour (or energy spikes for that matter) leads to manic episodes, then you certainly can't practice for Nibbana.
 
-    >Is decreased sleep something that naturally happens as part of the practice? If so, is it temporary or something permanent?
+In fact, for anyone who has any kind of psychiatric illness or disorder, some aspect of the practice for Nibbana will inevitably be a trigger for that illness. Practice for Nibbana is fundamentally incompatible with management of mental illness.
 
-    Yes, it can be like a side effect of right restraint and recollectedness. And obviously, like all side effects, it's not in itself significant in the practice, and not something to aim for in itself. Nor is it a problem if someone is still needing more sleep, as long as they are making right effort while they are awake. 
+So, either the practice for Nibbana is only accessible to only those who don't have a psychiatric illness - or, the problem and the fuel of the illness is not actually the trigger; but rather something that you are responsible for in between the trigger and the illness.
 
-    
-    >I am trying to figure out what pushing through this might look like. I think I could get say 6 hours of sleep a night and be fine on a long-term basis, but it's the acute drop to no sleep at all which concerns me.
+(This is certainly not saying the illness is not real; or that it is not biological. It's just that it is included within the mass of dukkha that can be uprooted if the necessary effort is made. If a person is able to understand the suttas and restrain his actions, he is capable of making the necessary effort. Whether one does so or not is up to a oneself.)
 
-    
+You can't have a guarantee about this from the start beyond the Buddha's direct words, but what is sure is that if you aren't willing to take on the genuine risk of facing the triggers sooner or later, you won't be practicing for Nibbana, and you'll never know whether you could have attained it.
 
-    I would say for now the priority should be to not be reckless, protect virtue and make the mind used to it and able to sustain it as a baseline. So rather than trying to practice very intensely in extreme seclusion for short term retreats, focus on maintain the precepts throughout your daily life, while having more frequent periods of seclusion on a regular basis.  
+Yet, again, even within the reality of such risk, it is worth remembering that no matter how bad or extreme things might become, there would still be containment as long as you do not do the few obvious things that can't happen by accident: lie to yourself, lie to others, kill, steal, take intoxicants or indulge in sensuality. 
 
-    
-    The former kind of practice involving an extreme determination to 'go for it' is the kind of thing that *can* lead people, even without bipolar, to delude themselves into magical experiences, attainments, neuroticism and forced sleep-deprivation. Again, that's ultimately not because of the seclusion or energy, but because they are working from a desire-driven state of mind. 
+
+Edit -to add something that should go without saying and should give reassurance: 'goal-directed behaviour' that is rooted in manic state of mind and results in loss of perspective, is sensual goal-seeking by definition. And as such it is not the Dhamma. Same as energy that comes from calming the mind is different in nature from energy that comes from winding it up.
+
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1srliws/how_to_safely_navigate_increases_in_energy_for/ohzg2vq/)** _2026-04-24 09:56:16_ *(in reply to spiffyhandle)*
+
+>Is decreased sleep something that naturally happens as part of the practice? If so, is it temporary or something permanent?
+
+Yes, it can be like a side effect of right restraint and recollectedness. And obviously, like all side effects, it's not in itself significant in the practice, and not something to aim for in itself. Nor is it a problem if someone is still needing more sleep, as long as they are making right effort while they are awake. 
+
+
+>I am trying to figure out what pushing through this might look like. I think I could get say 6 hours of sleep a night and be fine on a long-term basis, but it's the acute drop to no sleep at all which concerns me.
+
+
+
+I would say for now the priority should be to not be reckless, protect virtue and make the mind used to it and able to sustain it as a baseline. So rather than trying to practice very intensely in extreme seclusion for short term retreats, focus on maintain the precepts throughout your daily life, while having more frequent periods of seclusion on a regular basis.  
+
+
+The former kind of practice involving an extreme determination to 'go for it' is the kind of thing that *can* lead people, even without bipolar, to delude themselves into magical experiences, attainments, neuroticism and forced sleep-deprivation. Again, that's ultimately not because of the seclusion or energy, but because they are working from a desire-driven state of mind.
+
 
 ---
 
@@ -1519,25 +1577,28 @@ It is discouraging that I had to leave the monastery early. If I stayed, maybe t
 
 If I understand correctly, Ajahn N. does not consider any kind of relaxing meditation part of dhamma practice. I was listening to one of his dhamma talks and he mentioned that instead of calming meditation, people should instead practice sitting quietly and contemplating certain dhamma topics. This is of course great but it has limitations. There is a sutta (MN19) which clearly explains that there is no danger in skillful thinking but too much of even skillful thinking will tire the body and stress the mind.  So how do you practice tranquility according to Hillside Hermitage teachings? My definition of relaxing meditation is very flexible. I believe even sweeping floors or picking berries or laying in bed with resting awareness qualifies as relaxing meditation.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sqjyzr/how_do_you_practice_tranquility/oh9cuq0/)** _2026-04-20 13:48:06_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sqjyzr/how_do_you_practice_tranquility/oh9cuq0/)** _2026-04-20 13:48:06_
 
-    > So how do you practice tranquility according to Hillside Hermitage teachings?
+> So how do you practice tranquility according to Hillside Hermitage teachings?
 
-    [The first, non-negotiable step is giving up sensuality](https://suttacentral.net/mn75/en/bodhi?lang=en&reference=main&highlight=false#sc34). Whatever a person who hasn't done this can achieve is not tranquility—the absence of craving—but is merely shifting their substantial mass of craving onto something else (e.g., the sensual bliss obtained in a state of absorption, often mistaken for tranquility).
+[The first, non-negotiable step is giving up sensuality](https://suttacentral.net/mn75/en/bodhi?lang=en&reference=main&highlight=false#sc34). Whatever a person who hasn't done this can achieve is not tranquility—the absence of craving—but is merely shifting their substantial mass of craving onto something else (e.g., the sensual bliss obtained in a state of absorption, often mistaken for tranquility).
 
-    From then onwards, you progress in the Gradual Training up until you reach the level of purifying your mind from the hindrances, which is done [by understanding them as mental activities that are harmful](https://suttas.hillsidehermitage.org/?q=mn39#mn39:14.1_mn39:14.30), not by any attentional technique or focusing effort whatsoever.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sqjyzr/how_do_you_practice_tranquility/ohe30su/)** _2026-04-21 04:56:26_ *(in reply to [deleted])*:
+From then onwards, you progress in the Gradual Training up until you reach the level of purifying your mind from the hindrances, which is done [by understanding them as mental activities that are harmful](https://suttas.hillsidehermitage.org/?q=mn39#mn39:14.1_mn39:14.30), not by any attentional technique or focusing effort whatsoever.
 
-    The pleasure that comes from what is generally mistaken as samādhi today. Pleasure that comes from engagement with a sense object rather than from withdrawal.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sqjyzr/how_do_you_practice_tranquility/ohe5gi5/)** _2026-04-21 05:15:37_ *(in reply to nubuda)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sqjyzr/how_do_you_practice_tranquility/ohe30su/)** _2026-04-21 04:56:26_ *(in reply to [deleted])*
 
-    > Just like the sutta I referenced says, too much thinking of dhamma topics can cause stress despite it being skillful thoughts.
+The pleasure that comes from what is generally mistaken as samādhi today. Pleasure that comes from engagement with a sense object rather than from withdrawal.
 
-    It doesn't say that you simply decide to engage in a calming practice out of a view that skillful thoughts are tiresome. You develop the skillful thoughts until those have become the mind's natural inclination and unwholesome thoughts have subsided. 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sqjyzr/how_do_you_practice_tranquility/ohe5gi5/)** _2026-04-21 05:15:37_ *(in reply to nubuda)*
 
-    If that's actually completed, you won't need a special practice to calm yourself down. You removed the greatest source of disturbance by undoing the unwholesome thoughts, and now with the wholesome thoughts, recognizing that the subtle burden they entail is no longer necessary will be enough for the mind to become internally calm (meaning it's preoccupied with neither wholesome nor unwholesome thoughts).
+> Just like the sutta I referenced says, too much thinking of dhamma topics can cause stress despite it being skillful thoughts.
 
-    Whereas before that point, you only have two options apart from the wholesome thoughts: the blatant unwholesome thoughts, and distractions such as "relaxing meditation." Both are stressful compared to actual samādhi, where you don't have to do anything at all in order to be calm.
+It doesn't say that you simply decide to engage in a calming practice out of a view that skillful thoughts are tiresome. You develop the skillful thoughts until those have become the mind's natural inclination and unwholesome thoughts have subsided. 
+
+If that's actually completed, you won't need a special practice to calm yourself down. You removed the greatest source of disturbance by undoing the unwholesome thoughts, and now with the wholesome thoughts, recognizing that the subtle burden they entail is no longer necessary will be enough for the mind to become internally calm (meaning it's preoccupied with neither wholesome nor unwholesome thoughts).
+
+Whereas before that point, you only have two options apart from the wholesome thoughts: the blatant unwholesome thoughts, and distractions such as "relaxing meditation." Both are stressful compared to actual samādhi, where you don't have to do anything at all in order to be calm.
+
 
 ---
 
@@ -1575,39 +1636,40 @@ Any further reflections on how to put the Pātimokkha rules into practice are ve
 With respectful regards,  
 Sāmaṇerī Mahesī
 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1shlx31/question_regarding_interpretation_and_application/ofr9nyk/)** _2026-04-12 14:24:42_:
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1shlx31/question_regarding_interpretation_and_application/ofr9nyk/)** _2026-04-12 14:24:42_
 
-    My comments were along very similar lines with Venerable Anīgha's, so I will just add a couple further notes especially on Saṅghadisesa 3.
+My comments were along very similar lines with Venerable Anīgha's, so I will just add a couple further notes especially on Saṅghadisesa 3.
 
-    
-    >I would appreciate any guidance on how to approach rules that are not entirely clear or that allow for multiple interpretations—how one might arrive at a well-grounded decision in such cases.
 
-    
-    The right approach should be based on understanding that the principle of the whole vinaya is about prohibiting actions that are done with unwholesome intent - or that, through lack of foresight, give rise to problems for not only oneself but the whole saṅgha.
+>I would appreciate any guidance on how to approach rules that are not entirely clear or that allow for multiple interpretations—how one might arrive at a well-grounded decision in such cases.
 
-    
-    Many of the rules that are not so obviously or universally related to sensuality or ill-will come through a context (which is still relevant now but easy to overlook) where, as a bhikkhu or bhikkhuni, one's actions are never truly private, but reflect on, and carry consequences for, an entire community. 
 
-    
-    So, for example, in the case of Saṅghādisesa 3, I would say that the general point is about carelessly  exposing yourself to obvious danger or risk - of rape, mainly, in the case of this rule. Which is something that, if it were to occur, would have potentially huge long-term consequences for all, and thus warrants taking very seriously. Hence it is a serious offence.  
+The right approach should be based on understanding that the principle of the whole vinaya is about prohibiting actions that are done with unwholesome intent - or that, through lack of foresight, give rise to problems for not only oneself but the whole saṅgha.
 
-    
-    I think the list "walking to the next village alone," "crossing a river alone" "spending the night alone" are the main *examples* of such type of obviously heedless behaviour within the context in which the rule came about, not a definitive list of what counts as risky. So they need to be understood in that sense. It then doesn't make sense that, say, spending the night in a kuti near a monastery would be a problem - on the other hand, staying in an open cave near a village in Sri Lanka definitely would. So would walking alone in a city at night.
 
-    
-    *Gāmantara* literally means 'between villages'. I think this can be taken to mean broadly 'walking alone on a road [where one is at risk]'. 
+Many of the rules that are not so obviously or universally related to sensuality or ill-will come through a context (which is still relevant now but easy to overlook) where, as a bhikkhu or bhikkhuni, one's actions are never truly private, but reflect on, and carry consequences for, an entire community. 
 
-    
-    (The part of this rule that doesn't make much sense to me is 'lagging behind companions'. At least half of the parallel versions in the different schools don't have it.) 
 
-    
-    The origin stories of the bhikkhunis' rules are, in my memory, less of a reliable guide than those of the bhikkhus. They apparently diverge greatly between traditions, often sound strange and can sometimes add more confusion than clarification. Nevertheless they can help to give context if the rule itself is very ambiguous. 
+So, for example, in the case of Saṅghādisesa 3, I would say that the general point is about carelessly  exposing yourself to obvious danger or risk - of rape, mainly, in the case of this rule. Which is something that, if it were to occur, would have potentially huge long-term consequences for all, and thus warrants taking very seriously. Hence it is a serious offence.  
 
-    
-    In practice, interpretations need to be generally agreed upon by a community. You should of course try and come to your own understanding of the meaning of the rules for your own sake - but realising that it might not be possible or worthwhile to try and convince others around of that, especially given the lack of a unifying view of the practice within most monastic communities these days. (Also see [this passage](https://suttacentral.net/pli-tv-kd2/en/brahmali?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin#27.10.1)). At least in the case of the more circumstantial rules, it's fine to go along with the way the community follows them, as long as you yourself do not lose perspective through that. (It is much easier to redefine what 'ill' means and then feel absolved of anything and everything, than it is to question a preference of travelling first class as a monastic.)
 
-    
-    I am not pursuing bhikkhuni ordination, and do not plan to. This is not because of the rules, but simply because I do not see any need or purpose for it beyond my current circumstances. 
+I think the list "walking to the next village alone," "crossing a river alone" "spending the night alone" are the main *examples* of such type of obviously heedless behaviour within the context in which the rule came about, not a definitive list of what counts as risky. So they need to be understood in that sense. It then doesn't make sense that, say, spending the night in a kuti near a monastery would be a problem - on the other hand, staying in an open cave near a village in Sri Lanka definitely would. So would walking alone in a city at night.
+
+
+*Gāmantara* literally means 'between villages'. I think this can be taken to mean broadly 'walking alone on a road [where one is at risk]'. 
+
+
+(The part of this rule that doesn't make much sense to me is 'lagging behind companions'. At least half of the parallel versions in the different schools don't have it.) 
+
+
+The origin stories of the bhikkhunis' rules are, in my memory, less of a reliable guide than those of the bhikkhus. They apparently diverge greatly between traditions, often sound strange and can sometimes add more confusion than clarification. Nevertheless they can help to give context if the rule itself is very ambiguous. 
+
+
+In practice, interpretations need to be generally agreed upon by a community. You should of course try and come to your own understanding of the meaning of the rules for your own sake - but realising that it might not be possible or worthwhile to try and convince others around of that, especially given the lack of a unifying view of the practice within most monastic communities these days. (Also see [this passage](https://suttacentral.net/pli-tv-kd2/en/brahmali?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin#27.10.1)). At least in the case of the more circumstantial rules, it's fine to go along with the way the community follows them, as long as you yourself do not lose perspective through that. (It is much easier to redefine what 'ill' means and then feel absolved of anything and everything, than it is to question a preference of travelling first class as a monastic.)
+
+
+I am not pursuing bhikkhuni ordination, and do not plan to. This is not because of the rules, but simply because I do not see any need or purpose for it beyond my current circumstances.
+
 
 ---
 
@@ -1642,11 +1704,12 @@ So perhaps there is something about not possessing comfortable furniture, in gen
 
 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sfqklp/clarification_of_no_high_and_luxurious_beds/ofipos4/)** _2026-04-11 05:27:33_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sfqklp/clarification_of_no_high_and_luxurious_beds/ofipos4/)** _2026-04-11 05:27:33_
 
-    It's about not using furniture that is very likely to be misused. Namely, for indulging in the pleasure of lying down and giving in to mental laziness rather than resting the body when needed.
+It's about not using furniture that is very likely to be misused. Namely, for indulging in the pleasure of lying down and giving in to mental laziness rather than resting the body when needed.
 
-    Secondarily, it's about avoiding ostentatiousness, which is another way of losing the context of what a bed/furniture is for.
+Secondarily, it's about avoiding ostentatiousness, which is another way of losing the context of what a bed/furniture is for.
+
 
 ---
 
@@ -1669,19 +1732,20 @@ I believed my breaches were overly problematic to stay, so I planned to leave, r
 
 However, when I opened up, some monks urged me to stay. I now feel at ease rather than remorseful. I’m determined to make the best choice rather than the most appealing one. As I currently conceive my situation, I have considered: a. remaining in an austere environment, striving to perfect my virtue, while not focusing on anything beyond that—bearing the solitude, hunger, and so on, or b. going home, relaxing, and focusing on committing to the precepts in an easier environment, in preparation for eventually leaving home again. I am leaning towards b. Now that I have tasted the relief of virtue, it would seem simpler to solidify it at my own pace. But I could push, and give it my all, I suppose. The only things holding me back are my own choices. Any input is appreciated. Thank you Bhantes and fellow renunciates.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1se88jf/building_the_foundations/oey5u8s/)** _2026-04-08 06:22:15_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1se88jf/building_the_foundations/oey5u8s/)** _2026-04-08 06:22:15_
 
-    >  Danger frequently and personally becomes apparent to me, but my actions revert to worldliness. Are these two different things—understanding and true training in making good choices? I
+>  Danger frequently and personally becomes apparent to me, but my actions revert to worldliness. Are these two different things—understanding and true training in making good choices? I
 
-    They are not different. If it doesn't change one's choices, it is not understanding yet. It hasn't "sunk in."
+They are not different. If it doesn't change one's choices, it is not understanding yet. It hasn't "sunk in."
 
-    > Having tasted the pleasure of renunciation, I wanted to be a lay person for a while, living alone, working a job, and practicing aloofness in regards to worldly pleasures, before going to another, “easier” secluded environment after a while.
+> Having tasted the pleasure of renunciation, I wanted to be a lay person for a while, living alone, working a job, and practicing aloofness in regards to worldly pleasures, before going to another, “easier” secluded environment after a while.
 
-    That's not a bad outcome if it actually turns out that way, but you want to honestly reflect on why going back is more appealing. People who return home after living in a monastery very rarely uphold the same standards afterwards, despite convincing themselves that they would.
+That's not a bad outcome if it actually turns out that way, but you want to honestly reflect on why going back is more appealing. People who return home after living in a monastery very rarely uphold the same standards afterwards, despite convincing themselves that they would.
 
-    Perhaps the solitude and hunger are in themselves so bad that the mind is perfectly happy with abandoning just that and otherwise continuing the training unchanged. But more often than not, that choice is more appealing because although one will still be committed to the precepts on paper, accountability for breaking them will be significantly lower, and *that* is felt as relief. There could even be a concealed expectation of a quick "top up" of sensual indulgence before you take the precepts seriously again.
+Perhaps the solitude and hunger are in themselves so bad that the mind is perfectly happy with abandoning just that and otherwise continuing the training unchanged. But more often than not, that choice is more appealing because although one will still be committed to the precepts on paper, accountability for breaking them will be significantly lower, and *that* is felt as relief. There could even be a concealed expectation of a quick "top up" of sensual indulgence before you take the precepts seriously again.
 
-    If the latter is the reason, then the mind is trying to seduce you into giving up the training and not just the austere environment—which you are of course free to do, but you'd better be honest to yourself about it.
+If the latter is the reason, then the mind is trying to seduce you into giving up the training and not just the austere environment—which you are of course free to do, but you'd better be honest to yourself about it.
+
 
 ---
 
@@ -1696,13 +1760,14 @@ I notice that this thought is predicated on craving and will lead to further cra
 
 Is that the right way to react?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1se6pjp/intrusive_thoughts/oey39py/)** _2026-04-08 06:00:23_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1se6pjp/intrusive_thoughts/oey39py/)** _2026-04-08 06:00:23_
 
-    > I notice that this thought is predicated on craving and will lead to further craving, so I stop myself from engaging with it. This basically amounts to forcefully cutting it off, because the citta really wants me to think that thought right now. When the thought is gone, I notice the aversion that the thought generated and make sure not to resist it. I stay peripherally aware of that aversion until it is gone.
+> I notice that this thought is predicated on craving and will lead to further craving, so I stop myself from engaging with it. This basically amounts to forcefully cutting it off, because the citta really wants me to think that thought right now. When the thought is gone, I notice the aversion that the thought generated and make sure not to resist it. I stay peripherally aware of that aversion until it is gone.
 
-    Indeed. That's how you remove the fuel for the aversion, and it eventually subsides.
+Indeed. That's how you remove the fuel for the aversion, and it eventually subsides.
 
-    What you don't want to be "cutting off" is the underlying discomfort due to which the mind wants to think aversive thoughts (or any unwholesome thought). That's where people often go wrong, and it's essentially trying to stop Māra from presenting baits instead of holding the mind back from engaging with them.
+What you don't want to be "cutting off" is the underlying discomfort due to which the mind wants to think aversive thoughts (or any unwholesome thought). That's where people often go wrong, and it's essentially trying to stop Māra from presenting baits instead of holding the mind back from engaging with them.
+
 
 ---
 
@@ -1727,19 +1792,20 @@ If my understanding is true, from the Buddha’s point of view, the best choice 
 
 P.S. Does samanadipa hermitage or hillside hermitage still ordain monks? 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sdos59/the_ultimate_choice/oelykr5/)** _2026-04-06 13:22:52_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sdos59/the_ultimate_choice/oelykr5/)** _2026-04-06 13:22:52_
 
-    > This means that if I choose to delay my ordination, I’ll have missed out on an opportunity to perfect renunciation. 
+> This means that if I choose to delay my ordination, I’ll have missed out on an opportunity to perfect renunciation. 
 
-    Yes, but beyond that, the idea that finishing the degree will make a meaningful difference is false. Whenever you abandon the world, the reaction of people close to you will be the same, the displeasure will be the same, and the mind's fear in regard to it will be the same—and likely greater if you wait, since you give in to that fear and thus fuel it.
+Yes, but beyond that, the idea that finishing the degree will make a meaningful difference is false. Whenever you abandon the world, the reaction of people close to you will be the same, the displeasure will be the same, and the mind's fear in regard to it will be the same—and likely greater if you wait, since you give in to that fear and thus fuel it.
 
-    So, the real question is whether you would stick to your determination to leave the world, and use that renunciation to practice rightly no matter how unpleasant that turns out to be. And it will be at least as unpleasant as the disappointment you fear. The extent of the internal problem you carry is evidently that much at least.
+So, the real question is whether you would stick to your determination to leave the world, and use that renunciation to practice rightly no matter how unpleasant that turns out to be. And it will be at least as unpleasant as the disappointment you fear. The extent of the internal problem you carry is evidently that much at least.
 
-    If you're not entirely sure that you will stick to both of those, then it's better to wait and do your best with your current circumstances. Not because of anything related to the degree, but because it can be a major setback if you end up returning home. The mind develops a "been there, done that" attitude towards going forth that makes it much harder to take it on sincerely again.
+If you're not entirely sure that you will stick to both of those, then it's better to wait and do your best with your current circumstances. Not because of anything related to the degree, but because it can be a major setback if you end up returning home. The mind develops a "been there, done that" attitude towards going forth that makes it much harder to take it on sincerely again.
 
-    > P.S. Does samanadipa hermitage or hillside hermitage still ordain monks?
+> P.S. Does samanadipa hermitage or hillside hermitage still ordain monks?
 
-    Both places are operating at full capacity in terms of permanent residents for the foreseeable future.
+Both places are operating at full capacity in terms of permanent residents for the foreseeable future.
+
 
 ---
 
@@ -1762,25 +1828,26 @@ I understand those things to be the factors of origination.
 
 Though I imagine there’s a good reason that final line in the sutta is included just as it is for the other three factors of mindfulness.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sdi0p0/or_the_memory_that_feeling_is_there_is_established/oey25ex/)** _2026-04-08 05:51:05_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sdi0p0/or_the_memory_that_feeling_is_there_is_established/oey25ex/)** _2026-04-08 05:51:05_
 
-    > but simply discerning that feelings are there seems like it can be conflated with the direct observation-(ayoniso) type meditation. 
+> but simply discerning that feelings are there seems like it can be conflated with the direct observation-(ayoniso) type meditation. 
 
-    … If one has from the start misunderstood what feelings even are. Actual feelings structurally cannot be "observed" like that at all.
+… If one has from the start misunderstood what feelings even are. Actual feelings structurally cannot be "observed" like that at all.
 
-    > Would that constitute a correct form of yoniso manisakara, discerning that my feeling state is just there, primordial, and conditioned, and keeping that knowledge in my background awareness as I focus directly on the feelings that are there?
+> Would that constitute a correct form of yoniso manisakara, discerning that my feeling state is just there, primordial, and conditioned, and keeping that knowledge in my background awareness as I focus directly on the feelings that are there?
 
-    Yes, but there is no need to intentionally "focus directly" on anything. When you discern feelings where they are, that perspective naturally carries over into whatever comes up on its own.
+Yes, but there is no need to intentionally "focus directly" on anything. When you discern feelings where they are, that perspective naturally carries over into whatever comes up on its own.
 
-    > Or must I always be contemplating the basis for feelings/moods such as contact, perception, etc?
+> Or must I always be contemplating the basis for feelings/moods such as contact, perception, etc?
 
-    Not always. Seeing a feeling as an arisen experience (not leaving it festering in the background unnoticed) is ideally enough for the mind to cease its engagements within it. You contemplate further only if that's not enough for disengagement to occur.
-    
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sdi0p0/or_the_memory_that_feeling_is_there_is_established/og2v05l/)** _2026-04-14 05:23:19_ *(in reply to NoArm_Boss2627)*:
+Not always. Seeing a feeling as an arisen experience (not leaving it festering in the background unnoticed) is ideally enough for the mind to cease its engagements within it. You contemplate further only if that's not enough for disengagement to occur.
 
-    Whatever an act of observation applies to is an object in the world, not a feeling. Feeling endures *in regard to* such an act, and it has to be ignored in order to be with the content of the observation. 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sdi0p0/or_the_memory_that_feeling_is_there_is_established/og2v05l/)** _2026-04-14 05:23:19_ *(in reply to NoArm_Boss2627)*
 
-    The same goes for all the aggregates. They cannot be observed because they are the background of observation (and of any action).
+Whatever an act of observation applies to is an object in the world, not a feeling. Feeling endures *in regard to* such an act, and it has to be ignored in order to be with the content of the observation. 
+
+The same goes for all the aggregates. They cannot be observed because they are the background of observation (and of any action).
+
 
 ---
 
@@ -1807,65 +1874,69 @@ I have often stumbled over this phrasing, because in my understanding it suggest
 
 I’d be grateful for guidance on how to understand this in practice.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/oedp8zw/)** _2026-04-05 04:38:20_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/oedp8zw/)** _2026-04-05 04:38:20_
 
-    > But how, in that case, should AN 6.17 be understood, where the Buddha criticizes junior monks for excessive sleeping?
+> But how, in that case, should AN 6.17 be understood, where the Buddha criticizes junior monks for excessive sleeping?
 
-    Indulgence in sleep is a deliberate action that you simply abstain from, so if you feel the need to impose an external limit to prevent such indulgence, it's because you don't see what the work even is (and will most likely start indulging in however little sleep you get).
+Indulgence in sleep is a deliberate action that you simply abstain from, so if you feel the need to impose an external limit to prevent such indulgence, it's because you don't see what the work even is (and will most likely start indulging in however little sleep you get).
 
-    
-    > it suggests that for someone who has not yet reached this level of virtue, it very well can more easily become an obstacle to consume such fine food.
 
-    Yes, because they could be eating such food with an indulgent *intention.* Not because the food will accidentally obstruct them despite the lack of such intentions.
+> it suggests that for someone who has not yet reached this level of virtue, it very well can more easily become an obstacle to consume such fine food.
 
-    > Would it accordingly be recommended, as a precaution to not agitate the mind, to choose—whenever possible—simpler food over more delicious options, even when the latter are not sought for their taste as such?
+Yes, because they could be eating such food with an indulgent *intention.* Not because the food will accidentally obstruct them despite the lack of such intentions.
 
-    Definitely not. Inclining towards such a precaution implies a fundamental misunderstanding of what the mind is (namely, intention). Same as with sleep, due to tackling the problem at the wrong place, your actual mind will likely start indulging in the "simple" food you limited it to.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/oee8yjc/)** _2026-04-05 07:23:37_ *(in reply to Sa_Mahe_ri)*:
+> Would it accordingly be recommended, as a precaution to not agitate the mind, to choose—whenever possible—simpler food over more delicious options, even when the latter are not sought for their taste as such?
 
-    > So that they slept until the sun came up, snoring can be simply seen as an byproduct of their intention to indulge in sleep when they went to sleep
+Definitely not. Inclining towards such a precaution implies a fundamental misunderstanding of what the mind is (namely, intention). Same as with sleep, due to tackling the problem at the wrong place, your actual mind will likely start indulging in the "simple" food you limited it to.
 
-    Yes. Neither of those things are themselves intentional.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/oee8yjc/)** _2026-04-05 07:23:37_ *(in reply to Sa_Mahe_ri)*
 
-    > So there might be some translation error as well, which I can't figure out myself.
+> So that they slept until the sun came up, snoring can be simply seen as an byproduct of their intention to indulge in sleep when they went to sleep
 
-    The Pāli does contain the expression *yāvadatthaṁ,* i.e., "as much as one wants." And *seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto viharanto* means "dwelling *dedicated to* the pleasure of sleeping, lying down and drowsing." 
+Yes. Neither of those things are themselves intentional.
 
-    When getting that pleasure is one's intention for sleeping, the action is indulgent no matter the duration of one's sleep. And the reverse when that is not the intention.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/og38qcc/)** _2026-04-14 07:19:23_ *(in reply to Intrepid_Volume_3261)*:
+> So there might be some translation error as well, which I can't figure out myself.
 
-    >But isn't the whole idea of sense-restraint that it is easier to develop the proper intention in regard to sensuality when things which make the untrained mind liable to indulge are restricted?
+The Pāli does contain the expression *yāvadatthaṁ,* i.e., "as much as one wants." And *seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto viharanto* means "dwelling *dedicated to* the pleasure of sleeping, lying down and drowsing." 
 
-    Not quite. It's a widespread misunderstanding that sense restraint means preventing yourself from perceiving this or that.
+When getting that pleasure is one's intention for sleeping, the action is indulgent no matter the duration of one's sleep. And the reverse when that is not the intention.
 
-    If you read the Suttas carefully, you see that sense restraint is always described in terms of what you don't do (on the mental level) *when* you perceive something. In this case, it's what you wouldn't do when eating even the most agreeable food so that the mind is not polluted.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/og38qcc/)** _2026-04-14 07:19:23_ *(in reply to Intrepid_Volume_3261)*
 
-    Now, this obviously doesn't mean that you can eat whatever you crave for and then just practice sense restraint. 
+>But isn't the whole idea of sense-restraint that it is easier to develop the proper intention in regard to sensuality when things which make the untrained mind liable to indulge are restricted?
 
-    Sense restraint is preceded by establishment in virtue. Virtue in this context means that when the very act of eating something is infected with craving, you won't be eating it to begin with.
+Not quite. It's a widespread misunderstanding that sense restraint means preventing yourself from perceiving this or that.
 
-    >According to my (very puthujjana) understanding, sex is prohibited not because it is necessarily impossible to engage in it without grasping and delight, but because no untrained mind could accomplish this practically
+If you read the Suttas carefully, you see that sense restraint is always described in terms of what you don't do (on the mental level) *when* you perceive something. In this case, it's what you wouldn't do when eating even the most agreeable food so that the mind is not polluted.
 
-    Nor would a trained mind. It is necessarily impossible to engage in sexual intercourse (to initiate it or consent to it) without grasping and delight. Hence celibacy is a fixed part of virtue.
+Now, this obviously doesn't mean that you can eat whatever you crave for and then just practice sense restraint. 
 
-    >no doubt as a result of my mind's lack of conditioning, I find it impossible to eat, for instance, a grilled cheese sandwich without delighting in it and craving fatty food for days, but experience a fraction of this sensual delight in my oatmeal.
+Sense restraint is preceded by establishment in virtue. Virtue in this context means that when the very act of eating something is infected with craving, you won't be eating it to begin with.
 
-    Right, so the problem is that craving, not the sandwiches. Conversely, the solution is to *abstain* from eating out of craving—which may or may not include abstaining from the sandwiches depending on the current state of the mind—rather than to perform the duty of only eating oatmeal. 
+>According to my (very puthujjana) understanding, sex is prohibited not because it is necessarily impossible to engage in it without grasping and delight, but because no untrained mind could accomplish this practically
 
-    Without a doubt, at any given time there will be foods apart from oatmeal that your mind does not crave for. By bundling it all into "oatmeal and the rest," you avoid the work of discerning what sensuality actually is, namely your [*passionate intention*](https://suttacentral.net/an6.63/en/sujato?lang=en&layout=plain&reference=main&notes=none&highlight=false&script=latin#8.10) that is totally independent from the agreeability of things.
+Nor would a trained mind. It is necessarily impossible to engage in sexual intercourse (to initiate it or consent to it) without grasping and delight. Hence celibacy is a fixed part of virtue.
 
-    It's a less extreme form of the misguided practices of other ascetics mentioned in the Suttas, like eating only herbs and always being naked, so as to get around the need to see the current state of their mind and make choices based on that. Even if lustful states are factually avoided that way, wrong view and lack of clarity are directly fueled, and that is worse.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/ogbe633/)** _2026-04-15 12:31:24_ *(in reply to Intrepid_Volume_3261)*:
+>no doubt as a result of my mind's lack of conditioning, I find it impossible to eat, for instance, a grilled cheese sandwich without delighting in it and craving fatty food for days, but experience a fraction of this sensual delight in my oatmeal.
 
-    If your mind is obsessively pulling you towards certain foods—meaning you see the threat of losing perspective and not being able to stop even before you begin—then you should definitely not go along with that pull. 
+Right, so the problem is that craving, not the sandwiches. Conversely, the solution is to *abstain* from eating out of craving—which may or may not include abstaining from the sandwiches depending on the current state of the mind—rather than to perform the duty of only eating oatmeal. 
 
-    Still, the particulars of a given food, be it richness or anything else, are completely irrelevant. The mind craves a certain food when it craves it, not when it's rich or light, and thus the state of the mind has to be the sole criterion.
+Without a doubt, at any given time there will be foods apart from oatmeal that your mind does not crave for. By bundling it all into "oatmeal and the rest," you avoid the work of discerning what sensuality actually is, namely your [*passionate intention*](https://suttacentral.net/an6.63/en/sujato?lang=en&layout=plain&reference=main&notes=none&highlight=false&script=latin#8.10) that is totally independent from the agreeability of things.
 
-    Not seeing that [is enough to set the whole effort in the wrong direction internally](https://suttas.hillsidehermitage.org/?q=an10.105), despite externally abstaining from the same things as you would with the right perspective.
+It's a less extreme form of the misguided practices of other ascetics mentioned in the Suttas, like eating only herbs and always being naked, so as to get around the need to see the current state of their mind and make choices based on that. Even if lustful states are factually avoided that way, wrong view and lack of clarity are directly fueled, and that is worse.
 
-    > even nuts, an uncomfortable quality immediately taints the thought which is identical to the feeling of being pulled into a fantasy based on doubt or lust
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1sb7wmw/questions_on_sleep_and_fine_food_as_obstacles_in/ogbe633/)** _2026-04-15 12:31:24_ *(in reply to Intrepid_Volume_3261)*
 
-    Also, some skepticism about that reaction is warranted because indeed, it could be the result of the diet itself. I wouldn't recommend ignoring the reaction and eating the food anyway, but don't take for granted that you will always have an issue with those foods.
+If your mind is obsessively pulling you towards certain foods—meaning you see the threat of losing perspective and not being able to stop even before you begin—then you should definitely not go along with that pull. 
+
+Still, the particulars of a given food, be it richness or anything else, are completely irrelevant. The mind craves a certain food when it craves it, not when it's rich or light, and thus the state of the mind has to be the sole criterion.
+
+Not seeing that [is enough to set the whole effort in the wrong direction internally](https://suttas.hillsidehermitage.org/?q=an10.105), despite externally abstaining from the same things as you would with the right perspective.
+
+> even nuts, an uncomfortable quality immediately taints the thought which is identical to the feeling of being pulled into a fantasy based on doubt or lust
+
+Also, some skepticism about that reaction is warranted because indeed, it could be the result of the diet itself. I wouldn't recommend ignoring the reaction and eating the food anyway, but don't take for granted that you will always have an issue with those foods.
+
 
 ---
 
@@ -1888,78 +1959,88 @@ It's worth noting that this is currently just the first draft. A lot of the word
 
 I had presented this to Ven. Anigha privately on discord, and bhante stated that it was correct for the most part. There was apparently an issue that existed with a noncentral part of the post, but I no longer recall what that issue was that bhante stated - I cannot currently go on discord as I've disabled my accounts for the week.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/odwsx0b/)** _2026-04-02 16:36:17_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/odwsx0b/)** _2026-04-02 16:36:17_
 
-    The point can be expressed much more concisely: if your practice does not include celibacy, then either your view of the practice is wrong (i.e., it is not geared towards purifying your mind from craving), or your commitment to practicing along the right lines is still underdeveloped (lack of a sense of urgency). Both of these are obvious obstructions to stream entry. 
+The point can be expressed much more concisely: if your practice does not include celibacy, then either your view of the practice is wrong (i.e., it is not geared towards purifying your mind from craving), or your commitment to practicing along the right lines is still underdeveloped (lack of a sense of urgency). Both of these are obvious obstructions to stream entry. 
 
-    For a *sotāpanna* the former is not possible, but the latter will still stop them from making further progress.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe0ol5m/)** _2026-04-03 05:07:33_ *(in reply to tejveeer)*:
+For a *sotāpanna* the former is not possible, but the latter will still stop them from making further progress.
 
-    You're essentially saying that it's necessary to cater to people who from the start are poised to not put the teachings into practice. With that I don't mean "investigation-oriented" people as a whole—using one's reasoning is not inherently wrong—but people who refuse to try to see what we are pointing at in their individual experience afflicted by suffering (which is what gives rise to faith). 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe0ol5m/)** _2026-04-03 05:07:33_ *(in reply to tejveeer)*
 
-    That refusal is not going to end once enough justifications are given because it's an emotionally rooted habit. They will demand more rigor in some other respect, and meeting that demand will only help them procrastinate approaching the Dhamma at the level where it is (presently evident and verifiable).
+You're essentially saying that it's necessary to cater to people who from the start are poised to not put the teachings into practice. With that I don't mean "investigation-oriented" people as a whole—using one's reasoning is not inherently wrong—but people who refuse to try to see what we are pointing at in their individual experience afflicted by suffering (which is what gives rise to faith). 
 
-    It's the same principle that is described [here.](https://suttacentral.net/mn63/en/bodhi?lang=en&reference=main&highlight=false#sc8)
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe0p1qn/)** _2026-04-03 05:11:12_ *(in reply to jareb)*:
+That refusal is not going to end once enough justifications are given because it's an emotionally rooted habit. They will demand more rigor in some other respect, and meeting that demand will only help them procrastinate approaching the Dhamma at the level where it is (presently evident and verifiable).
 
-    > the Buddha did not consider this to be the case.
+It's the same principle that is described [here.](https://suttacentral.net/mn63/en/bodhi?lang=en&reference=main&highlight=false#sc8)
 
-    What is this belief based on?
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe77a8i/)** _2026-04-04 04:19:52_ *(in reply to jareb)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe0p1qn/)** _2026-04-03 05:11:12_ *(in reply to jareb)*
 
-    > even a noble disciple may still indulge in sensuality, and the life of a householder will not lose its significance for him.
+> the Buddha did not consider this to be the case.
 
-    Yes, and as I wrote in the second alternative above, that would come from being under-committed to the training.
+What is this belief based on?
 
-    The Buddha went on to give a long exposition to Mahānāma on the dangers of sensuality because not giving it up is precisely what was [holding him back](https://suttas.hillsidehermitage.org/?q=mn16#mn16:8.1_mn16:8.4).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe7rrlw/)** _2026-04-04 07:09:59_ *(in reply to tejveeer)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe77a8i/)** _2026-04-04 04:19:52_ *(in reply to jareb)*
 
-    >They are constrained by this perception because don't know whether the cost of the practice (suffering from restraint), is worth the benefit (freedom from suffering). This is because they aren't able to perceive any appropriate initial grounds that may indicate to them that that benefit can indeed be received from the cost.
+> even a noble disciple may still indulge in sensuality, and the life of a householder will not lose its significance for him.
 
-    Yes, and my point is that they won't perceive those grounds through more rigorous argumentation, so it's a waste of time and effort for both parties.
+Yes, and as I wrote in the second alternative above, that would come from being under-committed to the training.
 
-    The daunting difficulty of the practice will only be taken on if a person feels that the alternative is not only worse, but inescapable: "I am prey to suffering" is seen acutely and personally, as a necessary property of one's entire existence. Seeing that liability automatically makes theoretical justifications for the practice redundant, just as you don't need a logical proof to justify trying to remove an arrow from your chest.
+The Buddha went on to give a long exposition to Mahānāma on the dangers of sensuality because not giving it up is precisely what was [holding him back](https://suttas.hillsidehermitage.org/?q=mn16#mn16:8.1_mn16:8.4).
 
-    If the problem does not manifest to one on that level, then one's commitment will not be sufficient to go "against the grain" of one's personal desires and obsessions. Thus, no matter how closely one follows the Suttas on paper, one will not be committed to the actual Dhamma but to something that merely sounds like it.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe8o5j4/)** _2026-04-04 11:54:43_ *(in reply to jareb)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe7rrlw/)** _2026-04-04 07:09:59_ *(in reply to tejveeer)*
 
-    You are conflating "being unable to return to sensuality" with practicing in line with the Dhamma.
+>They are constrained by this perception because don't know whether the cost of the practice (suffering from restraint), is worth the benefit (freedom from suffering). This is because they aren't able to perceive any appropriate initial grounds that may indicate to them that that benefit can indeed be received from the cost.
 
-    Being celibate and withdrawn (which is what we have stated as a requirement) doesn't mean you are beyond sensual desire. It means you don't *give into it,* which is how you [go against the stream](https://suttacentral.net/an4.5/en/bodhi?lang=en&reference=none&highlight=false) and make progress towards the cessation of craving.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe8yw6l/)** _2026-04-04 13:03:48_ *(in reply to jareb)*:
+Yes, and my point is that they won't perceive those grounds through more rigorous argumentation, so it's a waste of time and effort for both parties.
 
-    That doesn't contradict the point at all. 
+The daunting difficulty of the practice will only be taken on if a person feels that the alternative is not only worse, but inescapable: "I am prey to suffering" is seen acutely and personally, as a necessary property of one's entire existence. Seeing that liability automatically makes theoretical justifications for the practice redundant, just as you don't need a logical proof to justify trying to remove an arrow from your chest.
 
-    Mahānāma was lacking in diligence, which as I mentioned in the first comment above, is possible for a noble disciple. Seeing that lack of diligence, the Buddha spoke about the dangers of sensuality hoping that Mahānāma would gain enough of a sense of urgency to fully give up wrong intention.
+If the problem does not manifest to one on that level, then one's commitment will not be sufficient to go "against the grain" of one's personal desires and obsessions. Thus, no matter how closely one follows the Suttas on paper, one will not be committed to the actual Dhamma but to something that merely sounds like it.
 
-    If his enjoyment of sensuality was not the cornerstone of his lack of diligence—and was instead a dismissable symptom of not developing something else—the Buddha would've given him a discourse on that other thing instead of on the dangers of sensuality.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe9mr38/)** _2026-04-04 15:11:33_ *(in reply to jareb)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe8o5j4/)** _2026-04-04 11:54:43_ *(in reply to jareb)*
 
-    So, you're proposing that it's not a problem for a person to engage in sensuality, maintaining their reliance on that form of happiness, when they don't know a better form of happiness. They are free to continue to do so; they just need to train in "mindfulness"—an exercise that is clearly done at the expense of acknowledging that craving is the root of suffering, and that wrong intention must be abandoned. 
+You are conflating "being unable to return to sensuality" with practicing in line with the Dhamma.
 
-    That exercise will somehow lead to the same result as the mindfulness that the Suttas do teach—mindfulness which *is* geared towards abandoning craving, and would thus be along the lines of [remembering to not give in to sensual urges whenever they arise](https://suttas.hillsidehermitage.org/?q=sn35.246#sn35.246:1.1_sn35.246:1.11). This "mindfulness" also bypasses [the Buddha's statement](https://suttacentral.net/mn75/en/bodhi?lang=en&reference=main&highlight=false#sc33) that someone who still enjoys sensuality cannot abide in internal calm.
+Being celibate and withdrawn (which is what we have stated as a requirement) doesn't mean you are beyond sensual desire. It means you don't *give into it,* which is how you [go against the stream](https://suttacentral.net/an4.5/en/bodhi?lang=en&reference=none&highlight=false) and make progress towards the cessation of craving.
 
-    Does that not sound like magical thinking?
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oeazho7/)** _2026-04-04 19:10:47_ *(in reply to jareb)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe8yw6l/)** _2026-04-04 13:03:48_ *(in reply to jareb)*
 
-    > The idea that celibacy is a prerequisite for entering the stream does not come from the Buddha. 
+That doesn't contradict the point at all. 
 
-    The idea that it isn't a prerequisite doesn't come from the Buddha either.  Both are interpretations.
+Mahānāma was lacking in diligence, which as I mentioned in the first comment above, is possible for a noble disciple. Seeing that lack of diligence, the Buddha spoke about the dangers of sensuality hoping that Mahānāma would gain enough of a sense of urgency to fully give up wrong intention.
 
-    > In other words, what about the elimination of the ignorance?
+If his enjoyment of sensuality was not the cornerstone of his lack of diligence—and was instead a dismissable symptom of not developing something else—the Buddha would've given him a discourse on that other thing instead of on the dangers of sensuality.
 
-    Denying non-sensuality as a necessary part of the practice is undeniable ignorance of the four noble truths here and now: following the most blatant form of craving while trying to solve the problem means you ignore that craving is the origin of the problem.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oeflpvz/)** _2026-04-05 13:48:19_ *(in reply to jareb)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oe9mr38/)** _2026-04-04 15:11:33_ *(in reply to jareb)*
 
-    > The prerequisites are explicitly listed by the Buddha in many suttas as the factors for the stream-entry, and celibacy is not listed among these factors, even once.
+So, you're proposing that it's not a problem for a person to engage in sensuality, maintaining their reliance on that form of happiness, when they don't know a better form of happiness. They are free to continue to do so; they just need to train in "mindfulness"—an exercise that is clearly done at the expense of acknowledging that craving is the root of suffering, and that wrong intention must be abandoned. 
 
-    That's because for someone who rightly views practicing in line with the Dhamma (a factor for stream-entry) as practicing towards the cessation of craving, the need for celibacy will be obvious. Just as it was to the entire Saṅgha before any rules were laid down.
+That exercise will somehow lead to the same result as the mindfulness that the Suttas do teach—mindfulness which *is* geared towards abandoning craving, and would thus be along the lines of [remembering to not give in to sensual urges whenever they arise](https://suttas.hillsidehermitage.org/?q=sn35.246#sn35.246:1.1_sn35.246:1.11). This "mindfulness" also bypasses [the Buddha's statement](https://suttacentral.net/mn75/en/bodhi?lang=en&reference=main&highlight=false#sc33) that someone who still enjoys sensuality cannot abide in internal calm.
 
-    > A layperson who engages in sexual activity within the framework of observing the five precepts is not breaking any rules, whereas a monk who engages in a similar act commits a grave violation of the Vinaya—he commits a parajika offence.
+Does that not sound like magical thinking?
 
-    That's secondary; [both are engaging in wrong intention](https://suttas.hillsidehermitage.org/?q=sn45.24). The Vinaya is an impermanent framework that will one day be forgotten, but wrong intention will always be wrong intention and lead to the maintenance of craving no matter who you are.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oeazho7/)** _2026-04-04 19:10:47_ *(in reply to jareb)*
 
-    Plus, that a monk receives the same penalty as murderer for such an act is no accident. See how the Buddha tells Sudinna that what he did was the direct opposite of the spirit of the Dhamma.
+> The idea that celibacy is a prerequisite for entering the stream does not come from the Buddha. 
+
+The idea that it isn't a prerequisite doesn't come from the Buddha either.  Both are interpretations.
+
+> In other words, what about the elimination of the ignorance?
+
+Denying non-sensuality as a necessary part of the practice is undeniable ignorance of the four noble truths here and now: following the most blatant form of craving while trying to solve the problem means you ignore that craving is the origin of the problem.
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9sv7g/an_attempt_to_clarify_hhs_stance_on_the/oeflpvz/)** _2026-04-05 13:48:19_ *(in reply to jareb)*
+
+> The prerequisites are explicitly listed by the Buddha in many suttas as the factors for the stream-entry, and celibacy is not listed among these factors, even once.
+
+That's because for someone who rightly views practicing in line with the Dhamma (a factor for stream-entry) as practicing towards the cessation of craving, the need for celibacy will be obvious. Just as it was to the entire Saṅgha before any rules were laid down.
+
+> A layperson who engages in sexual activity within the framework of observing the five precepts is not breaking any rules, whereas a monk who engages in a similar act commits a grave violation of the Vinaya—he commits a parajika offence.
+
+That's secondary; [both are engaging in wrong intention](https://suttas.hillsidehermitage.org/?q=sn45.24). The Vinaya is an impermanent framework that will one day be forgotten, but wrong intention will always be wrong intention and lead to the maintenance of craving no matter who you are.
+
+Plus, that a monk receives the same penalty as murderer for such an act is no accident. See how the Buddha tells Sudinna that what he did was the direct opposite of the spirit of the Dhamma.
+
 
 ---
 
@@ -1974,26 +2055,28 @@ Second, is there a helpful mindset to approach the confession server with? I joi
 
 Since leaving, I've found some improvement in precepts through Uposatha. I find I can keep the precepts for one day and then that has momentum into the rest of the week. And I'm starting to experience why the precepts are important and how they relate to my mind.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9i2cq/right_mindset_to_benefit_from_the_confession/odpi2lw/)** _2026-04-01 15:13:00_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9i2cq/right_mindset_to_benefit_from_the_confession/odpi2lw/)** _2026-04-01 15:13:00_
 
-    >  I'd prefer to go by memory, but the instructions say that I must report every violation.
+>  I'd prefer to go by memory, but the instructions say that I must report every violation.
 
-    The rule says:
+The rule says:
 
-    > Make sure to list every transgression that you recall, and not only the ones you think are important. 
+> Make sure to list every transgression that you recall, and not only the ones you think are important. 
 
-    The point being, *when* you recall something that is clearly a transgression, you confess it instead of giving yourself the chance to explain away the confession as not necessary in that particular instance. So the rule is "don't intentionally cover things up" and not "don't accidentally forget anything."
+The point being, *when* you recall something that is clearly a transgression, you confess it instead of giving yourself the chance to explain away the confession as not necessary in that particular instance. So the rule is "don't intentionally cover things up" and not "don't accidentally forget anything."
 
-    > At first, I tried really hard to keep the precepts because I thought it was embarrassing to admit to others that I broke them. But after two weeks, I stopped being embarrassed. Then, I gradually slid into breaking precepts more and more because I started with a weak internal reference point and I lost my external reference point (embarrassment). Something about reading other people's confessions made me feel like my own violations were more acceptable.
+> At first, I tried really hard to keep the precepts because I thought it was embarrassing to admit to others that I broke them. But after two weeks, I stopped being embarrassed. Then, I gradually slid into breaking precepts more and more because I started with a weak internal reference point and I lost my external reference point (embarrassment). Something about reading other people's confessions made me feel like my own violations were more acceptable.
 
-    It's a common misconception that confession helps by producing an external sense of embarrassment. But that embarrassment is indeed quite ephemeral and won't take you very far.
+It's a common misconception that confession helps by producing an external sense of embarrassment. But that embarrassment is indeed quite ephemeral and won't take you very far.
 
-    The right shame (*hiriottappā*) comes from failing at something that you were sincerely devoted to (hence *saddhā* comes before *hiri* and *ottappā* in the list of five powers). The external act of confessing cannot by itself ensure that you are sincerely devoted to purifying your conduct, nor that the right sense of shame and the resulting effort arise.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9i2cq/right_mindset_to_benefit_from_the_confession/oe11dr8/)** _2026-04-03 06:53:23_ *(in reply to _Ulu-Mulu_)*:
+The right shame (*hiriottappā*) comes from failing at something that you were sincerely devoted to (hence *saddhā* comes before *hiri* and *ottappā* in the list of five powers). The external act of confessing cannot by itself ensure that you are sincerely devoted to purifying your conduct, nor that the right sense of shame and the resulting effort arise.
 
-    > Is this hiriottappā then? I mostly wonder about the the anxiety there if it should be felt this way.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1s9i2cq/right_mindset_to_benefit_from_the_confession/oe11dr8/)** _2026-04-03 06:53:23_ *(in reply to _Ulu-Mulu_)*
 
-    Potentially. The shame needs to come from feeling that you failed yourself by doing what unavoidably harms you, not from having failed in the eyes of someone or something external.
+> Is this hiriottappā then? I mostly wonder about the the anxiety there if it should be felt this way.
+
+Potentially. The shame needs to come from feeling that you failed yourself by doing what unavoidably harms you, not from having failed in the eyes of someone or something external.
+
 
 ---
 
@@ -2004,26 +2087,19 @@ Hello, I am fairly new In my practice trying to put my best in the understanding
 
 I wonder "where do I start?", "why am I still so reluctant to restraint?". Could I be still lagging behind with the five precepts, is that a thing? I expected restraint to become easier as understanding of the dhamma deepens. What could I be doing wrong that is stopping progress?
 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1s199dl/weakening_attachment/oc9mmfn/)** _2026-03-24 20:11:50_:
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1s199dl/weakening_attachment/oc9mmfn/)** _2026-03-24 20:11:50_
 
-    >I wonder "where do I start?", "why am I still so reluctant to restraint?"... What could I be doing wrong that is stopping progress?
+>I wonder "where do I start?", "why am I still so reluctant to restraint?"... What could I be doing wrong that is stopping progress?
 
-    1. Start with clarifying what is your own goal. And don't forget it. 
+1. Start with clarifying what is your own goal. And don't forget it. 
 
-    2. You answered it: because restraint requires effort and the mind perceives relinquishment as an abyss.  
-    Therefore you need a very good reason (i.e. a goal that is more important than anything else in the world) to stick to it regardless. 
-      
-    3. Being impatient and wanting results without the effort. 
+2. You answered it: because restraint requires effort and the mind perceives relinquishment as an abyss.  
+Therefore you need a very good reason (i.e. a goal that is more important than anything else in the world) to stick to it regardless. 
+  
+3. Being impatient and wanting results without the effort. 
 
-    If a goal is sufficiently important to you, then no amount of time, effort or relinquishment can be too much for the sake of reaching it. 
+If a goal is sufficiently important to you, then no amount of time, effort or relinquishment can be too much for the sake of reaching it.
 
-     
-
-     
-
-    
-
-    
 
 ---
 
@@ -2044,35 +2120,38 @@ Could it occur purely as a bodily reaction—like from an illness— or would la
 
 Edit: reworded for more accuracy
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/oay2bvv/)** _2026-03-17 15:28:57_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/oay2bvv/)** _2026-03-17 15:28:57_
 
-    [The Buddha said](https://suttacentral.net/an3.107/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) that *too much* laughter is regarded as childish in the noble one's discipline. Besides, notice that unlike dancing and singing, he does not speak of "destroying the bridge" in regard to even this childish laughter. In other words, it's not something you would categorically fall away because it's not intrinsically unwholesome, but you should try to avoid it because for people whose understanding of the Dhamma is still shallow and who take you as an example, it can easily be interpreted as an allowance for laxity in regard to actually unwholesome things even when it's not unwholesome for you internally.
+[The Buddha said](https://suttacentral.net/an3.107/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) that *too much* laughter is regarded as childish in the noble one's discipline. Besides, notice that unlike dancing and singing, he does not speak of "destroying the bridge" in regard to even this childish laughter. In other words, it's not something you would categorically fall away because it's not intrinsically unwholesome, but you should try to avoid it because for people whose understanding of the Dhamma is still shallow and who take you as an example, it can easily be interpreted as an allowance for laxity in regard to actually unwholesome things even when it's not unwholesome for you internally.
 
-    The Buddha himself supposedly never laughed, and that makes perfect sense given that he had refined his outward demeanor beyond the minimum threshold of an Arahant (who is only incapable of [five specific actions](https://suttas.hillsidehermitage.org/?q=an9.7). 
+The Buddha himself supposedly never laughed, and that makes perfect sense given that he had refined his outward demeanor beyond the minimum threshold of an Arahant (who is only incapable of [five specific actions](https://suttas.hillsidehermitage.org/?q=an9.7). 
 
-    That refinement was only natural given the weight that his image had to carry as the absolute highest authority on the Dhamma.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/oazii3e/)** _2026-03-17 19:27:05_ *(in reply to craveminerals)*:
+That refinement was only natural given the weight that his image had to carry as the absolute highest authority on the Dhamma.
 
-    > Being unable to take “a course of action influenced by desire, aversion, muddledness, or fear” wouldn’t eliminate laughter, then.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/oazii3e/)** _2026-03-17 19:27:05_ *(in reply to craveminerals)*
 
-    Yes, and laughter isn't even an action many times. Action requires intention, and laughter can happen despite one's intention being actively set on the opposite.
+> Being unable to take “a course of action influenced by desire, aversion, muddledness, or fear” wouldn’t eliminate laughter, then.
 
-    > In reading some of Ñāṇavīra’s thoughts on this, he seems to be saying something true. But there’s also a possibility that what he describes is quite removed from “real life” and how things actually work.
+Yes, and laughter isn't even an action many times. Action requires intention, and laughter can happen despite one's intention being actively set on the opposite.
 
-    Yes, he definitely had a philosophical bent, and that's often at odds with the Dhamma. Granted, he openly admitted that he was writing all those letters to pass the time, having lost the motivation to strive further due to his sickness. He himself likely didn't see those ideas as fundamental to the training.
+> In reading some of Ñāṇavīra’s thoughts on this, he seems to be saying something true. But there’s also a possibility that what he describes is quite removed from “real life” and how things actually work.
 
-    > If I may ask another question, what do you make of the “laughing wisdom” in SN 55.24, that spiffyhandle mentioned in their comment, what does that mean?
+Yes, he definitely had a philosophical bent, and that's often at odds with the Dhamma. Granted, he openly admitted that he was writing all those letters to pass the time, having lost the motivation to strive further due to his sickness. He himself likely didn't see those ideas as fundamental to the training.
 
-    *Hāsapaññā* is used for Ven. Sāriputta in SN 2.29 and elsewhere, so it can't be connected with Sarakāni's drinking habit. 
+> If I may ask another question, what do you make of the “laughing wisdom” in SN 55.24, that spiffyhandle mentioned in their comment, what does that mean?
 
-    It could simply mean "endowed with wisdom that brings happiness." But that would be strange according to Pāli convention, since it would be an outlier in a list of terms that all have very similar meanings. 
+*Hāsapaññā* is used for Ven. Sāriputta in SN 2.29 and elsewhere, so it can't be connected with Sarakāni's drinking habit. 
 
-    Perhaps *hāsa* is derived from (or is a corruption of) *haṁsa,* which means swan. In the Suttas, the swan is sometimes [used to convey swiftness](https://suttacentral.net/snp1.12/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#15.1), which fits with the other qualifiers in the SN 2.29 list.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/ob5qhnv/)** _2026-03-18 18:01:03_ *(in reply to spiffyhandle)*:
+It could simply mean "endowed with wisdom that brings happiness." But that would be strange according to Pāli convention, since it would be an outlier in a list of terms that all have very similar meanings. 
 
-    >  I wonder if that's the skill to bring about laughter and joy in others when giving dhamma talks.
+Perhaps *hāsa* is derived from (or is a corruption of) *haṁsa,* which means swan. In the Suttas, the swan is sometimes [used to convey swiftness](https://suttacentral.net/snp1.12/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#15.1), which fits with the other qualifiers in the SN 2.29 list.
 
-    No, it couldn't be a "skill" in a Dhamma context. It would at best remain as a habit built up from before, and a mostly counterproductive one at that. Hence the Buddha's own example.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rvf0mf/arahants_laughing/ob5qhnv/)** _2026-03-18 18:01:03_ *(in reply to spiffyhandle)*
+
+>  I wonder if that's the skill to bring about laughter and joy in others when giving dhamma talks.
+
+No, it couldn't be a "skill" in a Dhamma context. It would at best remain as a habit built up from before, and a mostly counterproductive one at that. Hence the Buddha's own example.
+
 
 ---
 
@@ -2087,46 +2166,45 @@ For context I am currently keeping five precepts + celibacy and *some* of the ot
 
 Edit: I realized the title is a bit misleading as the pain is actually part “mental” (i.e., not necessarily related to emotions) and part “emotional” (e.g., hopelessness, sorrow, regret, shame, anxiety, feeling of being trapped). And “misery” connotes the omnipresent background feeling of unpleasantness and dread.
 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1ruhg22/how_do_you_practice_despite_constant_emotional/oawet17/)** _2026-03-17 09:09:01_:
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1ruhg22/how_do_you_practice_despite_constant_emotional/oawet17/)** _2026-03-17 09:09:01_
 
-    >How do you practice despite constant (emotional) pain and misery?
+>How do you practice despite constant (emotional) pain and misery?
 
-    The very short answer would be: by not trying to get rid of the pain and misery, because it is not the problem. The whole burden is trying to stop yourself feeling the unpleasant feeling. 
+The very short answer would be: by not trying to get rid of the pain and misery, because it is not the problem. The whole burden is trying to stop yourself feeling the unpleasant feeling. 
 
-    Obviously you can't change that overnight, but you do need to change the expectation, if it is there, that the dhamma practice is supposed to make the pain go away. It is supposed to make the resistance in regard to that pain go away. 
+Obviously you can't change that overnight, but you do need to change the expectation, if it is there, that the dhamma practice is supposed to make the pain go away. It is supposed to make the resistance in regard to that pain go away. 
 
-    If this sounds completely inapplicable and and abstract, you might need to first learn, or ask more specific questions, about how to practice in regard to some of the particular types of emotional pain you mentioned. (Remorse, shame, suicidal thoughts etc).
+If this sounds completely inapplicable and and abstract, you might need to first learn, or ask more specific questions, about how to practice in regard to some of the particular types of emotional pain you mentioned. (Remorse, shame, suicidal thoughts etc).
 
-    It will come down to recognising that certain thoughts are irrational and not acting out of them, but this is difficult if you are not able yourself to recognise them as irrational and distance yourself from them. 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1ruhg22/how_do_you_practice_despite_constant_emotional/ob29i4a/)** _2026-03-18 04:14:14_ *(in reply to Hard_Tack4)*:
+It will come down to recognising that certain thoughts are irrational and not acting out of them, but this is difficult if you are not able yourself to recognise them as irrational and distance yourself from them.
 
-    Of course, I am not saying that the OP should not seek any kind of temporary relief. Plenty of other good suggestions were already made in regard to this, and he should by all means follow such advice if it makes things more bearable. 
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1ruhg22/how_do_you_practice_despite_constant_emotional/ob29i4a/)** _2026-03-18 04:14:14_ *(in reply to Hard_Tack4)*
 
-    But he did not ask about temporary relief; he asked how to practice the dhamma in regard to constant pain and misery. The answer to that is as I said: by first learning that the pain and misery is not the probem, it's the symptom of the problem. The assumption that the pain has to go away first in order to be able to practice is what hinders the actual cure. 
+Of course, I am not saying that the OP should not seek any kind of temporary relief. Plenty of other good suggestions were already made in regard to this, and he should by all means follow such advice if it makes things more bearable. 
 
-    Edit: also, it is worth noting things that immediately relieve the unpleasant feeling can also be part of the right practice. The most obvious example is that if someone is miserable on account of shame and remorse for something they have done, the right practice is to confess it, openly and truthfully. This will be a relief, and that's completely fine. 
+But he did not ask about temporary relief; he asked how to practice the dhamma in regard to constant pain and misery. The answer to that is as I said: by first learning that the pain and misery is not the probem, it's the symptom of the problem. The assumption that the pain has to go away first in order to be able to practice is what hinders the actual cure. 
 
-    It makes all the difference whether the relief comes from hiding from the source of the pain or from admitting it. The first one is what I am saying will hinder the practice. How something feels is not a reference for its rightness or wrongness.
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1ruhg22/how_do_you_practice_despite_constant_emotional/oc8s7hx/)** _2026-03-24 17:50:11_ *(in reply to Solip123)*:
+Edit: also, it is worth noting things that immediately relieve the unpleasant feeling can also be part of the right practice. The most obvious example is that if someone is miserable on account of shame and remorse for something they have done, the right practice is to confess it, openly and truthfully. This will be a relief, and that's completely fine. 
 
-    > I had the belief that any kind of relief of the mental/emotional distress should (ideally) be avoided as it’s an action done out of aversion (to the unpleasant feeling).
+It makes all the difference whether the relief comes from hiding from the source of the pain or from admitting it. The first one is what I am saying will hinder the practice. How something feels is not a reference for its rightness or wrongness.
 
-    That is understandable, because it is very easy to hear instructions such as what I repeated above: 'do not try to get rid of the unpleasant feeling', and think it means 'do not do anything that relieves the unpleasant feeling'. 
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1ruhg22/how_do_you_practice_despite_constant_emotional/oc8s7hx/)** _2026-03-24 17:50:11_ *(in reply to Solip123)*
 
-    That's essentially what self-mortification is,  whereby you conflate 'not acting out of aversion' with 'making the pain worse'. 
-    It is something I also had to unlearn.  
+> I had the belief that any kind of relief of the mental/emotional distress should (ideally) be avoided as it’s an action done out of aversion (to the unpleasant feeling).
 
-    It's not any relief of the pain that should be avoided; it's the **attitude and action** of resisting, avoiding and hiding from the pain; OR that of actively maintaining it in self-punishment. 
+That is understandable, because it is very easy to hear instructions such as what I repeated above: 'do not try to get rid of the unpleasant feeling', and think it means 'do not do anything that relieves the unpleasant feeling'. 
 
-    It's also possible to have unwholesome resistance in regard to things that are neutral or pleasant when they aren't on your terms, or if they require you to give up a strong habit or comfort zone. 
+That's essentially what self-mortification is,  whereby you conflate 'not acting out of aversion' with 'making the pain worse'. 
+It is something I also had to unlearn.  
 
-    So either way it is the unwholesome actions that are to be avoided, not feeling of relief or feeling of pain. 
+It's not any relief of the pain that should be avoided; it's the **attitude and action** of resisting, avoiding and hiding from the pain; OR that of actively maintaining it in self-punishment. 
 
-    (I am adding this just in case it helps clarify the point further, even though it was already stated in brief. It was hard to be sure exactly what you were asking at first, as the initial question was quite broad, so this helps me be more specific.) 
-     
+It's also possible to have unwholesome resistance in regard to things that are neutral or pleasant when they aren't on your terms, or if they require you to give up a strong habit or comfort zone. 
 
-    
-    
+So either way it is the unwholesome actions that are to be avoided, not feeling of relief or feeling of pain. 
+
+(I am adding this just in case it helps clarify the point further, even though it was already stated in brief. It was hard to be sure exactly what you were asking at first, as the initial question was quite broad, so this helps me be more specific.)
+
 
 ---
 
@@ -2167,69 +2245,70 @@ EDIT 4: **Broken pots**:
 
 Thank you for reading.
 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/oaj82ty/)** _2026-03-15 06:56:20_:
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/oaj82ty/)** _2026-03-15 06:56:20_
 
-    A good post which reminds me of this: 
+A good post which reminds me of this: 
 
-    >A dying man can only rely upon his wisdom, if he developed it. Wisdom is not dependent upon any phenomenon originated upon six senses. It is developed on the basis of the discernment of the same. That’s why when one’s senses start to wither and die, the knowledge of their nature remains unaffected. When there is no wisdom, there will be despair, in the face of death. Breathing Towards Death. 
+>A dying man can only rely upon his wisdom, if he developed it. Wisdom is not dependent upon any phenomenon originated upon six senses. It is developed on the basis of the discernment of the same. That’s why when one’s senses start to wither and die, the knowledge of their nature remains unaffected. When there is no wisdom, there will be despair, in the face of death. Breathing Towards Death. 
 
-    Regarding the 'edit 2' part: 
-    The sankhāras are there in ignorance. Not understanding that one's actions and cares have not even the possibility of access over their own foundation, they *do* reach over and access it by mistake, although they cannot. This ignorant appropriation (and consequently being affected in return) is real and exists as such, to greater or lesser degree in everyone who is not an arahant. The task is to wear it away by sufficiently and repeatedly recognising the mistake, and stopping the actions and habits that uphold it. 
+Regarding the 'edit 2' part: 
+The sankhāras are there in ignorance. Not understanding that one's actions and cares have not even the possibility of access over their own foundation, they *do* reach over and access it by mistake, although they cannot. This ignorant appropriation (and consequently being affected in return) is real and exists as such, to greater or lesser degree in everyone who is not an arahant. The task is to wear it away by sufficiently and repeatedly recognising the mistake, and stopping the actions and habits that uphold it. 
 
-    Therefore the only thing I would mention about this part (as a precaution more than a correction) is that it can definitely be the right way to think, **as long as that thinking does not become abstract.** 
+Therefore the only thing I would mention about this part (as a precaution more than a correction) is that it can definitely be the right way to think, **as long as that thinking does not become abstract.** 
 
-    I.e., it is one thing to have the idea 'even every upādāna is impermanent'; it is another thing to become actually aware of that very phenomenon of 'taking up' what cannot be taken up, finding it in concrete standpoints and paths of thought. (You mentioned some examples.) The former does nothing to free you from that upādāna; the latter is the direct way to undo it.  Avoid abstract thinking like the plague.
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/oan1awi/)** _2026-03-15 21:14:50_ *(in reply to LotusOfUpekkha)*:
+I.e., it is one thing to have the idea 'even every upādāna is impermanent'; it is another thing to become actually aware of that very phenomenon of 'taking up' what cannot be taken up, finding it in concrete standpoints and paths of thought. (You mentioned some examples.) The former does nothing to free you from that upādāna; the latter is the direct way to undo it.  Avoid abstract thinking like the plague.
 
-    >What is concrete thinking? 
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rthw33/concussive_contemplations/oan1awi/)** _2026-03-15 21:14:50_ *(in reply to LotusOfUpekkha)*
 
-    In the briefest terms, it is thinking that is truthful to the practical reality of a thing. 
+>What is concrete thinking? 
 
-    >I try to describe it as "thinking *concurrently with* the pressure" - thinking about what is pressuring one *while* one is pressured
+In the briefest terms, it is thinking that is truthful to the practical reality of a thing. 
 
-    Broadly that's correct, certainly much better than theory that is completely divorced from anything you are experiencing. 
+>I try to describe it as "thinking *concurrently with* the pressure" - thinking about what is pressuring one *while* one is pressured
 
-    But it depends: if you are thinking *about* what is pressuring you through a theoretical lens that you have learned or reasoned, that would still not be quite concrete (enough). 
+Broadly that's correct, certainly much better than theory that is completely divorced from anything you are experiencing. 
 
-    If you are letting what is pressuring you endure for what it is; not trying to explain it, nor actively distracting yourself from it - then the thought of that pressuring thing that endures there on its own is a concrete thought.
+But it depends: if you are thinking *about* what is pressuring you through a theoretical lens that you have learned or reasoned, that would still not be quite concrete (enough). 
 
-    So when you said:
+If you are letting what is pressuring you endure for what it is; not trying to explain it, nor actively distracting yourself from it - then the thought of that pressuring thing that endures there on its own is a concrete thought.
 
-    >without looking away from that pressure at any point. 
+So when you said:
 
-    And: 
+>without looking away from that pressure at any point. 
 
-    >you cannot look away from [it] without *severely burning* yourself the moment you think it's fine to distract yourself from it, even for a little while.
+And: 
 
-     If by 'looking away from it' you mean purposefully engaging in distractions and sense objects in order to not think about it, then yes, absolutely. 
+>you cannot look away from [it] without *severely burning* yourself the moment you think it's fine to distract yourself from it, even for a little while.
 
-    But if you mean letting yourself lose sight of it, think about other things, and not have it sharply in front of you nor feel the pressure on account of it - you can indeed forget about it in that sense, and that's fine. In fact it's not optional, unless you were to make a fabricated effort to constantly keep it in mind. (Which you will not be able to maintain.) Letting yourself forget about it is how you don't make it into something else you have to *do*.  To use the example you asked about: 
+ If by 'looking away from it' you mean purposefully engaging in distractions and sense objects in order to not think about it, then yes, absolutely. 
 
-    >How would one concretely think about/contemplate death rather than in abstraction?
+But if you mean letting yourself lose sight of it, think about other things, and not have it sharply in front of you nor feel the pressure on account of it - you can indeed forget about it in that sense, and that's fine. In fact it's not optional, unless you were to make a fabricated effort to constantly keep it in mind. (Which you will not be able to maintain.) Letting yourself forget about it is how you don't make it into something else you have to *do*.  To use the example you asked about: 
 
-    As above. When the knowledge that you will die comes up on its own (which it will sooner or later), simply not panicking, running away or turning a blind eye to it. And when the memory of it fades, train yourself to not equate its absence with deluding yourself that you will live forever and can afford to delight in sensuality. 
+>How would one concretely think about/contemplate death rather than in abstraction?
 
-    It doesn't require more active effort than that, and you don't need to keep it in front of you all the time.
-    Doing so would be already coming out of craving, so any 'training' you try and do on such basis cannot extinguish craving. 
+As above. When the knowledge that you will die comes up on its own (which it will sooner or later), simply not panicking, running away or turning a blind eye to it. And when the memory of it fades, train yourself to not equate its absence with deluding yourself that you will live forever and can afford to delight in sensuality. 
 
-    >Why are the Divine Messengers said to be "Divine"? Might one 'aspect' of their divine nature be that they serve to make **concrete** that which we otherwise keep comfortably **abstract**?
+It doesn't require more active effort than that, and you don't need to keep it in front of you all the time.
+Doing so would be already coming out of craving, so any 'training' you try and do on such basis cannot extinguish craving. 
 
-    Definitely. But in line with the above, 'concrete' does not have to mean 'actual', as in actual sickness for example. You can have a very concrete reminder of the unreliability of your own body through just hearing about or seeing a sick person. The divine messengers are literally everywhere, and people don't see them as such only because they are too intoxicated. 
+>Why are the Divine Messengers said to be "Divine"? Might one 'aspect' of their divine nature be that they serve to make **concrete** that which we otherwise keep comfortably **abstract**?
 
-    One should find the **concrete** reminders of the body's fallability without waiting for **actual** failing of the body. 
+Definitely. But in line with the above, 'concrete' does not have to mean 'actual', as in actual sickness for example. You can have a very concrete reminder of the unreliability of your own body through just hearing about or seeing a sick person. The divine messengers are literally everywhere, and people don't see them as such only because they are too intoxicated. 
 
-    (Of course, actual damage or illness can also be a divine messenger, which is fine - but one should aim to get out of the range of such messengers before they become too much and it is too late.) 
+One should find the **concrete** reminders of the body's fallability without waiting for **actual** failing of the body. 
 
-    >And I think that if one abides with this peripheral recognition of how utterly *disgusting* this situation as a whole is - how disgusting it is to *rely on* a body for comfort or safety and how revolting it is that *anything at all* that is experienced via these senses *has* to come through this unreliable, mushy, deteriorating, stinking thing - being in Mara's control is the most disgusting thing there is. 
+(Of course, actual damage or illness can also be a divine messenger, which is fine - but one should aim to get out of the range of such messengers before they become too much and it is too late.) 
 
-    Yes, that's how it is. But it's only a problem to the extent that one still depends on it and expects it to be somehow pleasant and safe. 
+>And I think that if one abides with this peripheral recognition of how utterly *disgusting* this situation as a whole is - how disgusting it is to *rely on* a body for comfort or safety and how revolting it is that *anything at all* that is experienced via these senses *has* to come through this unreliable, mushy, deteriorating, stinking thing - being in Mara's control is the most disgusting thing there is. 
 
-    >It seems like 'not being abandoned' by even just this first of the 5 phenomena mentioned in that sutta, is enough to 'not be abandoned' by them all. They seem to be inclusive of one another - pointing to the same truth.
+Yes, that's how it is. But it's only a problem to the extent that one still depends on it and expects it to be somehow pleasant and safe. 
 
-    Exactly. Same goes for most similar lists you find in the suttas - they tend to be different aspects or ways of indicating one dhamma, and to understand/establish one means understanding all. 
+>It seems like 'not being abandoned' by even just this first of the 5 phenomena mentioned in that sutta, is enough to 'not be abandoned' by them all. They seem to be inclusive of one another - pointing to the same truth.
 
-    The last question I will put aside for now because it is in a slightly different topic that is not as practically relevant, and this is already quite a lot. 
-    
+Exactly. Same goes for most similar lists you find in the suttas - they tend to be different aspects or ways of indicating one dhamma, and to understand/establish one means understanding all. 
+
+The last question I will put aside for now because it is in a slightly different topic that is not as practically relevant, and this is already quite a lot.
+
 
 ---
 
@@ -2238,16 +2317,18 @@ Thank you for reading.
 
 so a non stream enterer can’t practice meditation in an actually correct way, but can one use a technically wrong practice as a tool to help establish the foundations of a right practice if they understand that that meditation technique isn’t what will lead to right view? For example, if a meditation practice gives you a level of mundane mental clarity that helps you keep the 8 precepts, or it helps you stay recollected of the dhamma for the rest of the day after your practice which also aids in practicing virtue, or even just as a less destructive form of sensuality, that you can give in to before you know how to endure things at the right level, instead of giving in to things at the coarser levels of body and speech. Or if it helps you become more aware of your intentions and reasons for acting at least on the level someone without right view is capable of, and more peripherally aware of things like feelings and intentions and the body as peripherally enduring things that are the basis for anything you could ever conceive of doing, to the extent a non stream enterer can understand. Can a meditation technique be a sort of “last thing“ that is abstained from, after coarser ways of acting out are abstained from?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rmi6pa/wrong_meditation_as_an_aid_for_establishing/o93btnt/)** _2026-03-07 04:25:33_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rmi6pa/wrong_meditation_as_an_aid_for_establishing/o93btnt/)** _2026-03-07 04:25:33_
 
-    What this common argument fails to see is that replacing lust and aversion with delusion is not progress at all. Delusion is the worst of the three defilements.
+What this common argument fails to see is that replacing lust and aversion with delusion is not progress at all. Delusion is the worst of the three defilements.
 
-    In other words, it's far better if you try and you fail to restrain your actions in the ordinary self-aware state than if you succeed in restraint thanks to a hypnotic state (which is not what *samādhi is).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rmi6pa/wrong_meditation_as_an_aid_for_establishing/o9fo2z6/)** _2026-03-09 04:16:30_ *(in reply to Financial-Wallaby316)*:
+In other words, it's far better if you try and you fail to restrain your actions in the ordinary self-aware state than if you succeed in restraint thanks to a hypnotic state (which is not what *samādhi is).
 
-    >This makes me think that maybe if I simply stopped deluding myself about these practices and their relationship to buddhist practice, they could remain in my life the same way as any other activity, as another thing I do whose intentions I need to interrogate and reflect on and avoid doing for the wrong reasons as best I can.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rmi6pa/wrong_meditation_as_an_aid_for_establishing/o9fo2z6/)** _2026-03-09 04:16:30_ *(in reply to Financial-Wallaby316)*
 
-    Yes, that's reasonable. Even if you already don't see them as part of the training though, keep in mind that the more you succeed in the actual training, the less you will resort to *anything* for the sake of managing dukkha.
+>This makes me think that maybe if I simply stopped deluding myself about these practices and their relationship to buddhist practice, they could remain in my life the same way as any other activity, as another thing I do whose intentions I need to interrogate and reflect on and avoid doing for the wrong reasons as best I can.
+
+Yes, that's reasonable. Even if you already don't see them as part of the training though, keep in mind that the more you succeed in the actual training, the less you will resort to *anything* for the sake of managing dukkha.
+
 
 ---
 
@@ -2294,13 +2375,14 @@ So I suppose my underlying question is simply whether my perspective here is mis
 
 I would very much appreciate any clarification or correction if my understanding here is mistaken.
 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rl0g8q/question_about_virtue_entertainment_and/o8uimex/)** _2026-03-05 20:52:07_ *(in reply to Global_Ad_7891)*:
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rl0g8q/question_about_virtue_entertainment_and/o8uimex/)** _2026-03-05 20:52:07_ *(in reply to Global_Ad_7891)*
 
-    One of the reasons that celibacy is said to be a priority is that many people's deeply-held views about the world, life, happiness and their own existence are, unbeknownst to themselves, bound up with non-celibacy - as a "normal and good part of life and who I am." There is a sense of safety in it. This creates, in many, a visceral resistance when it comes to giving it up that is on a different level to the mere sensual addiction. 
+One of the reasons that celibacy is said to be a priority is that many people's deeply-held views about the world, life, happiness and their own existence are, unbeknownst to themselves, bound up with non-celibacy - as a "normal and good part of life and who I am." There is a sense of safety in it. This creates, in many, a visceral resistance when it comes to giving it up that is on a different level to the mere sensual addiction. 
 
-    Not everyone carries this particular view in regards to celibacy to the same degree. But pretty much everyone will have a personal sense of safety in something or other that they are by default refusing to undermine or question. This is the reason they are not overcoming the first three fetters. 
+Not everyone carries this particular view in regards to celibacy to the same degree. But pretty much everyone will have a personal sense of safety in something or other that they are by default refusing to undermine or question. This is the reason they are not overcoming the first three fetters. 
 
-    Basically, not actually trying to follow the *whole* of the instruction to the best of one's ability, leaving out aspects you don't like or don't want to do, equates to the attitude that the Dhamma is a sort of semi-optional side-project. It implies lack of faith.
+Basically, not actually trying to follow the *whole* of the instruction to the best of one's ability, leaving out aspects you don't like or don't want to do, equates to the attitude that the Dhamma is a sort of semi-optional side-project. It implies lack of faith.
+
 
 ---
 
@@ -2331,11 +2413,12 @@ One thing that helped was this video by a former addict and former MMA fighter B
   
 Any comments, observations, judgements, on my practice, or reflections on your own practice are welcome.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rkpvz3/some_thoughts_and_reflections_on_my_difficulties/o8qknmq/)** _2026-03-05 06:33:19_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rkpvz3/some_thoughts_and_reflections_on_my_difficulties/o8qknmq/)** _2026-03-05 06:33:19_
 
-    > In the past, I was pretty successful with the no entertainment precept. I gave up video games, music, movies, TV, books, and so on. But, I did it in the wrong order as I wasn't celibate. So I am hopeful that if I can finally figure out celibacy, the rest of the precepts will be easier.
+> In the past, I was pretty successful with the no entertainment precept. I gave up video games, music, movies, TV, books, and so on. But, I did it in the wrong order as I wasn't celibate. So I am hopeful that if I can finally figure out celibacy, the rest of the precepts will be easier.
 
-    An approach that might work is seeing the danger in the slightest fault, but specifically within five precepts + celibacy. So for now, you wouldn't regard it as a fault to consume entertainment as long as it doesn't arouse any sexual intentions. But you have to remain watchful of your mental state and be ready to stop despite the pressure if those intentions ever come up from the content you are consuming (or from any activity in general).
+An approach that might work is seeing the danger in the slightest fault, but specifically within five precepts + celibacy. So for now, you wouldn't regard it as a fault to consume entertainment as long as it doesn't arouse any sexual intentions. But you have to remain watchful of your mental state and be ready to stop despite the pressure if those intentions ever come up from the content you are consuming (or from any activity in general).
+
 
 ---
 
@@ -2344,15 +2427,16 @@ Any comments, observations, judgements, on my practice, or reflections on your o
 
 How is that possible?
 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rj9f65/how_could_devadatta_have_achieved_jhāna_and/o8kkv4i/)** _2026-03-04 10:21:43_:
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1rj9f65/how_could_devadatta_have_achieved_jhāna_and/o8kkv4i/)** _2026-03-04 10:21:43_
 
-    There is no mention in the suttas of Devadatta achieving jhāna. I think this belief comes from commentarial stories added on to the suttas. This is not to say he had no knowledge of the Dhamma (he clearly possessed enough theoretical grasp of of it to be a good talker and convince some monks to follow him.) 
+There is no mention in the suttas of Devadatta achieving jhāna. I think this belief comes from commentarial stories added on to the suttas. This is not to say he had no knowledge of the Dhamma (he clearly possessed enough theoretical grasp of of it to be a good talker and convince some monks to follow him.) 
 
-    But if somebody who had attained jhāna within the context of the Buddha's instruction, he would have the right view. And the suttas are clear that it is impossible for one with right view to create a schism in the sangha, or purposely try to harm the Buddha. 
+But if somebody who had attained jhāna within the context of the Buddha's instruction, he would have the right view. And the suttas are clear that it is impossible for one with right view to create a schism in the sangha, or purposely try to harm the Buddha. 
 
-    As for psychic powers, the main source for this seems to be a few passages in the vinaya, which occur in a rather embellished and somewhat mythologised context. 
+As for psychic powers, the main source for this seems to be a few passages in the vinaya, which occur in a rather embellished and somewhat mythologised context. 
 
-    And even, there are suttas (e.g. DN 11) that state that the demonstration of pychic powers or 'magic tricks' is not in itself a sign of wisdom - rather the absence of it (emphasis on the wrong things).
+And even, there are suttas (e.g. DN 11) that state that the demonstration of pychic powers or 'magic tricks' is not in itself a sign of wisdom - rather the absence of it (emphasis on the wrong things).
+
 
 ---
 
@@ -2361,13 +2445,14 @@ How is that possible?
 
 Has anyone mentioned this Chinese parallel to the Kālāma Sutta before? The first part of the sutta mentions how greed, aversion, and delusion cause one to break the 5 precepts, similar to the Pāli version. But in the section directly preceding the brahmavihāras, it mentions abandoning abrahmacariya (非梵行) alongside the standard grouping of killing, stealing, lying, and various other kinds of wrong speech. It also mentions purifying the mind of abrahmacariya, lust, and longing for the possessions of others. This passage is not in the Pāli, which goes straight to cultivating the brahmavihāras after greed, aversion, delusion and the 5 precepts. Perhaps an interesting basis for further research? I wonder if there are other Chinese suttas in which the Buddha talks about celibacy to lay-people, or in which celibacy is a standard pre-requisite for brahmavihāras.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rgmgjq/chinese_parallel_to_kālāma_sutta/o7u35mx/)** _2026-02-28 05:51:42_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rgmgjq/chinese_parallel_to_kālāma_sutta/o7u35mx/)** _2026-02-28 05:51:42_
 
-    >  Perhaps an interesting basis for further research? I wonder if there are other Chinese suttas in which the Buddha talks about celibacy to lay-people, or in which celibacy is a standard pre-requisite for brahmavihāras.
+>  Perhaps an interesting basis for further research? I wonder if there are other Chinese suttas in which the Buddha talks about celibacy to lay-people, or in which celibacy is a standard pre-requisite for brahmavihāras.
 
-    Yes, I've come across many similar instances. For instance the parallel of MN 97 (MĀ 27) mentions not only that brahmavihāra involves abandoning desire and sensual thoughts, but that the brahmin Dhanañjāni succeeded in it as part of a change of direction that began with renouncing his wife. 
+Yes, I've come across many similar instances. For instance the parallel of MN 97 (MĀ 27) mentions not only that brahmavihāra involves abandoning desire and sensual thoughts, but that the brahmin Dhanañjāni succeeded in it as part of a change of direction that began with renouncing his wife. 
 
-    Another one is the parallel of MN 41 (SĀ 1042) which specifies "pure precepts" and "a mind free from desire" as requirements not only for all samādhi attainments but also all noble attainments.
+Another one is the parallel of MN 41 (SĀ 1042) which specifies "pure precepts" and "a mind free from desire" as requirements not only for all samādhi attainments but also all noble attainments.
+
 
 ---
 
@@ -2392,11 +2477,12 @@ When i think of my main goal with this, i think about findind unconditioned and 
 
 I wonder if my practice is rooted in the right reasons. If not, how can i see things more clearly?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rgh3f9/how_to_clearly_see_the_first_noble_truth/o7tz3i2/)** _2026-02-28 05:19:28_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rgh3f9/how_to_clearly_see_the_first_noble_truth/o7tz3i2/)** _2026-02-28 05:19:28_
 
-    Whether you focus on wanting better satisfaction or not wanting dissatisfaction doesn't really matter, since either way the need for striving is recognized.
+Whether you focus on wanting better satisfaction or not wanting dissatisfaction doesn't really matter, since either way the need for striving is recognized.
 
-    What's more important is to remain transparent about what is taking you away from the right satisfaction and toward suffering (i.e., your own actions), so that you don't start thinking that you can get to the right satisfaction through some kind of shortcut.
+What's more important is to remain transparent about what is taking you away from the right satisfaction and toward suffering (i.e., your own actions), so that you don't start thinking that you can get to the right satisfaction through some kind of shortcut.
+
 
 ---
 
@@ -2413,17 +2499,18 @@ Would a stream entrant never open the door and just feel intensely pressured to 
 
 Thank you for your time.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rgenwl/how_can_one_understand_various_fruitions_through/o7u1enq/)** _2026-02-28 05:37:34_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1rgenwl/how_can_one_understand_various_fruitions_through/o7u1enq/)** _2026-02-28 05:37:34_
 
-    > Would an arhat not even have the conception of a door anymore? Or is it more that the knocking on the door (avoiding or opening it) has absolutely no pull on them anymore?
+> Would an arhat not even have the conception of a door anymore? Or is it more that the knocking on the door (avoiding or opening it) has absolutely no pull on them anymore?
 
-    The latter. Avoidance is its own door, so you could simply say that an Arahant has no inclination to open any door that is knocked on, having fully understood that *because* there is knocking, whatever is on the other side can only be a further nuisance. 
+The latter. Avoidance is its own door, so you could simply say that an Arahant has no inclination to open any door that is knocked on, having fully understood that *because* there is knocking, whatever is on the other side can only be a further nuisance. 
 
-    Their citta has understood that all the way, so they don't need to make any effort to remember it.
+Their citta has understood that all the way, so they don't need to make any effort to remember it.
 
-    > Would a stream entrant never open the door and just feel intensely pressured to open it, or would they still occasionally open it if what was on the other side was particularly seductive? In the latter case, what would differentiate a stream entrant's relationship to the door from a puthujjanas?
+> Would a stream entrant never open the door and just feel intensely pressured to open it, or would they still occasionally open it if what was on the other side was particularly seductive? In the latter case, what would differentiate a stream entrant's relationship to the door from a puthujjanas?
 
-    A sotāpanna has the same understanding, but it hasn't sunk in to the same degree. They cannot open the worst doors again, since that requires full-on delusion, but they still need to make effort to maintain what for the Arahant is effortless.
+A sotāpanna has the same understanding, but it hasn't sunk in to the same degree. They cannot open the worst doors again, since that requires full-on delusion, but they still need to make effort to maintain what for the Arahant is effortless.
+
 
 ---
 
@@ -2443,11 +2530,12 @@ Relatedly:
 
 Or should one hold off until one is settled at the mental level, where the mind is dry enough that a single sentence single is sufficient? 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1reymdy/two_questions_on_paticcasamuppada/o7ttijx/)** _2026-02-28 04:38:26_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1reymdy/two_questions_on_paticcasamuppada/o7ttijx/)** _2026-02-28 04:38:26_
 
-    1. Gradually (AN 8.19). 
+1. Gradually (AN 8.19). 
 
-    2. If you're keeping tabs on the mental states driving your actions (which implies not performing unwholesome ones) then you are already discerning the "structure" where it actually is. 
+2. If you're keeping tabs on the mental states driving your actions (which implies not performing unwholesome ones) then you are already discerning the "structure" where it actually is.
+
 
 ---
 
@@ -2456,33 +2544,34 @@ Or should one hold off until one is settled at the mental level, where the mind 
 
 Sometimes recently my mind has been trying to convince me that things which I have ascertained (to the best of my ability) are not motivated by an unwholesome intention are actually unwholesome, maybe by pointing to some surface-level grey area in which they may correspond to the boundaries set by the precepts. The problem here is not that the thought that accuses me of doing something unwholesome is unpleasant, which I know I just have to endure, but the fact that the thought appears is what makes me doubt whether I’m actually lying to myself or misjudging whether the action is unwholesome. Sort of like I feel if my actions were truly blameless, I wouldn’t have these thoughts blaming me in the first place. It disturbs my clarity about my intentions, because the doubt and anxiety upsets my composure, and then I worry that that loss of composure points to the action itself actually being unwholesome. Is there any good way to know for certain that I’m not deceiving myself about whether something is unwholesome? The thing is that, when I first started practicing virtue, I feel like I actually had these doubtful thoughts less, and that they have actually ramped up since my virtue has improved and become more consistent. Like, since I have actually become less capable of lying to myself, my mind accuses me of lying to myself more, if that makes sense? I am not sure if the fact that my mind is still moved by doubt and fear about somehow ‘accidentally’ doing something unwholesome points to a lack of internal clarity about never breaking the precepts that still needs to be developed, or if it is just a separate stage of fear/doubt that needs to be overcome on its own. Is this over-questioning your own virtue just another way that Māra ramps up the difficulty of the practice? (only half-joking here). I hope this makes sense
 
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1raxtgx/practice_question/o6rh5rs/)** _2026-02-22 12:44:24_:
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1raxtgx/practice_question/o6rh5rs/)** _2026-02-22 12:44:24_
 
-    Couple additional points to what Bhante Anīgha wrote: 
-      
-    > Is there any good way to know for certain that I’m not deceiving myself about whether something is unwholesome?
+Couple additional points to what Bhante Anīgha wrote: 
+  
+> Is there any good way to know for certain that I’m not deceiving myself about whether something is unwholesome?
 
-    Yes, but not by clarifying and analysing it. Instead, by putting the non-acting out of pressuring mental state first, no exceptions. Everything else is secondary. Regardless of whether the past action was unwholesome or not, acting of of the current pressure in regard to it is never good. 
+Yes, but not by clarifying and analysing it. Instead, by putting the non-acting out of pressuring mental state first, no exceptions. Everything else is secondary. Regardless of whether the past action was unwholesome or not, acting of of the current pressure in regard to it is never good. 
 
-    Even if the past action was rooted in a degree of unwholesome that you overlooked at the time, revolving around worry or doubt in regard to it cannot help prevent it or clarify it in future. It adds fuel to the very reason you would have acted unwholesomely to begin with. 
+Even if the past action was rooted in a degree of unwholesome that you overlooked at the time, revolving around worry or doubt in regard to it cannot help prevent it or clarify it in future. It adds fuel to the very reason you would have acted unwholesomely to begin with. 
 
-    In other words, by sufficiently including the pressure of doubt and worry, and not acting out of it *in the present*, you can know for certain that you are *currently* not deceiving yourself about what you are doing, and there is no other 'hidden' way to commit unwholesome actions, apart from giving in to this very same pressure. That is all you need to know. 
+In other words, by sufficiently including the pressure of doubt and worry, and not acting out of it *in the present*, you can know for certain that you are *currently* not deceiving yourself about what you are doing, and there is no other 'hidden' way to commit unwholesome actions, apart from giving in to this very same pressure. That is all you need to know. 
 
-    >The doubt and anxiety upsets my composure, and then I worry that that loss of composure points to the action itself actually being unwholesome.   
+>The doubt and anxiety upsets my composure, and then I worry that that loss of composure points to the action itself actually being unwholesome.   
 
-    The loss of composure points to the present mental act of giving in, to at least some degree, to the doubt and the pressure to clarify. That these things arise as such just points to Māra being Māra, which is not your problem.  
+The loss of composure points to the present mental act of giving in, to at least some degree, to the doubt and the pressure to clarify. That these things arise as such just points to Māra being Māra, which is not your problem.  
 
-    By the way - if you have read *Meanings*, there are also a couple of letters at the very end of the correspondance with Matthias that specifically address this type of issue.
-- **[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1raxtgx/practice_question/o6wupr0/)** _2026-02-23 06:47:17_ *(in reply to Formal_Breath_2026)*:
+By the way - if you have read *Meanings*, there are also a couple of letters at the very end of the correspondance with Matthias that specifically address this type of issue.
 
-    
-    >The tendency is to try and clarify what I will do *in the future* which obscures whatever intention (i.e. doubt or anxiety) is present there *now*, so then I have to do what feels unnatural and ignore the desire to clarify what I will do in the future and restore the clarity in regards to the present intention. Maintaining that mental clarity in the present is what will help me act with more clarity when the future comes.
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1raxtgx/practice_question/o6wupr0/)** _2026-02-23 06:47:17_ *(in reply to Formal_Breath_2026)*
 
-    Exactly. Bhante Anīgha will probably reply as well, but I would say that this, and both the 'edit 1' and 'edit 2' parts above, are correct and what I was referring to. That it feels unnatural is precisely the point. 
+>The tendency is to try and clarify what I will do *in the future* which obscures whatever intention (i.e. doubt or anxiety) is present there *now*, so then I have to do what feels unnatural and ignore the desire to clarify what I will do in the future and restore the clarity in regards to the present intention. Maintaining that mental clarity in the present is what will help me act with more clarity when the future comes.
 
-    Without getting into the details, the first part before the edits sounded overall more leaning towards psychologisation which is, as you said, another way of giving in to the doubt. 
+Exactly. Bhante Anīgha will probably reply as well, but I would say that this, and both the 'edit 1' and 'edit 2' parts above, are correct and what I was referring to. That it feels unnatural is precisely the point. 
 
-    It's not possible to overcome that tendency overnight by just determining 'I won't ever do this again'. When you catch yourself doing it, then you have the choice to keep going along with the grain of it, or not, as you described above. So the point is, as always, to become self-aware of what you are thinking and why you're thinking that way, not to try and stop thinking.
+Without getting into the details, the first part before the edits sounded overall more leaning towards psychologisation which is, as you said, another way of giving in to the doubt. 
+
+It's not possible to overcome that tendency overnight by just determining 'I won't ever do this again'. When you catch yourself doing it, then you have the choice to keep going along with the grain of it, or not, as you described above. So the point is, as always, to become self-aware of what you are thinking and why you're thinking that way, not to try and stop thinking.
+
 
 ---
 
@@ -2509,39 +2598,42 @@ Is this distinction valid? Or should MN 43 instead be understood as referring di
 
 I would be grateful for correction if this framing is misguided. Thank you!
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/o4tpvs3/)** _2026-02-11 16:41:58_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/o4tpvs3/)** _2026-02-11 16:41:58_
 
-    >  I also noticed that in your translation you have used the un-capitalized 'right view', so perhaps this was intentional to refer to something apart from the supramundane attainment?
+>  I also noticed that in your translation you have used the un-capitalized 'right view', so perhaps this was intentional to refer to something apart from the supramundane attainment?
 
-    No, that wasn't intentional. I wouldn't make such a distinction on my own, nor try to find a justification for it the Suttas.
+No, that wasn't intentional. I wouldn't make such a distinction on my own, nor try to find a justification for it the Suttas.
 
-    I don't see why right view having conditions implies that it is reversible. Arahantship depends on plenty of conditions, yet it is irreversible.
+I don't see why right view having conditions implies that it is reversible. Arahantship depends on plenty of conditions, yet it is irreversible.
 
-    > If these two were sufficient for the decisive and irreversible vision, then hearing correct Dhamma and attending appropriately would seem to guarantee noble entry “then and there.”
+> If these two were sufficient for the decisive and irreversible vision, then hearing correct Dhamma and attending appropriately would seem to guarantee noble entry “then and there.”
 
-    Yes, it would. The catch is that one has no stable internal reference point to distinguish *yoniso* from *ayoniso*, nor the accuracy of an utterance, until after right view. At the same time, what needs to be done is clear: establishing the mind in virtue and abandoning passion for sensuality is what makes one's attention *yoniso*. Hence the stock passage preceding the attainment of stream-entry.
+Yes, it would. The catch is that one has no stable internal reference point to distinguish *yoniso* from *ayoniso*, nor the accuracy of an utterance, until after right view. At the same time, what needs to be done is clear: establishing the mind in virtue and abandoning passion for sensuality is what makes one's attention *yoniso*. Hence the stock passage preceding the attainment of stream-entry.
 
-    >  But the suttas elsewhere imply that right view can fail to arise even when the right Dhamma is heard AND yoniso manasikāra is present, due to resistance or remaining obstruction (e.g. The Buddha declaring that King Ajātasattu, had it not been for his patricide, would have in fact entered the stream)
+>  But the suttas elsewhere imply that right view can fail to arise even when the right Dhamma is heard AND yoniso manasikāra is present, due to resistance or remaining obstruction (e.g. The Buddha declaring that King Ajātasattu, had it not been for his patricide, would have in fact entered the stream)
 
-    Having killed his father meant that King Ajātasattu couldn't have *yoniso manasikāra*, at least not sufficiently. Extending the right utterance of another—that all actions based on defilements are unwholesome and unjustifiable—to the right level (where nothing is excluded) will evoke in such a person a level of remorse that is impossible to bear. He had to continue regarding what he did was to some extent excusable (wrong view) in order to maintain his sanity.
+Having killed his father meant that King Ajātasattu couldn't have *yoniso manasikāra*, at least not sufficiently. Extending the right utterance of another—that all actions based on defilements are unwholesome and unjustifiable—to the right level (where nothing is excluded) will evoke in such a person a level of remorse that is impossible to bear. He had to continue regarding what he did was to some extent excusable (wrong view) in order to maintain his sanity.
 
-    It's for the same reason that the mind needs to lose its passion for sensuality for right view to arise. While still being passionate for something, let alone pursuing it, the fact that one's passion is actually the very source of one's suffering cannot sink in. The mind will reject the right view because it has something against it that it needs to protect.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/o4y3pxh/)** _2026-02-12 07:57:02_ *(in reply to upasakatrainee)*:
+It's for the same reason that the mind needs to lose its passion for sensuality for right view to arise. While still being passionate for something, let alone pursuing it, the fact that one's passion is actually the very source of one's suffering cannot sink in. The mind will reject the right view because it has something against it that it needs to protect.
 
-    >I can extrapolate that this applies not only to sensuality (sensual passion) but to aversion as well — insofar as both are forms of passion toward feeling. 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/o4y3pxh/)** _2026-02-12 07:57:02_ *(in reply to upasakatrainee)*
 
-    Yes, but not as a separate aspect. If you're truly undermining all your passions, aversion has no foothold whatsoever. Hence the Buddha often using the word "passion" (or "delight") to encompass every potential defilement. 
+>I can extrapolate that this applies not only to sensuality (sensual passion) but to aversion as well — insofar as both are forms of passion toward feeling. 
 
-    > That makes yoniso far more existential and less technical than I had been subtly treating it.
+Yes, but not as a separate aspect. If you're truly undermining all your passions, aversion has no foothold whatsoever. Hence the Buddha often using the word "passion" (or "delight") to encompass every potential defilement. 
 
-    Absolutely. Yoniso manasikāra is a result of the citta being tamed and pliable, not something anyone can do by following a protocol. Passion structurally carries ignorance.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/o4y49lq/)** _2026-02-12 08:02:14_ *(in reply to Embarrassed-Box6857)*:
+> That makes yoniso far more existential and less technical than I had been subtly treating it.
 
-    > Since the “utterance of another”, i.e the right instructions have basically been heard countless times by this point I assume that one wouldn’t necessarily be actively “trying” to get the right view.
+Absolutely. Yoniso manasikāra is a result of the citta being tamed and pliable, not something anyone can do by following a protocol. Passion structurally carries ignorance.
 
-    In the sense of reflecting on what one has heard, no, not always. But it's also not something you can preemptively decide. 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r1s87r/mn_43s_parato_ghoso_usage_of_right_view/o4y49lq/)** _2026-02-12 08:02:14_ *(in reply to Embarrassed-Box6857)*
 
-    When clarity about the practice is fading, you have to revisit the right instructions (mentally at least).
+> Since the “utterance of another”, i.e the right instructions have basically been heard countless times by this point I assume that one wouldn’t necessarily be actively “trying” to get the right view.
+
+In the sense of reflecting on what one has heard, no, not always. But it's also not something you can preemptively decide. 
+
+When clarity about the practice is fading, you have to revisit the right instructions (mentally at least).
+
 
 ---
 
@@ -2556,28 +2648,30 @@ Of course, if I would have such a negative view of the body, it would be much ea
 
 To get to the point: Maybe someone can explain to me how such a disgust for the body evolves and why? And why that may be necessary or a natural occurence on that path. I don't get it. While so many explanations convince me and help me withdrawing more and more, this particular area is very confusing to me. 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r0kkoo/beauty_ugliness_danger_in_the_body/o4kjc4c/)** _2026-02-10 05:59:28_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r0kkoo/beauty_ugliness_danger_in_the_body/o4kjc4c/)** _2026-02-10 05:59:28_
 
-    > But in regard to this description of the body this feels to me as if you just try to look at it in this disgusted way for some reason by choice, and it seems to be very abstract to me.
+> But in regard to this description of the body this feels to me as if you just try to look at it in this disgusted way for some reason by choice, and it seems to be very abstract to me.
 
-    Emphasizing ugliness is certainly a choice, yet no less so than emphasizing beauty is. It's just because in the beginning one is so used to (and pressured towards making) the latter choice that it feels like it happens on its own.
+Emphasizing ugliness is certainly a choice, yet no less so than emphasizing beauty is. It's just because in the beginning one is so used to (and pressured towards making) the latter choice that it feels like it happens on its own.
 
-    > When I reflect on this I don't see why I should imagine something like that as it is so far away from how the body of a living human being is usually appearing?
+> When I reflect on this I don't see why I should imagine something like that as it is so far away from how the body of a living human being is usually appearing?
 
-    You don't need to, and that's not what the Buddha described. He said you reflect on the organs of "this very body" as you would be reviewing a sack containing different types of grains and beans. So rather than an abstract "bodies can become like that", it's "*my* body *already is* like this." And that is undeniable. It may feel *unnecessary* to think about it, but that's something else (and it's the pull towards delusion).
+You don't need to, and that's not what the Buddha described. He said you reflect on the organs of "this very body" as you would be reviewing a sack containing different types of grains and beans. So rather than an abstract "bodies can become like that", it's "*my* body *already is* like this." And that is undeniable. It may feel *unnecessary* to think about it, but that's something else (and it's the pull towards delusion).
 
-    > But right now, to be honest, and please correct me, if I am wrong, it seems to me as if you just consciously cultivate such a disgust for the body in order to get rid of sensuality/sexual urges, without this having a basis in regular experience of human bodies?
+> But right now, to be honest, and please correct me, if I am wrong, it seems to me as if you just consciously cultivate such a disgust for the body in order to get rid of sensuality/sexual urges, without this having a basis in regular experience of human bodies?
 
-    If you reflect properly as above (rather than taking asubha as a mechanical "meditation object") it does have a basis in your own experience all the time. And that is why it would *uproot* sensuality, not just push it aside.
+If you reflect properly as above (rather than taking asubha as a mechanical "meditation object") it does have a basis in your own experience all the time. And that is why it would *uproot* sensuality, not just push it aside.
 
-    Though you may not realize it, you (*choose to*) relate to your own body as an instrument for pleasure all the time. Particular sensual desires are just the byproduct of that. Asubha is meant to change that deeper relationship with the body. Replacing sensual thoughts with shock reactions changes nothing fundamental.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r0kkoo/beauty_ugliness_danger_in_the_body/o4n2x2z/)** _2026-02-10 16:42:36_ *(in reply to Seekfinderin)*:
+Though you may not realize it, you (*choose to*) relate to your own body as an instrument for pleasure all the time. Particular sensual desires are just the byproduct of that. Asubha is meant to change that deeper relationship with the body. Replacing sensual thoughts with shock reactions changes nothing fundamental.
 
-    > But all of these things are things that were in one short moment or will happen at some point in the future etc. 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1r0kkoo/beauty_ugliness_danger_in_the_body/o4n2x2z/)** _2026-02-10 16:42:36_ *(in reply to Seekfinderin)*
 
-    The point is that asubha is not about future possibilities. The body can reach such levels of "shocking" unattractiveness in the first place because of the unattractive aspects (blood, flesh, waste-producing glands) that it already has *now,* while it is factually young, healthy, good-smelling, etc. 
+> But all of these things are things that were in one short moment or will happen at some point in the future etc. 
 
-    You need to recognize the unattractiveness *within* the beauty; otherwise you'll indeed just be covering up the good parts in order to fabricate a "dispassion" that is not even genuine and will not last.
+The point is that asubha is not about future possibilities. The body can reach such levels of "shocking" unattractiveness in the first place because of the unattractive aspects (blood, flesh, waste-producing glands) that it already has *now,* while it is factually young, healthy, good-smelling, etc. 
+
+You need to recognize the unattractiveness *within* the beauty; otherwise you'll indeed just be covering up the good parts in order to fabricate a "dispassion" that is not even genuine and will not last.
+
 
 ---
 
@@ -2606,17 +2700,18 @@ So I understand now that I should contemplate when I unwillingly daydream, but h
 I would appreciate it if you could clarify my question, or debunk some of my thinking. Thanks in advance.
 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qz78dr/questions_on_contemplating/o4e1tk5/)** _2026-02-09 06:02:36_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qz78dr/questions_on_contemplating/o4e1tk5/)** _2026-02-09 06:02:36_
 
-    > So I understand now that I should contemplate when I unwillingly daydream
+> So I understand now that I should contemplate when I unwillingly daydream
 
-    If your bodily and verbal actions are contained by the precepts and not partaking in sensuality and ill-will anymore, then yes. 
+If your bodily and verbal actions are contained by the precepts and not partaking in sensuality and ill-will anymore, then yes. 
 
-    What you contemplate is the danger in any behaviors of sensual or hateful nature that your mind still delights in even though you have thoroughly given them up outwardly. 
+What you contemplate is the danger in any behaviors of sensual or hateful nature that your mind still delights in even though you have thoroughly given them up outwardly. 
 
-    You don't try to deny the potential gratification of those actions; you're simply highlighting the drawbacks that the mind wants to look away from even though they are far greater in magnitude than the gratification.
+You don't try to deny the potential gratification of those actions; you're simply highlighting the drawbacks that the mind wants to look away from even though they are far greater in magnitude than the gratification.
 
-    The effect of that is not necessarily immediate. The momentum towards ignoring the danger (built up by careless behavior from before) has to wear away before the recognition of the danger feels palpable and the mind genuinely "accepts" it.
+The effect of that is not necessarily immediate. The momentum towards ignoring the danger (built up by careless behavior from before) has to wear away before the recognition of the danger feels palpable and the mind genuinely "accepts" it.
+
 
 ---
 
@@ -2678,44 +2773,48 @@ Why is either grasping of the sign of the mind or right view needed to avoid dan
 
 My view on this is that again, anything you do after yoniso will actually and effectively rid defilements - doesn’t mean you should not practice before yoniso. So similar to how the buddha wants you to avoid a wild elephant, you should on the same level practice abandoning and developing. There’s no prerequisite to avoid getting killed by elephant, and there’s no prerequisite to practice abandonment and developing.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o25u157/)** _2026-01-28 05:09:15_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o25u157/)** _2026-01-28 05:09:15_
 
-    The distinction is between practicing restraint and endurance, which anyone can do in theory, and successfully *abandoning defilements* by doing so. A puthujjana can and has to practice restraint, but that restraint will itself be tainted by defilements as long as they're a puthujjana, so cultivating it further will not lead to Nibbāna. Hence it's not what is being described in the Sutta.
+The distinction is between practicing restraint and endurance, which anyone can do in theory, and successfully *abandoning defilements* by doing so. A puthujjana can and has to practice restraint, but that restraint will itself be tainted by defilements as long as they're a puthujjana, so cultivating it further will not lead to Nibbāna. Hence it's not what is being described in the Sutta.
 
-    So, rather than taking restraint as a "method" that is already correct, a puthujjana would keep continually questioning their ideas about what restraint is (and you can only meaningfully upgrade your understanding of something if you're also doing it). That's how they would move closer to *yoniso manasikāra.*
+So, rather than taking restraint as a "method" that is already correct, a puthujjana would keep continually questioning their ideas about what restraint is (and you can only meaningfully upgrade your understanding of something if you're also doing it). That's how they would move closer to *yoniso manasikāra.*
 
-    The same point is found in AN 2.11:
+The same point is found in AN 2.11:
 
-    >“There are, bhikkhus, these two powers. What two? The power of reflection and the power of development. And what, bhikkhus, is the power of reflection? It’s when someone reflects: ‘Misconduct of body, speech, or mind has a bad, painful result in both the present and the future.’ Reflecting like this, they give up misconduct of body, speech, and mind, and develop good conduct of body, speech, and mind, keeping themselves pure. This is called the power of reflection.
+>“There are, bhikkhus, these two powers. What two? The power of reflection and the power of development. And what, bhikkhus, is the power of reflection? It’s when someone reflects: ‘Misconduct of body, speech, or mind has a bad, painful result in both the present and the future.’ Reflecting like this, they give up misconduct of body, speech, and mind, and develop good conduct of body, speech, and mind, keeping themselves pure. This is called the power of reflection.
 
-    >And what, bhikkhus, is the power of development? In this context, the power of development is the power of the trainees. **For relying on the power of a trainee, one gives up passion, aversion, and delusion.** Having given up passion, aversion, and delusion, one doesn’t do anything unwholesome, or engage in anything harmful. This is called the power of development. These are the two powers.”
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o2614b7/)** _2026-01-28 06:00:23_ *(in reply to Representative-Age18)*:
+>And what, bhikkhus, is the power of development? In this context, the power of development is the power of the trainees. **For relying on the power of a trainee, one gives up passion, aversion, and delusion.** Having given up passion, aversion, and delusion, one doesn’t do anything unwholesome, or engage in anything harmful. This is called the power of development. These are the two powers.”
 
-    > This sutta makes it abundantly clear that abandoning and developing is also recommended for puthujjana’s.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o2614b7/)** _2026-01-28 06:00:23_ *(in reply to Representative-Age18)*
 
-    It explicitly says that a puthujjana fails at practicing yoniso manasikāra.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o268otf/)** _2026-01-28 07:00:11_ *(in reply to Representative-Age18)*:
+> This sutta makes it abundantly clear that abandoning and developing is also recommended for puthujjana’s.
 
-    >  it also says you will fail at restraint and endurance, it doesn’t say you don’t do any of them. 
+It explicitly says that a puthujjana fails at practicing yoniso manasikāra.
 
-    We're not saying that either, as you have yourself noted.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o268otf/)** _2026-01-28 07:00:11_ *(in reply to Representative-Age18)*
 
-    > Regardless, you don’t have a strong enough position here to tell me or anyone to stop practicing meditation (partly abandoning and developing) 
+>  it also says you will fail at restraint and endurance, it doesn’t say you don’t do any of them. 
 
-    You're misunderstanding the point. What you're describing as "meditation" is not abandoning and developing to begin with, neither before nor after right view. It's simply distraction. So the need to give up of meditation techniques has nothing to do with enforcing right view as a prerequisite. It's to do with at least *trying* to practice abandoning and developing, which is how you could eventually attain right view.
+We're not saying that either, as you have yourself noted.
 
-    > Also, regarding avoiding: does avoiding a wild elephant to not get killed also ONLY work and is it only supposed to be applies after right view?
+> Regardless, you don’t have a strong enough position here to tell me or anyone to stop practicing meditation (partly abandoning and developing) 
 
-    As a means of abandoning defilements, it does.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o26cnhz/)** _2026-01-28 07:33:36_ *(in reply to Representative-Age18)*:
+You're misunderstanding the point. What you're describing as "meditation" is not abandoning and developing to begin with, neither before nor after right view. It's simply distraction. So the need to give up of meditation techniques has nothing to do with enforcing right view as a prerequisite. It's to do with at least *trying* to practice abandoning and developing, which is how you could eventually attain right view.
 
-    > Anyways, I’ve said all my points and I’ve said more than enough on this. It’s taking too much time away from my life now, and I gotta put the computer away, so I’ll leave it at this: thank you engaging in discussion with the lay community. I highly appreciate and regard the effort to actually speak to us directly. And thank you for the discussion. May you all be well, peaceful and attain true happiness, with metta - Erik
+> Also, regarding avoiding: does avoiding a wild elephant to not get killed also ONLY work and is it only supposed to be applies after right view?
 
-    Sure, I also don't think this is going anywhere.
+As a means of abandoning defilements, it does.
 
-    > none of these methods will rid defilements completely unless done with yoniso, but that doesnMt mean you shouldnt do it. 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qoncmz/questioning_hillside_hermitage_based_on_the/o26cnhz/)** _2026-01-28 07:33:36_ *(in reply to Representative-Age18)*
 
-    For the record, our point is that you are describing as "wholesome" *is* ayoniso in its very nature, whether one is a puthujjana or not. So "doing it with yoniso" is an inherent contradiction.
+> Anyways, I’ve said all my points and I’ve said more than enough on this. It’s taking too much time away from my life now, and I gotta put the computer away, so I’ll leave it at this: thank you engaging in discussion with the lay community. I highly appreciate and regard the effort to actually speak to us directly. And thank you for the discussion. May you all be well, peaceful and attain true happiness, with metta - Erik
+
+Sure, I also don't think this is going anywhere.
+
+> none of these methods will rid defilements completely unless done with yoniso, but that doesnMt mean you shouldnt do it. 
+
+For the record, our point is that you are describing as "wholesome" *is* ayoniso in its very nature, whether one is a puthujjana or not. So "doing it with yoniso" is an inherent contradiction.
+
 
 ---
 
@@ -2730,11 +2829,12 @@ Can I provide any help in proofreading or editing while I still have a laptop?
 
 Thanks,  🙏
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qmbe97/essays_in_book_format/o1rmcav/)** _2026-01-26 05:17:13_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qmbe97/essays_in_book_format/o1rmcav/)** _2026-01-26 05:17:13_
 
-    I'm working on the book currently.
+I'm working on the book currently.
 
-    As for getting rid of technology, it's worth questioning your reasons for doing that. If it's because you can't control yourself and keep breaking the precepts when you have access to it, then it's fine to get rid of it until that's no longer the case. But if it's not that, it might be rooted in trying to avoid the practice in the name of "peace" (not having to face doubt regarding your intentions for using technology).
+As for getting rid of technology, it's worth questioning your reasons for doing that. If it's because you can't control yourself and keep breaking the precepts when you have access to it, then it's fine to get rid of it until that's no longer the case. But if it's not that, it might be rooted in trying to avoid the practice in the name of "peace" (not having to face doubt regarding your intentions for using technology).
+
 
 ---
 
@@ -2755,63 +2855,68 @@ I can see how, through understanding the mind and its inclinations, abandoning i
 
 Thank you very much for your time and for all that you offer to the community.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1ebffa/)** _2026-01-24 09:01:03_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1ebffa/)** _2026-01-24 09:01:03_
 
-    > Suppose an angry mind has arisen. I recognize that anger is present, and through practice I understand the dangers and consequences of an angry mind. In that case, is it appropriate to intentionally cultivate mettā (for example) to counterbalance the anger on the basis of that understanding, rather than out of a desire to get rid of the anger? Or would this still amount to a subtle form of aversion?
+> Suppose an angry mind has arisen. I recognize that anger is present, and through practice I understand the dangers and consequences of an angry mind. In that case, is it appropriate to intentionally cultivate mettā (for example) to counterbalance the anger on the basis of that understanding, rather than out of a desire to get rid of the anger? Or would this still amount to a subtle form of aversion?
 
-    The implication that cultivating mettā is a separate undertaking from recognizing the presence of anger, etc., suggests that it remains a form of aversion or management. Even if you do not think of it as trying to get rid of the anger, you are still just “turning the page” on it rather than addressing its causes, much like distracting yourself with a worldly unrelated activity. That does nothing to alter the underlying tendency toward aversion when attention is *not *being closely managed, which is precisely the only time that counts as a criterion for development (AN 5.200).
+The implication that cultivating mettā is a separate undertaking from recognizing the presence of anger, etc., suggests that it remains a form of aversion or management. Even if you do not think of it as trying to get rid of the anger, you are still just “turning the page” on it rather than addressing its causes, much like distracting yourself with a worldly unrelated activity. That does nothing to alter the underlying tendency toward aversion when attention is *not *being closely managed, which is precisely the only time that counts as a criterion for development (AN 5.200).
 
-    *Mettā* is the natural result of the absence of aversion. It is no more contrived than the friendliness you already experience towards people for whom you have no ill-will (which are the majority) By contrast, the common, misguided fabrication of mettā requires ignoring certain unpleasant aspects and selectively focusing on pleasant ones, and for as long as that's at all required, you're still just continuing to take ill-will for granted.
+*Mettā* is the natural result of the absence of aversion. It is no more contrived than the friendliness you already experience towards people for whom you have no ill-will (which are the majority) By contrast, the common, misguided fabrication of mettā requires ignoring certain unpleasant aspects and selectively focusing on pleasant ones, and for as long as that's at all required, you're still just continuing to take ill-will for granted.
 
-    Hence, the ordinary friendliness of an undeveloped puthujjana toward *some* people is actually far closer to genuine *mettā* than what many Buddhists today take it to be. The difference between ordinary friendliness and the liberation of mind through *mettā* is simply that the latter is boundless/infinite. That's the same as saying that it involves no effort or even anchor, since anything conditioned by an activity implies the possibility of its absence under certain circumstances, hence it's not boundless. Mettā depends only on the absence of something, namely ill-will, and that absence is universal when the mind has been well cultivated.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1gb5u8/)** _2026-01-24 16:50:27_ *(in reply to Representative-Age18)*:
+Hence, the ordinary friendliness of an undeveloped puthujjana toward *some* people is actually far closer to genuine *mettā* than what many Buddhists today take it to be. The difference between ordinary friendliness and the liberation of mind through *mettā* is simply that the latter is boundless/infinite. That's the same as saying that it involves no effort or even anchor, since anything conditioned by an activity implies the possibility of its absence under certain circumstances, hence it's not boundless. Mettā depends only on the absence of something, namely ill-will, and that absence is universal when the mind has been well cultivated.
 
-    > This sutta 5.200 contains the exact method that HH argues against,
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1gb5u8/)** _2026-01-24 16:50:27_ *(in reply to Representative-Age18)*
 
-    Where? It talks about mettā, sure, but it doesn't vindicate the modern interpretations of what that means, which is what we criticize.
+> This sutta 5.200 contains the exact method that HH argues against,
 
-    What I intended to highlight with that Sutta is that the actual escape from ill-will is when the mind doesn't want to go there even if you tried to send it there.   Whereas the modern practices revolve around holding back the mind from what it still prefers by fabricating the opposite, without ever addressing the causes for why it in principle *could* want to go towards ill-will (or sensuality).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1gtlkq/)** _2026-01-24 18:11:21_ *(in reply to Representative-Age18)*:
+Where? It talks about mettā, sure, but it doesn't vindicate the modern interpretations of what that means, which is what we criticize.
 
-    > I agree that trying to use wholesome as a means of controlling the unwholesome, is just clinging.
+What I intended to highlight with that Sutta is that the actual escape from ill-will is when the mind doesn't want to go there even if you tried to send it there.   Whereas the modern practices revolve around holding back the mind from what it still prefers by fabricating the opposite, without ever addressing the causes for why it in principle *could* want to go towards ill-will (or sensuality).
 
-    That's not quite the point. The modern interpretation of mettā is just a cover-up, and cover-ups are themselves unwholesome. It's replacing ill-will with delusion, which is like switching the side of a cube you're facing while the cube remains equally close to your face.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1gtlkq/)** _2026-01-24 18:11:21_ *(in reply to Representative-Age18)*
 
-    > This is what I believe can quickly happen with non-resistance, non-doing, endurance methods: We understand that aversion to discomfort is the problem, but that we are supposed to not resist it. We end up mindlessly "thinking" and never really get objective perspective, it's just a perpetual thinking "Aversion", "I'm supposed to not let this aversion take over" "Now I'm controlling" "oh no I shouldn't control" "ok stop controlling" "ok allow even that to be", and maybe it stops. Also aversion becomes the center of gravity, like we know aversion is the problem, so we automatically start 1. subconsciously looking for aversion 2. We start identifying (clinging) to aversion. We end up kinda chasing displeasure to solve our aversion, but we are now identified to some extent to aversion.
+> I agree that trying to use wholesome as a means of controlling the unwholesome, is just clinging.
 
-    That's what happens when even what we're describing is still being implemented as a mechanical technique. That tendency might take time to calm down, and those considerations aren't of much value anyway unless you're already fully steadied in the eight precepts. If you're not, you're not going to clearly see what any defilement is no matter how hard you try.
+That's not quite the point. The modern interpretation of mettā is just a cover-up, and cover-ups are themselves unwholesome. It's replacing ill-will with delusion, which is like switching the side of a cube you're facing while the cube remains equally close to your face.
 
-    > For example: I can feel peaceful while feeling quite a lot of pain IF I stay mindful, ardent and fully aware, fully comprehending what is going on. However, if I just drift into the pain/aversion, I feel like I quickly identify with it and sink into more aversion.
+> This is what I believe can quickly happen with non-resistance, non-doing, endurance methods: We understand that aversion to discomfort is the problem, but that we are supposed to not resist it. We end up mindlessly "thinking" and never really get objective perspective, it's just a perpetual thinking "Aversion", "I'm supposed to not let this aversion take over" "Now I'm controlling" "oh no I shouldn't control" "ok stop controlling" "ok allow even that to be", and maybe it stops. Also aversion becomes the center of gravity, like we know aversion is the problem, so we automatically start 1. subconsciously looking for aversion 2. We start identifying (clinging) to aversion. We end up kinda chasing displeasure to solve our aversion, but we are now identified to some extent to aversion.
 
-    Right, and the fact that the latter can still happen means that the mind is not being developed. No amount of time of cultivating such "mindfulness" will remove the need for itself. It's just learning how to cope, however successfully and skillfully, and never removing the causes for disturbance. In fact it makes the problem worse; if after getting used to that you have to face discomfort without crutches, you will be even less able to do so than before. Hence the Buddha said that a person who [attains wrong liberation through wrong view ... wrong samādhi is *worse* off on that account](https://suttacentral.net/sn45.26/en/bodhi?lang=en&reference=none&highlight=false#1.3). It's not a "transitional stage" or a "skillful means." It's a complete deviation that requires you to unlearn everything you learned.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1h46mx/)** _2026-01-24 18:56:23_ *(in reply to Representative-Age18)*:
+That's what happens when even what we're describing is still being implemented as a mechanical technique. That tendency might take time to calm down, and those considerations aren't of much value anyway unless you're already fully steadied in the eight precepts. If you're not, you're not going to clearly see what any defilement is no matter how hard you try.
 
-    > You're essentially telling me that on account of that, I cannot even attain Sottapanna, and even that is contradicting the Buddha, as thousands of laypeople who indulged in sex, entertainement etc etc, did attain stream entry.
+> For example: I can feel peaceful while feeling quite a lot of pain IF I stay mindful, ardent and fully aware, fully comprehending what is going on. However, if I just drift into the pain/aversion, I feel like I quickly identify with it and sink into more aversion.
 
-    [The Buddha did say that such activities are an obstruction to both right view and right *samādhi*](https://suttas.hillsidehermitage.org/?q=an6.68). He also listed things that need to be given up in order to practice *satipaṭṭhāna*, and the things you mention are covered by the items in that list (AN 6.118). Elsewhere he said one [can't progress in the Dhamma while maintaining delight in sensuality](https://suttas.hillsidehermitage.org/?q=mn16#mn16:8.1_mn16:8.4).
+Right, and the fact that the latter can still happen means that the mind is not being developed. No amount of time of cultivating such "mindfulness" will remove the need for itself. It's just learning how to cope, however successfully and skillfully, and never removing the causes for disturbance. In fact it makes the problem worse; if after getting used to that you have to face discomfort without crutches, you will be even less able to do so than before. Hence the Buddha said that a person who [attains wrong liberation through wrong view ... wrong samādhi is *worse* off on that account](https://suttacentral.net/sn45.26/en/bodhi?lang=en&reference=none&highlight=false#1.3). It's not a "transitional stage" or a "skillful means." It's a complete deviation that requires you to unlearn everything you learned.
 
-    > In your view, from what I interpret, I'm better off just giving up meditation practice, unless I can follow all 8 precepts and probably also live in calm environment.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1h46mx/)** _2026-01-24 18:56:23_ *(in reply to Representative-Age18)*
 
-    Yes, you should give up the meditation you've been doing so far and anything that resembles it because it's actively taking you even further away from the right samādhi and peace. Giving it up will show you how your mind actually isn't tamed; how it still resists and craves for things just as strongly, if not worse, when you stop managing the scenery internally.
+> You're essentially telling me that on account of that, I cannot even attain Sottapanna, and even that is contradicting the Buddha, as thousands of laypeople who indulged in sex, entertainement etc etc, did attain stream entry.
 
-    As for the eight precepts, it's not all or nothing.
+[The Buddha did say that such activities are an obstruction to both right view and right *samādhi*](https://suttas.hillsidehermitage.org/?q=an6.68). He also listed things that need to be given up in order to practice *satipaṭṭhāna*, and the things you mention are covered by the items in that list (AN 6.118). Elsewhere he said one [can't progress in the Dhamma while maintaining delight in sensuality](https://suttas.hillsidehermitage.org/?q=mn16#mn16:8.1_mn16:8.4).
 
-    First of all it's about being honest to yourself regarding what the goal is, i.e., freedom from craving, and the fact that you can't claim to be practicing towards that goal while you still engage in obvious acts of craving. That's probably not going to be all that obvious if you've been following contemporary teachings, and the precepts need to be supported by that simple but important recognition to be effective. 
+> In your view, from what I interpret, I'm better off just giving up meditation practice, unless I can follow all 8 precepts and probably also live in calm environment.
 
-    With that perspective, even though you might not be formally committed to the eight precepts all the time, there will be a lingering sense of shame each time you intentionally break them and remember your desire to train your mind, and that will allow you to grow in the precepts as quickly as you can handle. For some people that's overnight, for others it takes longer.
+Yes, you should give up the meditation you've been doing so far and anything that resembles it because it's actively taking you even further away from the right samādhi and peace. Giving it up will show you how your mind actually isn't tamed; how it still resists and craves for things just as strongly, if not worse, when you stop managing the scenery internally.
 
-    If you're not choosing entertainment yourself then that's not really a concern.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1rokt6/)** _2026-01-26 05:32:46_ *(in reply to YakshaUK)*:
+As for the eight precepts, it's not all or nothing.
 
-    That’s a widespread misunderstanding.
+First of all it's about being honest to yourself regarding what the goal is, i.e., freedom from craving, and the fact that you can't claim to be practicing towards that goal while you still engage in obvious acts of craving. That's probably not going to be all that obvious if you've been following contemporary teachings, and the precepts need to be supported by that simple but important recognition to be effective. 
 
-    If you have to shield and control your mind to prevent unwholesome reactions, it is not even temporarily liberated or composed. The need for suppression or redirection is itself a product of the hindrances. If that feels calming, it will be the same kind of “calm” produced by sensuality, which also depends on averting attention from what is unpleasant. [Thus, it's wrong calm](https://suttas.hillsidehermitage.org/?q=an5.113).
+With that perspective, even though you might not be formally committed to the eight precepts all the time, there will be a lingering sense of shame each time you intentionally break them and remember your desire to train your mind, and that will allow you to grow in the precepts as quickly as you can handle. For some people that's overnight, for others it takes longer.
 
-    The notion that *samatha* can be developed independently of understanding is refuted by Suttas like AN 6.73 and AN 9.41.
+If you're not choosing entertainment yourself then that's not really a concern.
 
-    > in order to come to the experiential understanding that clinging to ill-will is unproductive?
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk7dh6/question_on_definitive_guide_to_seeing_your_mind/o1rokt6/)** _2026-01-26 05:32:46_ *(in reply to YakshaUK)*
 
-    This supposed “experiential understanding” never actually comes. Anyone who relies on these practices neither has nor will reach a point where defilements cannot arise without them. That's because they are not just tangential; they actively manifest the same problem.
+That’s a widespread misunderstanding.
+
+If you have to shield and control your mind to prevent unwholesome reactions, it is not even temporarily liberated or composed. The need for suppression or redirection is itself a product of the hindrances. If that feels calming, it will be the same kind of “calm” produced by sensuality, which also depends on averting attention from what is unpleasant. [Thus, it's wrong calm](https://suttas.hillsidehermitage.org/?q=an5.113).
+
+The notion that *samatha* can be developed independently of understanding is refuted by Suttas like AN 6.73 and AN 9.41.
+
+> in order to come to the experiential understanding that clinging to ill-will is unproductive?
+
+This supposed “experiential understanding” never actually comes. Anyone who relies on these practices neither has nor will reach a point where defilements cannot arise without them. That's because they are not just tangential; they actively manifest the same problem.
+
 
 ---
 
@@ -2824,28 +2929,30 @@ A cook who make a living off of cooking meat, a grocery store cashier, or a pet 
 
 I don't see how there is wrong intention in the livelihood of being a meat cooker or pet supplier. Maybe the meat cooker is encouraging more people to kill animals and the pet supplier is encouraging crueling towards animals? But then why isn't the end consumer also doing that?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk0xih/why_is_businesstrading_in_meat_living_beings/o1dh5du/)** _2026-01-24 04:49:33_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk0xih/why_is_businesstrading_in_meat_living_beings/o1dh5du/)** _2026-01-24 04:49:33_
 
-    > A cook who make a living off of cooking meat, a grocery store cashier, or a pet store owner who makes a living off of selling pets
+> A cook who make a living off of cooking meat, a grocery store cashier, or a pet store owner who makes a living off of selling pets
 
-    Only the last one is wrong livelihood. Cooking meat and being a cashier at a general grocery store are too far removed from the act of killing to matter.
+Only the last one is wrong livelihood. Cooking meat and being a cashier at a general grocery store are too far removed from the act of killing to matter.
 
-    The issue is how gaining a living from these things carries a welcoming attitude towards the acts of killing and, with pets, undesired imprisonment. Even when you're not the one physically perpetrating either, internally your intentions are pointing in that direction to a degree simply by working in those industries.
+The issue is how gaining a living from these things carries a welcoming attitude towards the acts of killing and, with pets, undesired imprisonment. Even when you're not the one physically perpetrating either, internally your intentions are pointing in that direction to a degree simply by working in those industries.
 
-    With weapons and intoxicants, you'd be condoning the intended usage of those things by selling them (though not if you're a cashier where those are among many of the items sold and customers take them without your involvement).
+With weapons and intoxicants, you'd be condoning the intended usage of those things by selling them (though not if you're a cashier where those are among many of the items sold and customers take them without your involvement).
 
-    Some people think that in buying meat you are also condoning killing, but that's a fabricated connection and not true in any sense that's relevant for the training of the mind. You can totally maintain the attitude that you would never intentionally kill a living being or encourage another to do so, even to save your own life, despite buying and consuming meat. That attitude is what you have to cultivate, and abstaining from meat as a rule contributes nothing to that per se. It usually takes away from it by distracting you.
+Some people think that in buying meat you are also condoning killing, but that's a fabricated connection and not true in any sense that's relevant for the training of the mind. You can totally maintain the attitude that you would never intentionally kill a living being or encourage another to do so, even to save your own life, despite buying and consuming meat. That attitude is what you have to cultivate, and abstaining from meat as a rule contributes nothing to that per se. It usually takes away from it by distracting you.
 
-    The Buddha could've easily made at least monks vegetarian and thereby prevented a lot of meat purchasing. But not only did he not have that initiative; he explicitly refused when asked by Devadatta. It would've cemented a wrong view about what virtue is.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk0xih/why_is_businesstrading_in_meat_living_beings/o1rfxpg/)** _2026-01-26 04:34:51_ *(in reply to ToLazyToPickName)*:
+The Buddha could've easily made at least monks vegetarian and thereby prevented a lot of meat purchasing. But not only did he not have that initiative; he explicitly refused when asked by Devadatta. It would've cemented a wrong view about what virtue is.
 
-    > To me, it seems like by relying on the death of animals to continue for their livelihood of selling or helping to sell meat
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qk0xih/why_is_businesstrading_in_meat_living_beings/o1rfxpg/)** _2026-01-26 04:34:51_ *(in reply to ToLazyToPickName)*
 
-    Because unless they're working directly with a butcher, the connection is abstract. They wouldn't have to be open to killing or encouraging another to kill in order to do it.
+> To me, it seems like by relying on the death of animals to continue for their livelihood of selling or helping to sell meat
 
-    > Which jobs in the meat industry would be included in wrong livelihood besides the job of doing/commanding the killing? 
+Because unless they're working directly with a butcher, the connection is abstract. They wouldn't have to be open to killing or encouraging another to kill in order to do it.
 
-    It depends on the closeness of the association. If the job involves any dealings with the people who do the killing, it would be wrong livelihood. Not because you're explicitly telling them to kill, but because there is automatically going to be a sense of cooperation.
+> Which jobs in the meat industry would be included in wrong livelihood besides the job of doing/commanding the killing? 
+
+It depends on the closeness of the association. If the job involves any dealings with the people who do the killing, it would be wrong livelihood. Not because you're explicitly telling them to kill, but because there is automatically going to be a sense of cooperation.
+
 
 ---
 
@@ -2854,18 +2961,20 @@ I don't see how there is wrong intention in the livelihood of being a meat cooke
 
 I have heard Ajahn Ñānamoli say several times about how the ugly is a more fundamental context than the beautiful, and I was thinking about how to understand this concretely. What I have arrived at is that the ugly is more fundamental because that is exactly how sensuality is there at all — if things were more beautiful than ugly, it would just be a matter of avoiding the ugly; there would be no drive to go towards the beautiful. But it is the interplay between the signs/features of the beautiful and the broader context of the ugly — and the resulting *pressure* to engage with the beautiful — that makes sensual being (kāmabhava) what it is as opposed to a mere pleasant abiding (rūpabhava). This is why sensuality, being driven by that pressure to get away from the ugly, is always unwholesome, whereas material states (Jhānas) can be experienced wholesomely. This is also why sensuality is insatiable and unsatisfactory, as the ugly is always there ‘waiting’ as the broader context whenever the less fundamental beauty runs out. Similarly, if you were put in harsh enough conditions, [you would start finding sensual appeal in less and less pleasant things](https://youtu.be/lRK96f55ad8), like an animal that enjoys eating filth. But when you develop the theme that whatever beauty in sensuality there is is only there because the broader context of the ugly gives it its appeal, it all becomes ugly and loses its pressure, and ironically that is what ultimately brings peace. The ugly is only a problem relative to the value you place in beauty, but when it’s all ugly, it becomes basically neutral. The more I think about it, the more it seems to me that this interplay between the signs of the beautiful, and the broader context of the ugly, are what make up the entirety of human existence, and developing that context is also how one can surmount it.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qenu9m/beautiful_and_ugly/o04wq36/)** _2026-01-17 17:15:00_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qenu9m/beautiful_and_ugly/o04wq36/)** _2026-01-17 17:15:00_
 
-    > The more I think about it, the more it seems to me that this interplay between the signs of the beautiful, and the broader context of the ugly, are what make up the entirety of human existence, and developing that context is also how one can surmount it. 
+> The more I think about it, the more it seems to me that this interplay between the signs of the beautiful, and the broader context of the ugly, are what make up the entirety of human existence, and developing that context is also how one can surmount it. 
 
-    Yes, exactly—granted one has stopped acting on desire for the beautiful no matter how invisible its more fundamental ugliness is.
+Yes, exactly—granted one has stopped acting on desire for the beautiful no matter how invisible its more fundamental ugliness is.
 
-    The disgusting nature of your own body (the contemplation of organs often given in the Suttas) is the most acute and inescapable type of ugliness, but the principle extends to everything that you wouldn't want to look at because it would ruin your enjoyment/anticipation of something pleasant. [Anything of that nature](https://suttas.hillsidehermitage.org/?q=mn13#mn13:8.1_mn13:15.3) is by default more fundamental, since it's what stands out when desire isn't there to obscure it.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qenu9m/beautiful_and_ugly/o04tdm0/)** _2026-01-17 16:59:29_ *(in reply to nanassaka)*:
+The disgusting nature of your own body (the contemplation of organs often given in the Suttas) is the most acute and inescapable type of ugliness, but the principle extends to everything that you wouldn't want to look at because it would ruin your enjoyment/anticipation of something pleasant. [Anything of that nature](https://suttas.hillsidehermitage.org/?q=mn13#mn13:8.1_mn13:15.3) is by default more fundamental, since it's what stands out when desire isn't there to obscure it.
 
-    The implication here that "jhāna is a subtler form of sensuality" is wrong. Jhāna definitionally is the complete cessation of sensuality ([through dispassion, not replacement of objects](https://suttas.hillsidehermitage.org/?q=an9.42#an9.42:4.1_an9.42:4.5)). 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qenu9m/beautiful_and_ugly/o04tdm0/)** _2026-01-17 16:59:29_ *(in reply to nanassaka)*
 
-    There's no good reason to extend the word "sensuality" to everything.
+The implication here that "jhāna is a subtler form of sensuality" is wrong. Jhāna definitionally is the complete cessation of sensuality ([through dispassion, not replacement of objects](https://suttas.hillsidehermitage.org/?q=an9.42#an9.42:4.1_an9.42:4.5)). 
+
+There's no good reason to extend the word "sensuality" to everything.
+
 
 ---
 
@@ -2910,26 +3019,28 @@ For sense pleasures , ex- longing for something, how do i reflect on the danger 
 
 Thank you for any guidance you’re willing to offer.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qdgogu/practice_advice/nzva26l/)** _2026-01-16 05:11:52_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qdgogu/practice_advice/nzva26l/)** _2026-01-16 05:11:52_
 
-    > Should I reflect on danger/drawbacks, impermanence, etc?
+> Should I reflect on danger/drawbacks, impermanence, etc?
 
-    Yes, that should be the main effort. It sounds like you've become habituated to the precepts and restraint externally, but without the certainty that your mind wouldn't return to those things even if you wanted it to. The only relief that's not unwholesome comes from that certainty, and it's cultivated by clarifying the danger of what you're already disengaged from.
+Yes, that should be the main effort. It sounds like you've become habituated to the precepts and restraint externally, but without the certainty that your mind wouldn't return to those things even if you wanted it to. The only relief that's not unwholesome comes from that certainty, and it's cultivated by clarifying the danger of what you're already disengaged from.
 
-    Don't try to contemplate the danger in sensuality in some abstract sense; just clarify the danger in returning specifically to breaking the precepts. By not doing so the mind still remains open to that possibility even if it never comes up, and that's why it wouldn't be at ease. Unease doesn't require explicit confirmation that [enemies are coming](https://suttas.hillsidehermitage.org/?q=dn2#dn2:63.3_dn2:63.4); it's enough not to know with full certainty that they're *not* coming. Factually, they might all be defeated, but unless you *know* that, you will still be subtly anxious.
+Don't try to contemplate the danger in sensuality in some abstract sense; just clarify the danger in returning specifically to breaking the precepts. By not doing so the mind still remains open to that possibility even if it never comes up, and that's why it wouldn't be at ease. Unease doesn't require explicit confirmation that [enemies are coming](https://suttas.hillsidehermitage.org/?q=dn2#dn2:63.3_dn2:63.4); it's enough not to know with full certainty that they're *not* coming. Factually, they might all be defeated, but unless you *know* that, you will still be subtly anxious.
 
-    To be clear, you're not looking for some positive announcement from your mind that the precepts will never be broken. You simply see that when you [bring up the intention never to engage in misconduct again](https://suttas.hillsidehermitage.org/?q=mn8#mn8:12.1_mn8:12.45), resistance and reservations no longer arise. That means the citta is obedient to that extent (the internal enemies are defeated).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qdgogu/practice_advice/nzwg5zj/)** _2026-01-16 11:11:10_ *(in reply to Embarrassed-Box6857)*:
+To be clear, you're not looking for some positive announcement from your mind that the precepts will never be broken. You simply see that when you [bring up the intention never to engage in misconduct again](https://suttas.hillsidehermitage.org/?q=mn8#mn8:12.1_mn8:12.45), resistance and reservations no longer arise. That means the citta is obedient to that extent (the internal enemies are defeated).
 
-    > The only things I still occasionally give in to or have not 100% said no to in terms of never giving in for the rest of my life are using Dhamma as a soothing tool(especially for doubt) and to relax/enjoy, likewise with food.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qdgogu/practice_advice/nzwg5zj/)** _2026-01-16 11:11:10_ *(in reply to Embarrassed-Box6857)*
 
-    Sure, but what I'm saying is beyond merely not breaking them. A lot of people haven't broken any precepts for decades and they're nowhere near the right practice. What I'm describing is the factual joy that will be felt when having not broken the precepts and become accustomed to them, you mentally establish them as an immovable context that permeates everything you do, say, or think. You actively highlight to yourself the benefit of staying within those boundaries, and the unassailable freedom from danger that it entails. "Unassailable" because nothing and no one could force you to break the precepts. It's always been your decision, and that decision has become unthinkable because the danger in it is clear.
+> The only things I still occasionally give in to or have not 100% said no to in terms of never giving in for the rest of my life are using Dhamma as a soothing tool(especially for doubt) and to relax/enjoy, likewise with food.
 
-    > About my other questions, about endurance on the “right level” and the body posture context, am I on the right track? And likewise for finding the line with proliferation of thoughts and mere observation.
+Sure, but what I'm saying is beyond merely not breaking them. A lot of people haven't broken any precepts for decades and they're nowhere near the right practice. What I'm describing is the factual joy that will be felt when having not broken the precepts and become accustomed to them, you mentally establish them as an immovable context that permeates everything you do, say, or think. You actively highlight to yourself the benefit of staying within those boundaries, and the unassailable freedom from danger that it entails. "Unassailable" because nothing and no one could force you to break the precepts. It's always been your decision, and that decision has become unthinkable because the danger in it is clear.
 
-    You can forget about that for now.
+> About my other questions, about endurance on the “right level” and the body posture context, am I on the right track? And likewise for finding the line with proliferation of thoughts and mere observation.
 
-    The right level is not something you do or create; it's when what you will *not* do (because it's unwholesome) is crystal clear, and abstaining from it is effortless because the mind has been trained to that degree.
+You can forget about that for now.
+
+The right level is not something you do or create; it's when what you will *not* do (because it's unwholesome) is crystal clear, and abstaining from it is effortless because the mind has been trained to that degree.
+
 
 ---
 
@@ -2957,19 +3068,20 @@ So I’m trying to understand in what sense the stronger statement is true and h
 * In fact, in some Dhamma talks, in order to counter the common aversive thought of “oh, this is impermanent, it will cease” to try to soothe one’s discomfort, it’s recommended to think “no, this is permanent, it will last forever”. I see how both of these are aimed at dispassion: seeing the impermanence undermines attachment to the dear, while seeing that something might endure forever undermines the aversion to the disliked. Yet the truth should somehow reconcile the two without contradiction.
 * I wonder if the stronger statement is actually only true *for a sotāpanna*? Since they are said to know a phenomenon (e.g. feeling), its condition, its cessation and the path leading to its cessation. The puthujjana, not knowing the way leading to its cessation, is subject to the possibility of feeling for eternity. Until that eternity ceases?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qboawz/possibility_and_eventuality/nzv7n4d/)** _2026-01-16 04:55:34_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qboawz/possibility_and_eventuality/nzv7n4d/)** _2026-01-16 04:55:34_
 
-    >I believe Ñāṇavīra Thero addresses this question to some extent in Fundamental Structure II.5. My current takeaway would be that something arisen can endure for only so many eternities (of eternities of eternities…) before it will finally have to cease. This seems feasible, but I only see it to some extent and quite abstractly, and not sure how to make it more directly felt and concrete.
+>I believe Ñāṇavīra Thero addresses this question to some extent in Fundamental Structure II.5. My current takeaway would be that something arisen can endure for only so many eternities (of eternities of eternities…) before it will finally have to cease. This seems feasible, but I only see it to some extent and quite abstractly, and not sure how to make it more directly felt and concrete.
 
-    Yes, I wouldn't recommend going that route.
+Yes, I wouldn't recommend going that route.
 
-    >I see how both of these are aimed at dispassion: seeing the impermanence undermines attachment to the dear, while seeing that something might endure forever undermines the aversion to the disliked. Yet the truth should somehow reconcile the two without contradiction.
+>I see how both of these are aimed at dispassion: seeing the impermanence undermines attachment to the dear, while seeing that something might endure forever undermines the aversion to the disliked. Yet the truth should somehow reconcile the two without contradiction.
 
-    And it does. Impermanence means that things both could end next moment or last "forever," as in far longer than however long you expect them to last. So whether you hope for novelty or permanence, your hopes are undercut by *anicca.*
+And it does. Impermanence means that things both could end next moment or last "forever," as in far longer than however long you expect them to last. So whether you hope for novelty or permanence, your hopes are undercut by *anicca.*
 
-    > I wonder if the stronger statement is actually only true for a sotāpanna? Since they are said to know a phenomenon (e.g. feeling), its condition, its cessation and the path leading to its cessation. The puthujjana, not knowing the way leading to its cessation, is subject to the possibility of feeling for eternity.
+> I wonder if the stronger statement is actually only true for a sotāpanna? Since they are said to know a phenomenon (e.g. feeling), its condition, its cessation and the path leading to its cessation. The puthujjana, not knowing the way leading to its cessation, is subject to the possibility of feeling for eternity.
 
-    No, no quite. That would assume that there is some overall situation of being subject to feeling independent of what is currently being felt, and that's not how it works. A puthujjana remains subject to one of the three specific feelings (MN 74), and there is no stability to be found there. Even if they wanted to experience nothing but displeasure and dismay (e.g. at being puthujjana), pleasure or neutrality would take over sooner or later.
+No, no quite. That would assume that there is some overall situation of being subject to feeling independent of what is currently being felt, and that's not how it works. A puthujjana remains subject to one of the three specific feelings (MN 74), and there is no stability to be found there. Even if they wanted to experience nothing but displeasure and dismay (e.g. at being puthujjana), pleasure or neutrality would take over sooner or later.
+
 
 ---
 
@@ -2980,19 +3092,22 @@ In the [Mittasutta](https://suttacentral.net/sn47.48/en/sujato?lang=en&layout=li
 
 What do you make of this?
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qb7thy/mittasutta_satipaṭṭhāna_practice_for_puthujjanas/nzaw0s3/)** _2026-01-13 05:08:41_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qb7thy/mittasutta_satipaṭṭhāna_practice_for_puthujjanas/nzaw0s3/)** _2026-01-13 05:08:41_
 
-    It doesn't negate the prerequisites for *satipatthāna* established by a multitude of other Suttas, such as the one right before.
+It doesn't negate the prerequisites for *satipatthāna* established by a multitude of other Suttas, such as the one right before.
 
-    Try as you may, you will not be able to get someone who still looks for pleasure in the world to subdue longing and aversion in regard to the world. [It's like asking them to jump off a cliff](https://suttas.hillsidehermitage.org/?q=an9.41#an9.41:3.1_an9.41:3.4). 
+Try as you may, you will not be able to get someone who still looks for pleasure in the world to subdue longing and aversion in regard to the world. [It's like asking them to jump off a cliff](https://suttas.hillsidehermitage.org/?q=an9.41#an9.41:3.1_an9.41:3.4). 
 
-    At best, they will be able to shift their longing to a new thing in the world, and that, though very common today, is not *satipaṭṭhāna.*
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qb7thy/mittasutta_satipaṭṭhāna_practice_for_puthujjanas/nzbho8i/)** _2026-01-13 08:09:15_ *(in reply to zurvivl)*:
+At best, they will be able to shift their longing to a new thing in the world, and that, though very common today, is not *satipaṭṭhāna.*
 
-    That would only be possible if yoniso manasikāra was a quality independent of one's choices, but it isn't. Engaging and intending to engage in sensuality *is* ayoniso manasikāra.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qb7thy/mittasutta_satipaṭṭhāna_practice_for_puthujjanas/nzbilei/)** _2026-01-13 08:17:59_ *(in reply to zurvivl)*:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qb7thy/mittasutta_satipaṭṭhāna_practice_for_puthujjanas/nzbho8i/)** _2026-01-13 08:09:15_ *(in reply to zurvivl)*
 
-    Neither. They're identical.
+That would only be possible if yoniso manasikāra was a quality independent of one's choices, but it isn't. Engaging and intending to engage in sensuality *is* ayoniso manasikāra.
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qb7thy/mittasutta_satipaṭṭhāna_practice_for_puthujjanas/nzbilei/)** _2026-01-13 08:17:59_ *(in reply to zurvivl)*
+
+Neither. They're identical.
+
 
 ---
 
@@ -3023,11 +3138,12 @@ Thanks in advance for your help
 
 Sil
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qagczz/yoniso_manasikara_in_practice/nzau7yl/)** _2026-01-13 04:56:19_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1qagczz/yoniso_manasikara_in_practice/nzau7yl/)** _2026-01-13 04:56:19_
 
-    > So my question is what is it that you discern from a first person perspective when the pressure is present? What is that thing that could not be seen without that pressure?
+> So my question is what is it that you discern from a first person perspective when the pressure is present? What is that thing that could not be seen without that pressure?
 
-    The fact that all satisfaction of the pressure is actually still within suffering. You get to see first-hand that the presence of craving, not the lack of its fulfillment, is what suffering is.
+The fact that all satisfaction of the pressure is actually still within suffering. You get to see first-hand that the presence of craving, not the lack of its fulfillment, is what suffering is.
+
 
 ---
 
@@ -3042,16 +3158,18 @@ Should these stories be regarded metaphorically and that these characters are in
 
 Sutta reference: AN 3:36
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q8b4ia/how_should_buddhist_cosmology_be_interpreted/nyy90st/)** _2026-01-11 10:29:29_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q8b4ia/how_should_buddhist_cosmology_be_interpreted/nyy90st/)** _2026-01-11 10:29:29_
 
-    > Assuming the former two characters were true, would they have the choice (of action; kamma) to punish or not to punish the “evil doer,” thereby abandoning kamma for themselves? As such stories if taken literally may just undermine the legitimacy of the law of kamma in relation to re-becoming, since characters such as “King Yama” and “wardens of hell” may not have the choice not to act in a way that inflicts pain on another, whether or not that other individual “deserves” it).
+> Assuming the former two characters were true, would they have the choice (of action; kamma) to punish or not to punish the “evil doer,” thereby abandoning kamma for themselves? As such stories if taken literally may just undermine the legitimacy of the law of kamma in relation to re-becoming, since characters such as “King Yama” and “wardens of hell” may not have the choice not to act in a way that inflicts pain on another, whether or not that other individual “deserves” it).
 
-    No, that doesn't follow at all. A soldier may have an extreme pressure on him to kill for his country, potentially facing severe consequences for refusing to do so. That doesn't in any way diminish his accountability for killing.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q8b4ia/how_should_buddhist_cosmology_be_interpreted/nyyiph3/)** _2026-01-11 11:56:23_ *(in reply to Additional_Fix8417)*:
+No, that doesn't follow at all. A soldier may have an extreme pressure on him to kill for his country, potentially facing severe consequences for refusing to do so. That doesn't in any way diminish his accountability for killing.
 
-    Yes, that's what I'm referring to as well. Them being born to perform those roles doesn't mean they're not responsible for actually performing them. So the principle of kamma still applies.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q8b4ia/how_should_buddhist_cosmology_be_interpreted/nyyiph3/)** _2026-01-11 11:56:23_ *(in reply to Additional_Fix8417)*
 
-    It's no different than how human existence is made for sensuality and reproduction. If you want liberation, you don't do what your birth is meant for.
+Yes, that's what I'm referring to as well. Them being born to perform those roles doesn't mean they're not responsible for actually performing them. So the principle of kamma still applies.
+
+It's no different than how human existence is made for sensuality and reproduction. If you want liberation, you don't do what your birth is meant for.
+
 
 ---
 
@@ -3064,48 +3182,54 @@ I've been trying to keep the precepts and gradually add more of them, but I find
 
 Also, I have an additional (and somewhat related) question: what am I supposed to do when I am trying to keep the eight precepts (or something near that)? The boredom kicks in very quickly.
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nyug9rt/)** _2026-01-10 20:17:07_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nyug9rt/)** _2026-01-10 20:17:07_
 
-    >I can sort of look at the amount of pressure, the overall hedonic tone, and question the content of the intentions in an attempt to 'triangulate' it, but I sense that this is not the right way of going about it.
+>I can sort of look at the amount of pressure, the overall hedonic tone, and question the content of the intentions in an attempt to 'triangulate' it, but I sense that this is not the right way of going about it.
 
-    Yes, that's going to be abstract. 
+Yes, that's going to be abstract. 
 
-    What you have to do is (1) not be breaking the eight precepts currently, (2) not forget that you will not do so no matter what happens (this means avoiding anything that obfuscates that conscious commitment even when it aids external restraint, chiefly meditation techniques). That's it. The mind will certainly try to sneak out of that confinement in the beginning, but there will be no opening if those two things are maintained. Eventually it will calm down and start to genuinely prefer staying within the boundaries.
+What you have to do is (1) not be breaking the eight precepts currently, (2) not forget that you will not do so no matter what happens (this means avoiding anything that obfuscates that conscious commitment even when it aids external restraint, chiefly meditation techniques). That's it. The mind will certainly try to sneak out of that confinement in the beginning, but there will be no opening if those two things are maintained. Eventually it will calm down and start to genuinely prefer staying within the boundaries.
 
-    > Also, I have an additional (and somewhat related) question: what am I supposed to do when I am trying to keep the eight precepts (or something near that)? The boredom kicks in very quickly.
+> Also, I have an additional (and somewhat related) question: what am I supposed to do when I am trying to keep the eight precepts (or something near that)? The boredom kicks in very quickly.
 
-    As part of the effort to keep the precepts, you *can't* do anything besides not forgetting that you won't intentionally break them under any circumstances. Finding something additional to do in the name of practice would compromise point #2 above. As for things unrelated to the practice that you might do, you can't decide that in advance. It's whatever comes up despite the deliberate commitment to the precepts remaining ironclad.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nz46yof/)** _2026-01-12 05:49:15_ *(in reply to Solip123)*:
+As part of the effort to keep the precepts, you *can't* do anything besides not forgetting that you won't intentionally break them under any circumstances. Finding something additional to do in the name of practice would compromise point #2 above. As for things unrelated to the practice that you might do, you can't decide that in advance. It's whatever comes up despite the deliberate commitment to the precepts remaining ironclad.
 
-    The problem is that you're still thinking in terms of what to do. That's inevitably going to leave you susceptible to doubt. If you know what you're not going to do, you will completely stop caring about what you will do. And what you're not going to do is break any of the precepts.
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nz46yof/)** _2026-01-12 05:49:15_ *(in reply to Solip123)*
 
-    If the intention never to pursue unwholesome content like TV, movies, etc. is crystal clear, then whatever intention there is to consume Dhamma content will not be problematic because it won't be leaning towards entertainment. It's because the boundary is unclear, not because of any neutral actions, that there is still pressure towards the full breach (if you were to abstain from consuming Dhamma content and just stare at the wall, the same pressure towards entertainment would be felt because you're still not clear about what you won't do).
+The problem is that you're still thinking in terms of what to do. That's inevitably going to leave you susceptible to doubt. If you know what you're not going to do, you will completely stop caring about what you will do. And what you're not going to do is break any of the precepts.
 
-    As for the peril of sensuality, breaking the precepts is what sensuality is, so the peril is discerned in regard to those specific actions. When their danger is evident, there is no way to maintain even the most fleeting intentions towards them. Instead of hunting for those fleeting intentions, which will be an endless and ultimately unsuccessful task, you ruin the appeal of what all of them point towards, so they all wither away.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nzbickx/)** _2026-01-13 08:15:39_ *(in reply to like_a_raft)*:
+If the intention never to pursue unwholesome content like TV, movies, etc. is crystal clear, then whatever intention there is to consume Dhamma content will not be problematic because it won't be leaning towards entertainment. It's because the boundary is unclear, not because of any neutral actions, that there is still pressure towards the full breach (if you were to abstain from consuming Dhamma content and just stare at the wall, the same pressure towards entertainment would be felt because you're still not clear about what you won't do).
 
-    There's no word missing. I meant that [keeping the precepts is done by choosing to keep the precepts](https://suttas.hillsidehermitage.org/?q=mn54#mn54:4.2). Any other choice has to be done with that primary choice enduring as background, not in place of it.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nzhmwv5/)** _2026-01-14 05:16:00_ *(in reply to Solip123)*:
+As for the peril of sensuality, breaking the precepts is what sensuality is, so the peril is discerned in regard to those specific actions. When their danger is evident, there is no way to maintain even the most fleeting intentions towards them. Instead of hunting for those fleeting intentions, which will be an endless and ultimately unsuccessful task, you ruin the appeal of what all of them point towards, so they all wither away.
 
-    > So, I should stop indulging in less coarse forms of entertainment/distraction first and then consuming the Dhamma content shouldn't be an issue anymore?
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nzbickx/)** _2026-01-13 08:15:39_ *(in reply to like_a_raft)*
 
-    No, you don't take for granted that you will consume Dhamma content. You maintain the context that you won't be pursuing the obvious forms of entertainment, and if the pursuit of Dhamma content had an intention leaning in the direction of those coarser things then it will be clear and you won't be engaging with Dhamma at that time. Intention is the leaning towards the obvious action even if it never ends up being done.
+There's no word missing. I meant that [keeping the precepts is done by choosing to keep the precepts](https://suttas.hillsidehermitage.org/?q=mn54#mn54:4.2). Any other choice has to be done with that primary choice enduring as background, not in place of it.
 
-    > So, if I understand correctly, the mental withdrawal from (read: devaluing of) sensuality will occur naturally as a result of abstaining from sensuality for a long enough period of time?
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nzhmwv5/)** _2026-01-14 05:16:00_ *(in reply to Solip123)*
 
-    No, physically abstaining from it won't do much by itself.  Within the physical withdrawal, you have to contemplate the peril and communicate to your mind that it should under no circumstances go there. The point is that that contemplation is in relation to the specific actions and situations outlined by the precepts, not in regard to some abstract idea of sensuality that extends to everything and nothing.
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nzvcmmv/)** _2026-01-16 05:29:49_ *(in reply to BhikkhuSubhara)*:
+> So, I should stop indulging in less coarse forms of entertainment/distraction first and then consuming the Dhamma content shouldn't be an issue anymore?
 
-    > There is still, though, a certain sense that sensuality has to be something more than merely the leaning towards breaking the precepts.
+No, you don't take for granted that you will consume Dhamma content. You maintain the context that you won't be pursuing the obvious forms of entertainment, and if the pursuit of Dhamma content had an intention leaning in the direction of those coarser things then it will be clear and you won't be engaging with Dhamma at that time. Intention is the leaning towards the obvious action even if it never ends up being done.
 
-    It is. The root of sensuality is the lack of internal clarity that sensuality will not be returned to. If there's unclarity (muddledness/delusion), then sensuality still looms even if no explicit intentions towards it are present now. By itself, the latter is just the state of an infant (MN 78).
+> So, if I understand correctly, the mental withdrawal from (read: devaluing of) sensuality will occur naturally as a result of abstaining from sensuality for a long enough period of time?
 
-    See also [this comment](https://www.reddit.com/r/HillsideHermitage/comments/1qdgogu/comment/nzva26l/?context=3&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nzvdyl2/)** _2026-01-16 05:39:29_ *(in reply to Solip123)*:
+No, physically abstaining from it won't do much by itself.  Within the physical withdrawal, you have to contemplate the peril and communicate to your mind that it should under no circumstances go there. The point is that that contemplation is in relation to the specific actions and situations outlined by the precepts, not in regard to some abstract idea of sensuality that extends to everything and nothing.
 
-    > Is this a reasonable way of going about it, or is this style of contemplation faulty? 
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nzvcmmv/)** _2026-01-16 05:29:49_ *(in reply to BhikkhuSubhara)*
 
-    Yes, because it's edging towards an undefined result. What you have to do is simply reflect on your intention to keep the precepts unconditionally, and if the mind's reaction to that is at least neutral, your work is done for now, and you just have to make sure that you don't obfuscate that intention (which is how the opposite intentions begin to take root). If there is internal push-back against that intention of restraint (including in the form of doubt, not just coarse desire), *then* you make the effort to clarify the danger in breaking the precepts.
+> There is still, though, a certain sense that sensuality has to be something more than merely the leaning towards breaking the precepts.
+
+It is. The root of sensuality is the lack of internal clarity that sensuality will not be returned to. If there's unclarity (muddledness/delusion), then sensuality still looms even if no explicit intentions towards it are present now. By itself, the latter is just the state of an infant (MN 78).
+
+See also [this comment](https://www.reddit.com/r/HillsideHermitage/comments/1qdgogu/comment/nzva26l/?context=3&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q67mo5/what_should_i_do_if_i_struggle_to_discern/nzvdyl2/)** _2026-01-16 05:39:29_ *(in reply to Solip123)*
+
+> Is this a reasonable way of going about it, or is this style of contemplation faulty? 
+
+Yes, because it's edging towards an undefined result. What you have to do is simply reflect on your intention to keep the precepts unconditionally, and if the mind's reaction to that is at least neutral, your work is done for now, and you just have to make sure that you don't obfuscate that intention (which is how the opposite intentions begin to take root). If there is internal push-back against that intention of restraint (including in the form of doubt, not just coarse desire), *then* you make the effort to clarify the danger in breaking the precepts.
+
 
 ---
 
@@ -3132,13 +3256,14 @@ Which brings me to another query : If one is through conduct, abandon the aggreg
 
 Warm regards. 
 
-- **[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q5c59g/after_recognizing_sensuality_as_bait_for/ny1cml6/)** _2026-01-06 17:04:29_:
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1q5c59g/after_recognizing_sensuality_as_bait_for/ny1cml6/)** _2026-01-06 17:04:29_
 
-    > However, I now find myself overly vigilant, guilty and a little helpless and restless. If conditional experiences are unsatisfactory and impermanent, what am I to extract a subtler more refined form of peace (Joy) from ?
+> However, I now find myself overly vigilant, guilty and a little helpless and restless. If conditional experiences are unsatisfactory and impermanent, what am I to extract a subtler more refined form of peace (Joy) from ?
 
-    That's normal, and the solution is not to find something to relieve that confinement; it's to get used to it, which requires not going outside of it, i.e., breaking the precepts. When it gets used to it the mind will stop resisting it, and it will cease to be unpleasant. That cessation of resistance to restraint, without anything added on top, is the only type of joy that is in line with the Dhamma, since it comes craving falling away, not from fulfilling the same need in a more refined way. 
+That's normal, and the solution is not to find something to relieve that confinement; it's to get used to it, which requires not going outside of it, i.e., breaking the precepts. When it gets used to it the mind will stop resisting it, and it will cease to be unpleasant. That cessation of resistance to restraint, without anything added on top, is the only type of joy that is in line with the Dhamma, since it comes craving falling away, not from fulfilling the same need in a more refined way. 
 
-    The latter keeps the mind from protesting in the immediate present, but it also means no internal training will occur even if the precepts are kept externally.
+The latter keeps the mind from protesting in the immediate present, but it also means no internal training will occur even if the precepts are kept externally.
+
 
 ---
 

@@ -51,47 +51,45 @@ def format_timestamp(timestamp: float) -> str:
     )
 
 
-def _indent_block(text: str, indent: str) -> str:
-    """Indent paragraphs as nested list content (not a Markdown blockquote)."""
-    paragraphs = (text or "").split("\n\n")
-    indented = [
-        "\n".join(f"{indent}{line}" for line in paragraph.split("\n"))
-        for paragraph in paragraphs
-    ]
-    return "\n\n".join(indented)
-
-
 def _who_markdown(node: ThreadNode) -> str:
     if node.url and node.url != "#":
         return f"**[{node.user}]({node.url})**"
     return f"**{node.user}**"
 
 
-def format_comment_markdown(node: ThreadNode, *, include_parents: bool, level: int) -> str:
-    indent_str = "    " * level
-    content_indent = "    " * (level + 1)
-    indented_content = _indent_block(node.content, content_indent)
-
-    who = _who_markdown(node)
-    if node.synthetic:
-        comment_title = who
-    else:
-        comment_title = f"{who} _{format_timestamp(node.created_at)}_"
-
-    extra = ""
-    if not include_parents and not node.synthetic and level == 0 and node.parent_id:
-        if node.parent_user:
-            extra = f" *(in reply to {node.parent_user})*"
-        else:
-            extra = " *(in reply to a comment not included)*"
-
-    markdown = f"{indent_str}- {comment_title}{extra}:\n\n{indented_content}\n"
-
+def _flatten(node: ThreadNode, parent: ThreadNode | None = None, prev: ThreadNode | None = None):
+    """Reading order, with each card's parent and the card printed just before it."""
+    yield node, parent, prev
+    prev = node
     for child in node.children:
-        markdown += format_comment_markdown(
-            child, include_parents=include_parents, level=level + 1
-        )
-    return markdown
+        yield from _flatten(child, node, prev)
+        prev = _last(child)
+
+
+def _last(node: ThreadNode) -> ThreadNode:
+    return _last(node.children[-1]) if node.children else node
+
+
+def format_comment_markdown(node: ThreadNode) -> str:
+    """One flat block per comment (LaTeX lists cap at 4 levels; chains reach 20+).
+
+    Linkage is shown with an *in reply to* line only where the thread branches,
+    i.e. when the comment is not a reply to the one printed just above it.
+    """
+    out = []
+    for n, parent, prev in _flatten(node):
+        who = _who_markdown(n)
+        title = who if n.synthetic else f"{who} _{format_timestamp(n.created_at)}_"
+        extra = ""
+        if n.parent_id and (prev is None or n.parent_id != prev.id):
+            if parent is not None:
+                extra = f" *(in reply to {parent.user})*"
+            elif n.parent_user:
+                extra = f" *(in reply to {n.parent_user})*"
+            else:
+                extra = " *(in reply to a comment not included)*"
+        out.append(f"{title}{extra}\n\n{(n.content or '').strip()}\n\n")
+    return "".join(out)
 
 
 def generate_submission_markdown(conn, submission, *, include_parents: bool) -> str:
@@ -105,7 +103,7 @@ def generate_submission_markdown(conn, submission, *, include_parents: bool) -> 
         for root in build_comment_threads(
             comments, include_missing_parents=include_parents
         ):
-            md += format_comment_markdown(root, include_parents=include_parents, level=0)
+            md += format_comment_markdown(root)
 
     return md + "\n---\n\n"
 

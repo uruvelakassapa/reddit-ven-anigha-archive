@@ -180,24 +180,28 @@ def test_synthetic_parents_and_no_quote_prefix() -> None:
     assert 'class="comment parent"' not in teachers_only
 
 
-def test_full_markdown_nests_parent_not_blockquote() -> None:
+def test_full_markdown_is_flat_with_branch_labels() -> None:
     comments = [
-        _row(
-            "a1",
-            body="> selected\n\nmy reply",
-            parent_id="p1",
-            parent_author="layperson",
-            parent_body="> quoted anigha\n\nquestion",
-            parent_permalink="https://reddit.com/p1",
-        )
+        _row("a1", body="> selected\n\nmy reply", parent_id="p1", parent_author="layperson",
+             parent_body="> quoted anigha\n\nquestion", parent_permalink="https://reddit.com/p1", created=1),
+        _row("a2", body="follow-up", parent_id="u1", parent_author="layperson",
+             parent_body="more", parent_parent_id="a1", created=3),
+        _row("a3", body="side reply", parent_id="p1", created=2),
     ]
     roots = build_comment_threads(comments, include_missing_parents=True)
-    md = format_comment_markdown(roots[0], include_parents=True, level=0)
-    assert "*(In reply to" not in md
-    assert md.startswith("- **[layperson]")
-    assert "    question" in md
-    assert "    - **[Bhikkhu_Anigha]" in md
-    assert md.index("question") < md.index("Bhikkhu_Anigha")
+    md = format_comment_markdown(roots[0])
+    # no list nesting at all (LaTeX caps itemize at 4 levels)
+    assert not any(line.startswith(("- ", "    ")) for line in md.splitlines())
+    assert md.startswith("**[layperson]")
+    order = [md.index(x) for x in ("question", "my reply", "more", "follow-up", "side reply")]
+    assert order == sorted(order)
+    # linear chain has no labels; the branch back to p1 gets exactly one
+    assert md.count("in reply to") == 1
+    assert "side reply" in md.split("*(in reply to layperson)*")[1]
+
+    # standard mode: teacher reply to an absent parent still says who it answered
+    std = format_comment_markdown(build_comment_threads(comments)[0])
+    assert "*(in reply to layperson)*" in std
 
 
 def test_synthetic_parent_nests_under_known_grandparent() -> None:
@@ -227,7 +231,7 @@ def main() -> None:
     test_offline_and_shell()
     test_body_to_html_quotes()
     test_synthetic_parents_and_no_quote_prefix()
-    test_full_markdown_nests_parent_not_blockquote()
+    test_full_markdown_is_flat_with_branch_labels()
     test_synthetic_parent_nests_under_known_grandparent()
     print("ok")
 
