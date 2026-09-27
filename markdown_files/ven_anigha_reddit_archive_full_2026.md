@@ -14,6 +14,113 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by boredman_ny _2026-09-15 20:51:34_
+### [Question about "The Arrow" vs. "The Abyss" suttas](https://www.reddit.com/r/HillsideHermitage/comments/1whciy3/question_about_the_arrow_vs_the_abyss_suttas/)
+
+I've been reading about the interpretation of the Arrow Sutta from HH and I'm having some doubts.
+
+So, the interpretation of the Arrow sutta, as far as I understood reading the notes and comments from HH is that:
+
+1. The Arrow sutta is talking about the difference between Sekha vs. Puthujjana, and not an Arahant vs. Puthujjana. 
+2. The Sekha is not strucked by the second arrow, which would be not knowing the escape from the unpleasant feeling by way of the body/kayika.
+3. The Sekha only feels *one feeling*, kayika vedhana. So, for the sekha, there is suffering only on the account of the body: kayika dukkha vedana. They only feel *one* arrow.
+4. The Arahant, however, feels no arrow at all. For them, feelings are not arrows or they don't feel feeling at all? Here, I understand that is something in line of what Nanavira was saying, although, less definitively: "There is, and there is not, contact in the case of the arahat, just as there is, and there is not, consciousness."
+
+If the understanding above is somehow correct, this interpretation is based on two conceptions: kayika vedhana is not physical sensations, although it includes it, kayika dukkha vedana can be even mental suffering, referring to the mano: "The feeling arising from the death of a loved one or from an unpleasant mood would thus also be “bodily”, i.e., pertaining to the five aggregates.", from a note to that sutta. And, since there is no contact for the Arahant (Contacts contact dependent on ground / How should contacts contact a groundless one?)
+
+So, a sekha being tortured, although they probably will feel immense pain from the six senses and even get mentally confused by the immense pain, their citta will not look for sensuality as an escape and get desperate because it cannot find escape, which is the second arrow. Am I thinking correctly?
+
+Now, my maing doubt is regarding this:
+
+> In the same way, bhikkhus, an unlearned ordinary person, when struck by unpleasant feeling, sorrows, wails, laments, beats their breast, and becomes disoriented. They feel two feelings: a bodily one as well as one pertaining to the citta.
+
+> Struck by that same unpleasant feeling, they resist it. *Thus, the underlying tendency to resistance against unpleasant feeling underlies them.*
+
+> Struck by unpleasant feeling, they delight in the pleasure of sensuality. Why is that? Because, bhikkhus, an unlearned ordinary person does not understand any escape from unpleasant feeling apart from the pleasure of sensuality. Since they delight in the pleasure of sensuality, *the underlying tendency to passion for pleasant feeling underlies them.*
+
+> They do not understand as they are the origin, ending, gratification, peril, and escape from those feelings. Since they do not understand as they are the origin, ending, gratification, peril, and escape from those feelings, *the underlying tendency to ignorance with regard to neither-pleasant-nor-unpleasant feeling underlies them.*
+
+So, here, the Buddha talks about that the ariya does not have an underlying tendency to patigha towards it (not aversion?), passion for pleasant feeling (greed?) and ignorance with regard to neutral feeling (delusion?) does not underlying them. How can this does not mean not-greed, not-aversion, not-delusion for a sekha? Which cannot be, since they still have it?
+
+Hope someone can help me clarify these. I would appreciate an article on this sutta detailing these, since it goes against basically how everybody else interprets these.
+
+Edit: Ignore the title of the post. I was gonna use that sutta because the Buddha uses saririka vedāna there in an equivalent manner as kayika vedana here, but I thought unnecessary, and forgot to change the title.
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1whciy3/question_about_the_arrow_vs_the_abyss_suttas/padgxhu/)** _2026-09-17 14:17:13_
+
+> And, since there is no contact for the Arahant (Contacts contact dependent on ground / How should contacts contact a groundless one?) 
+
+Yes.
+
+> So, a sekha being tortured, although they probably will feel immense pain from the six senses and even get mentally confused by the immense pain, their citta will not look for sensuality as an escape and get desperate because it cannot find escape, which is the second arrow. Am I thinking correctly? 
+
+Yes.
+
+> So, here, the Buddha talks about that the ariya does not have an underlying tendency to patigha towards it (not aversion?), passion for pleasant feeling (greed?) and ignorance with regard to neutral feeling (delusion?) does not underlying them. How can this does not mean not-greed, not-aversion, not-delusion for a sekha? Which cannot be, since they still have it? 
+
+It does mean that. As you yourself noted, the Sutta is meant to illustrate the contrast between puthujjana and sekha (and thereby show the former what they have to do to become the latter). The statement "they still have greed, aversion, delusion" takes an Arahant for comparison instead of a puthujjana.
+
+
+---
+
+**r/HillsideHermitage** | Posted by Drevix645 _2026-09-12 17:13:46_
+### [Training Rightly with Discomforts](https://www.reddit.com/r/HillsideHermitage/comments/1wei840/training_rightly_with_discomforts/)
+
+How does one distinguish bearing discomforts, on the level of things mentioned as “Influxes to be abandoned by bearing” in Sabbasava Sutta (MN2), enduring discomfort on the right level, even perhaps introducing them, versus doing so mechanically or not on the right level, like someone with no interest in Dhamma practice who can endure extreme conditions?
+
+My answer would be that it comes down to discerning the mind. Rightly bearing discomforts means rightly bearing the mind experiencing discomforts, because abandoning the craving on the level of the mind is the point, not the discomforts themselves. Anything else is not the right bearing, which anyone can do with enough reason to do so.
+
+I ask this question because I can (seem to) recognize instances where my mind has aversion towards discomforts like being hungry, being cold, etc. On one hand, I can make sense of an idea like “If I intentionally exposed the mind to some more of this (within reason and not exceeding my limits), that would be useful.” But what does it mean from my point of view for it to be useful? So it does not complain, desire against those things does not arise, and this way it can be stronger and more peaceful when adversity comes its way. But then, could this be coming from my own aversion? Do I assume the complaining mind is the problem I need to solve, and not my attitude in regard to the mind with aversion? Do I assume the arising of desire itself is the problem I need to prevent from happening? Maybe that’s not correct, but I still feel somehow this kind of exposure can be useful if one’s intentions are clear.
+
+So I’m curious, what is the correct place from which to do this, if it is correct at all, and not done for obviously wrong reasons like conceit and ego and such?
+
+This question comes from the context of keeping the 8 precepts for the last several months, and wondering if this could be additionally beneficial for my particular challenge, which is being quite concerned about not eating enough food, even at the right time. I’ve had times where whatever mental state felt too overwhelming in tandem with trying to eat a bit less, and would stress eat even though it was in the right time, which isn’t in the spirit of the precept which of course only led to wanting to do that more, though not at the wrong time. So, it made me think about introducing learning to better endure some hunger/not eating as much as I would like to under more stable conditions, but I know these sort of things can become easily taken over by one's external sense of duty too.
+
+Thank you!
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1wei840/training_rightly_with_discomforts/p9rodxz/)** _2026-09-14 15:19:32_
+
+> My answer would be that it comes down to discerning the mind. Rightly bearing discomforts means rightly bearing the mind experiencing discomforts, because abandoning the craving on the level of the mind is the point, not the discomforts themselves. Anything else is not the right bearing, which anyone can do with enough reason to do so. 
+
+Correct. 
+
+> But then, could this be coming from my own aversion? 
+
+It could be. It's usually aversion to the mind's dislikes—to it's nature of experiencing certain things as unpleasant (or pleasant for that matter). Not seeing that this nature is not craving in and of itself, assuming that you're training the mind just because something is unpleasant and you're enduring it, is how you fall into self-mortification.
+
+It's not wrong to take on such restraints if you make sure the effort doesn't become linked to a specific object or situation but that, as you said, you always take them on chiefly in relation to the mind. So you're not eating less because you associate that with greater diligence and effort, but because you see that *for you, there and then,* it goes against the grain of *this* craving. There is no inference or hope involved.
+
+Edit: fixed typo
+
+**[Drevix645](https://www.reddit.com/r/HillsideHermitage/comments/1wei840/training_rightly_with_discomforts/p9y0uvs/)**
+
+Thank you for your reply Bhante.
+
+  
+It seems to me the main theme is non-blindness. Seeing (and recollecting) the clear connection of why whatever I'm taking on is valuable for strengthening the mind. In my case, I clearly know I find some measure of comfort/safety in eating more, and I know eating less can increase the pressure alongside other things, so it feels to me there's work to be done there, balancing between what I can manage and what would be too much.
+
+  
+It sounds also like you can't make a blanket rule out of such things - I will only eat so much and that will always be what I do, because you said "for you, there and then, it goes against the grain of this craving." So it could very well be on one occasion, eating less goes against the grain. On another occasion, eating more could be against the grain. So I guess one could estimate some general baseline of eating enough just to sustain one through the next day, but beyond that it sounds like something that just demands case-by-case judgement.
+
+  
+On the subject of balancing what one takes on, as far as things one is fairly confident would increase the experience of pressure, do you have any advice on the "pacing" of that so to speak? On the one hand, taking on too much too soon would lead to breaking one's baseline and having to build that back up. On the other hand, one doesn't have forever to pursue this training. I've found it hard to know the right balance of this. I know it must be to some extent trial and error, and I lean on the side of caution due to my previous tendencies of yo-yoing between taking on lots at once and then backsliding, but I'd be curious to hear your perspective too.
+
+  
+Thank you!
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1wei840/training_rightly_with_discomforts/pada5u9/)** _2026-09-17 13:46:54_
+
+> So I guess one could estimate some general baseline of eating enough just to sustain one through the next day, but beyond that it sounds like something that just demands case-by-case judgement.
+
+Yes.
+
+> I've found it hard to know the right balance of this. I know it must be to some extent trial and error, and I lean on the side of caution due to my previous tendencies of yo-yoing between taking on lots at once and then backsliding, but I'd be curious to hear your perspective too.
+
+In this example, see if there is anything in regard to the precepts and sense restraint that you're still stumbling with, and fix that before you start clamping down on food consumption. Do you still find yourself close to breaking precepts and having to hold yourself back? If not, then are your thoughts and intentions fully restrained in regard to coarser forms of sensuality and ill will? If not then leave the food issue for later.
+
+
+---
+
 **r/HillsideHermitage** | Posted by upasakatrainee _2026-09-03 16:33:25_
 ### [Question on Recent Video "Is Stream Entry an Event"](https://www.reddit.com/r/HillsideHermitage/comments/1w6cg5g/question_on_recent_video_is_stream_entry_an_event/)
 
