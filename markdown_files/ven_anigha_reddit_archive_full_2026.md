@@ -14,6 +14,70 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by Pinglite _2026-09-30 07:07:40_
+### [Is progress possible while suicidal?](https://www.reddit.com/r/HillsideHermitage/comments/1wty9gm/is_progress_possible_while_suicidal/)
+
+For the benefit of anyone who takes the time to read this, know that I'm not in some temporary depressive state in need of immediate encouragement to stay alive.
+
+It's not my intention for anyone to feel pressured or responsible for my life so please be at ease.
+
+# My Current Stage:
+
+I've taken on the seven precepts, starting around two months ago.
+
+I have currently limited myself to two mealtimes on the weekdays, eating only once on both days of the weekend. I have had some issues around indulgence in food (it's still within my allotted meal-time but I feel urged to eat more to extend the duration) which have sprung up and I still sometimes give in to.
+
+Additionally I replaced both my old bed with a lower one with a firm mattress, and my old overly comfortable pillow with a basic one.
+
+I had friends I would spend time with discussing all sorts of unbeneficial topics whom I've now limited contact with to being about important life events only.
+
+I am living at home with one family member and monitor my participation in conversation to avoid the 3 types of wrong speech, and I try to minimize talk unrelated to necessary duties otherwise.
+
+The hardest jump for me was with entertainment. While I don't see the danger in it, I will not be going back, since I've recognized that it's value for me was in forgetting that I exist without ever actually helping me.
+
+# Problem:
+
+I've been suicidal most of my life, do not recall a time beforehand. I'll exclude further detail since I don't believe it'd be helpful.
+
+If it's needed I have no issue elaborating.
+
+Basically, I've always viewed suicide as an option, and if it weren't for entertainment I would have taken it by now. Now that I'm going to be avoiding the aforementioned distractions for the rest of my life my only reason to stay alive is to see if this practice works.
+
+I'm familiar enough with the content talks to have heard the point with regard to sensuality that you shouldn't rely on progress first to justify giving it up. I wonder if that applies in this situation?
+
+If I am open to the possibility of committing suicide, does that in and of itself prevent the kind of progress that would encourage me to value continued practice over suicide?
+
+While that last question was in general, more specifically does openness to suicide constitute a fault regarding the precept on abstaining from taking life? Would I be unable to understand what sense-restraint is until I've internally abandoned the possibility of suicide?
+
+Assuming in advance the worst-case where I'm guaranteed to make no progress until suicide is abandoned, how would I go about abandoning it? The uncertainty regarding the outcome is why I became interested in the Dhamma given that supposedly verifiable certainty in this life is possible.
+
+It's a direct upgrade for the goal of ending suffering permanently since if true it provides insurance against any after-life shenanigans.
+
+However, my taking on of this practice is conditioned upon the idea that I'll see for myself that it's worthwhile, without which my response to possibility of future suffering would be suicide.
+
+I'll cease my jabbering there.
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1wty9gm/is_progress_possible_while_suicidal/pdfckoz/)** _2026-10-02 15:06:55_
+
+> I'm familiar enough with the content talks to have heard the point with regard to sensuality that you shouldn't rely on progress first to justify giving it up. I wonder if that applies in this situation?
+
+Yes, it applies to whatever kind of emotional dependence you start with.
+
+> If I am open to the possibility of committing suicide, does that in and of itself prevent the kind of progress that would encourage me to value continued practice over suicide? 
+
+Having a mind that inclines towards suicide is not by itself the obstruction. It's the extent to which you don't feel an acute need to overcome that inclination, i.e., that you justify it or downplay it (and the same applies for sensuality).
+
+> While that last question was in general, more specifically does openness to suicide constitute a fault regarding the precept on abstaining from taking life?
+
+No. It's not a precept breach strictly speaking, but the result is similar. Delighting in suicide is a coping mechanism in regard to suffering which you'll need to give up to be able to realize the true escape from it.
+
+> Assuming in advance the worst-case where I'm guaranteed to make no progress until suicide is abandoned, how would I go about abandoning it? 
+
+Same as with sensuality: by enduring the pull of the mind. It's not about forcing the mind to stop wanting it; it's about not letting it have what it wants even as a hypothetical. So if you keep the context that you will never commit suicide no matter what, never welcoming that possibility even in thought, the mind will let go of it eventually.
+
+
+---
+
 **r/HillsideHermitage** | Posted by boredman_ny _2026-09-15 20:51:34_
 ### [Question about "The Arrow" vs. "The Abyss" suttas](https://www.reddit.com/r/HillsideHermitage/comments/1whciy3/question_about_the_arrow_vs_the_abyss_suttas/)
 
