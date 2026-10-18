@@ -14,6 +14,179 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by craveminerals _2026-10-14 10:27:28_
+### [The difference between calming and avoiding](https://www.reddit.com/r/HillsideHermitage/comments/1x5nofj/the_difference_between_calming_and_avoiding/)
+
+Sister Medhini wrote in a [comment](https://www.reddit.com/r/HillsideHermitage/s/kXASi9G048):
+
+*“It’s not any relief of the pain that should be avoided; it’s the attitude and action of resisting, avoiding and hiding from the pain; OR that of actively maintaining it in self-punishment.”*
+
+She also explained that it makes a difference whether relief comes from hiding from the source of the pain or admitting it, and that how something feels is not a reference for its rightness or wrongness.
+
+I can see how relieving distress by confessing wrongdoing is not an issue, as she mentioned in her example, but I’ve wondered how one might apply what she said to relaxation.
+
+Let’s say the mind is ungrateful and unappreciative in objectively good circumstances, or pessimistic and nihilistic, feeling that everything is pointless and in vain. One might try to shift the perspective to relieve the mind of this state, e.g., think of the good people do, challenge one’s underlying assumptions, or take a longer look at things one takes for granted.
+
+It seems that actions such as these need not fuel craving, since one is not necessarily trying to “replace” the mind with something else, but rather skilfully seeing how certain actions might unburden it and lighten it up.
+
+But what about relaxation? Let’s say the mind is anxious and tense. One might sit and rest, breathe, and eventually unwind, bringing relief from that unpleasant feeling.
+
+This outward action may be done out of craving, or it might not be, correct? If so, **what distinguishes skilful relaxation from using relaxation or a meditation technique to escape unpleasant feelings?**
+
+Is it that the mind might demand to be calm and undisturbed all the time, and that one might mistake the calm resulting from deliberate relaxation as a goal in itself? That, when struck by anxiety or unease, one is averse to it and tries to escape it, rather than letting it remain “in front of you” while calming down in the face of it?
+
+From what I’ve gathered, one danger of seeking calm no matter what is that it would spoil and weaken the mind by avoiding all situations, thoughts and contemplations that would make it anxious. One cannot stay in a “safe bubble” indefinitely and expect the mind to grow.
+
+If there is something I’m missing, or probably should be aware of, I would appreciate your feedback.
+
+Thank you in advance!
+
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1x5nofj/the_difference_between_calming_and_avoiding/ph1tlj5/)** _2026-10-16 05:07:00_
+
+> Let’s say the mind is ungrateful and unappreciative in objectively good circumstances, or pessimistic and nihilistic, feeling that everything is pointless and in vain. One might try to shift the perspective to relieve the mind of this state, e.g., think of the good people do, challenge one’s underlying assumptions, or take a longer look at things one takes for granted. 
+
+This would definitely be fueling craving. As would sitting and breathing to try and relax and relieve the anxiety. 
+
+> what distinguishes skilful relaxation from using relaxation or a meditation technique to escape unpleasant feelings?
+
+If the starting point is aversion to the state of mind, then whatever you do will be trying to escape unpleasant feelings, no matter how skilfully you try to go about it.  
+
+What I was trying to explain in that comment was simply that 'I must not act out of aversion' is not the same as 'I must never experience relief of any kind.' How you feel is not a measure of what you should do. 
+
+So if in the examples you gave, the mind is irrational, ungrateful, pessimistic etc, and you have the idea or impulse do something about it: it's not like you must not have that impulse, but you must question that as well. "Regardless of whatever ideas I have and theories I have about it, why do I really want to do this right here and now? Why do I assume this is a problem?" 
+
+And the same applies to WHATEVER you might be assuming you should do in regard to a state of mind that you assume is an issue for whatever reason. However right you think it is, you should still question your own starting point for it. 
+
+Recognising the resistance underlying that very impulse to 'lighten or unburden' the state of mind is how you contain it properly without doing anything extra. And that is ironically where the actual 'relief' is, but in order to arrive at that, you have to refrain from automatically seeking relief where you expect it to be.
+
+**[craveminerals](https://www.reddit.com/r/HillsideHermitage/comments/1x5nofj/the_difference_between_calming_and_avoiding/ph2yvwf/)**
+
+Thank you Sister!  
+I'm wondering if you can clarify some things for me and offer your perspective- I hope you don't mind me asking about several things at once.
+
+So would you say that if my mind is stressed out and wants to sit and relax, I should simply be aware of that impulse and refrain from following it, at least for the time being, if the motivation is to gain relief?
+
+I'm having difficulty reconciling this approach with a [comment I've found from Bhante Anigha](https://www.reddit.com/r/HillsideHermitage/s/XeaIGvYVF6), in response to someone who thought it was safer to avoid acting on even the slightest impulse:
+
+*“The things that have to be categorically avoided are not the ‘tiny pushes.’ They are the big pushes that usurp your perspective, and preventing that is what the precepts are for \[...\] So learn to stay within the tiny pushes and to recognize when a push starts to grow past a certain point. And you'll need to learn for yourself what that ‘point’ is through repeated practice; it's not something you can recognize through mere reasoning.”*
+
+How is following the ''tiny push'' to read about Dhamma, for example, different from that of following the tiny push to sit quietly with a broad awareness, including the body and breath? On paper, one could say that reading about Dhamma, contemplating the Buddha's qualities, or going for a walk involves aversion to feeling uninspired or dull.
+
+There are also two Suttas that I was hoping you could comment on.  
+HH emphasizes the work that must precede proper anapanasati, but hypothetically let's say that's covered. In [SN 54.9](https://suttacentral.net/sn54.9/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin), it's said that *''it disperses and settles unskillful qualities on the spot whenever they arise.”* How should one understand this in relation to the idea that seeking relief from an unpleasant state of mind involves aversion?
+
+And in [MN 19](https://suttacentral.net/mn19/en/bodhi?lang=en&reference=none&highlight=false), the Bodhisatta evaluated thoughts of renunciation, good will and harmlessness, and he saw no danger in thinking those thoughts even all night and day (but that thinking excessively would be tiresome and stressful).  
+Would you say the key point here is that one must not make relief from pain the purpose or requirement of this thinking and pondering, whatever it may be about? Even if that may come as a natural result.
+
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1x5nofj/the_difference_between_calming_and_avoiding/ph5ekca/)** _2026-10-16 17:36:10_
+
+I would need to clarify the question. Correct me if I am wrong:
+
+1. It sounds to you like I am saying one should never act on the slightest impulse, especially those involving seeking relief. Which obviously would seem to conflict with other advice you've heard. 
+
+2. The Bodhisatta practiced actively thinking thoughts of renunciation, ill-will and harmlessness, and you want to know how that is different from the examples you gave in your post. 
+
+Is this basically what you are asking? 
+
+3. And as for the part about anapanasati:
+
+> In SN 54.9, it's said that ''it disperses and settles unskillful qualities on the spot whenever they arise.” How should one understand this in relation to the idea that seeking relief from an unpleasant state of mind involves aversion?
+
+I don't quite understand the issue about it. There's nothing in the sutta about anapanasati getting rid of unpleasant states of mind and providing relief from them. So I don't see how it would conflict in any way with what I said.
+
+**[craveminerals](https://www.reddit.com/r/HillsideHermitage/comments/1x5nofj/the_difference_between_calming_and_avoiding/ph6pzdj/)**
+
+Excuse me— I’ll try to be more clear.
+
+1. You said it would fuel craving if one were to sit and breathe to try and relax and relieve anxiety, but I wonder how that action would be different, in terms of craving, from other (seemingly) neutral things one may do—out of a ‘tiny push’. Couldn’t it be equally harmless, even if relief is part of the motivation?
+2. How might we distinguish between attempts to ”shift the perspective” out of aversion from the active thinking and pondering the Bodhisatta did in MN 19? Examples aside from what I mentioned in the post might be: trying to see “the bigger picture”, contemplations of devas, saints or inspiring qualities in others.
+3. Let’s drop this one, I had a surface-level, vague reading of SN 54.9 but nevertheless thought it was relevant. It says akusala/unwholesome states are dispersed, but that says nothing about whether they are unpleasant, or whether the practice is undertaken to relieve oneself of them.
+
+A better example would be SN 46.53 which says: *”…when the mind becomes excited, it is timely to develop the enlightenment factor of tranquillity, the enlightenment factor of concentration, and the enlightenment factor of equanimity. For what reason? Because the mind is excited, bhikkhus, and it is easy to calm it down with those things.”*
+
+At first glance, this can be read as ‘countering’ the present state of mind, but surely this is done without aversion in this case. The question is, how and when is that possible. (From what I’ve gathered from HH, a significant familiarity with the citta is required). Ultimately, I’m trying to understand how there can be ”countering” without aversion- perhaps you can help me with that.
+
+Thank you Sister for taking the time to answer my questions.
+
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1x5nofj/the_difference_between_calming_and_avoiding/phaexhl/)** _2026-10-17 11:55:07_
+
+> You said it would fuel craving if one were to sit and breathe to try and relax and relieve anxiety, but I wonder how that action would be different, in terms of craving, from other (seemingly) neutral things one may do—out of a ‘tiny push’. Couldn’t it be equally harmless, even if relief is part of the motivation?
+
+First, you quite clearly expressed that the relaxation you are referring to is about actively trying to change or remove a state of mind because it is bothering you. That is not an irrelevant thing done out of a 'tiny push'. 
+
+Second, the specific actions you were referring to are not just a plainly mundane thing like going for a walk. They are things that you are explicitly connecting with practice of the dhamma ("isn't this sutta saying...."). 
+
+So the problem, and what I am saying, is not that you must be able from the start to completely abstain from any attempt to manage suffering or 'relax'. 
+The problem is in taking any such management as an acceptable or even 'right' thing to do. Which is what happens when people start confusing the management with practice of the dhamma. 
+
+If you are thinking like that, you can't be maintaining the criteria that *you shouldn't have to do anything* on account of arisen pain, and that's the most important criteria that should never be compromised. So: 
+
+> 
+I’m trying to understand how there can be ”countering” without aversion
+
+Unless you have first learned to fulfill the criteria above, there can't. Otherwise, any idea of "countering" you have is bound to be affected with aversion. So first and foremost, you need to keep that criteria in mind and make it a priority to recognise the aversion for yourself.
+
+Said differently, the closest thing to countering an arisen pressuring state of mind that you can at least aim tp practice right from the start, is simply not acting out of it. If you don't give in to it when the pressure is to give in, and also don't try to get rid of it when there's the pressure to get rid of it, that is directly unfueling (i.e. countering) the actual problem and bypassing the symptoms. But it doesn't necessarily feel right. 
+
+> How might we distinguish between attempts to ”shift the perspective” out of aversion from the active thinking and pondering the Bodhisatta did in MN 19? Examples aside from what I mentioned in the post might be: trying to see “the bigger picture”, contemplations of devas, saints or inspiring qualities in others.
+
+His thinking and pondering was aimed at what is actually kusala in principle. If you were to want to emulate this practice, you can't just take up any form of thinking that you assume is good.  Reflect on the value of not acting out on the level described above. Think about the criteria of not having to do anything, what it means and what it would feel like. Ask yourself whether your values and day to day actions are really aligned with it. Find places where you see you're not really 'on the same page' as the instruction you're following, and try and address that by questioning yourself further. 
+
+Note that what all these lines of thinking have in common is that they will most probably NOT initially make you feel calmer and happier, but rather the opposite. So again, how you feel is not a measure of what's good or bad.
+
+**[gradua1_training](https://www.reddit.com/r/HillsideHermitage/comments/1x5nofj/the_difference_between_calming_and_avoiding/phbqjv4/)**
+
+Hello Ayye, so to summarize. Would it be correct to say that the problem isn't necessarily doing things that provide relief (assuming you're not breaking the precepts), but it is when that action is being done in order to change/get rid of the state of mind rather than to calm oneself *within* the agitating state of mind.
+
+With the former action being underlined by a view that agitating states of mind should not be there, thus need to be done away with. While the latter might be able to be done without assuming that one is justified in not needing to endure their mind for what it is. 
+
+So for example, a meditation technique is more than a 'tiny push' since the activity is done with the implicit or explicit goal to achieve a certain state of mind at the expense of one's current state of mind. Fueling the notions that its the state of mind that is the issue, rather than one's assumption that they ought to feel good/not feel bad.
+
+Meanwhile, correct endurance differs in that one is learning how to calm down within the pain, by undermining the attitude that something needs to be done with regard to the pain. So one then needs to learn to act, without their actions being underlain by the intention to avoid the need to endure whatever has arisen.
+
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1x5nofj/the_difference_between_calming_and_avoiding/phcvsgj/)** _2026-10-17 19:05:35_
+
+That's basically correct. It's just quite important to remember that any kind of
+ correct 'calming down within the pain' can only happen WITHIN the thoroughly-trained capacity to not-act-out-of-nor-get-rid-of-the-pain. I.e. to be unmoved by it. The best kind of relief is not *needing* to do anything to get relief.  
+
+The 'calming' is not a different practice to that, it's an extention and refinement of the same principle, just applied to the citta that is by then even more clearly-seen and understood. You cannot train the two side by side from the start.
+
+
+---
+
+**r/HillsideHermitage** | Posted by Majestic_Junket_8208 _2026-10-12 18:38:27_
+### [Celibacy for a lay person makes sense?](https://www.reddit.com/r/HillsideHermitage/comments/1x4a1h2/celibacy_for_a_lay_person_makes_sense/)
+
+Is it possible for someone who wishes to live a better and more wholesome life (Committing to the 5 precepts) to overcome the sexual pull and the craving towards love/romantic partnership through celibacy even thought they still choose to live a normal life, have worldly goals and delight in the company of family/friends? 
+
+The goal being to live a calmer and more peaceful life where one does not rely on having a partner for their own well being, living alone and practicing moderation towards sense desires.
+
+I do question this because the way i understood the teaching so far, as long as one does not renounce the world, craving will always be there, so does that mean that if one does not renounce the whole world he will be always craving towards everything, including things he did actually give up (such as sex and love) no matter his efforts? Or there will be craving towards only the parts where the confinement of the mind is not developed, in this case the delight in company and entertainment. 
+
+Does craving diminishes towards specific things or its all or nothing?
+
+**[Sister_Medhini](https://www.reddit.com/r/HillsideHermitage/comments/1x4a1h2/celibacy_for_a_lay_person_makes_sense/pghq6d5/)** _2026-10-13 14:51:53_
+
+Fully overcoming sexuality is not possible without renouncing sensuality as a whole. But taming it to a good degree through living a celibate life is not an unreasonable goal.  
+
+However, you should take into consideration that this will not work in the long run without committing to sense restraint as well - i.e., you would need to be prepared to abstain, not only from sexual activities and relationships, but engaging with things that would be conducive to sending the mind in the direction of those desires. 
+
+It's this aspect of sense restraint, rather than celibacy per se, which will make it  difficult to live a 'normal life' at the same time. It means, at the very least, a serious amount of care and limitation regarding the 
+
+> delight in the company of family/friends 
+
+As well as the content and entertainment you choose to engage with. E
+ntertainment involving romance and sexuality obviously needs to be avoided, as well as any personal interaction with members of the opposite sex beyond practical necessity. 
+
+Without a proper guard for your senses, it's only a matter of time before your mind changes its mind, and you will be dragged with it. 
+
+So practically, all this would have to entail a big change in one's lifestyle as a whole. There will frequently be times when friendships and other values will come into conflict with upholding this goal, and you'll have to ask yourself which you value more. It means being willing to go through quite a lot of internal conflict and withstanding a lot of pressure from inside and out. 
+
+But if you're willing to take that on, and you pair it with frequent reflection on the dangers of the desires you want to overcome, it would indeed result in the strength of desires and wildness of the mind diminishing to quite a considerable degree, and being more peaceful and more self-contained to that extent.
+
+
+---
+
 **r/HillsideHermitage** | Posted by Pinglite _2026-09-30 07:07:40_
 ### [Is progress possible while suicidal?](https://www.reddit.com/r/HillsideHermitage/comments/1wty9gm/is_progress_possible_while_suicidal/)
 
