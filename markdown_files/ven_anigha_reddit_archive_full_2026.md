@@ -14,6 +14,58 @@ toc-depth: 2
 
 # Ven Anīgha Reddit Archive 2026
 
+**r/HillsideHermitage** | Posted by FeelingTemper _2026-10-25 18:56:37_
+### [What is the correct view of "finish line" for establishing virtue?](https://www.reddit.com/r/HillsideHermitage/comments/1xfakil/what_is_the_correct_view_of_finish_line_for/)
+
+Is it keeping the 8 precepts in body, speech, and mind while contemplating and self-checking until you just become indifferent to the pressure of the mind, or until there is no pressure at all?
+
+Edit:   
+To be precise, I'm trying to figure out which of these two scenarios is the actual sign that virtue is established:
+
+You become totally indifferent to the pressure but it's still there.
+
+Or
+
+The pressure itself completely disappears. The mind just stops pressuring you entirely.
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1xfakil/what_is_the_correct_view_of_finish_line_for/19rrptaiqn8bp/)** _2026-10-28 06:59:27_
+
+It will be one or the other in different scenarios. What matters is that you no longer actually break the precepts in either case.
+
+
+---
+
+**r/HillsideHermitage** | Posted by titikshakshanti _2026-10-25 16:01:52_
+### [Weak Fence](https://www.reddit.com/r/HillsideHermitage/comments/1xf64ap/weak_fence/)
+
+There are two precepts where my fence is weak: the precept against entertainment and the precept against harsh speech. I do not usually break both. I keep both with a sense of duty as I do not clearly "see" danger in violating them. I see it intellectually, but when the pressure to break them is strong or persistent, I give in. I do not examine my intentions when I take actions that are not direct violations but are driven by ill will or distraction. I do not stop or correct myself when, after harboring ill will mentally or verbally (speech that is not outright harsh on the surface) or distracting myself with something other than that is strictly entertainment (like non-important work or learning about dhamma or other skills), I start to become self-aware of my motivations. Sometimes, the underlying "activation" of ill will or distraction can continue for days when I am fueling the fire in subtle ways that are not fully clear to me. 
+
+I am finding this pattern similar to the days when I was struggling with precept against non-celibacy. I am trying to understand this issue as it has unfolded over the past few months. And the comparison between these two precepts and the precept against non-celibacy is increasingly making sense. I am sharing this comparison here as I am seeing that it is really helping me and might be helpful to others as well. Also, it would be helpful to get feedback on whether my approach has any issues I may be overlooking. 
+
+You do not know the clear boundary of what bodily, verbal, and mental actions are against celibacy unless you start stopping yourself from engaging in any such action at any level as soon as you become aware of it. By not stopping yourself, you are actively blurring the line of distinction. By stopping yourself at every detection, restraining that unwholesome action, and enduring the underlying pressure, you understand the sensual desire beneath it. That understanding helps you discern more unwholesome actions than you could before the restraint. More restraint reveals the more cravings that were too subtle to notice before, and would remain subtle forever if you didn’t restrain. 
+
+I need to apply the above approach to ill-will and distraction/restlessness. Just stopping the obvious forms of harsh speech at the verbal level and avoiding gross forms of entertainment is not sufficient. I will understand my ill-will and distraction-infected mind to the extent I am restraining from the slightest violations I detect within my current understanding. Ignoring a violation blurs that understanding. I have been blurring that understanding by ignoring "small" or "safe" violations, justifying using the fact that they are within precepts, or that they are part of my habits, or that they are difficult to stop under pressure, or that stopping them doesn't matter much, as I do not yet see danger in them, etc. 
+
+With this realization, I am saying no to such actions more often and refraining from habitual, impulsive actions that lead to ill will and distraction. I still give in to many such actions occasionally. I will need to confess them, see them as faults, and restrain them in the future.
+
+When I stopped acting out of ill will and stopped my harsh speech as soon as I became aware, and even apologized to concerned people for the violations I had already committed, my mind became more attuned to recognizing such violations early, sometimes even at the mental planning stage. I could use this self-awareness to correct my speech when I actually spoke, and it saved me from much of the trouble my unwholesome speech would have caused if I had acted on my first impulses. 
+
+I still face situations where I habitually give in to harsh speech and do not even notice it as harsh speech at the moment. So, there is a lot of work to do in repairing the fence. But a major portion of the ill-will that would drive harsh speech is now being seen and contained.
+
+On the entertainment front, I still keep myself busy with things like work and study, even when it is driven by pressure to avoid self-awareness, something that one has to face in solitude. So, I need to work more on this precept. 
+
+Any feedback is welcome.
+
+
+**[Bhikkhu_Anigha](https://www.reddit.com/r/HillsideHermitage/comments/1xf64ap/weak_fence/19rrq410saqw0/)** _2026-10-28 07:06:08_
+
+> You do not know the clear boundary of what bodily, verbal, and mental actions are against celibacy unless you start stopping yourself from engaging in any such action at any level as soon as you become aware of it. By not stopping yourself, you are actively blurring the line of distinction. By stopping yourself at every detection, restraining that unwholesome action, and enduring the underlying pressure, you understand the sensual desire beneath it. That understanding helps you discern more unwholesome actions than you could before the restraint. More restraint reveals the more cravings that were too subtle to notice before, and would remain subtle forever if you didn’t restrain. 
+
+Yes, that is true, but it's always worth emphasizing that "becoming aware of it" means noticing one's actual citta experiencing an impulse in that moment. One has to keep checking in that "organic" way every time and never let the restraint become mechanical, even if it's the millionth instance of the same pressure. That's the  attitude that the simile of the cook sutta illustrates.
+
+
+---
+
 **r/HillsideHermitage** | Posted by craveminerals _2026-10-14 10:27:28_
 ### [The difference between calming and avoiding](https://www.reddit.com/r/HillsideHermitage/comments/1x5nofj/the_difference_between_calming_and_avoiding/)
 
